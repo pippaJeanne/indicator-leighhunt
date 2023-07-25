@@ -29,10 +29,10 @@
                     <l>Now this, now that, he tasteth tenderly.<note type="citation"><bibl><ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon"/></bibl></note></l>
                     <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                 </epigraph>
-                <head type="subtitle">NO. XX.—<date when="1820-02-23" cert="high">WEDNESDAY, FEBRUARY 23rd, 1820</date>.</head>
+                <head type="subtitle">No. XX.—<date when="1820-02-23" cert="high">WEDNESDAY, FEBRUARY 23rd, 1820</date>.</head>
                 <head type="header">RONALD OF THE PERFECT HAND.</head>
                 <p>[The following tale is founded upon a tradition in <persName key="Anne Grant" ref="http://www.wikidata.org/entity/Q4768392" cert="high" type="real">Mrs. Grant</persName>'s <title key="Essays on the Superstitions of the Highlanders of Scotland" ref="https://archive.org/details/essaysonsuperst00grangoog/page/n12/mode/2up" level="s">Superstitions of the Highlands</title>. It was originally intended to be written in verse; which will account for it's present appearance.]</p>
-                <q>
+                <lg>
                     <l>THE stern old shepherd of the air,</l>
                     <l>The spirit of the whistling hair,</l>
                     <l>The wind, has risen drearily</l>
@@ -45,7 +45,9 @@
                     <l>That gather up as drearily,</l>
                     <l>And watch with solemn-visaged eyes</l>
                     <l>Those mightier movers in the skies.</l>
-                    <l />
+                </lg>
+                <lb />
+                <lg>
                     <l>Tis evening quick;—tis night:—the rain</l>
                     <l>Is sowing wide the fruitless main,</l>
                     <l>Thick, thick;–no sight remains the while</l>
@@ -76,7 +78,9 @@
                     <l>And every man, except those four,</l>
                     <l>Was drenched and driving, far from home,</l>
                     <l>dead and swift, through the Northern foam.</l>
-                    <l />
+                </lg>
+                <lb />
+                <lg>
                     <l>Four are they, who wearily</l>
                     <l>Have drunk of toil two days at sea;</l>
                     <l>Duth Maruno, steady and dark,</l>
@@ -85,7 +89,9 @@
                     <l>Like a torrent from steep to steep;</l>
                     <l>And he, the greatest of that great band,</l>
                     <l>Ronald of the Perfect Hand.</l>
-                    <l />
+                </lg>
+                <lb />
+                <lg>
                     <l>Dumbly strain they for the shore,</l>
                     <l>Foot to board, and grasp on oar,</l>
                     <l>The billows, panting in the wind,</l>
@@ -98,7 +104,9 @@
                     <l>Up and down without an ending,</l>
                     <l>Like ghostly things that could not cease</l>
                     <l>To row among those savages.</l>
-                    <l />
+                </lg>
+                <lb />
+                <lg>
                     <l>Ronald of the Perfect Hand</l>
                     <l>Has rowed the most of all that band;</l>
                     <l>And now he's resting for a space</l>
@@ -138,7 +146,8 @@
                     <l>As if the boat could feel command,</l>
                     <l>Thrilled with a fierce and forward motion,</l>
                     <l>As though 'twould shoot it through the ocean.</l>
-                </q>
+                </lg>
+                <lb />
                 <p>"Some spirit," exclaimed Duth Maruno, "must pursue us, and 
                 perpetually urge the boat out of it's way, or we must have arrived 
                 by this time at Inistore."*<note>The old name for the Orkneys.</note> Ronald took him at his owrd, and turn-
