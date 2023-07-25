@@ -2,7 +2,8 @@ import re
 
 def convert_double_spaces(line):
     # Use regular expressions to find and replace double spaces with single spaces
-    converted_line = re.sub(r'\s{2,}', ' ', line)
+    # Match spaces between non-linebreak characters (using negative lookahead and lookbehind)
+    converted_line = re.sub(r'(?<!\n)\s{2,}(?!\n)', ' ', line)
     return converted_line
 
 def convert_file_double_spaces(input_file, output_file):
@@ -12,8 +13,10 @@ def convert_file_double_spaces(input_file, output_file):
             for line in input_file:
                 # Convert double spaces to single spaces for each line
                 converted_line = convert_double_spaces(line)
-                # Write the converted line to the output file
+                # Write the converted line to the output file, preserving line breaks
                 output_file.write(converted_line)
+                # Add a newline character to preserve line breaks
+                output_file.write('\n')
 
 # Example usage
 input_file = 'raw_double.txt'
