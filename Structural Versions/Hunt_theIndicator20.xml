@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>THE INDICATOR.</title>
+                <title type="sub">No. XX.--WEDNESDAY, FEBRUARY 23rd, 1820.</title>
+                <author>Leigh Hunt</author>
+            </titleStmt>
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+            <sourceDesc>
+                <p />
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="chapter" n="20">
+                <pb n="153" />
+                <head type="title">THE INDICATOR.</head>
+                <epigraph>
+                    <l>There he arriving round about doth flie</l>
+                    <l>And takes survey with busie, curious eye:</l>
+                    <l>Now this, now that, he tasteth tenderly.<note type="citation">
+                            <bibl>
+                                <ref
+                                    target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon" />
+                            </bibl>
+                        </note></l>
+                    <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                            cert="high" type="real">SPENSER</persName>.</l>
+                </epigraph>
+                <head type="subtitle">No. XX.—<date when="1820-02-23" cert="high">WEDNESDAY,
+                    FEBRUARY 23rd, 1820</date>.</head>
+                <head type="header">RONALD OF THE PERFECT HAND.</head>
+                <p>[The following tale is founded upon a tradition in <persName key="Anne Grant"
+                        ref="http://www.wikidata.org/entity/Q4768392" cert="high" type="real">Mrs.
+                    Grant</persName>'s <title
+                        key="Essays on the Superstitions of the Highlanders of Scotland"
+                        ref="https://archive.org/details/essaysonsuperst00grangoog/page/n12/mode/2up"
+                        level="s">Superstitions of the Highlands</title>. It was originally intended
+                    to be written in verse; which will account for it's present appearance.]</p>
+                <lg>
+                    <l>THE stern old shepherd of the air,</l>
+                    <l>The spirit of the whistling hair,</l>
+                    <l>The wind, has risen drearily</l>
+                    <l>In the Northern evening sea,</l>
+                    <l>And is piping long and loud</l>
+                    <l>To many a heavy upcoming cloud,—</l>
+                    <l>Upcoming heavy in many a row,</l>
+                    <l>Like the unwieldy droves below</l>
+                    <l>Of seals, and horses of the sea,</l>
+                    <l>That gather up as drearily,</l>
+                    <l>And watch with solemn-visaged eyes</l>
+                    <l>Those mightier movers in the skies.</l>
+                </lg>
+                <lb />
+                <lg>
+                    <l>Tis evening quick;—tis night:—the rain</l>
+                    <l>Is sowing wide the fruitless main,</l>
+                    <l>Thick, thick;–no sight remains the while</l>
+                    <l>From the farthest Orkney isle,</l>
+                    <l>No sight to sea-horse, or to seer,</l>
+                    <l>But of a little pallid sail,</l>
+                    <l>That seems as if twould struggle near,</l>
+                    <l>And then as if it's pinion pale</l>
+                    <l>Gave up the battle to the gale.</l>
+                    <l>Four chiefs there are of special note,</l>
+                    <l>Labouring in that earnest boat;</l>
+                    <l>Four Orkney chiefs, that yesterday</l>
+                    <l>Coming in their pride away</l>
+                    <l>From the smote Norwegian king,</l>
+                    <l>Led their war-boats triumphing</l>
+                    <l>Straight along the golden line</l>
+                    <l>Made by moring's eye divine.</l>
+                    <l>Stately came they, one by one,</l>
+                    <l>Every sail beneath the sun,</l>
+                    <pb n="154" />
+                    <l>As if he their admiral were</l>
+                    <l>Looking down from the lofty air,</l>
+                    <l>Stately, stately through the gold.–</l>
+                    <l>But before that day was done,</l>
+                    <l>Lo, his eye grew vexed and cold;</l>
+                    <l>And every boat, except that one,</l>
+                    <l>A tempest trampled in it's roar;</l>
+                    <l>And every man, except those four,</l>
+                    <l>Was drenched and driving, far from home,</l>
+                    <l>dead and swift, through the Northern foam.</l>
+                </lg>
+                <lb />
+                <lg>
+                    <l>Four are they, who wearily</l>
+                    <l>Have drunk of toil two days at sea;</l>
+                    <l>Duth Maruno, steady and dark,</l>
+                    <l>Cormar, Soul of the Winged Bark;</l>
+                    <l>And bright Clan Alpin, who could leap</l>
+                    <l>Like a torrent from steep to steep;</l>
+                    <l>And he, the greatest of that great band,</l>
+                    <l>Ronald of the Perfect Hand.</l>
+                </lg>
+                <lb />
+                <lg>
+                    <l>Dumbly strain they for the shore,</l>
+                    <l>Foot to board, and grasp on oar,</l>
+                    <l>The billows, panting in the wind,</l>
+                    <l>Seem instinct with ghastly mind,</l>
+                    <l>And climb like crowding savages</l>
+                    <l>At the boat that dares their seas.</l>
+                    <l>Dumbly strain they, though and through,</l>
+                    <l>Dumbly, and half blindly too,</l>
+                    <l>Drench'd, and buffeted, and bending</l>
+                    <l>Up and down without an ending,</l>
+                    <l>Like ghostly things that could not cease</l>
+                    <l>To row among those savages.</l>
+                </lg>
+                <lb />
+                <lg>
+                    <l>Ronald of the Perfect Hand</l>
+                    <l>Has rowed the most of all that band;</l>
+                    <l>And now he's resting for a space</l>
+                    <l>At the helm, and turns his face</l>
+                    <l>Round and round on every side</l>
+                    <l>To see what cannot be descried,</l>
+                    <l>Shore, nor sky, nor light, nor even</l>
+                    <l>HOPE, whose feet are last in heaven.</l>
+                    <l>Ronald thought him of the roar</l>
+                    <l>Of the fight the day before,</l>
+                    <l>And of the young Norwegian prince</l>
+                    <l>Whome in all the worryings</l>
+                    <l>And hot vexations of the fray,</l>
+                    <l>He had sent with life away,</l>
+                    <l>Because he told him of a bride</l>
+                    <l>That if she lost him, would have died;</l>
+                    <l>And Ronald then, in bitter case,</l>
+                    <l>Though of his own sweet lady's face,</l>
+                    <l>Which upon this very night</l>
+                    <l>Should have blushed with bridal light,</l>
+                    <pb n="155" />
+                    <l>And of her downward eyelids meek,</l>
+                    <l>And of her voice, just heard to speak,</l>
+                    <l>As at the altar, hand in hand,</l>
+                    <l>On ceasing of the organ grand,</l>
+                    <l>'Twould have bound her, for weal or woe,</l>
+                    <l>With delicious answers low.</l>
+                    <l>And more he though of, grave and sweet,</l>
+                    <l>That made the thin tears start, and meet</l>
+                    <l>The wetting of the insolent wave;</l>
+                    <l>And Ronald, who though all so brave,</l>
+                    <l>Had often that hard day before</l>
+                    <l>Wished himself well housed on shore,</l>
+                    <l>Felt a sharp impatient start</l>
+                    <l>Of homesick wilfulness at heart,</l>
+                    <l>And steering with still firmer hand,</l>
+                    <l>As if the boat could feel command,</l>
+                    <l>Thrilled with a fierce and forward motion,</l>
+                    <l>As though 'twould shoot it through the ocean.</l>
+                </lg>
+                <lb />
+                <p>"Some spirit," exclaimed Duth Maruno, "must pursue us, and perpetually urge the
+                    boat out of it's way, or we must have arrived by this time at Inistore."*<note>The
+                    old name for the Orkneys.</note> Ronald took him at his owrd, and turn- ing
+                    hastily round, thought he saw an armed figure behind the stern. His anger rose
+                    with his despair; and with all his strength he dashed his arm at the moveless
+                    and airy shape. At that instant a fierce blast of wind half turned the boat
+                    round. The chieftains called out to Ronald to set his whole heart at the rudder;
+                    but the wind beat back their voices, like young birds into the nest; and no
+                    answer followed it. The boat seemed less and less manageable, and at last to be
+                    totally left to themselves. In the intervals of the wind they again called out
+                    to Ronald, but still received no answer. One of them crept forward, and felt for
+                    him through the blinding wet and darkness. His place was void. "It was a ghost,"
+                    said they, "which came to fetch him to the spirits of his fathers. Ronald of the
+                    Perfect Hand is gone, and we shall follow him as we did in the fight. Hark! The
+                    wind is louder and louder: it is louder and many-voiced. Is it his voice which
+                    has roused up the others? Is he calling upon us, as he did in the battle, when
+                    his followers shouted after his call?"</p>
+                <p>It was the rocks of an isle beyond Inistore, which made that mul-
+                    titudinous roaring of the wind. The chieftains found that they were
+                    not destined to perish in the mid ocean; but it was fortunate for
+                    them that the wind did not set in directly upon the island, or they
+                    would have been dashed to pieces upon the rocks. With great diffi-
+                    culty they stemmed their way obliquely; and at length were thrown
+                    violently to shore, bruised, wounded, and half inanimate. They
+                    remained on this desolate island two days, during the first of which
+                    the storm subsided. On the third, they were taken away by a boat
+                    of seal-hunters.</p>
+                <p>The chiefs, on their arrival at home, related how Ronald of the <pb n="156" />
+                    Perfect Hand had been summoned away by a loud-voiced spirit, and disappeared.
+                    Great was the mourning in Inistore for the Perfect Hand; for the Hand that with
+                    equal skill could throw the javelin and traverse the harp; could build the
+                    sudden hut of the hunter; and bind up the glad locks of the maiden tired in the
+                    dance. There- fore was he called the Perfect Hand; and therefore with great
+                    mourning was he mourned; yet with non half as great as by his love, his
+                    betrother bride Moilena; by her of the Beautiful Voice, who had latterly begun
+                    to be called the Perfect Voice, because she was to be matched with him of the
+                    Perfect Hand. Perfect Hand and Per- fect Voice were they called; but the Hand
+                    was now gone, and the Voice sang brokenly for tears.</p>
+                <p>A dreary winter was it, though a victorious, to the people of Inis-
+                    tore. Their swords had conquered in Lochlin; but most of the
+                    hands that wielded them had never come back. Their warm pressure
+                    was felt no more. The last which they had given their friends was
+                    now to serve them all their lives. "Never, with all my yearning,"
+                    said Moilena, "shall I look upon his again, as I have looked at it a
+                    hundred times, when nobody suspected. Never." And she turned
+                    from the sight of the destructive ocean, which seemed as interminable
+                    as her thoughts.</p>
+                <p>But winter had now passed away. The tears of the sky at least
+                    were dried up. The sun looked out kindly again; and the spring
+                    had scarcely re-appeared, when Inistore had a proud and a gladder
+                    day, from the arrival of the young prince of Lochlin with his bride.
+                    It was a bitter one to Moilena, for the prince came to thank Ronald
+                    for sparing his life in the war, and had brought his lady to thank him
+                    too. They thanked Moilena instead; and proud, in the midst of her
+                    unhappiness, of being the representative of the Perfect Hand, she
+                    lavished hundred of smiles upon them from her pale face. But she
+                    wept in secret. She could not bear this new addition to the store of
+                    noble and kind memories respecting her Ronald. He had spared the
+                    bridegroom for his bride. He had hoped to come back to his own.
+                    She looked over to the north; and thought that her home was as
+                    much there as in Inistore.
+                </p>
+                <p>Meantime, Ronald was not drowned. A Scandinavian boat, bound for an island called
+                    the Island of the Circle, had picked him up. The crew, which consisted chiefly
+                    of priests, were going thither to propitiate the deities, on account of the late
+                    defeat of their country- men. They recognized the victorious chieftain, who on
+                    coming to his senses freely confessed who he was. Instantly they raised a
+                    chorus, which rose sternly through the tempest. "We carry," said they, "an
+                    acceptable present to the Gods. Odin, stay thy hand from the slaughter of the
+                    obscure. Thor, put down the mallet with which thou beatest, like red hail, on
+                    the skulls of thin enemies. Ye other feasters in Valhalla, set down the skulls
+                    full of mead, and pledge a health out of a new and noble one to the King of Gods
+                    and Men, that the twilight of heaven may come late. We bring an acceptable
+                    present: we bring Ronald of the Perfect Hand." Thus they sang in the boat, <pb
+                        n="157" /> labouring all the while with the winds and waves, but surer now
+                    than ever of reaching the shore. And they did so, by the first light of the
+                    morning. When they came to the circle of sacred stones, from which the island
+                    took it's name, they placed their late conquer- or by the largest, and kindled a
+                    fire in the middle. The warm smoke rose thickly against the cold white morning.
+                    "Let me be offered up to your gods," said Ronald, "like a man, by the sword; and
+                    not like food, by the fire." "We know all," answered the priests: "be thou
+                    silent." "Treat not him," said Ronald, "who spared your prince, unworthily. If
+                    he must be sacrificed, let him die as your prince would have died by this hand."
+                    Still they answered nothing, but "We know all: be thou silent." Ronald could not
+                    help wit- nessing these preparations for a new and unexpected death with an
+                    emotion of terror; but disdain and despair were uttermost. Once, and but once,
+                    his cheek turned deadly pale in thinking of Moilena. He shifted his posture
+                    resolutely, and thought of the spirit of the dead whom he was about to join. The
+                    priests then encircled the fire and the stone at which he tood, with another
+                    devoting song; and Ronald looked earnestly at the ruddy flames, which gave to
+                    his cold body, as in mockery, a kindly warmth. The priests however did not lay
+                    hands on him. They respected the sparer of their prince so far as not to touch
+                    him themselves; they left him to be dispatched by the supernatural beings, whom
+                    they confidently expected to come down for that purpose as soon as they had
+                    retired.</p>
+                <p>Ronald, whose faith was of another description, saw their departure
+                    with joy; but it was damped the next minute. What was he to do in
+                    winter-time on an island, inhabited only by the aphibious creatures
+                    of the northern sea, and never touched at but for a purpose hostile
+                    to his hopes? For he now recollected, that this was the island he
+                    ad so often heard of, as the chief seat of the Scandivnavian religion;
+                    whose traditions had so influenced countries of a different faith, that
+                    it was believed in Scotland as well as the continetn, that no human
+                    being could live there many hours. Spirits, it was thought, appeared
+                    in terrible superhuman shapes, like the bloody idols which the priests
+                    worshipped; and carried him off.</p>
+                <p>The warrior of Inistore had soon too much reason to know the extent of this
+                    belief. He was not without fear himself, but disdained to yield to any
+                    circumstances without a struggle. He refreshed himself with some snow-water; and
+                    after climbing the highest part of the island to look for a boat in vain
+                    (nothing was to be seen but the waves tumbling on all sides after the storm) he
+                    instantly set about preparing a habitation. He saw at a little distance, on a
+                    slope, the mouth of a rocky cave. This he destined for his shelter at night; and
+                    looking round for a defence for the door, as he knew not whether bears might not
+                    be among the inhabitants, he cast his eyes upon the thinnest of the stones which
+                    stood upright about the fire. The heart of the warrior, though of a different
+                    faith, misgave him as he thought of appropriating this mystical stone, carved
+                    full of strange figures; but half in courage, and half in the very despair of
+                    fear, he suddenly <pb n="158" /> twisted it from it's place. No one appeared.
+                    The fire altered not. The noise of the fowl and other creatures was no louder on
+                    the shore. Ronald smiled at his fears, and knew the undiminished vigour of the
+                    Perfect Hand.</p>
+                <p>He found the cavern already fitted for shelter; doubtless by the
+                    Scandinavian priests. He had bitter reason to know how well it
+                    sheltered him; for day after day he hoped in vain that some boat
+                    from Inistore would venture upon the island. He beheld sails at a
+                    distance, but they never came. He piled stone upon stone, joined
+                    old pieces of boats together, and made flags of the sea-weed; but all
+                    in vain. The vessels, he thought, came nearer, but none so near as
+                    to be of use; and a new and sickly kind of impatience cut across the
+                    stout heart of Ronald, and set it beating. He knew not whether it
+                    was with the cold or with misery, but his frame would shake for an
+                    hour together, when he lay down on his dried weeds and feathers to
+                    rest. He remembered the happy sleeps that used to follow upon toil;
+                    and he looked with double activity for the eggs and sliell-fish on which
+                    he sustained himself, and smote double the number of seals, half
+                    in the very exercise of his anger: and then he would fall dead asleep
+                    with fatigue.</p>
+                <p>In this way he bore up against the violences of the winter season,
+                    which had now past. The sun looked out with a melancholy smile
+                    upon the moss and the poor grass, checquered here and there with
+                    flowers almost as poor. There was the buttercup, struggling from a
+                    dirty white into a yellow; and a faint-coloured poppy, neither the
+                    good nor the ill of which was then known; and here and there by the
+                    thorny underwood a shrinking violet. The lark alone seemed chear-
+                    ful, and startled the ear of the desolate chieftain with it's climbing
+                    triumph in the air. Ronald looked up. His fancy had been made
+                    wild and wilful by strange habits and sickened blood; and he thought
+                    impatiently, that if he were up there like the lark, he might see his
+                    friends and his love in Inistore.</p>
+                <p>Being naturally however of a gentle as well as courageous disposi-
+                    tion, the Perfect Hand found the advantage as well as necessity of
+                    turning his violent impulses into noble matter for patience. He had
+                    heard of the dreadful bodily sufferings which the Scandinavian heroes
+                    underwent from their enemies with triumphant songs. He knew
+                    that no such sufferings, which were fugitive, could equal the agonies
+                    of a daily martyrdom of mind; and he cultivated a certain humane
+                    pride of patience, in order to bear them.</p>
+                <p>His only hope of being delivered from the island now depended on the Scandinavian
+                    priests; but it was a moot point whether they would respect him for surviving,
+                    or kill him on that very account, out of a mixture of personal and superstitious
+                    resentment. He thought his death the more likely; but this at least was a termi-
+                    nation to the dreary prospect of a solitude for life; and partly out of that
+                    hope, and partly from a courageous patience, he produced as many pleasant
+                    thoughts and objects about him as he could. He adorned his cavern with shells
+                    and feathers; he made himself a cap <pb n="159" /> and cloak of the latter, and
+                    boots and a vest of seal-skin, girding it about with the glossy sea-weed; he
+                    cleared away a circle before the cavern, planted it with the best grass, and
+                    heaped about it the mos- siest stones: he strung some bones of a fish with
+                    sinews, and fitting a shell beneath it, the Perfect Hand drew forth the first
+                    gentle music that had ever been heard in that wild island. He touched it one day
+                    in the midst of a flock of seals, who were basking in the sun; they turned their
+                    heads towards the sound; he thought he saw in their mild faces a human
+                    expression; and from that day forth no seal was ever slain by the Perfect Hand.
+                    He spared even the huge and cloudy-visaged walrusses, in whose societies he
+                    beheld a dull resem- blance to the gentler affections; and his new intimacy with
+                    these possessors of the place was completed by one of the former animals, who
+                    having been rescued by him from a contest with a larger one, followed him about,
+                    as well as it's half-formed and dragging legs would allow, with the officious
+                    attachment of a dog.</p>
+                <p>But the summer was gone and no one had appeared. The new thoughts,
+                    and deeper insight into things, which solitude and sorrow-
+                    ful necessity had produced, together with a diminution of his activity,
+                    had not tended to strengthen him against the approach of winter;
+                    and autumn came upon him like the melancholy twilight of the year.
+                    He had now no hope of seeing even the finishers of his existence be-
+                    fore the spring. The rising winds among the rocks, and the noise
+                    of the whales blowing up the spouted water till the hollow caverns
+                    thundered with their echoes, seemed to be like heralds of the stern
+                    season which was to close him in against all approach. He had tried
+                    one day to move the stone at the mouth of his habitation a little
+                    further in, and found his strength fail him. He laid himself half
+                    reclining on the chilly ground, full of such melancholy thoughts as
+                    half bewildered him. Things by turn appeared a fierce dream and a
+                    fiercer reality. He was leaning and looking on the ground, and
+                    idly twisting his long hair, when his eyes fell upon the hand that
+                    held it. It was livid and emaciated. He opened and shut it, opened
+                    and shut it again, turned it round, and looked at it's ribbed thin-
+                    ness and laid-open machinery; many thoughts came upon him,
+                    some which he understood not, and some which he recognized but
+                    too well; and a turbid violence seemed rising at his heart, when the
+                    seal his companion drew nigh, and began licking that weak memorial
+                    of the Perfect Hand. A shower of self-pitying tears fell upon the
+                    seal's face and the hand together.</p>
+                <p>On a sudden, he heard a voice. It was a deep and loud one, and
+                    distinctly called out, Ronald! He looked up, gasping with wonder.
+                    Three times it called out, as if with peremptory command; and three
+                    times the rocks and caverns echoed the word with a dim sullenness.</p>
+                <p>Recollecting himself, he would have risen and answered, but the sudden change of
+                    sensations had done what all his sufferings had not been able to do; and he
+                    found himself unable either to rise or to speak. The voice ealled again and
+                    again, but it was now more dis- tant; and Ronald's heart sickened as he heard it
+                    retreating. His <pb n="160" /> strength seemed to fail him in proportion as it
+                    became necessary. Suddenly the voice came back again. It advances. Other voices
+                    are heard, all advancing. In a short time, figures come hastily down the slope
+                    by the side of his cavern, looking over into the area before it as they descend.
+                    They enter. They are before him and about him. Some of them, in a Scandinavian
+                    habit, prostrate themselves at his feet, and address him in an unknown language.
+                    But these are sent away by another, who remains with none but two youths. Ronald
+                    has risen a little, and leans his back against the rock. One of the youths puts
+                    his arm between his neck and the rock, and half kneels beside him, turning his
+                    face away and weeping. "I am no god, nor a favourite of gods, as these people
+                    supposed me," said Ro- nald, looking up at the chief who was speaking to the
+                    other youth :– "if thou wilt dispatch me then, do so. I only pray thee to let
+                    the death be fit for a warrior, such as I once was." The chief appeared
+                    agitated. "Speak not ill of the gods, Ronald," said he, "although thou wert
+                    blindly brought up. A warrior like thee must be a fa- vourite of heaven. I come
+                    to prove it to thee: Dost thou not know me? I come to give thee life for life."
+                    Ronald looked more stead- fastly. It was the Scandinavian prince whom he had
+                    spared, be- cause of his bride, in battle. He smiled, and lifted up his hand to
+                    him, which was intercepted and kissed by the youth who held his arm round his
+                    neck. "Who are these fair youths?" said Ronald, half turning his head to look in
+                    his supporter's face. "This is the bride I spoke of," answered the prince, "who
+                    insisted on sharing this voyage with me, and put on this dress to be the bolder
+                    in it." "And who is the other?" The other, with dried eyes, looked smiling into
+                    his, and intercepted the answer also.–"Who," said the sweetest voice in the
+                    world, "can it be, but one?"–With a quick and almost fierce tone, Ronald cried
+                    out aloud "I know the voice;" and he would have fallen flat on the earth, if
+                    they had not all three sup- ported him.</p>
+                <p>It was a mild return to Inistore, Ronald gathering strength all the
+                    way at the eyes and voice of Moilena, and the hands of all three.
+                    Their discovery of him was easily explained. The crews of the ves-
+                    sels, who had been afraid to come nearer, had repeatedly seen a figure
+                    on the island making signs. The Scandinavian priests related how
+                    they had left Ronald there, but insisted that no human being could
+                    live upon it, and that some god wished to manifest himself to his
+                    faithful worshippers. The heart of Moilena was quick to guess the
+                    truth. The prince proposed to accompany the priests. His bride
+                    and the destined bride of his saviour went with him, and returned as
+                    you heard; and from that day forth many were the songs in Inistore,
+                    upon the fortunes of the Perfect Hand and the kindness of the Per-
+                    fect Voice. Nor were those forgotten, who forgot not others.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <lb />
+                    J. Appleyard, 19, Catherin-street, Strand.–Price 2d.</p>
+                <p>Printed by C. H. Reynell, No. 45, Broad-street, Golden-square.</p>
+            </div1>
+        </body>
+    </text>
+</TEI>
