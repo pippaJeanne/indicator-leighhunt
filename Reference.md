@@ -2,8 +2,13 @@
 This document is intended for reference purposes. It contains a list of various tagging elements and their descriptions, with the aim of uniformity in tagging.
 
 ## Table of Contents
-- [Div Elements]
-- [Head Elements]
+- Using the Undoubler
+- Elements
+    - [Div Elements]
+    - [Head Elements]
+
+## Using the Undoubler
+In the repository you'll find a script titled 'undoubler'. This script was written to rectify some basic issues with the OCRed text, principally the use of double spaces in place of single spaces. The script is a Python script, and takes an input text ('raw_double.txt') and outputs it to a new clean file ('un_double.txt').
 
 ## Div Elements
 ```<div>``` (text division) contains a subdivision of the front, body, or back of a text. [4.1 Divisions of the Body](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSDIV)
