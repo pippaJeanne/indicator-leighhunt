@@ -43,6 +43,7 @@
     <text>
         <body>
             <div1 type="issue" n="x">
+                <pb n="" /> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>

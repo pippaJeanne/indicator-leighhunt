@@ -5,7 +5,9 @@ This document is intended for reference purposes. It contains a list of various 
 - Using the Undoubler
 - Elements
     - [Div Elements]
+    - [Page Elements]
     - [Head Elements]
+    - [Note Elements]
 
 ## Using the Undoubler
 In the repository you'll find a script titled 'undoubler'. This script was written to rectify some basic issues with the OCRed text, principally the use of double spaces in place of single spaces. The script is a Python script, and takes an input text ('raw_double.txt') and outputs it to a new clean file ('un_double.txt').
@@ -19,6 +21,9 @@ The divider elements are numbered to provide a more immediate indication of thei
 
 ```<div2 type="{ forematter, section, endmatter }" n="">``` elements are used as general containers for the forematter, sections, and end of the publication issue. The forematter contains the title, epigraph, and catalogue data. The section contains the header and text. The endmatter contains the publication and printing notice appended to each issue. The type is always "forematter", "section", or "endmatter" and the n attribute is the section number in modern Arabic numerals when using the "section" divider.
 
+## Page Elements
+```<pb n="" />``` (page beginning) marks the beginning of a new page in a paginated document. [3.11.3 Milestone Elements](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5) This is for reference purposes only, and is not intended to signal that the page is reproduced exactly in the digital edition.
+
 ## Head Elements
 ```<head type="" n="">``` (heading) contains any type of heading, for example the title of a section, or the heading of a list, glossary, manuscript description, etc. [4.2.1 Headings and Trailers](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSHD)
 
@@ -26,3 +31,11 @@ Types:
 - title: The title of the document (ie. The Indicator)
 - catalogue: Publication no., and date of publication (ie. No. XXIV.—WEDNESDAY, MARCH 22d, 1820.)
 - header: The header of a section within the publication issue (ie. "ON THE REALITIES OF IMAGINATION.")
+
+## Note Elements
+```<note type="">```
+
+Types:
+- source: indicating the source of a text or reference.
+- hunt: note present in the original / written by Hunt.
+- editorial: editorial note.

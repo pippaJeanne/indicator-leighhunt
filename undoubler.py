@@ -6,7 +6,7 @@ def convert_double_spaces(line):
     converted_line = re.sub(r'(?<!\n)\s{2,}(?!\n)', ' ', line)
     return converted_line
 
-def convert_file_double_spaces(input_file, output_file):
+def undouble(input_file, output_file):
     # Read the input file line by line
     with open(input_file, 'r') as input_file:
         with open(output_file, 'w') as output_file:
@@ -21,5 +21,5 @@ def convert_file_double_spaces(input_file, output_file):
 # Example usage
 input_file = 'raw_double.txt'
 output_file = 'un_double.txt'
-convert_file_double_spaces(input_file, output_file)
+undouble(input_file, output_file)
 print("Conversion complete.")
