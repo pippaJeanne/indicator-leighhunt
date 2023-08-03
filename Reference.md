@@ -2,13 +2,13 @@
 This document is intended for reference purposes. It contains a list of various tagging elements and their descriptions, with the aim of uniformity in tagging.
 
 ## Table of Contents
-- Using the Undoubler
-- Elements
-    - [Div Elements]
-    - [Page Elements]
-    - [Head Elements]
-    - [Note Elements]
-    - [Choice Elements]
+- [Using the Undoubler](#using-the-undoubler)
+- [Elements](#elements)
+    - [Div Elements](#div-elements)
+    - [Page Elements](#page-elements)
+    - [Head Elements](#head-elements)
+    - [Note Elements](#note-elements)
+    - [Choice Elements](#choice-elements)
 - Examples
 
 ## Using the Undoubler
