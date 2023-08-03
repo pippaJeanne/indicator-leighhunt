@@ -19,7 +19,8 @@
                 <bibl>
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
-                    <date when="1820-03-22">March 22nd, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <date when="1820-03-22">March 22nd, 1820</date> <!-- The publication date of this
+                    issue ({Month} {Day}, {Year}) -->
                     <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
@@ -30,7 +31,8 @@
         <encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
-                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                Basic encoding, capturing relevant formatting and layout information. Page numbers
+                are
                 included for reference to the source only and are not intended to indicate precise
                 preservation.
             </p>
@@ -68,325 +70,442 @@
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                        <l><persName key="Edmund Spenser"
+                                ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. XXIII.—WEDNESDAY, MARCH 15th, 1820.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header">LADY'S MAID<note type="Hunt">The great changes produced in people's
-                        fortunes by the nature of the times, have unfortunately rendered this title but too common
-                        to a great variety of females; many of whome will not at all come under our present description.
-                        The Lady's Maid in the text is heiress to the Honours and Mrs. Slipslops of the last century.
-                    </note>.—SEAMEN ON SHORE.</head>
-                    <p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to go to sea again, 
-is to take as much pleasure as he can. The moment he sets his foot 
-on dry-ground, he turns his back on all salt-beef and other salt-water 
-restrictions. His long absence, and the impossibility of getting land 
-pleasures at sea, put him upon a sort of desperate appetite. He lands, 
-like a conqueror taking possession. He has been debarred so long, 
-that he is resolved to have that matter out with the inhabitants. They 
-must render an account to him of their treasures, their women, their 
-victualling-stores<note type="editorial">Victualling was the naval
-    practice of equipping a ship with food and other supplies, as well as arms in the case of war ships.
-    The Victualling Yard in Deptford, established in 1743, was perhaps the UK's first large-scale food
-    manufacturing initiative. See <biblStruct>
-        <monogr>
-         <author>
-          <persName>
-           <forename>Jonathan</forename>
-           <surname>Coad</surname>
-          </persName>
-         </author>
-         <title>Support for the Fleet</title>
-         <imprint>
-          <pubPlace>Swindon</pubPlace>
-          <publisher>English Heritage</publisher>
-          <date when="2013">2013</date>
-         </imprint>
-        </monogr>
-       </biblStruct>
-</note>, their entertainments, their every thing; and in return he will behave like a gentleman, and scatter his gold. </p>
+                    <head type="header">LADY'S MAID<note type="Hunt">The great changes produced in
+                        people's
+                            fortunes by the nature of the times, have unfortunately rendered this
+                        title but too common
+                            to a great variety of females; many of whome will not at all come under
+                        our present description.
+                            The Lady's Maid in the text is heiress to the Honours and Mrs. Slipslops
+                        of the last century.
+                        </note>.—SEAMEN
+                        ON SHORE.</head>
+                    <p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to
+                        go to sea again, is to take as much pleasure as he can. The moment he sets
+                        his foot on dry-ground, he turns his back on all salt-beef and other
+                        salt-water restrictions. His long absence, and the impossibility of getting
+                        land pleasures at sea, put him upon a sort of desperate appetite. He lands,
+                        like a conqueror taking possession. He has been debarred so long, that he is
+                        resolved to have that matter out with the inhabitants. They must render an
+                        account to him of their treasures, their women, their victualling-stores<note
+                            type="editorial">Victualling was the naval practice of equipping a ship
+                        with food and other supplies, as well as arms in the case of war ships. The
+                        Victualling Yard in Deptford, established in 1743, was perhaps the UK's
+                        first large-scale food manufacturing initiative. See <biblStruct>
+                                <monogr>
+                                    <author>
+                                        <persName>
+                                            <forename>Jonathan</forename>
+                                            <surname>Coad</surname>
+                                        </persName>
+                                    </author>
+                                    <title>Support for the Fleet</title>
+                                    <imprint>
+                                        <pubPlace>Swindon</pubPlace>
+                                        <publisher>English Heritage</publisher>
+                                        <date when="2013">2013</date>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </note>,
+                        their entertainments, their every thing; and in return he will behave like a
+                        gentleman, and scatter his gold. </p>
 
 
-<p>And first of the Common Sailor.—The moment the Common Sailor 
-lands, he goes to see the watchmaker, or the old boy at the Ship. </p>
+                    <p>And first of the Common Sailor.—The moment the Common Sailor
+                        lands, he goes to see the watchmaker, or the old boy at the Ship. </p>
 
 
-<sp who="#reader">
-<speaker>Reader. </speaker><p>What, Sir? Before his mistress?</p>
-</sp>
-<sp who="#indi">
-<speaker>Indicator. </speaker><p>Excuse me. Madam. His mistress, christened Elizabeth Monson, 
-    but more familiarly known by the appellation of Bet 
-Monson, has been with him already. You remember the ballad—</p>
-<q type="written" rend="center">
-<l>When black-eyed Susan came on board. </l>
-</q>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's Maid. </speaker><p>I hope, Sir, you are not going to be vulgar in your 
-remarks. </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>Good God, Mrs. Jane, why should you think so! I am
-sure your lady does not expect it, or I should have had none but men
-for listeners on this subject. </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Oh, Sir, if my lady does not think it vulgar, I'm Sure 
-I shan't; for there isn't a more delicater nor more genteeler person 
-than my lady in all England, though I say it to her face who shouldn't. 
-But you mentioned something about alehouses, or inns, or something; 
-and you know they are rather vulgar. </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>I'm sure, Mrs. Jane, I didn't think so, three years back, 
-when you handed me that frothed glass of porter, with your pretty 
-fingers, on a hot summer's day, under the great elm-tree there, at the 
-door of the Jolly Miller. </p>
-</sp>
-<pb n="178" />
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Lard in heaven, Mr. Hindergaiter, why I vow you're 
-a witch! Who'd have thought you'd have ever known that I kept my 
-father-in-law's house for him, while my poor mother was laid up with 
-the rheumatiz, all along of that vixen (God forgive me!) my own 
-great aunt, who wouldn't let her come home one night in the shay, 
-because she had married Tom Butts after being the wife of a Serjeant 
-of Dragoons. And yet I must say for Mr. Butts, that for a landlord, 
-and a man in a vulgarish situation, he was as well-behaved a man 
-though a bold one, and might hold up his head as high, and was as 
-kind and good-natured, and was as free from pride, and said as civil 
-things to a body—— </p>
-</sp>
-<sp who="#lady">
-<speaker>Lady. </speaker><p>In short, Jane, he was not vulgar, and your dear old vixen 
-of a great aunt was. There is no vulgarity, child, but impertinence 
-and common cant; or being gross and ignorant, and proud of both; 
-or having a feeling for all, and being ashamed of it. Remember the 
-ragged sailor whom you kissed. </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Lord, Ma'am, and did you see me kiss my poor brother
-William? For it was my own brother. Ma'am, who you've
-heard me speak of—in the navy; and he was so ragged then, because 
-he had to cross the whole country to his home, and had spent all his 
-money at Portsmouth; and so I gave him my box of half-crowns, and 
-he's now captain's clerk's man, and it was he as sent me that live tortoise 
-that made me scream so, and the cocoa-cup, and the shawl, and 
-the purse made of grass, and the Hoty-hity feathers; and I do think, if 
-he was here, I could kiss him again, if he was as ragged as a rag-or-a-muffin, 
-before all the world, aye, even before Sally Jones. </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>Good. Now there you come round, Mrs. Jane, to the true 
-point of politeness. I thought you better bred than you supposed, 
-since I recollected how good-natured you looked at the Jolly Miller. </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Oh, Mr. Intricater, you're such another man! </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>Nay, I assure you I do not think you even more genteel 
-than you were then. </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Nay, now, Mr. Hingy-grater, I'm sure you flatter. </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>But pray, Mrs. Jane, who is the awful presence of Sally 
-Jones? </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Presents, Sir? She never gives no presents, lawful or 
-unlawful, not she: not for that matter never gets none, as I know of; 
-except mayhap a brass-thimble at Christmas, or a two-penny song-book,
-or a Trifle, as they very properly calls it, from Margate, with 
-a piece of looking-glass in the inside, to see her proud, affected, niminy-piminy face in. </p>
-</sp>
-<sp who="#indi">
-<speaker>Indic. </speaker><p>But why should she object to your kissing your brother William? </p>
-</sp>
-<sp who="#lady-m">
-<speaker>Lady's M. </speaker><p>Oh, forsooth, it's vulgar, Sir! So she said, when I kissed 
-him before her once; as if one's brother was'nt one's brother; and as 
-for that, she'd kiss her cousin fast enough before twenty people, if he'd 
-make any thing like an advantage. She is but a maid at boarding-school, 
-where I was; and never writes Miss on my letters; and yet 
-whenever she goes home to her father's, who is nothing but a little 
-petty green-grocer in an alley, she insists, forsooth, on my Missing and 
-<pb n="179" />
-Missing her, or she wont send me any news of the private theatre; and 
-and she knows that vexes me, because I really have a taste for the stage, 
-and once played second part at school to Miss Gollogher. She 
-was the Fair Penitent, Sir; a tall brown girl, <hi rend="smallcaps">horn-bone pine</hi><note type="editorial">un bon point?</note>, as the 
-French say; and a great fortune, though her father did keep a dog-shop. 
-But she called it a Managearee. So, Sir, <hi rend="smallcaps">Miss Sarah Jones</hi>
-never condescends to write Miss to me, though she daredn't wear her 
-hair without a cap at boarding-school, to save her head; and my lady 
-always permits me to wear my hair in a comb, to distinguish me from 
-common helpers and such like. And besides that, though I have worn 
-a cap, I never wore black worsted stockings as she does; nor never 
-set mop upon floor. As to sailors, she cannot abide 'en. </p>
-</sp> <!-- Edited up to here -->
+                    <sp who="#reader">
+                        <speaker>Reader. </speaker>
+                        <p>What, Sir? Before his mistress?</p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indicator. </speaker>
+                        <p>Excuse me. Madam. His mistress, christened Elizabeth Monson,
+                            but more familiarly known by the appellation of Bet
+                            Monson, has been with him already. You remember the ballad—</p>
+                        <q type="written" rend="center">
+                            <l>When black-eyed Susan came on board. </l>
+                        </q>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's Maid. </speaker>
+                        <p>I hope, Sir, you are not going to be vulgar in your
+                            remarks. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>Good God, Mrs. Jane, why should you think so! I am
+                            sure your lady does not expect it, or I should have had none but men
+                            for listeners on this subject. </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Oh, Sir, if my lady does not think it vulgar, I'm Sure
+                            I shan't; for there isn't a more delicater nor more genteeler person
+                            than my lady in all England, though I say it to her face who shouldn't.
+                            But you mentioned something about alehouses, or inns, or something;
+                            and you know they are rather vulgar. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>I'm sure, Mrs. Jane, I didn't think so, three years back,
+                            when you handed me that frothed glass of porter, with your pretty
+                            fingers, on a hot summer's day, under the great elm-tree there, at the
+                            door of the Jolly Miller. </p>
+                    </sp>
+                    <pb n="178" />
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Lard in heaven, Mr. Hindergaiter, why I vow you're
+                            a witch! Who'd have thought you'd have ever known that I kept my
+                            father-in-law's house for him, while my poor mother was laid up with
+                            the rheumatiz, all along of that vixen (God forgive me!) my own
+                            great aunt, who wouldn't let her come home one night in the shay,
+                            because she had married Tom Butts after being the wife of a Serjeant
+                            of Dragoons. And yet I must say for Mr. Butts, that for a landlord,
+                            and a man in a vulgarish situation, he was as well-behaved a man
+                            though a bold one, and might hold up his head as high, and was as
+                            kind and good-natured, and was as free from pride, and said as civil
+                            things to a body—— </p>
+                    </sp>
+                    <sp who="#lady">
+                        <speaker>Lady. </speaker>
+                        <p>In short, Jane, he was not vulgar, and your dear old vixen
+                            of a great aunt was. There is no vulgarity, child, but impertinence
+                            and common cant; or being gross and ignorant, and proud of both;
+                            or having a feeling for all, and being ashamed of it. Remember the
+                            ragged sailor whom you kissed. </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Lord, Ma'am, and did you see me kiss my poor brother
+                            William? For it was my own brother. Ma'am, who you've
+                            heard me speak of—in the navy; and he was so ragged then, because
+                            he had to cross the whole country to his home, and had spent all his
+                            money at Portsmouth; and so I gave him my box of half-crowns, and
+                            he's now captain's clerk's man, and it was he as sent me that live
+                            tortoise
+                            that made me scream so, and the cocoa-cup, and the shawl, and
+                            the purse made of grass, and the Hoty-hity feathers; and I do think, if
+                            he was here, I could kiss him again, if he was as ragged as a
+                            rag-or-a-muffin,
+                            before all the world, aye, even before Sally Jones. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>Good. Now there you come round, Mrs. Jane, to the true
+                            point of politeness. I thought you better bred than you supposed,
+                            since I recollected how good-natured you looked at the Jolly Miller. </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Oh, Mr. Intricater, you're such another man! </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>Nay, I assure you I do not think you even more genteel
+                            than you were then. </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Nay, now, Mr. Hingy-grater, I'm sure you flatter. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>But pray, Mrs. Jane, who is the awful presence of Sally
+                            Jones? </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Presents, Sir? She never gives no presents, lawful or
+                            unlawful, not she: not for that matter never gets none, as I know of;
+                            except mayhap a brass-thimble at Christmas, or a two-penny song-book,
+                            or a Trifle, as they very properly calls it, from Margate, with
+                            a piece of looking-glass in the inside, to see her proud, affected,
+                            niminy-piminy face in. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>But why should she object to your kissing your brother William? </p>
+                    </sp>
+                    <sp who="#lady-m">
+                        <speaker>Lady's M. </speaker>
+                        <p>Oh, forsooth, it's vulgar, Sir! So she said, when I kissed him before her
+                            once; as if one's brother was'nt one's brother; and as for that, she'd
+                            kiss her cousin fast enough before twenty people, if he'd make any thing
+                            like an advantage. She is but a maid at boarding-school, where I was;
+                            and never writes Miss on my letters; and yet whenever she goes home to
+                            her father's, who is nothing but a little petty green-grocer in an
+                            alley, she insists, forsooth, on my Missing and <pb n="179" /> Missing
+                            her, or she wont send me any news of the private theatre; and and she
+                            knows that vexes me, because I really have a taste for the stage, and
+                            once played second part at school to Miss Gollogher. She was the Fair
+                            Penitent, Sir; a tall brown girl, <hi rend="smallcaps">horn-bone pine</hi><note
+                                type="editorial">un bon point?</note>, as the French say; and a
+                            great fortune, though her father did keep a dog-shop. But she called it
+                            a Managearee. So, Sir, <hi rend="smallcaps">Miss Sarah Jones</hi> never
+                            condescends to write Miss to me, though she daredn't wear her hair
+                            without a cap at boarding-school, to save her head; and my lady always
+                            permits me to wear my hair in a comb, to distinguish me from common
+                            helpers and such like. And besides that, though I have worn a cap, I
+                            never wore black worsted stockings as she does; nor never set mop upon
+                            floor. As to sailors, she cannot abide 'en. </p>
+                    </sp>
+                    <sp who="#indi">
+                        <speaker>Indic. </speaker>
+                        <p>But you, Mrs. Jane, can: and let me tell you, that that is not
+                            the least advantage which you have over Miss Sarah Jones. So we will
+                            go on with our picture. </p>
+                    </sp>
+                    <p>The first object of the seaman on landing is to spend his money: but his
+                        first sensation is the strange firmness of the earth, which he goes dreading
+                        in a sort of heavy light way, half waggoner and half dancing-master, his
+                        shoulders rolling, and his feet touching and going; the same way, in short,
+                        in which he keeps himself prepared for all the rolling chances of the
+                        vessel, when on deck. There is always, to us, this appearance of lightness
+                        of foot and heavy strength of upper works, in a sailor. And he feels it
+                        himself. He lets his jacket fly open, and his shoulders slouch, and his hair
+                        grow long to be gathered into a heavy pigtail; but when full dressed, he
+                        prides himself on a certain gentility of toe; on a white stocking and a
+                        natty shoe, issuing lightly out of the flowing blue trowser. His arms are
+                        neutral, hanging and swinging in a curve aloof; his hands, half open, look
+                        as if they had just been handling ropes, and had no object in life but to
+                        handle them again. He is proud of appearing in a new hat and slops, with a
+                        Belcher handkerchief flowing loosely round his neck, and the corner of
+                        another out of his pocket. Thus equipped, with pinchbeck buckles in his
+                        shoes (which he bought for gold) he puts some tobacco in his mouth, not as
+                        if he were going to use it directly, but as if he stuffed it in a pouch on
+                        one side, as a pelican does fish, to employ it hereafter: and so, with Bet
+                        Monson at his side, and perhaps a cane or whanghee twisted under his other
+                        arm, sallies forth to take possession of all Lubberland. He buys every thing
+                        that he comes athwart,—nuts, gingerbread, apples, shoe-strings, beer,
+                        brandy, gin, buckles, knives, a watch, (two, if he has money enough), gowns
+                        and handkerchiefs for Bet, and his mother and sisters, dozens of <soCalled>Best
+                        Men's Cotton Stockings</soCalled>, dozens of <soCalled>Superfine Best
+                        Women's Cotton Ditto</soCalled>, best good Check for Shirts (though he has
+                        too much already), infinite needles and thread (to sew his trowsers with
+                        some day), a footman's laced hat, Bear's Grease to make his hair grow (by
+                        way of joke,) several sticks, all sorts of Jew articles, a flute (which he
+                        can't play, and never intends), a leg of mutton which he carries somewhere
+                        to roast, and for a piece of which the landlord of the Ship makes him pay
+                        twice what he gave for the whole;—in short, all that money can be spent
+                        upon, which is every thing but medicine gratis; and this he would insist on
+                        paying <pb n="180" /> for. He would buy all the painted parrots on an
+                        Italian's head, on purpose to break them, rather than not spend his money.
+                        He has fiddles and a dance at the Ship, with oceans of flip and grog; and
+                        gives the blind fiddler tobacco for sweetmeats, and half a crown for
+                        treading on his toe. He asks the landlady, with a sigh, after her daughter
+                        Nance who first fired his heart with her silk-stockings; and finding that
+                        she is married and in trouble, leaves five crowns for her; which the old
+                        lady appropriates as part payment for a shilling in advance. He goes to the
+                        port playhouse with Bet Monson, and a great red handkerchief full of apples,
+                        gingerbread nuts, and fresh beef; calls out for the fiddlers and Rule
+                        Britannia; pelts Tom Sikes in the pit; and compares Othello to the black
+                        ship's cook in his white night-cap. When he comes to London, he and some
+                        messmates take a hackney-coach, full of Bet Monsons and tobacco-pipes, and
+                        go through the streets smoking; and lolling out of window. He has ever been
+                        cautious of venturing on horseback; and among his other sights in foreign
+                        parts, relates with unfeigned astonishment how he has seen the Turks ride,—<q
+                            type="spoken">Only,</q> says he, guarding against the hearer's
+                        incredulity, <q type="spoken">they have saddle-boxes to hold 'em in, fore
+                        and aft;
+                            and shovels like for stirrups.</q> He will tell you how the Chinese
+                        drink, and the <hi rend="smallcaps">Negurs</hi> dance, and the monkies pelt
+                        you with cocoa-nuts; and how King Domy would have built him a mud hut and
+                        made him a Peer of the Realm, if he would have stopped with hira and taught
+                        him to make trowsers. He has a sister at a <soCalled>School
+                            for Young Ladies</soCalled>, who blushes with a mixture of pleasure and
+                        shame at his appearance; and whose confusion he completes, by slipping
+                        four-pence into her hand, and saying out loud that he has <q type="spoken">no
+                        more
+                            copper</q> about him. His mother and elder sisters at home doat on all
+                        he says and does, telling him however that he is a great sea-fellow, and was
+                        always wild ever since he was a hop-o'-my-thumb no higher than the
+                        window-locker. He tells his mother that she would be a Duchess in Paranaboo;
+                        at which the good old portly dame laughs and looks proud. When his sisters
+                        complain of his romping, he says that they are only sorry it is not the
+                        baker. He frightens them with a mask made after the New Zealand fashion, and
+                        is forgiven for his learning. Their mantle-piece is filled by him with
+                        shells and shark's teeth; and when he goes to sea again, there is no end of
+                        tears, and God-bless yous, and home-made gingerbread.</p>
+                    <p>His Officer on shore does much of all this, only, generally speaking, in a
+                        higher taste. The moment he lands he buys quantities of jewellery and other
+                        valuables, for all the females of his acquaintance; and is taken in for
+                        every article. He sends in a cart load of fresh meat to the ship, though he
+                        is going to town next day; and calling in at a chandler's for some candles,
+                        is persuaded to buy a dozen of green wax, with which he lights up the ship
+                        at evening; regretting that the fine moonlight hinders the effect of the
+                        colour. A man, with a bundle beneath his arm, accosts him in an under-tone;
+                        and, with a look in which respect for his knowledge is mixed with an avowed
+                        zeal for his own interest, asks if his Honour will just step under the
+                        gangway here, and inspect some real India shawls. The gallant Lieutenant <pb
+                            n="181" /> says to himself, <q type="spoken">fellow knows what's what,
+                        by his face;</q> and so he proves it by being taken in on the spot. When he
+                        brings the shawls home, he says to his sister with an air of triumph, <q
+                            type="spoken">There,
+                            Poll, there's something for you; only cost me twelve, and is worth
+                        twenty, if it's worth a dollar.</q> She turns pale—<q type="spoken">Twenty
+                        what, my
+                            dear George? Why, you haven't given twelve dollars for it, I hope?</q> 
+<q
+                            type="spoken">Not I, by the Lord.</q>—<q type="spoken">That's lucky;
+                        because you see, my dear
+                            George, that all together is not worth more than fourteen or fifteen
+                        shillings.</q> <q type="spoken">Fourteen or fifteen what! Why, it's real
+                        India, en't it?
+                            Why the fellow told me so; or I'm sure I'd as soon</q>—(here he tries to
+                        hide his blushes with a bluster) <q type="spoken">I'd as soon have given him
+                        twelve
+                            douses on the chaps as twelve guineas.</q> <q type="spoken">Twelve <hi
+                                rend="smallcaps">guineas</hi>,</q> exclaims the sister; and then
+                        drawling forth <q type="spoken">Why—my—<hi rend="smallcaps">dear</hi>
+                        —George,</q> is proceeding to shew him what the articles would have cost at
+                        Condell's, when he interrupts her by requesting her to go and chuse for
+                        herself a tea-table service. He then makes his escape to some messmates at a
+                        coffee-house, and drowns his recollection of the shawls in the best wine,
+                        and a discussion on the comparative merits of the English and West Indian
+                        beauties and tables. At the theatre afterwards, where he has never been
+                        before, he takes a lady at the back of one of the boxes for a woman of
+                        quality; and when, after returning his long respectful gaze with a smile,
+                        she turns aside and puts her handkerchief to her mouth, he thinks it is in
+                        derision, till his friend undeceives him. He is introduced to the lady; and
+                        ever afterwards, at first sight of a woman of quality (without any
+                        disparagement either to those charming personages), expects her to give him
+                        a smile. He thinks the other ladies much better creatures than they are
+                        taken for; and for their parts, they tell him, that if all men were like
+                        himself they would trust the sex again:—which, for aught we know, is the
+                        truth. He has, indeed, what he thinks a very liberal opinion of ladies in
+                        general; judging them all, in a manner, with the eye of a seaman's
+                        experience. Yet he will believe nevertheless in the <soCalled>truelove</soCalled>
+                        of any given damsel whom he seeks in the way of marriage, let him roam as
+                        much, or remain as long at a distance, as he pleases. It is not that he
+                        wants feeling; but that he has read of it, time out of mind, in songs; and
+                        he looks upon constancy as a sort of exploit, answering to those which he
+                        performs at sea. He is nice in his watches and linen. He makes you presents
+                        of cornelians, antique seals, cocoa-nuts get in silver, and other valuables.
+                        When he shakes hands with you, it is like being caught in a windlass. He
+                        would not swagger about the streets in his uniform, for the world. He is
+                        generally modest in company, though liable to be irritated by what he thinks
+                        ungentlemanly behaviour. He is also liable to be rendered irritable by
+                        sickness; partly because he has been used to command others, and to be
+                        served with all possible deference and alacrity; and partly, because the
+                        idea of suffering pain, without any honour or profit to get by it, is
+                        unprofessional, and he is not accustomed to it. He treats talents unlike his
+                        own with great respect. He often perceives his own so little felt that it
+                        teaches him this feeling for that of others. Besides, he admires the
+                        quantity of information which people can get, <pb n="182" /> without
+                        travelling like himself; especially when he sees how interesting his own
+                        becomes, to them as well as to every body else. When he tells a story,
+                        particularly if full of wonders, he takes care to maintain his character for
+                        truth and simplicity, by qualifying it with all possible reservations,
+                        concessions, and anticipations of objection; such as <q type="term">in
+                            case, at such times as, so to speak, as it were, at least, at any rate.</q>
+                        He seldom uses sea-terms but when jocosely provoked by something contrary to
+                        his habits of life; as for instance, if he is always meeting you on
+                        horseback, he asks if you never mean to walk the deck again; or if he finds
+                        you studying day after day, he says you are always overhauling your
+                        log-book. He makes more new acquaintances, and forgets his old ones less,
+                        than any other man in the busy world; for he is so compelled to make his
+                        home every where, remembers his native one as such a place of enjoyment, has
+                        all his friendly recollections so fixed upon his mind at sea, and has so
+                        much to tell and to hear when he returns, that change and separation lose
+                        with him the most heartless part of their nature. He also sees such a
+                        variety of customs and manners, that he becomes charitable in his opinions
+                        altogether; and charity, while it diffuses the affections, cannot let the
+                        old ones go. Half the secret of human intercourse is to make allowance for
+                        each other. </p>
+                    <p>When the Officer is superannuated or retires, he becomes, if intelligent
+                        and enquiring, one of the most agreeable old men in the world,
+                        equally welcome to the silent for his card-playing, and to the
+                        conversational
+                        for his recollections. He is fond of astronomy and books of
+                        voyages, and is immortal with all who know him for having been round
+                        the world, or seen the Transit of Venus, or had one of his fingers carried
+                        off by a New Zealand hatchet, or a present of feathers from an
+                        Otaheitean beauty. If not elevated by his acquirements above some
+                        of his humbler tastes, he delights in a corner-cupboard holding his
+                        cocoa-nuts and punchbowl; has his summer-house castellated and
+                        planted with wooden cannon; and sets up the figure of his old ship,
+                        the Britannia or the Lovely Nancy, for a statue in the garden; where
+                        it stares eternally with red cheeks and round black eyes, as if in
+                        astonishment at it's situation. </p>
+                    <p>Chaucer, who wrote his Canterbury Tales about four hundred and thirty years
+                        ago, has among his other characters in that work a Shipman, who is exactly
+                        of the same cast as the modern sailor,—the same robustness, courage, and
+                        rough drawn virtue, doing it's duty, without being very nice in helping
+                        itself to it's recreations. There is the very dirk, the complexion, the
+                        jollity, the experience, and the bad horsemanship. The plain unaffected
+                        ending of the description has the air of a sailor's own speech; while the
+                        line about the beard is exceedingly picturesque, poetical, and
+                        comprehensive. In copying it out, we shall merely alter the old spelling,
+                        where the words are still modern. <cit>
+                            <quote>
+                                <l rend="indent">A Shipman was there, wonned far by west; </l>
+                                <l>For aught I wot, he was of Dartëmouth. </l>
+                                <l>He rode upon a rouncie, as he couth,<note type="hunt">He rode
+                        upon a hack-horse, as well as he could.</note></l>
+                                <l>All in a gown of falding to the knee. </l>
+                                <l>A dagger hanging by a lace had he, </l>
+                                <pb n="183" />
+                                <l>About his neck, under his arm adown. </l>
+                                <l>The hot summer had made his hew all brown. </l>
+                                <l>And certainly he was a good felaw. </l>
+                                <l>Full many a draught of wine he haddë draw </l>
+                                <l>From Bourdeaux ward, while that the chapman slep. </l>
+                                <l>Of nice conscience took he no keep. </l>
+                                <l>If that he fought and had the higher hand, </l>
+                                <l>By water he sent 'em home to every land. </l>
+                                <l>But of his craft, to reckon well his tides, </l>
+                                <l>His streames and his strandës him besides, </l>
+                                <l>His harborough, his moon, and his lode manage, </l>
+                                <l>There was not such from Hull unto Carthage. </l>
+                                <l>Hardy he was, and wise, I undertake; </l>
+                                <l>With many a tempest had his beard been shake. </l>
+                                <l>He knew well all the havens, as they were, </l>
+                                <l>From Gothland to the Cape de Finisterre, </l>
+                                <l>And every creek in Britain and in Spain. </l>
+                                <l>His barge ycleped was the Magdelain. <note type="source">
+                                        <bibl>
+                                            <author>Chaucer</author>, <title>The Canterbury Tales</title>
+                                        </bibl>
+                                    </note></l>
+                            </quote>
 
-Indic. But you, Mrs. Jane, can : and let me t^ll you, that that is not 
-ithe least advantage which you have over Miss Sarah Jones. So we will 
-^o on with our picture. 
-
-
-The first object of the seaman on landing is to spend his money : but 
-his first sensation is the strange firmness of the earth, which he goes 
-dreading in a sort of heavy light way, half waggoner and half dancing- 
-master, his shoulders rolling, and his feet touching and going ; tlie 
-5ame way, in short, in which he keeps himself prepared for all the rol-; 
-ling chances of the vessel, when on deck. There is always, to us, this 
-appearance of lightness of foot and heavy strength of upper works, in a, 
-sailor. And he feels it himself. He lets his jacket fly open, and his 
-shoulders slouch, and his hair grow long to be gathered into a heavy 
-pigtail ; but when full dressed, he prides himself on a certain gentility 
-.of toe; on a white stocking and a natty shoe, issuing lightly out of the 
-flowing blue trowser. His arms are neutral, hanging and swinging in a 
-jcurve aloof; his hands, half open, look as if they had just been 
-handling ropes, and had no object in life but to handle them again. He 
-is proud of appearing in a new hat and slops, with a Belcher handker-, 
-.chief flowing loosely round his neck, and the corner of another out ot 
-his pocket. Thus equipped, with pinchbeck buckles in his shoes 
-(which he bought for gold) he puts some tobacco in his mouth, not as if 
-he were going to use it directly, but as if he stufltd it in a pouch on 
-one side, as a pelican does fish, to employ it hereafter : and so, with 
-Bet Monson at his side, and perhaps a cane or whanghee twisted under 
-his other arm, sallies forth to take possession of all Lubberland. He 
-buys every thingihat he comes athwart, — nuts, gingerbread, apples, 
-shoe-strings, beer, brandy, gin, buckles, knives, a watch, (two, if he 
-has money enough), gowns and handkerchiefs for Bet, and his mother 
-and sisters, dozens of " Superfine Best Men's Cotton Stockings," 
-dozens of '^ Superfine Best Women's Cotton Ditto," best good Check 
-for Shirts (though he has too much already), infinite needles and thread 
-(to sew hjs trowsers with some day), a footman's laced hat, Bear's 
-Grease to make his hair grow (by way of joke,) several sticks, all sorts 
-of Jew articles, a flute (which he can't play, and never intends), a leg 
-of mutton which he carries somewhere to roast, and for a piece of 
-whi^h the landlord of the Ship makes him pay twice what he gave for 
-the whole ; — in short, all that money can be spent upon, which is 
-every thing but mediciuc gratis; and this he would insist on paying 
-
-
-
-
-180 THE INDICATOR. 
-
-
-for. He would buy all the painfcd parrots on an Italian's head, ofi 
-purpose to break them, rather than not spend his money. He has 
-fiddles and a dance at the Ship, with oceans of flip and grog ; and gives 
-the blind fiddler tobacco for sweetmeats, and half a crown for tread- 
-ing on his toe. He asks the landlady, with a sigh, after her daughter 
-Nance who first fired his heart with her silk-stockings; and finding 
-that she is married and in trouble, leaves five cro\yns for her; which 
-the old lady appropriates as part payment for a shilling in advance. 
-He goes to the port playhouse with Bet Mpnson, and a great red hand- 
-Jcerchief full of apples, gingerbread nuts, and fresh beef; calls out for 
-the fiddlers and Rule 13ritannia ; pelts Tom Sikes in the pit ; and com- 
-pares Othello to the black ship's cook in his white night-cap. When 
-lie comes to London, he and some messmates take a hackney-coach, full 
-of Bet Monsons and tobacco-pipes, and go through the streets smoking; 
-and lolling out of window. He has ever been cautious of ven- 
-turing'on horseback; and among his other sights in foreign parts, 
-Telates with unfeigned astonishment how he has seen the Turk^ 
-yidp, — " Only," says he, guarding against the hearer's incredu- 
-lity, " they have saddle-boxes to hold 'em in, fore and aft ; 
-and shovels like for stirrups.'' He will tell you how the Chinese 
-drink, and the Necuus dance, and the monkies pelt you with 
-cocoa-nuts; and how King Domy would have built him a mud hut 
-and made him a Peer of the Realm, if he would have stopped with 
-hira and taught hiiri to make trowsers. He has q. sister at a " School 
-for Young Ladies," who blushes with a mixture of pleasure and shame 
-'at his appearance ; and whose confusion he completes, by slipping 
-four-pence into her hand, and" saying out loud that he has '' no more 
-copper" about him. His mother and elder sisters at home doat on all 
-he says and does, telling him however that he is a great sea-fellow, 
-and \Vas always wild ever since he was a hop-o'-my-thumb no higher 
-than the window-locker. He tells his mother that she would be a 
-Duchess in Paranaboo ; at which the good old portly dame laughs and 
-looks proud. When his sisters complain of his roniping, he says that 
-they are pnly sorj-y it is not the baker. He frightens them with a 
-mask made after the New Zealand fashion, and is forgiven for his 
-learning. Their mantle-piece is filled by him with shells and shark's 
-teeth; and when he goes to sea again, there is no end of tears, and 
-God-bless yous, and home-made gingerbread. 
-
-
-His Officer on shore does much of all this, only, generally speaking, 
-in a higher taste. The moment he lands he buys quantities of jewel- 
-lery and other valuables, for all the females of his acquaintance ; and 
-is taken in for every article. He sends in a cart load of fresh meat to 
-the ship, though he is going to town next day ; and calling in at a 
-cliandk^'s fpr some candles, is persuaded to buy a dozgn of green wax^ 
-yvith-rt'hich he lights up the ship at evening; regretting that the fine 
-moonlight hinders the effect of the colour. A man, with a bundle 
-beneath his arm, acqosts him in an under-tone ; and, with a look in 
-■which respect for his knowledge is mixed with an avowed zeal for his 
-own interest, asks if his Honour will just step under the gangway 
-hQrr., and inspect some real India shawls. The gallant Lieutenant 
-
-
-
-
-* tllE INDICATOR. J8l 
-
-
-«pys fb himself, '* This fellow knows what's what, by h»s face;" and 
-feo he proves it by being taken in on the spot. When he brings the 
-shawls home, he says to his sister with an air of triumph, ^' There, 
-Poll, there's something for you ; only cost me twelve, and is worth 
-twenty, if it's worth a dollar." She turns pale — " Twenty what, my 
-dear George ? Why, you haven't given twelve dollars for it, I hope?" 
-" Not f, by the Lord.'' — " That's lucky; because you see, ray dear 
-George, that all together is not worth more than fourteen or fifteea 
-shillings." " Fourteen or fifteen what ! Why, it's real India, en't it? 
-Why the fellow told me so ; or I'm sure I'd as soon" — (here he tries 
-to hide his blushes with a bluster) *' I'd as soon have given him twelve 
-douses on the chaps as twelve guineas." '■* Twelve guineas," ex- 
-claims the sister ; and th«n drawling forth " Why — my^ — deak— ^ 
-George,'^ is proceeding to shew him Avhat the articles would have cost 
-at Condell's, when he interrupts her by requesting her to go and 
-chuse for herself a tea-table service. He then makes his escape to 
-some messmates at a coffee-house, and drowns his recollection of the 
-shawls in the best wine, and a discussion on the comparative merits of 
-the English and West Indian beauties and tables. At the theatre 
-afterwards, where he has never been before, he takes a lady at the 
-back of one of the boxes for a woman of qnaflty ; and when, after 
-returning his. long respectfnl gaze with a smile, she turns aside and 
-puts her handkerchief to her mouth, he thinks it is in derision, till his 
-friend undeceives him. He is introduced to the lady ; and ever after- 
-wards, at first sight of a woman of quality (without any disparage- 
-ment either to those charming personages), expects her to give him a 
-smile. He thinks the other ladies much better creatures than they are 
-tsiken for ; and for their parts, they tell him, that if all men were Hke 
-himselfj they would trust the se-x again ; — which, for aught we know, 
-is the truth. He has, indeed, what he thinks a very liberal opinion of 
-ladies in general; judging them all, in a manner, with the eye of a 
-.seaman's experience. Yet he will believe nevertheless in the " trwe- 
-love" of any given damsel whom he seeks in the way of marriage, let 
-him roam as much, or remain as long at a distance, as he pleases. It 
-is not that he wants feeling ; but that he has read of it, time out of 
-niind, in songs; and he looks upon constancy as a sort of exploit, 
-answering to those which he performs at sea. He is nice in his 
-watches and linen. He makes you presents of cornelians, antique 
-seals, cocoa-nuts get in silver, and other valuables. When he shakes 
-hands with you, it is like being caught in a windlass. He would not 
-jswagger about the streets in his uniform, for the world. He is gene- 
-rally modest in company, though liable to be irritated by what he 
-thinks ungeutlemanly behaviour. He is also liable to be rendered 
-irritable by sickness; partly because he has been used to command 
-others, and to be served with all possible deference and alacrity ; and 
-partly, because the idea of suffering pain, vrithout any honour or profit 
-jto get by it, is unprofessional, and he is not accustomed to it. He 
-.treats talenls unlike his^-own with great respect. He often perceives 
-ihis own so little felt tliat it teaches him this feeling for thai of others. ' 
-Besid;cs, l;e admires the quantity of information which people can get. 
+                        </cit>
+                        When about to tell his Tale, he tells his fellow-travellers that he shall
+                        chink them so merry a bell, <cit>
+                            <quote>
+                                <l>That it shall waken all this company: </l>
+                                <l>But it shall not be of philosophy. </l>
+                                <l>Nor of physick, nor of terms quaint of law: </l>
+                                <l>There is but little Latin in my maw. <note type="source">
+                                        <bibl>
+                                            <author>Chaucer</author>, <title>The Canterbury Tales</title>
+                                        </bibl>
+                                    </note></l>
+                            </quote>
+                        </cit>
+                        The story he tells is a well-known one in the Italian novels, of a monk who
+                        made love to a merchant's wife, and borrowed a hundred franks of the husband
+                        to give her. She accordingly admits his addresses during the absence of her
+                        good man on a journey. When the latter returns, he applies to the cunning
+                        monk for repayment, and is deferred to the lady; who thus finds her
+                        mercenary behaviour outwitted. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <head type="header" rend="center"><hi rend="small capitalise">Translation of Tasso's Celebrated</hi>
+                    <lb /><hi rend="large capitalise">Ode to the Golden Age,</hi>
+                <lb /><hi rend="small italics">Beginning, "O bella eta dell' oro."</hi></head>
+                <!-- Edited up to here, continue with section 2 -->
                 </div2>
                 <div2 type="endmatter"> <!-- Publisher and printer information -->
 
