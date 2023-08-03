@@ -8,6 +8,7 @@ This document is intended for reference purposes. It contains a list of various 
     - [Page Elements](#page-elements)
     - [Head Elements](#head-elements)
     - [Note Elements](#note-elements)
+    - [Citation Elements](#citation-elements)
     - [Choice Elements](#choice-elements)
 - Examples
 
@@ -43,6 +44,18 @@ Types:
 - source: indicating the source of a text or reference.
 - hunt: note present in the original / written by Hunt.
 - editorial: editorial note.
+
+### Citation Elements
+```xml
+<cit>
+    <quote>
+        <!--Quoted elements exist here. They can be formatted normally (i.e. <lg> and <l> for verse, <p> for prose).-->
+    </quote>
+    <note type="source"> 
+        <bibl> </bibl>
+    </note>
+</cit>
+```
 
 ### Choice Elements
 ```xml 
