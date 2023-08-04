@@ -24,7 +24,7 @@ The divider elements are numbered to provide a more immediate indication of thei
 
 ```<div1 type="issue" n="">``` elements are used as general containers for the entire issue (aka chapter) of the publication. This is mostly to future-proof the layout in case all the publications get combined into one file. The type is always "issue" and the n attribute is the issue number in modern Arabic numerals.
 
-```<div2 type="{ forematter, section, endmatter }" n="">``` elements are used as general containers for the forematter, sections, and end of the publication issue. The forematter contains the title, epigraph, and catalogue data. The section contains the header and text. The endmatter contains the publication and printing notice appended to each issue. The type is always "forematter", "section", or "endmatter" and the n attribute is the section number in modern Arabic numerals when using the "section" divider.
+```<div2 type="{ title, section, colophon }" n="">``` elements are used as general containers for the title, sections, and colophon of the publication issue. The title div contains the title, epigraph, and catalogue data. The section contains the header and text. The colophon contains the publication and printing notice appended to each issue. The type is always "title", "section", or "colophon" and the n attribute is the section number in modern Arabic numerals when using the "section" divider.
 
 ### Page Elements
 ```<pb n="" />``` (page beginning) marks the beginning of a new page in a paginated document. [3.11.3 Milestone Elements](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5) This is for reference purposes only, and is not intended to signal that the page is reproduced exactly in the digital edition.

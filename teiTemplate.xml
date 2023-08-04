@@ -44,7 +44,7 @@
         <body>
             <div1 type="issue" n="x">
                 <pb n="" /> <!-- Page beginning -->
-                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
@@ -61,7 +61,7 @@
                         
                     </p>
                 </div2>
-                <div2 type="endmatter"> <!-- Publisher and printer information -->
+                <div2 type="colophon"> <!-- Publisher and printer information -->
 
                 </div2>
             </div1>
