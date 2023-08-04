@@ -10,6 +10,7 @@ This document is intended for reference purposes. It contains a list of various 
     - [Note Elements](#note-elements)
     - [Citation Elements](#citation-elements)
     - [Choice Elements](#choice-elements)
+    - [Hi Elements](#hi-elements)
 - Examples
 
 ## Using the Undoubler
@@ -76,3 +77,12 @@ OR
 [3.5 Simple Editorial Changes](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COED)
 
 Choice elements allow flexibility in the viewing of a text's editorial interventions. The first example is used when the editor has corrected a word, where the corr element contains the corrected word, and the sic element contains the original word. The second is used when the editor has regularised a word, where the orig element contains the original word, and the reg element contains the regularised word.
+
+### Hi Elements
+```<hi rend="">``` (highlighted) marks a word or phrase as graphically distinct from the surrounding text, for reasons concerning which no claim is made. [TEI element hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html)
+
+The hi tag always has a rend attribute, which is used to indicate a specific type of highlighting, which should be one of the following:
+- bold
+- italic
+- underline
+- smallcaps
