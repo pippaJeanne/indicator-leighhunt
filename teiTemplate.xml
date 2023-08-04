@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.0 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <!-- File Description -->
@@ -60,6 +65,10 @@
                     <p>
                         
                     </p>
+                </div2>
+                <div2 type="correspondents"> <!-- Appended notes to correspondents -->
+                    <head type="header">TO CORRESPONDENTS.</head>
+                    <p></p>
                 </div2>
                 <div2 type="colophon"> <!-- Publisher and printer information -->
 
