@@ -86,3 +86,13 @@ The hi tag always has a rend attribute, which is used to indicate a specific typ
 - italic
 - underline
 - smallcaps
+
+### lg Elements
+Verses containing more than one line should be encoded with  a ```<lg>``` tag containing an xml:lang attribute and a rend attribute. A @type attribute with the value "citation" is to be added if the verse is a citation and/or a @subtype attribute with the value "translation-hunt" if the verse is the translation of a passage provided by Hunt. Ex:
+```xml
+<lg xml:lang="" rend="" type="citation" subtype="translation-hunt"> <!-- The @type and @subtype attributes are optional.-->
+<l></l>
+<l></l>
+<l rend="right"><bibl><ref target="url">Ref</ref></bibl></l> <!--To add in the last line in case of citation-->
+</lg>
+```
