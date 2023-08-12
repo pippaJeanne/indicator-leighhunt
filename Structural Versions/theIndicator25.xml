@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title>The Indicator</title>
+                    <date when="1820-03-29">March 29th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="25">
+                <pb n="193" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XXV.—WEDNESDAY, March 29th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header" rend="">Hoole's and Farifax's Tasso</head>
+                    <p>
+                        
+                    </p>
+                </div2>
+                <div2 type="correspondents"> <!-- Appended notes to correspondents -->
+                    <head type="header">TO CORRESPONDENTS.</head>
+                    <p></p>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
