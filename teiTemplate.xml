@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.0 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
 <!-- This template is intended to be used as a starting point for encoding a new text.
         It is not intended as a fixed structure, but rather collects some of the most common
         structural elements for convenience and uniformity. Please add/remove elements as
@@ -12,7 +12,11 @@
             <!-- Title of the work -->
             <titleStmt>
                 <title>The Indicator</title>
-                <author>Hunt, James Henry Leigh (1784-1859)</author>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
             </titleStmt>
 
             <publicationStmt>
@@ -22,7 +26,11 @@
             <!-- Author information -->
             <sourceDesc>
                 <bibl>
-                    <author>Hunt, James Henry Leigh (1784-1859)</author>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
                     <title>The Indicator</title>
                     <date when="YYYY-MM-DD">____ __, 18__</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
                     <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
