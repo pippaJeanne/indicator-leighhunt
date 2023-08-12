@@ -11,6 +11,7 @@ This document is intended for reference purposes. It contains a list of various 
     - [Citation Elements](#citation-elements)
     - [Choice Elements](#choice-elements)
     - [Hi Elements](#hi-elements)
+    _ [lg Elements](#lg-elements)
 - Examples
 
 ## Using the Undoubler
@@ -56,6 +57,22 @@ Types:
         <bibl> </bibl>
     </note>
 </cit>
+ ```
+For rendering of poems:
+```xml
+
+ <lg xml:lang="en" type="ex:hunt-translation" xml:id="poem-title" rend="center">
+    <lg xml:id="verse1"> 
+    <l></l>
+    <l></l>
+    </lg>
+
+    <lg xml:id="verse2"> 
+    <l></l>
+    <l></l>
+    </lg> 
+ <!--[…]-->
+</lg>
 ```
 
 ### Choice Elements
@@ -86,3 +103,18 @@ The hi tag always has a rend attribute, which is used to indicate a specific typ
 - italic
 - underline
 - smallcaps
+
+### lg Elements
+Verses containing more than one line should be encoded with  a ```<lg>``` tag containing an xml:lang attribute and a rend attribute. A @type attribute with the value "citation" is to be added if the verse is a citation and/or a @type attribute with the value "translation-hunt" if the verse is the translation of a passage provided by Hunt. Ex:
+```xml
+<lg type="citation" xml:lang="" rend="" xml:id="some-text" corresp="#trans"> <!-- The @type attribute is optional.--> <!--The @xml:id will give an identifier so we can point back to it--> <!--the @corresp attribute points to the translation of the text if present in text-->
+<l></l>
+<l></l>
+</lg>
+<!-- Add the source as a note like explained in the Citation Elements section -->
+
+<lg xml:lang="" rend="" type="translation-hunt" corresp="#some-text" xml:id="trans"> <!-- The @type attribute is optional.--> <!--The @xml:id will give an identifier so we can point back to it--> <!--the @corresp attribute points back to the source text of the translation if present in text-->
+<l></l>
+<l></l>
+</lg>
+```
