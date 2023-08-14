@@ -107,7 +107,7 @@ The hi tag always has a rend attribute, which is used to indicate a specific typ
 ### lg Elements
 Verses containing more than one line should be encoded with  a ```<lg>``` tag containing an xml:lang attribute and a rend attribute. A @type attribute with the value "citation" is to be added if the verse is a citation and/or a @type attribute with the value "translation-hunt" if the verse is the translation of a passage provided by Hunt. Ex:
 ```xml
-<lg type="citation" xml:lang="" rend="" xml:id="some-text" corresp="#trans"> <!-- The @type attribute is optional.--> <!--The @xml:id will give an identifier so we can point back to it--> <!--the @corresp attribute points to the translation of the text if present in text-->
+<lg xml:lang="" rend="" xml:id="some-text" corresp="#trans"> <!--The @xml:id will give an identifier so we can point back to it--> <!--the @corresp attribute points to the translation of the text if present in text-->
 <l></l>
 <l></l>
 </lg>

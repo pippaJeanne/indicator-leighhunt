@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                    </author>
+                    ,
+                    <title>The Indicator</title>
+                    <date when="1820-03-29">March
+                    29th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph
+                    Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers
+                are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="25">
+                <pb n="193" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser"
+                                ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XXV.—WEDNESDAY, March 29th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header" rend="center">Hoole's and Farifax's Tasso</head>
+                    <note type="editorial"> Hunt's essay would prove influentially convincing enough
+                        as to become the introduction to a subsequent 1851 edition of Thomas
+                        Fairfax's translation, <title>Godfrey of Bulloigne: Or, The Recovery of
+                        Jerusalem</title>. </note>
+                    <p>By far the best-known translation of the Jerusalem Delivered of
+                        Tasso, is Mr. Hoole's. It has appeared, and still appears, in editions
+                        of all sizes; and is gathered as a matter of course into collections of
+                        the British Poets. The sole reason of this is, not that Mr. Hoole
+                        translated the work, but that his original was Tasso. It is the name
+                        of Tasso, solely, that has carried him on from generation to generation,
+                        like a corpse attached to the immortal spirit of the Italian, and making
+                        it dull with the burden. </p>
+                    <p>The re-publication, in various quarters, of the finer translation by
+                        Fairfax, will doubtless help to detach one idea from the other; but as
+                        Mr. Hoole's version has also been often reprinted of late, and as Fairfax
+                        himself presents some difficulties in the way of popularity, a few
+                        observations on the two works may not be useless in furthering the
+                        public interests of poetry. </p>
+                    <p>Hoole is a singular example of the popularity which a man may obtain by
+                        taking up a great author to translate, with whom he has nothing in common,
+                        and merely subserving to the worst taste of the times. Some readers put
+                        faith in the imposture from the mere name of the original, some from a
+                        deference to the translator's knowledge of Italian, some from the
+                        recommendation of any living author who has talent in any thing, some from a
+                        real wish to be acquainted with a great poet, some from national self-love,
+                        some from indolence of various kinds, many from the habit of acquiescing in
+                        any thing after their own fashion, and many more because the rest have done
+                        so before them. Yet many of these, with whatever sincerity they have praised
+                        the original author, would have thought no higher of him than of some middle
+                        writers of their own country, as indeed has frequently been the case; and
+                        others, who have undertaken to agree with the lovers of his native language
+                        in their enthusiasm about his pathos and dignity, or his vivacity, naivete,
+                        &amp;c. would have owned, if they had the courage, what <pb n="194" /> a
+                        dull fellow they could not help thinking him. The rest, who really loved and
+                        understood poetry, Italian or English, could only sit still and Wonder at
+                        all this, preferring, at the risk of being thought foolish or pedantic, the
+                        old obsolete translators of Shakspeare's time, when <q>our language,</q>
+                        saith Mr. Hoole, <q>was in <choice>
+                                <corr>its</corr>
+                                <sic>it's</sic>
+                            </choice> rudiments.</q>
+                        It was lucky however for this gentleman, that he had the period he wrote in
+                        almost all to himself. There was not a single real poet surviving, except
+                        Cowper.—Gray, Armstrong, Akenside, Collins, Churchill,—every body was gone
+                        who was likely to detect him publicly; and the age, in every respect, was
+                        then in the fullness of <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> poetical emptiness. The
+                        French school was in <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> last weedy exuberance.
+                        The apprentices and their mistresses, in their pretty transparent Acrostic
+                        masks, walked forth by hundreds to meet each other in Poet's Corner in the
+                        magazines; and as nobody knew any thing about poetry, except that it had to
+                        repeat <soCalled>ingenious</soCalled> common-places, to rhyme upon heart,
+                        impart, love, prove, &amp;c., and to pause, as Pope did, upon the fourth and
+                        fifth syllables, every body could write poetry, and admit it in others:
+                        Pope, whose real merits they did not understand after all, was the greatest
+                        poet that ever lived; next to him were Goldsmith, and Collins, and Gray, the
+                        two latter however very little understood; then, or perhaps before them, was
+                        Dr. Johnson, whom our master at school gave us as a poetical model: then
+                        came, in their respective circles, though at due distance, Mr. Jenkins, Mr.
+                        Tomkins, or Mr. Hipkins, who wrote lines on the beautiful Miss Y. of
+                        Bristol, or the charming Miss Z. of Fish Street Hill; and nothing was
+                        wanting to make such a person as Mr. Hoole a great and popular writer with
+                        these gentlemen and ladies, but that he should write a great quantity of
+                        verses; which he accordingly did. That Dr. Johnson should speak a good word
+                        for Mr. Hoole, much less write a dedication for him, is not surprising;
+                        though what a poet must he be, who goes to another to write a dedication for
+                        him! Johnson was in the habit of writing dedications for those who were
+                        conscious of not being good turners of a prose paragraph, and who wished to
+                        approach the great with a proper one; and Mr. Hoole, it seems, was among
+                        these modest persons, though he did not scruple to approach Tasso and
+                        Ariosto with his poetry. The dedication, which is to the late Queen, and
+                        which expresses a wish that Tasso had lived in a happier time and
+                        experienced from the descendants of the House of Este, <q>a more liberal and
+                        potent patronage,</q> is elegant and to the purpose. The good word is a mere
+                        word, and very equivocal besides. Johnson, who is now pretty generally
+                        understood not to have been so good a critic in poetry as he was strong in
+                        general understanding, and justly eminent in some respects, might have been
+                        very capable of applauding a translation upon Mr. Hoole's principles; but it
+                        is more than to be suspected, that he would have desired a higher order of
+                        workmanship out of the manufactory. Hoole was a pitch too low for his
+                        admiration, though it appeared he had private qualities sufficient to secure
+                        his good wishes; and even those, there is good reason to conclude, could not
+                        have prevented a feeling of contempt for a translator of great poets, who
+                        would come to him for a dedication. When Boswell, in one of his maudlin fits
+                        of adulation, affected to consider something with Goldsmith's name to it as
+                        supplied by the Doctor, the latter would not restrain his scorn; and said,
+                        that Goldsmith would no more come to him for a paragraph, than he would to
+                        be fed with a pap-spoon. And it is curious to observe, aWfter all, how and
+                        in what place Johnson has said his good word for our translator. It is at
+                        the end of the Life of Waller, and amounts to this coy prophecy;—that
+                        Fairfax's work, <cit>
+                            <q>after Mr. Hoole's translation, will not-soon be
+                                reprinted.</q>
+                            <note type="source">
+                                <bibl xml:id="johnson_LivesOfPoets">
+                                    <author>
+                                        <forename>Samuel</forename>
+                                        <surname>Johnson</surname>
+                                    </author>
+                        ,
+        <title>Lives of the English Poets</title>, <biblScope>Chapter on
+                        Waller</biblScope>
+                                </bibl>. </note>
+                        </cit></p>
+                    <p>Mr. Hoole indeed, with superfluous ingenuity, has contrived to let us know,
+                        by other means than his translation, how totally unfit he was for the task.
+                        He came to it with an ignorance of all real poetry, that of his own country
+                        not excepted. After telling us that <q>Fairfax's
+                            version is in stanzas that cannot be read with pleasure by the
+                        generality
+                            of those who have a taste for English poetry,</q>—that it is <q>irksome
+                        in such a degree as to surmount curiosity, and more than counterbalance
+                            all the beauty of expression and sentiment to be found in
+                            that work,</q>—and that, as a proof of all this, <q>it appears scarcely
+                        to
+                            have been read at all,</q>—he adds, <q>I do not flatter myself that I
+                        have
+                            excelled Fairfax, except in my measure and versification, and even of
+                        these the principal recommendation is that they are modern, and better
+                        adapted to the ear of all readers of English poetry, except of the very
+                            few who have acquired a taste for the phrases and cadences of those
+                        times, when our verse, if not our language was in it's rudiments:</q> that
+                        is to say, at the close of our very greatest age both in poetry and prose.
+                        So little did Mr. Hoole know what he was about, either in poetry, or the
+                        versification of it, that while in the course of his translation he was
+                        elaborately doing or undoing something now and then, in order to mingle a
+                        little of Dryden with Pope, he forgot, or was not aware, that Dryden himself
+                        professed to have learnt part of his versification from Fairfax. </p>
+                    <p>In our first <hi rend="smallcaps">Indicator</hi> we gave a specimen of the
+                        way in which a common-place writer would translate Shakspeare, and melt down
+                        his fine things into nothings. The reader might take that specimen alone, as
+                        giving a full, true, and particular account of the merits of Mr. Hoole as a
+                        translator of Tasso. And we will beg him still to keep it in mind, or to
+                        refer to it, as saving us the necessity of many extracts; for it is not a
+                        pleasant task to dwell upon the demerits of any body. We will just give a
+                        comparative specimen or two of the old and modern version of Tasso, and then
+                        take our leave of Mr. Hoole, to indulge ourselves with a few more words upon
+                        Fairfax and translation. </p>
+                    <p>Edward Fairfax led a life which a brother poet might envy. He was of a
+                        distinguished family, the same as that of Fairfax the Parliament General;
+                        and having an estate of his own, and the greater estates of leisure and
+                        genius, he passed the whole of his days at a seat in the Forest of
+                        Knaresborough, in the bosom of his family, and in the cultivation of poetry.
+                        He appears to have had all, and more than a poet wants,—tranquillity, a
+                        fortune beyond competence, books, rural scenes, and an age that could
+                        understand him. He flourished just at the close of that golden period, that
+                        height and strong summer-time of <pb n="196" /> our poetry, when language,
+                        wisdom, and imagination were alike at their noblest, and thoughts were
+                        poured forth as profusely as words have been since. He was inclined to the
+                        music of verse; and the age was full of music, of every species;—he was of a
+                        romantic and most probably superstitious turn of mind<note type="hunt">He
+                        wrote a treatise on Daemonology, which was founded on <q>occurrences in
+                                his own family,</q> and is still somewhere in MS. If King James knew
+                        this, it must have been an additional incitement to his patronage of the
+                        Jerusalem, the second edition of which was printed at his desire.</note>;
+                        and popular superstitions were still more in favour than during the
+                        preceding era;—he had perhaps something of the indolence of a man of
+                        fortune; and in the course of his Italian luxuries, he met with a poet,
+                        whose tendencies were like his own, and who was great enough to render the
+                        task of translation honourable as well as delightful. </p>
+                    <p>He accordingly produced a version of Tasso, which we do not say Is equal to
+                        the original, or at all exempt from errors which a future translator (always
+                        provided he is a poet too) may avoid; but which we nevertheless do not
+                        hesitate to pronounce the completest translation, and most like it's
+                        original, of any we have ever seen.—We will open our extracts with that
+                        famous blast of the trumpet, which has been so echoed in all countries, and
+                        which Voltaire quotes to <choice>
+                            <corr>show</corr>
+                            <sic>shew</sic>
+                        </choice> what the Italian
+                        language can do in the way of grandeur. <cit>
+                            <quote>
+                                <lg>
+                                    <l>Chiama gli abitator de l'ombre eterne </l>
+                                    <l>Il ranco suon de la tartarea tromba,</l>
+                                    <l>Treman le spaziose atre caverne, </l>
+                                    <l>E l'aer cieco a quel romor rimbomba: </l>
+                                    <l>Nè sì stridendo mai da le superne </l>
+                                    <l>Regioni del cielo il folgor piomba: </l>
+                                    <l>Nè sì scossa gia mai trema la terra, </l>
+                                    <l>Quando i vapori in sen gravida serra. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl xml:id="tasso_Liberata">
+                                    <author>
+                                        <forename>Torquato</forename>
+                                        <surname>Tasso</surname>
+                                    </author>
+                        ,
+        <title>La Gerusalemme Liberata</title>, <biblScope>Canto IV,
+                        stanza 3</biblScope>
+                                </bibl>. </note>
+                        </cit>
+                        This is certainly nothing like the <q>tinsel</q> which Boileau ventured to
+                        talk about; but Mr. Hoole would have made it so if he could. This is his
+                        translation. He begins with making the trumpet convene the devils. It is
+                        Pluto at Home,—or sending a court circular. <cit>
+                            <quote>
+                                <lg>
+                                    <l>The trumpet now with hoarse resounding breath </l>
+                                    <l>Convenes the spirits in the shades of death; </l>
+                                    <l>The hollow caverns tremble at the sound; </l>
+                                    <l>The air re-echoes <hi rend="italic">to the noise around</hi>; </l>
+                                    <l><hi rend="italic">Not louder terrors shake the distant pole</hi>
+                        , </l>
+                                    <l>When through the skies tlie rattling thunders roll; </l>
+                                    <l>Not greater tremors heave the labouring earth, </l>
+                                    <l>When vapours, pent within, <hi rend="italic">contend for
+                        birth</hi>.</l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl xml:id="tasso_Liberata_Hoole">
+                                    <author>
+                                        <forename>Torquato</forename>
+                                        <surname>Tasso</surname>
+                                    </author>
+                        ,
+        <title>Jerusalem Delivered; An Heroic Poem</title>, translated by <editor>
+                                        <forename>John</forename>
+                                        <surname>Hoole</surname>
+                                    </editor>
+                        ,
+        <biblScope>Canto IV, verse 17</biblScope>
+                                </bibl>
+                        .
+</note>
+                        </cit> Fairfax, though he translates the
+                        concluding couplet rather from Virgil than Tasso, lets loose a spirit worthy
+                        of both poets. Observe the fine taste with which he has managed to preserve
+                        the double rhymes, that make the original so resounding. <cit>
+                            <quote>
+                                <lg>
+                                    <l>The drearie trumpet blew a dreadful blast, </l>
+                                    <l>And rombled through the lands and kingdomes under, </l>
+                                    <l>Through wastness wide it roar'd, and hollowes vast, </l>
+                                    <l>And fill'd the deepe with horror, feare, and wonder; </l>
+                                    <pb n="197" />
+                                    <l>Not halfe so dreadful noise the tempests cast, </l>
+                                    <l>That fall from skies with stormes of haile and thunder; </l>
+                                    <l rend="indent">Nor half so lowd the whistling winds doe sing, </l>
+                                    <l rend="indent">Broke from the earthen prisons of their king. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl xml:id="tasso_Liberata_Fairfax">
+                                    <author>
+                                        <forename>Torquato</forename>
+                                        <surname>Tasso</surname>
+                                    </author>
+                        ,
+        <title>Godfrey of Bulloigne, or the Recoverie of Jerusalem</title>,
+                        translated by <editor>
+                                        <forename>Edward</forename>
+                                        <surname>Fairfax</surname>
+                                    </editor>
+                        ,
+        <biblScope>Canto IV, stanza 3</biblScope>
+                                </bibl>
+                        .
+</note>
+                        </cit> We must not, however, take tip our
+                        room with the original Italian. The next passage we shall quote is a
+                        celebrated one also, of a different description,—that of the angel
+                        descending on Mount Lebanon;—but it is all the same to Mr. Hoole. <cit>
+                            <quote>
+                                <lg>
+                                    <l>Refulgent rays his beauteous locks enfold; </l>
+                                    <l>White are his nimble wings, and edg'd with gold: </l>
+                                    <l>With these through winds and clouds he cuts his way, </l>
+                                    <l>Flies o'er the land, and skims along the sea. </l>
+                                    <l>Thus stood the angelic power prepared for flight, </l>
+                                    <l>Then instant darted from th' empyreal height; </l>
+                                    <l>Direct to Lebanon his course he bent, </l>
+                                    <l>There closed his plumes, and made his first descent. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="tasso_Liberata_Hoole">
+                                    Hoole, Canto I, verse 107.
+                                </ref>
+                            </note>
+                        </cit>
+                        This closing couplet is a sad misrepresentation of the original, where the
+                        angel is described, on his first touch of the mountain, as balancing himself
+                        on his wings. When Mr. Hoole takes leaves of his author, it is for want of
+                        strength to accompany him; when Fairfax does it, it is to lead you into some
+                        beautiful corner of his own fancy. It is thus he renders the passage: <cit>
+                            <quote>
+                                <lg>
+                                    <l>Of silver wings he tooke a shining paire, </l>
+                                    <l>Fringed with gold, unwearied, nimble, swift; </l>
+                                    <l>With these he parts the windes, the clouds, tge aire, </l>
+                                    <l>And over seas and earth himselfe doth lift: </l>
+                                    <l>Thus clad he cut the spheares and circles faire, </l>
+                                    <l>And the pure skies with sacred feathers clift. </l>
+                                    <l rend="indent">On Libanon at first his foot he set, </l>
+                                    <l rend="indent">And shooke his wings with roarie May-dewes wet. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberato_Fairfax">
+                                    Fairfax, Canto I, stanza 14.
+                                </ref>
+                            </note>
+                        </cit>
+                        The most striking part of the beautiful choral stanza describing the <choice>
+                            <corr>chanting</corr>
+                            <sic>chaunting</sic>
+                        </choice> of the army is
+                        totally omitted in Hoole's version. We suppose he thought the remainder
+                        sufficient, and so indeed his reader will think. <cit>
+                            <quote>
+                                <lg>
+                                    <l>So pass the tuneful band with cadence sweet, </l>
+                                    <l>The hollow vales the lengthened notes repeat; </l>
+                                    <l>The winding caverns and the mountains high </l>
+                                    <l>A thousand echoes to the sounds reply. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Hoole">
+                                    Hoole, Canto XI, verse 77.
+                                </ref>
+                            </note>
+                        </cit>
+<lb />
+<cit>
+                            <quote>
+                                <lg>
+                                    <l>Hither the armies went, and chanted shrill, </l>
+                                    <l>That all the deepe and hollow dales resound; </l>
+                                    <l>From hollow mounts and caves on every hill </l>
+                                    <l>A thousand echoes also sung around; </l>
+                                    <l>It seem'd some quire (that sung with art and skill) </l>
+                                    <l>Dwelt on those savage dennes and shadie ground; </l>
+                                    <l rend="indent">For oft resounded from the banks they heare </l>
+                                    <l rend="indent">The name of Christ and of his mother deare. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Fairfax, Canto XI, stanza 11.
+                                </ref>
+                            </note>
+                        </cit>
+                        Another specimen of Mr. Hoole, and we have done with him. It is his close of
+                        the bird's song in book the sixteenth. <cit>
+                            <quote>
+                                <lg>
+                                    <l>He ceas'd; th'approving choir with joy renew </l>
+                                    <l>Their rapturous music, and their loves pursue. </l>
+                                    <pb n="198" />
+                                    <l>Again in pairs the cooing turtles bill, </l>
+                                    <l>The feathered nations lake their amorous fill. </l>
+                                    <l>The oak, the chaster laurel seems to yield </l>
+                                    <l>And all the leafy tenants of the field. </l>
+                                    <l>The earth and streams one soul appears to move, </l>
+                                    <l>All seem impregnate with the seeds of love. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Hoole">
+                                    Hoole, Canto XVI, verse unspecified.
+                                </ref>
+                            </note>
+                        </cit>
+                        Here is not the faintest resemblance of the intense though airy
+                        voluptuousness of the original, The conclusion in particular is no more like
+                        it, than a nursery-man's ledger is like the scent of his roses. But now hear
+                        Fairfax. <cit>
+                            <quote>
+                                <lg>
+                                    <l>He ceast; and as approoving all he spoke, </l>
+                                    <l>The quire of birds their heavenly tunes renew; </l>
+                                    <l>The turtles sighed, and sighs with kisses broke; </l>
+                                    <l>The fowles to shades unseene, by paires, withdrew; </l>
+                                    <l>It seem'd the laurel chaste and stubborne oak, </l>
+                                    <l>And all the gentle trees on earth that grew, </l>
+                                    <l rend="indent">It seem'd the land, the sea, and heav'n above, </l>
+                                    <l rend="indent">All breath'd out fancy sweet, and sigh'd out
+                        love. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Fairfax, Canto XVI, stanza 16.
+                                </ref>
+                            </note>
+                        </cit>
+                        This is even superior, we think, to the original. It is the quinta pars
+                        nectaris, and makes the senses swim aside on their ovvn faintness. It is
+                        like the perfection of a <choice>
+                            <corr>crystal</corr>
+                            <sic>chrystal</sic>
+                        </choice> summer's day, made
+                        a little languid with noon, and seeming to have a sparkling and airy
+                        consciousness about it that vents itself in odorous whispers.</p>
+                    <p>The reader will observe in the foregoing specimens of Hoole, how a
+                        bad translator takes refuge from the real feelings of his author in
+                        vagueness and cant phrases. As he has no feeling of his own, he
+                        resorts, when any thing is mentioned, not to the thing itself, but to the
+                        terms in which it has been mentioned by the writers with whom he is
+                        most familiar. He does not translate his author's thoughts, but his
+                        words; or rather, he attempts only to do even that; for on that very
+                        account, he does neither. To feel either properly, is to feel both. </p>
+                    <p>We are greatly tempted to make many more extracts from Fairfax; but we must
+                        restrain ourselves. In further illustration of what we have said about the
+                        lines which he has inserted of his own, or altered to his own ideas, and the
+                        sympathy which he still keeps up with his author's feelings, we will just
+                        refer to his calling Armida, when she sets off, the Syrians' <cit>
+                            <q>night-ambling dame,</q>
+                            <note type="source">
+                                <ref target="tasso_Liberata_Fairfax">Canto IV, stanza 27.</ref>
+                            </note>
+                        </cit>—to
+                        the two lines in which he calls Sophionia in the hands of the malefactors a <cit>
+                            <q>dumb
+                            <seg type="incise">and</seg>
+                            silver dove;</q>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Canto II, stanza 26.
+                                </ref>
+                            </note>
+                        </cit>—the
+                        neighing of the horses, and clattering of arms, which, he says, <cit>
+                            <quote>
+                                <l>Pursue the echo over dale and downe; </l>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Canto I, stanza 78.
+                                </ref>
+                            </note>
+                        </cit>
+                        to the description of Armida in which, with a little over-mixture of
+                        conceit, yet beautiful, he tells us, <cit>
+                            <quote>
+                                <lg>
+                                    <l>The marble goddesse, set at Gnidos naked. </l>
+                                    <l>She seem'd, were she uncloath'd, or that awaked; — </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Canto IV, stanza 29.
+                                </ref>
+                            </note>
+                        </cit>
+                        and to the issuing forth of the devils (4. v. 18.) which as the stanza is
+                        almost entirely his own as well as a fine one, and crowded with his
+                        favourite love of daemonology, we shall quote entire:— <pb n="199" />
+<cit>
+                            <quote>
+                                <lg>
+                                    <l>Before his words the tyrant ended had, </l>
+                                    <l>The lesser devils arose with gastlie rore, </l>
+                                    <l>And thronged foorth about the world to gad; </l>
+                                    <l>Each land they filled, river, streame, and shore; </l>
+                                    <l>The goblins, fairies, feends, and furies mad, </l>
+                                    <l>Ranged in flowrie dales and mountains hore; </l>
+                                    <l rend="indent">And under every trembling leaf they sit, </l>
+                                    <l rend="indent">Between the solid earth and walkin flit. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    Canto IV, stanza 18.
+                                </ref>
+                            </note>
+                        </cit></p>
+                    <p>The faults of Fairfax are partly his own, and partly those of the period then
+                        commencing. They consist in too great a license of inversion; occasional
+                        crampness and obscurity; an over tendency to contrast; and in a singular
+                        fondness for occupying a line here and there either with epithets almost <choice>
+                            <corr>synonymous</corr>
+                            <sic>synonimous</sic>
+                        </choice>, or with a marked
+                        detail of nouns, which close his statnza like palisadoes; as for instance, <cit>
+                            <quote>
+                                <lg>
+                                    <l>The soil was gentle, smooth, soft, delicate— </l>
+                                    <l>With pitie, sadness, griefe, compassion, feare— </l>
+                                </lg>
+                            </quote>
+                            <note>
+                                <ref target="#tasso_Liberata_Fairfax">
+                                    A paraphrased combination of two distinct lines from Canto I,
+                        stanza 62, and Canto XIII, stanza 40, respectively.
+                                </ref>
+                            </note>
+                        </cit>
+                        Yet we aire not sure, whether this kind of repetition does not fall in
+                        sometimes with a certain gentle and continuous beauty. It is clear, at any
+                        rate, that the Italians, from a feeling of that sort, gave rise to it
+                        themselves, though Fairfax has carried it to an excess. Petrarch and his
+                        followers sometimes heap a line with descriptive nouns or adjectives; and
+                        that delightful wild fellow Pulci seems to take a pleasure even in repeating
+                        a multitude of notes of interrogation, and beginning a whole stanza or more
+                        with the same word. The over-tendency to contrast may also be traced to the
+                        Italians, especially as Marino was now becoming admired in England, and
+                        every body had not strength to resist his crowding syrens like Milton. The
+                        other faults are perhaps owing to Fairfax's having chosen to abide by the
+                        stanza of the original; for not being so great a master of his native
+                        language as Spenser, who with his additional line seemed to defy difficulty
+                        in this respect, and too often to no purpose, he hampered himself with the
+                        great recurrence of rhymes, which suits Italian much better than English. He
+                        was also, though by no means the literal translator which Hume has made him,
+                        naturally anxious in general to get the sense of his original into the same
+                        compass, which hampered him farther; and the result of all this, joined no
+                        doubt to a natural inferiority in his own genius, however true a one, is,
+                        that he is not equal to his original in the easier part of his majesty,—in
+                        livs clearness which is like that of an Italian atmosphere,—and in a certain
+                        virgin sweetness, <q>casta melodies soalve;</q>—in short, he is inferior,
+                        generally speaking, in simplicity.</p>
+                    <p>But, on the other hand, he has great beauties. If he roughened the music of
+                        Tasso a little, he stilt kept it music, and beautiful music;—some of his
+                        stanzas indeed give the sweetness of the original with the still softer
+                        sweetness of an echo; and he blew into the rest some noble organ-like notes,
+                        which perhaps the original is too deficient in. He can be also quite as
+                        stately and solemn in feeling;—he is as fervid in his devotion, as earnest
+                        and full of ghastly apprehension in his supernatural agency, as wrapt up in
+                        leafiness in his sylvan haunts, as luxuriant and alive to tangible shapes in
+                        his voluptuousnes. H? feels the <pb n="200" /> elements and varieties of his
+                        nature, like a true poet; and his translation has consequently this special
+                        mark of all true poetry, translated or original,—that when the circumstances
+                        in the story or description alter, it gives us a proper and pervading sense
+                        of the alteration. The surfaces are not all coloured alike, as in a bad and
+                        monotonous picture. We have no silken armour, as in Pope's eternal enamel;
+                        nor iron silks, as in Chapman (who is perhaps the only other various
+                        translator nevertheless); nor an everlasting taste of chips instead of
+                        succulence, as in the Ariosto of Harrington. </p>
+                    <p>We repeat, however, that the reader must not expect a perfect version in
+                        Fairfax, much less at the outset. Tasso himself, in our opinion, does not
+                        well warm you into his work till after several books; but set out resolutely
+                        with him or his translator, or with both, get past some cold looking places,
+                        and scratch through a few of Fairfax's roughnesses and obscurities, and you
+                        come upon a noble territory, full of the romantic and the sweet, of stately
+                        and of lovely shapes, of woods, waters, and sunny pleasures,—with drearier
+                        seclusions apart, and fields of sonorous battle. We do not wonder that
+                        Collins was fond of this author and his translator, since Johnson has told
+                        us, in that piece of prose music of his, that <cit>
+                            <q>he loved fairies, genii, and monsters,<seg type="incise">—that</seg>
+                        he delighted to rove through the meanders of enchantment, to gaze on the
+                        magnificence of golden palaces, and to repose by the waterfalls of Elysium.</q>
+                            <note type="source">
+                                <ref target="#johnson_LivesOfPoets">Johnson, Lives of the English
+                        Poets, in the chapter on Collins.</ref>
+                            </note>
+                        </cit>
+                        Collins has given Fairfax a high and proud eulogy in his ode on the Popular
+                        Superstitions of the Highlands.—Speaking of Tasso he says, <cit>
+                            <quote>
+                                <lg>
+                                    <l>How have I sat, when piped the pensive wind, </l>
+                                    <l>To hear his harp by British Fairfax strung, </l>
+                                    <l>Prevailing poet! whose undoubting mind </l>
+                                    <l>Believed the magic wonders which he sung;— </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>William</forename>
+                                        <surname>Collins</surname>
+                                    </author>
+                        ,
+        <title>An Ode on the Popular Superstitions of the Highlands of
+                        Scotland, Considered as the Subject of Poetry</title>
+                                </bibl>
+                        .
+</note>
+                        </cit> And then he goes on in a strain of
+                        softness and luxury, that seem irritated from the countryman he is praising.
+                        Yet Collins, be it observed, was an accomplished scholar, and quite
+                        conversant with the merits of the original. Indeed that was one great cause
+                        of his eulogy. Waller, who appears to have known Italian, and Dryden who
+                        undoubtedly did so, were both great admirers of Fairfax. Waller professed to
+                        have <q>derived the harmony of his numbers</q> from him; and so did Dryden,
+                        if a reported speech of his to the Duke of Buckingham is to be taken for
+                        granted. He gives him high praise at any rate, and joins him with Spenser as <q>great
+                        masters in our language.</q> But his greatest title to regard on the score
+                        of authority comes from Milton, who when he borrowed from Tasso, took care
+                        to look at Fairfax also, and to add now and then something from him by the
+                        way. </p>
+                </div2>
+                <div2 type="correspondents"> <!-- Appended notes to correspondents -->
+                    <p>The Editor will be happy to take up both of the subjects mentioned by J. C.
+                        He
+                        had already intended to write upon the latter; and the other will fall in
+                        excellently
+                        with the spirit of his little work.</p>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+                        Joseph Appleyard.</p>
+                    <p>Printed by Joseph Appleyard, No. 19, Catherine-street, Strand,——Price 2d.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
