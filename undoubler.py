@@ -16,7 +16,7 @@ def undouble(input_file, output_file):
                 # Write the converted line to the output file, preserving line breaks
                 output_file.write(converted_line)
                 # Add a newline character to preserve line breaks
-                output_file.write('\n')
+                #output_file.write('\n')
 
 # Example usage
 input_file = 'raw_double.txt'
