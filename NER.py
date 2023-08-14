@@ -35,7 +35,7 @@ for elem in root.findall('.//{http://www.tei-c.org/ns/1.0}div2[@type="colophon"]
         elem.text = ''
     string += str(elem.text) + " "
     result = "".join(string)
-print(result)
+#print(result)
     
 # We begin applying the Named Entity Recognition (NER) with spacy
 
