@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <!-- File Description -->
+    <fileDesc>
+      <!-- Title of the work -->
+      <titleStmt>
+        <title>The Indicator</title>
+        <title type="subtitle">No. XXXIX.— <date>WEDNESDAY, July 5th, 1820</date>.</title>
+        <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+      </titleStmt>
+
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+
+      <!-- Author information -->
+      <sourceDesc>
+        <bibl>
+          <author>
+                <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                <surname>Hunt</surname>,
+                <date from="1784" to="1859">1784-1859</date>
+                    </author>
+          <title>The Indicator</title>
+          <date when="1820-07-05">July 5th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+          <pubPlace><settlement><placeName>London</placeName></settlement>, <country><placeName>England</placeName></country></pubPlace>
+          <publisher><persName>Joseph Appleyard</persName></publisher> <!-- Publisher details if available -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <!-- Encoding Description -->
+   <encodingDesc>
+      <!-- Add any encoding information or guidelines here if applicable -->
+      <p>
+        Basic encoding, capturing relevant formatting and layout information. Page numbers are
+        included for reference to the source only and are not intended to indicate precise
+        preservation.
+      </p>
+    </encodingDesc>
+
+    <!-- Profile Description -->
+    <profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="issue" n="39">
+        <pb n="305"/> <!-- Page beginning -->
+        <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+          <head type="title">THE INDICATOR.</head>
+          <epigraph>
+            <l>There he arriving round about doth flie,</l>
+            <l>And takes survey with busie, curious eye:</l>
+            <l>Now this, now that, he tasteth tenderly.<note type="citation">
+              <bibl>
+                <ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon"/>
+              </bibl>
+              </note></l>
+            <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
+          </epigraph>
+          <head type="catalogue" rend="center">No. XXXIX.<date when="1820-07-05"> —WEDNESDAY, July 5th, 1820</date>.</head>
+        </div2>
+        <div2 type="section" n="1"> <!-- Header and content -->
+          <head type="header" rend="center"><persName key="Galgano" type="fictional">GALGANO</persName> AND <persName type="fictional" xml:id="minoccia">MADONNA MINOCCIA</persName>.</head>
+           <p>In <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName> in <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> , famous for it's sweet voices and pleasant air, lived a sprightly aud accomplished young man of the name of 
+<persName key="Galgano" type="fictional">Galgano</persName>, who had long loved in vain the wife of one <persName type="fictional">Signor Stricca</persName>. 
+He knew nothing of the husband, except that he was what we call a 
+respectable man; and something or other in his mind prevented him 
+from making his acquaintance; but he contrived to meet the lady 
+wherever he could at other men's houses, and to let her know the 
+extent of his admiration. He wore her colours at tournaments. He 
+played and sung to the mandolin under her window, when her husband 
+was away. He was always of her opinion in company, partly because 
+he was in love, and partly because their dispositions were so alike that 
+he really thought as she did. One evening as a party sat out on a 
+large wide balcony full of orange-trees, listening to music that was 
+going on inside of the house, <persName type="fictional" corresp="#minoccia">Madonna Minoccia</persName> (such was the lady's 
+name) dropped a small jewel in one of the trees; and as he was helping her to find it, her sweet stooping face and spicy-smelling hair 
+appeared so lovely among the polished and graceful leaves, that he 
+could but steal a kiss upon one of her eyelids, adding in a low and 
+earnest voice, "Forgive me, for I could not help if."</p> 
+<p>Whether the sincere and respectful manner in which these words 
+were uttered, had any influence upon the lady's mind, we'cannot say; 
+but neither on this, nor on future occasions when he sent her presents 
+and letters, did she return any answer, klnd or unkind; nor did she 
+<choice><orig>shew</orig><reg>show</reg></choice> him a different countenance whenever they met. She only 
+dropped her eyes a little more than usual, when he spoke to her; but 
+whether again this was owing to a wish to avoid looking at him, or 
+to some little feeling of self-love, perhaps unknown to herself, and 
+produced by the recollection of that irrepressible movement on his 
+part, is not to be ascertained. Some ladies will say, that she ought to 
+have made a complaint to her husband, or spoken to the people whom 
+he visited, or looked the man into the dust at once: and doubtless           
+<pb n="306"/>
+this would have settled the matter on all sides. But <persName type="fictional" corresp="#minoccia">Madonna Minoccia</persName> was of so kind a disposition, that she could not easily find it in 
+her heart to complain of any body, much less of a man who found 
+such irresistible gentleness in her eyelids. Besides, whatever may be 
+thought of her vanity in this score, she was really so good, and innocent, 
+and modest, that we know not how much it would have taken to convince her fully of any one's being really in love with her, or admiring her more than other ladies for qualities which she thought so many of 
+them must have in common. In short, <persName type="fictional" corresp="#minoccia">Madonna</persName>, though innocent,
+was not ignorant that gallantry was very common in <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>. Her 
+husband, who was a very honest sincere-hearted man, had told her 
+that all unmarried young men had their vagaries; and, as for that 
+matter, many very grave-looking married people too; and she thought, 
+that if a husband whom she loved, and whose word she could rely on, 
+set her an example nevertheless of conjugal fidelity, she could not do 
+better than do her duty quietly and without ostentation, and think of 
+these odd proceedings both as good-naturedly and rarely as possible.</p>
+
+<p>Unfortunately for <persName key="Galgano" type="fictional">Galgano</persName>, this kind of temper was the worst thing 
+in the world to make him leave off his love. He had habitually got a 
+common notion of gallantry from the light in which it was generally 
+regarded; but his instinct was better. The subtlety of love made him 
+discover what was passing in <persName type="fictional" corresp="#minoccia">Minoccia</persName>'s mind; and as he had the 
+elements of true modesty in him as well as herself, and would want 
+much to be convinced that a woman really loved him, whatever might 
+be his affection for her, or rather in proportion to the sincerity of it, 
+he thought that she only treated him as she would any other young 
+man who had paid her unwelcome attention. But then to see how 
+kind she still was, —to observe no change in her, for all his unwelcomeness, but only such as might be construed into a gentle request to him to forbear,— in short, to meet with a woman who neither <choice><orig>shew</orig><reg>show</reg></choice>ed 
+a disposition to gallantry, nor resentment against the manifestation of 
+it, nor a coldness that might be construed into natural indifference, all 
+this made him so much in love, that he thought his very being failed 
+him and wanted replenishing, if he was a day without seeing her. He 
+took a lodging opposite <persName type="fictional">Signor Stricca</persName>'s house; and in order to indulge 
+himself in looking at her without being discovered, filled the window 
+of his room with orange trees. At times, when every thing was still, 
+and the windows were open in the warm summer-time, he heard her 
+voice speaking to the servants. "It is the same kind voice,"said he, 
+"always."At other times, he sat watching her through his orange- 
+trees, as she read a book, or worked at her embroidery; and if she 
+left off, and happened to look at them, (which he often moved about 
+with a noise, for that purpose) it seemed to him as if her face was 
+coming again among the leaves. Then he thought it would never 
+come, and that he should never touch it more; and he felt sick with 
+impatience, and said to himself, "This is the way these virtuous 
+people are kind, is it?"</p>
+
+<p>It chanced that <persName type="fictional">Signor Stricca</persName> took a house at a little distance from 
+<placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, where his wife, who was fond of a garden, from that time forth 
+always resided. <persName key="Galgano" type="fictional">Galgano</persName>, who was like a bird with a string tied to 
+<pb n="307"/>
+his leg, be sure flew after them. He found a room in a cottage just 
+pitched like his former one. The orange-trees were removed, and he 
+recommenced his enamoured task, fully resolved besides to get intimate with <persName type="fictional">Signor Stricca</persName>, and try what importunity could do in the country. "I think," said <persName type="fictional" corresp="#minoccia">Madonna</persName> <persName type="fictional" corresp="#minoccia">Minoccia</persName>, to her maid-servant, 
+looking out of window, "I can never turn my eyes any where but I 
+see beautiful orange-trees." — "Ah," sighed <persName key="Galgano" type="fictional">Galgano</persName>, "the turning of 
+those eyes! They ought always to light upon what is beautiful." 
+"I could swear," said <persName type="fictional" corresp="#minoccia">Madonna</persName>, "if my husband would let me, 
+that those were the very same oranges which belonged to our invisible 
+neighbour at <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, only he must be too old a bachelor to change his 
+quarters." And she began to sing a canzonet that was all over the 
+country:—</p>
+<lg xml:lang="it" rend="center">
+<l>"<persName>Araticle</persName>, belle arancie,</l>
+<l>"Pienolte come guancie,–</l>
+</lg> 
+<p>Here she suddenly stopped, and said "I am very giddy <choice><orig>to day</orig><reg>today</reg></choice>, to sing such lawless little rhymes; but the skies are so blue, and the leaves 
+sO green, they make me <choice><orig>chaunt</orig><reg>chant</reg></choice> like a bird. I can see my husband 
+now with a bird's eye. There he is, Lisetta, coming through the 
+olive-trees. Go and get me my veil, and I'll walk and meet him like a 
+fair unknown." — "The invisible neighbour!" thought <persName key="Galgano" type="fictional">Galgano</persName>:— 
+"is this coquetry now, or is it sheer innocence and vivacity! And the 
+song of the oranges! I'll try however— I'll look at her above the 
+leaves."</p>
+<p>Now the reader must be informed that <persName key="Galgano" type="fictional">Galgano</persName> himself was the 
+author of this canzonet, both words and music, and was generally 
+known as such. Whether <persName type="fictional" corresp="#minoccia">Minoccia</persName> knew it, we cannot determine; 
+but <persName key="Galgano" type="fictional">Galgano</persName> thought that she could hardly have quite forgotten the 
+adventure of the orange-tree, especially as the song was calculated to 
+call it to mind. The whole of the words amounted to this :—</p>
+<lg xml:lang="en" rend="center">
+<l>Oh oranges, sweet orange,</l>
+<l>Plunnpy cheeks that peep in trees,</l>
+<l>The crabbed'st churl in all the south</l>
+<l>Would hardly let a thirsty mouth</l>
+<l>Gaze at ye, and long to taste.</l>
+<l>Nor grant one golden kiss at last.</l>
+<l rend="indent">La, la, la —la sol fa mi—</l>
+<l rend="indent">My lady looked through the orange-tree.</l>
+</lg>
+<lg xml:lang="en" rend="center">
+<l>Yet cheeks there are, yet cheeks there are,</l>
+<l>Sweeter —Oh good God, how far!—</l>
+<l>That make a thirst like very death</l>
+<l>Down to the heart through lips and breath;</l>
+<l>And if we asked a taste of those,</l>
+<l>The kindest owners would turn foe.</l>
+<l ana="indent">O la, la —la sol fa mi—</l>
+<l ana="indent">My lady's gone from the ofangc-tree.</l>
+</lg>
+<p><persName key="Galgano" type="fictional">Galgano</persName>, full of this modest complaint against husbands and of <persName type="fictional" corresp="#minoccia">Minoccia</persName>'s knowledge of it, suddenly raised his head over the orange-pots, 
+and made a very bold yet courteous bow full in <persName type="fictional" corresp="#minoccia">Madonna</persName>'s astonished 
+fare. For it was astonished: —there was, unfortunately, no doubt of 
+that. She resumed herself however with the best grace she could, and 
+staying just long enough to drop one of her kiadest though gravest 
+<pb n="308"/>
+<choice><orig>courtsey</orig><reg>curtsey</reg></choice>s, walked slowly from the window. After that he never saw her there again. </p>
+<p><persName key="Galgano" type="fictional">Galgano</persName> tried all the points of view about the house, but could only 
+catch an occasional glimpse of her through the garden trees. He could 
+not even meet with <persName type="fictional">Signor Stricca</persName>, to whom he meant under some plau- 
+sible pretext to introduce himself. At length however a favourable 
+ppportuniry occurred. His dog, in scouring hither and thither, had 
+darted into the front gate of the house, and seemed resolved not to be 
+hunted out till he had made the full circuit of the grounds. "My 
+master, Sir," said one of the servants, "bade me ask you if you would 
+<choice><orig>chuse</orig><reg>choose</reg></choice> to walk in and call the dog out yourself?" "I thank you," answered <persName key="Galgano" type="fictional">Galgano</persName>, who seemed to feel that he could not go in, precisely because he had the best opportunity in the world; "I will whistle him to me over those palings there." He did so, and the dog 
+presently appeared, followed by <persName type="fictional">Signor Stricca</persName> and his household. 
+The animal, in leaping to his master over the palings, hurt his leg; but 
+nothing could induce <persName key="Galgano" type="fictional">Galgano</persName> to enter the house. "<persName type="fictional" corresp="#minoccia">Minoccia</persName>, my 
+love," cried the host, "why do you not come up, and entreat Signor 
+<persName key="Galgano" type="fictional">Galgano</persName> to favour our home with his presence?" The lady was approaching, when <persName key="Galgano" type="fictional">Galgano</persName>, lapping up the wounded dog in his cloak, hurried off, protesting that he had the rascalliest business in life to 
+attend to, and that he would take the very earliest opportunity of 
+repaying himself for his loss. "There now," said Stricca, to a little 
+coxcombical looking fellow who was on a holiday visit to him, "there 
+is one of the most accomplished gentlemen in all <placeName>Italy</placeName>, and yet he does 
+not disdain to wrap up his bleeding dog in his silken coat. That, "continued he, to his wife, "is Signor <persName key="Galgano" type="fictional">Galgano</persName>, one of the finest wits 
+in <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, and what is better, one of the most generous of men. But 
+you must have seen him before." "Yes," replied <persName type="fictional" corresp="#minoccia">Madonna</persName>, "but I 
+knew nothing of his generosity." Her husband, like one generous 
+man speaking of another, related twenty different instances in which 
+<persName key="Galgano" type="fictional">Galgano</persName> had manifested his friendship and liberality in the most deli- 
+cate manner; so that <persName type="fictional" corresp="#minoccia">Minoccia</persName>, at last, almost began to feel the kiss 
+in the orange-tree stronger upon her eyelids, than she did when it was 
+stolen.</p> 
+<p><persName key="Galgano" type="fictional">Galgano</persName> soon made his appearance in <persName type="fictional">Signor Stricca</persName>'s house, and 
+could not but perceive that the lady suffered herself to look kinder at 
+him than when he bowed to her out of the cottage window. He was 
+beginning to congratulate himself, after the fashion of the young gallants among whonji he had been brought up; but what perplexed him 
+was the extremely affectionate attention she paid her husband; and 
+his perplexity was not diminished by the very great kindness <choice><orig>shewn</orig><reg>shown</reg></choice> him by the husband himself. Indeed the kindness of both seemed to 
+go hand in. hand; so that our hero, having never yet been taught that 
+a lady to whom a stranger had <choice><orig>shewn</orig><reg>shown</reg></choice> attention could do any thing but favour him entirely, or laugh at or insult him, was more than ever 
+bewildered between his respect for the husband and increasing passion 
+for the wife.</p> 
+<p><persName key="Galgano" type="fictional">Galgano</persName>, though not in so many words, pressed his suit in a manner 
+that grew warmer every day. <persName type="fictional" corresp="#minoccia">Minoccia</persName> seemed more and more dis<pb n="309" break="no"/> 
+tressed at it; and yet her kindness appeared to increase in proportion. 
+At length, one afternoon, as they sat together in a summer-house, 
+<persName key="Galgano" type="fictional">Galgano</persName> seeing her stoop her face into an orange-tree, was so overcome with the recollection of the first meeting of their faces, that he repeated the kiss, changing it however from the eyelids to the lips; 
+and it struck him that she did not withdraw as quickly as before, nor 
+look by any means so calm and indifferent. He accordingly took her hand in order to kiss it with a passionate gratitude, when she laid her other hand upon his, and looking at him with a sort of appealing tenderness in the face, said, "Signor <persName key="Galgano" type="fictional">Galgano</persName>, I respect you for numberless generous things I have heard of you; and knowing as I do how little what is called gallantry is thought of, I cannot deny but that 
+your present attentions to me and apparent wishes do not hinder me 
+from letting my respect run into a kinder feeling towards you. Perhaps, so sweet to us is flattery from those we regard, they have even more effect upon me than I ought to allow. But, Sir, there are always 
+persons, whether they act justly or unjustly themselves, who do think 
+a great deal of this gallantry, and who, if the case applied to themselves, would be rendered very uncomfortable; and, Signor <persName key="Galgano" type="fictional">Galgano</persName>,I have one of the very best husbands in the world; and if I <choice><orig>shew</orig><reg>show</reg></choice> any 
+weakness towards another unbecoming a grateful wife, I do beseech 
+you, Sir, —and I pay you one of the greatest and most affectionate 
+compliments under heaven,— that rather than do or risk any thing the knowledge of which should pain him, you will help me with all the united strength of your generosity against my very self; otherwise" (here she fell into a blushing passion of tears) "it may be a hard struggle for me to call to mind what I ought respecting the happiness of others, while you are saying to me things that make me frightfully 
+absorbed in the moment before me."</p>
+
+<p>We leave the reader to guess how <persName key="Galgano" type="fictional">Galgano</persName>'s attention to the appealing part of this speech was divided and hurt by the tenderness it avowed, and the opportunity it seemed to offer him. He passionately 
+kissed the hand of the gentle <persName type="fictional" corresp="#minoccia">Minoccia</persName>, and she did not hinder him, 
+only she looked another way, drying up her tears; and he thought 
+the turn of her head and neck never looked so lovely. "And if it 
+were possible," asked he, "that the opinions of good and generous 
+men could be changed on this subject (not that it would become me to 
+seek to change those of the man I allude to) —but if it were possible, 
+and no bar were in the way of a small share of <persName type="fictional" corresp="#minoccia">Minoccia</persName>'s kindness, 
+might I indeed then hope that she would not withdraw it?" "Is it 
+fair, Signor <persName key="Galgano" type="fictional">Galgano</persName>," said <persName type="fictional" corresp="#minoccia">Minoccia</persName>, in a low but kind voice, "to 
+ask me such a question, after the words that have found their way out 
+of my lips?" — "And who then was the kindest of men or women, — 
+next to yourself, dearest <persName type="fictional" corresp="#minoccia">Minoccia</persName>,— that told you so many handsome 
+and over-coloured things of your worshipper?" "My husband himself," answered she; —"he has long had a regard for your character, and at last he taught me to share it." — " Did he so!" exclaimed <persName key="Galgano" type="fictional">Galgano</persName>; — "then by heavens––" He broke off a moment, and resumed in a quieter tone: — "You, Madame <persName type="fictional" corresp="#minoccia">Minoccia</persName>, who have a 
+loving and affectionate heart, and who confess that you have been
+<pb n="310"/>
+moved to some regard for me by qualities which you know only by report, will gues what pangs that spirit must go through which has heen made dizzy by looking upon your qualities day after day, and yet must tear itself from a happiness in which it would plunge headlong. But by the great and good God, which created all this beauty around us, and you the most beautiful of all beautiful things in the midst of it, I do love the generosity, and the sincerity, and the harmony that keeps them beautiful, so much more than my own will, that although I think the happiness might be greater, it shall never be said that <persName key="Galgano" type="fictional">Galgano</persName> made it less; and that he made it less too, because the generosity trusted him, and the kind sincerity leaned on him for support. — One embrace, or I shall die." And <persName key="Galgano" type="fictional">Galgano</persName> not only gave, but received an embrace almost as warm as what he gave; and <persName type="fictional" corresp="#minoccia">Minoccia</persName> kissed his eyelids, and then putting her hand over them and pressing them as if not to let him see, suddenly took it off, and disappeared.</p> 
+<p>We know not how <persName type="fictional">Signor Stricca</persName> received the account of this interview at the time; for Madame <persName type="fictional" corresp="#minoccia">Minoccia</persName> certainly related it to him; but it is in the records of <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, that <date>years afterwards</date>, while she was yet alive, her husband became bound for Signor <persName key="Galgano" type="fictional">Galgano</persName> in a large sum of money, as security for an office which the latter held in the state; and it appears by the dates in the papers, that they were close neighbours as well as friends.<note type="hunt">This story (with the usual difference of detail) is from the Italian Novelists, and has been told in Painter's Palace of Pleasure, one of the store-houses of our great dramatic writers.</note></p>
+        </div2>
+       <div2 type="section" n="2"> <!-- Header and content -->
+          <head type="header" rend="center">ON THE SLOW RISE OF THE MOST RATIONAL OPINIONS.</head>
+          <!--Continue here-->
+          <p>
+          It would be surprising to think by what slow degrees the most rational, and apparently the most obvious improvements take place in humau opinion, did not habit, and self-love, and the fear of change, sufficiently account for them. Some find it as difficult to leave off a mere habit of opinion, however pernicious, as drunkards their drams. Others cannot bear a diminution in the respect which they have long entertained for themselves, as sensible and conclusive thinkers. Others are afraid of all innovation, in consequence of the shock it gives to society; and yet the next minute they would wage a dozen wars to preserve the old notions. Again, it is thought a triumphant argument with some, if the new opinion proposed be to the advantage of the proposer; — which is a very idle objection; because if it supposes the general good, it includes his among the rest.</p> 
+<p>Innovation, as mere innovation, is a want of reverence for antiquity; an insensibility to the accumulated habits of time, and to the comforts and consolations they have gathered by the way. But on the 
+<pb n="311"/> 
+other hand, objection to it, as mere objection, is cowardice and selfishness; cowardice, for fear of responsibility; selfishness, for fear of losing a certain property in our self-respect, and having the notion of our own wisdom and sufficiency disturbed. You may know the goodness of either in proportion to it's enthusiasm, sincerity, gentleness, and wish to reason. You may know the badness, by a certain mixture of coldness and violence, by it's shuffling, it's petulance, and it's tendency to dismiss a subject at once with abuse. As to the innovator, it is his business to make up his mind to a certain portion of misrepresentation; for who was the innovator, great or small, that ever was without it? But it is his business also to examine narrowly into his own consciousness, and to be sure, from experiment, that he can deny himself for the good of others, what he would willingly enjoy with them in common.</p> 
+<p>There is not a liberal opinion now existing, which has not gone through heaps of ugly faces and yelling threats, like the saints in the old pictures. To differ in religious faith was once thought the height of undeniable villainy; and is so still by some ignorant sects. The Spaniards were taught to believe that all heretics had monster-like faces, till Lord <persName key="Charles Mordaunt, 3rd Earl of Peterborough" ref="http://www.wikidata.org/entity/Q1065565" type="real">Peterborough</persName>'s officers persuaded the nuns otherwise. <persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759">Milton</persName> says that he could not propose some new things even after an ancient fashion, (and indeed almost every proposition for human improvement is to be found in the ancient writers), but</p>
+<cit>
+<quote>
+<lg xml:lang="en" rend="center">
+<l>––Straight a hideous noise environs me</l>
+<l>Of owls and cuckoos, asses, apes, and dogs;</l>
+<l>As when those hinds that were transformed to frogs</l> 
+<l>Railed at <persName type="fictional">Latona</persName>'s twin-born progeny,</l> 
+<l>Which after held the sun and moon in fee.</l> 
+</lg>
+</quote><note type="source" rend="right"><bibl><author>John Milton</author><title>Sonnet 12</title><ref target="https://www.google.com/search?q=miltons+sonnet+XII"/></bibl></note> 
+</cit>
+<p>It is lamentable to see such a man as <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" cert="medium" type="real">Bacon</persName> trying to feel his way into popular persuasion, by smoothing the king's and people's prejudices as he goes, giving even into the superstitions about witchcraft. A friend was observing to us a short time since, that he was not aware of the existence of any denouncement of cruelty to animals, till <persName key="Alexander VII" ref="http://www.wikidata.org/entity/Q127254" type="real">Pope</persName> wrote a paper on it in the <title>Guardian</title>. <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" cert="high" type="real">Shakespeare</persName>, who says every thing, has said something about <q>"the poor beetle whom we tread upon, feeling as great a pang as when a giant dies;"</q> but it is only in a cursory manner, and by way of illustration. His reflections upon the hunted stag, as if by way of excuse for the novelty of their sympathy, are put into the mouth of an eccentric and saturnine philosopher. His age indeed, so great and humane in many respects, was so insensible in this particular point, that one of the greatest and humanest of its ornaments, Sir <persName key="Philip Sidney" ref="http://www.wikidata.org/entity/Q315509" cert="medium" type="real">Philip Sidney</persName>, describes his ladies and courtiers as laudably diverting themselves with sealing up a dove's eyes, to see it strain higher and higher into the light, — with other "cunning" diversions too gross and cruel to repeat. Poor ignorant old beldams, whom their neighbours or themselves took for witches, were put to death at a later period, with great approbation, not only of the "British Solomon," King <persName key="King James VI of Scotland and I of England (1566–1625)" ref="http://www.wikidata.org/entity/Q118876108" cert="high" type="real">James</persName>, but of a high legal Authority, and even the good old Sir <persName key="Matthew Hale" ref="http://www.wikidata.org/entity/Q130059" cert="medium" type="real">Matthew Hale</persName>. The celebrated <persName key="Robert Boyle" ref="http://www.wikidata.org/entity/Q43393" cert="medium" type="real" xml:id="robertBoyle">Robert Boyle</persName>, as our readers know, was accounted a sort of perfection of a man, esppcially in all respects intellectual, moral,
+<pb n="312"/> 
+and religious. This excellent person was in the habit of moralizing upon every thing that he did or suffered, such as "Upon his manner of giving meat to his dog," — "Upon his horse stumbling in a very fair way," — "Upon his sitting at ease in a coach that went very fast," <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> Among other Reflections, is one "Upon a fish's struggling after having swallowed the hook." It amounts to this; that at the moment when the fish thinks himself about to be most happy, the hook "does so wound and tear his tender gills, and thereby puts him into such restless pain, that no doubt he wishes the hook, bait and all, were out of his torn jaws again. Thus," says he, "men who do what they should not to obtain any sensual desires," <choice><orig>&amp;c.</orig><reg>etc.</reg></choice>  <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> Not a thought comes over him as to his own part in the business, and what he ought to say of himself for tearing the jaws and gills to indulge his own appetite for excitement. Take also the following: — "Fifth Section — Reflection 1. Killing a crow (out of window) in a hog's trough, and immediately tracing the ensuing reflection with a pen made of one of his quills. — Long and patiently did I wait for this unlucky crow, wallowing in the sluttish trough, (whose sides kept him a great while out of the reach of my gun), and gorging himself with no less greediness than the very swinish proprietaries of the feast, till at length my no less unexpected than fatal shot in a moment struck him down, and turning the scene of his delight into that of his pangs, made him abruptly alter his note, and change his triumphant <choice><orig>chaunt</orig><reg>chant</reg></choice> into a dismal and tragic noise. This method is not unusual to divine justice towards brawny and incorrigfble sinners," <choice><orig>&amp;c.</orig><reg>etc.</reg></choice>  <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> Thus the crow, for eating his dinner, is a rascal worthy to be shot by the Honourable Mr. <persName key="Robert Boyle" type="real" corresp="#robertBoyle">Robert Boyle</persName>, before the latter sits down to his own; while the said <persName key="Robert Boyle" type="real" corresp="#robertBoyle">Mr. Boyle</persName>, instead of contenting himself with being a gentleman in search of amusement at the expence of birds and fish, is a representative of Divine Justice.</p> 
+<p>We laugh at this wretched moral pedantry now, and deplore the involuntary hard-heartedness which such mistakes in religion tended to produce; but in how many respects should it not make us look about us, and see where we fall short of an enlargement of thinking?</p>
+          </div2>
+           <div2 type="correspondents">
+                    <head type="header" rend="center">TO CORRESPONDENTS.</head>
+                    <p><hi rend="italic">A True Story</hi> will be inverted<note type="editorial">Could also be "invented". Level of certainty of this word is low since it is not clear in the source text due to an insufficient ink printing defect.</note> with pleasure.
+                    </p>
+                    </div2>
+        <div2 type="colophon"> <!-- Publisher and printer information -->
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+            Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above place, and by all Booksellers and Newsmen.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>
