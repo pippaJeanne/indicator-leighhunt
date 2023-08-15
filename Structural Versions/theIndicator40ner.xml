@@ -8,7 +8,11 @@
       <titleStmt>
         <title>The Indicator</title>
         <title type="subtitle">No. XL.— WEDNESDAY, JULY 12th, 1820.</title>
-        <author><persName>Hunt, James Henry Leigh</persName> (1784-1859)</author>
+        <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>
       </titleStmt>
 
       <publicationStmt>
@@ -18,7 +22,11 @@
       <!-- Author information -->
       <sourceDesc>
         <bibl>
-          <author>Hunt, James Henry Leigh (1784-1859)</author>
+          <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>
           <title>The Indicator</title>
           <date when="1820-07-12">JULY 12th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
           <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
@@ -97,7 +105,7 @@ had forgotten,) the crush was no less complimentary: ––the face was as earne
 <l>Mi piacquer si, ch' i' l'ho a gli occhi</l>
 <l>Ed avrò sempre, ov'io sia in poggio o'n riva.</l>
 </lg>
-</quote><note type="source" rend="right"><bibl><author>Francesco Petrarch</author><title><persName>Il Canzoniere</persName></title><ref target="https://en.wikipedia.org/wiki/Il_Canzoniere"/>Vol. I , Sestina 2.</bibl></note> 
+</quote><note type="source" rend="right"><bibl><author>Francesco Petrarch</author><title>Il Canzoniere</title><ref target="https://en.wikipedia.org/wiki/Il_Canzoniere"/>Vol. I , Sestina 2.</bibl></note> 
 </cit>
 
 <lg xml:lang="en" rend="center" type="translation-hunt" corresp="#sestina2verse1" xml:id="translation">
@@ -217,12 +225,12 @@ and perhaps a duller article to him by and by), we will conclude it with a trans
 <p>I cannot tell you what a weight was taken from my boyish spirits, when I learnt that this was no apparition, but a most lovely woman; 
 <pb n="320"/>
 not young, though ahe had kept her young looks, for the grief which had broken hor heart seemed to have spared her beauty.</p> 
-<p>When the rebel troops were retreating after their total defeat, in that very wood I was so fond of, a young officer, unable any longer to endure the anguish of his wounds, sunk from his horse, and laid himself down to die. He was found there by the daughter of Sir <persName>Henry R</persName>––––, and conveyed by a trusty domestic to her father's mansion. Sir <persName>Henry</persName> was a loyalist; but the officer's desperate condition excited his compassion, and his many wounds spoke a language a brave man could not misunderstand. Sir <persName>Henry</persName>'s daughter with many tears pleaded for him, and pronounced that he should be carefully and secretly attended. And well she kept that promise, for she waited upon him (her mother being long dead) for <date>many weeks</date>, and anxiously watched for the first opening of eyes, that, languid as he was, looked brightly and gratefully upon his young nurse.</p> 
+<p>When the rebel troops were retreating after their total defeat, in that very wood I was so fond of, a young officer, unable any longer to endure the anguish of his wounds, sunk from his horse, and laid himself down to die. He was found there by the daughter of <persName>Sir Henry R––––</persName>, and conveyed by a trusty domestic to her father's mansion. <persName>Sir Henry</persName> was a loyalist; but the officer's desperate condition excited his compassion, and his many wounds spoke a language a brave man could not misunderstand. <persName>Sir Henry</persName>'s daughter with many tears pleaded for him, and pronounced that he should be carefully and secretly attended. And well she kept that promise, for she waited upon him (her mother being long dead) for many weeks, and anxiously watched for the first opening of eyes, that, languid as he was, looked brightly and gratefully upon his young nurse.</p> 
 <p>You may fancy better than I can tell you, as he slowly recovered, all the moments that were spent in reading, and low-voiced singing, and gentle playing on the lute, and how many fresh flowers were brought to one whose wounded limbs would not bear him to gather them for himself, and how calmly the days glided on in the blessedness of returning health, and in that sweet silence so carefully enjoined him. I will pass by this to speak of one day, which, brighter and pleasanter than others, did not seem more bright or more lovely than the looks of the young maiden, as she gaily spoke of "a little festival which (though it must bear an unworthier name) she meant really to give in honour of her guest's recovery;" "and it is time, lady," said he, "for that guest so tended and so honoured, to tell you his whole story, and speak to you of one who will help him to thank you: may I ask you, fair lady, to write a little billet for me, which even in these times of danger I may find some means to forward?" To his mother, no doubt, she thought, as with light steps and a lighter heart she seated herself by his couch, and smilingly bade him dictate; but, when he said. "My dear wife," and lifted up his eyes to be asked for more, he saw before him a pale statue, that gave him one look of utter despair, and fell, for he had no power to help her, heavily at his feet. Those eyes never truly reflected the pure soul again, or answered by answering looks the fond enquiries of her poor old father. She lived to be as I saw her, – sweet and gentle, and delicate always; but reason returned no more. She visited till the day of her death the spot where she first saw that young soldier, and dressed herself in the very clothes that he said so well became her. <hi rend="right">Δ.</hi><note type="editorial">Uppercase delta symbol found at the end of the section. It could have been used as a signature.</note></p>
                     </div2>
         <div2 type="colophon"> <!-- Publisher and printer information -->
-        <p>Printed and published by <hi rend="smallcaps"><persName>Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
-            Price 2d. — And sold also by <hi rend="smallcaps"><orgName>A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+            Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
         </div2>
       </div1>
     </body>

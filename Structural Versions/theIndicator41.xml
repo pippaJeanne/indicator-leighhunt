@@ -8,7 +8,11 @@
       <titleStmt>
         <title>The Indicator</title>
         <title type="subtitle">No. XLI.— WEDNESDAY, JULY 19th, 1820.</title>
-        <author>Hunt, James Henry Leigh (1784-1859)</author>
+        <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>
       </titleStmt>
 
       <publicationStmt>
@@ -18,7 +22,11 @@
       <!-- Author information -->
       <sourceDesc>
         <bibl>
-          <author>Hunt, James Henry Leigh (1784-1859)</author>
+          <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>
           <title>The Indicator</title>
           <date when="1820-07-19">JULY 19th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
           <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
