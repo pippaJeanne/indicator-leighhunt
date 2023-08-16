@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title>The Indicator</title>
+                    <date when="1820-04-12">April 12th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="27">
+                <pb n="209" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XXVII.—WEDNESDAY, April 12th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">The Adventures of Cephalus and Procris.</head>
+                    <p><hi rend="smallcaps">Cephalus</hi>, the son of Deioneus, king of Thessaly, married Procris,
+                        daughter of Pandion, king of Athens. They bound each other by a
+                        vow never to love any one else. Cephalus, who was fond of hunting,
+                        suffered the wood-nymphs to be charming to no purpose; and Procris,
+                        waiting his return every day from the <choice><corr>chase</corr><sic>chace</sic></choice>, scarcely had a civil answer
+                        for the most agreeable of the Wood-Gods. </p>
+                    <p>Their security in each others exclusive attachment was increased, if
+                        possible, by a passion which was conceived for Cephalus by Aurora,
+                        the Goddess of Morning. To think that the beaming eyes and rosy
+                        blushes of so charming a deity were upon him every morning to no
+                        purpose, was a high exaltation to the proud confidence which each
+                        reposed in the other. Procris, whom the very particular vow which
+                        they had entered into had begun to render a little too apt to be jealous,
+                        concluded that if he could deny a goddess, she need have no fear of
+                        the nymphs. All that disturbed her was lest Aurora should grow
+                        angry. Cephalus, on the other hand, whatever airs he might occasionally
+                        give himself on the strength of his fidelity, held it to be
+                        utterly impossible, that his wife should for a moment forget the
+                        rejecter of a divinity. </p>
+                    <p>Aurora however was not angry. She was too much in love. Cephalus
+                        began to feel a softer pride when he found that she still loved him
+                        secretly, and that she did all in her power to gratify him. The dawns
+                        in Thessaly had never been known to be so fine. Rosy little clouds,
+                        floating in yellow light, were sure to usher in the day, whatever it
+                        might turn out at noon. He had but to wish for more air, and it came
+                        streaming upon his face. Did he want light in a gloomy depth of the
+                        forest? Beams thrilled through the twisted thickets, and made the
+                        hunters start to see their faces so plainly. Some said, that a divine
+                        countenance was to be seen at these times, passing on the other side of
+                        the trees, and looking through. It is certain, that when Cephalus had
+                        lain down towards noon to rest himself in a solitary place, he would
+                        see, as he woke, a nymph suddenly departing from the spot, whose
+                        hair shook out a kind of sunshine, He knew that this was Aurora,
+                        and could not help being touched by so delicate an aflection. </p>
+                        <pb n="210" />
+                        <p>By degrees, Cephalus began to think that Procris might spare a little
+                            of so great a love; and as these wicked thoughts stole upon him, he
+                            found Aurora steal nearer. She came closer to him, as he pretended
+                            to sleep; and loitered more in going away. At length they conversed
+                            again; and the argument, which was uppermost in both their minds,
+                            soon got more and more explicit. We are bound to believe that a
+                            goddess could reason more divinely on the subject; but it must not
+                            be concealed, that the argument which made the greatest impression
+                            on Cephalu, was one, which has since been much in fashion, though
+                            we cannot say a great deal for it. All defences of love should proceed
+                            upon the kindest grounds, or on none. The moment it refers to
+                            anything like retaliation, or even to a justice which hazards such
+                            feelings, it is trenching on the monstrous territory of hate. Be this
+                            however as it may, Aurora, one morning, did certainly condescend to
+                            finish a conversation with saying, that she would not look to have her
+                            love returned, unless Procris should first be found unfaithful. </p>
+                        <p>The husband, in whose mind this suggestion seemed to awaken all
+                            his exclusive tenderness for his wife, readily accepted the alternative.
+                            But how was Procris to be tried? Aurora soon found an expedient.
+                            She changed the appearance of Cephalus to that of a young Phoenician
+                            merchant; filled his pockets with gold and jewels; hung the rarest
+                            gems from Ormus and the Red Sea in his turban; and seating him in
+                            a Sidonian ear, drawn by white fawns, with a peacock standing beside
+                            him on the edge, sent him to offer all these bribes to Procris for her
+                            love. Cephalus turned a little pale at sight of the fawns; but his
+                            colour and even his gaiety returned in a minute; and taking a respectful
+                            farewell of the Goddess, he shook the reins, and set off down the
+                            grassy valley that led to his home. </p>
+                        <p>The fawns, with a yearning yet easy swiftness, wound along down
+                            the sides of the hill. Their snowy figures flashed in and out of the
+                            trees; the peacock's tail trailed along the air; the jewels sparkled in
+                            the stranger's turban. Procris, looking out of the window for her
+                            husband, wondered what illustrious unknown was coming. He is
+                            evidently coming towards her abode. It is the only one in the valley.
+                            He arrives, and making a respectful obeisance, alights and enters. He
+                            makes no request for admittance, but yet no fault is to be found with
+                            his easy gravity. He says indeed that he could not but come in,
+                            whether he would or no, for the fame of Procris's beauty and sweetness
+                            had reached him in Phoenicia; and as his father's great riches
+                            allowed him to travel at his leisure, he had brought a few trifles,—not
+                            as a return for the few hours' hospitality which he should presume
+                            upon;—by no means;—but solely as he had not wit or attraction
+                            enough of his own, to leave any other memorial of his visit and homage.
+                            All this was somewhat too elaborate for the people in those days; but
+                            Cephalus, in his confidence, had become a little over-ingenious; and
+                            when he had done speaking, and had presented his splendid credentials,
+                            Procris thought that the accomplished stranger undervalued himself.
+                            A little obstacle presented itself. On giving her the peacock, the
+                            handsome stranger stooped his face with an air of confident but respectful
+                            pleasure, and was about to kiss her. <said>How is this?</said> said
+                            <pb n="211" />Procris. <said>We always do so in Phoenicia,</said> said he, <said>when presents
+                            are received;</said> and without more ado, he kissed her in a sort of formal
+                            and cabalistic manner, first on one cheek, then on the other, and
+                            lastly on the forehead. Procris submitted, purely because she did
+                            not know how to object to a Phoenician custom. But on his presenting
+                            a casket full of gold, she demurred. He seemed to take no notice
+                            of this, but stooped as before, and kissed her, not only on the cheeks
+                            and forehead, but on the lips. Procris blushed, and looked displeased.
+                            <said >We always do so in Phoenecia;</said> said he, in a tone, as if all offence
+                            must be done away by that explanation. Another casket succeeded,
+                            full of jewels, and much more precious than the last. Procris wondered
+                            whether any additional ceremony was to take place in return,
+                            and was about to decline the third present in some alarm, when the
+                            stranger, with as brief an indifference of voice as his gallantry could
+                            assume, observed, that all that was to be done for the third gift, was to
+                            have the kiss returned,—slightly, it was true; but still returned:—it
+                            was always the way in Phoenicia. And he had scarcely spoken the
+                            word when he stooped as before, and kissed her. Procris would sincerely
+                            have objected to returning the salute; but as she said afterwards,
+                            she really had not time to consider. Besides, she persuaded
+                            herself that she felt relieved at thinking the casket was to be the last
+                            present; and so,—giving a short glance at the window,—the kiss was
+                            returned. A very odd, and not comfortable expression passed over
+                            the face of the stranger, but very quickly. The only reason that
+                            Procris could conceive why he should look so, was, that the salute
+                            might have been too slight. <q type="thought">He is very generous, I own,</q> thought,
+                            she; <q type="thought">but these Phoenicians are strange people.</q> The stranger had
+                            now a totally different air. It was that of an excessive gaiety, in
+                            which respect was nevertheless strongly mingled. <said>Having honoured
+                            me so far with your acquaintance,</said> said he, <said>nothing remains but to
+                            close our Phoenician ceremonies of introduction with this trifle from
+                            the Red Sea.</said> So saying, he took a most magnificent ruby from the
+                            front of his turban, and hitched it on the collar of her vest. <said >The
+                            hook,</said> said he, <said>is of Phoenician chrystal.</said> Procris's ears fairly
+                            tingled with the word Phoenician. She was bewildered; the ceremonies
+                            were indeed about to close; and this word somewhat relieved
+                            her; but she was going to demur in a more peremptory manner, when
+                            he said that all that was to be done on this final occasion was just to
+                            embrace him—slightly—in a sisterly way;—<said >It is not always done,</said>
+                            said he:—<said>the Tyre people, for instance, do not do it; but the Sidonians
+                            do; and generally speaking, it is the closing custom in Phoenici—</said>—and
+                            the final syllable was lost in a new kiss, against which
+                            she found it out of her power to remonstrate. In giving her at the
+                            same time a brief but affectionate embrace, he contrived to bring her
+                            arms about himself. He then bowed in the most respectful and grateful
+                            manner imaginable, and handed her to a seat. </p>
+                        <p>Procris, with whom the ice had been thus broken, and who already
+                            thought herself half faithless to the strictness of her vow, scarcely
+                            knew whether to feel more angry at the warmth, or piqued at the
+                            ceremonious indiiference, of the stranger. A sense however of gratified 
+                            <pb n="212" />pride, and of his extraordinary generosity, was the uppermost
+                            feeling in her mind; and this led her to be piqued rather than angry.
+                            Luckily, she bethought herself of offering him the hospitality of the
+                            house, which helped to divert her confusion. The milk and fruit
+                            were brought out; and he tasted them, more, it seemed, out of politeness,
+                            than for want of refreshment. Procris cast her eyes, first up
+                            the hill, and then at the fawns. She wondered whether the fawns and
+                            car would follow the other presents; but upon the whole concluded
+                            they would not, unless the traveller meant to stop, which was impossible;
+                            at least in that house. She made up her mind therefore to be
+                            very angry in case he should offer the fawns; when he interrupted
+                            any farther reflections. <said >Those fawns,</said> said he, <said>came into my
+                            possession in a remarkable manner. They are fatal.</said> <said >Fatal?</said>
+                            echoed Procris. <said >Not in a bad sense,</said> returned the stranger, smiling:<said>
+                            I am destined to present them to some fair one, (I know not
+                            who she is), who shall honour me with the privileges of a husband,
+                            and who is to be fairer than the Goddess that gave- them me."</said> <said >A
+                            strange impossible condition,</said> said Procris; <said>but who, pray was the
+                            Goddess?</said>—<said >Aurora.</said>—The beautiful wife of Cephalus smiled victoriously
+                            at the mention of that name. She had already triumphed
+                            over the divinity, and thought that this new test of superiority was
+                            scarcely necessary. The Phoenician, upon seeing her turn of countenance,
+                            added significantly; <said >I saw her just now, and must confess
+                            that it will take something very extraordinary to surpass her; but I
+                            do not conceive it actually impossible.</said> Procris longed to tell him of
+                            Aurora's unsuccessful passion for Cephalus. She asked how long it
+                            was, since he had seen the Goddess. <said>I saw her but now,</said> said the
+                            stranger: <said>she was conversing in the forest here.</said> <said>Do you know
+                            with whom?</said> asked Procris, <said>Oh yes; it was your husband: and
+                            this reminds me, that he told me to beg you not to be alarmed, but
+                            he should not return till night-fall.</said> <said> Not till night-fall?</said> half
+                            murmured and half enquired the fair conqueror of Aurora.—Now this
+                            was wrong in Cephalus. He was led into the mention of his interview
+                            with Aurora by it's being actually the case; but he need not have
+                            gone so far with the lesson she had taught him. We blush to say that
+                            it succeeded but too well. There is no necessity to pursue the detail
+                            farther. Towards night-fall Procris gave anxious looks up the hill,
+                            and hoped (which was kind of her) that her husband might receive
+                            great pleasure from the present she intended to make him of the
+                            fawns. <said>I think he is coming down the hill,</said> said she. <said>No,</said> said
+                            the stranger. <said>How can you tell,</said> returned Procris, <said>with your
+                            face turned from the window?</said> <said>Look at me,</said> replied he, <said>and
+                            you will know.</said> Procris turned quickly, and looked him in the face.
+                            It was Cephalus himself. Astonishment, fear, shame, and a sense of
+                            the triumphant artifice of the Goddess, fell upon her at once. She
+                            uttered a loud shriek; and tearing her vest from her husband's grasp,
+                            darted off into the woods. </p>
+                        <p>Cephalus, in his chariot of fawns, sought her a hundred ways in
+                            vain. He was at once angry and sorry: and Aurora found that her
+                            artifice had been of no use. She hoped however that time, and the
+                            <pb n="213" />absence of his wife, would mollify him; and in the mean while, seeing
+                            how sullenly he turned aside whenever she ventured to become manifest,
+                            she tried to humble him a little. His skill became less supereminent
+                            in the <choice><corr>chase</corr><sic>chace</sic></choice>. Other dogs ran faster than his; and other
+                            lances took truer aim. The gloom of the forest was still enlightened
+                            for him, because she did not wish to let him know how she was trying
+                            him; but the name of Cephalus suffered in it's reputation. People
+                            began to say that Phalerus was as good as he. </p>
+                        <p>He was sitting at home one evening in a melancholy manner, after
+                            an unsuccessful day's sport, when a beautiful female with a dog appeared
+                            at the door, and begged permission to rest herself. The faintness
+                            of her voice interested our suffering huntsman. He brought her
+                            in with great kindness, set refreshments before her, and could not help
+                            gazing with admiration on her lovely face, which covered with blushes,
+                            looked with a particularly melancholy expression on the fruits and
+                            the bowls of cream. He thought he distressed her, and began playing
+                            in a negligent manner with the dog. The animal, at a slight snap of
+                            his fingers, darted up on his legs like lightning, and stood panting
+                            and looking eagerly towards the door. Cephalus had the finest dogs
+                            in Thessaly, yet he doubted whether this was not finer than any of
+                            them. He looked at the female, and now saw that she was buskined
+                            up like a nymph of the <choice><corr>chase</corr><sic>chace</sic></choice>. <said>The truth flashes upon me,</said> thought
+                            he; <said>this is a fugitive nymph of Diana. Her buskins and her blushes
+                            tell her whole story.</said> The fair stranger seemed first oppressed, and
+                            then relieved by his gaze. <said>You guess,</said> said she, <said>but too well, I
+                            fear, what has put me upon your kind hospitality. But the other
+                            sex, especially where they are of the best natures, will be too kind to
+                            betray me. I have indeed fled from the company of Diana, having
+                            been first left myself by a River-God, who</said>—She blushed, and was
+                            silent. <said>And this dog?</said> enquired Cephalus, after reassuring her.
+                            <said>It was my favourite dog in the <choice><corr>chase</corr><sic>chace</sic></choice>,</said> said she; <said>now my faithful
+                            companion in flight. Poor Lailaps!</said> And the dog, forgetting his
+                            vivacity in an instant, came and lay at his mistress's feet, as if he
+                            would have wound about them. They were very beautiful feet.
+                            <q type="thought">The River-God doubtless admired them,</q> thought Cephalus. But
+                            there was a something in her face more touching than all the shapeliness
+                            in the world. It was a mixture of the pensive and the pleasurable,
+                            which seemed to say that if she had no cause for trouble, she would
+                            have been all tender vivacity. <said>And whither are you going, fairest?</said>
+                            asked Cephalus. <said>To Cyprus.</said>—<said>To the temple of Venus?</said>—<said>To
+                            the temple of Venus:</said> replied the beautiful stranger, dropping
+                            her words and face as she spoke. <said>I have made a new vow, which—a
+                            new vow.</said> And blushing more deeply, she was again silent.—<said>Which
+                            she shall be able to keep better then the last,</said> thought Cephalus.
+                            She sat in a simple posture, her back gently bending, her
+                            knees together, her rosy face and languid eyes looking down sideways
+                            between her dark heavy curls. She moved the fingers of her right hand
+                            towards the dog, as if snapping them; but it was done faintly, and evidently
+                            only to do something. Cephalus thought she had a look of
+                            Procris; and he did not pity her the less for that. <said>But what
+                            <pb n="214" />are you to do with this dog?</said> This, it seemed, was a very perplexing
+                            question. It was a long time before Cephalus could get an answer;
+                            but he was so kind and importunate, and really, with all his love of
+                            hunting, appeared to be so much more interested in the nymph than
+                            her companion, that at length he did obtain a sort of understanding
+                            on the subject. It was necessary to make a renouncement of something
+                            highly valued by the possessor, before a new devotee could enter
+                            on the service of Venus. The renouncement was to be made to one
+                            of the other sex; and Cephalus, partly out of curiosity, partly out of
+                            vanity, partly out of self-interest, and not a little out of an interest
+                            of a better sort, contrived to discover, that it would be made, with
+                            no prodigious unwillingness, to himself. <said>Lailaps,</said> said he. The
+                            dog started towards him, as if he knew his future master. The lady
+                            gave a gentle laugh, and seemed much happier. The supper, that
+                            evening, was upon a much easier footing than the luncheon. The
+                            next morning, on waking, Cephalus, saw the face of Procris hanging
+                            over him. He would have been more astonished had he not remembered
+                            his own transformation. But he was nevertheless quite enough
+                            so. Procris shook her head at him archly; then kissed him kindly;
+                            then burst into tears; then declared herself happy and forgiving, as
+                            well as forgiven; and neither of them ever passed a happier day in
+                            their lives. </p>
+                        <p>Procris's account of herself was partly true. Our informant<note type="hunt">
+                            <bibl>
+                                <author>
+                                    [<forename>Gaius</forename>
+                                    <forename>Julius</forename>]
+                                    <surname>Hyginus</surname>
+                                </author>,
+                                <title>Fabularum Liber,</title>
+                                <biblScope>Capitulum 189</biblScope>.
+                            </bibl>
+                        </note> does
+                            not account for a proceeding which certainly requires some explanation;
+                            but she had really gone to the haunts of Diana, whose reception
+                            of her, though a huntress, was what might have been expected.
+                            She begged, her, in very explicit terms, to withdraw. Procris,
+                            however, though she could obtain no sympathy purely on her
+                            own account, contrived to waken an interest in the bosom of the
+                            divine virgin by telling her of the trick played by Cephalus and Aurora.
+                            This she thought abominable. She therefore wrought a counter-change
+                            in the appearance of Procris; and giving her a hound out
+                            of her own pack, sent her to practise artifice for artifice. She regretted
+                            afterwards the having consented to interfere at all in such
+                            matters; but the impulse had engaged her to commit herself; and she
+                            was too proud and stately to recall what she had done. Procris told
+                            all to her husband; and the goddess was little aware how they enjoyed
+                            the kind result of her anger, at the expense of her dignity. </p>
+                        <p>It is on record, that our married couple were never so fond of each
+                            other, or so contented, as now. Procris, in the gratitude of her joy,
+                            was not disposed even to quarrel with Aurora, whom her husband no
+                            doubt saw occasionally. But it is not known whether he was kinder
+                            to her than before. Procris was inclined to think not, as he said
+                            nothiing about it; so certain she had become of his confidence. As
+                            to Cephalus, the praises of his wife by his fellow-huntsmen gave
+                            him great pleasure, now that he was sure of her loving him unrestrictedly. </p>
+                        <p>What a pity that such a happy state of things was not to last! But
+                            Procris had early been taught jealousy. She had even identified it
+                            <pb n="215" />with a virtue; and by degrees, as little fits of ill temper were exchanged,
+                            and she began to think less kindly of herself, she began to
+                            be uneasy about others. Unfortunately for this return of her complaint,
+                            a little anxious busy-body, whom she had been accustomed to
+                            treat with contemptuous indifference, perhaps to <choice><corr>show</corr><sic>shew</sic></choice> it too much,
+                            came and said to her one day, that as she knew she should not be
+                            mortifying her with such petty matters, she might tell her, as a piece
+                            of news, that Cephalus was passionately and notoriously in love with
+                            a beautiful nymph of the name of Aura. <said>Aurora, you mean,</said>
+                            said Procris, scornfully. <said>No, no,</said> said the little snappish voice;
+                            <said>Aura, Aura:—I know it well enough; all Athens knows it, or
+                            else I should not have repeated it. I am no tale-bearer; but I hate
+                            to see a man pretending to be what he is not.</said> <said>Cephalus pretends
+                            nothing,</said>" said Procris. <said>Oh—of course,</said> said the gossip; <said>and
+                            mighty useful it is to him no doubt, to be so wanting in pretence.
+                            But my maxim is, Be decent enough, at least, to appear virtuous.</said>
+                            <q type="thought">Yes,</q> thought Procris, <q type="thought">and your whole life would be an exemplification
+                            of it, if you could hold your tongue.</q> But the blow was
+                            struck. She despised the scandal, while she became <choice><corr>its</corr><sic>it's</sic></choice> victim. </p>
+                        <p>Procris, who was on a visit with Cephalus to her father, had heard of a
+                            spot, in which he reposed himself every day after the <choice><corr>chase</corr><sic>chace</sic></choice>. Here, it was
+                            added, the lady as regularly met him. He was even so impatient for
+                            her sight, that if she delayed a minute beyond the usual time, he
+                            called upon her aloud, in the fondest manner. <said>Come, come, sweet
+                            Aura,</said> said he, <said>and cool this glow in my bosom.</said>
+                            Now his delight in the new spot, and the invocation also, were both
+                            very true; only the informant forget to mention, and Procris to remember,
+                            that although Aura was the name of a female, it also signified
+                            the fresh air. </p>
+                        <p>One day, Cephalus went as usual into his favourite haunt, to enjoy
+                            <choice><corr>its</corr><sic>it's</sic></choice> freshness, verdure, and seclusion. The place has been very prettily
+                            described by Ovid. </p>
+                        <quote>
+                            <lg>
+                            <l>Est prope purpureos colles florentis Hymetti </l>
+                            <l rend="indent">Fons sacer, et viridi cespite mollis humus. </l>
+                            <l>Sylva nemus non alta facit: tegit arbutus herbam: </l>
+                            <l rend="indent">Ros maris, et lauri, nigraque myrtus olent. </l>
+                            <l>Nec densae foliis buxi, fragilesque myticae, </l>
+                            <l rend="indent">Nec tenues cytisi, cultaque pinus abest. </l>
+                            <l>Lenibus impulsae Zephyris, <hi rend="italic">aura</hi>que salubri, </l>
+                            <l rend="indent">Tot generum frondes, herbaque summa tremunt. </l>
+                            <note type="source">
+                                <bibl>
+                                    <author>Ovid</author>,
+                                    <title>Ars Amatoria</title>
+                                    <biblScope>Liber III, lines 687-94</biblScope>.
+                                </bibl>
+                            </note>
+                        </lg>
+                        </quote>
+                        <lg type="hunt-verseTranslation">
+                            <lg type="stanza">
+                            <l>Close by the flowery purple hill </l>
+                            <l rend="indent">Hymettus, may be found </l>
+                            <l>A sacred fountain, and a plot </l>
+                            <l rend="indent">Of green and lovely ground. </l>
+                            </lg>
+                            <lg type="stanza">
+                            <l>'Tis in a copse. The strawberry </l>
+                            <l rend="indent">Grows blushing through the grass; </l>
+                            <l>And myrtle, rosemary, and bay </l>
+                            <l rend="indent">Quite perfume all the place. </l>
+                            </lg>
+                            <lg type="stanza">
+                            <l>Nor is the tamarisk wanting there; </l>
+                            <l>Nor clumps of leafy box; </l>
+                            <l>Ner slender cytisus; nor yet </l>
+                            <l>The pine with <choice><corr>its</corr><sic>it's</sic></choice> proud locks. </l>
+                            </lg>
+                            <pb n="216" />
+                            <lg type="stanza">
+                                <l>Touched by the zephyrs and sweet airs, </l>
+                                <l rend="indent">Which there in balm assemble, </l>
+                                <l>This little world of leaves, and all </l>
+                                <l rend="indent">The tops of the grass tremble. </l>
+                            </lg>
+                        </lg>
+                    <p>Cephalus lay upon a slope of the velvet ground, his hands behind
+                        his head, and his face towards the balmy heaven. He little thought
+                        that Procris was near. She was lurking close to him behind some box-trees.
+                        She listened. There was not a sound, but that of the fountain,
+                        the noise of whose splashes was softened by the trees that half encircled
+                        it. She listened again, thinking she heard her husband speak;—It was
+                        only the fervid bees, buzzing along from Hymettus, and murmuring as
+                        if disdainfully in her ear. A variety of feelings agitate her. Now she
+                        is sorry that she came, and would have given any thing to be back
+                        again. Now she longs to know who her rival is. Now she is sorry
+                        again, and feels that her conduct is unworthy, let her husband's be
+                        what it may. Now she reassures herself, and thinks, that he should
+                        have at least been ingenuous. Jealousy and curiosity prevail, and she
+                        still looks and listens. The air seems more then usually quiet; and
+                        the bees worry her with their officious humming. Cephalus leaps up,
+                        and plays idly with his javelin. Still nothing is said. Nobody appears.
+                        She expects the lady every minute to issue from the trees; and thinks
+                        how she shall confound her. But no one comes. At last, her husband
+                        speaks. She parts the box-trees a little more, to listen the keener.
+                        <said>Come, gentle Aura,</said> cried he, as if in a tone of reproach—<said>Come,
+                        and breathe refreshment upon me:—thou scarcely stirrest the poplars
+                        to day.</said> Procris leaped up in an extacy of delight and remorse, and
+                        began tearing back the boughs to go to her husband. He starts up.
+                        He thinks it a deer hampered in the thicket, and raises his javelin to
+                        dart it. Forbear, forbear, miserable man: it is thy more miserable
+                        wife! Alas! the javelin is thrown, and the wife pierced. Upon
+                        coming up to secure his prey, he finds, with a dumb despair, that it
+                        is Procris dying. She does not reproach him. She reproaches only
+                        herself. <said>Forgive me,</said> said she, <said>dear Cephalus,</said> pressing her
+                        cheek against his: <said>I was made wise in vain once, and I am now wise
+                        again too late. Forgive my poor jealous heart, and bless me. It weeps
+                        blood for it's folly.</said> And as she spoke, she sobbed aloud; and the penitent
+                        tears gushed away, as if to emulate the gushing of her heart. Cephalus,
+                        bewildered and agonized, uttered what kind and remorseful words
+                        his lips could frame, pressing her all the while gently to his heart. He saw
+                        that the wound was mortal, and it was quickly so. Her eyes faded away
+                        while looking at him; but opening her lips, she still made a yearning
+                        movement of them towards his. It reminded him of paying that affectionate
+                        office to the departing spirit; and, stooping with a face washed
+                        in tears, he put his mouth upon her's, and received at once her last
+                        kiss and breath.
+                    </p>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher, Joseph Appleyard.</p>
+                    <p>Printed by Joseph Appleyard, No. 19, Catherine-street, Strand,——Price 2d.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
