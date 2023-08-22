@@ -28,6 +28,8 @@ The divider elements are numbered to provide a more immediate indication of thei
 
 ```<div2 type="{ title, section, correspondents, colophon }" n="">``` elements are used as general containers for the title, sections, and colophon of the publication issue. The title div contains the title, epigraph, and catalogue data. The section contains the header and text. The correspondents type contains the occasional note to correspondents that closes some issues and precedes the colophon. The colophon contains the publication and printing notice appended to each issue. The type is always "title", "section", "correspondents", or "colophon" and the n attribute is the section number in modern Arabic numerals when using the "section" divider.
 
+```<div3 type="subsection" n="">``` elements are used as containers for the subsections within the main div2 type sections. The type will always be "subsection" and the value of the n attribute corresponds to the subsection number in modern Arabic numerals. 
+
 ### Page Elements
 ```<pb n="" />``` (page beginning) marks the beginning of a new page in a paginated document. [3.11.3 Milestone Elements](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CORS5) This is for reference purposes only, and is not intended to signal that the page is reproduced exactly in the digital edition.
 
@@ -37,7 +39,7 @@ The divider elements are numbered to provide a more immediate indication of thei
 Types:
 - title: The title of the document (ie. The Indicator)
 - catalogue: Publication no., and date of publication (ie. No. XXIV.—WEDNESDAY, MARCH 22d, 1820.)
-- header: The header of a section within the publication issue (ie. "ON THE REALITIES OF IMAGINATION.")
+- header: The header of a section or subsection within the publication issue (ie. "ON THE REALITIES OF IMAGINATION.")
 
 ### Note Elements
 ```<note type="">```
@@ -58,9 +60,9 @@ Types:
     </note>
 </cit>
  ```
-For rendering of poems:
+For rendering of poems: 
 ```xml
-
+ <!--This can be inserted inside quote tags following the previous example if they are citations -->
  <lg xml:lang="en" type="ex:hunt-translation" xml:id="poem-title" rend="center">
     <lg xml:id="verse1"> 
     <l></l>
@@ -73,6 +75,10 @@ For rendering of poems:
     </lg> 
  <!--[…]-->
 </lg>
+```
+Use the ```<q>``` tags when the quote is used inline within the paragraph. 
+```xml
+<q> text </q>
 ```
 
 ### Choice Elements
