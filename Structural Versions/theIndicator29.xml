@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                    </author>
+                    , <title>The Indicator</title>
+                    <date when="1820-04-26">April
+                        26th, 1820</date> <!-- The publication date of this issue ({Month} {Day},
+                    {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph
+                    Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers
+                are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="29">
+                <pb n="225" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser"
+                                ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XXIX.—WEDNESDAY, April 26th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">MAY-DAY.</head>
+                    <p>On Monday next Is May-Morning;—a word, which used to awaken in the minds of
+                        our ancestors all the ideas of youth, and verdure, and blossoming, and love,
+                        aiid hilarity ; in short, the union of the two besfc things in the world,
+                        the love of nature, and the love of each other. It was the day, on which the
+                        arrival of the year at maturity was kept, like that of a blooming heiress.
+                        They caught her eye as she was coming, and sent up hundreds of songs of joy. <cit>
+                            <quote>
+                                <lg type="stanza">
+                                    <l>Now the bright Morning-Slar, Day's harbinger, </l>
+                                    <l>Comes dancing from the east, and leads with her </l>
+                                    <l>The flowery May, who from her green lap throws </l>
+                                    <l>The yellow cowslip, and the pale primrose. </l>
+                                    <l>Hail, bounteous May,, that dost inspire </l>
+                                    <l>Mirth, and youth, and warm desire: </l>
+                                    <l>Woods and groves are of thy dressing; </l>
+                                    <l>Hill, and dale, doth boast thy blessing. </l>
+                                    <l>Thus we salute thee with our early song, </l>
+                                    <l>And welcome thee, and wish thee long. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>John</forename>
+                                        <surname>Milton</surname>
+                                    </author>
+                        , <title>Song on May Morning</title>
+                                </bibl>
+                        . </note>
+                        </cit> These songs were stopped by Milton's
+                        own friends the Puritans, whom in his old age he again differed with, most
+                        likely on these very points among others. But till then, they appear to have
+                        been as old, all over Europe, as the existence of society. The Druids are
+                        said to have had festivals in honour of May. Our Teutonic ancestors had
+                        undoubtedly; and in the countries which had constituted the Western Roman
+                        Empire, Flora still saw thanks paid for her flowers, though her worship had
+                        gone away.<note type="hunt">The great May
+                            holiday abserved over the West of Europe was known for centuries,
+                            up to a late period, under the name of the Beltein or Beltane. Such a
+                        number
+                            of etymologies, all perplexingly probable, have been found for this
+                            word, that
+                            we have been surprised to miss among them that of Bel-temps, the Fine
+                        Time or
+                            Season. Thus Printemps, the First Time or Prime Season, is the Spring.</note>
+                    </p>
+                    <pb n="226" />
+                    <p>The homage, which was paid to the Month of Love and Flowers, may be divided
+                        into two sorts, the general and the individual. The first consisted in going
+                        with others to gather May, and in joining in sports and games afterwards. On
+                        the first of the month, <q>the juvenile
+                            part of both sexes,</q> says Bourne, in his Popular Antiquities, <q>were
+                        wont to rise a little after midnight and walk to some neighbouring
+                            wood, where they broke down branches from the trees, and adorned
+                            them with nosegays and crowns of flowers. When this was done,
+                            they returned with their booty about the rising of the sun, and made
+                        their doors and windows to triumph in the flowery spoil. The after
+                            part of the day was chiefly spent in dancing round a May-pole, which
+                        being placed in a convenient part of the village, stood there, as it
+                            were, consecrated to the Goddess of Flowers without the least violation
+                        offered to it, in the whole circle of the year.</q> Spenser, in his
+                        Shepheard's Calendar, has detailed the circumstances, in a style like a
+                        rustic dance. <cit>
+                            <quote>
+                                <lg>
+                                    <l>Young folke now flocken in—every where </l>
+                                    <l>To gather May-buskets<note type="hunt"><hi rend="italic">
+                        Buskets—Boskets</hi>—Bushes—from <hi rend="italic">Boschettie, Ital.</hi>
+                                        </note>—and
+                        smelling bere; </l>
+                                    <l>And home they hasten—the postes to dight, </l>
+                                    <l>And all the kirk-pillours—eare day-light, </l>
+                                    <l>With hawthorne buds—and sweet eglantine, </l>
+                                    <l>And girlonds of roses—and soppes in wine. </l>
+                                </lg>
+                                <ellipsis>
+                                    <metamark function="multilineEllipsis"> * * * * * * * * </metamark>
+                                </ellipsis>
+                                <lg>
+                                    <l>Sicker this morowe, no longer agoe, </l>
+                                    <l>I saw a shole of shepherds outgoe </l>
+                                    <l>With singing, and shouting, and jolly chere; </l>
+                                    <l>Before them yode<note type="hunt"><hi rend="italic">Tabrere</hi>,
+                        a Tabourer.</note> a iustie tabrere^j:, </l>
+                                    <l>That to the many a hornpipe played, </l>
+                                    <l>Whereto they dauncen eche one with his mayd. </l>
+                                    <l>To see these folks make such jovisaunce, </l>
+                                    <l>Made my heart after the pipe to daunce. </l>
+                                    <l>Tho<note type="hunt"><hi rend="italic">Tho</hi>, Then.</note>
+                        to the greene wood they speeden hem all, </l>
+                                    <l>To fetchen home May with their musicall, </l>
+                                    <l>And home they bringen, in a royall throne, </l>
+                                    <l>Crowned as king; and his queen attone<note type="hunt"><hi
+                                                rend="italic">Attone</hi>, At once—With him.</note>
+                                    </l>
+                                    <l>Was Lady Flora, on whom did attend </l>
+                                    <l>A fayre flocke of faeries, and a fresh bend </l>
+                                    <l>Of lovely nymphs. O that I were there </l>
+                                    <l>To helpen the ladies their May-bush beare. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>Edmund</forename>
+                                        <surname>Spenser</surname>
+                                    </author>
+                        , <title>The Shepheardes Calender</title>, <biblScope>May,
+                                        Aegloga Quinta</biblScope>
+                                </bibl>
+                        . </note>
+                        </cit> The day was past in sociality and
+                        manly sports;—in archery, and running, and pitching the bar,—in dancing,
+                        singing, playing music, acting Robin Hood and his company, and making a
+                        well-earned feast upon all the country-dainties in season. It closed with an
+                        award of prizes. <cit>
+                            <quote>
+                                <lg>
+                                    <l>As I have seen the Lady of the May, </l>
+                                    <l>Set in an arbour (on a holyday) </l>
+                                    <l>Built by the Maypole, where the jocund swains </l>
+                                    <l>Dance with the maidens to the bag-pipe's strains, </l>
+                                    <l>When envious night commands them to be gone, </l>
+                                    <l>Call for the merry youngsters one by one, </l>
+                                    <pb n="227" />
+                                    <l>And for their well performance soon disposes, </l>
+                                    <l>To this a garland interwove with roses, </l>
+                                    <l>To that a carved hook, or well-wrought scrip, </l>
+                                    <l>Gracing another with her cherry lip; </l>
+                                    <l>To one her garter, to another then </l>
+                                    <l>A handkerchief cast o'er and o'er again; </l>
+                                    <l>And none returneth empty, that hath spent </l>
+                                    <l>His pains to fill their rural merriment.<note type="hunt">
+                                            <hi rend="italic">Britannia's Pastorals</hi>, by William
+                        Browne. Song the 4th. Browne, like his friend Wither, from whom we quoted a
+                        passage last week, wanted strength and the power of selection; though not to
+                        such an extent. He is however well worth reading by those who can expatiate
+                        over a pastoral subject, like a meadowy tract of country; finding out the
+                        beautiful spots; and gratified, if not much delighted, with the rest. His
+                        genius, which was by no means destitute of the social part of passion, seems
+                        to have been turned almost wholly to description by the beauties of his
+                        native county Devoushire. </note>
+                                    </l>
+                                </lg>
+                            </quote>
+                        </cit></p>
+                    <p>Among the gentry and at court the spirit of the same enjoyments took place,
+                        modified according to the taste or rank of the entertainers. The most
+                        universal amusement, agreeably to the general current in the veins and the
+                        common participation of flesh and blood (for rank knows no distinction of
+                        legs and knee-pans), was dancing. Contests of chivalry supplied the place of
+                        more rural gymnastics. But the most poetical and elaborate entertainment was
+                        the Mask. A certain flowerygrace was sprinkled over all; and the finest
+                        spirits of the time thought they shewed both their manliness and wisdom, in
+                        knowing how to raise the pleasures of the season to their height. Sir Philip
+                        Sydney, the idea of whom has come down to us as a personification of all the
+                        refinement of that age,—is fondly recollected by Spenser in this character, <cit>
+                            <quote>
+                                <lg type="stanza">
+                                    <l>His sports were faire, his joyance innocent, </l>
+                                    <l>Sweet without soure, and honey without gall; </l>
+                                    <l>And he himself seemed made for merriment, </l>
+                                    <l>Merrily masking both in bowre and hall. </l>
+                                    <l>There was no pleasure nor delightfull play, </l>
+                                    <l>When Astrophel so ever was away. </l>
+                                </lg>
+                                <lg type="stanza">
+                                    <l>For he could pipe, and daunce, and caroll sweet, </l>
+                                    <l>Amongst the shepheards in their shearing feast; </l>
+                                    <l>As somer's larke that with her song doth greet </l>
+                                    <l>The dawning day forth comming from the East. </l>
+                                    <l>And layes of love he also could compose: </l>
+                                    <l>Thrise happie she, whom he to praise did choose. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <surname>Spenser</surname>
+                                    </author>
+                        ,
+                                    <title>Astrophel</title>, <biblScope>stanzas
+                        5-6</biblScope>
+                                </bibl>. </note>
+                        </cit></p>
+                    <p>Individual homage to the month of May consisted in paying respect to it
+                        though alone, and in plucking flowers and flowering boughs to adorn
+                        apartments with. <cit>
+                            <quote>
+                                <lg type="stanza">
+                                    <l>This maiden, in a morn betime, </l>
+                                    <l>Went forth when May was in the prime </l>
+                                    <l rend="indent">To get sweet setywall, </l>
+                                    <l>The honey-suckle, the harlock, </l>
+                                    <l>The lily, and the lady-smock, </l>
+                                    <l rend="indent">To deck her summer-hall. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>Michael</forename>
+                                        <surname>Drayton</surname>
+                                    </author>
+                        ,
+                                        <title>Drayton's Pastorals</title>
+                        ,
+                                        <biblScope>Eclog. 4, Cassamen and
+                        Dowsabell</biblScope>
+                                </bibl>. </note>
+                        </cit>
+                                <pb
+                            n="228" /> But when morning pleasures are to be spoken of, the lovers of
+                        poetry who do not know Chaucer, are like those who do not know what it is to
+                        be up in the morning. He has left us two exquisite pictures of the solitary
+                        observance of May, in his Palamon and Arcite. They are the more curious
+                        inasmuch as the actor in one is a lady, and in the other a knight. How far
+                        they owe any of their beauty to his original, the Theseide of Boccaccio, we
+                        cannot say; for we never had the happiness of meeting with that very rare
+                        work. The Italians have so neglected it, that they have not only never given
+                        it a rifacimento or re-modelling, as in the instance of Boiardo's poem, but
+                        are almost as much unacquainted with it, we believe, as foreign countries.
+                        Chaucer thought it worth his while to be both acquainted with it, and to
+                        make others so; and we may venture, to say, that we know of no Italian after
+                        Boccaccio's age who was so likely to understand him to the core, as his
+                        English admirer, Ariosto not excepted. Still, from what we have seen of
+                        Boccaccio's poetry, we can imagine the Theseide to have been too lax and
+                        long. If Chaucer's Palamon and Arcite be all that he thought proper to
+                        distil from it, it must have been greatly so; for it was a large epic. But
+                        at all events the essence is an exquisite one. The tree must have been a
+                        fine old enormity, from which such a honey could be drawn. </p>
+                    <p>To begin, as in duty bound, with the lady. How she sparkles through the
+                        antiquity of the language, like a young beauty in an old hood! <cit>
+                            <quote>
+                                <l>Thus passeth yere by yere, and day by day </l>
+                                <l>Till it felle ones in a morowe of May, </l>
+                                <l>That Emelie— </l>
+                            </quote>
+                            <note type="source">
+                                <bibl xml:id="chaucer_KnightsTale">
+                                    <author>
+                                        <forename>Geoffrey</forename>
+                                        <surname>Chaucer</surname>
+                                    </author>
+                        ,
+        <title>The Canterbury Tales</title>, <biblScope>The Knight's Tale,
+                        ll. 1033-1035</biblScope>
+                                </bibl>. </note>
+                        </cit>
+                        But we will alter the spelling where we can, as in a former instance, merely
+                        to let the reader see what a notion is in his way, if he suffers the look of
+                        Chaucer's words to prevent his enjoying him. <cit>
+                            <quote>
+                                <lg>
+                                    <l>Thus passeth year by year, and day by day, </l>
+                                    <l>Till it fell once, in a morrow of May, </l>
+                                    <l>That Emily, that fairer was to eeen </l>
+                                    <l>Than is the lily upon his stalk green, </l>
+                                    <l>And fresher than the May with flowers new, </l>
+                                    <l>(For with the rosy colour strove her hue; </l>
+                                    <l>I n'ot which was the finer of them two) </l>
+                                    <l>Ere it was day, as she was wont to do, </l>
+                                    <l>She was arisen and all ready dight, </l>
+                                    <l>For May will have no sluggardy a-night: </l>
+                                    <l>The season pricketh every gentle heart, </l>
+                                    <l>And maketh him out of his sleep to start, </l>
+                                    <l>And saith "Arise, and do thine observance." </l>
+                                    <l rend="indent">This maketh Emily have remembrance </l>
+                                    <l>To do honour to May, and for to rise. </l>
+                                    <l>Yclothed was she, fresh for to devise: </l>
+                                    <l>Her yellow hair was braided in a tress, </l>
+                                    <l>Behind her back, a yarde<note type="hunt">These additional
+                        syllables are to be read slightly, like the e in French verse.</note> long I
+                        guess: </l>
+                                    <l>And in the garden, at the sun uprist, </l>
+                                    <l>She walketh up and down, where as her list; </l>
+                                    <pb n="229" />
+                                    <l>She gathereth flowers, party white and red, </l>
+                                    <l>To make a subtle garland for her head; </l>
+                                    <l>And as an angel, heavenly she sung. </l>
+                                    <l>The great tower, that was so thick and strong, </l>
+                                    <l>Which of the castle was the chief dongeon, </l>
+                                    <l>(Where as these knightès weren in prison, </l>
+                                    <l>Of which I toldè you, and tellen shall) </l>
+                                    <l>Was even joinant to the garden wall, </l>
+                                    <l>There as this Emily had her playing. </l>
+                                    <l rend="indent">Bright was the sun, and clear that morwèning— </l>
+                                </lg>
+                                <seg type="incise">
+                                    [How finely, to our ears at least, the second line of the
+                        couplet always
+                                    rises up from this full stop at the first!]
+</seg>
+                                <lg>
+                                    <l rend="indent">Bright was the sun, and clear that morwèning. </l>
+                                    <l>And Palamon, this woeful prisoner, </l>
+                                    <l>As was his wont, by leave of his jailèr, </l>
+                                    <l>Was risen, and roamed in a chamber on high, </l>
+                                    <l>In which he all the noble city sigh,<note type="hunt">Saw. </note>
+                                    </l>
+                                    <l>And eke the garden, full of branches green, </l>
+                                    <l>There as this fresh Emilia the sheen<note type="hunt">The
+                        shining. </note>
+                                    </l>
+                                    <l>Was in her walk, and roamed up and down. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref cRef="#chaucer_KnightsTale">Chaucer, ll. 1033-69. </ref>
+                            </note>
+                        </cit>
+                        Sir Walter Scott in his edition of Dryden says upon the passage before us,
+                        and Dryden's version of it, that <cit>
+                            <q>the modern must yield
+                                the palm to the ancient, in spite of the beauty of his
+                        versification.</q>
+                            <note type="source">
+                                <bibl> A paraphrasing of sentiment from <author>
+                                        <roleName>Sir</roleName>
+                                        <forename>Walter</forename>
+                                        <surname>Scott</surname>
+                                    </author>
+                        ,
+        <biblScope>Advertisement</biblScope> to <title>The Works of John
+                        Dryden</title>
+                                </bibl>. </note>
+                        </cit>
+                        We quote from memory; but this is the substance of his words. For our parts,
+                        we quite agree with them, as to the consignment of the palm, but not as to
+                        the exception about the versification. With some allowance as to our present
+                        mode of accentuation, it appears to us to be touched with a finer sense of
+                        music even than Dryden's. It is more delicate, without any inferiority in
+                        strength; and still more various. At the same time, we do not quote Sir
+                        Walter for the purpose of differing with him. We would only shew the more
+                        fashionable part of our readers, what their favourite writer thinks of
+                        Chaucer; and we would also take another opportunity of contrasting some
+                        opinions of ours, exaggerated by party feeling and a young thoughtles'sness,
+                        when Sir Walter wrote nothing but criticism and poetry, with our sense of
+                        his extraordinary merits as a novelist. But more of these in another place.
+                        Of politics also we say nothing here. There ought to be some places in the
+                        world of letters, where men*s thoughts of each other, like the knights of
+                        old, may <cit>
+                            <quote>
+                                <l>In weeds of peace high triumphs hold.</l>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <!-- Find -->
+                                </bibl>
+                            </note>
+                        </cit></p>
+                    <p>But now to our other portrait. It is as sparkling with young manhood, as the
+                        former is with a gentler freshness. What a burst of radiant joy is in the
+                        second couplet: what a vital quickness in the comparison of the horse, <q>starting
+                        as the fire;</q> and what a native and happy ease in the conclusion! <pb
+                            n="230" />
+    <cit>
+                            <quote>
+                                <lg>
+                                    <l>The busy lark, the messenger of day, </l>
+                                    <l>Saleweth<note type="hunt">Saluteth. </note> in her song the
+                        morrow gray; </l>
+                                    <l>And fiery Phoebus riseth up so bright, </l>
+                                    <l>That all the orient laugheth of the sight; </l>
+                                    <l>And with his stremès drieth in the greves<note type="hunt">
+                        Groves. </note>
+                                    </l>
+                                    <l>The silver droppès hanging in the leaves; </l>
+                                    <l>And Arcite, that is in the court real<note type="hunt">Royal. </note>
+                                    </l>
+                                    <l>With Theseus the squier principal, </l>
+                                    <l>Is risen, and looketh on the merry day; </l>
+                                    <l>And for to do his observance to May, </l>
+                                    <l>Remembring on the point of his desire, </l>
+                                    <l>He on the courser, starting as the fire, </l>
+                                    <l>Is ridden to the fieldès him to play, </l>
+                                    <l>Out of the Court, were it a mile or tway: </l>
+                                    <l>And to the grove, of which that I you told. </l>
+                                    <l>By àventure his way he gan to hold, </l>
+                                    <l>To maken hem a garland of the greves, </l>
+                                    <l>Were it of woodbind or of hawthorn leaves, </l>
+                                    <l>And loud he sung against the sunny sheen: </l>
+                                    <l>"O May, with all thy flowers and thy green, </l>
+                                    <l>Right welcome be thou, fairè freshè May: </l>
+                                    <l>I hope that I some green here getten may." </l>
+                                    <l>And from his courser, with a lusty heart, </l>
+                                    <l>Into the grove full hastily he start, </l>
+                                    <l>And in a path he roamed up and down. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <ref cRef="#chaucer_KnightsTale">
+                                    Chaucer, ll. 1491-1515.
+                                </ref>
+                            </note>
+                        </cit>
+                        The versification of this is not so striking as the other, but Dryden again
+                        falls short in the freshness and feeling of the sentiment. His lines are
+                        beautiful; but they do not come home to us with so happy and cordial a face.
+                        Here they are. The word morning in the first line, as it is repeated in the
+                        second, we are bound to consider as a slip of the pen; perhaps for mounting. <cit>
+                            <quote>
+                                <lg>
+                                    <l>The morning-lark, the messenger of day, </l>
+                                    <l>Saluteth in her song the morning gray; </l>
+                                    <l>And soon the sun arose with beams so bright, </l>
+                                    <l>That all the horizon laughed to see the joyous sight: </l>
+                                    <l>He with his tepid rays the rose renews, </l>
+                                    <l>And licks the drooping leaves, and dries the dews; </l>
+                                    <l>When Arcite left his bed, resolv'd to pay </l>
+                                    <l>Observance to the month of merry May: </l>
+                                    <l>Forth on his fiery steed betimes he rode, </l>
+                                    <l>That scarcely prints the turf on which he trod; </l>
+                                    <l>At ease he seemed, and prancing o'er the plains, </l>
+                                    <l>Turned only to the grove his horses' reins, </l>
+                                    <l>The grove I named before; and, lighted there, </l>
+                                    <l>A woodbine garland sought to crown his hair; </l>
+                                    <l>Then turned his face against the rising day, </l>
+                                    <l>And raised his voice to welcome in the May: </l>
+                                    <l>"For thee, sweet month, the groves green liveries wear, </l>
+                                    <l>If not the first, the fairest of the year: </l>
+                                    <l>For thee the Graces lead the dancing Hours, </l>
+                                    <l>And Nature's ready pencil paints the flowers: </l>
+                                    <l>When thy short reign is past, the feverish Sun </l>
+                                    <l>The sultry tropic fears, and moves more slowly on. </l>
+                                    <l>So may thy tender blossoms fear no blight, </l>
+                                    <l>Nor goats with venom'd teeth, thy tendrils bite, </l>
+                                    <pb n="231" />
+                                    <l>As thou shalt guide my wandering steeps to find </l>
+                                    <l>The fragrant greens I seek, my brows to bind." </l>
+                                    <l>His vows address'd, within the grove he stray'd. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>John</forename>
+                                        <surname>Dryden</surname>
+                                    </author>
+                        ,
+            <title>Palamon and Arcite</title>, <biblScope>Book 2, ll.
+                        37-63</biblScope>
+                                </bibl>. </note>
+                        </cit></p>
+                    <p>How poor is this to Arcite's leaping from his courser <q>with a lusty
+                            heart.</q> How inferior the common-place of the <q>fiery steed,</q>
+                        which need not involve any actual notion in the writer's mind, to the
+                        courser <q>starting as the fire;</q>—how inferior the turning his face to <q>the
+                        rising day</q> and <q>raising his voice,</q> to the singing <q>loud against
+                        the
+                            sunny sheen;</q> and lastly, the whole learned invocation and adjuration
+                        of May, about guiding his <q>wandering steps</q> and <q>so may thy
+                            tender blossoms</q> &amp;c. to the call upon the fair fresh May, ending
+                        with that simple, quick-hearted line, in which he hopes he shall get <q>some
+                        green here;</q> a touch in the happiest taste of the Italian vivacity.
+                        Dryden's genius, for the most part, wanted faith in nature. It was too gross
+                        and sophisticate. There was as much difference between him and his original,
+                        as between a hot noon in perukes<note type="editorial">A judge or
+                        barrister's wig. </note> at St. James's, and one of Chaucer's lounges on the
+                        grass, of a May-morning. </p>
+                    <p>All this worship of May is over now. There is no issuing forth, in glad
+                        companies to gather boughs; no adorning of houses with <q>the
+                            flowery spoil;</q> no songs, no dances, no village sports and
+                        coronations, no courtly poetries, no sense and acknowledgment of the quiet
+                        presence of nature, in grove or glade. <cit>
+                            <quote>
+                                <lg xml:lang="it">
+                                    <l>O dolce primavera, o fior novelli, </l>
+                                    <l>O aura o arboscelli o fresche erbette, </l>
+                                    <l>O piagge benedette, o colli o monti, </l>
+                                    <l>O valli o fiumi o fonti o verde rivi, </l>
+                                    <l>Palme lauri ed olive, edere e mirti; </l>
+                                    <l>O gloriosi spirti de gli boschi; </l>
+                                    <l>O Eco, o antri foschi o chiare linfe, </l>
+                                    <l>O faretrate ninfe o agresti Pani, </l>
+                                    <l>O Satiri e Silvani, o Fauni e Driadi, </l>
+                                    <l>Naiadi ed Amadriadi, o Semidee, </l>
+                                    <l>Oreadi e Napee,—or siete sole. </l>
+                                </lg>
+                            </quote>
+                            <note type="source">
+                                <bibl>
+                                    <author>
+                                        <forename>Jacopo</forename>
+                                        <surname>Sannazzaro</surname>
+                                    </author>
+                        ,
+                    <title>Egloga Decima</title>
+                                </bibl>
+                        .
+            </note>
+                        </cit>
+        <lg
+                            type="translation-hunt" xml:lang="en">
+                            <l>O thou delicious spring, O ye new flowers, </l>
+                            <l>O airs, O youngling bowers; fresli thickening grass, </l>
+                            <l>And plains beneath heaven's face; O hills and mountains, </l>
+                            <l>Vallies, and streams, and fountains; banks of green, </l>
+                            <l>Myrtles, and palms serene, ivies, and bays; </l>
+                            <l>And ye who warmed old fays, spirits o'the woods, </l>
+                            <l>Echoes, and solitudes, and lakes of light; </l>
+                            <l>O quivered virgins bright, Pans rustical, </l>
+                            <l>Satyrs and Sylvans all, Dryads, and ye </l>
+                            <l>That up the mountains be; and ye beneath </l>
+                            <l>In meadow or flowery heath,—ye are alone. </l>
+                        </lg></p>
+                    <p>This time two hundred years ago, our ancestors were all anticipating
+                        their May holidays. Bigotry came in, and frowned them away; then
+                        Debauchery, and identified all pleasure with the town; then Avarice,
+                        and we have ever since been mistaking the means for the end. </p>
+                    <p>Fortunately it does not follow, that we shall continue to do so. Commerce,
+                        while it thinks it is only exchanging commodities, is helping to diffuse
+                        knowledge. All other gains,—all selfish and extravagant systems of
+                        acquisition,—tend to over-do themselves, and to topple down by their own
+                        undiffused magnitude. The world, as it learns other things, may learn not to
+                        confound the means with the end, or at least, (to speak more
+                        philosophically,) a really poor means with a really richer. The veriest
+                        cricket-player on a green has as sufficient a quantity of excitement as a
+                        fundholder or a partizan; and healthy and spirits, and manliness to boot.
+                        Knowledge may go on; must do so, from necessity; and should do so, for the
+                        ends we speak of: but knowledge, so far from being incompatible with
+                        simplicity of pleasures, is the quickest to perceive its wealth. Chaucer
+                        would lie for hours, looking at the daisies. Scipio and Laelius could amuse
+                        themselves with making ducks and drakes on the water. Epaminondas, the
+                        greatest of all the active spirits of Greece, was a flute-player and dancer.
+                        Alfred the Great could act the whole part of a ministrel. Epicurus taught
+                        the riches of temperance and intellectual pleasure in a gardern. The other
+                        philosophers of his country walked between heaven, and earth in the
+                        colloquial bowers of Academus; and, <q>the
+                            wisest heart of Solomon,</q> who found every thing vain because he was a
+                        king, has left us panegyrics on the Spring and <q>the voice of the
+                            turtle,</q> because he was a poet, a lover, and a wise man.</p>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+                        Joseph Appleyard.</p>
+                    <p>Printed by Joseph Appleyard, No. 19, Catherine-street, Strand.——Price 2d.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
