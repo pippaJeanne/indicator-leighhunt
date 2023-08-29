@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                 <title type="subtitle">No. XLII.— WEDNESDAY, JULY 26th, 1820.</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title>The Indicator</title>
+                    <date when="1820-07-26">JULY 26th, 1820.</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+         <particDesc>
+                <listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
+                    <person xml:id="Lucr">
+                        <persName type="standard">Lucrezia</persName>
+                        <persName type="form">Lucr.</persName>
+                    </person>
+                    <person xml:id="Beatr">
+                        <persName type="standard">Beatrice</persName>
+                        <persName type="form">Beatr.</persName>
+                    </person>
+                    <person xml:id="Orsino">
+                        <persName type="standard">Orsino</persName>
+                        <persName type="form">Ors.</persName>
+                    </person>
+                    <person xml:id="Bern">
+                        <persName type="standard">Bernardo</persName>
+                        <persName type="form">Bern.</persName>
+                    </person>
+                    <person xml:id="Cam">
+                        <persName type="standard">Camillo</persName>
+                        <persName type="form">Cam.</persName>
+                    </person>
+                    <person xml:id="Mazio">
+                        <persName type="standard">Mazio</persName>
+                        <persName type="form">Marzio.</persName>
+                    </person>
+                    <person xml:id="Jdg2">
+                        <persName type="standard">2d Judge</persName>
+                        <persName type="form">2d Judge.</persName>
+                    </person>
+                    <person xml:id="Jdg1">
+                        <persName type="standard">1st Judge</persName>
+                        <persName type="form">1st Judge.</persName>
+                    </person>
+                    </listPerson>
+                    </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="42">
+                <pb n="329" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XLII.—WEDNESDAY, JULY 26th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">THE DESTRUCTION OF THE CENCI FAMILY, AND TRAGEDY ON THAT SUBJECT.</head>
+                    <head type="subheader">(CONCLUDED FROM LAST WEEK.)</head>
+                    <q><p>
+                    "The highest moral purpose aimed at in the highest species of the drama, is the teaching the human heart, through its sympathies and antipathies, the knowledge of itself; in proportion to the possession of which knowledge, every human being is wise, just, sincere, tolerant, and kind. If dogmas can do more, it is well: but a drama is no fit place for the enforcement of them. Undoubtedly, no person can be truly dishonoured by the act of another; and the fit return to make to the most enormous injuries is kindness and forbearance, and a resolution to convert the injurer from his dark passions by love and peace. Revenge, retaliation, atonement, are pernicious mistakes. If Beatrice had thought in this manner, she would have been wiser and better; but she would never have been a tragic character: the few whom such an exhibition would have interested, could never have been sufficiently interested for a domestic purpose, from the want of finding sympathy in their interest among the mass who surround them. It is in the restless and anatomizing casuistry with which men seek the justification of Beatrice, yet feel that she has done what needs justification; it is in the superstitious horror with which they contemplate alike her wrongs and revenge; that the dramatic character of what she did and suffered, consists."</p></q> 
+<p>Thus speaks Mr. Shelley, in the preface to his tragedy of the Cenci, — a preface beaatiful for the majestic sweetness of its diction, and still more lovely for the sentiments that flow forth with it. There is no living author, who writes a preface like Mr. Shelley. The intense interest which he takes in his subject, the consciousness he has upon him nevertheless of the interests of the surrounding world, and the natural dignity with which a poet and philosopher, sure of his own 
+<pb n="330"/>
+motives, presents himself to the chance of being doubted by those whom he would benefit, casts about it an inexpressible air of amiableness and power. To be able to read such a preface, and differ with it, is not easy; but to be able to read it, and then go and abuse the author's intentions, <choice><orig>shews</orig><reg>shows</reg></choice> a deplorable habit of being in the wrong.</p> 
+<p>Mr. Shelley says that he has <q>"endeavoured as nearly as possible to represent the characters as they really were, and has sought to avoid the error of making them actuated by his own conceptions of right or wrong, false or true, thus under a thin veil converting names and actions of the sixteenth century into cold impersonations of his own mind."</q> He has so. He has only added so much poetry and imagination as is requisite to refresh the spirit, when a story so appalling is told at such length as to become a book. Accordingly, such of our readers as are acquainted with bur last week's narrative of the Cenci and not with Mr. Shelley's tragedy, or with the tragedy and not with the narrative, will find in either account that they are well acquainted with the characters of the other. It is the same with the incidents, except that the legal proceedings are represented as briefer, and Beatrice is visited with a temporary madness; but this the author had a right to suppose, in probability aswell as poetry. The curtain falls on the parties as they go forth to execution, — an ending which would hardly have done well on the stage, though for different reasons, any more than the nature of the main story. But through the medium of perusal, it has a very good as well as novel effect. The execution seems a supererogation, compared with it. The patience, that has followed upon the excess of the sorrow, has put the tragedy of it at rest. <q>"The bitterness of death is past,'</q> as Lord Russell said when he had taken leave of his wife.</p> 
+<p>We omitted to mention last week that the greatest crime of which Cenci had been guilty, in the opinion of the author of the Manuscript, was atheism. The reader will smile to see so foolish and depraved a man thus put on a level with Spinoza, Giordano Bruno, and other spirits of undoubted genius and integrity, who have been accused of the same opinion. But the same word means very different things to those who look into it; and it does here, though the author of the <choice><abbr>MS.</abbr><expan>manuscript</expan></choice> might not know it. The atheism of men like Spinoza is nothing but a vivid sense of the universe about them, trying to distinguish the mystery of its operations from the ordinary, and as they think pernicious anthropomorphitism, in which our egotism envelopes it. But the atheism of such men as Cenci is the only real atheism; that is to say, it is the only real disbielief in any great and good thing, physical or moral. For the same reason, there is more atheism, to all intents and purposes of virtuous and useful belief, in some bad religions however devout, than in some supposed absences of religion: for the god they ptopose to themselves does not rise above the level of the world they live in, except in power like a Roman Emperor; so that there is nothing to them really outside of this world, at last. The god, for instance, of the Mussulman, is nothing but a sublimated Grand Signior; and so much the worse, as man generally are, in proportion to 
+<pb n="331"/> 
+his power. One act of kindness, one impulse of universal benevolence, as recommended by the true spirit of Jesus, is more grand and godlike than all the degrading ideas of the Supreme Being, which fear and slavery have tried to build up to heaven. It is a greater going out of ourselves; a higher and wider resemblance to the all-embracing placidity of the universe. The Catholic author of the <choice><abbr>MS.</abbr><expan>manuscript</expan></choice> says that Cenci was an atheist, though he built a chapel in his garden. The chapel, he tells us, was only to bury his family in. Mr. Shelley on the other hand, can suppose Cenci to have been a Catholic, well enough, considering the nature and tendency of the Catholic faith. In fact, he might have been either. He might equally have been the man he was, in those times, and under all the circumstances of his power and impunity. The vices of his atheism and the vices of his superstition would, in a spirit of his temper and education, have alike been the result of a pernicious system of religious faith, which rendered the Divine Being gross enough to be disbelieved by any one, and imitated and bribed by the wicked. Neither his scepticism nor his devotion would have run into charity. He wanted knowledge to make the first do so, and temper and privation to make the second. But perhaps the most likely thing is, that he thought as little about religion as most men of the world do at all times; — that he despised and availed himself of it in the mercenary person of the Pope, scarcely thought of it but at such times, and would only have believed in it out of fear at his last hour. Be this however as it might, still the habitual instinct of his conduct is justly traceable to the prevailing feeling respecting religion, especially as it appears that he <q>"established masses for the peace of his soul."</q> Mr. Shelley, in a striking part of his preface, informs us that even in our own times <q>"religion co-exists, as it were, in the mind of an Italian Catholic, with a faith in that, of which all men have the most certain knowledge. It is adoration, faith, submission, penitence, blind admiration; not a rule for moral conduct. It has no necessary connexion with any one virtue. The most atrocious villain may be rigidly devout; and without any shock to established faith, confess himself to be so. Religion pervades intensely the whole frame of society, and is according to the temper of the mind which it inhabits, a passion, a persuasion, an excuse; never a check."</q> We shall only add to this, that such religions in furnishing men with excuse and absolution, do but behave with something like decent kindness; for they are bound to do what they can for the vices they produce. And we may say it with gravity too. Forgiveness will make its way somehow every where, and it is lucky that it will do so. But it would be luckier, if systems made less to forgive.</p> 
+<p>The character of Beatrice is admirably managed by our author. She is what the <choice><abbr>MS.</abbr><expan>manuscript</expan></choice> describes her, with the addition of all the living grace and presence which the re-creativeness of poetry can give her. We see the maddened loveliness of her nature walking among us, and make way with an aweful sympathy. It is thought by some, that she ought not to deny her guilt as she does; — that she ought not, at any rate, to deny the deed, whatever she may think of the guilt. But this, 
+<pb n="332"/>
+in our opinion, is one of the author's happiest subtleties. She is naturally so abhorrent from guilt, — she feels it to have been so impossible a thing to have killed a <hi rend="smallcaps">father</hi>, truly so called, that what with her horror of the deed and of the infamy attending it, she would almost persuade herself as well as others, that no such thing had actually taken place, — that it was a notion, a horrid dream, a thing to be gratuitously cancelled from people's minds, a necessity which they were all to agree had existed but was not to be spoken of, a crime which to punish was to proclaim and make real, — any thing, in short, but that a daughter had killed her father. It is a lie told, as it were, for the sake of nature, to save it the shame of a greater contradiction. If any feeling less great and spiritual, any dread of a pettier pain, appears at last to be suffered by the author to mingle with it, a little common frailty and inconsistency only renders the character more human, and may be allowed a young creature about to be cut off in the bloom of life, who <choice><orig>shews</orig><reg>shows</reg></choice> such an agonized wish that virtue should survive guilt and despair. She does not sacrifice the man who is put to the torture. He was apprehended without her being able to help it, would have committed her by his confession, and would have died at all events. She only reproaches him for including a daughter in the confession of his guilt; and the man, be it observed, appears to have had a light let into his mind to this effect, for her behaviour made him retract his accusations, and filled him so with a pity above his self-interest, that he chose rather to die in torture than repeat them. It is a remarkable instance of the respect vvith which Beatrice was regarded in Rome, in spite of the catastrophe into which she had been maddened, that Guido painted her portrait from the life, while she was in prison. He could not have done this, as a common artist might take the likeness of a common criminal, to satisfy vulgar curiosity. Her family was of too great rank and importance, and retained them too much in its reverses. He must have waited on her by permission, and accompanied the sitting with all those attentions which artists on such occasions are accustomed to pay to the great and beautiful. Perhaps he was intimate with her, for he was a painter in great request. In order to complete our accounts respecting her, as well as to indulge ourselves in copying out a beautiful piece of writing, we will give Mr. Shelley's description of this portrait, and masterly summary of her character. <q>"The portrait of Beatrice at the Colonna Palace is most admirable as a work of art: it was taken by Guido during her confinement in prison. But it is most interesting as a just representation of one of the loveliest specimens of the workmanship of Nature. There is a fixed and pale composure upon the features: she seems sad and stricken down in spirit, yet the despair thus expressed is lightened by the patience of gentleness. Her head is bound with folds of white drapery, from which the yellow strings of her golden hair escape, and fall about her neck. The moulding of her face is exquisitely delicate; the eyebrows are distinct and arched: the lips have that permanent meaning of imagination and sensibility, which suffering has not repressed, and which it seems as if death scarcely could extinguish. Her forehead <pb n="333"/>is large and clear; her eyes, which we are told were remarkable for their vivacity, are swollen with weeping and lustreless, but beautifully tender and serene. In the whole mien there is a simplicity and dignity, which united with her exquisite loveliness and deep sorrow, are inexpressibly pathetic. Beatrice Cenci appears to have been one of those rare persons, in whom energy and gentleness dwell together without destroying one another: her nature was simple and profound. The crimes and miseries in which she was an actor and a sufferer, are as the mask and the mantle, in which circumstances clothed her from her impersonation on the scene of the world."</q></p> 
+<p>The beauties of a dramatic poem, of all others, are best appreciated by a survey of the whole work itself, and of the manner in which it is composed and hangs together. We shall content ourselves therefore, in this place, with pointing out some detached beauties; and we will begin, as in the grounds of an old castle, with an account of a rocky chasm on the road to Petrella.</p> 
+<cit>
+<quote>
+<sp who="#Lucr">
+<speaker>Lucrezia.</speaker>
+<l><choice><orig>To-morrow</orig><reg>Tomorrow</reg></choice> before dawn</l>
+<l>Cenci will take us to that lonely rock,</l> 
+<l>Petrella, in the Apulian Apennines.</l>
+<l>If we arrive there ––––</l>
+</sp>
+<sp who="#Beatr">
+<speaker>Beatrice.</speaker> 
+<l>He must not arrive.</l>
+</sp>
+<sp who="#Orsino">
+<speaker>Orsino.</speaker><l>Will it be dark before you reach the tower?</l>
+</sp>
+<sp who="#Lucr">
+<speaker>Lucr.</speaker><l>The sun will scarce be set.</l>
+</sp>
+<sp who="#Lucr"><speaker>Beatr.</speaker>
+<lg>
+<l>But I remember</l>
+<l>Two miles on this side of the fort, the road</l> 
+<l>Crosses a deep ravine; 'tis rough and narrow,</l>
+<l>And winds with short turns down the precipice,</l>
+<l>And in its depth there is a mighty rock,</l>
+<l>Which has, from unimaginable years,</l>
+<l>Sustained itself with terror and with toil</l> 
+<l>Over a gulph, and with the apony</l>
+<l>With which it clings, seems slowly coming down;</l>
+<l>Even as a wretched soul, hour after hour,</l>
+<l>Clings to the mass of life; yet clinging, leans;</l>
+<l>And leaning, makes more dark the dread abyss</l> 
+<l>In which it fears to fall: beneath this crag</l>
+<l>Huge as despair, as if in weariness,</l>
+<l>The melancholy mountain yawns: — below,</l> 
+<l>You hear but see not an impetuous torrent</l>
+<l>Raging among the caverns, and a bridge</l>
+<l>Crosses the chasm, and high above there grow,</l>
+<l>With intersecting trunks, from crag to crag,</l>
+<l>Cedars, and yews, and pines, whose tangled hair</l>
+<l>Is matted in one solid roof of shade</l>
+<l>By the dark ivy's twine. At noon-day there</l>
+<l>'Tis twilight, and at sunset blackest night.</l>
+</lg>
+</sp> 
+</quote>
+</cit>
+<p>With what a generous and dignified sincerity does Beatrice <choice><orig>shew</orig><reg>show</reg></choice> at once her own character and that of the prelate her lover.</p>
+<cit>
+<quote>
+<lg>
+<l>As I have said, speak not to me of love.</l> 
+<l>Had you a dispensation, I have not:</l> 
+<l>Nor will I leave this home of misery,</l> 
+<l>Whilst my poor Bernard, and that gentle lady</l> 
+<l>To whom I owe life and these virtuous thoughts,</l> 
+<l>Must suffer what I still have strength to share.</l>
+<l>Alas, Orsino! All the love that once</l> 
+<pb n="334"/>
+<l>I felt for you, is turned to bitter-pain.</l>
+<l><choice><orig>Our's</orig><reg>Ours</reg></choice> was a youthful contract, which you first</l>
+<l>Broke, by assuming vows no Pope will loose.</l>
+<l>And yet I love you still, but holily,</l>
+<l>Even as a sister or a spirit might;</l>
+<l>And so I swear a cold fidelity.</l>
+<l>And it is well perhaps we should not marry.</l>
+<l>You have a sly, equivocating vein,</l>
+<l>That suits me not.</l>
+</lg>
+</quote>
+</cit>
+<p>The following is one of the gravest and grandest lines we ever read. It is the sum total of completeness. Orsino says, while he is meditating Cenci's murder, and its consequences.</p>
+<cit><quote>
+<l>I see, as from a tower, the end of all.</l>
+</quote></cit>
+<p>The terrible imaginations which Beatrice pours forth during her frenzy, are only to be read in connexion with the outrage that produced them. Yet take the following, where the excess of the agony is softened to us by the wild and striking excuse which it brings for the guilt.</p> 
+<cit><quote>
+<lg>
+<l>What hideous thought was that I had even now?</l>
+<l>'Tis gone; and yet its <choice><orig>burthen</orig><reg>burden</reg></choice> remains still</l>
+<l>O'er these dull eyes — upon this weary heart.</l> 
+<l>O, world! O, life! O, day! O, misery!</l>
+</lg>
+<sp who="#Lucr"> 
+<speaker>Lucr.</speaker><l>What ails thee, my poor child ? She answers not:</l>
+<l>Her spirit apprehends the sense of pain,</l>
+<l>But not its cause: suffering has dried away</l>
+<l>The source from which it sprung.</l>
+</sp>
+<sp who="#Beatr">
+<speaker>Beatr.</speaker> <stage>(franticly).</stage>
+<l>Like Parricide,</l>
+<l><hi rend="italic">Misery has killed its father.</hi></l>
+</sp>
+</quote></cit> 
+<p>When she recovers, she "approaches solemnly" Orsino, who comes in, and announces to him, with an aweful obscurity, the wrong she has endured. Observe the last line.</p>
+<cit><quote>
+<lg>
+<l>Welcome, friend!</l>
+<l>I have to tell you, that since last we met,</l>
+<l>I have endured a wrong so great and strange</l> 
+<l>That neither life nor death can give me rest.</l>
+<l>Ask me not what it is, for there are deeds</l>
+<l>Which have no form, sufferings which have no tongue.</l>
+</lg>
+<sp who="#Orsino">
+<speaker>Ors.</speaker> <l>And what is he that has thus injured you?</l>
+</sp>
+<sp who="#Beatr">
+<speaker>Beatr.</speaker><l>The man they call my father; a dread name.</l>
+</sp>
+</quote></cit> 
+<p>The line of exclamations in the previous extract is in the taste of the Greek dramatists; from whom Mr. Shelley, who is a scholar, has caught also his happy feeling for compounds, such as "the all-cormmunicating air,'' the "mercy-winged lightning," "sin-chastising dreams," "wind-walking pestilence," the "palace-walking devil, gold," <choice><orig>&amp;c.</orig><reg>etc.</reg></choice>. Gold, in another place, is finely called "the old man's sword."</p> 
+<p>Cenci's angry description of the glare of day is very striking.</p>
+<cit><quote>
+<lg>
+<l>The all-beholding sun yet shines: I hear</l>
+<l>A busy stir of men about the streets;</l>
+<l>I see the bright sky through the window panes:</l>
+<l>It is a garish, broad, and peering day;</l>
+<l>Loud, light, suspicious, full of eyes and ears,</l>
+<pb n="335"/> 
+<l>And every little corner, nook, and hole</l>
+<l>Is penetrated with the insolent light.</l>
+<l>Come darkness!</l>
+</lg>
+</quote></cit> 
+<p>The following is edifying:—</p>
+<cit><quote>
+<lg>
+<l>The eldest son of a rich nobleman</l>
+<l>Is heir to all his incapacities;</l> 
+<l>He has wide wants, and narrow powers.</l> 
+</lg>
+</quote></cit>
+<p>We are aware of no passage in the modern or ancient drama, in which the effect of bodily torture is expressed in a more brief, comprehensive, imaginative manner, than in an observation made by a judge to one of the assasins. The pleasure belonging to the original image renders it intensely painful.</p> 
+<cit><quote>
+<sp who="Marzio">
+<speaker>Marzio.</speaker><l>My God! I did not kill him; I know nothing:</l> 
+<l>Olimpio sold the robe to me, from which</l> 
+<l>You would infer my guilt.</l>
+</sp>
+<sp who="#Jdg2">
+<speaker>2d Judge.</speaker> <l>Away with him!</l>
+</sp>
+<sp who="#Jdg1">
+<speaker>1st Judge.</speaker> <l>Dare you, will lips yet white from the rack's kiss,</l>
+<l>Speak false?</l>
+</sp>
+</quote></cit>
+<p>Beatrice's thoughts upon what she might and might not find in the other world are very terrible; but we prefer concluding our extracts with the close of the play, which is deliciously patient and affectionate. How triumphant is the gentleness of virtue in its most mortal defeats!</p>
+<cit><quote>
+<stage type="entrance" rend="center"><hi rend="italic">Enter <hi rend="smallcaps">Camillo</hi> and Guards.</hi></stage>
+<sp who="#Bern">
+<speaker>Bernard.</speaker> <l>They come! Let me</l> 
+<l>Kiss those warm lips, before their crimson leaves</l> 
+<l>Are blighted — white – cold. Say farewell, before</l>
+<l>Death chokes that gentle voice! 0, let me hear</l> 
+<l>You speak!</l>
+</sp>
+<sp who="#Beatr">
+<speaker>Beatr.</speaker>
+<l>Farewell, my tender brother. Think</l> 
+<l>Of our sad fate with gentleness, as now:</l> 
+<l>And let mild, pitying thoughts lighten for thee</l> 
+<l>Thy sorrow's load. Err not in harsh despair,</l> 
+<l>But tears and patience. One thing more, my child;</l> 
+<l>For thine own sake, be constant to the love</l>
+<l>Thou bearest us and to the faith that I,</l>
+<l>Tho' wrapt in a strange cloud of crime and shame,</l>
+<l>Lived ever holy and unstained. And tho'</l> 
+<l>All tongues shall wound me, and our common name</l>
+<l>Be as a mark stamped on thine innocent brow</l>
+<l>For men to point at as they pass, do thou</l>
+<l>Forbear, and never think a thought unkind</l>
+<l>Of those, who perhaps love thee in their graves.</l>
+<l>So mayest thou die as I do; fear and pain</l>
+<l>Being subdued. Farewell! Farewell! Farewell!</l>
+</sp> 
+<sp who="#Bern">
+<speaker>Bern.</speaker> <l>I cannot say, farewell! </l>
+</sp>
+<sp who="Cam">
+<speaker>Cam.</speaker> <l>O, lady Beatrice!</l>
+</sp>
+<sp who="Beatr">
+<speaker>Beatr.</speaker> <l>Give yourself no unnecessary pain,</l>
+<l>My dear Lord Cardinal. Here, mother, tie</l>
+<l>My girdle for me, and bind up this hair</l>
+<l>In any simple knot; aye, that does well.</l>
+<l>And yours, I see, is coming down. How often</l>
+<l>Have we done this for one another: now</l>
+<l>We shall not do it <choice><orig>any more</orig><reg>anymore</reg></choice>. My Lord,</l>
+<l>We are quite ready. Well, 'tis very well.</l>
+</sp>
+<stage type="exit" rend="right">Exeunt.</stage>
+</quote></cit>
+<pb n="336"/> 
+<p>Mr. Shelley, in this work, reminds us of some of the most strenuous and daring of our old dramatists, not by any means as an imitator, though he has studied them, but as a bold, elemental imagination, and a framer of "mighty lines." He possesses also however, what those to whom we more particularly allude did not possess, great sweetness of nature, and enthusiasm for good; and his style is, as it ought to be, the offspring of this high mixture. It disproves the adage of the Latin poet. Majesty and Love do sit on one throne in the lofty buildings of his poetry; and they will be found there, at a late and we trust a happier day, on a seat immortal as themselves.</p>
+
+<p>[An accident prevents us from filling up this space with something which would have worthily filled it.]</p>
+                </div2>
+                
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+            Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
+        </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  

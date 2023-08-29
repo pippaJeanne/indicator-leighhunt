@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                 <title type="subtitle">No. XLIII. — WEDNESDAY, August 2d, 1820.</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title>The Indicator</title>
+                    <date when="1820-08-02">AUGUST 2d, 1820.</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+ </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="43">
+                <pb n="337" /> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XLIII. —WEDNESDAY, AUGUST 2d, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">THE STORIES OF LAMIA, THE POT OF BASIL, THE EVE OF 
+ST. AGNES, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> AS TOLD BY MR. KEATS.</head>
+<p>
+In laying before our readers an account of another new publication, 
+it is fortunate that the nature of the work again falls in with the character of our miscellany; part of the object of which is to relate the stories of old times. We shall therefore abridge into prose the stories 
+which Mr. Keats has told in poetry, only making up for it, as we go, 
+by cutting some of the richest passages out of his verse, and fitting them 
+in to our plainer narrative. They are such as would leaven a much 
+greater lump. Their drops are rich and vital, the essence of a heap 
+of fertile thoughts.</p> 
+
+<p>The first story, entitled Lamia, was suggested to our author by a 
+passage in Burton's Anatomy of Melancholy, which he has extracted 
+at the end of it. We will extract it here, at the beginning, that the 
+readers may see how he has enriched it. Burton's relation is itself an 
+improvement on the account in Philostratus. T]ie old book-fighter 
+with melancholy thoughts is speaking of the seductions of phantasmata.</p>
+
+<p>
+<cit><quote><p>
+"Philostratus, in his fourth book <title>'De Vita Apollonii,'</title> hath a memorable instance in this kind, which I may not omit, of one Menippus 
+Lycius, a young man , twenty-five years of age, that going <choice><orig>betwixt</orig><reg>between</reg></choice> 
+Cenchreas and Corinth, met such a phantasm in the habit of a fair 
+gentlewoman, which taking him by the hand, carried him home to her 
+house, in the suburbs of Corinth, and told him she was a Phœnician by 
+birth, and if he would tarry with her, he should hear her sing and 
+play, and dtink such wine as never any drank, and no man should 
+molest him; but she, being fair and lovely, would live and die with 
+him, that was fair and lovely to behold. The young man, a philosopher, otherwise staid and discreet, able to moderate his passions, 
+though not this of love, tarried with her awhile to his great content, 
+and at last married her, to whose wedding, amongst other guests, came 
+Apollonius; who, by some probable conjectures, found her out to be 
+a serpent, a lamia; and that all her furniture was, like Tantalus' gold, 
+described by Homer, no substance but mere illusions. When she saw 
+herself descried, she wept, and desired Apollonius to be silent, but he 
+would not be moved, and therefore she, plate, house, and all that was 
+<pb n="338"/>
+in it, vanished in an instant: many thousands took notice of this fact, 
+for it was done in the midst of Greece." 
+<bibl><title>— <choice><abbr>Anat. of Mel.</abbr><expan>Anatomy of Melancholy</expan></choice></title> <biblScope>Part 3, Sect. 2.</biblScope><ref target="https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"/></bibl>
+</p> 
+</quote></cit>
+</p>
+
+<p>According to our poet, Mercury had come down from heaven, one
+day, in order to make love to a nymph, famous for her beauty. He 
+could not find her; and he was halting among the woods uneasily, 
+when he heard a lanely voice, complaining. It was</p>
+<cit><quote>
+<lg rend="center">
+<l rend="right">A mournful voice,</l> 
+<l>Such as once heard, in gentle heart, destroys</l>
+<l>All pain but pity: thus the lone voice <choice><orig>spake</orig><reg>spoke</reg></choice>.</l>
+<l>"When from this writhed tomb shall I awake!</l>
+<l>"When move in a sweet body fit for life,</l>
+<l>"And love, and pleasure, and the ruddy strife</l>
+<l>"Of hearts and lips! Ah, miserable me!"</l>
+</lg>
+</quote></cit>
+
+<p>Mercury went looking about among the trees and grass,</p>
+<cit><quote>
+<lg rend="center">
+<l>Until he found a palpitating snake,</l>
+<l>Bright, and cirque-couchant in a dusky brake.</l>
+</lg></quote></cit>
+
+<p>The admiration, pity, and horror, to be excited by humanity in a brute 
+shape, were never perhaps called upon by a greater mixture of beauty 
+and deformity than in the picture of this creature. Our pity and 
+suspicions are begged by the first Word: the profuse and vital beauties with which she is covered seem proportioned to her misery and natural rights; and lest we should lose sight of them in this gorgeousness, the "woman's mouth" fills us at once with shuddering and compassion.</p>
+<cit><quote>
+<lg rend="center">
+<l>She was a gordian shape of dazzling hue,</l>
+<l>Vermillion-spotted, golden, green, and blue;</l>
+<l>Striped like a zebra, freckled like a pard,</l>
+<l>Eyed like a peacock, and all crimson-barr'd;</l>
+<l>And full of silver moons, that, as she breathed,</l>
+<l>Dissolv'd or brighter shone, or interwreathed</l>
+<l>Their lustries with the gloomier tapestries—–</l>
+<l>So rainbow-sided, touch'd with miseries,</l>
+<l>She seem'd at once, some penanced lady elf,</l>
+<l>Some <choice><orig>dæmon</orig><reg>demon</reg></choice>'s mistress, or the <choice><orig>dæmon</orig><reg>demon</reg></choice>'s self.</l>
+<l>Upon her crest she wore a wannish fire</l>
+<l>Sprinkled with stars, like Ariadne's tiar:</l>
+<l>Her head was serpent, but ah, bitter-sweet!</l>
+<l>She had a woman's mouth with all <choice><orig>it's</orig><reg>its</reg></choice> pearls complete:</l>
+<l>And for her eyes: what could such eyes do there,</l>
+<l>But weep, and weep, that they were born so fair?</l>
+<l>As Proserpine still weeps for her Sicilian air.</l>
+</lg></quote></cit>
+<p>
+The serpent tells Mercury that she knows upon what quest he is 
+bound, and asks him if he has succeeded. The god, with the usual 
+eagerness of his species to have his will, falls into the trap; and tells 
+her that he will put her in possession of any wish she may have at 
+heart, provided she can tell him where to find his nymph. As eagerly, 
+she accepts his promise, making him ratify it by an oath, which he first 
+pronounces with an earnest lightness, and afterwards with a deeper 
+solemnity.</p>
+<cit><quote>
+<lg rend="center">
+<l>Then once again the charmed God began</l>
+<l>An oath, and through the serpent's ears it ran</l> 
+<l>Warm, tremulous, devout, psalterian.</l>
+</lg></quote></cit>
+<pb n="339"/>
+<p>The creature tells him that it was she who had rendered the nymph 
+invisible, in order to preserve her from the importunities of the ruder 
+wood gods. She adds, that she was a woman herself, that she loves a 
+youth of Corinth and wishes tO be a woman again, and that if he will 
+let her breathe upon his eyes, he shall see his invisible beauty. The 
+god sees, loves, and prevails. The serpent undergoes a fierce and 
+convulsive change, and flies towards Corinth,</p>
+
+<cit><quote><l rend="center">A full-born beauty, new and exquisite.</l></quote></cit>
+
+<p>Lamia, whose liability to painful metamorphosis was relieved by a 
+supernatural imagination, had been attracted by the beauty of Lycius, 
+while pitching her mind among the enjoyments of Corinth. By the 
+same process, she knew that he was to pass along, that evening, on the 
+road from the sea-side to Corinth; and there accordingly she contrives 
+to have an interview, which ends in his being smitten with love, and 
+conducting her to her pretended home in that city. She represents 
+herself as a rich orphan, living "but half-retired," and affects to won- 
+der that he never saw her before. As they enter Corinth, they pass 
+the philosopher Apollonius, who is Lycius's tutor, and from whom he 
+instinctively conceals his face. Lamia's hand shudders in that of her 
+lover; but she says she is only wearied; and at the same moment, 
+they stop at the entrance of a magnificent house:-</p>
+<cit><quote>
+<lg rend="center">
+<l>A pillar'd porch, with lofty portal door,</l> 
+<l>Where hung a silver lamp, whose phosphor glow</l> 
+<l>Reflected in the slabbed steps below, </l>
+<l>Mild as a star in water.</l>
+</lg></quote></cit>
+<p>Here they lived for some time, undisturbed by the world, in all the 
+delight of a mutual passion. The house remained invisible to all eyes, 
+but those of Lycius. There were a few Persian mutes, <q>"seen that 
+year about the markets;"</q> and nobody knew whence they came; but 
+the most inquisitive were baffled in endeavouring to track them to some 
+place of abode.</p>
+
+<p>But all this while, a god was every night in the house, taking offence. 
+Every night</p>
+<cit><quote>
+<lg rend="center">
+<l rend="right">With a terrific glare,</l>
+<l>Love, jealous grown of so complete a pair,</l> 
+<l>Hovered and buzzed his wings with fearful roar</l>
+<l>Above the lintel of their chamber door,</l> 
+<l>And down the passage cast a glow upon the floor.</l>
+</lg></quote></cit>
+
+<p>Lycius, to the great distress of his mistress, who saw in his vanity a 
+great danger, persuaded her to have a public wedding-feast. She only 
+begged him not to iitvite Apollonius; and then, resolving to dress up 
+her bridals with a sort of despairing magnificence, equal to her apprehensions of danger, she worked a fairy architecture in secret, served only with the noise of wings and a restless sound of music––</p>
+<cit><quote>
+<lg rend="center">
+<l>A haunting music, sole perhaps and lone</l> 
+<l>Supportress of the faery-roof, made moan</l>
+<l>Throughout, as fearful the whole charm might fade.</l>
+</lg></quote></cit>
+<p>This is the very quintessence of the romantic. The walls of the long 
+vaulted room were covered with palms and plantain-trees imifated in 
+cedar-wood, and meeting over head in the middle of the ceiling;
+<pb n="340"/>
+between the stems were jasper pannels, from which <q>"there burst forth 
+creeping imagery of slighter trees;"</q> and before each of these <choice><sic>" </sic><corr></corr></choice>lucid pannels</p>
+<cit><quote>
+<lg rend="center">
+<l rend="right">Fuming stodd</l>
+<l>A censer filled with myrrh and spiced wood,</l> 
+<l>Whose slender feet wide-swerv'd upon the soft</l> 
+<l>Wool-woofed carpets; fifty wreaths of smoke</l>
+<l>From fifty censers their light voyage took</l>
+<l>To the high roof, still mimick'd as ihey rose</l>
+<l>Along the mirror'd walls by twin-clouds odorous.</l>
+</lg></quote></cit>
+<p>Twelve tables stood in this room, set round with circular couches, and 
+on every table was a noble feast and the statue of a god.</p>
+<cit><quote>
+<lg rend="center">
+<l rend="right">Lamia, regal <choice><orig>drest</orig><reg>dressed</reg></choice>,</l>
+<l>Silently faced about, and as she went,</l>
+<l>In pale contented sort of discontent,</l>
+<l>Mission'd her viewless servants to enrich</l>
+<l>The fretted splendour of each nook and niche.</l>
+</lg>
+<l>* * * * *</l>
+<lg>
+<l>Approving all, she faded at self-will,</l>
+<l>And shut the chamber up, close, hush'd, and still,</l>
+<l>Complete and ready for the revels rude,</l>
+<l>When dreadful guests would come to spoil her solitude.</l>
+</lg></quote></cit>
+<p>The guests came. They wondered and talked; but their gossiping 
+would have ended well enough, when the wine prevailed, had not 
+Apollonius, an unbidden guest, come with them. He sat right opposite the lovers, and</p>
+<cit><quote>
+<lg rend="center">
+<l>— Fixed his eye, without a twinkle or stir</l>
+<l>Full on the alarmed-beauty of the bride,</l>
+<l>Brow-beating her fair form, and troubling her sweet pride.</l>
+</lg></quote></cit>
+<p>Lycius felt her hand grow alternately hot and cold, and wondered 
+more and more both at her agitation and the conduct of his old tutor. 
+He looked into her eyes, but they looked nothing in return: he spoke 
+to her, but she made o answer: by degrees the music ceased, the 
+flowers faded away, the pleasure all darkened, and</p>
+<cit><quote>
+<lg rend="center">
+<l>A deadly silence step by step increased,</l>
+<l>Until it seemed a horrid presence there,</l>
+<l>And not a man but felt the terror in his hair.</l>
+</lg></quote></cit>
+
+<p>The bridegroom at last shrieked out her name; but it was only echoed 
+back to him by the room. Lamia sat fixed, her face of a deadly 
+his eyes; but Apllonius, refusing, asked him whether his old guide 
+and instructor who had preserved him from all harm to that day, 
+ought to see him made the prey of a serpent. A mortal faintness came 
+into the breath of Lamia at this word; she motioned him, as well 
+as she could to be silent; but looking her stedfastly in the face, he 
+repeated Serpent! and she vanished with a horrible scream. Upon 
+the same night, died Lycius and was swathed for the funeral in 
+his wedding-garments.</p>
+
+<p>Mr. Keats has departed as much from common-place in the character 
+and moral of this story, as he has in the poetry of it. He would see 
+fair play to the serpent, and makes the power of the philosopher an ill-natured and disturbing thing. Lamia though liable to be turned into
+<pb n="341"/>
+painful shapes had a soul of humanity; and the poet does not see why 
+she should not have her pleasures accordingly, merely because a phi- 
+losopher saw that she was not a mathematical truth. This is fine and 
+good. It is vindicating the greater philosophy of poetry. At the 
+same time, we wish that for the purpose of his story he had not appeared 
+to give into the common-place of supposing that Apollornius's sophistry 
+must always prevail, and that modern experiment has done a deadly 
+thing to poetry by discovering the nature of the rainbow, the air, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice>: that is to say, that the knowledge of natural history and physics, by 
+<choice><orig>shew</orig><reg>show</reg></choice>ing us the nature of things, does away the imaginations that once adorned them. This is a condescension to a learned vulgarism, which 
+so excellent a poet as Mr. Keats ought not to have made. The world 
+will always have fine poetry, as long as it has events, passions, atfectious, and a philosophy that sees deeper than this philosophy. There will be a poetry of the heart, as long as there are tears and smiles: 
+there will be a poetry of the imagination, as long as the first causes of 
+things remain a mystery. A man who is no poet, may think he is 
+none, as soon as he finds out the physical cause of the rainbow; but 
+he need not alarm himself: — he was none before. The true poet will 
+go deeper. He will ask himself what is the cause of that physical 
+cause; whether truths to the senses are after all to be taken as truths 
+to the imagination; and whether there is not room and mystery enough 
+in the universe for the creation of infinite things, when the poor matter-of-fact philosopher has come to the end of his own vision. It is remarkable that an age of poetry has grown up with the progress of experiment; and that the very poets, who seem to countenance these notions, 
+accompany them by some of their finest effusions. Even if there 
+were nothing new, to be created,— if philosophy, with its line and rule, 
+could even score the ground, and say to poetry "Thou shalt go no 
+further," she would look back to the old world, and still find it inexhaustible. The crops from its fertility are endless. But these alarms are altogether idle. The essence of poetical enjoyment does 
+not consist in belief, but in a voluntary power to imagine.</p>
+
+<p>The next story, that of the <title>Pot of Basil</title>, is from Boccaccio. After 
+the narrative of that great writer, we must make as short work of it as
+possible in prose. To turn one of his stories into verse, is another 
+thing. It is like setting it to a more elaborate music. Mr. Keats is so 
+struck with admiration of his author, that eyen while giving him this 
+accompaniment, he breaks out into an apology to the great Italian, 
+asking pardon for this</p>
+<cit><quote><l rend="center">— Echo of him in the worth-wind sung.</l></quote></cit>
+
+<p>We might waive a repetition of the narrative altogether, as the public 
+have lately been familiarized with it in the <title>Sicilian Story</title> of Mr. Barry 
+Cornwall: but we cannot help calling to mind that the hero and 
+heroine were two young and happy lovers, who kept their love a secret 
+from her rich brothers; that her brothers, getting knowledge of their 
+intercourse, lured him into a solitary place, and murdered him; that 
+Isabella, informed of it by a dreary vision of her lover, found out 
+where he was buried, and with the assistance of her nurse, severed 
+the head from the body that she might cherish even that ghastly memorial
+<pb n="342"/>
+of him as a relic never to be parted with; that she buried the 
+head in a pot of earth, and, planting basil over it, watered the leaves 
+with her continual tears till they grew into wonderful beauty and 
+luxuriance; that her brothers, prying into her fondness for the Pot of 
+Basil, which she carried with her from place to place, contrived to 
+steal it away; that she made such lamentations for it, as induced them 
+to wonder what could be its value, upon which they dug into it, and 
+discovered the head; that the amazement of that discovery struck back upon their hearts, so that after burying the head secretly, they left their native place, and went to live in another city; and that Isabella continued to cry and moan for her Pot of Basil, which she had 
+not the power to cease wishing foi; till, under the pressure of that 
+weeping want, she died.</p>
+
+<p>Our author can pass to the most striking imaginations from the 
+most delicate and airy fancy. He says of the lovers in their hapiness,</p>
+
+<cit><quote>
+<lg rend="center">
+<l>Parting they seemed to tread upon the air,</l>
+<l>Twin rosea by the zephyrs blown apart</l>
+<l>Only to meet again more close, and share </l>
+<l>The inward fragrance of each other's heart.</l>
+</lg>
+</quote></cit>
+
+<p>These pictures of their intercourse terribly aggravate the gloiom of 
+what follows. Lorrenzo, when lured away to be killed, is taken unknowingly out of his joys, like a lamb out of the pasture. The following masterly anticipation of his end, conveyed in a single word, has 
+been justly admired;—</p>
+<cit><quote>
+<lg rend="center">
+<l>So be two brothers and their murder'd man</l>
+<l>Rode past fair Florence, to where Arno's stream</l>
+<l>Gurgles through straitened banks.</l>
+<l rend="right">They passed the water</l>
+<l>Into a forest quiet for the slaughter.</l>
+</lg>
+</quote></cit>
+
+<p>When Mr. Keats errs in his poetry, it is from the ill management of a good thing, — exuberance of ideas. Once or twice, he does so in a taste positively bad, like Marino or Cowley, as in a line in his <title>Ode to Psyche</title>
+<cit><quote>
+<l>At tender eVe-daVfl of auforean love;</l>
+</quote></cit>
+but it is once or twice only, in his present volume. Nor has erred 
+much in it in a nobler way. What we allude to is one or two passages 
+in which he <choice><orig>over-informs</orig><reg>overinforms</reg></choice> the occasion or the speaker; as where the brothers, for instance, whom he describes as a couple of mere "money-bags," are gifted with the power of uttering the following exquisite metaphor: —</p>
+<cit><quote>
+<lg rend="center">
+<l>"To day we purpose, ay, this hour we mount</l>
+<l>To spur three leagues towards the Apennine:</l>
+<l>Come down, wo pray thee, ere tlie hot aun count</l>
+<l>His dewy rosary on the eglantine."</l>
+</lg>
+</quote></cit>
+<p>But to return to the core of the story. — Observe the fervid misery of the following.</p>
+<cit><quote>
+<lg rend="center" xml:id="extract1">
+<lg xml:id="stanza1">
+<l>She gaz'd into the fresh-thrown mould, as though</l>
+<l>One glance did fully all its secrets tell;</l>
+<l>Clearly she saw, as other eyes would know</l>
+<l>Pale limbs at bottotm of a crystal well;</l>
+<pb n="343"/>
+<l>Upon the murderous spot she seem'd to grow</l>
+<l>Like to a native lily of the dell: </l>
+<l>Then with her knife, all sudden, she began</l>
+<l>To dig more fervently than misers can.</l>
+</lg>
+<lg xml:id="stanza2">
+<l>Soon she turn'd up a soiled glove, whereon</l>
+<l>Her silk had play'd in purple phantasies,</l>
+<l>She kiss'd it with a lip more chill than stone</l>
+<l>And put it in her bosom, where it dries</l>
+<l>And freezes utterly unto the bone</l>
+<l>Those dainties made to still an infant's cries: </l>
+<l>Then 'gan she work again; nor stay'd her care,</l>
+<l>But to throw back at times her veiling hair.</l>
+</lg>
+<lg xml:id="stanza3">
+<l>That old nurse stood beside her wondering,</l>
+<l>Until her heart felt pity to the core</l>
+<l>At sight of such a dismal labouring,</l>
+<l>And so she kneeled, with her locks all hoar,</l> 
+<l>And put her lean hands to the horrid thing;</l>
+<l>Three hours they labour'd at this travail sore;</l>
+<l>At last they felt the kernel of the grave,</l>
+<l>And Isabella did not stamp and rave.</l>
+</lg>
+</lg>
+</quote></cit>
+<p>It is curious to see how the simple pathos of Boccaccio, or (which 
+is the same thing) the simple intensity of the heroine's feelings, suffices 
+our author more and more, as he gets to the end of his story. And he 
+has related it as happily, as if he had never written any poetry but 
+that of the heart. The passage about the tone of her voice, — the poor 
+lost-witted coaxing, — the "chuckle" in which she asks after her 
+Pilgrim and her Basil, - is as true and touching an instance of the 
+effect of a happy familiar word, as any in all poetry. The poet bids 
+his imagination depart,</p>
+<cit><quote>
+<lg rend="center" xml:id="extract2">
+<lg xml:id="half-stanza">
+<l>For Isabel, sweet Isabel, will die;</l>
+<l>Will die a death too lone and incomplete,</l>
+<l>Now they have ta'en away her Basil sweet.</l>
+</lg>
+<lg xml:id="stanza02">
+<l>Piteous she look'd on dead and senseless things,</l>
+<l>Asking for her lost Basil amorously;</l> 
+<l>And with melodious chuckle in the strings</l>
+<l>Of her lorn voice, she oftentimes would cry</l>
+<l>After the Pilgrim in his wanderings,</l>
+<l>To ask him where her Basil was; and why</l>
+<l>'Twas hid from Iter: "For cruel 'tis." said she,</l>
+<l>"To steal my Basil-pot away from me."</l>
+</lg>
+<lg xml:id="stanza03">
+<l>And so she pined, and so she died forlorn,</l>
+<l>Imploring for her Basil to the last.</l>
+<l>No heart was there in Florence but did mourn</l>
+<l>In pity of her love, so overcast.</l>
+<l>And a sad ditty of this story born</l>
+<l>From month to month through all the country pass'd:</l>
+<l>Stir is the <choice><orig>burthen</orig><reg>burden</reg></choice> sung — "O cruelty,</l>
+<l>"To steal my Basil-pot away from me!"</l>
+</lg>
+</lg>
+</quote></cit>
+<p>The Eve of St. Agnes, which is rather a picture than a story, may 
+be analysed in a few words. It is an account of a young beauty, who 
+going to bed on the eve in question to dream of her lover, while her 
+rich kinsmen, the opposers of his love, are keeping holday in the rest 
+of the house, finds herself waked by him in the night, and in the hurry 
+of the moment agrees to elope with him. The portrait of the heroine, 
+preparing to go to bed, is remarkable for its union of extreme richness 
+and good taste; not that those two properties of description are naturally 
+<pb n="344"/>
+distinct; but that they are too often separated by very good 
+poets, and that the passage affords a striking specimen of the sudden 
+and strong maturity of the author's genius. When he wrote Endymion 
+he could not have resisted doing too much. To the description before 
+us, it would be a great injury either to add or diminish. It falls at 
+once gorgeously and delicately upon us, like the colours of the painted 
+glass. Nor is Madeline hurt by all her encrusting jewelry and rustling 
+silks. Her gentle, unsophisticated heart is in the midst, and turns 
+them into so many ministrants to her loveliness.
+</p>
+<cit><quote>
+<lg rend="center" xml:id="extract3">
+<lg xml:id="stanza1-1">
+<l>A casement high and triple-arch'd there was,</l>
+<l>All garlanded with carven imag'ries</l>
+<l>Of fruits, and flowers, and bunches of knot-grass,</l>
+<l>And diamonded with panes of quaint device,</l>
+<l>Innumerable, of stains and splendid dyes,</l> 
+<l>As are the tiger-moth's deep-damask'd wings;</l>
+<l>And in the midst, 'mong thousand heraldries</l>
+<l>And twilight saints, and dim emblazonings,</l> 
+<l>A shielded scutcheon blush'd with blood of queens and kings.</l>
+</lg>
+<lg xml:id="stanza1-2">
+<l>Full on this casement shone the wintry moon,</l>
+<l>And threw warm gules on Madeline's fine breast,</l>
+<l>As down she knelt for heaven's grace and boon;</l>
+<l>Rose-bloom fell on her hands, together prest;</l>
+<l>And on her silver cross pale amethyst,</l>
+<l>And on her hair a glory, like a saint:</l>
+<l>She seem'd a splendid angel, newly <choice><orig>drest</orig><reg>dressed</reg></choice>,</l>
+<l>Save wings, for heaven: — Porphyro grew faint:</l>
+<l>She knelt, so pure a thing, so fr«e from mortal taint.</l>
+</lg>
+<lg xml:id="stanza1-3">
+<l>Anon his heart revives: her vaspers done,</l> 
+<l>Of all its wreathed pearls her hair she frees;</l> 
+<l>Unclasps her warmed jewels one by one;</l>
+<l>Loosens her fragrant boddice; by degrees</l>
+<l>Her rich attire creeps rustling to her knees;</l> 
+<l>Half-hidden, like a mermaid in sea-weed,</l>
+<l>Pensive awhile she dreams awake, and sees,</l>
+<l>In fancy, fair Saint Agnes in her bed,</l> 
+<l>But dares not look behind, or all the charm is fled.</l>
+</lg>
+<lg xml:id="stanza1-4">
+<l>Soon, trembling in her soft and chilly nest,</l> 
+<l>In sort of wakeful swoon, perplex'd she lay,</l> 
+<l>Until the poppied warmth of sleep oppress'd</l>
+<l>Her soothed limbs, and soul fatigued away;</l>
+<l>Flown like a thought until the morrow-day; </l>
+<l>Blissfully haven'd both from joy and pain;</l> 
+<l>Clasp'd like a missal where swart Paynims pray;</l>
+<l>Blinded alike from sunshine and from rain,</l>
+<l>As though a rose should shut, and be a bud again.</l>
+</lg>
+</lg>
+</quote></cit>
+<p>Is not this perfectly beautiful?</p>
+
+<p>[Want of room compels us to break off here. We cannot leave the 
+reader at a better place. The remainder of the criticism must occupy 
+the beginning of our next number.]</p>
+    </div2>
+    <div2 type="colophon"> <!-- Publisher and printer information -->
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+            Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
+        </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
