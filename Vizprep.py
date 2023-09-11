@@ -10,7 +10,8 @@ for file in listdir(dir):
 for f in files:
     if ".xml" not in f:
         files.remove(f)
-print(files)
+files.sort()
+
 #files = ["Structural Versions/theIndicator39.xml", "Structural Versions/theIndicator40.xml"]
 result = {}
 
@@ -30,20 +31,26 @@ def compile():
         result[file]["dates"] = {}
         no = ""
         bibtitle = "" 
-        #ref = ""
+
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}title"):
+            altstring = ""
+            expan = el.find("{http://www.tei-c.org/ns/1.0}choice/{http://www.tei-c.org/ns/1.0}expan")
+            if expan is not None:
+                altstring = expan.text
             string = el.text
-            if string in result[file]["title"]:
-                pass
-            else:
-                result[file]["title"].append(string)
-        
+            if altstring is not None and altstring != "" and altstring not in result[file]["title"]:
+                result[file]["title"].append(altstring)
+            if string is not None and string != "" and string not in result[file]["title"]:
+                result[file]["title"].append(string)                        
+            
+
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}persName[@type = 'real']"):
             key = el.get('key')
             string = el.get('ref')
             if key is not None and string is not None:
                 result[file]["persons"]["real"][key] = string
-        
+            elif key is not None and string is None:
+                result[file]["persons"]["real"][key] = key
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
             if el.get('corresp') is not None:
                 no = el.text
@@ -52,9 +59,18 @@ def compile():
             if string not in result[file]["persons"]["fictional"]:
                 result[file]["persons"]["fictional"].append(string)
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}bibl"): 
+            altstring = ""
             head = el.find("{http://www.tei-c.org/ns/1.0}title")
+            
             if head is not None:
+                expan = head.find("{http://www.tei-c.org/ns/1.0}choice/{http://www.tei-c.org/ns/1.0}expan")
                 bibtitle = head.text
+                if expan is not None:
+                    altstring = expan.text
+            if bibtitle is not None and bibtitle != "":
+                result[file]["bibl"]["title"][bibtitle] = {}
+            if altstring is not None and altstring != "":
+                bibtitle = altstring
                 result[file]["bibl"]["title"][bibtitle] = {}
             author = el.find("{http://www.tei-c.org/ns/1.0}author")
             if author is not None:
@@ -88,12 +104,13 @@ def compile():
             string = el.text
             if when is not None:
                 result[file]["dates"][when] = string
-            
+          
     return result
+
 
 jsonfile = compile()
 print(jsonfile)
 json_obj = json.dumps(jsonfile, indent=7, ensure_ascii = False)
-with open("Hunt_data.json", "w", encoding ='utf-8') as outfile:
+with open("Hunt_data.json", "w") as outfile:
     outfile.write(json_obj)
     print("Done!")
