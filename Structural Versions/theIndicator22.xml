@@ -21,6 +21,7 @@
         <body>
             <div1 type="issue" n="22">
                 <pb n="169" />
+                <div2 type="forematter"> 
                 <head type="title" rend="center">THE INDICATOR.</head>
                 <epigraph rend="center">
                     <l>There he arriving round about doth flie</l>
@@ -34,8 +35,8 @@
                     <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                             cert="high" type="real">SPENSER</persName>.</l>
                 </epigraph>
-                <head type="subtitle" rend="center">No. XXII.—<date when="1820-03-08" cert="high">WEDNESDAY,
-                    MARCH 8th, 1820</date>.</head>
+                <head type="subtitle" rend="center">No. XXII.—<date when="1820-03-08" cert="high">WEDNESDAY, MARCH 8th, 1820</date>.</head>
+                </div2> 
                 <div2 type="section" n="1">
                     <head type="header" rend="center">HATS, NEW AND ANCIENT.</head>
                     <p> We know not what will be thought of our taste in so important a matter, but
@@ -445,7 +446,7 @@
                         <l>And sent these den-born shapes to crush his destiny."</l>
                     </lg>
                 </div2>
-                <div2 type="section" n="3">
+                <div2 type="correspondents">
                     <head type="header" rend="center">TO CORRESPONDENTS.</head>
                     <p>In removing a quantity of papers, we have unfortunately mislaid some letters 
                         from correspondents. We hope to recover them; but should we still be disappointed, 
@@ -454,12 +455,12 @@
                         least of all, what was so good-naturedly said upon the article on the Heathen 
                         Mythology.
                     </p>
+</div2>
+                    <div2 type="colophon">
                     <p rend="center">
-                        Orders received by the Newsmen, by the Booksellers, and by the Publisher, Joseph Appleyard,
-                        <lb />
-                        No. 19, Catherine-street, Strand.——Price 2d.
+                        Orders received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, No. 19, Catherine-street, Strand.——Price 2d.
                     </p>
-                    <p rend="center">Printed by C. H. Reynell, No. 46, Broad-street, Golden-square. </p>
+                    <p rend="center">Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 46, Broad-street, Golden-square. </p>
                 </div2>
             </div1>
         </body>

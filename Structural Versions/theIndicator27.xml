@@ -57,7 +57,7 @@
         <body>
             <div1 type="issue" n="27">
                 <pb n="209" /> <!-- Page beginning -->
-                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
@@ -485,8 +485,8 @@
                     </p>
                 </div2>
                 <div2 type="colophon"> <!-- Publisher and printer information -->
-                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher, Joseph Appleyard.</p>
-                    <p>Printed by Joseph Appleyard, No. 19, Catherine-street, Strand,——Price 2d.</p>
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
+                    <p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, No. 19, Catherine-street, Strand,——Price 2d.</p>
                 </div2>
             </div1>
         </body>

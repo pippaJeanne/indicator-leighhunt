@@ -68,6 +68,7 @@
         <body>
             <div1 type="issue" n="21">
                 <pb n="161" />
+                <div2 type="forematter"> 
                 <head type="title" rend="center">THE INDICATOR.</head>
                 <epigraph rend="center">
                     <l>There he arriving round about doth flie</l>
@@ -76,6 +77,8 @@
                     <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                 </epigraph>
                 <head type="subtitle" rend="center">No. XXI.—<date when="1820-03-01" cert="high">WEDNESDAY, MARCH 1st, 1820</date>.</head>
+                </div2>
+                <div2 type="section" n="1">
                 <head type="header" rend="center">SCENES FROM AN UNFINISHED DRAMA.</head>
                 <p>THE following scenes are from a play which the Editor intended 
                     to write, and belonged to the more serious part of it. The rest he 
@@ -105,6 +108,7 @@
                     poets and other great men.
                 </p>
                 <q type="written">For <hi rend="italic">valour</hi>, <hi rend="italic">is</hi> not Love a Hercules?</q>
+                </div2>
                 <pb n="162" />
                 <div2 type="scene" n="1">
                     <sp who="#Cont">
@@ -833,13 +837,11 @@
                         <l>Of Venice to the core.</l>
                     </sp>
                 </div2>
-                <div2>
-                    <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, Joseph Appleyard,
-                        <lb />
-                        No. 19, Catherine-street, Strand—Price 2d.
+                <div2 type="colophon">
+                    <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, No. 19, Catherine-street, Strand—Price 2d.
                     </p>
                     <p>
-                        Printed by C. H. Reynell, No. 45, Broad-street, Golden-square.
+                        Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square.
                     </p>
                 </div2>
             </div1>

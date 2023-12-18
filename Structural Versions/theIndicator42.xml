@@ -90,7 +90,7 @@
         <body>
             <div1 type="issue" n="42">
                 <pb n="329" /> <!-- Page beginning -->
-                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
@@ -99,7 +99,7 @@
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
-                    <head type="catalogue">No. XLII.—WEDNESDAY, JULY 26th, 1820.</head>
+                    <head type="catalogue">No. XLII.<date when="1820-07-26"> —WEDNESDAY, JULY 26th, 1820.</date></head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header">THE DESTRUCTION OF THE CENCI FAMILY, AND TRAGEDY ON THAT SUBJECT.</head>
@@ -322,7 +322,7 @@ in our opinion, is one of the author's happiest subtleties. She is naturally so 
                 </div2>
                 
                 <div2 type="colophon"> <!-- Publisher and printer information -->
-        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName></hi>, No. 19, Catherine-street, Strand. 
             Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
         </div2>
             </div1>

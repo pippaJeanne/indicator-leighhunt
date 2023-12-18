@@ -51,7 +51,7 @@
         <body>
             <div1 type="issue" n="24">
                 <pb n="185" /> <!-- Page beginning -->
-                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
@@ -345,19 +345,16 @@
                         </cit>
 
 <cit>
-                            <q>Milton's Genius of the Grove,</q> says Warton, <q>being a spirit sent
+                            <quote><q>Milton's Genius of the Grove,</q> says Warton, <q>being a spirit sent
                         from Jove, and commissioned from heaven to exercise a preternatural
                         guardianship over the <q>saplings tall,</q> to avert every noxious
                         influence, and <q>to visit every sprout with puissant words, and murmurs
-                        made to
-                                    bless,</q> had the privilege, not indulged to gross mortals, of
+                        made to bless,</q> had the privilege, not indulged to gross mortals, of
                         hearing the celestial Syrens' harmony. This enjoyment,</q> continues the
                         critic, in the spirit of a true reader, luxuriating over a beautiful
                         thought,— <q>This enjoyment, which is highly imagined, Avas a relaxation
-                        from the
-                                duties of his peculiar charge, in the depth of midnight, when the
-                        world
-                                is locked up in sleep and silence.</q>
+                        from the duties of his peculiar charge, in the depth of midnight, when the
+                        world is locked up in sleep and silence.</q></quote>
 <note type="source"
                                 cert="high">
                                 <bibl>
@@ -689,8 +686,8 @@
                 </div2>
                 <div2 type="colophon"> <!-- Publisher and printer information -->
                     <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
-                        Joseph Appleyard. </p>
-                    <p>Printed by Joseph Appleyard, No. 19, Catherine-street, Strand.——Price 2d. </p>
+                        <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>. </p>
+                    <p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, No. 19, Catherine-street, Strand.——Price 2d. </p>
                 </div2>
             </div1>
         </body>

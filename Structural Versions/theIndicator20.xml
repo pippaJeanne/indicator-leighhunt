@@ -21,6 +21,7 @@
         <body>
             <div1 type="issue" n="20">
                 <pb n="153" />
+                <div2 type="forematter"> 
                 <head type="title">THE INDICATOR.</head>
                 <epigraph>
                     <l>There he arriving round about doth flie</l>
@@ -36,6 +37,8 @@
                 </epigraph>
                 <head type="subtitle">No. XX.—<date when="1820-02-23" cert="high">WEDNESDAY,
                     FEBRUARY 23rd, 1820</date>.</head>
+                </div2>
+                <div2 type="section" n="1">
                 <head type="header">RONALD OF THE PERFECT HAND.</head>
                 <p>[The following tale is founded upon a tradition in <persName key="Anne Grant"
                         ref="http://www.wikidata.org/entity/Q4768392" cert="high" type="real">Mrs.
@@ -412,9 +415,11 @@
                     you heard; and from that day forth many were the songs in Inistore,
                     upon the fortunes of the Perfect Hand and the kindness of the Per-
                     fect Voice. Nor were those forgotten, who forgot not others.</p>
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <lb />
-                    J. Appleyard, 19, Catherin-street, Strand.–Price 2d.</p>
-                <p>Printed by C. H. Reynell, No. 45, Broad-street, Golden-square.</p>
+                </div2>
+                <div2 type="colophon">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">J. Appleyard</persName>, 19, Catherin-street, Strand.–Price 2d.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square.</p>
+                </div2>
             </div1>
         </body>
     </text>

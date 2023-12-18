@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The <orgName>Indicator</orgName></title>
+                <author>Hunt, James Henry Leigh (1784-1859)</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>Hunt, James Henry Leigh (1784-1859)</author>
+                    <title>The <orgName>Indicator</orgName></title>
+                    <date when="1819-10-20">OCTOBER 20th", 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement><placeName>London</placeName></settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="2">
+                <pb n="9" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                    <p>There  is  a  bird  in  the  interior  of  Africa,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus <orgName>Indicator</orgName>  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header"> THE INDICATOR AND EXAMINER. — AUTUMNAL COMMENCEMENT 
+OF FIRES. — MANTLE-PIECES. — APARTMENTS FOR STUDY. </head>
+<p>One or two persons, we understand, have supposed that the present  
+periodical work will interfere with the literary part of another, in  
+which the Editor has long been concerned. This is a great mistake.  
+The <orgName>Examiner</orgName> will continue to be- more literary, as well as painstaking  
+in every other respect, than it has ever been. It will have  
+more than the usual literature, for instance, connected with politics  
+and criticism, — especially the latter. Indeed, should the new paper  
+injure the old one, it would be dropped. The fact is, that as far as  
+the Editor is concerned, the <orgName>Examiner</orgName> is to be regarded as the  
+reflection of his public literature, and the <orgName>Indicator</orgName> of his private.  
+In the one he has a sort of public meeting with his friends : in the  
+other, a more retired one. The <orgName>Examiner</orgName> is his tavern-room for  
+politics, for political pleasantry, for criticism upon the theatres and   
+living writers. The <orgName>Indicator</orgName> is his private room, his study, his  
+retreat from public care and criticism, with the reader who chuses  
+to accompany him.</p>
+
+<p>Here we are then, this chilly weather, with a warm fire. How  
+pleasant it is to have fires again ! We have not time to regret summer,  
+when the cold fogs begin to force us upon the necessity of having  
+a new kind of warmth; — a warmth not so fine as sunshine, but as  
+manners go, more sociable. The English get together over their  
+fires, as the Italians do in their summer-shade. We do not enjoy our  
+sunshine as we ought: our climate in general seems to render us  
+almost unaware that the weather is fine, when it really becomes so:  
+but for the same reason, we make as much of our winter as the  
+anti-social habits that have grown upon us from other causes will allow.  
+And for a similar reason, the southern <placeName>Europe</placeName>an is unprepared for a  
+cold day. The houses in <placeName>Italy</placeName> are almost all summer-houses, letting  
+in the air on every side; so that when a fit of cold weather comes  
+on the dismayed inhabitant, walking and shivering about with a  
+
+<pb n="10"/>
+
+little brazier in his hands, presents an awkward image of insufficiency  
+and perplexity. A few of our fogs, shutting up the sight of  
+every thing out of doors, and making the trees and the eves of the  
+houses drip like rain, would soon admonish him to get warm in good  
+earnest. If "the web of our life" is always to be of a mingled  
+yarn," a good warm hearth-rug is not the worst part of the manufacture.</p>
+
+<p>Here we are then again, with our fire before us, and our books on  
+each side. What shall we do? Shall we take out a Life of somebody,  
+or a <persName>Theocritus</persName>, or <persName>Dante</persName>, or <persName>Ariosto</persName>, or <persName>Montaigne</persName>, or <persName>Marcus Aurelius</persName>,  
+or <persName>Horace</persName>, or <persName>Shakspeare</persName> who includes them all? Or shall we  
+read an engraving from <persName>Poussin</persName> or <persName>Raphael</persName>? Or shall we sit with  
+tilted chairs, planting our wrists upon our knees, and toasting the  
+up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
+mans heart and hopes, with at least a sincerity, a good intention, and  
+good nature,</hi> that shall warrant what we say with the sincere, the  
+good-intentioned, and the good-natured?</p>
+
+<p>Ah — take care. You see what that old looking saucer is, with  
+a handle to it. It is a venerable piece of earthenware, which may  
+have been worth, to an Athenian, about two-pence; but to an author,  
+is worth a great deal more than ever he could — deny for it. And  
+yet he would depy it too. It will fetch his imagination more than  
+ever it fetched potter or penny-maker. It's little shallow circle  
+overflows for him with the milk and honey of a thousand pleasant  
+associations. This is one of the uses of having mantle-pieces. You  
+may often see on no very rich mantle-piece a representative body of  
+all the elements, physical and intellectual,— a shell for the sea, a  
+stuffed bird or some feathers for the air, a curious piece of mineral  
+for the earth, a glass of water with some flowers in it for the visible  
+process of creation, — a cast from sculpture for the mind of man;—  
+and underneath all, is the bright and ever-springing fire, running  
+up through them heavenwards, like hope through materiality. We  
+like to have any little curiosity of the mantle-piece kind within our  
+reach and inspection. For the same reason, we like a sniall study,  
+where we are almost in contact with our books. We like to feel  
+them about us, — to be in the arms of our mistress <orgName>Philosophy</orgName>, rather   
+than see her at a distance. To have a huge apartment for a study  
+is like lying in the great bed at <persName>Ware</persName>, or being snug on a milestone  
+upon Hounslow Heath. It is space and physical activity, not  
+repose and concentration. It is fit only for grandeur and ostentation,  
+— for those who have secretaries, and are to be approached like gods  
+in a temple. The archbishop of <placeName>Toledo</placeName>, no doubt, wrote his homilies  
+in a room ninety feet long. The Marquis <persName>Marialva</persName> must have been  
+approached by <persName>GU Bias</persName> through whole ranks of glittering authors,  
+standing at due distance. But <persName>Ariosto</persName>, whose mind could fly out of  
+it's nest over all nature, wrote over the house he built, <q xml:lang="italian">"Parva, sed  
+apta mihi"</q> — Small, but suited to me. However, it is to be observed,  
+that he could not afford a larger. He was a Duodenarian, in that  
+respect, like ourselves.  We do not know how our ideas of a study  	
+
+<pb n="11"/>
+
+might exparid With our walls. <persName>Montaigne</persName>, who was <persName>Montaigne</persName>  
+"of that ilk,"" and lord of a great chateau, had a study "sixteen  
+paces in diameter, with three noble and free prospects." He congratulates  
+himself, at the same time, on it's circular figure, evidently  
+from a feeling allied to the one in favour of smallness." The figure  
+of my study," says he, "is round, and has no more flat (bare)  
+wall, than what is taken up by my table and my chairs; so that the  
+remaining parts of the circle present me with a view of all my books at  
+once, set upon five degrees of shelves round about me." (Cotton's  
+<persName>Montaigne</persName>. B.3. Ch. 3.) A great prospect we hold to be a very disputable  
+advantage, upon the same reasoning as before; but we like to have  
+some green boughs about our windows, and to fancy ourselves as  
+much as possible in the country when we are not there. Milton  
+expressed a wish with regard to his study, extremely suitable to our  
+present purpose. He would have the lamp in it seen; thus letting  
+others into a share of his enjoyments, by the imagination of them.</p>
+
+<cit><quote><lg><l>And let my lamp at midnight hour </l>
+<l>Be seen in some high lonely tower. </l>
+<l>Where I may oft outwatch the Bear </l>
+<l>With thrice-great <persName>Hermes</persName>; or unsphere </l>
+<l><title>The Spirit of Plato</title>, to unfold </l>
+<l>What world or what vast regions hold </l>
+<l>The immortal mind, that hath forsook </l>
+<l>Her mansion in this fleshy nook. </l></lg></quote><note type="source"><bibl><author>John Milton</author>: <title>Il Penseroso</title></bibl></note></cit>
+
+<p>There is a fine passionate burst of enthusiasm oh the subject of a 
+study in <persName>Fletcher</persName>'s play of the <bibl><title>Elder Brother</title>, <ref>Act. 1. Scene 2</ref></bibl>.</p>
+
+<lg><l>Sordid and dunghill minds, composed of earth, </l>
+<l>In that gross element fix all their happiness : </l>
+<l>But purer spirits, purged and refined. </l>
+<l>Shake off that clog of human frailty. Give me </l>
+<l>Leave to enjoy myself. That place, that does </l>
+<l>Contain my books, the best companions, is </l>
+<l>To me a glorious court, where hourly I </l>
+<l>Converse with the old sages and philosophers; </l>
+<l>And sometimes for variety, I confer </l>
+<l>With kings and emperors, and weigh their counsels; </l>
+<l>Calling their victories, if unjustly got. </l>
+<l>Unto a strict account; and in my fancy. </l>
+<l>Deface their ill-placed statues.  Can I then </l>
+<l>Part with such constant pleasures, to embrace </l>
+<l>Uncertain vanities?  No : be it your care </l>
+<l>To augment a heap of wealth : it shall be mine </l>
+<l>To increase in knowledge. Lights there for my study! </l></lg>
+</div2>
+
+<div2 type="section" n="2">
+<head type="header" rend="center"><persName>ACONTIUS</persName> AND <persName>CYDIPPE</persName>,</head>
+<head type="subheader" rend="center">A LOVE STORY IN THE ANTIENT WRITERS.</head>
+<p><persName>Acontius</persName> was a youth of the island <persName>Cea</persName> (now <persName>Zia</persName>), who at the  
+sacrifices in honour of <persName><persName>Dian</persName>a</persName> fell in love with this beautiful virgin,  
+<persName>Cydippe</persName>; but she was unfortunately so much above him in rank,  
+that he had no hope of obtaining her hand in the usual way The  
+
+<pb n="12"/>
+
+wit of a lover accordingly helped him to an expedient. There was  
+a law in <persName>Cea</persName>, that any oath pronounced in the temple of <persName><persName>Dian</persName>a</persName> was  
+irrevocably binding. <persName>Acontius</persName> got an apple, and writing some words  
+upon it; pitched it into <persName>Cydippe</persName>'s bosom.</p>
+<p>The words were these; — </p>
+
+<q xml:lang="anc-Greek">MA THN APTEMIN AKONTIΩ ΓAMOΥMAI.</q>
+<q>By <persName>Dian</persName>, I will marry <persName>Acontius</persName>. </q>
+
+<p>Or as a poet has written them : </p>
+
+<lg><l>Juro tibi sanctae per mystica sacra <persName>Dian</persName>se, </l>
+<l>Me tibi venturam comitem, sponsamque futuram. </l></lg>
+
+<lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName>Dian</persName>, I will be </l>
+<l>Thy bride betrothed, and bear thee company. </l></lg>
+
+<p><persName>Cydippe</persName> read, and married herself. — It is said that she was repeatedly  
+on the eve of being married to another person; but her imagination  
+in the shape of the Goddess as often threw her into a fever;  
+and the lover, whose ardour and ingenuity had made an impression  
+upon her, was made happy. <persName>Aristaenetus</persName> in his <title>Epistles</title> calls the  
+apple <hi xml:lang="anc-Greek">Κνδωνιον μήλον</hi> a Cretan apple, which is supposed to mean a quince : or as others think, an orange, or a citron. But the apple was, is,  
+and must be, a true, unsophisticated apple. Nothing else would  
+have suited. "The apples, methought," says Sir Philip Sydney, of  
+his heroine in the Arcadia, " fell down from the trees, to do homage   
+to the apples of her breast.-' The idea seems to have originated with  
+<persName>Theocritus</persName>, (Idyl. 27- v. 50. Edit. Valckenaer.) from whom it was  
+copied by the Italian writers. It makes a lovely figure in one of the  
+most famous passages of <persName>Ariosto</persName>, where he describes the beauty of  
+Alcina (<persName>Orlando</persName> Furioso, Canto 7- st. 14.) : — </p>
+
+<lg xml:lang="it"> <l><persName>Bianca neve</persName> e <persName>il bel collo</persName>, e'l petto latte: </l>
+<l>II collo e tondo, <persName>il petto colmo e largo</persName> : </l> 
+<l>Due pome acejbe, e pur d'avorio fatte, </l>
+<l><persName>Vengono</persName> e van come onda al primo margo, </l>
+<l>Quando piacevole aura il mar combatte. </l></lg>
+
+<lg xml:lang="en" type="hunt-translation"> <l>Her bosom is like milk, her neck like snow; </l>
+<l>A rounded neck; a bosom, where you see </l>
+<l>Two crisp young ivory apples come and go. </l>
+<l>Like waves, that on the coast beat tenderly, </l> 
+<l>When a sweet air is ruffling to and fro. </l></lg>
+
+<p>And after him, <persName>Tasso</persName>, in his fine ode on the Golden Age : — </p>
+
+<lg xml:lang="it"><l>Allor tra fiori e linfe  </l>
+<l>Tracan dolci carol e  </l>
+<l>Gli Amoretti senz'archi e senza faci :  </l>
+<l>Tracan tra fiori e linfe  </l>
+<l>Meschiando a le parole  </l>
+<l>Vezzi e susurri, ed ai susurri i baci  </l>
+<l>Strettamente tenaci.  </l>
+<l>La verginella ignude  </l>
+<l>Scopria sue fresche rose  </l>
+<l>Ch'or tien nel velo ascose,  </l>
+<l>E le pome del seno acerbe e crude: </l> 
+<l>E sperso o in fiume o in lago  </l>
+<l>Scherzar si vide con <persName>Tamata il vago</persName>. </l></lg>
+
+<pb n="13"/>
+
+<lg xml:lang="en" type="hunt-translation"><l>Then among streams and flowers. </l>
+<l>The little Winged Povrers </l>
+<l>Went singing carols, without torch or bow; </l>
+<l>The nymphs and shepherds sat </l>
+<l>Mingling with innocent chat </l>
+<l>Sports and low whispers, and with whispers low </l>
+<l>Kisses that would not go. </l>
+<l>The maiden, budding oe'r. </l>
+<l>Kept not her bloom uneyed, </l>
+<l>Which now a veil must hide, </l>
+<l>Nor the crisp apples which her bosom bore: </l>
+<l>And oftentimes in river or in lake. </l>
+<l>The lover and his love their merry bath would take. </l>
+<l>Honi soit qui mal y pense. </l></lg>
+</div2>
+
+<div2 type="section" n="3">
+<head type="header">VENICE.</head> 
+
+<p>This is the country of <persName>Titian</persName>, of <persName>Palladio</persName>, of <persName>Marcello</persName>, who from  
+a nobleman became one of the finest musicians in <placeName>Italy</placeName>; of <persName>Bembo</persName>,  
+one of the most liberal and accomplished of cardinals; of <persName>Paul Sarpi</persName>,  
+who kept his countrymen independent of the church of <placeName>Rome</placeName>.</p>
+
+<p>The Venetians are like a lively family cut oflf from the rest of  
+<placeName>Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
+and coming at a distance of a league and a half upon a city standing in  
+the sea. This is <placeName>Venice</placeName>. It is built upon seventy-two little islands,  
+the houses abutting directly upon the water, the finest of them with-  
+out even a landing place but the stairs; so that instead of streets  
+there are only canals of sea- water; and instead of coaches and carts,  
+gondolas and other boats. Perhaps the best idea the reader can  
+have of a Venetian street is to imagine a street like <placeName>Portland</placeName>-place,  
+or rather a more winding one like the High-street at <placeName>Oxford</placeName>, mixed  
+with nobler as well as smaller houses, and the full sea running through  
+it, with abundance of boats of traffic and swift-darting gondolas.  
+The gondola is a sort of wherry, about five feet broad, and twenty-  
+five long, covered with black cloth, and having a cabin standing up  
+in the middle of it, like the body of a caravan. The cabin is covered with  
+black also, and has moveable windows with curtains A Venetian gentle-  
+keeps his gondola as an Englishman does his coach; only with much  
+greater cheapness. The full complement of a gondola is two rowers,  
+who stand to their oars, one at each end, and with their faces the  
+reverse way of our boatmen. They're very expert, and dart their  
+gondolas in and out among the intricacies of this watery bustle, like  
+fish. They are proverbial for their cheerfulness and honesty. They  
+used to be famous for singing passages out of <persName>Tasso</persName> and other Italian  
+poets; but political trouble has dashed the spirits even of the  
+Venetian gondolier, and he is now comparatively mute.*<note type="hunt" place="foot">It is curious and natural enough, that one of their most favourite passages  
+was the beginning of the seventh book of <title>the <placeName>Jerusalem</placeName> Delivered</title>, where <persName>Errainia</persName>  
+gets among the country-people. They sang to a kind of chant, sometimes  
+responding to each other; and the aflfect at night-time, when the sound came  
+.softened by distance over the water, was often delightful. <persName>Rousseau</persName>, who was  
+once at <placeName>Venice</placeName>, published the chant in notes. We do not remember whether it is  
+from him that Mr. <persName>Shield</persName> has copied it in the appendix to his <title>Introduction to Har-  
+</title>mony; but it is there to be found. <persName>Ariosto</persName> used to be the great favourite with  
+the Venetians; but <persName>Tasso</persName>'s poem seems to have superseded even the <persName>Orlando</persName> in  
+popularity. An Italian gentleman, when asked his opinion of this mystery,  
+thought it explained by the great mixture of Turkish affairs in the <placeName>Jerusalem</placeName>,  
+the Venetians having had a good deal to do with the Turks, both as enemies and  
+friends. </note> The guitar 
+<pb n="14"/>
+however is still heard in <placeName>Venice</placeName>, especially of an evening; and the  
+visitor continually hears those delightful dancing airs which have  
+been collected and published in this country. The chief, or rather  
+the only place of assemblage for the inhabitants of <placeName>Venice</placeName> out of  
+doors (for they have a fine opera and multitudes of opera-houses  
+within) is a large square, containing the principal church and the  
+government offices. Here all ranks are accustomed to meet of an  
+evening; and here something of amusement is generally going  
+forward all day, from the guitar-player to the punchinelio. There is  
+very little more standing-room throughout the city; and so little  
+vegetation, that they call a court by way of eminence the Court of  
+the Tree, and there is a church entitled our Lady of the Garden.  
+There is a monastery with one of these gardens, such as they are;  
+the Palace Zenobio has another, and a Casino,*<note type="hunt" place="foot"> <persName>Baretti</persName> defines one of these <orgName>Casinos</orgName> exactly. He calls it "a small house kept for pleasure in a town, besides our own." They are in great request at <placeName>Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
+laces like withered nuts.</note> called Zanne, another.  
+We suppose they muster up some others in miniature; but there  
+is an island near <placeName>Venice</placeName>, where the gentry have country-houses, and  
+contrive to be a little more horticultural.</p>
+
+<p>Next to it's watery streets, <placeName>Venice</placeName> is remarkable for the number  
+of it's bridges and palaces. The latter are truly so called, and  
+comprise many of the master-pieces of <persName>Palladio</persName>. Every noble family  
+appears to have once occupied a palace, some of them many palaces.  
+They stand upon the principal canals, into which run smaller ones,  
+all of them having their bridges. These bridges however are in  
+general very small; nor is the famous one, called the Rialto, so  
+remarkable as it's celebrity would imply, though it is built in a strik-  
+ing manner, of one arch. It has houses on it, like old <placeName>London</placeName> bridge,  
+though not after the same fashion. They cross it in a covered angle,  
+forming a double arcade. The artist who built it was called Antonio  
+of the Bridge. In the same spirit of poetical tendency, the bridge  
+leading to the city jail is called the Bridge of Sighs; and one of the  
+principal canals, probably from the residence of some great musician,  
+is entitled the River of Song.</p>
+
+<p>The Venetians have always been famous for their enjoying temper,  
+and what the Italians call <persName>Brio</persName>, — a certain sparkling of the animal  
+spirits. A quintessence of this quality would seem to have been almost  
+the only thing which made a late celebrated dramatist, <persName>Goldoni</persName>,  
+be taken all over <placeName>Europe</placeName> for a great genius. Yet the Venetian character  
+in general is relieved from the frivolous by an evident capacity
+
+<pb n="15"/>
+for the serious. The wine in their blood has a body with it. There  
+is a tone and substance in their composition as different from the old  
+French levity, as <persName>Titian</persName>'s pictures are from La Guerre. You still  
+meet with <persName>Titian</persName>'s men and women at <placeName>Venice</placeName>, — the same rich dark  
+complexions and fine figures; the same faces, earnest without sharp-  
+ness, quick without confusion, thoughtful without severity, volup-  
+tuous without grossness. The men are robust as well as agile : the  
+women have that sort of tone in their composition which made the  
+very courtezan of <placeName>Venice</placeName> a Calypso to strangers, and enthroned the  
+more sentimental mistress at the top of her sex, at once to fascinate  
+and to rule.</p>
+
+<p>The leading men in the state, the counsellors at law, etc. take ad-  
+vantage of this solid part of the national character to affect a prodi-  
+gious air of gravity: and it was perhaps from a mixed spirit of re-  
+publican pride, and a sort of gusto of contrast to the pleasurability  
+of their temperament, that black colours became the national wear.  
+Not only the divines and lawyers wore black, but the statesmen wore  
+black, the ladies all wore black; and the gondolas, carrying guitars  
+and lovers in their bosoms, were clothed in the same external symbol  
+of solemnity. We believe it is the same to this day, if not so uni-  
+versally. There seems in this a kind of pleasant and avowed hypo-  
+crisy, which stands the lively and sincere Venetian instead of the  
+more hypocritical zests of other countries.</p>
+
+<p><placeName>Venice</placeName> originated with fugitives from the Italian peninsula during  
+the fierce time of <persName>Attila</persName>, and subsisted afterwards as an independent  
+state for many centuries, unbesieged even but by the waves. It's  
+famous oligarchical form of government, under which it became  
+mistress of the sea, still divides the opinions of politicians. Some  
+think it must have been an intolerable tyranny; while others, among  
+whom is our republican countryman <persName>Harrington</persName>, have regarded it  
+as the true model of a popular state. The truth seems to be, that  
+the good climate and chearful temperament enjoyed by the Vene-  
+tians rendered them very easy subjects; and this easiness had it's  
+effect in turn upon their leaders, who with all their outward stateli-  
+ness were in reality like themselves. There was none of the physical  
+suffering, which naturally renders the people so impatient in harder  
+climates; and on the other hand, the rulers were generally wise and  
+kind, and not provoked into tyranny either by conscious injustice,  
+or extra-national ambition. The Venetians were too contented with  
+what was done and allowed, to quarrel for the last, sad privilege of  
+political talking; and provided a Venetian did not talk politics, he  
+might talk or do any thing he pleased. Thus they were like a happy  
+family living under a father of austere aspect and real goodnature.  
+But as their less happy neighbours out-grew them, this happy family  
+was to be disturbed; and it was so. <placeName>Venice</placeName> in common with the  
+other northern states of <placeName>Italy</placeName> became the property of the greatest  
+neighbour for the time being, — of <orgName>the Court of <placeName>Vienna</placeName></orgName> first, then  
+of <placeName>France</placeName>, and now of <placeName>Vienna</placeName> again. It's nobles are at length  
+ruined; it's palaces almost deserted; and the gay Venetian, now
+<pb n="16"/>
+a pensive animal to what he was, meditates on the approaching period  
+when his very city is to be forsaken by the sea; when <placeName>Venice</placeName> itself,  
+eyeless, voiceless, and dead, is to stand like a gigantic skeleton on a  
+stagnant and deserted shore, whistling with the screams of sea-fowl,  
+and the disdainful rushing of the wind.</p>
+
+<p>This apprehension now appears to be a good deal entertained.  
+It was entertained also nearly forty years back, perhaps long before;  
+and was understood to be disproved at that time. According to the  
+systems, however, and calculations of modern philosophy, the sea-  
+coasts all over the globe are in a constant state either of an accression  
+or diminution of waters; and the imagination, in its gloomier mo-  
+ments, may still contemplate the desolation of <placeName>Venice</placeName>, approaching  
+or far off.</p>
+
+<p>Still the Venetians compared with most other people are a hap-  
+py race. The blood runs quicker in their veins. They have more  
+music, more freshness and easiness of life, more cordiality of  
+intercourse. The good-natured philosopher still finds in <placeName>Venice</placeName> the  
+greatest mixture of liveliness and sentiment : the restless man of  
+genius, impatient of the contradiction of his young hopes, still finds  
+there something to admire and to love. If the Venetians have been  
+thought to be of too amorous a disposition, they are acknowledged  
+to be temperate in every other respect, and to make excellent parents  
+and kinsfolk : and it is to be observed that in many of the cities of  
+<placeName>Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
+those matters, less severe than in some other countries; so that they  
+do not violate their consciences so much as might be supposed, and  
+the guUt is of necessity diminished with the sense of it. A late tra-  
+veller says, that the most striking thing after all, in <placeName>Venice</placeName>, is the  
+extreme kindness and attentiveness of all ranks of people to one  
+another. A young man going by with a burden begs his " good  
+father" (any given old gentleman) to let him have way; and the good  
+father in as unaffected a tone is happy to make way for his "son."  
+It may be answered, considering the Venetian character, that this is  
+but natural; and that the old gentleman does not, know whom he  
+may be talking to. But these, we conceive, are evidences which the  
+disputatious moralist would do better in letting alone.</p>
+</div2>
+                <div2 type="correspondents"> <!-- Publisher and printer information -->
+                <p>[ As this publication is unstamped, it will not circulate by means of the  
+                general post without a heavy expense. Persons in the country who  
+                wish to become subscribers, should therefore order it of booksellers who  
+                The delay would be of little consequence with a work not containing  
+                any thing of merely temporary interest. ] </p> 
+                </div2>
+<div2 type="colophon">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  

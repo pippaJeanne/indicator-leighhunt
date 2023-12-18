@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+ <!-- File Description -->
+ <fileDesc>
+ <!-- Title of the work -->
+ <titleStmt>
+ <title>The Indicator</title>
+ <author>Hunt, James Henry Leigh (1784-1859)</author>
+ </titleStmt>
+
+ <publicationStmt>
+ <p />
+ </publicationStmt>
+
+ <!-- Author information -->
+ <sourceDesc>
+ <bibl>
+ <author>Hunt, James Henry Leigh (1784-1859)</author>
+ <title>The Indicator</title>
+ <date when="1819-12-29"> DECEMBER 29th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+ <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+ <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+ </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <!-- Encoding Description -->
+ <encodingDesc>
+ <!-- Add any encoding information or guidelines here if applicable -->
+ <p>
+ Basic encoding, capturing relevant formatting and layout information. Page numbers are
+ included for reference to the source only and are not intended to indicate precise
+ preservation.
+ </p>
+ </encodingDesc>
+
+ <!-- Profile Description -->
+ <profileDesc>
+ </profileDesc>
+ </teiHeader>
+ <text>
+ <body>
+ <div1 type="issue" n="12">
+ <pb n="89"/> <!-- Page beginning -->
+ <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+ <head type="title">THE INDICATOR.</head>
+ <epigraph>
+ <l>There he arriving round about doth flie,</l>
+ <l>And takes survey with busie, curious eye:</l>
+ <l>Now this, now that, he tasteth tenderly.</l>
+ <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+ cert="high" type="real">SPENSER</persName>.</l>
+ </epigraph>
+ <head type="catalogue">No. XII. <date when="1819-12-29">—WEDNESDAY, DECEMBER 29th, 1819</date>.</head>
+ </div2>
+ <div2 type="section" n="1"> <!-- Header and content -->
+
+<head type="header">THIEVES, ANCIENT AND MODERN.</head> 
+<head type="subheader">CONTINUED FROM LAST WEEK.</head>
+
+<p>We now come to a very unromantic set of rogues; the Spanish 
+ones. In a poetical sense at least they are unromantic; though 
+doubtless the mountains of Spain have seen as picturesque vagabonds 
+in their time, as any. There are the robbers in Gil Bias, who have 
+at least a very respectable cavern, and loads of polite superfluities. 
+Who can forget the lofty-named Captain Rolando, with his sturdy 
+height and his whiskers, shewing with a lifted torch his treasure 
+to the timid stripling Gil Bias? The most illustrious theft in 
+Spanish story is one recorded of no less a person than the fine old 
+national hero, the Cid. As the sufferers were Jews, it might be 
+thought that his conscience would not have hurt him in those days; 
+but "My Cid" was a kind of early soldier in behalf of sentiment; 
+and though he went to work roughly, he meant nobly and kindly. 
+"God knows," said he, on the present occasion, "I do this thing 
+more of neceasity than of wilfulness; but by God's help I shall 
+redeem all." The case was this. The Cid, who was too good a subject 
+to please his master the king, had quarrelled with him, or rather 
+had been banished; and nobody was to give him house-room or food. 
+A number of friends however followed him; and by the help of his 
+nephew Martin Antolinez, he proposed to raise some money. Martin 
+accordingly negociated the business with a couple of rich Jews, who 
+for a deposit of two chests full of spoil, which they were not to open 
+for a year, on account of political circumstances, agreed to advance 
+six hundred marks. "Well then, said Martin Antolinez, ye see that 
+the night is advancing; the Cid is in haste, give us the marks. This 
+is not the way of business, said they; we must take first, and then 
+give." — Martin accordingly goes with them to the Cid, who in the 
+mean time has filled a couple of heavy chests with sand. The Cid 
+smiled as they kissed his hand, and said, "Ye see I am going out of 
+the land because of the king's displeasure; but I shall leave something 
+with ye." The Jews made a suitable answer, and were then 
+desired to take the chests; but though strong men, they could not 
+raise them from the ground. This put them in such spirits that 
+
+<pb n="90"/>
+
+after telling out the six hundred marks, (which Don Martin took 
+without weighing) they offered the Cid a present of a fine red skin;
+and upon Don Martin's suggesting that he thought his own services 
+in the business merited a pair of hose, they consulted a minute with 
+each other, in order to do every thing judiciously; and then gave 
+him money enough to buy, not only the hose, but a rich doublet and 
+good cloak into the bargain. <note place="foot"> See Mr. Southey's excellent compilation entitled the Chronicle of the Cid. 
+Book 3, Sec. 21. If Mr. Southey — but we must recollect we are not at our 
+politics. The version at the end of the book, attributed to Mr. Hookhara Frere, 
+of a passage out of the Poema del Cid, is the most native and terse bit of 
+translation we ever met with. It rides along, like the Cid himself on horseback, with 
+an infinite mixture of ardour and self-possessipn; bending, when it chuses, with 
+grace; or bearing down every thing with mastery.</note></p>
+
+<p>The regular sharping rogues however, that abound in Spanish 
+books of adventure, have one species of romance about them, of a 
+very peculiar nature. It may be called, we fear, as far as Spain is 
+concerned, a "romance of real life." We allude to the absolute 
+want and hunger, which is so often the original of their sin. A vein 
+of this craving nature runs throughout most of the Spanish novels. 
+In other countries, theft is generally represented as the result of an 
+abuse of plenty, or some other kind of profligacy, or absolute ruin. 
+But it seems to be an understood thing, that to be poor in Spain is 
+to be in want of the commonest necessaries of life. If a poor man 
+here and there happens not to be in so destitute a state as the rest, 
+he thinks himself bound to maintain the popular character for an 
+appetite; and manifests the most prodigious sense of punctuality and 
+anticipation in all matters relating to meals. Who ever thinks of 
+Sancho, and does not think of ten minutes before luncheon? Don 
+Quixote on the other hand counts it ungenteel and undignified to be 
+hungry. The cheat, who flatters Gil Bias, reckons himself entitled 
+to be insultingly triumphant, merely because he has got a dinner 
+out of him. </p>
+
+<p>Of all these ingenious children of necessity, whose roguery has 
+been sharpened hy perpetual want, no wit was surely ever kept at so 
+subtle and fierce an edge, as that of the never-to-be-decently-treated 
+Lazarillo de Tormes. If we had not been at a sort of monastic 
+school, and known the beatitude of dry bread and a draught of 
+spring-water, his history would seem to inform us, for the first 
+time, what true hunger was. His cunning so truly keeps pace 
+with it, that he seems recompensed for the wants of his stomach 
+hy the abundant energies of his head. One half of his imagination is 
+made up of dry bread and scraps, and the other of meditating how to 
+get at them. Every thought of his mind, and every feeling of his 
+affection, coalesces, and tends to one point, with a ventripetal force. It 
+was said of a contriving lady, that she took her very tea by stratagem. 
+Lazarillo is not so lucky. It is enough for him, if by a train of the 
+most ingenious contrivances, he can lay successful siege to a crust. 
+To rout some broken victuals; to circumvent an onion or so extraordinary 
+is the utmost aim of his ambition. An ox-foot is his beau 
+
+<pb n="91"/>
+
+ideal. He has as intense and circuitous a sense of a piece of cheese, 
+as a mouse at a trap. He swallows surreptitious crums with as much 
+zest, as a young servant girl does a plate of preserves. But to his 
+story. He first serves a blind beggar, with whom he lives miserably, 
+except when he commits thefts which subject him to miserable 
+beatings. He next lives with a priest, and finds his condition worse. 
+His third era of esuriency takes place in the house of a Spanish 
+gentleman; and here he is worse off than ever. The reader wonders, as 
+he himself did, how he can possibly ascend to this climax of starvation. 
+To overreach a blind beggar, might be thought easy. The reader 
+will judge by a specimen or two. The old fellow used to keep his 
+mug of liquor between his legs, that Lazarillo might not touch it 
+without his knowledge. He did however; and the beggar discovering 
+it, took to holding the mug in future by the handle. Lazarillo then 
+contrives to suck some of the liquor off with a reed; till the beggar 
+defeats this contrivance by keeping one hand upon the vessel's mouth. 
+His antagonist, upon this, makes a hole near the bottom of the mug, 
+filling it up with wax, and so tapping the can with as much gentleness 
+as possible, whenever his thirst makes him bold. This stratagem 
+threw the blind man into despair. He "used to swear and domineer," 
+and wish both the pot and it's contents at the devil. The following 
+account of the result is a specimen of the English translation of the 
+work, which is done with great tact and spirit, we know not by 
+whom. But it is worthy of De Foe. Lazarillo is supposed to tell 
+his adventures himself. "You won't accuse me any more, I hope," 
+cried I, "of drinking your wine, <note type="hunt" place="foot">The reader is to upderstand a common southern wine, more like a washy 
+cyder than any thing else. </note> after all the fine precautions you 
+have taken to prevent it." To that he said not a word; but feeling 
+all about the pot, he at last unluckily discovered the hole, which 
+dissembling at that time, he let me alone till next day at dinner. 
+Not dreaming, my reader must know, of the old man's malicious 
+stratagem, but getting in between his legs, according to my wonted 
+custom, and receiving into my mouth the distilling dew, and pleasing 
+myself with the success of my own ingenuity, my eyes upward, but 
+half shut, the furious tyrant, taking up the sweet, but hard pot, with 
+both his hands flung it down again with all his force upon my face; 
+with the violence of which blow, imagining the house had fallen 
+upon my head, I lay sprawling without any sentiment or judgment; 
+my forehead, nose and mouth, gushing out of blood, and the latter 
+full of broken teeth, and broken pieces of the can. From that time 
+forward, I ever abominated the monstrous old churl, and in spite of 
+all his flattering stories, could easily observe, how my punishment 
+tickled the old rogue's fancy. He washed my sores with wine; and 
+with a smile, "What say'st thou," quoth he, "Lazarillo; the thing 
+that hurt thee, now restores thee to health. Courage, my boy." 
+But all his raillery could not make me change my mind." </p>
+
+<p>At another time, a countryman giving them a cluster of grapes, 
+the old man, says Lazarillo, "would needs take that opportunity to 
+
+<pb n="92"/>
+
+shew me a little kindness, after he had been chiding and beating me 
+the whole day before. So setting ourselves down by a hedge,
+"Come hither, Lazarillo," quoth he, "and let us enjoy ourselves a 
+little, and eat these raisins together; which that we may share like 
+brothers, do you take but one at a time, and be sure not to cheat me, 
+and I promise you for my part, I shall take no move." That I 
+readily agreed to, and so we began our banquet; but at the very 
+second time he took a couple, believing, I suppose, that I would do 
+the same. And finding he had shewed me the way, I made no 
+scruple all the while to take two, three, or four at a time; sometimes 
+more and sometimes less, as conveniently I could. When we had 
+done, the old man shook his head, and holding the stalk in his hand, 
+"Thou hast cheated me, Lazarillo," quoth he, "for I could take my 
+oath, that thou hast taken three at a time." "Who I! I beg your 
+pardon," quoth I, "my conscience is as dear to me as another." 
+"Pass that jest upon another," answered the old fox; "you saw me 
+take two at a time without complaining of it, and therefore you took 
+three." At that I could hardly forbear laughing; and at the same 
+time admired- the justness of his reasoning." Lazarillo at length 
+quitted the service of the old hard-hearted miser, and revenged 
+himself upon him at the same time, in a very summary manner. They 
+were returning home one day on account of bad weather, when they 
+had to cross a kennel which the rain had swelled to a little torrent. 
+The beggar was about to jump over it as well as he could, when 
+Lazarillo persuaded him to go a little lower down the stream, because 
+there was a better crossing; that is, there was a stone pillar on the 
+other side, against which he knew the blind old fellow would 
+nearly dash his brains out. "He was mightily pleased with my advice, 
+"Thou art in the right on it, good boy," quoth he, "and I love 
+thee with all my heart, Lazarillo. Lead me to the place thou 
+speakest of; the water is very dangerous in winter, and especially to 
+have one's feet wet." And again : — "Be sure to set me in the right 
+place, Lazarillo," quoth he; "and then do thou go over first." I 
+obeyed his orders, and set him exactly before the pillar, and so 
+leaping over, posted myself behind it, looking upon him as a man would 
+do upon a mad bull. "Now your jump," quoth I, "and you may 
+get over to rights, without ever touching the water." I had scarce 
+done speaking, when the old man, like a ram that's fighting, ran 
+three steps backwards, to take his start with the greater vigour, and 
+so his head came with a vengeance against the stone-pillar, which 
+made him fall back into the kennel half dead." Lazarillo stops a 
+moment to triumph over him with insulting language; and then, 
+says he, "resigning my blind, bruised, wet, old, cross, cunning 
+master, to the care of the mob that was gathered about him, I made 
+the best of my heels, without ever looking about, till I had got the 
+town-gate upon my back; and thence, marching on a merry pace, I 
+arrived before night at Torrigo." </p>
+
+<p>At the house of the priest, poor Lazarillo gets worse off than 
+before, and is obliged to resort to the most extraordinary shifts to 
+arrive at a morsel of bread. At one time, he gets a key of a tinker 
+
+<pb n="93"/>
+
+and opening the old trunk in which the miser kept his bread, (a 
+sight, he says, like the opening of heaven) he takes small pieces out 
+of three or four, in imitation of a mouse; which so convinces the old 
+hunks that the mice and rats have been at them, that he is more 
+liberal of the bread than usual. He lets him have in particular "the 
+parings about the parts where he thought the mice had been." 
+Another of his contrivances is to palm off his pickings upon a serpent, 
+with which animal a neighbour told the priest that his house had 
+been once haunted. Lazarillo, who had been used when he lived 
+with the beggar to husband pieces of money in his mouth, (substituting 
+some lesser coin in the blind man's hand, when people gave 
+him any thing) now employs the same hiding-place for his key; but 
+whistling through it unfortunately, one night, as he lay breathing 
+hard in his sleep, the priest concludes he has now caught the serpent, 
+and going to Lazarillo's bed with a broomstick, gives him at a venture 
+such a tremendous blow on the head, as half murders him". The key 
+is then discovered, and the poor fellow turned out of doors. </p>
+
+<p>He is now hired by a lofty-looking hidalgo; and follows him home, 
+eating a thousand good things by anticipation. They pass through 
+the markets however to no purpose. The squire first goes to church 
+too, and spends an unconscionable time at mass. At length they 
+arrive at a dreary, ominous looking house, and ascend into a decent 
+apartment, where the squire after shaking his cloak, and blowing off 
+the dust from a stone seat, lays it neatly down, and so makes a 
+cushion of it to sit upon. There is no other furniture in the room, 
+nor even in the neighbouring rooms, except a bed "composed of the 
+anatomy of an old hamper." The truth is, the squire is as poor as 
+Lazarillo, only too proud to own it; and so he starves both himself 
+and his servant at home, and then issues gallantly forth of a morning, 
+with his Toledo by his side, and a countenance of stately satisfaction , 
+returning home every day about noon with "a starched body, 
+reaching out his neck like a grey-hound." Lazarillo had not been a 
+day in the house, before he found out how matters went. He was 
+beginning, in his despair of a dinner, to eat some scraps of bread 
+which had been given him in the morning, when the squire observing 
+him, asked what he was about. "Come hither, boy," said he, "what's 
+that thou art eating?" "I went," says Lazarillo, "and shewed him 
+three pieces of bread, of which "taking away the best, "upon my 
+faith," quoth he, "this bread seems to be very good." "Tis too 
+stale and hard. Sir," said I, "to be good." "I swear 'tis very 
+good," said the squire : "Who gave it thee? Were their hands 
+clean that gave it thee?" "I took it without asking any questions. 
+Sir," answered I, "and you see I eat it as freely." "Pray God it 
+may be so," answered the miserable squire; and so putting the 
+bread to his mouth, he eat it with no less appetite than I did mine; 
+adding at every mouthful, "Gadzooks, this bread is excellent." </p>
+
+<p>Lazarillo in short here finds the bare table so completely turned 
+upon him, that he is forced to become provider for his master as well 
+as himself; which he does by fairly going out every day and begging, 
+the poor squire winking at the indignity, though not without a hint 
+
+<pb n="94"/>
+
+at keeping the connexion secret. The following extract shall be our 
+climax, which it may well be, the hunger having thus ascended into 
+the ribs of Spanish aristocracy. Lazarillo, one lucky day, has an 
+ox-foot and some tripe given him by a butcher-woman. On coming 
+home with his treasure, he finds the hidalgo impatiently walking up 
+and down, and feais he shall have a scolding for staying so long: but 
+the squire merely asks where he has been, and receives the account 
+with an irrepressible air of delight. "I sate down," says Lazarillo, 
+"upon the end of the stone seat, and began to eat that he might 
+fency I was feasting; and observed without seeming to take notice, 
+that his eye was fixed upon my skirt, which was all the plate and 
+table that I had. </p>
+
+<p>"May God pity me as I had compassion on that poor squire; daily 
+experience made me sensible of his trouble. I did not know whether 
+I should invite him, for since he had told me he had dined, I 
+thought he would make a point of honour to refuse to eat; but in 
+short, being very desirous to supply his necessity, as I had done the 
+day before, and which I was then much better in a condition to do, 
+having already sufficiently stuffed my own guts : it was not long 
+before an opportunity fairly offered itself; for he taking occasion to 
+come near me in his walks, "Lazarillo," quoth he, (as soon as he 
+observed me begin to eat) "I never saw any body eat so handsomely 
+as thee; a body can scarce see thee fall to work without desiring to 
+bear thee company: let their stomachs be never so full, or their 
+mouth be never so much out of taste." Faith, thought I to myself, 
+with such an empty belly as yours, my own mouth would water at 
+a great deal less. </p>
+
+<p>"But finding he was come where I wished him. "Sir," said I, 
+"good stuff makes a good workman. This is admirable bread, and 
+here's an ox-foot so nicely drest and so well seasoned, that any body 
+would delight to taste of it." </p>
+
+<p>"How!" cried the squire, interrupting me, "an ox- foot?" "Yes, 
+Sir," said I, "an ox-foot." "Ah ! then," quoth he, "thou hast in 
+my opinion the delicatest bit in Spain; there being neither partridge, 
+pheasant, nor any other thing that I like nearly so well as that." </p>
+
+<p>" Will you please to try. Sir," said I, (putting the ox-foot in his 
+hand, with two good morcels of bread) "when you have tasted it, 
+you will be convinced that it is a treat for a king, 'tis so well drest 
+and seasoned. </p>
+
+<p>"Upon that, sitting down by my side, he began to eat, or rather 
+to devour what I had given him, so that the bones could hardly 
+escape. "Oh! the excellent bit," did he cry, "that this would be 
+with a little garlick." Ha ! thought I to myself, how hastily thou 
+eatest it without sauce. "Gad," said the squire, "I have eaten, 
+this as heartily as if I had not tasted a bit of victuals to day;" which 
+I did very readily believe. </p>
+
+<p>"He then called for the pitcher with the water, which was as 
+full as I had brought it home; so you may guess whether he had eat 
+any. When his squireship had drank, he civilly invited me to do the 
+like; and thus ended our feast." </p>
+
+<pb n="95"/>
+
+<p>We hope the reader is as much amused with this prolongation of 
+the subject as ourselves, for we are led on insensibly by these amusing 
+thieves, and find we shall have yet another paper to write upon them, 
+before we have done. We will therefore conclude the present one 
+by giving another specimen or two of the sharping Spaniard out of 
+Quevedo. The Adventures, by the way, of Lazarillo de Tormes 
+were written in the sixteenth century by a Spanish gentleman, 
+apparently of illustrious family, Don Diego de Mendoza, who was 
+sometime ambassador at Venice. This renders the story of the hidalgo 
+still more curious. Not that the author perhaps ever felt the proud 
+but condescending pangs which he describes; this is not necessary 
+for a man of imagination. He merely meant to give a hint to the 
+poorer gentry not to overdo the matter on the side of loftiness, for 
+their own sakes; and hunger, whether among the proud or the 
+humble, was too national a thing, not to be entered into by his 
+statistic apprehension. </p>
+
+<p>The most popular work connected with sharping adventures in 
+Gil Bias, which though known to us as a French production, seems 
+unquestionably to have originated in the country where the scene is 
+laid. It is a work exquisitely easy and true; but somehow we have 
+no fancy for the knaves in it. They are of too smooth, sneaking, 
+and safe a cast. They neither bespeak one's sympathy by necessity, 
+nor one's admiration by daring. We except, of course, the robbers 
+before-mentioned, who are a picturesque patch in the work, like a 
+piece of rough poetry. </p>
+
+<p>Of the illustrious Guzman d'Alfarache, the most popular book of 
+the kind, we believe, in Spain, and admired, we know, in this 
+country by some excellent judges, we cannot with propriety speak, 
+for we have only read a few pages at the beginning; though we read 
+those twice over, at two different times, and each time with the same 
+intention of going on. In truth, as Guzman is called by way of 
+eminence the Spanish Rogue, we must say for him, as far as our 
+slight acquaintance warrants it, that he is also "as tedious as a king." 
+They say however he has excellent stuff in him. </p>
+
+<p>We can speak as little of Marcos de Obregon, of which a translation 
+appeared a little while ago. We have read it; and if we 
+remember rightly, were pleased; but want of memory on these occasions 
+is not a good symptom. Quevedo, no ordinary person, is very 
+amusing. His Visions of Hell in particular, though of a very different 
+kind from Dante's, are more edifying. But our business at present 
+is with his "History of Paul the Spanish Sharper, the Pattern of 
+Rogues and Mirror of Vagabonds." We do not know that he deserves 
+these appellations so much as some others; but they are to be looked 
+upon as titular ornaments, comijaon to the Spanish Kleptocracy. He 
+is extremely pleasant, especially in his younger days. His mother, 
+who is no better than the progenitor of such a personage ought to 
+be, happens to have the misfortune one day of being carted. Paul, 
+who was then school-boy, was elected king on some boyish holiday 
+and riding out upon a half-starved horse, it picked up a small cabbage, 
+as they went through the market. The market-women began pelting 
+the king with rotten oranges, and turnip-tops; upon which 
+
+<pb n="96"/>
+
+having feathers in his cap, and getting a notion in his head that they 
+mistook him for his mother, who agreeably to a Spanish custom was 
+tricked out in the same manner when she was carted, he halloed out, 
+"Good women, though I wear feathers in my cap, I am none of 
+Alonza Saturno de Rebillo. She is my mother." </p>
+
+<p>Paul used to be set upon unlucky tricks by the son of a man of 
+rank, who preferred enjoying a joke to getting punished for it. 
+Among others, one Christmas, a counselloi- happening to go by of the 
+nanle of Pontio de Auguirre, the little Don told his companion to 
+call Pontius Pilate, and then to run away. He did so, and the angry 
+counsellor followed after him with a knife in his hand, so that he 
+was forced to take refuge in the house of the schoohnaster. The 
+lawyer laid his indictment, and Paul got a heaity flogging, during 
+which he was enjoined never to call Pontius Pilate again; to which 
+he heartily agreed. The consequence was, that next day, when 
+the boys were at prayers, Paul, coming to the belief, and thinking 
+that he was never again to name Pontius Pilate, gravely said,  
+"Suffered under Pontio de Auguirre;" which evidence of his horror of 
+the scourge so interested the pedagogue, that by a Catholic mode of 
+dispensation, he absolved hira from the next two whippings he should 
+incur. </p>
+
+<p>But we forget, that our little picaro was a thief. One specimen 
+of his talents this way, and we have done with the Spaniards. He 
+went with young Don Diego to the university : and here getting 
+applause for some tricks he played people, and dandling, as it were, 
+his growing propensity to theft, he invited his companions one evening 
+to see him steal a box of comfits from a confectioner's. He 
+according draws his rapier, which was stiff and well pointed; runs 
+violently into the shop; and exclaiming "You're a dead man," 
+makes a fierce lunge at the confectioner between the body and arm. 
+Down drops the man, half dead with fear: the others rush out. 
+But what of the box of comfits? "Where are the box of comfits, 
+Paul?" said the rogues: "we do not see what you have done after 
+all, except frighten the fellow." "Look here, my boys," answered 
+Paul. They looked, and at the end of his rapier beheld, with shouts 
+of laughter, the vanquished box. He had marked it out on the 
+shelf; and under pretense; of lunging at the confectioner, pinked it 
+away like a muffin. </p>
+
+<p>Upon turning to Quevedo, we find that the story has grown a little 
+upon our memory, as to detail; but this is the spirit of it. The 
+prize here, it is to be observed, is something eatable; and the same 
+yearning is a predominant property of Quevedo's sharpers, as well as 
+the others. </p>
+
+<p>Adieu, ye pleasant rogues of Spain! ye surmounters of bad 
+government, hunger, and misery, by the mere force of a light climate 
+and fingers! The dinner calls;— and to talk about you before it, is 
+as good as taking a ride on horseback. </p>
+
+</div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square, London.</p>
+            </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

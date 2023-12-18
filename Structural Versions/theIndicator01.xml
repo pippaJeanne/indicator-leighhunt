@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>Hunt, James Henry Leigh (1784-1859)</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>Hunt, James Henry Leigh (1784-1859)</author>
+                    <title>The Indicator</title>
+                    <date when="1819-10-13">OCTOBER 13th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="1">
+                <pb n="1" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                    <p>There  is  a  bird  in  the  interior  of  Africa,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. I. <date when="1819-10-13">—WEDNESDAY, OCTOBER 13th, 1819</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <p>IT is the object of this periodical work to notice any subjects whatsoever  
+within the range of the Editor's knowledge or reading. He will take them  
+up, as they happen to suggest themselves; and endeavour to point out their  
+essence to the reader, so as at once to be brief and satisfactory. The subjects  
+will chiefly consist of curious recollections of biography; short disquisitions  
+on men and things; the most interesting stories in history or fiction told  
+over again, with an eye to their proper appreciation by unvulgar minds;  
+and now and then a few original verses. Indeed the whole matter, whatever  
+the subject may be, will be strictly original, in one sense of the word;  
+arid it will be the Editor's aim, as well as a part of his own pleasure, to  
+render it all as entertaining as he can. To the unvulgar he exclusively  
+addresses himself; but he begs it to be particularly understood, that in this  
+description of persons are to be included all those, who without having had a  
+classical education, would have turned it to right account; just as all those;  
+are to be excluded, who in spite of that "discipline of humanity" think  
+ill of the nature which they degrade, and vulgarly confound the vulgar with  
+the uneducated.</p>
+
+<p>The Indicator will attend to no subject whatsoever of immediate or  
+temporary interest. His business is with the honey in the old woods. The  
+Editor has enough to agitate his spirits during the present eventful times,  
+in another periodical work, and he is willing to be so agitated : but as he  
+is accustomed to use his pen, as habitually as a bird his pinion, and to  
+betake himself with it into the nests and bowers of more lasting speculations,  
+when he has done with public ones, he is determined to keep those haunts  
+of his recreation free from all noise and wrangling, both for his own pleasure  
+and for those who may chuse to accompany him.</p>
+
+<p>The Indicator will appear every Wednesday morning, at an hour early  
+enough for the breakfast-table; although the subjects will not be  
+temporary or those of the moment, they will be written as much at the  
+moment as if they were; so that there will still be a certain freshness of  
+intercourse between the Editor and his readers.</p>
+
+
+
+<pb n="2"/>
+
+<p>THE DIFFICULTY OF FINDING A NAME FOR A WORK OF THIS KIND.— Never  
+did gossips, when assembled to determine the name of a new-born child,  
+whose family was full of conflicting interests, experience half the difficulty  
+which an author finds in settling the title for a periodical work. There is  
+generally some paramount uncle, or prodigious third cousin, who is silently  
+understood to have the chief claims, and to the golden lustre of whose face  
+the clouds of hesitation and jealousy gradually give way. But these  
+children of the brain have no godfather ready at hand : and then their single  
+appellation is bound to comprise as many public interests as all the  
+Christian names of a French or a German prince. It is to be modest : it is to  
+be expressive : it is to be new : it is to be striking : it is to have something in  
+it equally intelligible to a man of plain understanding, and surprising for  
+the man of imagination : — in one word, it is to be impossible. How far  
+we have succeeded in the attainment of this happy nonentity, we leave  
+others to judge. There is one good thing however which the hunt after a  
+title is sure to realize; — a good deal of despairing mirth. We were visiting  
+a friend the other night, who can do any thing for a book but give it a  
+title; and after many grave and ineffectual attempts to furnish one for the  
+present, the company, after the fashion of Rabelais, and with a chair-  
+shaking merriment which he might have joined in himself, fell to turning  
+a hopeless thing into a jest. It was like that exquisite picture of a set of  
+laughers in Shakspeare : — </p>
+
+<cit><quote><lg><l>One rubbed his elbow, thus; and fleered, and swore </l> 
+<l>A better speech was never spoke before :  </l>
+<l>Another, with his finger and his thumb.  </l>
+<l>Cried " Vial We will do't, come what will come!"  </l>
+<l>The third he capered, and cried " All goes well!"  </l>
+<l>The fourth turned on the toe, and down he fell.  </l>
+<l>"With that they all did tumble on the ground.  </l>
+<l>With such a zealous laughter, so profound.  </l>
+<l>That in this spleen ridiculous, appears,  </l>
+<l>To check their laughter, passion's solemn tears.  </l></lg></quote>
+<note type="source"> <bibl><author>William Shakespeare</author>: <title>Love's Labour Lost</title>. </bibl></note></cit>
+
+<p>Some of the names had a meaning in their absurdity, such as the Adviser,  
+or Helps for Composing; — the Cheap Reflector, or Every Man His Own  
+Looking- Glass; — the Retailer, or Every Man His Own Other Man's Wit;  
+— Nonsense, To be Continued. Others were laughable by the mere force  
+of contrast, as the Crocodile, or Pleasing Companion; — Chaos, or the  
+Agreeable Miscellany; — the Fugitive Guide; — the Foot-Soldier, or Flowers  
+of Wit; — Bigotry, or the Cheerful Instructor; — the Polite Repository of  
+Abuse; — Blood, being a Collection of Light Essays. Others were sheer  
+ludicrousness and extravagance, as the Pleasing Ancestor; the Silent  
+Remarker; the Tart; the Leg of Beef by a Layman; the Ingenious  
+Hatband; the Booths of Bliss; the Occasional Diner; the Tooth-ache;  
+Recollections of a Very Unpleasant Nature; Thoughts on Taking up a Pair of  
+Snuffers; Thoughts on a Barouche-Box; Thoughts on a Hill of Considerable  
+Eminence; Meditations on a Pleasing Idea; Materials for Drinking; the  
+Knocker, No. I; — the Hippopotamus Entered at Stationers' Hall; the  
+Piano-forte of Paulus AEmilius; the Seven Sleepers at Cards; the Arabian  
+Nights on Horseback : — with an infinite number of other mortal murders  
+of common sense, which rose to "push us from our stools," and which  
+none but the wise or good-natured would ever think of laughing at.</p> 
+
+<pb n="3"/>
+
+<p>A MISTAKE OF MR. THOMAS PAINE'S UPON LEARNING; AND A WORD  
+OR TWO ON TRANSLATION. — We speak of Mr. Paine as a deceased author  
+whom it is a vulgar error to under-rate. His great natural powers have  
+forced themselves into eminence through every species of obstacle. Well  
+aware of them himself, seeing in what manner they were often denied, and  
+what a convention there was among worldly and common-place men,  
+possessed of a little scholarship, to cry down every thing but themselves, he  
+ran to an extreme natural enough to such a mind, and proclaimed at once  
+that all which is commonly understood by the word Learning was useless.  
+He saw that others mistook the letter for the spirit; and yet in objecting  
+to this mistake, he fell into one of the very same nature, and asserted that  
+learning was no longer wanted, because all the "useful books" in the  
+ancient languages had been translated.  By useful books, he means such  
+works as Euclid's Elements : and here again he fell into an error, from  
+which the true spirit of learning might have saved him : he confounded  
+utility with mere science.  He forgot that for one instance in which mere  
+science is necessary to our happiness, there are a hundred in which we  
+have more to do with our passions and tempers, with our affections, our  
+perceptions, with our ability or inability to extract pleasure from the  
+innumerable things in the intellectual and external world. Utility is only  
+utility in as much as it conduces somehow or other to advantage and  
+pleasure. Every thing that is truly pleasurable or beautiful is as useful  
+as the most scientific thing upon earth. Jane, when she smiles at us, or  
+takes a country walk with us, or reads an author with us, is at least as  
+good as a !Spinning Jenny!. If we have twenty pleasures from the sight of  
+a cherry, such as the admiration of it's bloom, it's figure, it's scent, it's  
+suitableness to the leaves, it's connexion with orchards and the country,  
+and it's association with all that we have read of it in the poets, it is surely  
+better than if we only knew the taste of it, and could reckon how much a  
+dozen of them would come to at a farthing apiece. If we see nothing in  
+the moon but a light for old gentlewomen to go home by, or a satellite to the  
+earth, or even a vague beauty and serenity, we do not receive so much  
+utility from it as when we recollect that it is the very same moon which  
+Homer has so often looked at and so beautifully described,— which said  
+beauty of description is not to be found in the translation of Pope. Now  
+there is scarcely any of all the great poets in other languages, of whom the  
+English reader has had a proper account from translators.  An individual  
+may have so much in him, from nature, of what the writers on the side of  
+beauty and imagination have done for humanity, that he may want little  
+improvement from books. And we all <hi rend="italic">could</hi> go on without learning. We  
+all could go on with half, or a quarter, or half a quarter of the science  
+that is now in the world. But if we are to see our way to happiness through  
+knowledge (and we cannot well return to it now-a-davs through the  
+paths of ignorance, beset as they have been with every species of tyranny)  
+then the more we know of what great minds have felt and said, the more  
+we increase the general stock of humanity in its largest sense. That all  
+the "useful books" therefore have been translated, must be denied.  
+Intelligent men of no scholarship, on reading Horace, for instance, and Ariosto,  
+through the medium of translation, have often wondered how those writers  
+obtained their glory. And they well might. The translations are no more  
+like the original than a walking-stick is like a flowering bough. It is the  
+
+<pb n="4"/>
+
+same with the versions of Euripides, of AEschylus, of Sophocles, of Theocritus  
+of Petrarch, etc. etc, and in many respects of Homer. Perhaps we  
+could not give the reader a more brief yet complete specimen of the way  
+in which bad translations are made, than by selecting a well-known passage  
+from Shakspeare, and turning it into the common-place kind of poetry  
+that flourished so widely among us till of late years. Take the passage  
+for instance, where the lovers in the Merchant of Venice seat themselves  
+on a bank by moonlight : — </p>
+
+<cit><quote><lg><l>How sweet the moonlight sleeps upon this bank! </l> 
+<l>Here will we sit, and let the sounds of music  </l>
+<l>Creep in our ears; soft stillness, and the night,  </l>
+<l>Become the touches of sweet harmony. </l></lg></quote>
+<note type="source"><bibl>Shakespeare, William: The Merchant of Venice</bibl></note></cit>
+
+<p>Now a foreign translator, of the ordinary kind, would dilute and take  
+all taste and freshness out of this draught of poetry, in a style amounting  
+to the following : — </p>
+
+<lg><l>With what a charm, the moon, serene and bright. </l> 
+<l>Lends on this bank its soft reflected light! </l>
+<l>Sit we, I pray; and let us sweetly hear  </l>
+<l>The strains melodious with a raptured ear;  </l>
+<l>For soft retreats, and night's impressive hour, </l> 
+<l>To harmony impart divinest power.</l></lg>
+
+<p>It will be our business, where a quotation from the foreign poets occurs to  
+us, to do at any rate a little better than this : and the English reader will  
+have a better idea of the love-stories and other pieces of fiction which they  
+have rendered so celebrated, in abridgments like ours of the utmost brevity  
+and simplicity, than in whole volumes of this kind of misrepresentation.  
+The simple elements of them will be laid before him; and the eye of his  
+own unobstructed heart will see more of what the poets saw in them, at  
+once.</p>
+</div2>
+
+<div2 type="section" n="2">
+<p>Abaris, a mysterious personage in the time of Pythagoras. He is said  
+to have received an arrow from Apollo, with which he rode through the  
+air, and which he afterwards gave to Pythagoras in return for the instruction  
+of that philosopher. His first appearance at Athens was in consequence  
+of a pestilence which then afflicted the world, and for the cessation  
+of which an oracle had enjoined the Athenians to pray in behalf of all the  
+other nations. Abaris came as the representative of the Hyperboreans.  
+The probability is, that he was a Pythagorean from some northern country;  
+who astonished the Athenians by the rapidity of his journies, and was  
+not sorry perhaps to have it thought supernatural. A metaphor has often  
+been enough to make a miracle. He rode like an arrow. Drop the word  
+like, and the miracle is ready. Swift says of the famous Lord Peterborough.</p>
+
+
+<cit><quote><lg><l>So wonderful his expedition, </l> 
+<l>When you have not the least suspicion </l> 
+<l>He's with you like an apparition. </l></lg></quote></cit>
+
+<p>If this had been said of a man in some ages of the world, the next step  
+would have been to use his apparition at once, and allow him a travelling  
+ghost.</p>
+
+<pb n="5"/>
+
+<p>Abradates and Panthea, a singular example of conjugal affection on a  
+throne. Abradates was king of Susa in Persia during the wars between  
+Cyrus and Artaxerxes; and hearing that his wife Panthea, who had gotten  
+into the hands of the former, had been treated by him with singular  
+continence and respect, Cyrus having denied himself even the temptation of  
+seeing her, he went over to that prince with all his troops. Unfortunately,  
+he was slain in the first battle that he fought for his new friend; and  
+Panthea, unable to bear the loss of so noble and affectionate a spirit, killed  
+herself on his dead body. The story was first told by Xenophon, Besides  
+it's own interest, it is curious as one of the few specimens afforded by the  
+ancient world, of chivalrous gallantry towards a woman.</p>
+
+</div2>
+
+<div2
+ type="section" n="3">
+<p>Uriel Acosta, a Portuguese at the beginning of the 17th century,  
+presented the world with a strange instance of vacillation in religious faith.  
+He first turned Jew, converting at the same time his mother and brothers,  
+and fled with them to Amsterdam, where they were received into a synagogue.  
+Becoming dissatisfied with some of the Jewish rites, and giving vent  
+to his objections, he was excommunicated by the Jews. He then wrote a  
+treatise against the immortality of the soul, for which he was seized and  
+fined. After a lapse of fifteen years, he made his submission, and was  
+again received; but not entirely conforming to the Mosaic law, and  
+having dissuaded two Christians from adopting Judaism, he was again  
+expelled. Under this second sentence he remained seven years, abandoned  
+by his friends, and reduced to an extremity of wretchedness. At last, he  
+again prostrated himself before the Jewish priests, and was again received  
+after an extraordinary penance, during which the most melancholy and  
+appalling ceremonies were gone through, candles lighted up and put out, and  
+blood dropped into basons. We speak from the recollection of what  
+we have read 3 but the proceeding was of this description. At the conclusion  
+of these infernal ceremonies, he lay down upon the ground at the  
+threshold of the synagogue, and every member of it walked over his body.  
+He shot himself. — Acosta has been idly accused of impiety, and even  
+of worldly selfishness. A man is not full of religious scruples out of impiety;  
+much less keeps out of the pale of his worldly interest over and over again,  
+and for so many years together. Perhaps his history is only an extraordinary  
+instance of the perplexity arising from having had progenitors of  
+different faiths. Acosta's father was a Roman- Catholic, but descended  
+from a Jewish stock. The Catholics would naturally wish to keep him  
+Catholic, and the Jews would naturally help his yearnings after Judaism.  
+Perplexed between references to both, his mind wavered; and being an  
+inquiring one, took to thinking for itself; but this was what neither  
+Catholic nor Jew would tolerate. Perplexed by early prejudices; called  
+upon, as it were, by the voices of his ancestors to become a Jew; making  
+bold efforts to disengage himself from this cruel alternative; then plunged  
+in misery; and above all, abandoned by men calling themselves his friends,  
+and whom he had taken for such, a distracted state of mind, weakened  
+perhaps into hopelessness by an atrabilarious temperament, drove him back,  
+like a frightened animal, into the toils of his <hi rend="italic">first fear</hi>, the oldest superstition  
+
+<pb n="6"/>
+
+in the family. He stared about him a while, amidst the candles, the  
+curses, and the dropping blood; and then went melancholy, and killed  
+himself. — Thus an honest man is driven into suicide, because his ancestors  
+differed in point of faith! The religionist will say that this shews the value  
+of having one regular hereditary faith; but would he cease then to convert  
+the heretic to his own? And what good did this do to the poor unwilling  
+martyr Acosta? The philosopher will say that it shews the wretched  
+tyranny of custom.</p>
+
+</div2>
+
+<div2 type="section" n="4">
+<p>Polyphemus, Acis, and Galatea, one of the most celebrated love-stories  
+in ancient fable. Acis was a mortal, because his mother was so, though  
+his father was the wood-god Faunus. Galatea, who loved him deeply, and  
+whose passion was returned, was an immortal sea-nymph, the daughter of  
+two deities of the ocean. They enjoyed the happiness of their affection in  
+the delightful vales of Sicily; but unfortunately it had one drawback, 
+which was the jealous importunity of Neptune's gigantic and one-eyed son,  
+the terrible Polyphemus. In vain the enamoured monster implored Galatea  
+to listen to him. In vain had love softened the natural ferocity of his  
+manners, so that he would sit whole days on the sea-coast, watching to  
+catch a glimpse of her out of the water, while the tears ran down his  
+dreadful face, and he was as gentle and humble as a child. The fair nymph  
+fled but the more for refuge into the arms of the handsome shepherd. The  
+wretched Polyphemus, looking down one day into a valley, saw the happy  
+lovers giving way to their transport; and this sight made the load of his  
+despair intolerable. He rent off a fragment of the rock on which he was  
+sitting; and hurling it down as Jupiter might do his thunder, smote his  
+rival so as to crush him to death. Galatea, inconsolable, and unable to  
+restore her lover to life, or render him a deity like herself, turned him into  
+a fountain. It was after this event that we may suppose Polyphemus to  
+have become the inhospitable and cruel wretch which he is described  
+to be in Homer's Odyssey : and this point of view helps to throw an  
+additional interest over his story, which always appeared to us one of the  
+most pathetic and deeply-meaning in poetry. He was separated by his  
+monstrous appearance from human kind, and yet in his heart and inclinations  
+he sympathized with them. The want of this sympathy from others  
+made him ireful, revengeful, impious. What moral can go to the heart of  
+things more deeply than this? </p>
+
+<p>This story has been a great favourite with all men of genius. It has  
+been touched upon with great pathos and simplicity by Theocritus, who  
+was followed not so well by Virgil, and with much less nature by Ovid.  
+The Italian writers are so fond of it, that they have sonnets, called  
+Polyphemic sonnets. Raphael painted a beautiful picture of Galatea  
+triumphing on the waters, of which there are many engravings. And  
+Handel finished the homage of the arts to it by that divine oratorio of Acis  
+and Galatea, for which Gay contributed words not unworthy. If the reader  
+wishes to know how the great poets have written on the subject, he should  
+hear how Handel composed.</p>
+
+<pb n="7"/>
+
+<p>Country Houses near Town. — We have often wondered, in the midst  
+of the trees and fields, how people can be aware of the existence of such  
+beautiful things, and not long to enjoy them : — we mean, of course, in the  
+manner as well as the degree, in which some others enjoy them : for  
+though Nature will be felt and acknowledged some how or other under all  
+her aspects, and though the inhabitants of the metropolis have plenty of  
+little country houses scattered about the skirts of it, yet their pleasure in  
+them is rather of a negative than positive kind; rather a fidgeting respite  
+from smoke and noise, than a sense of the beauties of scenery or of the  
+solitude. When the citizen gets out of the town, he contrives to be almost  
+as much confined as when he is in it. At the best, he generally pokes  
+about his garden a little, and sees that the apple trees are productive, and  
+the brick walls secure. If he goes out, it is chiefly when his neighbours  
+are abroad to meet him, and along the high-road. He may cross the fields  
+in the morning to church, in order to take care of his eternal interests upon  
+the same principle on which he takes care of his temporal every other day  
+in the week; but he confines himself to the path as he, goes; he returns by  
+it as ploddingly; and though not so bad as the sourer' bigot, who after  
+insisting all the morning at the meeting house that the world is a vile world,  
+takes all the selfish or unsocial means he can to prove his words, he spends  
+the rest of the day with almost as little sense of the beauties and kindliness  
+of creation, either eating and drinking himself to sleep in his easy chair, or  
+treating some friends with the provisions he stuffed his carriage with the  
+day before, and cultivating a hot-faced, noisy, and boozing indigestion till  
+bed-time. This, and a confinement all the rest of the week to close and  
+noisy streets, — the transition from dark rooms with windows half dust and  
+half board, to the bargaining uproar of an Exchange, — the total ignorance  
+of all intellectual pleasures, an utter deadness to what is called sentiment,  
+— a person which has no graces in consequence, — a face, sometimes jovial  
+but not happy, generally care-worn, and always vulgar, — an enjoyment,  
+such as it is, allied to gambling, and cut with a thousand anxieties, — an  
+unhealthy temperament, always contradicting his comfort also, though he  
+may not know as much, — toil, toil, toil, every morning, — indigestion,  
+indigestion, every evening, — a gout in his old age, and a bad conscience all  
+his life, — such is the picture of a complete, successful, flourishing,  
+sophisticated, money-getting animal; who is called "a good man," because his  
+knaveries enable him to pay; and a knowing one, because he has found  
+out with infinite labour and pains how to make himself forty times as  
+uncomfortable as other people.</p>
+
+<p>All this comes from imaginary wants, and from abandoning nature in  
+order to get as much as possible out of art; whereas art with twenty times  
+the toil will never yield a twentieth part of the real harvest. A third of  
+the industry that is now thought necessary, and an improved knowledge  
+which does not confound good taste with expensiveness, would leave mankind  
+to the enjoyment of a leisure and a happiness, which they have only  
+tasted at intervals. But in the mean time, instead of happiness being  
+attended- to, the phrase is, that "business must be attended to." The  
+same pains, or mere profligacies, are bequeathed to children; and with the  
+exception of a few understandings who have survived the convulsions of  
+the times, and have got hold of a weapon against error", which wisdom never  
+had before, and which we trust it will never let go — the middle classes in  
+this green and beautiful country, make a religion of their money-getting  
+
+<pb n="8"/>
+
+and town habits, sitting in their well-clothed stupidity, and sneering with  
+as much ignorant scepticism at all improvement, as ever their <choice><sic>ancestros</sic> <corr>ancestors</corr> </choice> 
+might have done in their painted skins.</p>
+
+<p>The present generation, in this respect, is too old and too foolish to  
+mend; but the rising one has new light; and how easily might it see, not  
+only from the sophistications of it's parents, but from their sufferings and  
+even their little unconscious hankerings after something better, the policy  
+of improving it's habits of thinking! How much better would it be to  
+have a third of the toil, and a twentieth part of the anxiety! How much  
+better to have air and exercise every day, instead of once a week! How  
+much better to have cheap luxuries, easy digestions, cool slumbers, and  
+quiet minds!</p>
+
+<p>Nor is this mere talking, or a thing only to be found in books; as if  
+there were no medium between the extreme of folly and that of injustice.  
+Let them come out in the fields, and see. Let them read of the smaller  
+country gentlemen, a class which has since vanished, — of archeries and  
+other rural sports, of the old mixture of business and pleasure, which were  
+in a more reassonable proportion than now; and let them add to these, the  
+improvements which philosophy would now enable them to make in a  
+thousand matters involving the common good; and they would soon see  
+the folly of wasting their time by a mistaken sense of it.</p>
+
+<p>Upon this subject we shall present our readers by and by with a story  
+of a man who never went out of the metropolis for ten years, and what  
+took him out of it at last.</p>
+</div2>
+
+<div2 type="section" n="5"> 
+<head type="header">ANACREON'S PORTRAIT OF HIS MISTRESS.</head>
+
+<p xml:lang="anc-Greek" rend="center">Αγε ζωγραφων αριϛε</p>
+
+<cb n="1"/>
+<lg>
+<l>Come, master of the rosy art.</l>  
+<l>Thou painter after my own heart.</l>
+<l>Come, paint my absent love for me.</l>
+<l>As I shall describe her thee.</l>
+<l>Paint me first her fine dark hair.</l>
+<l>Fawning into ringlets there;</l>
+<l>And if brush has power to do it,</l>
+<l>Paint the odour breathing through it.</l>
+<l>Then from out her ripe young cheek.</l>
+<l>Underneath those tresses sleek.</l>
+<l>Paint her brow of ivory;</l>
+<l>Taking care the eyebrows be</l>
+<l>Not apart, nor mingled neither.</l>
+<l>But as her's are, stol'n together;</l>
+<l>Met by stealth, yet leaving too</l>
+<l>O'er the eyes their darkest hue.</l>
+<l>Then as those bright orbs require,</l>
+<cb n="2"/>
+<l>Fetch her eyesight out of fire;</l>
+<l>Like Minerva's, sparkling blue;</l>
+<l>Moist, like Cytherea's too;</l>
+<l>Give her nose and cheeks a tint</l>
+<l>Like shallow milk with roses in't:</l>
+<l>Let her lip Persuasion's be.</l>
+<l>Asking our's provokingly :</l>
+<l>And beneath her satin chin.</l>
+<l>With a dimple broken in,</l>
+<l>And all about those precious places,</l>
+<l>Set a thousand hovering graces.</l>
+<l>Now then, — let the drapery spread.</l>
+<l>With an under tint of red.</l>
+<l>And a glimpse left scarcely drest.</l>
+<l>So that what remains be guess'd</l>
+<l>'Tis enough: 'tis she! 'tis she!</l>
+<l>O thou sweet face, speak to me.</l>
+</lg> 
+</div2>
+    <div2 type="colophon" rend="center">
+                <p>Orders received by the Newsmen, Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Two-pence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square, London.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  

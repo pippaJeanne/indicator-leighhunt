@@ -50,7 +50,7 @@
         <body>
             <div1 type="issue" n="43">
                 <pb n="337" /> <!-- Page beginning -->
-                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
@@ -59,7 +59,7 @@
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
-                    <head type="catalogue">No. XLIV. —WEDNESDAY, AUGUST 9th, 1820.</head>
+                    <head type="catalogue">No. XLIV.<date when="1820-08-09"> —WEDNESDAY, AUGUST 9th, 1820</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header">THE STORIES OF <title>LAMIA</title>, <title>THE POT OF BASIL</title>, <title>THE EVE OF ST. AGNES</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> AS TOLD BY <persName key="John Keats" type="real">MR. KEATS</persName>.</head>
@@ -515,7 +515,7 @@ ourselves now and then in a verse.
 </p>
     </div2>
     <div2 type="colophon"> <!-- Publisher and printer information -->
-        <p>Printed and published by <hi rend="smallcaps"><persName type="real">Joseph Applevard</persName></hi>, No. 19, Catherine-street, Strand. 
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName></hi>, No. 19, Catherine-street, Strand. 
             Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
         </div2>
             </div1>

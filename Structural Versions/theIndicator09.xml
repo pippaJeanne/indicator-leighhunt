@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <!-- File Description -->
+  <fileDesc>
+   <!-- Title of the work -->
+   <titleStmt>
+    <title>The Indicator</title>
+    <author>Hunt, James Henry Leigh (1784-1859)</author>
+   </titleStmt>
+
+   <publicationStmt>
+    <p />
+   </publicationStmt>
+
+   <!-- Author information -->
+   <sourceDesc>
+    <bibl>
+     <author>Hunt, James Henry Leigh (1784-1859)</author>
+     <title>The Indicator</title>
+     <date when="1819-12-08"> DECEMBER 8th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+     <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+
+  <!-- Encoding Description -->
+  <encodingDesc>
+   <!-- Add any encoding information or guidelines here if applicable -->
+   <p>
+    Basic encoding, capturing relevant formatting and layout information. Page numbers are
+    included for reference to the source only and are not intended to indicate precise
+    preservation.
+   </p>
+  </encodingDesc>
+
+  <!-- Profile Description -->
+  <profileDesc>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div1 type="issue" n="9">
+    <pb n="65" /> <!-- Page beginning -->
+    <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+     <head type="title">THE INDICATOR.</head>
+     <epigraph>
+      <l>There he arriving round about doth flie,</l>
+      <l>And takes survey with busie, curious eye:</l>
+      <l>Now this, now that, he tasteth tenderly.</l>
+      <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+        cert="high" type="real">SPENSER</persName>.</l>
+     </epigraph>
+     <head type="catalogue">No. IX. <date when="1819-12-08">—WEDNESDAY, DECEMBER 8th, 1819</date>.</head>
+    </div2>
+    <div2 type="section" n="1"> <!-- Header and content -->
+<head type="header">MORE NEWS OF ULYSSES. </head>
+
+<p>Talking the other day with a friend about Dante, he observed, 
+that whenever so great a poet told us any thing in addition or 
+continuation of an ancient story, he had a right to be regarded as classical 
+authority. For instance, said he, when he tells us of that characteristic 
+death of Ulysses in one of the books of his Inferno, we ought 
+to receive the information as authentic, and be glad that we have 
+more news of Ulysses than we looked for. </p>
+
+<p>We thought this a happy remark, and instantly turned with him 
+to the passage in question; for not having read Dante regularly, we 
+had passed it over so slightly as not to remember it. Yet it is 
+a striking one, as the reader will see. The last account of Ulysses 
+upon which we may fairly reckon, in the ancient poets, is his sudden 
+re-appearance before the suitors at Ithaca, and his consummate and 
+godlike victory over their crest-fallen insolence. There is something 
+more told of him, it is true, before the Odyssey concludes; but with 
+the exception of his visit to his aged father, our memory scarcely 
+wishes to retain it; nor does it controvert the general impression 
+left upon us, that the wandering hero is victorious over his domestic 
+enemies; and reposes at last, and for life, in the bosom of his family. </p>
+
+<p>The lesser poets however could not let him alone. Homer leaves 
+the general impression upon one's mind, as to the close of his life;
+but there are plenty of obscurer fables about it still. We have 
+specimens in modern times of this propensity never to have done with a 
+good story; which is natural enough, though not very wise; nor 
+are the best writers likely to meddle with it. Thus Cervantes was 
+plagued with a spurious Quixote; and our circulating libraries have 
+the adventures of Tom Jones in his Married State. The ancient 
+writers on the present subject, availing themselves of an obscure 
+prophecy of Tiresias, who tells Ulysses on his visit to hell, that 
+his old enemy the sea would be the death of him at last, bring 
+over the sea Telegonus, his son by the goddess Circe, who gets into 
+a scuffle with the Ithacans, and kills his father unknowingly. It is 
+added, that Telegonus afterwards returned to his mother's island, 
+taking Penelope and his half-brother Telemachus with him; and 
+
+<pb n="66"/>
+
+here a singular arrangement takes place, more after the fashion of 
+a modern Catholic dynasty, than an ancient heathen one: for while 
+<choice><orig>AEdipus</orig><reg>Oedipus</reg></choice> was fated to undergo such dreadful misfortunes for marrying 
+his mother without the knowledge of either party, Minerva herself 
+comes down from heaven, on the present occasion, to order Telegonus 
+the son of Ulysses, to marry his father's wife; the other son, 
+at the same time, making a suitable match with his father's mistress, 
+Circe, Telemachus seems to have had the best of this extraordinary 
+bargain, for Circe was a goddess, consequently always young; and 
+yet to perplex these windings-up still more, Telemachus is represented 
+by some as marrying Circe's daughter, and killing his immortal 
+mother-in-law. Nor does the character of the chaste and enduring 
+Penelope escape in the confusion. Instead of waiting her husband's 
+return in that patient manner, she is reported to have been 
+over-hospitable to all the suitors; the consequence of which was a son 
+called Pan, being no less a personage than the god Pan himself, or 
+Nature; a fiction, as Lord Bacon says, "applied very absurdly and 
+indiscreetly." There are different stories respecting her lovers; but it is 
+reported that when Ulysses returned from Troy, he divorced her for 
+incontinence; and that she fled, and passed her latter days in 
+Mantinea. Some even go so far as to say, that her father Icarius had 
+attempted to destroy her when young, because the oracle had told him 
+that she would be the most dissolute of the family. This was probably 
+invented by the comic writers out of a buffoon malignity; for 
+there are men, so foolishly incredulous with regard to principle, that 
+the reputation of it, even in a fiction, makes them impatient. </p>
+
+<p>Now it is impossible to say whether Dante would have left Ulysses 
+quietly with Penelope after all his sufferings, had he known them 
+as described in Homer. The old Florentine, though wilful enough 
+when he wanted to dispose of a modern's fate, had great veneration 
+for his ancient predecessors. At all events, he was not acquainted 
+with Homer's works. They did not make their way again into Italy 
+till a little later. But there were Latin writers extant, who might 
+have informed him of the other stories relative to Ulysses; and he 
+saw nothing in them, to hinder him from giving the great wanderer 
+a death of his own. </p>
+
+<p>He has accordingly, with great attention to nature, made him 
+impatient of staying at home, after a life of such adventure and 
+excitement. But we will relate the story in his own order. He begins 
+it with one of his most romantic pieces of wildness. The poet and 
+his guide Virgil are making the best of their difiicult path along a 
+ridge of the craggy rock, that overhangs the eighth gulph of hell: 
+when Dante, looking down, sees the abyss before him full of flickering 
+lights; as numerous, he says, as the fire-flies, which a peasant, 
+reposing on a hill, sees filling the valley, of a hot evening. Every 
+flame shot about separately; and he knew that some terrible mystery 
+or other accompanied it. As he leaned down from the rock, grasping 
+one of the crags, in order to look closer, his guide who perceived his 
+earnestness, said, "Within those fires are spirits; every one swathed 
+
+<pb n="67"/>
+
+in what is burning him." Dante told him, that he had already 
+guessed as much; and pointing to one of them in particular, asked 
+who was in that fire, which was divided at top, as though it had  
+ascended from the funeral-pile of the hating Theban brothers. 
+"Within that," answered Virgil, "are Diomed and Ulysses; who 
+speed together now to their own misery, as they used to do to that of 
+others." They were suffering the penalty of the various frauds they 
+had perpetrated in concert; such as the contrivance of the Trojan 
+horse, and the plunder of the Palladium. Dante entreats with the 
+greatest earnestness, that if those who are within the sparkling horror 
+can speak, it may be made to come near. Virgil says it shall; but 
+begs the Florentine not to question it himself; as the spirits, being 
+Greek, might be shy of holding discourse with him. When the flame 
+has come near enough to be spoken to, Virgil addresses the "two 
+within one fire;" and requests them, if he ever deserved anything of 
+them as a poet, great or little, that they would not go away, till one 
+of them had told him how he came into that extremity. </p>
+
+<p>At this, says Dante, the greater horn of the old fire began to lap 
+hither and thither, murmuring; like a flame struggling with the 
+wind. The top then, yearning to and fro, like a tongue trying to 
+speak, threw out a voice, and said : "When I departed from Circe, 
+who withdrew me to her for more than a year in the neighbourhood 
+of Gaieta, before Eneas had so named it; neither the sweet company 
+of my son, nor pious affection for my old father, nor the long-owed 
+love with which I ought to have gladdened Penelope, could conquer 
+the ardour that was in me to become wise in knowledge of the world, 
+of man's vices and his virtue. I put forth into the great open deep 
+with only one bark, and the small remaining crew by whom I had 
+not been left. I saw the two shores on either side, as far as Spain  
+and Morocco; and the island of Sardinia, and the other isles which 
+the sea there bathes round about. Slowly we went, my companions and 
+I, for we were old; till at last we came to that narrow outlet, where 
+Hercules set up his pillars, that no man might go further. I left Seville 
+on the right hand : on the other I had left Ceuta. O brothers, said 
+I, who through a hundred thousand perils are at length arrived at 
+the west, deny not to the short waking day that yet remains to our 
+senses, an insight into the unpeopled world, setting your backs upon 
+the sun. Consider the stock from which ye sprang : ye were not 
+made to live like the brute beasts, but to follow virtue and 
+knowledge. I so sharpened my companions with this little speech on our 
+way, that it would have been difficult for me to have withheld them, 
+if I would. We left the morning right in our stern, and made wings 
+of our oars for the idle flight, always gaining upon the left. The 
+night now beheld all the stars of the other pole; while our own was 
+so low, that it arose not out of the ocean-floor. Five times the light 
+had risen underneath the moon, and five, times fallen, since we put 
+forth upon the great deep; when we descried a dim mountain in the 
+distance, which appeared higher to me than ever I had seen any before. 
+We rejoiced, and as soon mourned : for there sprung a whirlwind 
+
+<pb n="68"/>
+
+from the new land; and struck the foremost frame of our vessel. 
+Three times, with all the waters, it whirled us round : at the fourth 
+it dashed the stern up in air, and the prow downwards; till, as 
+seemed fit to others, the ocean closed above our heads." </p>
+<cit><quote>
+<lg xml:lang="italian" type="original-quotation" xml:id="inferno-canto-26" rend="center"><l>Tre volte il fe girar con tutte l'acque : </l>
+<l>A la quarta levar la poppa in suso, </l>
+<l>E la prora ire in giu, come altrui piacque, </l> 
+<l>Infin ch'l mar fu sopra noi richiuso. </l></lg>
+</quote></cit>
+<p>Why poor Ulysses should find himself in hell after his immersion, 
+and be condemned to a swathing of eternal fire, while St. Dominic, 
+who deluged Christianity with fire and blood, is called a Cherubic 
+light, the papist, not the poet, must explain. He puts all the Pagans 
+in hell, because however good some of them may have been, they 
+lived before Christ, and could not worship God properly — (debitamente). 
+But he laments their state, and represents them as suffering 
+a mitigated punishment: they only live in a state of perpetual 
+desire without hope <hi xml:lang="italian">(sol di tanto offesi)</hi> ! A sufficing misery, it must 
+be allowed; but compared with the horrors he fancies for heretics 
+and others, undoubtedly a great relief. Dante, throughout his 
+extraordinary work, gives many evidences of great natural sensibility;
+and his countenance, as handed down to us, as well as the shadestruck 
+gravity of his poetry in general, shews the cuts and disquietudes 
+of heart he must have endured. But unless the occasional 
+hell of his own troubles, and his consciousness or the mutability of all 
+things, helped him to discover the brevity of individual suffering as a 
+particular, and the lastingness of nature's benevolence as an universal; 
+and thus gave his poem an intention beyond what appears upon 
+the surface; we must conclude, that a bigoted education, and the 
+fierce party politics in which he was a leader and a sufferer, obscured 
+the kind greatness of his spirit. It is always to be recollected 
+forever, as Mr. Coleridge has observed somewhere in other words, that 
+when men consign each other to eternal punishment and such like 
+horrors, their belief is rather a venting of present impatience and  
+dislike, than any thing which they take it for. The fiercest Papist or 
+Calvinist only flatters himself (a strange flattery too ! ) that he could 
+behold a fellow creature tumbling and shrieking about in eternal fire. 
+He would begin shrieking himself in a few minutes; and think that 
+he and all heaven ought to pass away, rather than that one such 
+agony should continue. Tertullian himself, when he longed to 
+behold the enemies of his faith burning and liquefying, only meant, 
+without knowing it, that he was in an excessive rage at not convincing 
+every body that read him. Yet, in the mean time, these notions 
+disturb humanity, and degrade the Divine Spirit. </p>
+</div2>
+
+<div2 type="section" n="2">
+<head type="header">FAR COUNTRIES.</head>
+
+
+<p>Imagination, though no mean thing, is not a proud one. If it 
+looks down from its wings upon common places, it only the more 
+perceives the vastness of the region about it. The infinity into 
+
+<pb n="69"/>
+
+which it's flight carries it, might indeed throw back upon it a too 
+great sense of insignificance, did not Beanty or Moral Justice, 
+with it's equal eye, look through that blank aspect of power, and 
+reassure it; shewing it, that there is a power as much above power 
+itself, as the thought that reaches to all, is to the hand that can 
+touch only thus far. </p>
+
+<p>But we do not wish to get into this tempting region of speculation, 
+just now. We only intend to shew a particular instance, in which 
+imagination instinctively displays it's natural humility : we mean, in 
+the fondness which imaginative times and people have shewn for 
+what is personally remote from them; for what is opposed to their 
+own individual consciousness, even in range of space, in farness of 
+situation. </p>
+
+<p>There is no surer mark of a vain people than their treating other 
+nations with contempt, especially those of whom they know least. 
+It is better to verify the proverb, and take every thing unknown for 
+magnificent, rather than predetermine it to be worthless. The gain 
+is greater. The instinct is more judicious. When we mention the 
+French as an instance, we do not mean to be invidious. Most nations 
+have their good as well as bad features; and in Vanity Fair there are 
+many booths. </p>
+
+<p>The French, not long ago, praised one of their neighbours so 
+highly, that the latter is suspected to have lost as much modesty, as 
+the former gained by it. But they did this as a set-off against their 
+own despots and bigots. When they again became the greatest 
+power in Europe, they had a relapse of their old egotism. The 
+French, though an amiable and intelligent people, are not an imaginative 
+one. The greatest height they go is in a balloon. They get 
+no farther than France, let them go where they will. They "run 
+the great circle and are still at home," like the squirrel in his rolling 
+cage. Instead of going to Nature in their poetry, they would make 
+her come to them, and dress herself at their last new <choice><orig>toilet</orig><reg>toilette</reg></choice>. In 
+practical philosophy and metaphysics, they divest themselves of gross 
+prejudices, and then think they are in as graceful a state of nakedness 
+as Adam and Eve. </p>
+
+<p>At the time when the French had this fit upon them of praising 
+the English (which was nevertheless the honester one of the two), 
+they took to praising the Chinese for numberless unknown qualities. 
+This seems a contradiction to the near-sightedness we speak of : but 
+the reason they praised them was, that the Chinese had the merit of 
+unbounded religious toleration; a great and extraordinary one 
+certainly, and not the less so, for having been, to all appearance, the 
+work of one man. All the romance of China, such as it was, — any 
+thing in which they differed from the French, — their dress, their 
+porcelain towers, their Great Wall, — was nothing. It was the 
+particular agreement with the philosophers. </p>
+
+<p>It happened curiously enough, that they could not have selected 
+for their panegyric a nation apparently more contemptuous of others; 
+or at least more self-satisfied and unimaginative. The Chinese are 
+cunning and ingenious; and have a great talent at bowing out 
+
+<pb n="70"/>
+
+ambassadors who come to visit them. But it is somewhat inconsistent 
+with what appears to be their general character, that they should 
+pay strangers even this equivocal compliment; for under a prodigious 
+mask of politeness, they are not slow to evince their contempt 
+of other nations, whenever any comparison is insinuated with the 
+subjects of the Brother of the Sun and Moon. The knowledge they 
+respect in us most, is that of gun-making, and of the East Indian 
+passage. When our countrymen shewed them a map of the earth, they 
+enquired for China; and on finding that it only made a little piece 
+in a corner, could not contain their derision. They thought that it 
+was the main territory in the middle, the apple of the world's eye. </p>
+
+<p>On the other hand, the most imaginative nations, in their highest 
+times, have had a respect for remote countries. It is a mistake to 
+suppose that the ancient term barbarian, applied to foreigners, 
+suggested the meaning we are apt to give it. It may have gathered 
+some such insolence with it among the Romans, as they spread their 
+own barbarous power; but the more intellectual Greeks venerated 
+the countries from which they brought the elements of their mythology 
+and philosophy. The philosopher travelled into Egypt, like a 
+son to see his father. The merchant heard in Phoenicia the far- 
+brought stories of other realms, which he told to his delighted 
+countrymen. It is supposed, that the mortal pari; of Mentor in the 
+Odyssey was drawn from one of these voyagers. When Anacharsis 
+the Scythian was reproached with his native place by an unworthy 
+Greek, he said, "My country may be a shame to me, but you are a 
+shame to your country." Greece had a lofty notion of the Persians 
+and the Great King, till Xerxes came over to teach it better, and 
+betrayed the softness of their skulls. </p>
+
+<p>It was the same with the Arabians, at the time when they had the 
+chief accomplishments of the world to themselves; as we see by their 
+delightful tales. Every thing shines with them in the distance, like 
+a sunset. What an amiable people are their Persians! What a 
+wonderful place is the island of Serendib! You would think nothing 
+could be finer than the Caliph's city of Bagdat, till you hear of Grand 
+Cairo; and how has that epithet and that name towered in the 
+imagination of all those, who have not had the misfortune to see the 
+modern city! Sindbad was respected, like Ulysses, because he had 
+seen so many adventures and nations. So was Aboulfaouris the 
+Great Voyager, in the Persian Tales. His very name sounds like a 
+wonder. </p>
+
+<cit>
+    <quote>
+        <p>With many a tempest had his beard been shaken. </p>
+    </quote>
+    <note type="source"> 
+        <bibl> Chaucer, Geoffrey: The Canterbury Tales </bibl>
+    </note>
+</cit>
+
+<p>It was one of the workings of the great Alfred's mind, to know about 
+far distant countries. There is a translation by him of a book of 
+geography; and he even employed people to travel; a great stretch 
+of intellectual munificence for those times. About the same period, 
+Haroun al Raschid (whom our manhood is startled to find almost a 
+less real person than we thought him, for his very reality) wrote a 
+letter to the Emperor of the West, Charlemagne. Here is Arabian 
+and Italian romance, shaking hands in person ! </p>
+
+<pb n="71"/>
+
+<p>The Crusades pierced into a new world of remoteness. We do not 
+know whether those were much benefited, who took, part in them; 
+but for the imaginative persons remaining at home, the idea of going 
+to Palestine must have been like travelling into a supernatural world. 
+When the compaign itself had a good effect, it must have been of a 
+very fine and highly-tempered description. Chaucer's Knight, had 
+been </p>
+
+<lg xml:lang="en" type="original-quotation" xml:id="the-canterbury-tales" rend="center"><l>Sometime with the lord of Palatiee </l>
+<l>Agen another hethen in Turkie : </l>
+<l>And evermore he had a sovereign price; </l>
+<l>And though that he was worthy, he was wise. </l>
+<l>And of his port as meek as is a mayde. </l></lg>
+
+<p>How like a return from the moon must have been the re-appearance 
+of such travellers as Sir John Mandevile, Marco Polo, and 
+William de Rubruquis, with their news of Prester John, the Great 
+Mogul, and the Great Cham of Tartary! The long-lost voyager 
+must have been like a person consecrated in all the quarters of 
+heaven. His staff and his beard must have looked like relics of his 
+former self. The Venetians, who were some of the earliest European 
+travellers, have been remarked, among their other amiable qualities, 
+for their great respect for strangers. The peculiarity of their position, 
+amid the absence of so many things which are common-places to other 
+countries, such as streets, horses, and coaches, add, no doubt, to 
+this feeling. But a foolish or vain people would only feel a contempt 
+for what they did not possess. Milton, in one those favourite 
+passages of his, in which he turns a mere vocabulary into such grand 
+meaning and music, shews us whose old footing he had delighted to 
+follow. How he enjoys the distance; emphatically using the words, 
+far, farthest, and utmost ! </p>
+<cit><quote>
+<lg xml:lang="en" type="original-quotation" xml:id="paradise-regained" rend="center"><l> — Embassies from regions far remote, </l>
+<l>In various habits, on the Appian road. </l>
+<l>Or on the Emilian; some from farthest south, </l>
+<l>Syene, and where the shadow both way falls, </l>
+<l>Meroe, Nilotick isle; and more to west. </l>
+<l>The realm of Bocchus to the Black-moor sea; </l>
+<l>From the Asian kings, and Parthian among these; </l>
+<l>From India and the golden Chersonese, </l>
+<l>And utmost Indian isle Taprobane. <bibl>— <title>Parad.</title> <biblScope>Reg. B. 4.</biblScope></bibl> </l></lg>
+</quote></cit>
+
+<p>One of the main helps to our love of remoteness in general, is the 
+associations we connect with it of peace and quietness. Whatever 
+there may be at a distance, people feel as if they should escape 
+from the worry of their local cares. "O that I had wings like 
+a dove! then would I fly away and be at rest." The word far is 
+often used wilfully in poetry, to render distance still more distant. 
+An old English song begins — </p>
+
+<lg xml:lang="en" rend="center">
+<l>In Irelande farre over the sea</l> 
+<l>There dwelt a bonny king.</l> </lg>
+
+<p>Thomson, a Scotchman, speaking of the western isles of his own 
+country, has that delicious line, full of a dreary yet lulling pleasure : — </p>
+
+<lg xml:lang="en" rend="center">
+<l>As when a shepherd of the Hebrid isles,</l>
+<l><hi rend="italic">Placed far amid the melancholy main</hi>. </l></lg>
+
+<pb n="72"/>
+
+<p>In childhood, the total ignorance of the world, especially when we 
+are brought up in some confined spot, renders every thing beyond 
+the bounds of our dwelling a distance and a romance. Mr. Lamb, in 
+his Recollections of Christ's Hospital, says that he remembers when some 
+half-dozen of his schoolfellows set off, "without map, card, or 
+compass, on a serious expedition to find out Philip Quarll's Island." We 
+once encountered a set of boys as romantic. It was at no greater 
+distance than at the foot of a hill near Hampstead; yet the spot was 
+so perfectly Cisalpine to them, that two of them came up to us with 
+looks of hushing eagerness, and asked, "whether, on the other side 
+of that hill there were not robbers:" to which, the minor 
+adventurer of the two added, "And some say, serpents." They had 
+all got bows and arrows, and were evidently hovering about the 
+place, betwixt daring and apprehension, as on the borders of some 
+wild region. We smiled to think which it was that husbanded their 
+suburb wonders to more, advantage, they or we : for while they peopled 
+the place with robbers and serpents, we were peopling it with 
+sylvans and fairies. </p>
+
+<cit><quote><lg xml:lang="en" xml:id="my-heart-leaps-up" rend="center"><l>"So was it when my life began; </l> 
+<l>So is it now I am a man; </l>
+<l>So be it when I shall grow old. </l> 
+<l>Or let me die I </l>
+<l>The child is father to the man; </l>
+<l>And I could wish my days to be </l>
+<l>Bound each to each by natural piety."</l> </lg></quote>
+<note type="source">
+<bibl><author>William Wordsworth</author> : <title>My Heart Leaps Up</title></bibl></note></cit>
+</div2>
+
+<div2 type="section" n="3">
+
+<head type="header">PASSAGES FROM OSSIAN, ALLUDED TO IN OUR LAST. </head>
+
+<p>On renewing our acquaintance with Ossian, we felt tempted to 
+go to some length about him; but we must reserve our criticism for 
+another time. The following are as many specimens of his uses of 
+mist, as we have room for. The first is very grand; the second as 
+happy in it's analogy; the third is ghastly, but of more doubtful 
+merit. </p>
+
+<p>TWO CHIEFS PARTED BY THEIR KING.—<cit><quote>"They sunk from the king on either 
+side, like two columns of morning mist, when the sun rises between them on his 
+glittering rocks. Dark is their rolling on either side, each toward its reedy pool." </quote><note type="source"><bibl>Macpherson, James: Temora (Book 4)</bibl></note></cit></p>
+
+<p>A GREAT ENEMY.—<cit><quote>"I love a foe like Cathmor: his soul is great; his arm is 
+strong; his battles are full of fame. But the little soul is like a vapour, that 
+hovers round the marshy lake. It never rises on the green hill, lest the winds 
+meet it there." </quote><note type="source"><bibl>Macpherson, James: Temora</bibl></note> </cit></p>
+
+<p>A TERRIBLE OMEN.—<cit><quote>"A mist rose slowly from the lake. It came, in the 
+figure of an aged man, along the silent plain. It's large limbs did not move in 
+steps; for a ghost supported it in mid air. It came towards Selma's hall, and 
+dissolved in a shower of blood."</quote><note type="source"><bibl>Macpherson, James: Carthon: A Poem</bibl></note></cit></p>
+</div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square, London.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+ 

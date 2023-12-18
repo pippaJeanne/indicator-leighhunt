@@ -10,8 +10,9 @@ for file in listdir(dir):
 for f in files:
     if ".xml" not in f:
         files.remove(f)
-#files.sort()
-files = ["theIndicator43ner.xml", "theIndicator49_unfinished.xml"]
+files.sort()
+print(files)
+#files = ["theIndicator43ner.xml", "theIndicator49_unfinished.xml"]
 result = {} 
 def compile():
     for file in files:
@@ -94,6 +95,9 @@ def compile():
                                     result[file][section]["persons"]["real"][key] = string
                                 elif key is not None and string is None:
                                     result[file][section]["persons"]["real"][key] = key
+                                elif key is None:
+                                    text = e.text
+                                    result[file][section]["persons"]["real"][text] = text
                             for e in el.findall(".//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
                                 result[file][section]["persons"]["fictional"] = []
                                 if e.get('corresp') is not None:
@@ -217,6 +221,9 @@ def compile():
                                     result[file][section]["persons"]["real"][key] = string
                                 elif key is not None and string is None:
                                     result[file][section]["persons"]["real"][key] = key
+                                elif key is None:
+                                    text = e.text
+                                    result[file][section]["persons"]["real"][text] = text
                             for e in el.findall(".//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
                                 result[file][section]["persons"]["fictional"] = []
                                 if e.get('corresp') is not None:
@@ -381,6 +388,9 @@ def compile():
                                             result[file][section][subsect]["persons"]["real"][key] = string
                                         elif key is not None and string is None:
                                             result[file][section][subsect]["persons"]["real"][key] = key
+                                        elif key is None:
+                                            text = e.text
+                                            result[file][section][subsect]["persons"]["real"][text] = text
                                     for e in el.findall(".//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
                                         result[file][section][subsect]["persons"]["fictional"] = []
                                         if e.get('corresp') is not None:
@@ -444,7 +454,7 @@ def compile():
 jsonfile = compile()
 print(jsonfile)
 json_obj = json.dumps(jsonfile, indent=10, ensure_ascii = False)
-with open("Hunt_data02.json", "w") as outfile:
+with open("Hunt_docStrucSect.json", "w") as outfile:
     outfile.write(json_obj)
     print("Done!")
         

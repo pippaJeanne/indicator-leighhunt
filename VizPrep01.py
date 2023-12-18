@@ -92,6 +92,9 @@ def compile():
                                 result[file][section]["persons"]["real"][key] = string
                             elif key is not None and string is None:
                                 result[file][section]["persons"]["real"][key] = key
+                            elif key is None:
+                                string = el.text
+                                result[file][section]["persons"]["real"][string] = string
                         for e in el.findall(".//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
                             result[file][section]["persons"]["fictional"] = []
                             if e.get('corresp') is not None:
@@ -215,6 +218,9 @@ def compile():
                                 result[file][section]["persons"]["real"][key] = string
                             elif key is not None and string is None:
                                 result[file][section]["persons"]["real"][key] = key
+                            elif key is None:
+                                string = el.text
+                                result[file][section]["persons"]["real"][string] = string
                         for e in el.findall(".//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
                             result[file][section]["persons"]["fictional"] = []
                             if e.get('corresp') is not None:

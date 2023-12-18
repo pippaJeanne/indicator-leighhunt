@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>Hunt, James Henry Leigh (1784-1859)</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>Hunt, James Henry Leigh (1784-1859)</author>
+                    <title>The Indicator</title>
+                    <date when="1819-10-27">OCTOBER 27th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="3">
+                <pb n="17" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                    <p>There  is  a  bird  in  the  interior  of  Africa,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. I. <date when="1819-10-27">—WEDNESDAY, OCTOBER 27th, 1819</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header"> GODIVA. </head>
+
+
+<p>This is the lady, who under the title of Countess of Coventry, used  
+to make such a figure in our childhood upon some old pocket-pieces  
+of that city. We hope she is in great request there still; or the  
+inhabitants deserve to be sent from Coventry. That city used to  
+be famous in saintly legends for the visit of the eleven thousand  
+virgins, — an "incredible number" saith Selden. But the eleven  
+thousand virgins have vanished with their credibility; and a real  
+noble-hearted woman of flesh and blood is Coventry's true immortality.</p>
+
+<p>The story of Godiva is not a fiction, as many suppose it. At least  
+it is to be found in Matthew of Westminster, and is not of a nature  
+to have been a mere invention. Her name, and that of her husband,  
+Leofric, are mentioned in an old charter recorded by another  
+early historian. That the story is omitted by Hume and others  
+argues little against it; for the latter are accustomed to confound  
+the most interesting anecdotes of times and manners with something  
+below the dignity of history (a very absurd mistake); — and Hume,  
+of whose philosophy better things might have been expected, is  
+notoriously less philosophical in his history than in any other of  
+his works. A certain coldness of temperament, not unmixed with  
+aristocratical pride, or at least with a great aversion from every thing  
+like vulgar credulity, rendered his scepticism so extreme, that it  
+became in spite of itself a sort of superstition in turn, and blinded  
+him to the claims of every species of enthusiasm, civil as well as  
+religious. Milton, with his poetical eyesight, saw better when he  
+meditated the history of his native country. We do not remember  
+whether he relates the present story; but we remember well, that  
+at the beginning of his fragment on that subject, he says he shall  
+relate doubtful stories as well as authentic ones, for the benefit of  
+those, if no others, who will know how to make use of them,—  
+namely, the poets. <note type="hunt" place="foot"> When Dr. Johnson, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
+haye overlooked this announcement; and yet, if we recollect, it is but in the  
+second page of the fragment. So hasty, and blind, and liable to be put to shame  
+is prejudice.</note> We have faith however in the story ourselves.</p>
+
+<pb n="18"/>
+
+<p>It has innate evidence enough for us, to give full weight to that of  
+the old annalist. Imagination can invent a good deal; affection  
+more: but affection can sometimes do things, such as the tenderest  
+imagination is at least not in the habit of inventing; and this piece  
+of noble-heartedness we believe to have been one of them.</p>
+
+<p>Leofric, Earl of Leicester, was the lord of a large feudal territory  
+in the middle of England, of which Coventry formed a part. He  
+lived in the time of Edward the Confessor; and was so eminently a  
+feudal lord, that the hereditary greatness of his dominion appears to  
+have been singular even at that time, and to have lasted with an  
+uninterrupted succession from Ethelbald to the Conquest, — a period  
+of more than three hundred years. He was a great and useful  
+opponent of the famous Earl Goodwin.</p>
+
+<p>Whether it was owing to Leofric or not, does not appear; but  
+Coventry was subject to a very oppressive tollage, by which it would  
+seem that the feudal despot enjoyed the greater part of the profit  
+of all marketable commodities. The progress of knowledge has  
+shewn us how abominable, and even how unhappy for all parties,  
+is an injustice of this description; yet it gives one an extraordinary  
+idea of a mind in those times, to see it capable of piercing through  
+the clouds of custom, of ignorance, and even of self-interest, and  
+petitioning the petty tyrant to forego such a privilege. This mind  
+was Godiva's. The other sex, always more slow to admit reason  
+through the medium of feeling, were then occupied to the full in  
+their warlike habits. It was reserved for a woman to anticipate  
+whole ages of liberal opinion, and to surpass them in the daring  
+virtue of setting a principle above a custom.</p>
+
+<p>The countess entreated her lord to give up his fancied right; but  
+in vain. At last, wishing to put an end to her importunities, he  
+told her, either in a spirit of bitter jesting, or with a playful raillery  
+that could not be bitter with so sweet an earnestness, that he would  
+give up his tax, provided she rode through the city of Coventry,  
+naked. She took him at his word; and said she would. One may  
+imagine the astonishment of a fierce unlettered chieftain, not  
+untinged with chivalry, at hearing a woman, and that too of the greatest  
+delicacy and rank, maintaining seriously her intention of acting  
+in a manner contrary to all that was supposed fitting tor her sex,  
+and at the same time forcing upon him a sense of the very beauty  
+of her conduct by it's principled excess. It is probable, that as he  
+could not prevail upon her to give up her design, ixe had sworn  
+some religious oath when he made his promise : but be this as it  
+may, he took every possible precaution to secure her modesty from  
+hurt. The people of Coventry were ordered to keep within doors, to  
+close up all their windows and outlets, and not to give a glance into  
+the streets upon pain of death. The day came; and Coventry, it  
+may be imagined, was silent as death. The lady went out at the  
+palace door, was set on horseback, and at the same time divested of  
+her wrapping garment, as if she had been going into a bath; then  
+taking the fillet from her head, she let down her long and lovely  
+tresses, which poured around her body like a veil; and so, with only </p>
+
+<pb n="19"/>
+
+<p>her white legs remaining conspicuous, took her gentle way through  
+the streets. <note type="hunt" place="foot"> <q xml:lang="latin">"Nuda,"</q> says Matthew of Westminster, <q xml:lang="latin">"equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit."</q> See Selden's Notes to the Polyolbion of Drayton. Song 13. It is Selden from whom we learn, that Leofric was Earl of Leicester, and the other particulars of him mentioned above. The Earl was buried at Coventry, his Countess most  
+probably, in the same tomb. </note> </p>
+
+<p>What scene can be more touching to the imagination, — beauty,  
+modesty, feminine softness, a daring sympathy; an extravagance,  
+producing by the nobleness of it's object and the strange gentleness  
+of it's means, the grave and profound effect of the most reverend  
+custom. We may suppose the scene taking place in the warm noon;  
+the doors all shut, the windows closed; the earl and his court serious  
+and wondering; the other inhabitants, many of them gushing with  
+gi-ateful tears, and all reverently listening to hear the footsteps of  
+the horse; and lastly, the lady herself, with a downcast but not a  
+shamefaced eye, looking towards the earth through her flowing  
+locks, and riding through the dumb and deserted streets, like an  
+angelic spirit.</p>
+
+<p>It was an honourable superstition in that part of the country, that  
+a man who ventured to look at the fair saviour of his native town,  
+was struck blind. But the vulgar use to which this superstition has  
+been turned by some writers of late times, is not so honourable. The  
+whole story is as unvulgar and as sweetly serious, as can be conceived.</p>
+
+<p>Drayton has not made so much of this subject, as might have been  
+expected; yet what he says, is said well and earnestly.</p>
+
+<cit><quote><lg><l>Coventry at length </l>
+<l>From her small, mean regard recovered state and strength; </l>
+<l>By Leofric her lord, yet in base bondage held, </l>
+<l>The people from her marts by tollage were expelled; </l>
+<l>Whose dutchess which desired this tribute to release. </l>
+<l>Their freedom often begged.  The duke, to make her cease. </l>
+<l>Told her, that if she would his loss so far enforce. </l>
+<l>His will was, she should ride stark naked upon a horse </l>
+<l>By daylight through the street : which certainly he thought </l>
+<l>In her heroic breast so deeply would have wrought. </l>
+<l>That in her former suit she would have left to deal. </l>
+<l>But that most princely dame, as one devoured with zeal, </l>
+<l>Went on, and by that mean the city clearly freed. </l></lg></quote></cit>
+
+<p>We wonder that none of our painters have yet drawn us Godiva  
+upon her horse. They can hardly have met with the subject, or  
+surely they would have fallen in love with it.</p>
+
+</div2>
+
+<div2 type="section" n="2">
+<head type="header">PLEASANT RECOLLECTIONS CONNECTED WITH VARIOUS PARTS OF THE METROPOLIS.</head>
+
+<p>One of the best secrets of enjoyment is the art of cultivating  
+pleasant associations. We spoke of this in our first number, and  
+shall often have occasion to recur to it. It is an art that of  
+necessity increases with the stock of our knowledge; and though in  
+acquiring our knowledge we must encounter disagreeable associations
+<pb n="20"/>
+also, yet if we secure a reasonable quantity of health by the way  
+these will be far less in number than the agreeable ones: for unless  
+the circumstances which gave rise to the associations, press upon  
+us; it is only from want of health that the power of throwing off  
+these burdensome images becomes suspended.</p>
+
+<p>And the beauty of this art is, that it does not insist upon pleasant  
+materials to work on. Nor indeed does health. Health will give us  
+a vague sense of delight, in the midst of objects that would teaze  
+and oppress us during sickness. But healthy association peoples this  
+vague sense with agreeable images. It will relieve us, even when  
+a painful sympathy with the distresses of others becomes a part of  
+the very health of our minds. For instance, we can never go  
+through St. Giles's, but the sense of the extravagant inequalities in  
+human condition presses more forcibly upon us; but some pleasant  
+images are at hand even there to refresh it. They do not displace  
+the others, so as to injure the sense of public duty which they  
+excite; they only serve to keep our spirits fresh for their task, and  
+hinder them from running into desperation or hopelessness. In  
+St. Giles's Church lie Chapman, the earliest and best translator of  
+Homer; and Andrew Mar veil, the wit and patriot, whose poverty  
+Charles the Second could not bribe. We are as sure to think of  
+these two men, and of all the good and pleasure they have done to  
+the world, as of the less happy objects about us. The steeple of the  
+church itself too is a handsome one; and there is a flock of pigeons  
+in that neighbourhood, which we have stood with great pleasure to  
+see careering about it of a fine afternoon, when a western wind had  
+swept back the smoke towards the city, and shewed the white of  
+the stone steeple piercing up into a blue sky. So much for St.  
+Giles's, whose very name is a nuisance with some. It is dangerous  
+to speak disrespectfully of old districts. Who would suppose  
+that the Borough was the most classical ground in the metropolis?  
+And yet it is undoubtedly so. The Globe theatre was there, of  
+which Shakspeare himself was a proprietor, and for which he wrote  
+his plays. Globe-lane, in which it stood, is still extant, we believe,   
+under that name. It is probable that he lived near it : it is certain  
+that he must have been much there. It is also certain that on the  
+Borough side of the river, then and still called the Bank side, in the  
+same lodging, having the same wardrobe, and some say, with other  
+participations more remarkable, lived Beaumont and Fletcher. In  
+the Borough also, at St. Saviour's, lie Fletcher and Massinger in  
+one grave; in the same church, under a monument and effigy, lies  
+Chaucer's contemporary, Gower; and from an inn in the Borough,  
+the existence of which is still boasted, and the scite pointed out by a  
+picture and inscription, Chaucer sets out his pilgrims and himself on  
+their famous road to Canterbury.</p>
+
+<p>To return over the water, who would expect any thing poetical  
+from East Smithfield? Yet there was born the most poetical even  
+of poets, Spenser. Pope was born within the sound of Bow-bell, in  
+a street no less anti-poetical than Lombard-street. So was Gray, in  
+Cornhill. So was Milton, in Bread-street, Cheapside. The presence 
+<pb n="21"/>
+of the same great poet and patriot has given happy memories to  
+many parts of the metropolis. He lived in St. Bride's Churchyard,  
+Fleet-street; in Aldersgate-street, in Jewin-street, in Barbican,  
+in Bartholomew - close; in Holborn, looking back to Lincoln's  
+Inn Fields; in Holborn, near Red Lion-square; in Scotland-yard  
+in a house looking to St. James's Park, now belonging to an  
+eminent writer on legislation, and lately occupied by a celebrated  
+critic and metaphysician; and he died in the Artillery-walk,  
+Bunhill-Fields; and was buried in St. Giles's, Cripplegate.</p>
+
+<p>Ben Jonson, who was born "in Hartshorne-lane, near Charing-cross,"  
+was at one time "master" of a theatre in Barbican. He  
+appears also to have visited a tavern called the Sun and Moon, in  
+Aldersgate-street; and is known to have frequented, with  
+Beaumont and others, the famous one called the Mermaid, which was  
+in Cornhill. Beaumont, writing to him from the country in an epistle  
+full of jovial wit, says.</p>
+
+<cit><quote><lg>
+<lg xml:id="verse1"><l>The sun, which doth the greatest comfort bring. </l>
+<l>To absent friends, because the self-same thing </l>
+<l>They know they see, however absent, is </l>
+<l>Here our best haymaker : forgive me this : </l>
+<l>It is our country style : — in this warm shine </l>
+<l>I lie, and dream of your full Mermaid wine. </l>
+</lg>
+<l>* * * * * *</l>  
+<lg xml:id="verse2"><l>Methinks the little wit I had, is lost, </l>
+<l>Since I saw you; for wit is like a rest </l>
+<l>Held up at tennis, which men do the best </l>
+<l>With the best gamesters. What things have we seen </l>
+<l>Done at the Mermaid. Hard words that have been </l>
+<l>So nimble, and so full of subtle flame. </l>
+<l>As if that every one from whom they came </l>
+<l>Had meant to put his whole wit in a jest. </l>
+<l>And had resolved to live a fool the rest </l>
+<l>Of his dull life. Then, when there hath been thrown </l>
+<l>Wit, able enough to justify the town </l>
+<l>For three days past, — wit, that might warrant be </l>
+<l>For the whole city to talk foolishly </l>
+<l>Till that were cancelled, and when that was gone. </l> 
+<l>We left an air behind us, which alone </l>
+<l>Was able to make the two next companies </l>
+<l>Right witty, — though but downright fools, more wise. </l>
+</lg>
+</lg>
+</quote>
+<note type="source"><bibl><title>The Mermaid</title><author>Francis Beaumont</author></bibl></note>
+</cit>
+
+<p>The other celebrated report of the great wits of that time, was the  
+Devil Tavern, in Fleet-street, close to Temple-Bar. Ben Jonson  
+lived also in Bartholomew-close, where Milton afterwards lived. It  
+is. in the passage from the cloisters of Christ's Hospital into St.  
+Bartholomew's, Aubrey gives it as a common opinion, that at the time  
+when Jonson's father-in-law made him help him in his business of  
+bricklayer, he worked with his own hands upon the Lincoln's Inn  
+garden wall, which looks upon Chancery-lane, and which seems old  
+enough to have some of his illustrious brick and mortar still remaining.</p>
+
+<p>Under the cloisters in Christ's Hospital (which stand in the heart  
+of the city unknown to most persons, like a house kept invisible for  
+young and learned eyes) lie buried a multitude of peisons of all  
+ranks; for it was once a monastery of Grey Friars. Among them is  
+John of Bourbon, one of the prisoners taken at the battle of Agincourt.</p>
+
+<pb n="22"/>
+
+<p>Here also lies Thomas Burdet, ancestor of the present Sir  
+Francis, who was put to death in the reign of Edward the Fourth,  
+for wishing the horns of a favourite white stag which the king had  
+killed, in the body of the person who advised him to do it. And  
+here too (a sufficing contrast) lies Isabella, wife of Edward the Second,</p>
+
+<lg><l>She, wolf of France, with unrelenting fangs. </l>
+<l>Who tore the bowels of lier mangled mate. — Gray. </l></lg>
+
+<p>Her "mate's" heart was buried with lier, and placed upon her  
+bosom ! a thing that looks like the fantastic incoherence of a dream.  
+It is well we did not know of her presence when at school; or after  
+reading one of Shakspeare's tragedies, we should have run twice as  
+fast round the cloisters at night time, as we used. Camden, "the  
+nourrice of antiquitie," received part of his education in this school;  
+and here also, not to mention a variety of others known in the  
+literary world, were bred two of the most powerful and deep-spirited  
+writers of the present day; whose visits to the cloisters we well  
+remember.</p>
+
+<p>In a palace on the scite of Hatton Garden, died John of Gaunt.  
+Brook House, at the corner of the street of that name in Holborn,  
+was the residence of the celebrated Sir Fulke Greville, Lord Brook,  
+the "friend of Sir Philip Sydney." In the same street, died, by a  
+voluntary death, of poison, that extraordinary person Thomas  
+Chatterton, — </p>
+
+<q>The sleepless boy, who perished in his pride.  
+<persName type="real" key='William Wordsworth'>Wordsworth</persName>.</q>
+
+<p>He was buried in the workhouse in Shoe Lane; — a circumstance, at  
+which one can hardly help feeling a movement of indignation. Yet  
+what could beadles and parish officers know about such a being?  
+No more than Horace Walpole. In Gray's Inn lived, and in Gray's  
+Inn garden meditated. Lord Bacon. In Southampton Row, Holborn,  
+Cowper was a fellow-clerk to an attorney with the future Lord  
+Chancellor Thurlow. At the Fleet Street corner of Chancery Lane,  
+Cowley, we believe, was born. In Salisbury Court, Fleet Street, was  
+the house of Thomas Sackville, first Earl of Dorset, the precursor  
+of Spenser, and one of the authors of the first regular English  
+tragedy. On the demolition of this house, part of the ground was  
+occupied by the celebrated theatre built after the Restoration, at  
+which Betterton performed, and of which Sir William Davenant was  
+manager. Lastly, here was the house and pi'inting-office of Richardson.  
+In Bolt-court, not far distant, lived Dr. Johnson, who resided  
+also for some time in the Temple. A list of his numerous other  
+residences is to be found in Boswell.<note type="hunt" place="foot">The Temple must have had many eminent inmates. Among them it is believed was Chaucer, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in Fleet Street. </note> Congreve died in Surrey-street, in the Strand, at his own house. At the corner of Beaufort-buildings,  
+was Lilly's, the perfumer, at whose house the Tatler was published.  
+In Maiden-lane, Covent-garden, Voltaire lodged while in  
+London, at the sign, of the White Peruke, Tavistock-street was
+<pb n="23"/>
+then, we believe, the Bond-street of the fashionable world; as Bow-  
+street was before. The change of Bow-street from fashion to the police,  
+with the theatre still in attendance, reminds one of the spirit of the  
+Beggar's Opera. Button's Coffee-house, the resort of the wits of Queen  
+Anne's time, was in Russell-street,— we believe, near where the  
+Hummums now stand. We think we recollect reading also, that in  
+the same street, at one of the corners of Bow-street, was the tavern  
+where Dryden held regal possession of the arm chair. The whole  
+of Covent-garden is classic ground, from its association with the  
+dramatic and other wits of the times of Dryden and Pope. Butler  
+lived, perhaps died, in Rose-street, and was buried in Covent-garden  
+Church-yard; where Peter Pindar the other day followed him. In  
+Leicester-square, on the scite of Miss Linwood's exhibition and other  
+houses, was the town mansion of the Sydneys, Earls of Leicester,  
+the family of Sir Philip and Algernon Sydney. In the same square  
+lived Sir Joshua Reynolds. Dryden lived and died in Gerrard-street,  
+in a house which looked backwards into the garden of Leicester  
+House. Newton lived in St. Martin's-street, on the south side of  
+the square. Steele lived in Bury-street, St. James's: he furnishes an  
+illustrious precedent for the loungers in St. James's-street, where a  
+scandal-monger of those times delighted to detect Isaac BickerstafF in  
+the person of Captain Steele, idling before the Coffee-houses, and  
+jerking his leg and stick alternately against the pavement. We  
+have mentioned the birth of Ben Jonson near Charing-cross. Spenser  
+died at an inn, where he put up on his arrival from Ireland, in  
+King-street, Westminster, — the same which runs at the back of  
+Parliament-street to the Abbey. Sir Thomas More lived at Chelsea.  
+Addison lived and died in Holland-House, Kensington, now the  
+residence of the accornplished nobleman who takes his title from it.  
+In Brook-street, Grosvenor-square, lived Handel; and in Bentinck-  
+street, Manchester-square. Gibbon. We have omitted to mention  
+that De Foe kept a hosier's shop in Cornhill; and that on the scite  
+of the present Southampton-buildings, Chancery-lane, stood the  
+mansion of the Wriothesleys, Earls of Southampton, one of whom  
+was the celebrated friend of Shakspeare. But what have we not  
+omitted also? No less an illustrious head that the Boar's, in  
+East-cheap,— the Boar's Head Tavern, the scene of Falstaff's revels. We  
+believe the place is still marked out by a similar sign. But who  
+knows not East-cheap and the Boar's Head? Have we not all been  
+there time out of mind? And is it not a more real as well as  
+notorious thing to us than the London Tavern, or the Crown and  
+Anchor, or the Hummums, or White's, or What's-his-name's, or any  
+other of your contemporary and fleeting taps? </p>
+
+<p>But a line or two, a single sentence in an author of former times,  
+will often give a value to the commonest object. It not only gives  
+us a sense of its duration, but we seem to be looking at it in company   
+with its old observer; and we are reminded at the same time of all that  
+was agreeable in him. We never saw, for instance, even the gilt ball  
+at the top of the College of Physicians, without thinking of that  
+
+<pb n="24"/>
+
+pleasant mention of it. in Garth's Dispensary, and of all the wit syad 
+generosity of that amiable man : —</p> 
+
+<lg><l>Not far from that most celebrated place, <note> The Old Bailey </note> </l>
+<l>Where angry Justice shews her awful face; </l>
+<l>Where little villains must submit to fate </l>
+<l>That great ones may enjoy the world in state; </l>
+<l>There stands a dome, majestic to the sight. </l>
+<l>And sumptuous arches bear it's oval height; </l>
+<l>A golden globe, placed high with artful skill. </l>
+<l>Seems, to the distant sight, a gilded pill. </l></lg>
+
+<p>Gay, in describing the inconvenience of the late narrow part of  
+tlie Strand, by St. Clement's, took away a portion of it's unpleasantness  
+to the next generation, by associating his memory with the  
+objects in it. We did not miss without regret even the "combs"  
+that hung "dangling in your face" at a shop which be describes,  
+and which was standing till the improvements took place. The rest  
+of the picture is still alive. (Trivia, Book 3d.) </p> <!--encoder bibl!!!-->
+
+<lg><l>Where the fair columns of St. Clement stand. </l> 
+<l>Whose straitened bounds encroach upon the Strand; </l>
+<l>Where the low pent-house bows the walker's head. </l>
+<l>And the rough pavement wounds the yielding tread; </l>
+<l>Where not a post protects the narrow space. </l>
+<l>And strung in twines, combs dangle in thy face; </l>
+<l>Summon at once thy courage, rouse thy Care, </l>
+<l>Stand firm, look back, be resolute, beware. </l>
+<l>Forth issuing from steep lanes, the collier's steeds </l>
+<l>Drag the black load; another cart succeeds; </l>
+<l>Team follows team, crouds heaped on crouds appear, </l>
+<l>And wait impatient till the road grow clear. </l></lg>
+
+<p>There is a touch in the winter picture in the same poem, which  
+every body will recognize : — </p>
+
+<lg><l>At White's the harnessed chairman idly stands, </l>
+<l>And swings around his waist his tingling hands. </l></lg>
+
+<p>The bewildered passenger in the Seven Dials is compared to Theseus  
+in the Cretan Labyrinth. And thus we come round to the point at  
+which we began.</p>
+
+<p>Before we rest our wings, however, we must take another drift  
+over the city, as far as Stratford at Bow, where, with all due tenderness  
+for boarding-school French, a joke of Chaucer's has existed as a  
+piece of local humour for nearly four hundred and fifty years. Speaking  
+of the Prioress, who makes such a delicate figure among his  
+Canterbury Pilgrims, he tells us, among her other accomplishments,  
+that </p>
+
+<l>French she spake full faire and featously; </l>
+<p>adding with great gravity.</p>
+<lg><l>After the school of Stratford atte Bowe; </l> 
+<l>For French of Paris was to her unknowe. </l></lg>
+
+</div2>
+ <div2 type="correspondents"> <!-- Publisher and printer information -->
+                <p>[ Persons in the country who  wish to become subscribers, should therefore order it of booksellers who send weekly or monthly parcels to their respective places of residence. The delay would be of little consequence with a work not containing  
+                any thing of merely temporary interest.] </p> 
+ </div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, No. 45, Broad-street, Golden-square, London.</p>
+ </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  
