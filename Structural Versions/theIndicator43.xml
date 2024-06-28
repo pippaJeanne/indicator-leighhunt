@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <!-- File Description -->
         <fileDesc>
@@ -17,7 +14,7 @@
             </titleStmt>
 
             <publicationStmt>
-                <p />
+                <p/>
             </publicationStmt>
 
             <!-- Author information -->
@@ -37,7 +34,86 @@
         </fileDesc>
 
         <!-- Encoding Description -->
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator43.xml?person_annotation_20240627220612930",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-06-28T02:06:12.930Z",
+	"dcterms:modified": "2024-06-28T02:06:12.930Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator43.xml?person_annotation_20240627220612930#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator43.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator43.xml?person_annotation_20240627220612930#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q82083",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
                 Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -49,20 +125,19 @@
     <text>
         <body>
             <div1 type="issue" n="43">
-                <pb n="337" /> <!-- Page beginning -->
+                <pb n="337"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                                cert="high" type="real">SPENSER</persName>.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. XLIII.<date when="1820-08-02"> —WEDNESDAY, AUGUST 2d, 1820</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header">THE STORIES OF <title>LAMIA</title>, <title>THE POT OF BASIL</title>, <title>THE EVE OF ST. AGNES</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> AS TOLD BY <persName key="John Keats" type="real">MR. KEATS</persName>.</head>
+                    <head type="header">THE STORIES OF <title>LAMIA</title>, <title>THE POT OF BASIL</title>, <title>THE EVE OF ST. AGNES</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> AS TOLD BY <persName key="John Keats" type="real" ref="http://www.wikidata.org/entity/Q82083">MR. KEATS</persName>.</head>
 <p>
 In laying before our readers an account of another new publication, 
 it is fortunate that the nature of the work again falls in with the character of our miscellany; part of the object of which is to relate the stories of old times. We shall therefore abridge into prose the stories 
@@ -218,7 +293,7 @@ vaulted room were covered with palms and plantain-trees imifated in
 cedar-wood, and meeting over head in the middle of the ceiling;
 <pb n="340"/>
 between the stems were jasper pannels, from which <q>"there burst forth 
-creeping imagery of slighter trees;"</q> and before each of these <choice><sic>" </sic><corr></corr></choice>lucid pannels</p>
+creeping imagery of slighter trees;"</q> and before each of these <choice><sic>" </sic><corr/></choice>lucid pannels</p>
 <cit><quote>
 <lg rend="center">
 <l rend="right">Fuming stodd</l>
@@ -523,4 +598,3 @@ the beginning of our next number.]</p>
         </body>
     </text>
 </TEI>
-  
