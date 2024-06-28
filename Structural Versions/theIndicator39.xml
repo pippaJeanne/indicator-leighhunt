@@ -462,7 +462,7 @@ people are kind, is it?"</p>
 
 <p>It chanced that <persName type="fictional">Signor Stricca</persName> took a house at a little distance from 
 <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, where his wife, who was fond of a garden, from that time forth 
-always resided. <persName type="fictional">Galgano</persName>, who was like a bird with a string tied to 
+always resided. <persName cert="high" evidence="internal" full="yes" instant="unknown" type="fictional" xml:space="default">Galgano</persName>, who was like a bird with a string tied to 
 <pb n="307"/>
 his leg, be sure flew after them. He found a room in a cottage just 
 pitched like his former one. The orange-trees were removed, and he 
