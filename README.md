@@ -43,4 +43,10 @@ git push origin main
 *Note: For persName tags whose @key value is the same, add the corresponding attributes as explained in the REFERENCE file, and then **only add @ref in the entity containing the @xml-id attribute** on LEAf-Writer* 
 
 
+### Links to visualizations
+
+- https://observablehq.com/d/0ac0189a22a4516d  (Names and Places)
+- https://observablehq.com/d/b20897c62aed7502  (structure : sections by issue)
+- https://observablehq.com/d/a3d1c13ff88423f0  (structure : sections by issue - Collapsible tree of the sections)
+
 
