@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/c<placeName key='us'>us</placeName>tom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <!-- File Description -->
@@ -47,9 +47,9 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cucul<placeName key='us'>us</placeName> Indicator  of  Linnæ<placeName key='us'>us</placeName></hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with b<placeName key='us'>us</placeName>ie, curio<placeName key='us'>us</placeName> eye:</l>
+                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
@@ -61,29 +61,29 @@
 within the range of the Editor's knowledge or reading. He will take them  
 up, as they happen to suggest themselves; and endeavour to point out their  
 essence to the reader, so as at once to be brief and satisfactory. The subjects  
-will chiefly consist of curio<placeName key='us'>us</placeName> recollections of biography; short disquisitions  
+will chiefly consist of curious recollections of biography; short disquisitions  
 on men and things; the most interesting stories in history or fiction told  
 over again, with an eye to their proper appreciation by unvulgar minds;  
 and now and then a few original verses. Indeed the whole matter, whatever  
 the subject may be, will be strictly original, in one sense of the word;  
 arid it will be the Editor's aim, as well as a part of his own pleasure, to  
-render it all as entertaining as he can. To the unvulgar he excl<placeName key='us'>us</placeName>ively  
+render it all as entertaining as he can. To the unvulgar he exclusively  
 addresses himself; but he begs it to be particularly understood, that in this  
 description of persons are to be included all those, who without having had a  
-classical education, would have turned it to right account; j<placeName key='us'>us</placeName>t as all those;  
+classical education, would have turned it to right account; just as all those;  
 are to be excluded, who in spite of that "discipline of humanity" think  
 ill of the nature which they degrade, and vulgarly confound the vulgar with  
 the uneducated.</p>
 
 <p>The Indicator will attend to no subject whatsoever of immediate or  
-temporary interest. His b<placeName key='us'>us</placeName>iness is with the honey in the old woods. The  
+temporary interest. His business is with the honey in the old woods. The  
 Editor has enough to agitate his spirits during the present eventful times,  
 in another periodical work, and he is willing to be so agitated : but as he  
-is acc<placeName key='us'>us</placeName>tomed to <placeName key='us'>us</placeName>e his pen, as habitually as a bird his pinion, and to  
+is accustomed to use his pen, as habitually as a bird his pinion, and to  
 betake himself with it into the nests and bowers of more lasting speculations,  
 when he has done with public ones, he is determined to keep those haunts  
 of his recreation free from all noise and wrangling, both for his own pleasure  
-and for those who may ch<placeName key='us'>us</placeName>e to accompany him.</p>
+and for those who may chuse to accompany him.</p>
 
 <p>The Indicator will appear every Wednesday morning, at an hour early  
 enough for the breakfast-table; although the subjects will not be  
@@ -99,9 +99,9 @@ intercourse between the Editor and his readers.</p>
 did gossips, when assembled to determine the name of a new-born child,  
 whose family was full of conflicting interests, experience half the difficulty  
 which an author finds in settling the title for a periodical work. There is  
-generally some paramount uncle, or prodigio<placeName key='us'>us</placeName> third co<placeName key='us'>us</placeName>in, who is silently  
-understood to have the chief claims, and to the golden l<placeName key='us'>us</placeName>tre of whose face  
-the clouds of hesitation and jealo<placeName key='us'>us</placeName>y gradually give way. But these  
+generally some paramount uncle, or prodigious third cousin, who is silently  
+understood to have the chief claims, and to the golden lustre of whose face  
+the clouds of hesitation and jealousy gradually give way. But these  
 children of the brain have no godfather ready at hand : and then their single  
 appellation is bound to comprise as many public interests as all the  
 Christian names of a French or a German prince. It is to be modest : it is to  
@@ -118,15 +118,15 @@ shaking merriment which he might have joined in himself, fell to turning
 a hopeless thing into a jest. It was like that exquisite picture of a set of  
 laughers in <placeName key='Shakspeare'>Shakspeare</placeName> : — </p>
 
-<cit><quote><lg><l>One rubbed his elbow, th<placeName key='us'>us</placeName>; and fleered, and swore </l> 
+<cit><quote><lg><l>One rubbed his elbow, thus; and fleered, and swore </l> 
 <l>A better speech was never spoke before :  </l>
 <l>Another, with his finger and his thumb.  </l>
 <l>Cried " Vial We will do't, come what will come!"  </l>
 <l>The third he capered, and cried " All goes well!"  </l>
 <l>The fourth turned on the toe, and down he fell.  </l>
 <l>"With that they all did tumble on the ground.  </l>
-<l>With such a zealo<placeName key='us'>us</placeName> laughter, so profound.  </l>
-<l>That in this spleen ridiculo<placeName key='us'>us</placeName>, appears,  </l>
+<l>With such a zealous laughter, so profound.  </l>
+<l>That in this spleen ridiculous, appears,  </l>
 <l>To check their laughter, passion's solemn tears.  </l></lg></quote>
 <note type="source"> <bibl><author><persName key="William">William</persName> <persName key="Shakespeare">Shakespeare</persName></author>: <title>Love's Labour Lost</title>. </bibl></note></cit>
 
@@ -137,17 +137,17 @@ Looking- Glass; — the <persName key="Retailer">Retailer</persName>, or Every M
 of contrast, as the Crocodile, or Pleasing Companion; — <persName key="Chaos">Chaos</persName>, or the  
 Agreeable Miscellany; — the Fugitive Guide; — the <placeName key='Foot-Soldier'>Foot-Soldier</placeName>, or Flowers  
 of Wit; — <persName key="Bigotry">Bigotry</persName>, or the Cheerful Instructor; — the Polite Repository of  
-Ab<placeName key='us'>us</placeName>e; — Blood, being a Collection of Light Essays. Others were sheer  
-ludicro<placeName key='us'>us</placeName>ness and extravagance, as the Pleasing Ancestor; the Silent  
-Remarker; the Tart; the Leg of Beef by a <persName key="Layman">Layman</persName>; the Ingenio<placeName key='us'>us</placeName>  
+Abuse; — Blood, being a Collection of Light Essays. Others were sheer  
+ludicrousness and extravagance, as the Pleasing Ancestor; the Silent  
+Remarker; the Tart; the Leg of Beef by a <persName key="Layman">Layman</persName>; the Ingenious  
 Hatband; the Booths of Bliss; the Occasional Diner; the <placeName key='Tooth-ache'>Tooth-ache</placeName>;  
 Recollections of a Very Unpleasant Nature; Thoughts on Taking up a Pair of  
 Snuffers; Thoughts on a Barouche-Box; Thoughts on a Hill of Considerable  
 Eminence; Meditations on a Pleasing Idea; Materials for Drinking; the  
-Knocker, No. I; — the Hippopotam<placeName key='us'>us</placeName> Entered at Stationers' Hall; the  
-<placeName key='Piano-forte'>Piano-forte</placeName> of <persName key="Paul<placeName key='us'>us</placeName> AEmili<placeName key='us'>us</placeName>">Paul<placeName key='us'>us</placeName> AEmili<placeName key='us'>us</placeName></persName>; the Seven Sleepers at Cards; the Arabian  
+Knocker, No. I; — the Hippopotamus Entered at Stationers' Hall; the  
+<placeName key='Piano-forte'>Piano-forte</placeName> of <persName key="Paulus AEmilius">Paulus AEmilius</persName>; the Seven Sleepers at Cards; the Arabian  
 Nights on Horseback : — with an infinite number of other mortal murders  
-of common sense, which rose to "p<placeName key='us'>us</placeName>h <placeName key='us'>us</placeName> from our stools," and which  
+of common sense, which rose to "push us from our stools," and which  
 none but the wise or good-natured would ever think of laughing at.</p> 
 
 <pb n="3"/>
@@ -160,11 +160,11 @@ aware of them himself, seeing in what manner they were often denied, and
 what a convention there was among worldly and common-place men,  
 possessed of a little scholarship, to cry down every thing but themselves, he  
 ran to an extreme natural enough to such a mind, and proclaimed at once  
-that all which is commonly understood by the word <persName key="Learning">Learning</persName> was <placeName key='us'>us</placeName>eless.  
+that all which is commonly understood by the word <persName key="Learning">Learning</persName> was useless.  
 He saw that others mistook the letter for the spirit; and yet in objecting  
 to this mistake, he fell into one of the very same nature, and asserted that  
-learning was no longer wanted, beca<placeName key='us'>us</placeName>e all the "<placeName key='us'>us</placeName>eful books" in the  
-ancient languages had been translated.  By <placeName key='us'>us</placeName>eful books, he means such  
+learning was no longer wanted, because all the "useful books" in the  
+ancient languages had been translated.  By useful books, he means such  
 works as <persName key="Euclid">Euclid</persName>'s Elements : and here again he fell into an error, from  
 which the true spirit of learning might have saved him : he confounded  
 utility with mere science.  He forgot that for one instance in which mere  
@@ -173,9 +173,9 @@ have more to do with our passions and tempers, with our affections, our
 perceptions, with our ability or inability to extract pleasure from the  
 innumerable things in the intellectual and external world. Utility is only  
 utility in as much as it conduces somehow or other to advantage and  
-pleasure. Every thing that is truly pleasurable or beautiful is as <placeName key='us'>us</placeName>eful  
-as the most scientific thing upon earth. <persName key="Jane">Jane</persName>, when she smiles at <placeName key='us'>us</placeName>, or  
-takes a country walk with <placeName key='us'>us</placeName>, or reads an author with <placeName key='us'>us</placeName>, is at least as  
+pleasure. Every thing that is truly pleasurable or beautiful is as useful  
+as the most scientific thing upon earth. <persName key="Jane">Jane</persName>, when she smiles at us, or  
+takes a country walk with us, or reads an author with us, is at least as  
 good as a !Spinning Jenny!. If we have twenty pleasures from the sight of  
 a cherry, such as the admiration of it's bloom, it's figure, it's scent, it's  
 suitableness to the leaves, it's connexion with orchards and the country,  
@@ -198,7 +198,7 @@ knowledge (and we cannot well return to it now-a-davs through the
 paths of ignorance, beset as they have been with every species of tyranny)  
 then the more we know of what great minds have felt and said, the more  
 we increase the general stock of humanity in its largest sense. That all  
-the "<placeName key='us'>us</placeName>eful books" therefore have been translated, m<placeName key='us'>us</placeName>t be denied.  
+the "useful books" therefore have been translated, must be denied.  
 Intelligent men of no scholarship, on reading Horace, for instance, and Ariosto,  
 through the medium of translation, have often wondered how those writers  
 obtained their glory. <persName key="And">And</persName> they well might. The translations are no more  
@@ -206,17 +206,17 @@ like the original than a walking-stick is like a flowering bough. It is the
 
 <pb n="4"/>
 
-same with the versions of Euripides, of AEschyl<placeName key='us'>us</placeName>, of Sophocles, of Theocrit<placeName key='us'>us</placeName>  
+same with the versions of Euripides, of AEschylus, of Sophocles, of Theocritus  
 of Petrarch, etc. etc, and in many respects of <persName key="Homer">Homer</persName>. Perhaps we  
 could not give the reader a more brief yet complete specimen of the way  
 in which bad translations are made, than by selecting a well-known passage  
 from <placeName key='Shakspeare'>Shakspeare</placeName>, and turning it into the common-place kind of poetry  
-that flourished so widely among <placeName key='us'>us</placeName> till of late years. Take the passage  
+that flourished so widely among us till of late years. Take the passage  
 for instance, where the lovers in the Merchant of Venice seat themselves  
 on a bank by moonlight : — </p>
 
 <cit><quote><lg><l>How sweet the moonlight sleeps upon this bank! </l> 
-<l>Here will we sit, and let the sounds of m<placeName key='us'>us</placeName>ic  </l>
+<l>Here will we sit, and let the sounds of music  </l>
 <l>Creep in our ears; soft stillness, and the night,  </l>
 <l>Become the touches of sweet harmony. </l></lg></quote>
 <note type="source"><bibl><persName key="Shakespeare">Shakespeare</persName>, <persName key="William">William</persName>: The Merchant of Venice</bibl></note></cit>
@@ -227,13 +227,13 @@ to the following : — </p>
 
 <lg><l>With what a charm, the moon, serene and bright. </l> 
 <l>Lends on this bank its soft reflected light! </l>
-<l>Sit we, I pray; and let <placeName key='us'>us</placeName> sweetly hear  </l>
-<l>The strains melodio<placeName key='us'>us</placeName> with a raptured ear;  </l>
+<l>Sit we, I pray; and let us sweetly hear  </l>
+<l>The strains melodious with a raptured ear;  </l>
 <l>For soft retreats, and night's impressive hour, </l> 
 <l>To harmony impart divinest power.</l></lg>
 
-<p>It will be our b<placeName key='us'>us</placeName>iness, where a quotation from the foreign poets occurs to  
-<placeName key='us'>us</placeName>, to do at any rate a little better than this : and the English reader will  
+<p>It will be our business, where a quotation from the foreign poets occurs to  
+us, to do at any rate a little better than this : and the English reader will  
 have a better idea of the love-stories and other pieces of fiction which they  
 have rendered so celebrated, in abridgments like ours of the utmost brevity  
 and simplicity, than in whole volumes of this kind of misrepresentation.  
@@ -243,7 +243,7 @@ once.</p>
 </div2>
 
 <div2 type="section" n="2">
-<p><placeName key='Abaris'>Abaris</placeName>, a mysterio<placeName key='us'>us</placeName> personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
+<p><placeName key='Abaris'>Abaris</placeName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
 to have received an arrow from <persName key="Apollo">Apollo</persName>, with which he rode through the  
 air, and which he afterwards gave to <persName key="Pythagoras">Pythagoras</persName> in return for the instruction  
 of that philosopher. His first appearance at <placeName key='Athens'>Athens</placeName> was in consequence  
@@ -254,37 +254,37 @@ The probability is, that he was a <persName key="Pythagorean">Pythagorean</persN
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
 been enough to make a miracle. He rode like an arrow. Drop the word  
-like, and the miracle is ready. <persName key="Swift">Swift</persName> says of the famo<placeName key='us'>us</placeName> <persName key="Lord Peterborough">Lord Peterborough</persName>.</p>
+like, and the miracle is ready. <persName key="Swift">Swift</persName> says of the famous <persName key="Lord Peterborough">Lord Peterborough</persName>.</p>
 
 
 <cit><quote><lg><l>So wonderful his expedition, </l> 
-<l>When you have not the least s<placeName key='us'>us</placeName>picion </l> 
+<l>When you have not the least suspicion </l> 
 <l>He's with you like an apparition. </l></lg></quote></cit>
 
 <p>If this had been said of a man in some ages of the world, the next step  
-would have been to <placeName key='us'>us</placeName>e his apparition at once, and allow him a travelling  
+would have been to use his apparition at once, and allow him a travelling  
 ghost.</p>
 
 <pb n="5"/>
 
 <p>Abradates and <persName key="Panthea">Panthea</persName>, a singular example of conjugal affection on a  
-throne. Abradates was king of S<placeName key='us'>us</placeName>a in Persia during the wars between  
-Cyr<placeName key='us'>us</placeName> and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
+throne. Abradates was king of Susa in Persia during the wars between  
+Cyrus and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
-continence and respect, Cyr<placeName key='us'>us</placeName> having denied himself even the temptation of  
+continence and respect, Cyrus having denied himself even the temptation of  
 seeing her, he went over to that prince with all his troops. Unfortunately,  
 he was slain in the first battle that he fought for his new friend; and  
 <persName key="Panthea">Panthea</persName>, unable to bear the loss of so noble and affectionate a spirit, killed  
 herself on his dead body. The story was first told by <persName key="Xenophon">Xenophon</persName>, <persName key="Besides">Besides</persName>  
-it's own interest, it is curio<placeName key='us'>us</placeName> as one of the few specimens afforded by the  
-ancient world, of chivalro<placeName key='us'>us</placeName> gallantry towards a woman.</p>
+it's own interest, it is curious as one of the few specimens afforded by the  
+ancient world, of chivalrous gallantry towards a woman.</p>
 
 </div2>
 
 <div2
  type="section" n="3">
 <p>Uriel <persName key="Acosta">Acosta</persName>, a Portuguese at the beginning of the 17th century,  
-presented the world with a strange instance of vacillation in religio<placeName key='us'>us</placeName> faith.  
+presented the world with a strange instance of vacillation in religious faith.  
 He first turned Jew, converting at the same time his mother and brothers,  
 and fled with them to <placeName key='Amsterdam'>Amsterdam</placeName>, where they were received into a synagogue.  
 Becoming dissatisfied with some of the Jewish rites, and giving vent  
@@ -299,11 +299,11 @@ again prostrated himself before the Jewish priests, and was again received
 after an extraordinary penance, during which the most melancholy and  
 appalling ceremonies were gone through, <persName key="candles">candles</persName> lighted up and put out, and  
 blood dropped into basons. We speak from the recollection of what  
-we have read 3 but the proceeding was of this description. At the concl<placeName key='us'>us</placeName>ion  
+we have read 3 but the proceeding was of this description. At the conclusion  
 of these infernal ceremonies, he lay down upon the ground at the  
 threshold of the synagogue, and every member of it walked over his body.  
-He shot himself. — <persName key="Acosta">Acosta</persName> has been idly acc<placeName key='us'>us</placeName>ed of impiety, and even  
-of worldly selfishness. A man is not full of religio<placeName key='us'>us</placeName> scruples out of impiety;  
+He shot himself. — <persName key="Acosta">Acosta</persName> has been idly accused of impiety, and even  
+of worldly selfishness. A man is not full of religious scruples out of impiety;  
 much less keeps out of the pale of his worldly interest over and over again,  
 and for so many years together. Perhaps his history is only an extraordinary  
 instance of the perplexity arising from having had progenitors of  
@@ -317,54 +317,54 @@ upon, as it were, by the voices of his ancestors to become a Jew; making
 bold efforts to disengage himself from this cruel alternative; then plunged  
 in misery; and above all, abandoned by men calling themselves his friends,  
 and whom he had taken for such, a distracted state of mind, weakened  
-perhaps into hopelessness by an atrabilario<placeName key='us'>us</placeName> temperament, drove him back,  
+perhaps into hopelessness by an atrabilarious temperament, drove him back,  
 like a frightened animal, into the toils of his <hi rend="italic">first fear</hi>, the oldest superstition  
 
 <pb n="6"/>
 
 in the family. He stared about him a while, amidst the <persName key="candles">candles</persName>, the  
 curses, and the dropping blood; and then went melancholy, and killed  
-himself. — Th<placeName key='us'>us</placeName> an honest man is driven into suicide, beca<placeName key='us'>us</placeName>e his ancestors  
+himself. — Thus an honest man is driven into suicide, because his ancestors  
 differed in point of faith! The religionist will say that this shews the value  
 of having one regular hereditary faith; but would he cease then to convert  
 the heretic to his own? <persName key="And">And</persName> what good did this do to the poor unwilling  
 martyr <persName key="Acosta">Acosta</persName>? The philosopher will say that it shews the wretched  
-tyranny of c<placeName key='us'>us</placeName>tom.</p>
+tyranny of custom.</p>
 
 </div2>
 
 <div2 type="section" n="4">
-<p>Polyphem<placeName key='us'>us</placeName>, <persName key="Acis">Acis</persName>, and Galatea, one of the most celebrated love-stories  
-in ancient fable. <persName key="Acis">Acis</persName> was a mortal, beca<placeName key='us'>us</placeName>e his mother was so, though  
-his father was the wood-god Faun<placeName key='us'>us</placeName>. Galatea, who loved him deeply, and  
+<p>Polyphemus, <persName key="Acis">Acis</persName>, and Galatea, one of the most celebrated love-stories  
+in ancient fable. <persName key="Acis">Acis</persName> was a mortal, because his mother was so, though  
+his father was the wood-god Faunus. Galatea, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
 the delightful vales of <placeName key='Sicily'>Sicily</placeName>; but unfortunately it had one drawback, 
-which was the jealo<placeName key='us'>us</placeName> importunity of <placeName key='Neptune'>Neptune</placeName>'s gigantic and one-eyed son,  
-the terrible Polyphem<placeName key='us'>us</placeName>. In vain the enamoured monster implored Galatea  
+which was the jealous importunity of <placeName key='Neptune'>Neptune</placeName>'s gigantic and one-eyed son,  
+the terrible Polyphemus. In vain the enamoured monster implored Galatea  
 to listen to him. In vain had love softened the natural ferocity of his  
 manners, so that he would sit whole days on the sea-coast, watching to  
 catch a glimpse of her out of the water, while the tears ran down his  
 dreadful face, and he was as gentle and humble as a child. The fair nymph  
 fled but the more for refuge into the arms of the handsome shepherd. The  
-wretched Polyphem<placeName key='us'>us</placeName>, looking down one day into a valley, saw the happy  
+wretched Polyphemus, looking down one day into a valley, saw the happy  
 lovers giving way to their transport; and this sight made the load of his  
 despair intolerable. He rent off a fragment of the rock on which he was  
 sitting; and hurling it down as <placeName key='Jupiter'>Jupiter</placeName> might do his thunder, smote his  
-rival so as to cr<placeName key='us'>us</placeName>h him to death. Galatea, inconsolable, and unable to  
+rival so as to crush him to death. Galatea, inconsolable, and unable to  
 restore her lover to life, or render him a deity like herself, turned him into  
-a fountain. It was after this event that we may suppose Polyphem<placeName key='us'>us</placeName> to  
+a fountain. It was after this event that we may suppose Polyphemus to  
 have become the inhospitable and cruel wretch which he is described  
 to be in <persName key="Homer">Homer</persName>'s Odyssey : and this point of view helps to throw an  
-additional interest over his story, which always appeared to <placeName key='us'>us</placeName> one of the  
+additional interest over his story, which always appeared to us one of the  
 most pathetic and deeply-meaning in poetry. He was separated by his  
-monstro<placeName key='us'>us</placeName> appearance from human kind, and yet in his heart and inclinations  
+monstrous appearance from human kind, and yet in his heart and inclinations  
 he sympathized with them. The want of this sympathy from others  
-made him ireful, revengeful, impio<placeName key='us'>us</placeName>. What moral can go to the heart of  
+made him ireful, revengeful, impious. What moral can go to the heart of  
 things more deeply than this? </p>
 
-<p>This story has been a great favourite with all men of geni<placeName key='us'>us</placeName>. It has  
-been touched upon with great pathos and simplicity by Theocrit<placeName key='us'>us</placeName>, who  
+<p>This story has been a great favourite with all men of genius. It has  
+been touched upon with great pathos and simplicity by Theocritus, who  
 was followed not so well by <persName key="Virgil">Virgil</persName>, and with much less nature by <persName key="Ovid">Ovid</persName>.  
 The Italian writers are so fond of it, that they have sonnets, called  
 Polyphemic sonnets. <persName key="Raphael">Raphael</persName> painted a beautiful picture of Galatea  
@@ -376,13 +376,13 @@ hear how <persName key="Handel">Handel</persName> composed.</p>
 
 <pb n="7"/>
 
-<p>Country Ho<placeName key='us'>us</placeName>es near <placeName key='Town'>Town</placeName>. — We have often wondered, in the midst  
+<p>Country Houses near <placeName key='Town'>Town</placeName>. — We have often wondered, in the midst  
 of the trees and fields, how people can be aware of the existence of such  
 beautiful things, and not long to enjoy them : — we mean, of course, in the  
 manner as well as the degree, in which some others enjoy them : for  
 though Nature will be felt and acknowledged some how or other under all  
 her aspects, and though the inhabitants of the metropolis have plenty of  
-little country ho<placeName key='us'>us</placeName>es scattered about the skirts of it, yet their pleasure in  
+little country houses scattered about the skirts of it, yet their pleasure in  
 them is rather of a negative than positive kind; rather a fidgeting respite  
 from smoke and noise, than a sense of the beauties of scenery or of the  
 solitude. When the citizen gets out of the town, he contrives to be almost  
@@ -394,40 +394,40 @@ in the morning to church, in order to take care of his eternal interests upon
 the same principle on which he takes care of his temporal every other day  
 in the week; but he confines himself to the path as he, goes; he returns by  
 it as ploddingly; and though not so bad as the sourer' bigot, who after  
-insisting all the morning at the meeting ho<placeName key='us'>us</placeName>e that the world is a vile world,  
+insisting all the morning at the meeting house that the world is a vile world,  
 takes all the selfish or unsocial means he can to prove his words, he spends  
 the rest of the day with almost as little sense of the beauties and kindliness  
 of creation, either eating and drinking himself to sleep in his easy chair, or  
 treating some friends with the provisions he stuffed his carriage with the  
 day before, and cultivating a hot-faced, noisy, and boozing indigestion till  
 bed-time. This, and a confinement all the rest of the week to close and  
-noisy streets, — the transition from dark rooms with windows half d<placeName key='us'>us</placeName>t and  
+noisy streets, — the transition from dark rooms with windows half dust and  
 half board, to the bargaining uproar of an Exchange, — the total ignorance  
 of all intellectual pleasures, an utter deadness to what is called sentiment,  
 — a person which has no graces in consequence, — a face, sometimes jovial  
 but not happy, generally care-worn, and always vulgar, — an enjoyment,  
-such as it is, allied to gambling, and cut with a tho<placeName key='us'>us</placeName>and anxieties, — an  
+such as it is, allied to gambling, and cut with a thousand anxieties, — an  
 unhealthy temperament, always contradicting his comfort also, though he  
 may not know as much, — toil, toil, toil, every morning, — indigestion,  
 indigestion, every evening, — a gout in his old age, and a bad conscience all  
 his life, — such is the picture of a complete, successful, flourishing,  
-sophisticated, money-getting animal; who is called "a good man," beca<placeName key='us'>us</placeName>e his  
-knaveries enable him to pay; and a knowing one, beca<placeName key='us'>us</placeName>e he has found  
+sophisticated, money-getting animal; who is called "a good man," because his  
+knaveries enable him to pay; and a knowing one, because he has found  
 out with infinite labour and pains how to make himself forty times as  
 uncomfortable as other people.</p>
 
 <p>All this comes from imaginary wants, and from abandoning nature in  
 order to get as much as possible out of art; whereas art with twenty times  
 the toil will never yield a twentieth part of the real harvest. A third of  
-the ind<placeName key='us'>us</placeName>try that is now thought necessary, and an improved knowledge  
+the industry that is now thought necessary, and an improved knowledge  
 which does not confound good taste with expensiveness, would leave mankind  
 to the enjoyment of a leisure and a happiness, which they have only  
 tasted at intervals. But in the mean time, instead of happiness being  
-attended- to, the phrase is, that "b<placeName key='us'>us</placeName>iness m<placeName key='us'>us</placeName>t be attended to." The  
+attended- to, the phrase is, that "business must be attended to." The  
 same pains, or mere profligacies, are bequeathed to children; and with the  
 exception of a few understandings who have survived the convulsions of  
 the times, and have got hold of a weapon against error", which wisdom never  
-had before, and which we tr<placeName key='us'>us</placeName>t it will never let go — the middle classes in  
+had before, and which we trust it will never let go — the middle classes in  
 this green and beautiful country, make a religion of their money-getting  
 
 <pb n="8"/>
@@ -439,7 +439,7 @@ might have done in their painted skins.</p>
 <p>The present generation, in this respect, is too old and too foolish to  
 mend; but the rising one has new light; and how easily might it see, not  
 only from the sophistications of it's parents, but from their sufferings and  
-even their little unconscio<placeName key='us'>us</placeName> hankerings after something better, the policy  
+even their little unconscious hankerings after something better, the policy  
 of improving it's habits of thinking! How much better would it be to  
 have a third of the toil, and a twentieth part of the anxiety! How much  
 better to have air and exercise every day, instead of once a week! How  
@@ -447,13 +447,13 @@ much better to have cheap luxuries, easy digestions, cool slumbers, and
 quiet minds!</p>
 
 <p>Nor is this mere talking, or a thing only to be found in books; as if  
-there were no medium between the extreme of folly and that of inj<placeName key='us'>us</placeName>tice.  
+there were no medium between the extreme of folly and that of injustice.  
 Let them come out in the fields, and see. Let them read of the smaller  
 country gentlemen, a class which has since vanished, — of archeries and  
-other rural sports, of the old mixture of b<placeName key='us'>us</placeName>iness and pleasure, which were  
+other rural sports, of the old mixture of business and pleasure, which were  
 in a more reassonable proportion than now; and let them add to these, the  
 improvements which philosophy would now enable them to make in a  
-tho<placeName key='us'>us</placeName>and matters involving the common good; and they would soon see  
+thousand matters involving the common good; and they would soon see  
 the folly of wasting their time by a mistaken sense of it.</p>
 
 <p>Upon this subject we shall present our readers by and by with a story  
@@ -474,7 +474,7 @@ took him out of it at last.</p>
 <l>As I shall describe her thee.</l>
 <l>Paint me first her fine dark hair.</l>
 <l>Fawning into ringlets there;</l>
-<l><persName key="And">And</persName> if br<placeName key='us'>us</placeName>h has power to do it,</l>
+<l><persName key="And">And</persName> if brush has power to do it,</l>
 <l>Paint the odour breathing through it.</l>
 <l>Then from out her ripe young cheek.</l>
 <l><placeName key='Underneath'>Underneath</placeName> those tresses sleek.</l>
@@ -495,8 +495,8 @@ took him out of it at last.</p>
 <l>Asking our's provokingly :</l>
 <l><persName key="And">And</persName> beneath her satin chin.</l>
 <l>With a dimple broken in,</l>
-<l><persName key="And">And</persName> all about those precio<placeName key='us'>us</placeName> places,</l>
-<l><persName key="Set">Set</persName> a tho<placeName key='us'>us</placeName>and hovering graces.</l>
+<l><persName key="And">And</persName> all about those precious places,</l>
+<l><persName key="Set">Set</persName> a thousand hovering graces.</l>
 <l>Now then, — let the drapery spread.</l>
 <l>With an under tint of red.</l>
 <l><persName key="And">And</persName> a glimpse left scarcely drest.</l>
