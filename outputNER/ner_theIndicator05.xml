@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/c<placeName key='us'>us</placeName>tom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
+                    <title>The Indicator</title>
+                    <date when="1819-11-10">NOVEMBER 10th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country><placeName key='England'>England</placeName></country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="5">
+                <pb n="33" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cucul<placeName key='us'>us</placeName> Indicator  of  Linnæ<placeName key='us'>us</placeName></hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                        <l>There he arriving round about doth flie,</l>
+                        <l><persName key="And">And</persName> takes survey with b<placeName key='us'>us</placeName>ie, curio<placeName key='us'>us</placeName> eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund <persName key="Spenser">Spenser</persName>" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. I. <date when="1819-11-10">—WEDNESDAY, NOVEMBER 10th, 1819</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">TO ANY ONE WHOM BAD WEATHER DEPRESSES. </head>
+                    
+                    <p>If you are melancholy for the first time, you will find upon a little  
+enquiry, that others have been melancholy many times, and yet are  
+cheerful now. If you have been melancholy many times, recollect  
+that you have got over all those times; and try if you cannot find  
+out new means of getting over them better. </p>
+
+<p>Do not imagine that mind alone is concerned in your bad spirits.  
+The body has a great deal to do with these matters. The mind may  
+undoubtedly affect the body; but the body also affects the mind.  
+There is a mutual re-action between them; and by lessening it on  
+either side, you diminish the pain on both. </p>
+
+<p>If you are melancholy, and know not why, be assured it m<placeName key='us'>us</placeName>t  
+arise entirely from some physical weakness; and do your best to  
+strengthen yourself. The blood of a melancholy man is thick and slow.  
+The blood of a lively man is clear and quick. Endeavour therefore  
+to put your blood in motion. Exercise is the best way to do it; but  
+you may also help yourself, in moderation, with wine, or other  
+excitements. Only you m<placeName key='us'>us</placeName>t take care so to proportion the <placeName key='us'>us</placeName>e of any  
+artificial stimul<placeName key='us'>us</placeName>, that it may not render the blood languid by over-  
+exciting it at first; and that you may be able to keep up, by the  
+natural stimul<placeName key='us'>us</placeName> only, the help you have given yourself by the artificial.  
+Regard the bad weather, as somebody has advised <placeName key='us'>us</placeName> to handle the  
+nettle. In proportion as you are delicate with it, it will make you  
+feel but </p>
+
+<lg><l><placeName key='Grasp'>Grasp</placeName> it like a man of mettle. </l> 
+<l><persName key="And">And</persName> the rogue obeys you well. </l></lg>
+
+<p>Do not the less however, on that account, take all reasonable  
+precaution and arms against it, — your boots, etc. against wet feet,  
+and your great coat or umbrella against the rain. It is timidity and  
+flight, which are to be deprecated, not proper armour for the battle.  
+Tht first will lay you open to defeat, on the least attack. A proper  
+<placeName key='us'>us</placeName>e of the latter will only keep you strong for it. <persName key="Plato">Plato</persName> had such  
+a high opinion of exercise, that he said it was a cure even for a  
+
+<pb n="34"/>
+
+wounded conscience. Nor is this opinion a dangero<placeName key='us'>us</placeName> one. For  
+there is no system, even of superstition, however severe or cruel in  
+other matters, that does not allow a wounded conscience to be curable  
+by some means. Nature will work out it's rights and it's kindness  
+some way or other, through the worst sophistications; and this is  
+one of the instances in which she seems to raise herself above all  
+contingencies. The conscience may have been wounded by artificial  
+or by real guilt; but then she will tell it in those extremities, that  
+even the real guilt may have been produced by circumstances. It  
+is her kindness alone, which nothing can pull down from it's <choice>
+<orig>pre-dominance</orig>
+<reg>predominance</reg>
+</choice>. </p>
+
+<p>See fair play between cares and pastimes. Diminish your mere  
+wants as much as possible, whether you are rich or poor: for the  
+rich man's wants, increasing by indulgence, are apt to outweigh  
+even the abundance of his means; and the poor man's diminution  
+of them renders his means the greater. Do not want money, for  
+instance, for money's sake. There is excitement in the pursuit; but it  
+is dashed with more troubles than most others, and gets less happiness  
+at last. On the other hand, increase all your natural and healthy  
+enjoyments. Cultivate your afternoon fireside, the society of your  
+friends, the company of agreeable children, m<placeName key='us'>us</placeName>ic, theatres, am<placeName key='us'>us</placeName>ing  
+books, an urbane and genero<placeName key='us'>us</placeName> gallantry. He who thinks any  
+innocent pastime foolish, has either yet to grow wiser or is past it.  
+In the one case, his notion of being childish is itself a childish  
+notion. In the other, his importance is of so feeble and hollow a cast,  
+that it dare not move for fear of tumbling to pieces. </p>
+
+<p>A friend of ours, who knows as well as any man how to unite  
+ind<placeName key='us'>us</placeName>try with enjoyment, has set an excellent example to those who  
+can afford the leisure, by taking two <persName key="Sabbaths">Sabbaths</persName> every week instead of  
+one;— not Methodistical <persName key="Sabbaths">Sabbaths</persName>, but days of rest which pay true  
+homage to the Supreme Being by enjoying his creation. He will  
+be gratified at reading this paragraph on his second-Sunday morning. </p>
+
+<p>One of the best pieces of advice for an ailing spirit is to go to  
+no sudden extremes, — to adopt no great and extreme changes in  
+diet or other habits. They may make a man look very great and  
+philosophic to his own mind; but they are not fit for a nature, to  
+which c<placeName key='us'>us</placeName>tom has been truly said to be a second nature. Dr. <placeName key='Cheyne'>Cheyne</placeName>  
+(as we remember reading on a stall) may tell <placeName key='us'>us</placeName> that a drowning  
+man cannot too quickly get himself out of the water: but the  
+analogy is not good. If the water has become a second habit, he might  
+almost as well say that a fish could not get too quickly out of it. </p>
+
+<p>Upon this point. <persName key="Bacon">Bacon</persName> says that we should discontinue what we  
+think hurtful by little and little. <persName key="And">And</persName> he quotes with admiration  
+the advice of <persName key="Cels<placeName key='us'>us</placeName>">Cels<placeName key='us'>us</placeName></persName>, — that "a man do vary and interchange  
+contraries, but rather with an inclination to the more benign extreme."  
+"Use fasting," he says, "and full eatipg, but rather full eating;  
+watching and sleep, but rather sleep; sitting and exercise, but  
+rather exercise, and the like, so shall nature be cherished, and yet   
+taught masteries." </p>
+
+<pb n="35"/>
+
+<p>We cannot do better than conclude with one or two other passages  
+out of the same Essay, full of his <placeName key='us'>us</placeName>ual calm wisdom. "If you fly  
+physic in health altogether, it will be too strange for your body when  
+you need it." (He means that a general state of health should not make  
+<placeName key='us'>us</placeName> over-confident and contemptuo<placeName key='us'>us</placeName> of physic; but that we should  
+<placeName key='us'>us</placeName>e it moderately if required, that it may not be too strange to <placeName key='us'>us</placeName>  
+when required most.) "If you make it too familiar, it will have  
+no extraordinary effect when sickness cometh. I commend rather  
+some diet for certain seasons, than frequent <placeName key='us'>us</placeName>e of physic, except it  
+be grown into a c<placeName key='us'>us</placeName>tom: for those diets alter the body more, and  
+trouble it less." </p>
+
+<p>"As for the passions and studies of the mind," says he, "avoid  
+envy, anxio<placeName key='us'>us</placeName> fears, anger fretting inwards, subtil and knotty  
+inquisitions, joys and exhilirations in excess, sadness not communicated"  
+(for as he says finely, somewhere else. They who keep their griefs  
+to themselves, are "cannibals of their own hearts.") "Entertain  
+hopes; mirth rather than joy;" (that is to say, cheerfulness rather  
+than what we call boistero<placeName key='us'>us</placeName> merriment); "variety of delights  
+rather than surfeit of them; wonder and admiration, and therefore  
+novelties; studies that fill the mind with splendid and ill<placeName key='us'>us</placeName>trio<placeName key='us'>us</placeName>  
+objects, as histories, fables, and contemplations of nature." </p>
+
+</div2>
+
+<div2 type="section" n="2">
+<head type="header">CHARLES BRANDON, AND MARY QUEEN OF FRANCE. </head>
+
+<p>The fortune of <persName key="Charles <persName key="Brandon">Brandon</persName>">Charles <persName key="Brandon">Brandon</persName></persName> was remarkable. He was an  
+honest man, yet the favourite of a despot. He was brave, handsome,  
+accomplished, possessed even delicacy of sentiment; yet he  
+retained his favour to the last. He even had the perilo<placeName key='us'>us</placeName> honour of  
+being beloved by the despot's sister, without having the least claim  
+to it by birth; and yet instead of it's destroying them both, he was  
+allowed to be her h<placeName key='us'>us</placeName>band. </p>
+
+<p><persName key="Charles <persName key="Brandon">Brandon</persName>">Charles <persName key="Brandon">Brandon</persName></persName> was the son of Sir <persName key="William <persName key="Brandon">Brandon</persName>">William <persName key="Brandon">Brandon</persName></persName>, whose skull  
+was cleaved at Bosworth by <persName key="<persName key="Richard">Richard</persName> the Third"><persName key="Richard">Richard</persName> the Third</persName>, while bearing the  
+standard of the Duke of <placeName key='Richmond'>Richmond</placeName>. <persName key="Richard">Richard</persName> dashed at the standard,  
+and appears to have been thrown from his horse by <persName key="Sir William">Sir William</persName>,  
+whose strength and courage however could not save him from the  
+angry desperation of the king.</p>
+
+<cit><quote><lg><l>But Time, whose wheeles with vario<placeName key='us'>us</placeName> motion runne, </l>
+<l>Repayes this service fully to his Sonne, </l>
+<l>Who marries <placeName key='Richmond'>Richmond</placeName>'s daughter, born betweene </l>
+<l>Two royal parents, and endowed a queene. </l></lg></quote>
+<note type="source"><bibl><author>Sir John Beaumont</author>'s <title>Bosworth Field</title>.</bibl></note></cit> 
+
+<p>The father's fate m<placeName key='us'>us</placeName>t doubtless have had it's effect in securing the 
+fortunes of the son. <persName key="Young <persName key="Brandon">Brandon</persName>">Young <persName key="Brandon">Brandon</persName></persName>, we believe, grew up with <persName key="Henry">Henry</persName>  
+the Seventh's children, and was the playmate of his future king and  
+bride. The prince, as he increased in years, seems to have carried  
+the idea of <persName key="Brandon">Brandon</persName> vnth him like that of a second self; and the  
+
+<pb n="36"/>
+
+princess, whose affection was not hindered from becoming personal  
+by any thing sisterly, nor on the other hand allowed to waste itself  
+in too equal a familiarity, may have felt a double impulse given to  
+it by the great improbability of her ever being suffered to become  
+his wife. Royal females in most countries have certainly none of the  
+advantages of their rank, whatever the males may have. Mary was  
+destined to taste the <placeName key='us'>us</placeName>ual bitterness of their lot; but she was amply  
+repaid. At the concl<placeName key='us'>us</placeName>ion of the war with France, she was married  
+to the old king Louis the Twelfth, who witnessed from a couch the  
+exploits of her future h<placeName key='us'>us</placeName>band at the tournaments. The doings of  
+<persName key="Charles <persName key="Brandon">Brandon</persName>">Charles <persName key="Brandon">Brandon</persName></persName> that time were long remembered. The love between  
+him and the young queen was s<placeName key='us'>us</placeName>pected by the French courts  
+and he had j<placeName key='us'>us</placeName>t seen her enter Paris in the midst of a gorgeo<placeName key='us'>us</placeName>  
+procession, like Aurora come to mairy Tithon<placeName key='us'>us</placeName>. He dealt his  
+chivalry about him accordingly with such irresistible vigour, that  
+the Dauphin, in a fit of jealo<placeName key='us'>us</placeName>y, secretly introduced into the contest  
+a huge German, who was thought to be of a strength incomparable.  
+But <persName key="Brandon">Brandon</persName> grappled with him, and with seeming disdain and  
+detection so pummelled him about the head with the hilt of his  
+sword, that the blood burst through the vizor. Imagine the feelings  
+of the queen, when he cameand made her an offering of the German's  
+shield. Drayton, in his Heroical Epistles, we know not on  
+what authority, tells <placeName key='us'>us</placeName>, that on one occasion during the combats,  
+perhaps this particular one, she could not help saying out loud,  
+"<persName key="Hurt">Hurt</persName> not my sweet Charles," or words to that effect. He then  
+pleasantly represents her as doing away s<placeName key='us'>us</placeName>picion by falling to  
+commendation of the Dauphin, and affecting not to know who the  
+conquering knight was; — an ignorance not very probable; but the  
+knights sometimes disguised themselves purposely. </p>
+
+<p>The old king did not long survive his festivities. He died in less  
+than three months, on the first day of the year 1515 3 and <persName key="Brandon">Brandon</persName>,  
+who had been created Duke of Suffolk the year before, re-appeared  
+at the French court, with letters of condolence, and more persuasive  
+looks. The royal widow was young, beautiful, and rich; and it was  
+likely that her hand would be sought by many princely lovers; but  
+she was now resolved to reward herself for her late sacrifice, and in  
+less than two months she privately married her first love. The  
+queen, says a homely but not mean poet (Warner, in his Albion's  
+<placeName key='England'>England</placeName>) thought that to cast too many doubts </p>
+
+<lg><lg xml:id="verse1"><l>Were oft to erre no lesse </l>
+<l>Than to be rash : and th<placeName key='us'>us</placeName> no doubt </l>
+<l>The gentle queen did guesse, </l></lg>
+<lg xml:id="verse2"><l>That seeing this or that, at first </l>
+<l>Or last, had likelyhood, </l></lg>
+<lg xml:id="verse3"><l>A man so much a uianly man </l>
+<l>Were dastardly withstood. </l></lg>
+<lg xml:id="verse4"><l>Then kisses revelled on their lips, </l>
+<l>To cither's equal good. </l></lg></lg>
+
+<p><persName key="Henry">Henry</persName> shewed great anger at first, real or pretended; but he had  
+not then been pampered into unbearable self-will by a long reign of  
+
+<pb n="37"/>
+
+tyranny.  He soon forgave his sister and friend; and they were  
+publicly wedded at Greenwich on the 13th of May. </p>
+
+<p>It was during the festivities on this occasion (at least we believe  
+so, for we have not the chivalro<placeName key='us'>us</placeName> Lord <persName key="Herbert">Herbert</persName>'s life of <persName key="Henry">Henry</persName> the  
+8th by <placeName key='us'>us</placeName>, which is most probably the authority for the story; and  
+being a good thing, it is omitted, as <placeName key='us'>us</placeName>ual, by his historians) that  
+<persName key="Charles <persName key="Brandon">Brandon</persName>">Charles <persName key="Brandon">Brandon</persName></persName> gave a proof of the fineness of his nature, equally  
+j<placeName key='us'>us</placeName>t towards himself, and conciliating towards the jealo<placeName key='us'>us</placeName>. He appeared  
+at a tournament on a saddle-cloth, made half of frize and half  
+of cloth of gold, and with a motto on each half. One of the mottos  
+ran th<placeName key='us'>us</placeName> : — </p>
+
+<lg><l><persName key="Cloth">Cloth</persName> of frize, be not too bold, </l>
+<l>- Though thou art match'd with cloth of gold. </l></lg>
+
+<p>The other : </p>
+
+<lg><l><persName key="Cloth">Cloth</persName> of gold, do not despise, </l>
+<l>Though thou art match'd with cloth of frize. </l></lg>
+
+<p>It is this beautiful piece of sentiment which puts a heart into his  
+history, and makes it worthy remembering. </p>
+</div2>
+<div2 type="section" n="3">
+<head type="header">ON THE HOUSEHOLD GODS OF THE ANCIENTS.</head>
+
+<p>The Ancients had three kinds of ho<placeName key='us'>us</placeName>ehold <persName key="Gods">Gods</persName>, — the <persName key="Daimon">Daimon</persName>  
+(<persName key="Daemon">Daemon</persName>) or Geni<placeName key='us'>us</placeName>, the <placeName key='Penates'>Penates</placeName>, and the <persName key="Lar">Lar</persName>es. The first was  
+supposed to be a spirit allotted to every man from his birth, some say  
+with a companion; and that one of them was a suggester of good  
+thoughts, and the other of evil. It seems, however, that the Geni<placeName key='us'>us</placeName>;  
+was a personification of the conscience, or rather of the prevailing  
+impulses of the mind, or the other self of a man; and it was in this  
+sense most likely that <persName key="Socrates">Socrates</persName> condescended to speak of his well-  
+known <persName key="Daemon">Daemon</persName>, Geni<placeName key='us'>us</placeName>, or Familiar Spirit, who, as he was a good  
+man, always advised him to a good end. The Geni<placeName key='us'>us</placeName> was thought  
+to paint ideas upon the mind in as lively a manner as if in a  
+looking-glass; upon which we chose which of them to adopt. <persName key="Spenser">Spenser</persName>,  
+a most learned as well as imaginative poet, describes it in one of his  
+most comprehensive though not most poetical stanzas, as </p>
+
+<cit><quote><lg><lg xml:id="verse01">
+<l>That celestial <persName key="Powre">Powre</persName>, to whom the care </l>
+<l>Of life, and generation of all </l>
+<l>That lives, pertaine in charge particulare; </l>
+<l>Who wondro<placeName key='us'>us</placeName> things concerning our welfare, </l>
+<l><persName key="And">And</persName> straange phantomes doth lett <placeName key='us'>us</placeName> ofte foresee, </l> 
+<l><persName key="And">And</persName> ofte of secret ills bids <placeName key='us'>us</placeName> beware : </l>
+<l>That is our <placeName key='Selfe'>Selfe</placeName>, whom though we do not see. </l>
+<l>Yet each doth in himselfe it well perceive to bee. </l>
+</lg>
+
+<lg xml:id="verse02"><l>Therefore a god him sage antiquity </l>
+<l>Did wisely make.</l></lg></lg></quote> 
+<note type="source"><bibl><title>Faerie Queene</title>, <biblScope>Book 2, St. 47</biblScope>.</bibl></note></cit>
+
+<p>Of the belief in an Evil Geni<placeName key='us'>us</placeName>, a celebrated example is furnished  
+in <persName key="Plutarch">Plutarch</persName>'s account of Brut<placeName key='us'>us</placeName>'s vision, of which <persName key="Shakspeare">Shakspeare</persName> has  
+given so fine a version (Juli<placeName key='us'>us</placeName> Caesar, Act 4, Sc. 3.).  Beliefs of this  
+
+<pb n="38"/>
+
+kind seem traceable from one superstition to another, and in some  
+instances are no doubt immediately so. But fear, and ignorance,  
+and even the humility of knowledge are at hand to furnish them,  
+where precedent is wanting. There is no doubt however, that the  
+<placeName key='Roman'>Roman</placeName>s, who copied and in general vulgarized the Greek mythology,  
+took their Geni<placeName key='us'>us</placeName> from the Greek <persName key="Daimon">Daimon</persName> : and as the Greek  
+word has survived and taken shape in the common word <persName key="Daemon">Daemon</persName>,  
+which by scornful reference to the Heathen religion came at last to  
+signify a Devil, so the Latin word Geni<placeName key='us'>us</placeName>, not having been <placeName key='us'>us</placeName>ed by  
+the translators of the Greek Testament, has survived with a better  
+meaning, and is employed to express our most genial and intellectual  
+faculties. Such and such a man is said to indulge his geni<placeName key='us'>us</placeName> : — he  
+has a geni<placeName key='us'>us</placeName> for this and that art : — he has a noble geni<placeName key='us'>us</placeName>, an airy  
+geni<placeName key='us'>us</placeName>, an original and peculiar geni<placeName key='us'>us</placeName>. <persName key="And">And</persName> as the <placeName key='Roman'>Roman</placeName>s from  
+attributing a geni<placeName key='us'>us</placeName> to every man at his birth, came to attribute one  
+to places and to soils, and other more comprehensive peculiarities,  
+so we have adopted the same <placeName key='us'>us</placeName>e of the term into our poetical  
+phraseology. We speak also of the geni<placeName key='us'>us</placeName>, or idiomatic peculiarity,  
+of a language. One of the most curio<placeName key='us'>us</placeName> and edifying <placeName key='us'>us</placeName>es of the  
+word Geni<placeName key='us'>us</placeName> took place in the English translation of the French  
+Arabian Nights, which speaks of o\u' old friends the Genie and the  
+Genies. This is nothing more than the French word retained from  
+the original translator, who applied the <placeName key='Roman'>Roman</placeName> word Geni<placeName key='us'>us</placeName> to the  
+Arabian Dive or Elf. </p>
+
+<p>One of the stories -with which Pa<placeName key='us'>us</placeName>anias has enlivened his  
+description of <placeName key='Greece'>Greece</placeName>, is relative to a Geni<placeName key='us'>us</placeName>. He says that one of  
+the companions of Ulysses having been killed by the people of  
+<persName key="Temesa">Temesa</persName>, they were fated to sacrifice a beautiful virgin every year  
+to his manes. They were about to immolate one as <placeName key='us'>us</placeName>ual, when  
+Euthym<placeName key='us'>us</placeName>, a conqueror in the Olympic Games, touched with pity  
+at her fate and admiration of her beauty, fell in love with her, and  
+resolved to try if he could not put an end to so terrible a c<placeName key='us'>us</placeName>tom.  
+He accordingly got permission from the state to marry her, provided  
+he could rescue her from her dreadful expectant. He armed himself,  
+waited in the temple, ' and the Geni<placeName key='us'>us</placeName> appeared. It was said  
+to have been of an appalling presence. It's shape was every way  
+formidable, it's colour of an intense black; and it was girded about  
+with a wolf-skin. But Euthym<placeName key='us'>us</placeName> fought and conquered it; upon  
+which it fled madly, not only beyond the walls, but the utmost  
+bounds of <persName key="Temesa">Temesa</persName>, and r<placeName key='us'>us</placeName>hed into the sea. </p>
+
+<p>The <placeName key='Penates'>Penates</placeName> were <persName key="Gods">Gods</persName> of the ho<placeName key='us'>us</placeName>e and family. Collectively  
+speaking, they also presided over cities, public roads, aad at last over  
+all places with which men were conversant. Their chief government  
+however was supposed to be over the most inner and secret part  
+of the ho<placeName key='us'>us</placeName>e, and the subsistence and welfare of it's inmates. They  
+were chosen at will out of the number of the gods, as the <placeName key='Roman'>Roman</placeName> in  
+modern times chose his favourite saint. In fact, they were only the  
+higher gods themselves, descending into a kind of ho<placeName key='us'>us</placeName>ehold familiarity  
+They were the personification of a particular <placeName key='Providence'>Providence</placeName>. The  
+
+<pb n="39"/>
+
+most striking mention of the <placeName key='Penates'>Penates</placeName> which we can call to mind is  
+in one of Virgil's most poetical passages. It is where they appear  
+to Mneas, to warn him from Crete, and announce his destined  
+empire in <placeName key='Italy'>Italy</placeName>.  (Book 3, v. 147.) </p>
+
+<lg xml:lang="latin"> <l><placeName key='Nox'>Nox</placeName> erat, et terris animalia soma<placeName key='us'>us</placeName> habebat. </l>
+<l>Effigies sacrse divom, Phrygiique <placeName key='Penates'>Penates</placeName>, </l>
+<l>Quos meeum a <placeName key='Troja'>Troja</placeName>, mediisque ex ignibis urbis </l>
+<l>Extuleram, visi ante oculos adstare jacentis </l>
+<l>In somnis, multo manifesti luraine, qua se. </l>
+<l><persName key="Plena">Plena</persName> per insertas fundebat luna fenestras. </l></lg>
+
+<p>'Twas night; and sleep was on all living things.  
+I lay, and saw before my very eyes  
+<persName key="Dread">Dread</persName> shapes of gods, and Phrygian -deities,  
+The great <placeName key='Penates'>Penates</placeName>; whom with reverent joy  
+I bore from out the heart of burning <placeName key='Troy'>Troy</placeName>.  
+Plainly I saw there, standing in the light  
+Which the moon poured into the room that night. </p>
+
+<p><persName key="And">And</persName> again, after they had addressed him, — </p>
+
+<lg xml:lang="latin"><l>Nee sopor illud erat; sed coram agnoscere vult<placeName key='us'>us</placeName>, </l>
+<l>Velatasque comas, prassentiaque ora videbar: </l> 
+<l>Turn gelid<placeName key='us'>us</placeName> toto manahat corpora sudor. </l></lg>
+
+<p>It was no dream : I saw them face to face,  
+Their hooded hair; and felt them so before  
+My being, that I burst at every pore. </p>
+
+<p>The <persName key="Lar">Lar</persName>es or <persName key="<persName key="Lar">Lar</persName>s"><persName key="Lar">Lar</persName>s</persName>, were the lesser and most familiar ho<placeName key='us'>us</placeName>ehold  
+gods; and though their offices were afterwards extended a good deal,  
+in the same way as those of the <placeName key='Penates'>Penates</placeName>, with whom they are often  
+wrongly confounded, their principal sphere was the fire-place. This  
+was in the middle of the room; and the statues of the <persName key="Lar">Lar</persName>es generally  
+stood about it in little niches. They are said to have been in the  
+shape of monkies; more likely mannikins, or rude little human  
+images. Some were made of wax, some of stone, and others doubtless  
+of any material for sculpture. They were represented with good-  
+natured grinning countenances, were clothed in skins, and had little  
+dogs at their feet. Some writers make them the offspring of the  
+goddess <placeName key='Mania'>Mania</placeName>, who presided over the spirits of the dead; and  
+suppose that originally they were the same as those spirits; which is a  
+very probable as well as agreeable superstition, the old nations of  
+<placeName key='Italy'>Italy</placeName> having been acc<placeName key='us'>us</placeName>tomed to bury their dead in their ho<placeName key='us'>us</placeName>es.  
+Upon this supposition, the good or "benevolent spirits were called  
+Familiar <persName key="Lar">Lar</persName>es, and the evil or malignant ones <persName key="Lar">Lar</persName>vaj and <persName key="Lemures">Lemures</persName>.  
+Th<placeName key='us'>us</placeName> <persName key="Milton">Milton</persName>, in his awful Hymn on the Nativity : — </p>
+
+<lg><l>In consecrated earth. </l>
+<l><persName key="And">And</persName> on the holy hearth. </l>
+<l>The <persName key="<persName key="Lar">Lar</persName>s"><persName key="Lar">Lar</persName>s</persName>, and <persName key="Lemures">Lemures</persName> moan with midnight plaint. </l>
+<l>In urns and altars round, </l>
+<l>A drear and dying sound </l>
+<l>Affrights the Flamens at their service quaint; </l>
+<l><persName key="And">And</persName> the chill marble seems to sweat. </l>
+<l>While each peculiar <persName key="Power">Power</persName> foregoes his wanted seat. </l></lg>
+
+<p>But <persName key="Ovid">Ovid</persName> tells a story of a gossiping nymph <placeName key='<persName key="Lar">Lar</persName>a'><persName key="Lar">Lar</persName>a</placeName>, who having  
+told <persName key="Juno">Juno</persName> of her h<placeName key='us'>us</placeName>band's amour with <placeName key='Juturna'>Juturna</placeName>, was "sent to hell"  
+
+<pb n="40"/>
+
+by him, and courted by Mercury on the road 3 the consequence of  
+which was the birth of the <persName key="Lar">Lar</persName>es. This seems to have a natural  
+reference enough to the gossiping over fire-places. </p>
+
+<p>It is impossible not to be struck with the resemblance between  
+these lesser ho<placeName key='us'>us</placeName>ehold gods and some of the offices of our old English  
+elves and fairies. But of them^ more by and by. Dacier, in a note  
+upon <persName key="Horace">Horace</persName> (Book 1, Od. 12.) informs <placeName key='us'>us</placeName>, that in some parts of  
+<placeName key='Languedoc'>Languedoc</placeName>, in his time, the fire-place was still called the <persName key="<persName key="Lar">Lar</persName>j"><persName key="Lar">Lar</persName>j</persName> and  
+that the name was also given to ho<placeName key='us'>us</placeName>es. </p>
+
+<p><persName key="Heriick">Heriick</persName>, an excellent poet of the Apacreontic order in the time of  
+<persName key="Elizabeth">Elizabeth</persName>, whose works we shall often have occasion to recommend  
+to the reader, and who was visited perhaps more than any poet that  
+ever lived with a sense of the pleasantest parts of the cheerful  
+mythology of the ancients, has written some of his lively little odes upon  
+the <persName key="Lar">Lar</persName>es. We have not them by <placeName key='us'>us</placeName> at this moment, but we remember  
+one beginning, — </p>
+
+<lg><l>It was, and still my care is, </l>
+<l>To worship you, the <persName key="Lar">Lar</persName>es. </l></lg>
+
+<p>We take the opportunity of the <persName key="<persName key="Lar">Lar</persName>s"><persName key="Lar">Lar</persName>s</persName>' being mentioned in it, to  
+indulge ourselves, and we hope our readers, in a little poem of  
+<persName key="Martial">Martial</persName>'s, very charming for it's simplicity. It is an Epitaph on a child  
+of the name of Erotion. </p>
+
+<lg xml:lang="latin"> <l>Hie festinata requiescit Erotion umbra, </l>
+<l><placeName key='Criraine'>Criraine</placeName> quam fati sexta peremit hiems. </l>
+<l>Quisquis eris nostri post me regnator agelli, </l>
+<l>Manib<placeName key='us'>us</placeName> exiguis annua j<placeName key='us'>us</placeName>ta dato. </l>
+<l>Sic <persName key="Lar">Lar</persName>e perpetuo, sic turba sospite, sol<placeName key='us'>us</placeName> </l>
+<l>Flebilis in terra sit lapis iste tua, </l></lg>
+</div2>
+<div2 type="section" n="4">
+<head type="header" rend="center">THE EPITAPH OF EROTION.</head>
+
+<lg><l>Underneath this greedy stone. </l>
+<l>Lies little sweet Erotion; </l>
+<l>Whom the fates, with hearts as cold. </l>
+<l>Nipt away at six years old. </l>
+<l>Thou, whoever thou mayst be, </l>
+<l>That hast this small field after me, </l>
+<l>Let the yearly rites be paid </l>
+<l>To her little slender shade; </l>
+<l>So shall no disease or jar </l>
+<l><persName key="Hurt">Hurt</persName> thy ho<placeName key='us'>us</placeName>e, or chill thy <persName key="Lar">Lar</persName>; </l>
+<l>But this tomb here be alone, </l>
+<l>The only melancholy stone. </l></lg>
+</div2>
+
+<div2 type="correspondents"> <!-- Publisher and printer information -->
+<p>We understand that many of our readers mistook the story of the <persName key="Beau Miser">Beau Miser</persName> in our last number for a true one, or at least for one founded on fact. We wish to correct this mistake; and shall make a point hereafter of a wording any thing we write in the shape of a narrative, that a mere fiction shall not be confounded with our personal experience. For we would keep the truth of our testimony undisputed. — The fact is, that the story was originally intended to be one of a series told by an imaginary set of persons, after the fashion of the Decameron; and the manner of it became 
+modified accordingly.</p> 
+
+<p>The first number of the <hi rend="smallcaps">Indicator</hi> is being re-printed, and will be ready in a few days. </p>
+                <p>Persons in the country who wish to become subscribers, should therefore order it of booksellers who send weekly or monthly parcels to their respective places of residence. 
+                The delay would be of little consequence with a work not containing 
+                any thing of merely temporary interest.</p> 
+                </div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, London.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+ 

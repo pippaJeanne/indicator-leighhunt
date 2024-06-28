@@ -56,7 +56,7 @@ Types:
         <!--Quoted elements exist here. They can be formatted normally (i.e. <lg> and <l> for verse, <p> for prose).-->
     </quote>
     <note type="source"> 
-        <bibl> </bibl>
+        <bibl><author>name  of author</author><title level="a">title</title><ref target="url"/></bibl> </bibl>
     </note>
 </cit>
  ```
@@ -123,4 +123,35 @@ Verses containing more than one line should be encoded with  a ```<lg>``` tag co
 <l></l>
 <l></l>
 </lg>
+```
+### title tag
+The title tag includes an attribute level. Refer to the following reference to choose the right value:
+Legal values are:	
+- a (analytic) the title applies to an analytic item, such as an article, poem, or other work published as part of a larger item.
+- m (monographic) the title applies to a monograph such as a book or other item considered to be a distinct publication, including single volumes of multi-volume works
+- j (journal) the title applies to any serial or periodical publication such as a journal, magazine, or newspaper
+- s (series) the title applies to a series of otherwise distinct publications such as a collection
+- u (unpublished) the title applies to any unpublished material (including theses and dissertations unless published by a commercial press)
+Example : ```<title level="a">Sonnet 12</title>```
+
+### persName
+Examples
+```xml
+<!--first occurrence of many-->
+<persName key="Robert Boyle" ref="http://www.wikidata.org/entity/Q43393" cert="medium" type="real" xml:id="robertBoyle">Robert Boyle</persName> 
+<!--other occurrences of same key-->
+<persName key="Robert Boyle" type="real" corresp="#robertBoyle">Mr. Boyle</persName>
+
+<!--unique occurrence-->
+<persName key="King James VI of Scotland and I of England (1566–1625)" ref="http://www.wikidata.org/entity/Q118876108" cert="high" type="real">King James</persName>
+
+```
+
+### placeName
+Indicate country in @corresp attribute when the placeName tag does not contain the name of a country.
+
+Example:
+
+```xml
+<placeName key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName>
 ```

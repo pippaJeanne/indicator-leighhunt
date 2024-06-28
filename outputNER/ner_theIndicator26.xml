@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/c<placeName key='us'>us</placeName>tom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be <placeName key='us'>us</placeName>ed as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your <placeName key='us'>us</placeName>e case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>
+                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                    </author>
+                    ,
+                    <title>The Indicator</title>
+                    <date when="1820-04-05">April
+                    5th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph
+                    Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers
+                are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="26">
+                <pb n="201" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l><persName key="And">And</persName> takes survey with b<placeName key='us'>us</placeName>ie, curio<placeName key='us'>us</placeName> eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser"
+                                ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XXVI.—WEDNESDAY, April 5th, 1820.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">Deaths of Little Children.</head>
+                    <p><hi rend="smallcaps">A Grecian</hi> philosopher being asked why he wept for
+                        the death of his son, since the sorrow was in vain, replied, <q>I weep on
+                        that very
+                            account.</q> <persName key="And">And</persName> his answer became his wisdom. It is only for sophists
+                        to pretend that we, whose eyes contain the fountains of tears, need never
+                        give way to them. It would be unwise not to do so on some occasions. Sorrow
+                        unlocks them in her balmy moods. The first bursts may be bitter and
+                        overwhelming; but the soil, on which they pour, would be the worse without
+                        them. They refresh the fever of the soul,—the dry misery, which parches the
+                        countenance into furrows, and renders <placeName key='us'>us</placeName> liable to our most terrible <soCalled>
+                        flesh-quakes.</soCalled> There are sorrows, it is true, so great, that to
+                        give them some of the ordinary vents is to run a hazard of being overthrown.
+                        These we m<placeName key='us'>us</placeName>t rather strengthen ourselves to resist; or bow quietly and
+                        drily down, in order to let them pass over <placeName key='us'>us</placeName>, as the traveller does the
+                        wind of the desert. But where we feel that tears would relieve <placeName key='us'>us</placeName>, if is
+                        false philosophy to deny ourselves at least that first refreshment; and it
+                        is always false consolation to tell people that beca<placeName key='us'>us</placeName>e they cannot help a
+                        thing, they are not to mind it. The true way is, to let them, grapple with
+                        the unavoidable sorrow, and try to win it into gentleness by a reasonable
+                        yielding. There are griefs so gentle in their very nature, that it would be
+                        worse than false heroism to ref<placeName key='us'>us</placeName>e them a tear. Of this kind are the deaths
+                        of infants. Particular circumstances may render it more or less advisable to
+                        indulge in grief for the loss of a little child; but in general, parents
+                        should be no more advised to repress their first tears on such an occasion,
+                        than to repress their smiles towards a child surviving, or to indulge in any
+                        other sympathy. It is an appeal to the same gentle tenderness; and such
+                        appeals are never made in vain. The end of them is an acquittal from the
+                        harsher bonds <pb n="202" /> of affliction,—from the tying down of the
+                        spirit to one melancholy idea. </p>
+                    <p>It is the nature of tears of this kind, howerer strongly they may g<placeName key='us'>us</placeName>h forth,
+                        to run into quiet waters at last. We cannot easily, for the whole course of
+                        our lives, think with pain of any good and kind person whom we have lost. It
+                        is the divine nature of their qualities to conquer pain and death itself; to
+                        turn the memory of them into pleasure; to survive with a placid aspect in
+                        our imaginations. We are writing, at this moment, j<placeName key='us'>us</placeName>t opposite a spot which
+                        contains the grave of one inexpressibly dear to <placeName key='us'>us</placeName>. We see from our window
+                        the trees about it, and the church-spire. The green fields lie around. The
+                        clouds are travelling over head, alternately taking away the sunshine and
+                        restoring it. The vernal winds, piping of the flowery summer-time, are
+                        nevertheless calling to mind the far distant and dangero<placeName key='us'>us</placeName> ocean, which the
+                        heart that ires in that grave had many reasons to think of. <persName key="And">And</persName> yet the
+                        sight of this spot does not give <placeName key='us'>us</placeName> pain. So far from it, it is the
+                        existence of that grave which doubles every charm of the spot; which links
+                        the pleasures of our childhood and manhood together; which puts a h<placeName key='us'>us</placeName>hing
+                        tenderness in the winds, and a patient joy upon the landscape; which seems
+                        to unite heaven and earth, mortality and immortality, the grass of the tomb
+                        and the grass of the green field, and gives a more maternal aspect to the
+                        whole kindness of nature. It does not hinder gaiety itself. Happiness was
+                        what <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> tenant, through all her
+                        troubles, would have diff<placeName key='us'>us</placeName>ed. To diff<placeName key='us'>us</placeName>e happiness, and to enjoy it, is not
+                        only carrying on her wishes, but realizing her hopes; and gaiety, freed from
+                        it's only pollutions, malignity and want of sympathy, is but a child playing
+                        about the knees of <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> mother. </p>
+                    <p>The remembered innocence and endearments of a child stand <placeName key='us'>us</placeName> instead
+                        of virtues that have died older. Children have not exercised the
+                        voluntary offices of friendship; they have not chosen to be kind and
+                        good to <placeName key='us'>us</placeName>; nor stood by <placeName key='us'>us</placeName>, from conscio<placeName key='us'>us</placeName> will, in the hour of adversity,
+                        But they have shared their pleasures and pains with <placeName key='us'>us</placeName> as well
+                        as they could: the interchange of good offices between <placeName key='us'>us</placeName> has, of
+                        necessity, been less mingled with the troubles of the world; the
+                        sorrow arising from their death is the only one, which we can associate
+                        with their memories. These are happy thoughts that cannot
+                        die. Our loss may always render them pensive; but they will not
+                        always be painful. It is a part of the benignity of Nature, that pain
+                        does not survive like pleasure, at any time; much less where the ca<placeName key='us'>us</placeName>e
+                        of it is an innocent one. The smile will remain reflected by memory;
+                        as the moon reflects the light upon <placeName key='us'>us</placeName>, when the sun has gone into
+                        heaven. </p>
+                    <p>When writers like ourselves quarrel with earthly pain, (we mean writers of
+                        the same intentions, without implying, of course, any thing about abilities
+                        or otherwise) they are misunderstood if they are supposed to quarrel with
+                        pains of every sort. This would be idle and effeminate. They do not pretend
+                        indeed, that humanity might not wish, if it could, to be entirely free from
+                        pain; for it endeavours at all <pb n="203" /> times to turn pain into
+                        pleasure, or at least to set off the one with the other; to make the former
+                        a zest, and the latter a refreshment. The most unaffected dignity of
+                        suffering does this; and if wise, acknowledges it. The greatest benevolence
+                        towards others, the most unselfish relish of their pleasures, even at <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> own expense, does but
+                        look to <choice>
+                            <corr>increasing</corr>
+                            <sic>encreasing</sic>
+                        </choice> the general stock
+                        of happiness, though content, if it could, to have <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> identity swallowed up
+                        in that splendid contemplation. We are far from meaning that this is to be
+                        called selfishness. We are far indeed from thinking so, or of so confounding
+                        words. But neither is it to be called pain, when most unselfish; if
+                        disinterestedness be truly understood. The pain that is in it softens into
+                        pleasure, as the darker hue of the rainbow melts into the brighter. Yet even
+                        if a harsher line is to be drawn between the pain and pleasure of the most
+                        unselfish mind, (and ill health, for instance, may draw it), we should not
+                        quarrel with it, if it contributed to the general mass of comfort, and were
+                        of a nature which general kindliness could not avoid. Made as we are, there
+                        are certain pains, without which it would be difficult to conceive certain
+                        great and overbalancing pleasures. We may conceive it possible for beings to
+                        be made entirely happy: but in our composition, something of pain seems to
+                        be a necessary ingredient, in order that the materials may turn to as fine
+                        account as possible; though our clay, in the course of ages and experience,
+                        may be refined more and more. We may get rid of the worst earth, though not
+                        of earth itself. </p>
+                    <p>Now the liability to the loss of children,—or rather what renders <placeName key='us'>us</placeName> sensible
+                        of it, the occasional loss itself,—seems to be one of these necessary
+                        bitters thrown into the cup of humanity. We do not mean that every body m<placeName key='us'>us</placeName>t
+                        lose one of his children, in order to enjoy the rest; or that every
+                        individual loss afflicts <placeName key='us'>us</placeName> in the same proportion. We allude to the deaths
+                        of infants in general. These might be as few as we could render them. But if
+                        none at all ever took place, we should regard every little child as a man or
+                        woman secured; and it will easily be conceived, what a world of endearing
+                        cares and hopes this security would endanger. The very idea of infancy would
+                        lose <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> continuity with <placeName key='us'>us</placeName>.
+                        Girls and boys would be future men and women, not present children. They
+                        would have attained their full growth in our imaginations, and might as well
+                        have been men and women at once. On the other hand, those who have lost an
+                        infant, are never, as it were, without an infant child. They are the only
+                        persons, who, in one sense, retain it always; and they furnish their
+                        neighbours with the same idea.<note type="hunt">
+                            <cit><quote>
+                                    <q>I sighed,<seg type="incise"> says old Captain <persName key="Bolton">Bolton</persName>, </seg>when
+                        I envied you the two bonnie children, but I sigh not now to call either the
+                        monk or the soldier mine own."</q>
+                                </quote>
+<bibl>
+                                    <title>Monastery</title>, <biblScope>Vol. III, p. 341</biblScope>.
+                                </bibl>
+                        </cit>
+                        </note> The other children grow up to manhood
+                        and womanhood, and suffer all the changes of mortality. This one alone is
+                        rendered an immortal child. Death has arrested it with his kindly harshness,
+                        and blessed it into an eternal image of youth and innocence.</p>
+                    <pb n="204" />
+                    <p>Of such as these are the pleasantest shapes that visit our fancy and our
+                        hopes. They are the ever-smiling emblems of joy; the prettiest pages that
+                        wait upon imagination. Lastly, <cit><q>of these are the kingdom
+                            of heaven.</q><note type="source">A paraphrasing of vario<placeName key='us'>us</placeName> phrases from <placeName key='Matthew'>Matthew</placeName> (5:3; 5:10; 19:14). </note></cit> Wherever there is a province of that benevolent and
+                        all-accessible empire, whether on earth or elsewhere, such are the gentle
+                        spirits that m<placeName key='us'>us</placeName>t inhabit it. To such simplicity, or the resemblance ot it,
+                        m<placeName key='us'>us</placeName>t they come. Such m<placeName key='us'>us</placeName>t be the ready confidence of their hearts, and
+                        creativeness of their fancy. <persName key="And">And</persName> so ignorant m<placeName key='us'>us</placeName>t they be of the <cit><q>knowledge
+                        of good and evil,</q><note type="source">Genesis 2:9; 2:17. </note></cit> losing their discernment of that self-created trouble,
+                        by enjoying the garden before them, and not being ashamed of what is kindly
+                        and innocent.
+                    </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <head type="header">Anomalies of Shape. The Story of Cyllar<placeName key='us'>us</placeName> and <persName key="Hylonome">Hylonome</persName>.</head>
+                    <p>It is not one of the least instances of the force of habit, to see how poetry
+                        and mythology can reconcile <placeName key='us'>us</placeName> to shapes, or rather combinations of shape,
+                        unlike any thing in nature. The dog-headed deities of the Egyptians were
+                        doubtless not so monstro<placeName key='us'>us</placeName> in their eyes, as in ours. The Centaurs of the
+                        Greeks, as we shall see presently, could be imagined possessing beauty
+                        enough for a sort of human love-story: and our imaginations find nothing at
+                        all monstro<placeName key='us'>us</placeName> in the idea of an angel, though it partakes of the nature of
+                        the bird. The angel, it is true, is the least departure from humanity. It's
+                        wings are not an alteration of the human shape, but an addition to it. Yet,
+                        leaving a more awful wonder out of the question, we should be startled to
+                        find pinions growing out of the shoulder-blades of a child; and we should
+                        wait with anxiety to see of what nature the pinions were, till we became
+                        reconciled to them. If they turned out to be ribbed and webbed like those of
+                        the imaginary dragon, conceive the horror. If, on the other hand, they
+                        became feathers, and tapered off like those of a gigantic bird, comprising
+                        also grace and splendour as well as the power of flight, we can easily fancy
+                        ourselves reconciled to them. <persName key="And">And</persName> yet again, on the other hand, the Flying
+                        Women, described in the Adventures of <persName key="Peter">Peter</persName> Wilkins, do not shock <placeName key='us'>us</placeName>, though
+                        their wings partake of the ribbed and webbed nature, and not at all of the
+                        feathered. We admire <persName key="Peter">Peter</persName>'s gentle and beautiful bride, notwithstanding the
+                        phenomenon of the Graundee, <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> light whalebone-like
+                        intersections, and <choice>
+                            <corr>its</corr>
+                            <sic>it's</sic>
+                        </choice> power of dropping about
+                        her like drapery. It even becomes a matter of pleasant curiosity. We find it
+                        not at all in the way. We can readily apprehend the delight he felt at
+                        possessing a creature so kind and sensitive; and can sympathize with him in
+                        the happiness of that bridal evening, equally removed from prudery and
+                        grossness, which he describes with a mixture of sentiment and voluptuo<placeName key='us'>us</placeName>ness
+                        beyond all the bridals we ever read. </p>
+                    <pb n="205" />
+                    <p>To Imagine any thing like a sympathy of this kind, it is of course necessary
+                        that the difference of form should consist in addition, and, not in
+                        alteration. But the un-angel-like texture of the flying apparat<placeName key='us'>us</placeName> of fair
+                        <persName key="Youwarkee">Youwarkee</persName> (such, if we remember, is her name) helps to <choice>
+                            <corr>show</corr>
+                            <sic>shew</sic>
+                        </choice> <placeName key='us'>us</placeName> the main reason why
+                        we are able to receive pleasure from the histories of creatures only
+                        half-human. The habit of reading prevents the first shock; but we are
+                        reconciled in proportion to their possession of what we are pleased to call
+                        human qualities. Kindness is the great elevator. The Centaurs may have
+                        killed all the <placeName key='Lapithae'>Lapithae</placeName>, and <choice>
+                            <corr>shown</corr>
+                            <sic>shewn</sic>
+                        </choice> considerable
+                        generalship to boot, without reconciling <placeName key='us'>us</placeName> to the brute part of them; but
+                        the brutality melts away before the story of their two lovers in <persName key="Ovid">Ovid</persName>.
+                        Drunkenness and rapine make beasts of them;—sentiment makes human beings.
+                        Polyphem<placeName key='us'>us</placeName> in Homer is a shocking monster, not beca<placeName key='us'>us</placeName>e he has only one eye,
+                        but beca<placeName key='us'>us</placeName>e he murders and eats our fellow-creatures. But in Theocrit<placeName key='us'>us</placeName>,
+                        where he is Galatea's lover, and sits hopelessly lamenting his passion, we
+                        only pity him. His deformity even increases our pity. We blink the question
+                        of beauty, and become one-eyed for his sake. Nature seems to do him an
+                        inj<placeName key='us'>us</placeName>tice in gifting him with sympathies so human, and at the same time
+                        preventing them from being answered: and we feel impatient with the
+                        all-beautiful Galatea, if we think she ever <choice>
+                            <corr>showed</corr>
+                            <sic>shewed</sic>
+                        </choice> him scorn as well as
+                        unwillingness. We insist upon her avoiding him with the greatest possible
+                        respect. </p>
+                    <p>These fictions of the poets therefore, besides the mere excitement which they
+                        give the imagination, assist remotely to break the averseness and
+                        uncharitableness of human pride. <persName key="And">And</persName> they may blunt the point of some
+                        fancies that are apt to come upon melancholy minds. When Sir <persName key="Thomas Brown">Thomas Brown</persName>,
+                        in the infinite range of his metaphysical optics, turned his glass, as he no
+                        doubt often did, towards the inhabitants of other worlds, the stories of
+                        angels and Centaurs would help his imaginative good nature to a more willing
+                        conception of creatures in other planets unlike those on earth; to other <q>lords
+                        of creation;</q> and other, and perhaps nobler humanities, nobler in spirit,
+                        though differing in form. If indeed there can be any thing in the starry
+                        endlessness of existence, nobler than what we can conceive of love and
+                        generosity. </p>
+                    <p>But to our story. <persName key="Ovid">Ovid</persName>, in one of the finest parts of his Metamorphoses, has
+                        recounted the famo<placeName key='us'>us</placeName> battle of the Centaurs and <placeName key='Lapithae'>Lapithae</placeName>. Our countrymen
+                        have the happiness of possessing, in another shape, another fine poem on the
+                        same subject; we mean the divine sculptures of <persName key="Phidias">Phidias</persName>.<note type="hunt"> We
+                        never observed till the other day, that in these Marbles the Centaurs are no
+                        taller than the <placeName key='Lapithae'>Lapithae</placeName>. Upon thinking of the matter, we believe it is also
+                        the same in most engravings, where Centaurs are introduced; certainly in
+                        some old ones. We are to imagine of course, not that the Centaurs were of
+                        the same height as men of <q>this degenerate age,</q> and ran about with
+                        Welch ponies behind them, but that they and the <placeName key='Lapithae'>Lapithae</placeName> were of gigantic
+                        stature, and the horse-part as large as the finest of our modern steeds. An
+                        awkward difficulty seems still to remain; since the horse, however large,
+                        m<placeName key='us'>us</placeName>t be comparatively small to a horse fit for a Lapithite to ride. But the
+                        reader is to suppose, that there were no horses in those days to provoke the
+                        comparison. The notion of the <q>half-horsie</q> people (as Spenser, in a
+                        true spirit of poetical composition, ventures to call them), originated in
+                        the wonder with which men on horse-back were first regarded. When the
+                        Mexicans first beheld Cortes and his cavalry, they were struck with the same
+                        idea. </note> But <persName key="Ovid">Ovid</persName> is as powerful in his way, as the <pb n="206" />
+                        English reader may see in the versions of <persName key="Dryden">Dryden</persName> and <persName key="Sandys">Sandys</persName>. <persName key="Phidias">Phidias</persName> has
+                        relieved the ferocity of his story with some exquisite figures of women. One
+                        in particular, who seems fainting, is the very gentle essence of womanhood
+                        personified. <persName key="Ovid">Ovid</persName>, more exuberant, though not more touching in his
+                        imagination, has carried the refinement farther; and contradicting, or
+                        rather varying, with a solitary and striking exception, the general
+                        character given of Centaurs, has introduced two of them as lovers,
+                        remarkable for their gentleness and beauty, and dying side by side. The
+                        story is, that Piritho<placeName key='us'>us</placeName> having invited <q>the half-horsie people</q> to his
+                        wedding-feast, when he married Hippodamia, one of them was so inflamed with
+                        the beauty of the bride, that he started up in the midst of the drinking and
+                        caro<placeName key='us'>us</placeName>ing, and attempted to carry her off. These<placeName key='us'>us</placeName>, the friend of Piritho<placeName key='us'>us</placeName>,
+                        seized a great antique goblet, craggy with sculpture, and dashed his face to
+                        shatters with it, so that he died. The other Centaurs, seeing their brother
+                        killed, grew frantic with revenge; and a tremendo<placeName key='us'>us</placeName> battle ensued. The whole
+                        account fills the ear and the imagination, like an enormo<placeName key='us'>us</placeName> uproar. It is a
+                        gigantic hubbub, full of huge fists, hoofs, weapons, and flying furniture,
+                        chandeliers torn down, and tables snatched up, shrieks of females, and
+                        roarings and tramplings of men and half-men. One of the <placeName key='Lapithae'>Lapithae</placeName> makes
+                        nothing of rending away a door-post that would load a waggon: and a Centaur
+                        tears up an altar with fire upon it, and sends it blazing among the enemy.
+                        The difterent modes in which the deaths are inflicted are as vario<placeName key='us'>us</placeName> any in
+                        Homer; and the poet, with admirable propriety, has given his battle all the
+                        additional interest, which the novelty of the figures engaged in it could
+                        suggest. </p>
+                    <p>The episode of the two lovers comes but of all this hideo<placeName key='us'>us</placeName> turbulence,
+                        like the dropping of rain from the eaves after a thunder-storm.
+                        If we are asked why we translate it after <persName key="Dryden">Dryden</persName> and <persName key="Sandys">Sandys</persName>, it will
+                        be sufficient to answer that it gave <placeName key='us'>us</placeName> some pleasant moments to do so;
+                        and that we would rather, on these occasions, furnish something original
+                        to the reader than translated. But our readers and we are not
+                        quarrelsome parties. With regard to the measure, we have chosen it
+                        as the most capable of expressing the alternate laxity and compression,
+                        for which <persName key="Ovid">Ovid</persName>'s style is remarkable. We found the heroic couplet
+                        hamper <placeName key='us'>us</placeName>, tending either to too great length or the reverse of
+                        it. With the old ballad measure before <placeName key='us'>us</placeName>, one may do as one
+                        pleases; and there is something in it that suits the simplicity of the
+                        affections.</p>
+                    <lg type="poem">
+                        <lg type="stanza">
+                            <l>Nor could thy beauty, Cyllar<placeName key='us'>us</placeName>, </l>
+                            <l rend="indent">Protect thee in the fray; </l>
+                            <l>If we may speak of shapes like thine </l>
+                            <l rend="indent">After a human way. </l>
+                        </lg>
+                        <pb n="207" />
+                        <lg type="stanza">
+                            <l>His beard was in the flowery bud </l>
+                            <l rend="indent">Touched, like his hair, with gold; </l>
+                            <l><persName key="And">And</persName> down beneath his shoulder blades </l>
+                            <l rend="indent">His tresses ran and rolled. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>An earnest cheer was in his look; </l>
+                            <l rend="indent"><persName key="And">And</persName> every human part, </l>
+                            <l>His neck, his shoulders, hands, and breast, </l>
+                            <l rend="indent">Matched with the proudest art. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>Such was his look and shape, to where </l>
+                            <l rend="indent">The nether form began; </l>
+                            <l>Nor where he put the courser on, </l>
+                            <l rend="indent">Dishonoured he the man. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>Ev'n Castor might have ridden him, </l>
+                            <l rend="indent">But for his double make; </l>
+                            <l>So built with m<placeName key='us'>us</placeName>cle was his chest, </l>
+                            <l rend="indent">So rideable his back. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l><persName key="And">And</persName> blacker was his noble hue </l>
+                            <l rend="indent">Than is the pitchy night; </l>
+                            <l>Only a snowy tail and feet </l>
+                            <l rend="indent">Finished his look with light. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>Many fair creatures of his kind </l>
+                            <l rend="indent">Besought his love; but he </l>
+                            <l>Was borne away by only one, </l>
+                            <l rend="indent">The sole <persName key="Hylonome">Hylonome</persName>. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>No gentle woman-hearted thing </l>
+                            <l rend="indent">Of all the half-human race, </l>
+                            <l>Carried about the shady woods </l>
+                            <l rend="indent">A more becoming grace. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>With pretty natural blandishments, </l>
+                            <l rend="indent"><persName key="And">And</persName> loving, and at last </l>
+                            <l><persName key="Owning">Owning</persName> her love with rosy talk, </l>
+                            <l rend="indent">She bound the conqueror fast. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>Her limbs, as much as in her lay, </l>
+                            <l rend="indent">She kept adorned with care, </l>
+                            <l><persName key="And">And</persName> took especial pride to sleek </l>
+                            <l rend="indent">Her lightsome locks of hair. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>With rosemary she wreathed them now, </l>
+                            <l rend="indent">With violets and the rose; </l>
+                            <l><persName key="And">And</persName> now betwixt their glossy black, </l>
+                            <l rend="indent">Sparkled the lily snows. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>No vest but of the choicest skin, </l>
+                            <l rend="indent"><persName key="And">And</persName> suiting her, she wore, </l>
+                            <l>About her shoulder crossing round </l>
+                            <l rend="indent"><placeName key='Beside'>Beside</placeName> her and before. </l>
+                        </lg>
+                        <pb n="208" />
+                        <lg type="stanza">
+                            <l><persName key="And">And</persName> twice a day, in lapsing wells </l>
+                            <l rend="indent">That from the woods came down, </l>
+                            <l>She bathed her face; and twice a day, </l>
+                            <l rend="indent">She bathed from sole to crown. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>Equal alike the beauty was, </l>
+                            <l rend="indent">Equal the love in either; </l>
+                            <l>They roamed the mountains hand in hand, </l>
+                            <l rend="indent"><persName key="And">And</persName> sheltered close together. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l><persName key="And">And</persName> th<placeName key='us'>us</placeName> did they attend that day </l>
+                            <l rend="indent">The Lapithean bride; </l>
+                            <l>Th<placeName key='us'>us</placeName> came together, and th<placeName key='us'>us</placeName> fought, </l>
+                            <l rend="indent">Together, side by side. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>A javelin from an unknown hand </l>
+                            <l rend="indent">Came with too sure a dart, </l>
+                            <l><persName key="And">And</persName> pierced in thee, poor Cyllar<placeName key='us'>us</placeName>, </l>
+                            <l rend="indent">Right to the very heart. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>He drew the bitter weapon out, </l>
+                            <l rend="indent"><persName key="And">And</persName> shuddering all over, </l>
+                            <l><persName key="Fell">Fell</persName> against pale <persName key="Hylonome">Hylonome</persName>, </l>
+                            <l rend="indent">Whose arms received her lover. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l><persName key="And">And</persName> with her hand she nursed the wound, </l>
+                            <l rend="indent">Of which he fast was dying, </l>
+                            <l><persName key="And">And</persName> hurried mouth to mouth, and tried </l>
+                            <l rend="indent">To stop his soul from flying. </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l>But when she found it all in vain, </l>
+                            <l rend="indent"><persName key="And">And</persName> that her lord was dead, </l>
+                            <l>She uttered something which the noise </l>
+                            <l rend="indent">Deafened about her head; </l>
+                        </lg>
+                        <lg type="stanza">
+                            <l><persName key="And">And</persName> falling with her wedded heart </l>
+                            <l rend="indent">On what had murdered his, </l>
+                            <l><persName key="Gathered">Gathered</persName> him blindly in her arms, </l>
+                            <l rend="indent"><persName key="And">And</persName> smiled a dying kiss. </l>
+                        </lg>
+                    </lg>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+                        <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>.</p>
+                    <p>Printed by <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>, No. 19, Catherine-street, Strand.——Price 2d.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+  

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+ <!-- File Description -->
+ <fileDesc>
+  <!-- Title of the work -->
+  <titleStmt>
+  <title>The Indicator</title>
+  <author>Hunt, James Henry Leigh (1784-1859)</author>
+  </titleStmt>
+
+  <publicationStmt>
+  <p />
+  </publicationStmt>
+
+  <!-- Author information -->
+  <sourceDesc>
+  <bibl>
+   <author>Hunt, James Henry Leigh (1784-1859)</author>
+   <title>The Indicator</title>
+   <date when="1819-12-15"> DECEMBER 15th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+   <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+   <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+  </bibl>
+  </sourceDesc>
+ </fileDesc>
+
+ <!-- Encoding Description -->
+ <encodingDesc>
+  <!-- Add any encoding information or guidelines here if applicable -->
+  <p>
+  Basic encoding, capturing relevant formatting and layout information. Page numbers are
+  included for reference to the source only and are not intended to indicate precise
+  preservation.
+  </p>
+ </encodingDesc>
+
+ <!-- Profile Description -->
+ <profileDesc>
+ </profileDesc>
+ </teiHeader>
+ <text>
+ <body>
+  <div1 type="issue" n="10">
+  <pb n="73"/> <!-- Page beginning -->
+  <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+   <head type="title">THE INDICATOR.</head>
+   <epigraph>
+   <l>There he arriving round about doth flie,</l>
+   <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+   <l>Now this, now that, he tasteth tenderly.</l>
+   <l><persName key="<persName key="Edmund Spenser">Edmund Spenser</persName>" ref="http://www.wikidata.org/entity/Q4352055"
+    cert="high" type="real">SPENSER</persName>.</l>
+   </epigraph>
+   <head type="catalogue">No. X. <date when="1819-12-15">—WEDNESDAY, DECEMBER 15th, 1819</date>.</head>
+  </div2>
+  <div2 type="section" n="1"> <!-- Header and content -->
+  
+<head type="header">A TALE FOR A CHIMNEY CORNER.</head>
+
+<p>A MAN who does not contribute his quota of grim stories now-a-days, 
+seems hardly to be free of the republic of letters. He is bound to; 
+wear a death's head, as part of his insignia. If he does not frighten 
+every body, he is nobody. If he does not shoclsithe ladies, what can 
+be expected of him? </p>
+
+<p>We confess we think very cheaply of these stories in general. 
+A story, merely horrible or even aweful, which contains no sentiment, 
+elevating to the human heart and it's hopes, is a mere appeal to the 
+least judicious, least healthy, and least masculine of our passions, fear. 
+They whose attention can be gravely arrested by it, are in a fit state 
+to receive any absurdity with their wits off; and this is the cause, 
+why less talents are required to enforce it, than in any other species 
+of composition. With this opinion of such things, we may be allowed 
+to say, that we would undertake to write a dozen horrible stories in 
+a day, all of which should make the common worshippers or power, 
+who were not in the very healthiest condition, turn pale. We would 
+tell of Haunting Old Women, and Knocking Ghosts, and Solitary 
+Lean Hands, and Empusas on One Leg, and Ladies growing Longer 
+and Longer, and Horrid Eyes meeting us through Key-holes, and 
+Plaintive Heads, and Shrieking Statues, and Shocking Anomalies of 
+Shape, and Things which when seen drove people mad; and indigestion 
+knows what besides. But who would measure talents with a leg of 
+veal, or a German sausage. </p>
+
+<p>Mere grimness is as easy as grinning; but it requires something to 
+put a handsome face on a story. Narratives become of suspicious 
+merit in proportion as they lean to Newgate-like offences, particularly 
+of blood and wounds. A child has a reasonable respect for a 
+<placeName key='Raw-head-and-bloody-bones'>Raw-head-and-bloody-bones</placeName>, because all images whatsoever of pain 
+and terror are new and fearful to his inexperienced age: but 
+sufferings merely physical (unless sublimated like those of <persName key="Philoctetes">Philoctetes</persName>) 
+are common-places to a grown man. Images, to become awful to him, 
+flaust be removed from the grossness of the shambles. A death's head was 
+a respectable thing in the hands of a poring monk, or of a nun 
+
+<pb n="74"/>
+
+compelled to avoid the idea of life and society, or of a hermit already 
+buried in the desart, Holbein's Dance of <persName key="Death">Death</persName>, in which every 
+grinning Skeleton leads along a man of rank, from the Pope to the 
+gentleman, is a good Memento Mori; but there the skeletons have 
+an air of the ludicrous and satirical. If we were threatened with 
+them in a grave way, as spectres, we should have a right to ask how 
+they could walk about without muscles. Thus many of the tales 
+written by such authors as the late <persName key="Mr">Mr</persName>. Lewis, who wanted sentiment 
+to complete his talents, are quite puerile. When his spectral nuns 
+go about bleeding, we think they ought in, decency to have applied 
+to some ghost of a surgeon. His little Grey Men, who sit munching 
+hearts, are of a piece with fellows that eat cats for a wager. </p>
+
+<p>Stories that give mental pain to no purpose, or to very little 
+purpose compared with the unpleasant ideas they excite of human nature, 
+are as gross mistakes, in their way as these, and twenty times as 
+pernicious: for the latter become ludicrous to grown people. They 
+originate also in the same extremes, either of callousness, or morbid 
+want of excitement, as the others. But more of these hereafter. 
+Our business at present is with things ghastly and ghostly. </p>
+
+<p>A ghost story, to be a good one, should unite as much as possible 
+objects such as they are in life with a praeternatural spirit. <persName key="And">And</persName> to 
+be a perfect one, — at least to add to the other utility of excitement a 
+moral utility,— they should imply some great sentiment, — something 
+that comes out of the next world to remind us of our duties in this; 
+or something that helps to carry on the idea of our humanity into 
+after-life, even when we least think we shall take it with us. When 
+"the buried majesty of <placeName key='Denmark'>Denmark</placeName>" revisits earth to speak to his son 
+Hamlet, he comes armed, as he used to be, in his complete steel. 
+His visor is raised; and the same fine face is there; only, in spite of 
+his punishing errand and his own sufferings, with </p>
+
+<cit><quote>A countenance more in sorrow than in anger. </quote> <note type="source"><bibl><persName key="Shakespeare">Shakespeare</persName>, <persName key="William">William</persName>: Hamlet (I.2.231)</bibl></note></cit>
+
+<p>When <persName key="Donne">Donne</persName> the poet, in his thoughtful eagerness to reconcile life 
+and death, had a figure of himself painted in a shroud, and laid by 
+his bedside in a coffin, he did a higher thing than the monks and 
+hermits with their skulls. It was taking his humanity with him into 
+the other world, not affecting to lower the sense of it by regarding 
+it piecemeal or in the frame-work. <persName key="Burns">Burns</persName>, in his Tam O'Shanter, 
+shews the dead in their coffins after the same fashion. He does not 
+lay bare to us their skeletons or refuse, things with which we can 
+connect no sympathy or spiritual wonder. They still are flesh and 
+body to excite the one; yet so look and behave, inconsistent in their 
+very consistency, as to excite the other. </p>
+
+<cit>
+<quote><lg><l><persName key="Coffins">Coffins</persName> stood round like open presses, </l>
+<l>Which shewed the dead in their last dresses : </l>
+<l><persName key="And">And</persName> by some devilish cantrip sleight, </l>
+<l>Each, in his cauld hand, held a light. </l></lg></quote> <note type="source"><bibl><persName key="Burns">Burns</persName>, <persName key="Robert">Robert</persName>: Tom o' Shanter</bibl></note></cit>
+
+<p>Reanimation is perhaps the most ghastly of all ghastly things, uniting 
+as it does an appearance of natural interdiction from the next world, 
+
+<pb n="75"/>
+
+with a supernatural experience of it. Our human consciousness is 
+jarred out of it's self-possession. The extremes of habit and newness, 
+of common-place and astonishment, meet suddenly, without the kindly 
+introduction of death and change; and the stranger appals us in 
+proportion. When the account appeared the other day in the <choice><orig>news-papers</orig><reg>newspapers</reg></choice> 
+of the galvanized dead body, whose features as well as limbs 
+underwent such contortions, that it seemed as if it were about to 
+rise up, one almost expected to hear, for the first time, news of the 
+other world. Perhaps the most appalling figure in Spenser is that 
+of Maleger: <bibl>(<title>Fairy Queen</title>, <biblScope>b. 2. c. 11.</biblScope>)</bibl> <note type="source"><bibl><author><persName key="Edmund Spenser">Edmund Spenser</persName></author>: <title>The Fairy Queen</title> (<biblScope unit="volume">Book 2</biblScope>, <biblScope unit="chapter">Chapter 11</biblScope>)</bibl></note></p>
+
+<cit>
+<quote>
+<lg><l>Upon a tygre swift and fierce he rode. </l>
+<l>That as the winde ran underneath his lode. </l>
+<l>Whiles his long legs nigh raught unto the ground: </l>
+<l>Full large he was of limbe, and shoulders brode. </l>
+<l>But of such subtile substance and unsound. </l>
+<l>That like a ghost he seemed, whose grave-clothes were unbound. </l></lg>
+</quote></cit>
+
+<p><persName key="Mr">Mr</persName>. <persName key="Coleridge">Coleridge</persName> in that voyage of his to the brink of all unutterable 
+things, the Ancient Mariner (which works out however a fine sentiment) 
+does not set mere ghosts or hobgbblins to man the ship again, 
+when it's crew are dead; but re-animates, for a while, the crew 
+themselves. There is a striking fiction of this sort in <placeName key='Sale's Notes'>Sale's Notes</placeName> 
+upon the Koran. <persName key="Solomon">Solomon</persName> dies during the building of the temple, 
+but his body remains leaning on a staff and overlooking the workmen, 
+as if it were alive; till a worm gnawing through the prop, 
+he falls down. — The contrast of the appearance of humanity with 
+something mortal or supernatural, is always the more terrible in 
+proportion as it is complete. In the pictures of the temptations of 
+saints and hermits, where the holy person is surrounded, teazed, and 
+enticed, with devils and fantastic shapes, the most shocking phantasm 
+is that of the beautiful woman. To return also to the Ancient 
+Mariner. The most appalling personage in <persName key="Mr">Mr</persName>. <persName key="Coleridge">Coleridge</persName>'s 
+Ancient Mariner is the Spectre-woman, who is called Life-in-<persName key="Death">Death</persName>. 
+He renders the most hideous abstraction more terrible than it could 
+otherwise have been, by embodying it in it's own reverse. "<persName key="Death">Death</persName>" 
+not only "lives" in it; but the "unutterable" becomes uttered. To 
+see such an unearthly passage end in such earthliness, seems at the 
+moment to turn common-place itself into a sort of spectral doubt. 
+The Mariner, after describing the horrible calm, and the rotting sea, 
+in which the ship was stuck, is speaking of a strange sail which he 
+descried in the distance. </p>
+
+<cit><quote><lg xml:lang="en" xml:id="the-rime-of-the-ancient-mariner" rend="center"><lg xml:id="verse1"><l>The western wave was all a-flame. </l>
+<l>The day was well nigh done ! </l>
+<l>Almost upon the western wave </l>
+<l>Rested the broad bright Sun; </l>
+<l>When that strange ship drove suddenly </l>
+<l><persName key="Betwixt">Betwixt</persName> us and the Sun. </l></lg>
+
+<lg xml:id="verse2"><l><persName key="And">And</persName> straight the Sun was flecked with bars, </l>
+<l>(Heaven's Mother send us grace !) </l>
+<l>As if through a dungeon-grate he peer'd. </l>
+<l>With broad and burning face. </l></lg>
+
+<pb n="76"/>
+
+<lg xml:id="verse3"><l>Alas ! (thought I, and my heart beat loud) </l>
+<l>How fast she neers and neers ! </l>
+<l>Are those her sails that glance in the Sun, </l>
+<l>Like restless gossameres? </l></lg>
+
+<lg xml:id="verse4"><l>Are those her ribs, through which the Sun </l>
+<l>Did peer, as through a grate? </l>
+<l><persName key="And">And</persName> is that <persName key="Woman">Woman</persName> all her crew? </l>
+<l>Is that a <persName key="Death">Death</persName>? and are there two? </l>
+<l>Is <persName key="Death">Death</persName> that woman's mate? </l></lg>
+
+<lg xml:id="verse5"><l>Her lips were red, her looks were free. </l>
+<l>Her locks were yellow as gold. </l>
+<l>Her skin was as white as leprosy. </l>
+<l>The Night-Mair Life-in-<persName key="Death">Death</persName> was she, </l>
+<l>Who thicks man's blood with cold. </l></lg>
+</lg></quote> <note type="source"><bibl></bibl></note></cit>
+
+<p>But we must come to <persName key="Mr">Mr</persName>. <persName key="Coleridge">Coleridge</persName>'s story, with all our imagination 
+upon us. Now let us put our knees a little nearer the fire, 
+and tell a homelier one about Life in <persName key="Death">Death</persName>. The groundwork of it 
+is in <placeName key='Sandys'>Sandys</placeName>'s Commentary upon <persName key="Ovid">Ovid</persName>, and quoted from <persName key="Sabinus">Sabinus</persName>. <note type="hunt" place="foot">The Saxon Latin poet, we presume. Professor of <placeName key='Belles-Lettres'>Belles-Lettres</placeName> at <placeName key='Frankfort'>Frankfort</placeName>. 
+We know nothing of him except from a biographical dictionary. </note>
+</p>
+
+<p>A gentleman of <placeName key='Bavaria'>Bavaria</placeName>, of a noble family, was so afflicted at the 
+death of his wife, that unable to bear the company of any other 
+person, he gave himself entirely up to a solitary way of living. This 
+was the more remarkable in him, as he had been a man of jovial 
+habits, fond of his wine and visitors, and impatient of having his 
+numerous indulgencies contradicted. But in the same temper perhaps  
+might be found the cause of his sorrow; for though he would 
+be impatient with his wife, as with others, yet he loved her, as one 
+of the gentlest wills he had; and the sweet and unaffected face which 
+she always turned round upon his anger, might have been a thing, 
+more easy for him to trespass upon, while living, than to forget, 
+when dead and gone. His very anger towards her, compared with 
+that toward others, was a relief to him; and rather a wish to refresh 
+himself in the balmy feeling of her patience, than to make her 
+unhappy herself; or to punish her, as some would have done, for 
+that virtuous contrast to his own vice. </p>
+
+<p>But whether he bethought himself, after her death, that this was 
+"a very selfish mode of loving; or whether, as some thought, he had 
+wearied out her life with habits so contrary to her own; or whether, 
+as others reported, he had put it to <persName key="a.fatal">a.fatal</persName> risque by some lordly piece 
+of self-will, in consequence of which she had caught a fever on the 
+cold river during a night of festivity; he surprised even those who 
+thought that he loved her, by the extreme bitterness of his grief. 
+The very mention of festivity, though he was patient for the first day 
+or two, afterwards threw him into a passion of rage; but by degrees, 
+even his rage followed his other old habits. He was gentle, but ever 
+silent. He <choice><sic>eat</sic><corr>ate</corr></choice> and drank but sufficient to keep him alive; and used 
+to spend the greater part of the day in the spot where his wife was 
+buried. </p>
+
+<p>He was going there one evening, in a very melancholy manner, 
+
+
+<pb n="77"/>
+
+with his eyes turned towards the earth, and had just entered the 
+rails of the burial ground, when he was accosted by the mild voice of 
+somebody coming to meet him. "It is a blessed evening, Sir," said 
+the voice. The gentleman looked up. Nobody but himself was 
+allowed to be in the place at that hour; and yet he saw, with 
+astonishment, a young chorister approaching him. He was going to 
+express some wonder, when, he said, the modest though assured look 
+of the boy, and the extreme beauty of his countenance, which glowed 
+in the setting sun before him, made an irresistible addition to the 
+singular sweetness of his voice; and he asked him with an involuntary 
+calmness, and a gesture of respect, not what he did there, but what 
+he wished. "Only to wish you all good things," answered the 
+stranger, who had now come up; "and to give you this letter," 
+The gentleman took the letter, and saw upon it, with a beating yet 
+scarcely bewildered heart, the handwriting of his wife. He raised his 
+eyes again to speak to the boy, but he was gone. He cast them far 
+and near round the place, but there were no traces of a passenger. 
+He then opened the letter; and by the divine light of the setting sun, 
+read these words : </p>
+
+<p><hi rend="center">To my dear husband, who sorrows for his wife. </hi></p>
+
+<p><persName key="Otto">Otto</persName>, my husband, the soul you regret so is returned. You will 
+know the truth of this, and be prepared with calmness to see it, by 
+the divineness of the messenger, who has passsd you. You will find 
+me sitting in the public walk, praying for you; praying, that you 
+may never more give way to those gusts of passion, and those curses 
+against others, which divided us. </p>
+
+<p>This, with a warm hand, from the living <persName key="Bertha">Bertha</persName>. </p>
+
+<p><persName key="Otto">Otto</persName> (for such, it seems, was the gentleman's name) went instantly, 
+calmly, quickly, yet with a sort of benumbed being, to the public 
+walk. He felt, but with only a half-consciousness, as if he glided 
+without a body. But all his spirit was awake, eager, intensely 
+conscious. It seemed to him as if there had been but two things in the 
+world, — Life and <persName key="Death">Death</persName>; and that <persName key="Death">Death</persName> was dead. All else 
+appeared to have been a dream. He had awaked from a waking state, 
+and found himself all eye, and spirit, and loco-motion. He said to 
+himself, once, as he went : "This is not a dream. I will ask my 
+great ancestors tomorrow to my new bridal feast, for they are alive." 
+<persName key="Otto">Otto</persName> had been calm at first, but something of old and triumphant 
+feelings seemed again to come over him. Was he again too proud 
+and confident? Did his earthly humours prevail again, when he 
+thought them least upon him? We shall see. </p>
+
+<p>The <placeName key='Bavaria'>Bavaria</placeName>n arrived at the public walk. It was full of people 
+with their wives and children, enjoying the beauty of the evening. 
+<persName key="Something">Something</persName> like common fear came over him, as he went in and out 
+among them, looking at the benches on each side. It happened that 
+there was only one person, a lady, sitting upon them. She had her 
+veil down; and his being underwent a fierce but short convulsion as 
+
+<pb n="78"/>
+
+he went near her, <persName key="Something">Something</persName> had a little baffled the calmer inspiration 
+of the angel that had accosted him; for fear prevailed at the 
+instant, and <persName key="Otto">Otto</persName> passed on. He returned before he had reached the 
+end of the walk, and approached the lady again. She was still sitting 
+in the same quiet posture, only he thought she looked at him. Again 
+he passed her. On his second return, a grave and sweet courage 
+came upon him, and in an under but firm tone of enquiry, he said 
+"<persName key="Bertha">Bertha</persName>?" — "I thought you had forgotten me," said that well- 
+known and mellow voice, which he had seemed as far from ever 
+hearing again, as earth is from heaven. He took her hand, which 
+grasped his in turn; and they walked home in silence together, the 
+arm, which was wound within his, giving warmth for warmth. </p>
+
+<p>The neighbours seemed to have a miraculous want of wonder at 
+the lady's reappearance. <persName key="Something">Something</persName> was said about a mock-funeral, 
+and her having withdrawn from his company for awhile; but visitors 
+came as before, and his wife returned to her household affairs. It 
+was only remarked that she always looked pale and pensive. But she 
+was more kind to all, even than before; and her pensiveness seemed 
+rather the result of some great internal thought, than of unhappiness. </p>
+
+<p>For a year or two, the <placeName key='Bavaria'>Bavaria</placeName>n retained the better temper which 
+he acquired. His fortunes flourished beyond his earliest ambition; 
+the most amiable as well as noble persons of the district were 
+frequent visitors; and people said that to be at <persName key="Otto">Otto</persName>'s house, must be 
+the next thing to being in heaven. But by degrees his self-will 
+returned with his prosperity. He never vented impatience on his wife; 
+but he again began to shew, that the disquietude it gave her to see it 
+vented on others, was a secondary thing, in his mind, to the indulgence 
+of it. Whether it was, that his grief for her loss had been rather 
+remorse than affection, and so he held himself secure if he treated 
+her well; or whether he was at all times rather proud of her, than 
+fond; or whatever was the cause which again set his antipathies above 
+his sympathies, certain it was, that his old habits returned upon him; 
+not so often indeed; but with greater violence and pride, when they 
+did. These were the only times, at which his wife was observed to 
+shew any ordinary symptoms of uneasiness. </p>
+
+<p>At length, one day, some strong rebuff which he had received from 
+an alienated neighbour threw him into such a transport of rage, that 
+he gave way to the most bitter imprecations, crying with a loud voice 
+— "This treatment to me too ! To me ! To me, who if the world 
+knew all ——— At these words, his wife, who had in vain laid her hand 
+upon his, and looked him with dreary earnestness in the face, 
+suddenly glided from the room. He, and two or three who were 
+present, were struck with a dumb horror. They said, she did not walk 
+out, nor vanish suddenly; but glided, as one who could dispense with 
+the use of feet. After a moment's pause, the others proposed to him to 
+follow her. He made a movement of despair; but they went. There 
+was a short passage, which turned to the right into her favourite 
+room. They knocked at the door twice or three times; and received 
+
+<pb n="79"/>
+
+no answer. At last; one of them gently opened it; and looking in, 
+they saw her, as they thought, standing before a fire, which was the 
+only light in the room. Yet she stood so far from it, as rather to be 
+in the middle of the room : only the face was towards the fire, and 
+she seemed looking upon it. They addressed her, but received no 
+answer. They stepped gently towards her, and still received none. 
+The figure stood dumb and unmoved. At last, one of them went 
+round in front, and instantly fell on the floor. The figure was 
+without body. A hollow hood was left instead of a face. The clothes 
+were standing upright by themselves. </p>
+
+<p>That room was blocked up for ever, for the clothes, if it might be 
+so, to moulder away. It was called the Room of the Lady's Figure. 
+The house, after the gentleman's death, was long uninhabited, and 
+at length burnt by the peasants in an insurrection. As for himself, 
+he died about nine months after, a gentle and child-like penitent. 
+He had never stirred from the house since; and nobody would 
+venture to go near him, but a man who had the reputation of being 
+a reprobate. It was from this man that the particulars of the story 
+came first. He would distribute the gentleman's alms in great 
+abundance to any strange poor who would accept them; for most of 
+the neighbours held them in horror. He tried all he could to get 
+the parents among them to let some of their little children, or a 
+single one of them, go to see his employer. They said he even asked 
+it one day with tears in his eyes. But they shuddered to think of it; 
+and the matter was not mended, when this profane person, in a fit 
+of impatience, said one day, that he would have a child of his own 
+on purpose. His employer, however, died in a day or two. They 
+did not believe a word he told them of all the <placeName key='Bavaria'>Bavaria</placeName>n's gentleness, 
+looking upon the latter as a sort of ogre, and upon his agent as little 
+better, though a goodnatured-looking earnest kind of person. It was 
+said many years after, that this man had been a friend of the 
+<placeName key='Bavaria'>Bavaria</placeName>n's when young, and had been deserted by him. <persName key="And">And</persName> the young 
+believed it, whatever the old might. </p>
+
+</div2>
+
+<div2 type="section" n="2">
+
+<head type="header" rend="center">THE OLD SKIFF.</head>
+
+<p>From the style of this animated little poem of <persName key="Catullus">Catullus</persName>, as well as 
+from it's general spirit, the commentators have naturally supposed 
+that it was written in imitation or emulation of the Greeks.  <hi xml:lang="latin">"Adeo 
+spirat,"</hi> says Doering,  <hi xml:lang="latin">"Graecorum indolem, leporem, et in usu 
+metaphorarum audaciam."</hi> The probability is, that <persName key="Catullus">Catullus</persName>, who was 
+a traveller, wrote it upon some favourite vessel, which after long 
+service he had thus consecrated to the twin stars of <persName key="Castor">Castor</persName> and Pollux, 
+and laid up near his beloved house on the peninsula of Sirmio. The 
+reader is to imagine, that the poet, during a visit of some friends, 
+takes them down to a retired bay of the water, and shews them his 
+old skiff laid up in port, like a battered pensioner. </p>
+
+<pb n="80"/>
+
+<cit><quote><lg xml:lang="latin" xml:id="catullus4" rend="center"><l>Phaselus ille, quem videtis, hospites, </l>
+<l><persName key="Ait">Ait</persName> fuisse navium celerrimus, </l>
+<l>Neque ullius natantis impetum trabis </l>
+<l>Nequisse praeterire, sive palmulis </l>
+<l>Opus foret volare, sive linteo. </l>
+<l>Et hoc negat minacis <placeName key='Adria'>Adria</placeName>tici </l>
+<l>Negare litus, insulasve <placeName key='Cycladas'>Cycladas</placeName>, </l>
+<l><persName key="Rhodumve">Rhodumve</persName> nobilem, horridamque <placeName key='Thraciam'>Thraciam</placeName>, </l>
+<l><placeName key='Propontida'>Propontida</placeName>, trucemve <placeName key='Ponticum'>Ponticum</placeName> sinum, etc. </l></lg></quote><note><bibl></bibl></note></cit>
+
+<cit><quote><lg xml:lang="en" type="hunt-translation" xml:id="catullus4en" rend="center"><l>The bark, my friends, which you see here, </l> 
+<l>Will tell you that it had no peer; </l>
+<l><persName key="And">And</persName> that no skiff that swam the main. </l>
+<l>Could get before it, strain for strain. </l>
+<l>Whether it flew with sail or oar. </l>
+<l><persName key="And">And</persName> this it, says, not <placeName key='Adria'>Adria</placeName>'s shore </l>
+<l>With all its bluster can deny, </l>
+<l>Mor that AEgaean company. </l>
+<l>Nor glorious <placeName key='Rhodes'>Rhodes</placeName>, nor savage <placeName key='Thrace'>Thrace</placeName>, </l>
+<l><placeName key='Nor Hellespont'>Nor Hellespont</placeName> with either face. </l>
+<l>Nor the tremendous Pontic bay, — </l>
+<l>Where, till it took it's watery way. </l>
+<l>It was a thing of sylvan locks. </l>
+<l><persName key="And">And</persName> used, on the Cytorian rocks. </l>
+<l>To hiss and talk, with windy hair. </l>
+<l><persName key="And">And</persName> thou, <persName key="Amastris">Amastris</persName>, and thou, there, </l>
+<l><placeName key='Cytorus'>Cytorus</placeName>, with whose box it grew, </l>
+<l>All this, it says, was known to you; </l>
+<l><persName key="And">And</persName> that from its remotest birth. </l>
+<l>It held the summit of your earth; </l>
+<l><persName key="And">And</persName> in your waters bathed it's oars; </l>
+<l><persName key="And">And</persName> so by all the harmless shores. </l>
+<l>Carried it's master in it's breast. </l>
+<l>Whether the wind was east or west; </l>
+<l>Or whether Jove, upon the sail, </l>
+<l>Sent, steady and blithe, a forward gale : </l>
+<l>Nor ever had it vows to pay </l>
+<l>To gods that watch the billowy way. </l>
+<l>When it came heme from distant seas </l>
+<l><persName key="And">And</persName> in this limpid lake took ease. </l>
+<l>But this is past: and now, grown old. </l>
+<l>It lays it's age in this calm hold. </l>
+<l><persName key="And">And</persName> dedicates itself to thee, </l>
+<l><persName key="Castor">Castor</persName>, and thy twin deity. </l></lg></quote><note type="source"><bibl></bibl></note></cit>
+
+
+</div2>
+ <div2 type="correspondents"> <!-- Publisher and printer information -->
+                <p>[ As this publication is unstamped, it will not circulate by means of the  
+                general post without a heavy expense. Persons in the country who  
+                wish to become subscribers, should therefore order it of booksellers who  
+                send weekly or monthly parcels to their respective places of residence.  
+                The delay would be of little consequence with a work not containing  
+                any thing of merely temporary interest. ] </p> 
+                </div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, London.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+ 

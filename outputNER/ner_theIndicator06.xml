@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>Hunt, <persName key="James">James</persName> Henry Leigh (1784-1859)</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>Hunt, <persName key="James">James</persName> Henry Leigh (1784-1859)</author>
+                    <title>The Indicator</title>
+                    <date when="1819-11-17">NOVEMBER 17th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement><placeName key='London'>London</placeName></settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="6">
+                <pb n="41" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                    <p>IT is the object of this periodical work to notice any subjects whatsoever  
+within the range of the Editor's knowledge or reading. He will take them  
+up, as they happen to suggest themselves; and endeavour to point out their  
+essence to the reader, so as at once to be brief and satisfactory. The subjects  
+will chiefly consist of curious recollections of biography; short disquisitions  
+on men and things; the most interesting stories in history or fiction told  
+over again, with an eye to their proper appreciation by unvulgar minds;  
+and now and then a few original verses. Indeed the whole matter, whatever  
+the subject may be, will be strictly original, in one sense of the word;  
+arid it will be the Editor's aim, as well as a part of his own pleasure, to  
+render it all as entertaining as he can. To the unvulgar he exclusively  
+addresses himself; but he begs it to be particularly understood, that in this  
+description of persons are to be included all those, who without having had a  
+classical education, would have turned it to right account; just as all those;  
+are to be excluded, who in spite of that "discipline of humanity" think  
+ill of the nature which they degrade, and vulgarly confound the vulgar with  
+the uneducated.</p>
+                        <l>There he arriving round about doth flie,</l>
+                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund <persName key="Spenser">Spenser</persName>" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. VI. <date when="1819-11-17">—WEDNESDAY, NOVEMBER 17th, 1819</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header">SOCIAL GENEALOGY.</head>
+                    
+<p>It is a curious and pleasant thing to consider, that a link of personal  
+acquaintance can be traced up from the authors of our own  
+times to those of Shakspeare, and to Shakspeare himself. <persName key="Ovid">Ovid</persName>, in  
+recording with fondness his intimacy with <persName key="Propertius">Propertius</persName> and <persName key="Horace">Horace</persName>,  
+regrets that he had only seen <persName key="Virgil">Virgil</persName>. (Trist. Book 4. v. 51.) But  
+still he thinks the sight of him worth remembering. -<persName key="And">And</persName> <persName key="Pope">Pope</persName>, when  
+a child, prevailed on some friends to take him to a coffee house which  
+<persName key="Dryden">Dryden</persName> frequented, merely to look at him; which he did, to his  
+great satisfaction. Now such of us as have shaken hands with a  
+living poet, might be able perhaps to reckon up a series of connecting  
+shakes to the very hand that wrote of Hamlet, and of <persName key="Falstaff">Falstaff</persName>,  
+and of <persName key="Desdemona">Desdemona</persName>. </p>
+
+<p>With some living poets, it is certain. There is <persName key="Thomas Moore">Thomas Moore</persName>,  
+for instance, who knew <persName key="Sheridan">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>, who  
+was the friend of <persName key="Savage">Savage</persName>, who knew <persName key="Steele">Steele</persName>, who knew <persName key="Pope">Pope</persName>. <persName key="Pope">Pope</persName>  
+was intimate with <placeName key='Congreve'>Congreve</placeName>, and <placeName key='Congreve'>Congreve</placeName> with <persName key="Dryden">Dryden</persName>. <persName key="Dryden">Dryden</persName>  
+is said to have visited <persName key="Milton">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
+<persName key="Davenant">Davenant</persName>j and to have been saved by him from the revenge of the  
+restored court, in return for having saved <persName key="Davenant">Davenant</persName> from the revenge  
+of the Commonwealth. But if the link between <persName key="Dryden">Dryden</persName> and <persName key="Milton">Milton</persName>,  
+and <persName key="Milton">Milton</persName> and <persName key="Davenant">Davenant</persName> is somewhat apocryphal, or rather dependent  
+on tradition (for <persName key="<persName key="Richard">Richard</persName>son"><persName key="Richard">Richard</persName>son</persName> the painter tells us the latter from  
+<persName key="Pope">Pope</persName>, who had it from <placeName key='Betterton'>Betterton</placeName> the actor, one of <persName key="Davenant">Davenant</persName>'s  
+company), it may be carried at once from <persName key="Dryden">Dryden</persName> to <persName key="Davenant">Davenant</persName>, with  
+whom he was unquestionably intimate. Davenar\t then knew <persName key="Hobbes">Hobbes</persName>,  
+who knew <persName key="Bacon">Bacon</persName>, who knew <persName key="Ben <persName key="Jonson">Jonson</persName>">Ben <persName key="Jonson">Jonson</persName></persName>, who was intimate with  
+<placeName key='Beaumont'>Beaumont</placeName> and <placeName key='Fletcher'>Fletcher</placeName>, <placeName key='Chapman'>Chapman</placeName>, <placeName key='Donne'>Donne</placeName>, <placeName key='Drayton'>Drayton</placeName>, <placeName key='Camden'>Camden</placeName>, <placeName key='Selden'>Selden</placeName>.  
+<placeName key='Clarendon'>Clarendon</placeName>, <placeName key='Sydney'>Sydney</placeName>, <placeName key='Raleigh'>Raleigh</placeName>, and perhaps all the great men of  
+<persName key="Elizabeth">Elizabeth</persName>'s and <persName key="James">James</persName>'s time, the greatest of them all undoubtedly.  
+Thus have we a link of "beamy hands" from our own times up to  
+Shakspeare. </p>
+
+<pb n="42"/>
+
+<p>In this friendly genealogy we have omitted the numerous sidebranches,  
+or common friendships; but of those we shall give an  
+account by and by. It may be mentioned however, in order not to  
+omit <persName key="Spenser">Spenser</persName>, that <persName key="Davenant">Davenant</persName> resided some time in the family of  
+Sir <persName key="Fulke <placeName key='Greville'>Greville</placeName> Lord Brooke">Fulke <placeName key='Greville'>Greville</placeName> Lord Brooke</persName>, the Friend of Sir Philip <placeName key='Sydney'>Sydney</placeName>.  
+<persName key="Spenser">Spenser</persName>'s intimacy with <placeName key='Sydney'>Sydney</placeName> is mentioned by himself, in a letter,  
+st^l extant, to <persName key="Gabriel Harvey">Gabriel Harvey</persName>. </p>
+
+<p>We will now give the authorities for our intellectual pedigree.  
+<persName key="Sheridan">Sheridan</persName> is mentioned in <persName key="Boswell">Boswell</persName> as being admitted to the  
+celebrated club, of which <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>, <persName key="Goldsmith">Goldsmith</persName>, and others were members.  
+He had then, if we remember, just written his School for Scandal,  
+which made him the more welcome. Of <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>'s friendship with  
+<persName key="Savage">Savage</persName> (we cannot help beginning the sentence <persName key="Avith">Avith</persName> his favourite  
+leading preposition), the well-known <persName key="Life">Life</persName> is an interesting and  
+honourable record. It is said that in the commencement of their  
+friendship, they have sometimes wandered together about <placeName key='London'>London</placeName> for  
+want of a lodging; — more likely, for <persName key="Savage">Savage</persName>'s want of it, and <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>'s  
+fear of offending him by offering a share of his own- But we  
+do not- remember how this circumstance is related by <persName key="Boswell">Boswell</persName>. </p>
+
+<p><persName key="Savage">Savage</persName>'s intimacy with <persName key="Steele">Steele</persName> is recorded in a pleasant anecdote,  
+which he told <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>. Sir <persName key="Richard">Richard</persName> once desired him, "with an  
+air of the utmost importance," says his biographer, " to come very  
+early to his house the next morning. Mr. <persName key="Savage">Savage</persName> came as he had  
+promised, found the chariot at the door, and Sir <persName key="Richard">Richard</persName> waiting for  
+him, and ready to go out. What was intended, and whither they  
+were to go. <persName key="Savage">Savage</persName> could not conjecture, and was not willing to  
+enquire; but immediately seated himself with Sir <persName key="Richard">Richard</persName>. The  
+coachman was ordered to drive, and they hurried with the utmost  
+expedition to <placeName key='Hyde-Park Corner'>Hyde-Park Corner</placeName>, where they stopped at a petty  
+tavern, and retired to a private room. Sir <persName key="Richard">Richard</persName> then informed  
+him that he intended to publish a pamphlet, and that he had desired  
+him to come thither that he might write for him. They soon sat  
+down to the work. Sir <persName key="Richard">Richard</persName> dictated, and <persName key="Savage">Savage</persName> wrote, till the  
+dinner that had been ordered was put upon the table. <persName key="Savage">Savage</persName> was  
+surprised at the meanness of the entertainment, and after some hesi-  
+tation ventured to ask for wine, which Sir <persName key="Richard">Richard</persName>, not without  
+reluctance, ordered to be brought. They then finished their dinner,  
+and proceeded in their pamphlet, which they concluded in the  
+afternoon. </p>
+
+<p>Mr. <persName key="Savage">Savage</persName> then imagined that his task was over, and expected  
+that Sir <persName key="Richard">Richard</persName> would call for the reckoning, and return home;  
+but his expectations deceived him, for Sir <persName key="Richard">Richard</persName> told him that he  
+was without money, and that the pamphlet must be sold before the  
+dinner could be paid for, and <persName key="Savage">Savage</persName> was therefore obliged to go and  
+offer their new jiroduction for sale for two guineas, which with some  
+difficulty he obtained. Sir <persName key="Richard">Richard</persName> then returned home, having  
+retired that day only to avoid his creditors, and composed the  
+pamphlet only to discharge his reckoning." </p>
+
+<p><persName key="Steele">Steele</persName>'s acquaintance with <persName key="Pope">Pope</persName>, who wrote some papers for his  
+
+<pb n="43"/>
+
+Guardian, appears in the letters and other works of the wits of that  
+time. <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName> supposes that it was his friendly interference, which  
+attempted to bring <persName key="Pope">Pope</persName> and Addison together after a jealous separation.  
+<persName key="Pope">Pope</persName>'s friendship with <placeName key='Congreve'>Congreve</placeName> appears also in his letters.  
+He also dedicated the Iliad to him, over the heads of peers and  
+patrons. <placeName key='Congreve'>Congreve</placeName>, whose conversation most likely partook of the  
+elegance and wit of his writings, and whose manners appear to have  
+rendered him an universal favourite, had the honour in his youth of  
+attracting singular respect and regard from <persName key="Dryden">Dryden</persName>. He was publicly  
+hailed by him as his successor, and affectionately bequeathed the  
+care of his laurels. <persName key="Dryden">Dryden</persName> did not know who had been looking at  
+him in the coffee-house. </p>
+
+<cit><quote><lg><l><persName key="Already I">Already I</persName> am worn with cares and age, </l>
+<l><persName key="And">And</persName> just abandoning th' ungrateful stage; </l>
+<l>Unprofitably kept at Heaven's expense, </l>
+<l>I live a rent-charge on his providence. </l>
+<l>But you, whom every Muse and <persName key="Grace">Grace</persName> adorn. </l>
+<l>Whom I foresee to better fortune born. </l>
+<l>Be kind to my remains; and O defend, </l>
+<l>Against your judgment, your departed friend ! </l>
+<l>Let not th' insulting foe my fame pursue, </l>
+<l>But shade those laurels which descend to you.</l></lg> </quote><note type="source"><bibl><persName key="Dryden">Dryden</persName>, <persName key="John">John</persName>: To my Dear Friend Mr. <placeName key='Congreve'>Congreve</placeName> on his Comedy Call'd the Double Dealer
+</bibl></note></cit>
+
+<p><placeName key='Congreve'>Congreve</placeName> did so with great tenderness. </p>
+
+<p><persName key="Dryden">Dryden</persName> is reported to leave asked <persName key="Milton">Milton</persName>'s permission to turn his  
+Paradise Lost into a rhyming tragedy, which he called the State of  
+Innocence, or the Fall of Man, a work, such as might be expected  
+from such a mode of alteration. The venerable poet is said to have  
+answered, "Ay, young man, you may tag my verses, if you will."  
+Be the connection, however, of <persName key="Dryden">Dryden</persName> vdth <persName key="Milton">Milton</persName>, or of <persName key="Milton">Milton</persName>  
+with <persName key="Davenant">Davenant</persName> as it may, <persName key="Dryden">Dryden</persName> wrote the alteration of Shakspeare's  
+Tempest, as it is now perpetrated, in conjunction with <persName key="Davenant">Davenant</persName>.  
+They were great hands, but they should not have touched the pure  
+grandeur of Shakspeare. The intimacy of <persName key="Davenant">Davenant</persName> with <persName key="Hobbes">Hobbes</persName> is  
+to t)e seen by their correspondence prefixed to <persName key="Gondibert">Gondibert</persName>. <persName key="Hobbes">Hobbes</persName>  
+was at one time secretary to Lord <persName key="Bacon">Bacon</persName>, a singularly illustrious  
+instance of servant and master. <persName key="Bacon">Bacon</persName> is also supposed to have had  
+<persName key="Ben <persName key="Jonson">Jonson</persName>">Ben <persName key="Jonson">Jonson</persName></persName> for a retainer in some capacity; but it is certain that  
+<persName key="Jonson">Jonson</persName> had his acquaintance, for he records it in his Discoveries.  
+<persName key="And">And</persName> had it been otherwise, his link with the preceding writers could  
+be easily supplied through the medium of <placeName key='Greville'>Greville</placeName> and <placeName key='Sydney'>Sydney</placeName>, and  
+indeed of many others of his contemporaries. Here then we arrive  
+at Shakspeare, and feel the electric virtue of his hand. Their  
+intimacy, dashed a little, perhaps, with jealousy on the part of <persName key="Jonson">Jonson</persName>,  
+but maintained to the last by dint of the nobler part of him and of  
+Shakspeare's irresistible fineness of nature, is a thing as notorious as  
+their fame. <persName key="Fuller">Fuller</persName> says, " Many were the wit-combates betwixt  
+(Shakspeare) and Ben <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName>, which two I behold like a Spanish  
+great gallion and an English man of war : Master <persName key="<persName key="John">John</persName>son"><persName key="John">John</persName>son</persName> (like the  
+former) was built far higher in learning : solid, but slow in his   
+performances. Shakspeare with the English man of war, lesser in bulk.  
+
+<pb n="44"/>
+
+but lighter in sailing, could turn with all tides, tack about, and take  
+advantage of all winds, by the quickness of his wit and invention."  
+This is a happy simile, with the exception of what is insinuated about  
+<persName key="Jonson">Jonson</persName>'s greater solidity. But let <persName key="Jonson">Jonson</persName> shew for himself the  
+affection, with which he regarded one, who did not irritate or trample  
+down rivalry but rose above it like the quiet and all-gladdening sun,   
+and turned emulation to worship. </p>
+
+<cit><quote><lg><l>Soul of the age! </l>
+<l>Th' applause ! delight ! the wonder of our stage ! </l>
+<l>My Shakspeare, rise ! I will not lodge thee by </l>
+<l><persName key="Chaucer">Chaucer</persName> or <persName key="Spenser">Spenser</persName>, or bid <placeName key='Beaumont'>Beaumont</placeName> lie </l>
+<l>A little further, to make thee a room; </l>
+<l>Thou art a monument without a tomb; </l>
+<l><persName key="And">And</persName> art alive still, while thy book doth live. </l>
+<l><persName key="And">And</persName> we have wits to read, and praise to give. </l>
+<l>He was not of an age, but for all time. </l></lg></quote><note type="source"><bibl><persName key="Jonson">Jonson</persName>, Ben: To the Memory of My Beloved the Author, Mr. <persName key="William Shakespeare">William Shakespeare</persName>
+</bibl></note></cit>
+
+</div2>
+
+<div2 type="section" n="2">
+<head type="header">ANGLING. </head>
+
+
+<p>The anglers are a race of men who puzzle us. We do not  
+mean for their patience, which is laudable; nor for the infinite non-  
+success of some of them, which is desirable. Neither do we agree  
+with the good joke attributed to <persName key="Swift">Swift</persName>, that angling is always to be  
+considered as " a stick and a string, with a fly at one end and a fool   
+at the other." Nay, if he had books with him and a pleasant day,  
+we can even account for the joyousness of that prince of all punters,  
+who having been seen in the same identical spot one morning and  
+evening, and asked both times whether he had had any success, said  
+No; but in the course of the day, he had had " a glorious nibble." </p>
+
+<p>But the anglers boast of the innocence of their pastime; yet it  
+puts fellow-creatures to the torture. They pique themselves on their  
+meditative faculties and yet their only excuse is a want of thought.  
+It is this that puzzles us. Old <persName key="<persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName>"><persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName></persName>, their patriarch, speaking  
+of his inquisitorial abstractions on the banks of a river, says. </p>
+
+<lg><l>Here we may </l>
+<l><placeName key='Think'>Think</placeName> and pray. </l>
+<l>Before death </l>
+<l>Stops our breath. </l>
+<l>Other joys </l>
+<l>Are but toys. </l>
+<l><persName key="And">And</persName> to be lamented. </l></lg>
+
+<p>So saying, he "stops the breath " of a trout, by plucking him up  
+into an element too thin to respire, with a hook and a tortured worm  
+in his jaws. </p>
+
+<lg><l>Other joys </l>
+<l>Are but toys. </l></lg>
+
+<p>If you ride, walk, or skate, or play at cricket, or at rackets, or enjoy  
+
+<pb n="45"/>
+
+a ball or a concert, it is "to be lamented." To put pleasure into  
+the faces of half a dozen agreeable women, is a toy unworthy of the  
+manliness of a worm-sticker. But to put a hook into the gills of a  
+carp, — there you attain the end of a reasonable being; there you  
+shew yourself truly a lord of the creation. To plant your feet  
+occasionally in the mud, is also a pleasing step. So is cutting your  
+ancles with weeds and stones. </p>
+
+<lg><l>Other joys </l>
+<l>Are but toys. </l></lg>
+
+<p>The book of <persName key="<persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName>"><persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName></persName> upon angling is undoubtedly a delightful  
+performance in some respects. It smells of the country air,   
+and of the flowers in cottage windows. Its pictures of rural scenery,  
+its simplicity, its snatches of old songs, are all good and refreshing;  
+and his prodigious rehshof a dressed fish would not be grudged him,  
+if he had killed it a little more decently. He really seems to have a  
+respect for a piece of <persName key="salmon">salmon</persName>; to approach it, like the grace, with  
+his hat off. But what are we to think of a man, who in the midst of  
+his tortui'es of other animals, is always valuing himself on his  
+wonderful harmlessness; and who actually follows up one of his most  
+complacent passages of this kind with an injunction to impale a  
+certain worm tmce upon the hook, because it is lively, and might get  
+off? " All that can be said of such an extraordinary inconsistency is,  
+that having been bred up in an opinion of the innocence of his  
+amusement, and possessing a healthy power of exercising voluntary  
+thoughts (as far as he had any), he must have dozed over the  
+opposite side of the question, so as to become almost, perhaps quite  
+insensible to it. <persName key="And">And</persName> angling does indeed seem the next thing to  
+dreaming. It dispenses with loco-motion, reconciles contradictions,  
+and renders the very countenance null and void. A friend of ours,  
+who is an admirer of <persName key="Walton">Walton</persName>, was struck, just as we were, with the  
+likeness of the old angler's face to a fish. It is hard, angular, and of  
+no expression. It seems to have been " subdued to what it worked  
+in ) " to have become native to the watery element. One might  
+have said to <persName key="Walton">Walton</persName>, " Oh flesh, how art thou fishified ! " He looks  
+like a pike, dressed in broad cloth instead of butter. </p>
+
+<p>The face of his pupil and follower, or as he fondly called himself,  
+son, <persName key="<persName key="Charles">Charles</persName> <persName key="Cotton">Cotton</persName>"><persName key="Charles">Charles</persName> <persName key="Cotton">Cotton</persName></persName>, a poet and a man of wit, is more good-natured  
+and uneasy. <note type="hunt" place="foot"> The reader may see both the portraits in the late editions of <persName key="Walton">Walton</persName>. </note>
+<persName key="Cotton">Cotton</persName>'s pleasures had not been confined to fishing.  
+His sympathies indeed had been a little superabundant, and left  
+him perhaps not so great a power of thinking as he pleased.  
+Accordingly, we find more symptoms of scrupulousness upon the  
+subject of angling in his writings, than in those of his father. </p>
+
+<p><persName key="Walton">Walton</persName> says, that an angler does no hurt but to fish; and this he  
+counts as nothing. <persName key="Cotton">Cotton</persName> argues, that the slaughter of them is not  
+to be "repented" and he says to his father (which looks as if the  
+old gentleman sometimes thought upon the subject too) </p>
+
+
+<pb n="46"/>
+
+<lg><l>There whilst behind some bush we wait </l>
+<l>The scaly people to betray, </l>
+<l>We'll prove it just with treacherous bait </l>
+<l>To make the preying trout our prey. </l></lg>
+
+<p>This argument, and another about fish's being made for "man's  
+pleasure and diet," are all that anglers have to say for the  
+innocence of their sport. But they are both as rank sophistications as  
+can be; mere beggings of the question. To kill fish outright is a  
+different matter. Death is common to all; and a trout, speedily  
+killed by a man, may suffer no worse fate than from the jaws of a  
+pike. It is the mode, the lingering cat-like cruelty of the angler's  
+sport, that renders it unworthy. If fish were made to be so treated,  
+then men were also made to be racked and throttled by <persName key="Inquisitors">Inquisitors</persName>.  
+Indeed among other advantages of angling. <persName key="Cotton">Cotton</persName> reckons up a  
+tame fish-like acquiescence to whatever the powerful chuse to inflict. </p>
+
+<cit><quote><lg><l>We scratch not our pates. </l>
+<l>Nor repine at the rates </l>
+<l>Our superiors impose on our living; </l>
+<l>But do frankly submit. </l>
+<l>Knowing they have more wit </l>
+<l>In demanding, than we have in giving. </l>
+<l>Whilst quiet we sit. </l>
+<l>We conclude all things fit, </l>
+<l>Acquiescing with hearty submission, etc. </l></lg></quote><note type="source"><bibl><persName key="Cotton">Cotton</persName>, <persName key="Charles">Charles</persName>: The Angler's Ballad</bibl></note></cit>
+
+<p><persName key="And">And</persName> this was no pastoral fiction. The anglers of those times, whose  
+pastimes became famous from the celebrity of their names, chiefly  
+in divinity, were great fallers in with passivcL obedience. They  
+seemed to think (whatever they found it necessary to say now  
+and then up on that point) that the great had as much right to prey  
+upon men, as the small had upon fishes : only the men luckily had  
+not hooks put into their jaws, and the sides of their cheeks torn to  
+pidces. The two most famous anglers in history are <persName key="Antony">Antony</persName> and  
+<persName key="Cleopatra">Cleopatra</persName>. These extremes of the angling character are very edifying.  
+We should like to know what these grave divines would have said  
+to the heavenly maxim of " Do as you would be done by." Let us  
+imagine ourselves, for instance, a sort of human fish. Air is but a  
+rarer fluid; and at present, in this November weather, a supernatural  
+being who should look down upon us from a higher atmosphere,  
+would, have some reason to regard us as a kind of pedestrian carp.  
+Now fancy a <persName key="Genius">Genius</persName> fishing for us. <persName key="Fancy">Fancy</persName> him baiting a' great hook  
+with pickled <persName key="salmon">salmon</persName>, and twitching up old <persName key="<persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName>"><persName key="Isaac">Isaac</persName> <persName key="Walton">Walton</persName></persName> from the  
+banks of the river <persName key="Lee">Lee</persName>, with the hook through his ear. How he  
+would go up roaring and screaming, and thinking the devil had got  
+him ! </p>
+
+<lg><l>Other joys </l>
+<l>Are but toys. </l></lg>
+
+<p>We repeat, that if fish were made to be so treated, then we were  
+just as much made to be racked and suffocated; and a footpad might  
+have argued that old <persName key="Isaac">Isaac</persName> was made to have his pocket picked, and  
+
+<pb n="47"/>
+
+then tumbled into the river. There is no end of these idle and  
+selfish beggings of the question, which at last argue quite as much  
+against us as for us. <persName key="And">And</persName> granting them, for the sake of argument,  
+it is still obvious, on the very same ground, that men were also made  
+to be taught better. We do not say, that all anglers are of a cruel  
+nature. Many of them, doubtless, are amiable men in other matters.  
+They have only never thought perhaps on that side of the  
+question, or been accustomed from childhood to blink it. But once  
+thinking, their amiableness and their practice become incompatible;  
+and if they should wish, on that account, never to have thought  
+upon the subject, they would only shew, that they cared for their  
+own exemption from suffering, and not for its diminution in general. </p>
+
+</div2>
+<div2 type="section" n="3">
+<head type="header">CASTS FROM SCULPTURE AND GEMS. </head>
+
+<p>There is a set of Italians now going about the streets, who sell  
+busts, vases, and other casts in plaister. Every body may not be  
+aware, that some of these casts are after the antique. There is a  
+head, for instance, of the Apollo Belvedere from the statue at <placeName key='Rome'>Rome</placeName>;  
+another of <persName key="Homer">Homer</persName>; another of Antinous; another, we believe, of a  
+<placeName key='Melpomene'>Melpomene</placeName>, crowned with vine-leaves in allusion to the origin of  
+tragedy, and a head of <persName key="Sappho">Sappho</persName>, which, if we are not mistaken, is  
+from an ancient gem. They are more frequently seen with busts from  
+statues by <persName key="Canova">Canova</persName>, such as a <placeName key='Paris'>Paris</placeName> and a <persName key="Venus">Venus</persName>; which latter, we  
+confess, with its little scratches of curls in front, and its hair tied up  
+behind like a lump of sausages, we cannot admire. But they will  
+procure the antiques, if asked for. Some of the vases are from the  
+antique; some Florentine, which are fine, but not so good; some  
+French, which are the least in merit. The casts of figures, though  
+copied from the antique, are inferior to the busts. The latter are  
+from good old casts; sometimes worn, but still retaining the general  
+spirit of the original. The figures are from slight and hasty moulds;  
+feeble abridgments,— yet not without their worth either, as resembling  
+the originals, however faintly. There is the <persName key="Venus">Venus</persName> de Medici,  
+the Gladiator, the Quoit-Player, the Antinous, the Piping Faun, the  
+Apollo Belvedere, all after the antique; and there is a Couching  
+<persName key="Venus">Venus</persName>, after <persName key="John">John</persName> of Bologna, the original of which must have been  
+like <persName key="Venus">Venus</persName> re-appearing from the antique world. </p>
+
+<p>Fewer people are aware how cheaply these things are sold. The  
+little statues are three or four shillings apiece, perhaps less 5 and a  
+profit is got upon the head of <persName key="Sappho">Sappho</persName> at eighteen-pence. You may  
+set a price upon Pa^is's head, and have the knave brought you at two  
+shillings. </p>
+
+<pb n="48"/>
+
+<p>Impressions from ancient gems are now also to be had with singular  
+cheapness, in consequence of an invention of Mr. <persName key="Tassie">Tassie</persName>'s, of  
+<placeName key='Leicester-square'>Leicester-square</placeName>. He has found out a composition, which enables him  
+to procure in a few days, for three and sixpence, an impression exactly  
+resembling that of any gem you may select. This you may either  
+have set for your watch-chain, or keep in your desk or pocket; for  
+the composition is very hard, and does not easily wear or chip off,  
+even at the edges. In a seal or a desk, it might last, we should  
+think, as long as the gem itself. Mr. <persName key="Tassie">Tassie</persName>'s collection of antiques  
+appears to be very extensive. You may have your choice among  
+all the gods and graces of the ancient world, — <placeName key='Jupiters'>Jupiters</placeName>, <placeName key='Apollos'>Apollos</placeName>,  
+<persName key="Venus">Venus</persName>es, the <persName key="Grace">Grace</persName>s, the <placeName key='Muses'>Muses</placeName>, <placeName key='Lyres'>Lyres</placeName>, <placeName key='Loves'>Loves</placeName>, <placeName key='Festivals'>Festivals</placeName>, Pastorals,  
+<placeName key='Patriots'>Patriots</placeName>, <placeName key='Poets'>Poets</placeName>, and Philosophers. </p>
+
+<p>It may be made an objection to the busts and other plaister casts,  
+that being so white and of such a material, they will not keep clean.  
+But they will keep as clean and as long too as the seals, if taken care of.  
+You have only to wash them lightly but completely over with a brush  
+dipped in linseed oil; and besides their taking a fine yellowish hue,  
+much better than the cold white, the dust may be brushed off ever  
+after as easily as from an oil painting. Paint will secure them in the  
+same way; but it is apt to injure the marking and expression, by  
+thickening the outline, and filling up the more delicate hollows. </p>
+
+<p>Thus for eighteen-pence, a room may be adorned with a cast after  
+the antique. <persName key="And">And</persName> it must be a very fine picture, in our opinion,  
+which can equal the effect even of a bust, much less of a large statue.  
+There is a kind of presence in sculpture, which there is not in the  
+flat surface and more obvious artifice of painting. It is more  
+companion-like; of rather, it is more godlike, intellectual, and  
+predominant. The very beauty of its shape becomes meditative. There is a  
+look in its calm, sightless eyes, that seems to dispense with the  
+common medium of vision; — a perceiving thought, an undisturbable  
+depth of intuition. </p>
+</div2>
+
+<div2 type="correspondents">
+                <p>[As this publication is unstamped, it will not circulate by means of the  
+                general post without a heavy expense. Persons in the country who  
+                wish to become subscribers, should therefore order it of booksellers who  
+                send weekly or monthly parcels to their respective places of residence.  
+                The delay would be of little consequence with a work not containing  
+                any thing of merely temporary interest.] </p> 
+                </div2>
+<div2 type="colophon" rend="center">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Two-pence.</p>
+                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, <placeName key='London'>London</placeName>.</p>
+            </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
+ 
