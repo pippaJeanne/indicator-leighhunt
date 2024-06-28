@@ -32,4 +32,11 @@ git add "path/to/file"
 git commit -m "message to indicate the kind of update"
 git push origin main
 
+### Editing NER 
+
+- Refer to the encoding guide of the corresponding tags in the [Reference file](https://github.com/pippaJeanne/indicator-leighhunt/blob/main/REFERENCE.md).
+
+*Note: For persName tags whose @key value is the same, add the corresponding attributes as explained in the REFERENCE file, and then **only add @ref in the entity containing the @xml-id attribute** on LEAf-Writer* 
+
+
 
