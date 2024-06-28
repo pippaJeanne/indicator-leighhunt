@@ -47,7 +47,7 @@
                     <epigraph>
                     <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key="Fairy-land">Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+                        <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
@@ -157,12 +157,12 @@ aware of them himself, seeing in what manner they were often denied, and
 what a convention there was among worldly and common-place men,  
 possessed of a little scholarship, to cry down every thing but themselves, he  
 ran to an extreme natural enough to such a mind, and proclaimed at once  
-that all which is commonly understood by the word <persName key="Learning">Learning</persName> was useless.  
+that all which is commonly understood by the word Learning was useless.  
 He saw that others mistook the letter for the spirit; and yet in objecting  
 to this mistake, he fell into one of the very same nature, and asserted that  
 learning was no longer wanted, because all the "useful books" in the  
 ancient languages had been translated.  By useful books, he means such  
-works as <persName key="Euclid">Euclid</persName>'s Elements : and here again he fell into an error, from  
+works as <title level="a">Euclid's Elements</title> : and here again he fell into an error, from  
 which the true spirit of learning might have saved him : he confounded  
 utility with mere science.  He forgot that for one instance in which mere  
 science is necessary to our happiness, there are a hundred in which we  
@@ -173,7 +173,7 @@ utility in as much as it conduces somehow or other to advantage and
 pleasure. Every thing that is truly pleasurable or beautiful is as useful  
 as the most scientific thing upon earth. <persName key="Jane">Jane</persName>, when she smiles at us, or  
 takes a country walk with us, or reads an author with us, is at least as  
-good as a !Spinning Jenny!. If we have twenty pleasures from the sight of  
+good as a Spinning Jenny. If we have twenty pleasures from the sight of  
 a cherry, such as the admiration of it's bloom, it's figure, it's scent, it's  
 suitableness to the leaves, it's connexion with orchards and the country,  
 and it's association with all that we have read of it in the poets, it is surely  
@@ -188,7 +188,7 @@ there is scarcely any of all the great poets in other languages, of whom the
 English reader has had a proper account from translators.  An individual  
 may have so much in him, from nature, of what the writers on the side of  
 beauty and imagination have done for humanity, that he may want little  
-improvement from books. <persName key="And">And</persName> we all <hi rend="italic">could</hi> go on without learning. We  
+improvement from books. And we all <hi rend="italic">could</hi> go on without learning. We  
 all could go on with half, or a quarter, or half a quarter of the science  
 that is now in the world. But if we are to see our way to happiness through  
 knowledge (and we cannot well return to it now-a-davs through the  
@@ -196,15 +196,15 @@ paths of ignorance, beset as they have been with every species of tyranny)
 then the more we know of what great minds have felt and said, the more  
 we increase the general stock of humanity in its largest sense. That all  
 the "useful books" therefore have been translated, must be denied.  
-Intelligent men of no scholarship, on reading Horace, for instance, and Ariosto,  
+Intelligent men of no scholarship, on reading <persName key ="Horace">Horace</persName>, for instance, and <persName key="Ariosto">Ariosto</persName>,  
 through the medium of translation, have often wondered how those writers  
-obtained their glory. <persName key="And">And</persName> they well might. The translations are no more  
+obtained their glory. And they well might. The translations are no more  
 like the original than a walking-stick is like a flowering bough. It is the  
 
 <pb n="4"/>
 
-same with the versions of Euripides, of AEschylus, of Sophocles, of Theocritus  
-of Petrarch, etc. etc, and in many respects of <persName key="Homer">Homer</persName>. Perhaps we  
+same with the versions of <persName key="Euripides">Euripides</persName>, of <persName key="AEschylus">AEschylus</persName>, of <persName key"Sophocles">Sophocles</persName>, of <persName key="Theocritus">Theocritus</persName>  
+of <persName key="Petrarch">Petrarch</persName>, etc. etc, and in many respects of <persName key="Homer">Homer</persName>. Perhaps we  
 could not give the reader a more brief yet complete specimen of the way  
 in which bad translations are made, than by selecting a well-known passage  
 from <persName key="William Shakespeare"><choice><sic>Shakspeare</sic><corr>Shakespeare</corr></choice></persName>, and turning it into the common-place kind of poetry  
@@ -216,7 +216,7 @@ on a bank by moonlight : — </p>
 <l>Here will we sit, and let the sounds of music  </l>
 <l>Creep in our ears; soft stillness, and the night,  </l>
 <l>Become the touches of sweet harmony. </l></lg></quote>
-<note type="source"><bibl><persName key="Shakespeare">Shakespeare</persName>, <persName key="William">William</persName>: The Merchant of Venice</bibl></note></cit>
+<note type="source"><bibl><persName key="William Shakespeare">Shakespeare, William</persName>: The Merchant of Venice</bibl></note></cit>
 
 <p>Now a foreign translator, of the ordinary kind, would dilute and take  
 all taste and freshness out of this draught of poetry, in a style amounting  
@@ -240,14 +240,14 @@ once.</p>
 </div2>
 
 <div2 type="section" n="2">
-<p><placeName key="Abaris">Abaris</placeName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
+<p><persName key="Abaris">Abaris</persName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
 to have received an arrow from <persName key="Apollo">Apollo</persName>, with which he rode through the  
 air, and which he afterwards gave to <persName key="Pythagoras">Pythagoras</persName> in return for the instruction  
-of that philosopher. His first appearance at <placeName key="Athens">Athens</placeName> was in consequence  
+of that philosopher. His first appearance at <placeName key="Athens" corresp="Greece">Athens</placeName> was in consequence  
 of a pestilence which then afflicted the world, and for the cessation  
 of which an oracle had enjoined the Athenians to pray in behalf of all the  
-other nations. <placeName key="Abaris">Abaris</placeName> came as the representative of the Hyperboreans.  
-The probability is, that he was a <persName key="Pythagorean">Pythagorean</persName> from some northern country;  
+other nations. <persName key="Abaris">Abaris</persName> came as the representative of the Hyperboreans.  
+The probability is, that he was a Pythagorean from some northern country;  
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
 been enough to make a miracle. He rode like an arrow. Drop the word  
@@ -264,25 +264,25 @@ ghost.</p>
 
 <pb n="5"/>
 
-<p>Abradates and <persName key="Panthea">Panthea</persName>, a singular example of conjugal affection on a  
-throne. Abradates was king of Susa in Persia during the wars between  
-Cyrus and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
+<p><persName key="Abradates">Abradates</persName> and <persName key="Panthea">Panthea</persName>, a singular example of conjugal affection on a  
+throne. <persName key="Abradates">Abradates</persName> was king of <placeName key="Susa" corresp="Iran">Susa in Persia</placeName> during the wars between  
+<persName key="Cyrus">Cyrus</persName> and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
-continence and respect, Cyrus having denied himself even the temptation of  
+continence and respect, <persName key="Cyrus">Cyrus</persName> having denied himself even the temptation of  
 seeing her, he went over to that prince with all his troops. Unfortunately,  
 he was slain in the first battle that he fought for his new friend; and  
 <persName key="Panthea">Panthea</persName>, unable to bear the loss of so noble and affectionate a spirit, killed  
-herself on his dead body. The story was first told by <persName key="Xenophon">Xenophon</persName>, <persName key="Besides">Besides</persName>  
+herself on his dead body. The story was first told by <persName key="Xenophon">Xenophon</persName>. Besides  
 it's own interest, it is curious as one of the few specimens afforded by the  
 ancient world, of chivalrous gallantry towards a woman.</p>
 
 </div2>
 
 <div2 type="section" n="3">
-<p>Uriel <persName key="Acosta">Acosta</persName>, a Portuguese at the beginning of the 17th century,  
+<p><persName key="Uriel Acosta">Uriel Acosta</persName>, a Portuguese at the beginning of the 17th century,  
 presented the world with a strange instance of vacillation in religious faith.  
 He first turned Jew, converting at the same time his mother and brothers,  
-and fled with them to <placeName key="Amsterdam">Amsterdam</placeName>, where they were received into a synagogue.  
+and fled with them to <placeName key="Amsterdam" corresp="The Netherlands">Amsterdam</placeName>, where they were received into a synagogue.  
 Becoming dissatisfied with some of the Jewish rites, and giving vent  
 to his objections, he was excommunicated by the Jews. He then wrote a  
 treatise against the immortality of the soul, for which he was seized and  
@@ -293,17 +293,17 @@ expelled. Under this second sentence he remained seven years, abandoned
 by his friends, and reduced to an extremity of wretchedness. At last, he  
 again prostrated himself before the Jewish priests, and was again received  
 after an extraordinary penance, during which the most melancholy and  
-appalling ceremonies were gone through, <persName key="candles">candles</persName> lighted up and put out, and  
+appalling ceremonies were gone through, candles lighted up and put out, and  
 blood dropped into basons. We speak from the recollection of what  
 we have read 3 but the proceeding was of this description. At the conclusion  
 of these infernal ceremonies, he lay down upon the ground at the  
 threshold of the synagogue, and every member of it walked over his body.  
-He shot himself. — <persName key="Acosta">Acosta</persName> has been idly accused of impiety, and even  
+He shot himself. — <persName key="Uriel Acosta">Acosta</persName> has been idly accused of impiety, and even  
 of worldly selfishness. A man is not full of religious scruples out of impiety;  
 much less keeps out of the pale of his worldly interest over and over again,  
 and for so many years together. Perhaps his history is only an extraordinary  
 instance of the perplexity arising from having had progenitors of  
-different faiths. <persName key="Acosta">Acosta</persName>'s father was a <persName key="Roman- Catholic">Roman- Catholic</persName>, but descended  
+different faiths. <persName key="Uriel Acosta">Acosta</persName>'s father was a Roman-Catholic, but descended  
 from a Jewish stock. The Catholics would naturally wish to keep him  
 Catholic, and the Jews would naturally help his yearnings after Judaism.  
 Perplexed between references to both, his mind wavered; and being an  
@@ -318,40 +318,40 @@ like a frightened animal, into the toils of his <hi rend="italic">first fear</hi
 
 <pb n="6"/>
 
-in the family. He stared about him a while, amidst the <persName key="candles">candles</persName>, the  
+in the family. He stared about him a while, amidst the candles the  
 curses, and the dropping blood; and then went melancholy, and killed  
 himself. — Thus an honest man is driven into suicide, because his ancestors  
 differed in point of faith! The religionist will say that this shews the value  
 of having one regular hereditary faith; but would he cease then to convert  
-the heretic to his own? <persName key="And">And</persName> what good did this do to the poor unwilling  
-martyr <persName key="Acosta">Acosta</persName>? The philosopher will say that it shews the wretched  
+the heretic to his own? And what good did this do to the poor unwilling  
+martyr <persName key="Uriel Acosta">Acosta</persName>? The philosopher will say that it shews the wretched  
 tyranny of custom.</p>
 
 </div2>
 
 <div2 type="section" n="4">
-<p>Polyphemus, <persName key="Acis">Acis</persName>, and Galatea, one of the most celebrated love-stories  
+<p><persName key="Polyphemus">Polyphemus</persName>, <persName key="Acis">Acis</persName>, and <persName key="Galatea">Galatea</persName>, one of the most celebrated love-stories  
 in ancient fable. <persName key="Acis">Acis</persName> was a mortal, because his mother was so, though  
-his father was the wood-god Faunus. Galatea, who loved him deeply, and  
+his father was the wood-god <persName key="Faunus">Faunus</persName>. <persName key="Galatea">Galatea</persName>, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
-the delightful vales of <placeName key="Sicily">Sicily</placeName>; but unfortunately it had one drawback, 
-which was the jealous importunity of <placeName key="Neptune">Neptune</placeName>'s gigantic and one-eyed son,  
-the terrible Polyphemus. In vain the enamoured monster implored Galatea  
+the delightful vales of <placeName key="Sicily" corresp="Italy">Sicily</placeName>; but unfortunately it had one drawback, 
+which was the jealous importunity of <persName key="Neptune">Neptune</persName>'s gigantic and one-eyed son,  
+the terrible <persName key="Polyphemus">Polyphemus</persName>. In vain the enamoured monster implored <persName key="Galatea">Galatea</persName>  
 to listen to him. In vain had love softened the natural ferocity of his  
 manners, so that he would sit whole days on the sea-coast, watching to  
 catch a glimpse of her out of the water, while the tears ran down his  
 dreadful face, and he was as gentle and humble as a child. The fair nymph  
 fled but the more for refuge into the arms of the handsome shepherd. The  
-wretched Polyphemus, looking down one day into a valley, saw the happy  
+wretched <persName key="Polyphemus">Polyphemus</persName>, looking down one day into a valley, saw the happy  
 lovers giving way to their transport; and this sight made the load of his  
 despair intolerable. He rent off a fragment of the rock on which he was  
-sitting; and hurling it down as <placeName key="Jupiter">Jupiter</placeName> might do his thunder, smote his  
-rival so as to crush him to death. Galatea, inconsolable, and unable to  
+sitting; and hurling it down as <persName key="Jupiter">Jupiter</persName> might do his thunder, smote his  
+rival so as to crush him to death. <persName key="Galatea">Galatea</persName>, inconsolable, and unable to  
 restore her lover to life, or render him a deity like herself, turned him into  
-a fountain. It was after this event that we may suppose Polyphemus to  
+a fountain. It was after this event that we may suppose <persName key="Polyphemus">Polyphemus</persName> to  
 have become the inhospitable and cruel wretch which he is described  
-to be in <persName key="Homer">Homer</persName>'s Odyssey : and this point of view helps to throw an  
+to be in <persName key="Homer">Homer</persName>'s <title level="m">Odyssey</title> : and this point of view helps to throw an  
 additional interest over his story, which always appeared to us one of the  
 most pathetic and deeply-meaning in poetry. He was separated by his  
 monstrous appearance from human kind, and yet in his heart and inclinations  
@@ -360,19 +360,19 @@ made him ireful, revengeful, impious. What moral can go to the heart of
 things more deeply than this? </p>
 
 <p>This story has been a great favourite with all men of genius. It has  
-been touched upon with great pathos and simplicity by Theocritus, who  
+been touched upon with great pathos and simplicity by <persName key="Theocritus">Theocritus</persName>, who  
 was followed not so well by <persName key="Virgil">Virgil</persName>, and with much less nature by <persName key="Ovid">Ovid</persName>.  
 The Italian writers are so fond of it, that they have sonnets, called  
-Polyphemic sonnets. <persName key="Raphael">Raphael</persName> painted a beautiful picture of Galatea  
-triumphing on the waters, of which there are many engravings. <persName key="And">And</persName>  
+Polyphemic sonnets. <persName key="Raphael">Raphael</persName> painted a beautiful picture of <persName key="Galatea">Galatea</persName>  
+triumphing on the waters, of which there are many engravings. And  
 <persName key="Handel">Handel</persName> finished the homage of the arts to it by that divine oratorio of <persName key="Acis">Acis</persName>  
-and Galatea, for which <persName key="Gay">Gay</persName> contributed words not unworthy. If the reader  
+and <persName key="Galatea">Galatea</persName>, for which <persName key="Gay">Gay</persName> contributed words not unworthy. If the reader  
 wishes to know how the great poets have written on the subject, he should  
 hear how <persName key="Handel">Handel</persName> composed.</p>
 
 <pb n="7"/>
 
-<p>Country Houses near <placeName key="Town">Town</placeName>. — We have often wondered, in the midst  
+<p>Country Houses near Town. — We have often wondered, in the midst  
 of the trees and fields, how people can be aware of the existence of such  
 beautiful things, and not long to enjoy them : — we mean, of course, in the  
 manner as well as the degree, in which some others enjoy them : for  
@@ -470,7 +470,7 @@ took him out of it at last.</p>
 <l>As I shall describe her thee.</l>
 <l>Paint me first her fine dark hair.</l>
 <l>Fawning into ringlets there;</l>
-<l><persName key="And">And</persName> if brush has power to do it,</l>
+<l>And if brush has power to do it,</l>
 <l>Paint the odour breathing through it.</l>
 <l>Then from out her ripe young cheek.</l>
 <l><placeName key="Underneath">Underneath</placeName> those tresses sleek.</l>
@@ -489,13 +489,13 @@ took him out of it at last.</p>
 <l>Like shallow milk with roses in't:</l>
 <l>Let her lip <persName key="Persuasion">Persuasion</persName>'s be.</l>
 <l>Asking our's provokingly :</l>
-<l><persName key="And">And</persName> beneath her satin chin.</l>
+<l>And beneath her satin chin.</l>
 <l>With a dimple broken in,</l>
-<l><persName key="And">And</persName> all about those precious places,</l>
+<l>And all about those precious places,</l>
 <l><persName key="Set">Set</persName> a thousand hovering graces.</l>
 <l>Now then, — let the drapery spread.</l>
 <l>With an under tint of red.</l>
-<l><persName key="And">And</persName> a glimpse left scarcely drest.</l>
+<l>And a glimpse left scarcely drest.</l>
 <l>So that what remains be guess'd</l>
 <l>'Tis enough: 'tis she! 'tis she!</l>
 <l>O thou sweet face, speak to me.</l>
