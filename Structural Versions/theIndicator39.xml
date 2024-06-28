@@ -66,10 +66,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133410259",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133432842",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-06-28T17:34:10.259Z",
-	"dcterms:modified": "2024-06-28T17:34:32.842Z",
+	"dcterms:created": "2024-06-28T17:34:32.842Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -80,7 +79,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133410259#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133432842#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml",
@@ -94,7 +93,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133410259#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?date_annotation_20240628133432842#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/head[2]/date"
 		}
@@ -144,10 +143,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628133447547",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628134213576",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-06-28T17:34:47.547Z",
-	"dcterms:modified": "2024-06-28T17:34:47.547Z",
+	"dcterms:created": "2024-06-28T17:42:13.576Z",
+	"dcterms:modified": "2024-06-28T17:42:13.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -158,7 +157,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628133447547#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628134213576#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml",
@@ -172,7 +171,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628133447547#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628134213576#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName"
 		}
@@ -224,7 +223,7 @@
           <head type="catalogue" rend="center">No. XXXIX.<date when="1820-07-05"> —WEDNESDAY, July 5th, 1820</date>.</head>
         </div2>
         <div2 type="section" n="1"> <!-- Header and content -->
-          <head type="header" rend="center"><persName key="Galgano" type="fictional">GALGANO</persName> AND <persName type="fictional" xml:id="minoccia">MADONNA MINOCCIA</persName>.</head>
+          <head type="header" rend="center"><persName key="Galgano" type="fictional" xml:id="galgano">GALGANO</persName> AND <persName type="fictional" xml:id="minoccia">MADONNA MINOCCIA</persName>.</head>
            <p>In <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName> in <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> , famous for it's sweet voices and pleasant air, lived a sprightly aud accomplished young man of the name of 
 <persName type="fictional">Galgano</persName>, who had long loved in vain the wife of one <persName type="fictional">Signor Stricca</persName>. 
 He knew nothing of the husband, except that he was what we call a 
