@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <!-- File Description -->
         <fileDesc>
@@ -11,7 +9,7 @@
             </titleStmt>
 
             <publicationStmt>
-                <p />
+                <p/>
             </publicationStmt>
 
             <!-- Author information -->
@@ -27,7 +25,7 @@
         </fileDesc>
 
         <!-- Encoding Description -->
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
                 Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -43,16 +41,15 @@
     <text>
         <body>
             <div1 type="issue" n="1">
-                <pb n="1" /> <!-- Page beginning -->
+                <pb n="1"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key="Fairy-land">Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                                cert="high" type="real">SPENSER</persName>.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. I. <date when="1819-10-13">—WEDNESDAY, OCTOBER 13th, 1819</date>.</head>
                 </div2>
@@ -131,21 +128,21 @@ laughers in <persName key="William Shakspeare"><choice><sic>Shakspeare</sic><cor
 <note type="source"> <bibl><author><persName key="William Shakespeare">William Shakespeare</persName></author>: <title>Love's Labour Lost</title>. </bibl></note></cit>
 
 <p>Some of the names had a meaning in their absurdity, such as the <persName key="Adviser">Adviser</persName>,  
-or Helps for Composing; — the <placeName key='Cheap Reflector'>Cheap Reflector</placeName>, or Every Man His Own  
+or Helps for Composing; — the <placeName key="Cheap Reflector">Cheap Reflector</placeName>, or Every Man His Own  
 Looking- Glass; — the <persName key="Retailer">Retailer</persName>, or Every Man His Own Other Man's Wit;  
-— <placeName key='Nonsense'>Nonsense</placeName>, To be Continued. Others were laughable by the mere force  
+— <placeName key="Nonsense">Nonsense</placeName>, To be Continued. Others were laughable by the mere force  
 of contrast, as the Crocodile, or Pleasing Companion; — <persName key="Chaos">Chaos</persName>, or the  
-Agreeable Miscellany; — the Fugitive Guide; — the <placeName key='Foot-Soldier'>Foot-Soldier</placeName>, or Flowers  
+Agreeable Miscellany; — the Fugitive Guide; — the <placeName key="Foot-Soldier">Foot-Soldier</placeName>, or Flowers  
 of Wit; — <persName key="Bigotry">Bigotry</persName>, or the Cheerful Instructor; — the Polite Repository of  
 Abuse; — Blood, being a Collection of Light Essays. Others were sheer  
 ludicrousness and extravagance, as the Pleasing Ancestor; the Silent  
 Remarker; the Tart; the Leg of Beef by a <persName key="Layman">Layman</persName>; the Ingenious  
-Hatband; the Booths of Bliss; the Occasional Diner; the <placeName key='Tooth-ache'>Tooth-ache</placeName>;  
+Hatband; the Booths of Bliss; the Occasional Diner; the <placeName key="Tooth-ache">Tooth-ache</placeName>;  
 Recollections of a Very Unpleasant Nature; Thoughts on Taking up a Pair of  
 Snuffers; Thoughts on a Barouche-Box; Thoughts on a Hill of Considerable  
 Eminence; Meditations on a Pleasing Idea; Materials for Drinking; the  
 Knocker, No. I; — the Hippopotamus Entered at Stationers' Hall; the  
-<placeName key='Piano-forte'>Piano-forte</placeName> of <persName key="Paulus AEmilius">Paulus AEmilius</persName>; the Seven Sleepers at Cards; the Arabian  
+<placeName key="Piano-forte">Piano-forte</placeName> of <persName key="Paulus AEmilius">Paulus AEmilius</persName>; the Seven Sleepers at Cards; the Arabian  
 Nights on Horseback : — with an infinite number of other mortal murders  
 of common sense, which rose to "push us from our stools," and which  
 none but the wise or good-natured would ever think of laughing at.</p> 
@@ -153,7 +150,7 @@ none but the wise or good-natured would ever think of laughing at.</p>
 <pb n="3"/>
 
 <p>A MISTAKE OF MR. THOMAS PAINE'S UPON LEARNING; AND A WORD  
-OR TWO ON TRANSLATION. — We speak of <placeName key='Mr'>Mr</placeName>. <persName key="Paine">Paine</persName> as a deceased author  
+OR TWO ON TRANSLATION. — We speak of <placeName key="Mr">Mr</placeName>. <persName key="Paine">Paine</persName> as a deceased author  
 whom it is a vulgar error to under-rate. His great natural powers have  
 forced themselves into eminence through every species of obstacle. Well  
 aware of them himself, seeing in what manner they were often denied, and  
@@ -239,17 +236,17 @@ have rendered so celebrated, in abridgments like ours of the utmost brevity
 and simplicity, than in whole volumes of this kind of misrepresentation.  
 The simple elements of them will be laid before him; and the eye of his  
 own unobstructed heart will see more of what the poets saw in them, at  
-once.</p>
+once.<note cert="high" evaluate="all" place="top" type="editorial" xml:space="default">Testing</note></p>
 </div2>
 
 <div2 type="section" n="2">
-<p><placeName key='Abaris'>Abaris</placeName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
+<p><placeName key="Abaris">Abaris</placeName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
 to have received an arrow from <persName key="Apollo">Apollo</persName>, with which he rode through the  
 air, and which he afterwards gave to <persName key="Pythagoras">Pythagoras</persName> in return for the instruction  
-of that philosopher. His first appearance at <placeName key='Athens'>Athens</placeName> was in consequence  
+of that philosopher. His first appearance at <placeName key="Athens">Athens</placeName> was in consequence  
 of a pestilence which then afflicted the world, and for the cessation  
 of which an oracle had enjoined the Athenians to pray in behalf of all the  
-other nations. <placeName key='Abaris'>Abaris</placeName> came as the representative of the Hyperboreans.  
+other nations. <placeName key="Abaris">Abaris</placeName> came as the representative of the Hyperboreans.  
 The probability is, that he was a <persName key="Pythagorean">Pythagorean</persName> from some northern country;  
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
@@ -281,12 +278,11 @@ ancient world, of chivalrous gallantry towards a woman.</p>
 
 </div2>
 
-<div2
- type="section" n="3">
+<div2 type="section" n="3">
 <p>Uriel <persName key="Acosta">Acosta</persName>, a Portuguese at the beginning of the 17th century,  
 presented the world with a strange instance of vacillation in religious faith.  
 He first turned Jew, converting at the same time his mother and brothers,  
-and fled with them to <placeName key='Amsterdam'>Amsterdam</placeName>, where they were received into a synagogue.  
+and fled with them to <placeName key="Amsterdam">Amsterdam</placeName>, where they were received into a synagogue.  
 Becoming dissatisfied with some of the Jewish rites, and giving vent  
 to his objections, he was excommunicated by the Jews. He then wrote a  
 treatise against the immortality of the soul, for which he was seized and  
@@ -339,8 +335,8 @@ in ancient fable. <persName key="Acis">Acis</persName> was a mortal, because his
 his father was the wood-god Faunus. Galatea, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
-the delightful vales of <placeName key='Sicily'>Sicily</placeName>; but unfortunately it had one drawback, 
-which was the jealous importunity of <placeName key='Neptune'>Neptune</placeName>'s gigantic and one-eyed son,  
+the delightful vales of <placeName key="Sicily">Sicily</placeName>; but unfortunately it had one drawback, 
+which was the jealous importunity of <placeName key="Neptune">Neptune</placeName>'s gigantic and one-eyed son,  
 the terrible Polyphemus. In vain the enamoured monster implored Galatea  
 to listen to him. In vain had love softened the natural ferocity of his  
 manners, so that he would sit whole days on the sea-coast, watching to  
@@ -350,7 +346,7 @@ fled but the more for refuge into the arms of the handsome shepherd. The
 wretched Polyphemus, looking down one day into a valley, saw the happy  
 lovers giving way to their transport; and this sight made the load of his  
 despair intolerable. He rent off a fragment of the rock on which he was  
-sitting; and hurling it down as <placeName key='Jupiter'>Jupiter</placeName> might do his thunder, smote his  
+sitting; and hurling it down as <placeName key="Jupiter">Jupiter</placeName> might do his thunder, smote his  
 rival so as to crush him to death. Galatea, inconsolable, and unable to  
 restore her lover to life, or render him a deity like herself, turned him into  
 a fountain. It was after this event that we may suppose Polyphemus to  
@@ -376,7 +372,7 @@ hear how <persName key="Handel">Handel</persName> composed.</p>
 
 <pb n="7"/>
 
-<p>Country Houses near <placeName key='Town'>Town</placeName>. — We have often wondered, in the midst  
+<p>Country Houses near <placeName key="Town">Town</placeName>. — We have often wondered, in the midst  
 of the trees and fields, how people can be aware of the existence of such  
 beautiful things, and not long to enjoy them : — we mean, of course, in the  
 manner as well as the degree, in which some others enjoy them : for  
@@ -477,7 +473,7 @@ took him out of it at last.</p>
 <l><persName key="And">And</persName> if brush has power to do it,</l>
 <l>Paint the odour breathing through it.</l>
 <l>Then from out her ripe young cheek.</l>
-<l><placeName key='Underneath'>Underneath</placeName> those tresses sleek.</l>
+<l><placeName key="Underneath">Underneath</placeName> those tresses sleek.</l>
 <l>Paint her brow of ivory;</l>
 <l>Taking care the eyebrows be</l>
 <l>Not apart, nor mingled neither.</l>
@@ -488,7 +484,7 @@ took him out of it at last.</p>
 <cb n="2"/>
 <l>Fetch her eyesight out of fire;</l>
 <l><persName key="Like Minerva">Like Minerva</persName>'s, sparkling blue;</l>
-<l><persName key="Moist">Moist</persName>, like <placeName key='Cytherea'>Cytherea</placeName>'s too;</l>
+<l><persName key="Moist">Moist</persName>, like <placeName key="Cytherea">Cytherea</placeName>'s too;</l>
 <l><persName key="Give">Give</persName> her nose and cheeks a tint</l>
 <l>Like shallow milk with roses in't:</l>
 <l>Let her lip <persName key="Persuasion">Persuasion</persName>'s be.</l>
@@ -513,4 +509,3 @@ took him out of it at last.</p>
         </body>
     </text>
 </TEI>
-  
