@@ -25,11 +25,15 @@ flowchart TD
 Type the following commands in order:
 
 git remote add origin https://github.com/pippaJeanne/indicator-leighhunt.git
+
 git remote -v (to verify you have the right one)
 
 - Updating the repo with one or more files:
+  
 git add "path/to/file"
+
 git commit -m "message to indicate the kind of update"
+
 git push origin main
 
 ### Editing NER 
