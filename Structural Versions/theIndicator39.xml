@@ -224,10 +224,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140108922",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140228653",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-06-28T18:01:08.922Z",
-	"dcterms:modified": "2024-06-28T18:01:08.922Z",
+	"dcterms:created": "2024-06-28T18:02:28.653Z",
+	"dcterms:modified": "2024-06-28T18:02:28.653Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -238,7 +238,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140108922#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140228653#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml",
@@ -252,7 +252,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140108922#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator39.xml?person_annotation_20240628140228653#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
 		}
@@ -269,7 +269,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -306,7 +307,7 @@
         <div2 type="section" n="1"> <!-- Header and content -->
           <head type="header" rend="center"><persName key="Galgano" type="fictional" xml:id="galgano" cert="medium">GALGANO</persName> AND <persName type="fictional" xml:id="minoccia">MADONNA MINOCCIA</persName>.</head>
            <p>In <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName> in <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> , famous for it's sweet voices and pleasant air, lived a sprightly aud accomplished young man of the name of 
-<persName type="fictional">Galgano</persName>, who had long loved in vain the wife of one <persName type="fictional">Signor Stricca</persName>. 
+<persName type="fictional" cert="medium" corresp="#galgano">Galgano</persName>, who had long loved in vain the wife of one <persName type="fictional">Signor Stricca</persName>. 
 He knew nothing of the husband, except that he was what we call a 
 respectable man; and something or other in his mind prevented him 
 from making his acquaintance; but he contrived to meet the lady 
