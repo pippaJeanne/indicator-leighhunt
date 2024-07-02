@@ -148,7 +148,7 @@ Examples
 ```
 
 ### placeName
-Indicate country in @corresp attribute when the placeName tag does not contain the name of a country.
+Indicate country in @corresp attribute for the placeName tag even when the key contains the name of a country.
 
 Example:
 
