@@ -47,33 +47,33 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+                        <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund <persName key="Spenser">Spenser</persName>" ref="http://www.wikidata.org/entity/Q4352055"
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. I. <date when="1819-10-27">—WEDNESDAY, OCTOBER 27th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header"> GODIVA. </head>
+                    <head type="header"> <persName key="Godiva">GODIVA</persName>. </head>
 
 
-<p>This is the lady, who under the title of Countess of <placeName key='Coventry'>Coventry</placeName>, used  
+<p>This is the lady, who under the title of <persName key="Godiva">Countess of Coventry</persName>, used  
 to make such a figure in our childhood upon some old pocket-pieces  
 of that city. We hope she is in great request there still; or the  
-inhabitants deserve to be sent from <placeName key='Coventry'>Coventry</placeName>. That city used to  
+inhabitants deserve to be sent from <placeName key="Coventry" corresp="England">Coventry</placeName>. That city used to  
 be famous in saintly legends for the visit of the eleven thousand  
 virgins, — an "incredible number" saith <persName key="Selden">Selden</persName>. But the eleven  
 thousand virgins have vanished with their credibility; and a real  
-noble-hearted woman of flesh and blood is <placeName key='Coventry'>Coventry</placeName>'s true immortality.</p>
+noble-hearted woman of flesh and blood is <placeName key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
 
 <p>The story of <persName key="Godiva">Godiva</persName> is not a fiction, as many suppose it. At least  
-it is to be found in <placeName key='Matthew of Westminster'>Matthew of Westminster</placeName>, and is not of a nature  
+it is to be found in <persName key="Matthew of Westminster">Matthew of Westminster</persName>, and is not of a nature  
 to have been a mere invention. Her name, and that of her husband,  
-<placeName key='Leofric'>Leofric</placeName>, are mentioned in an old charter recorded by another  
-<persName key="earl">earl</persName>y historian. That the story is omitted by <persName key="Hume">Hume</persName> and others  
+<persName key="Leofric">Leofric</persName>, are mentioned in an old charter recorded by another  
+early historian. That the story is omitted by <persName key="Hume">Hume</persName> and others  
 argues little against it; for the latter are accustomed to confound  
 the most interesting anecdotes of times and manners with something  
 below the dignity of history (a very absurd mistake); — and <persName key="Hume">Hume</persName>,  
@@ -82,7 +82,7 @@ notoriously less philosophical in his history than in any other of
 his works. A certain coldness of temperament, not unmixed with  
 aristocratical pride, or at least with a great aversion from every thing  
 like vulgar credulity, rendered his scepticism so extreme, that it  
-became in spite of itself a sort of superstition in turn, and bl<placeName key='inde'>inde</placeName>d  
+became in spite of itself a sort of superstition in turn, and blinded  
 him to the claims of every species of enthusiasm, civil as well as  
 religious. <persName key="Milton">Milton</persName>, with his poetical eyesight, saw better when he  
 meditated the history of his native country. We do not remember  
@@ -90,7 +90,7 @@ whether he relates the present story; but we remember well, that
 at the beginning of his fragment on that subject, he says he shall  
 relate doubtful stories as well as authentic ones, for the benefit of  
 those, if no others, who will know how to make use of them,—  
-namely, the poets. <note type="hunt" place="foot"> When <persName key="Dr">Dr</persName>. <persName key="Johnson">Johnson</persName>, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
+namely, the poets. <note type="hunt" place="foot"> When <persName key="Dr. Johnson">Dr. Johnson</persName>, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
 haye overlooked this announcement; and yet, if we recollect, it is but in the  
 second page of the fragment. So hasty, and blind, and liable to be put to shame  
 is prejudice.</note> We have faith however in the story ourselves.</p>
@@ -214,7 +214,7 @@ the circumstances which gave rise to the associations, press upon
 us; it is only from want of health that the power of throwing off  
 these burdensome images becomes suspended.</p>
 
-<p><persName key="And">And</persName> the beauty of this art is, that it does not insist upon pleasant  
+<p>And the beauty of this art is, that it does not insist upon pleasant  
 materials to work on. Nor <placeName key='inde'>inde</placeName>ed does health. Health will give us  
 a vague sense of delight, in the midst of objects that would teaze  
 and oppress us during sickness. But healthy association peoples this  
@@ -228,7 +228,7 @@ the others, so as to injure the sense of public duty which they
 excite; they only serve to keep our spirits fresh for their task, and  
 h<placeName key='inde'>inde</placeName>r them from running into desperation or hopelessness. In  
 <placeName key='<placeName key='<persName key="St">St</persName>.'><persName key="St">St</persName>.</placeName> <persName key="Giles">Giles</persName>'><placeName key='<persName key="St">St</persName>.'><persName key="St">St</persName>.</placeName> <persName key="Giles">Giles</persName></placeName>'s Church lie Chapman, the <persName key="earl">earl</persName>iest and best translator of  
-<persName key="Homer">Homer</persName>; and <persName key="And">And</persName>rew Mar veil, the wit and patriot, whose poverty  
+<persName key="Homer">Homer</persName>; and Andrew Mar veil, the wit and patriot, whose poverty  
 <persName key="Charles the Second">Charles the Second</persName> could not bribe. We are as sure to think of  
 these two men, and of all the good and pleasure they have done to  
 the world, as of the less happy objects about us. The steeple of the  
@@ -240,7 +240,7 @@ the stone steeple piercing up into a blue sky. So much for <placeName key='<pers
 <persName key="Giles">Giles</persName>'s, whose very name is a nuisance with some. It is dangerous  
 to speak disrespectfully of old districts. Who would suppose  
 that the <placeName key='Borough'>Borough</placeName> was the most classical ground in the metropolis?  
-<persName key="And">And</persName> yet it is undoubtedly so. The Globe theatre was there, of  
+And yet it is undoubtedly so. The Globe theatre was there, of  
 which <persName key="Shakspeare">Shakspeare</persName> himself was a proprietor, and for which he wrote  
 his plays. Globe-lane, in which it stood, is still extant, we believe,   
 under that name. It is probable that he lived near it : it is certain  
@@ -296,7 +296,7 @@ full of jovial wit, says.</p>
 <l>So nimble, and so full of subtle flame. </l>
 <l>As if that every one from whom they came </l>
 <l>Had meant to put his whole wit in a jest. </l>
-<l><persName key="And">And</persName> had resolved to live a fool the rest </l>
+<l>And had resolved to live a fool the rest </l>
 <l>Of his dull life. Then, when there hath been thrown </l>
 <l>Wit, able enough to justify the town </l>
 <l>For three days past, — wit, that might warrant be </l>
@@ -332,7 +332,7 @@ ranks; for it was once a monastery of Grey Friars. Among them is
 <p>Here also lies <persName key="Thomas Burdet">Thomas Burdet</persName>, ancestor of the present Sir  
 <persName key="Francis">Francis</persName>, who was put to death in the reign of <persName key="Edward the Fourth">Edward the Fourth</persName>,  
 for wishing the horns of a favourite white stag which the king had  
-killed, in the body of the person who advised him to do it. <persName key="And">And</persName>  
+killed, in the body of the person who advised him to do it. And  
 here too (a sufficing contrast) lies <persName key="Isabella">Isabella</persName>, wife of <persName key="Edward the Second">Edward the Second</persName>,</p>
 
 <lg><l>She, wolf of <placeName key='France'>France</placeName>, with unrelenting fangs. </l>
@@ -419,7 +419,7 @@ omitted also? No less an illustrious head that the Boar's, in
 East-cheap,— the Boar's Head Tavern, the scene of Falstaff's revels. We  
 believe the place is still marked out by a similar sign. But who  
 knows not East-cheap and the Boar's Head? Have we not all been  
-there time out of mind? <persName key="And">And</persName> is it not a more real as well as  
+there time out of mind? And is it not a more real as well as  
 notorious thing to us than the London Tavern, or the Crown and  
 Anchor, or the Hummums, or White's, or What's-his-name's, or any  
 other of your contemporary and fleeting taps? </p>
@@ -441,7 +441,7 @@ generosity of that amiable man : —</p>
 <l>Where little villains must submit to fate </l>
 <l>That great ones may enjoy the world in state; </l>
 <l>There stands a dome, majestic to the sight. </l>
-<l><persName key="And">And</persName> sumptuous arches bear it's oval height; </l>
+<l>And sumptuous arches bear it's oval height; </l>
 <l>A golden globe, placed high with artful skill. </l>
 <l><persName key="Seems">Seems</persName>, to the distant sight, a gilded pill. </l></lg>
 
@@ -456,24 +456,24 @@ of the picture is still alive. (<placeName key='Trivia'>Trivia</placeName>, Book
 <lg><l>Where the fair columns of <placeName key='<persName key="St">St</persName>.'><persName key="St">St</persName>.</placeName> <persName key="Clement">Clement</persName> stand. </l> 
 <l><persName key="Whose">Whose</persName> straitened bounds encroach upon the <placeName key='<persName key="St">St</persName>rand'><persName key="St">St</persName>rand</placeName>; </l>
 <l>Where the low pent-house bows the walker's head. </l>
-<l><persName key="And">And</persName> the rough pavement wounds the yielding tread; </l>
+<l>And the rough pavement wounds the yielding tread; </l>
 <l>Where not a post protects the narrow space. </l>
-<l><persName key="And">And</persName> strung in twines, combs dangle in thy face; </l>
+<l>And strung in twines, combs dangle in thy face; </l>
 <l><persName key="Summon">Summon</persName> at once thy courage, rouse thy <persName key="Care">Care</persName>, </l>
 <l><persName key="St">St</persName>and firm, look back, be resolute, beware. </l>
 <l>Forth issuing from steep lanes, the collier's steeds </l>
 <l><persName key="Dr">Dr</persName>ag the black load; another cart succeeds; </l>
 <l>Team follows team, crouds heaped on crouds appear, </l>
-<l><persName key="And">And</persName> wait impatient till the road grow clear. </l></lg>
+<l>And wait impatient till the road grow clear. </l></lg>
 
 <p>There is a touch in the winter picture in the same poem, which  
 every body will recognize : — </p>
 
 <lg><l><persName key="At White">At White</persName>'s the harnessed chairman idly stands, </l>
-<l><persName key="And">And</persName> swings around his waist his tingling hands. </l></lg>
+<l>And swings around his waist his tingling hands. </l></lg>
 
 <p>The bewildered passenger in the Seven Dials is compared to <persName key="Theseus">Theseus</persName>  
-in the <placeName key='Cretan Labyrinth'>Cretan Labyrinth</placeName>. <persName key="And">And</persName> thus we come round to the point at  
+in the <placeName key='Cretan Labyrinth'>Cretan Labyrinth</placeName>. And thus we come round to the point at  
 which we began.</p>
 
 <p>Before we rest our wings, however, we must take another drift  
