@@ -47,9 +47,9 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key='Africa'>Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of <placeName key='Fairy-land'>Fairy-land</placeName>:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+                        <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
@@ -59,7 +59,7 @@
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header"> THE BEAU MISER, AND WHAT HAPPENED TO HIM AT BRIGHTON.</head>
 
-<p>There was a man of the name of <persName key="Kennedy">Kennedy</persName>, who was well known  
+<p>There was a man of the name of <persName key="Charles Kennedy">Kennedy</persName>, who was well known  
 to people of fashion in our childhood, but with whose origin, preterisions  
 or way of living, nobody was acquainted. That he was rich  
 was certain, for he wore the most precious stones on his fingers, and  
@@ -78,8 +78,8 @@ repute.</p>
 
 <p>All this, for some tirtie, procured him a good reception; but at last,   
 people began to wonder that though he got invitations from every  
-body, he gave none himself. It was not even known that her evei*  
-fidade a present, or had a person home with him even to a luhch^tt  
+body, he gave none himself. It was not even known that her ever  
+fidade a present, or had a person home with him even to a luhcheon  
 or a cup of tea. Twice he gave a great dinner, at which it- was  
 owned that there was a profusion of every thing; but though it was  
 not at a tavern, it was not at his own place of abode; and the people  
@@ -90,9 +90,9 @@ soon contrived to have pretty strong proofe of it. In vain the least
 bashful of his acquaintances admired the beauty of his numerous  
 rings; in vain others applied to him for loans of money, some by  
 way of trial and others from necessity; in vain his movements  
-were watched by the moi^ idle and gossiping; in vain hints were  
+were watched by the more idle and gossiping; in vain hints were  
 thrown out and questions asked, and his very footsteps pursued.  
-His rings were all keepsakes -, he always had no money juif then;  
+His rings were all keepsakes -, he always had no money <hi rend="italics">just then</hi>;  
 
 <pb n="26"/>
 
@@ -106,7 +106,7 @@ he gave up the point with an oath. </p>
 they gradually left off inviting him to their houses, some from  
 mercenary disappointment, some from a more generous disgust, others  
 because the rest did so; and at last, just after a singular adventure  
-which happened to him at <placeName key='Brighton'>Brighton</placeName>, he totally disappeared. </p>
+which happened to him at <placeName key="Brighton" corresp="England">Brighton</placeName>, he totally disappeared. </p>
 
 <p>Every body took him for a madman on that occasion. He had  
 not been at the place above a day or two, and was seen, during  
@@ -114,8 +114,8 @@ that time, walking about the beach very thoughtfully, with an air
 of sorrow, owing, it was conjectured, to his having put himself to  
 the expense of travelling without obtaining his expected repayment,  
 for nobody invited him. But be this as it may, he was  
-seen, one morning, running in the most violent manner across the  
-<placeName key='Steyne'>Steyne</placeName>, and crying out " Fire ! " His face was as pale as death; he  
+seen, one morning, running in the most violent manner across <placeName key="the Steyne" corresp="England">the  
+Steyne</placeName>, and crying out " Fire ! " His face was as pale as death; he  
 seemed every now and then, in the midst of his haste, to be twitched  
 and writhed up with a sort of convulsion; and his hat having been  
 blown off by the wind, no wonder he was thought seized with a  
@@ -127,18 +127,18 @@ stronger by a rumovir which took place the same day; for the servants
 of the family which he used to visit most, and in which he was  
 paying his addresses to a young lady, declared that not many minutes  
 after the uproar about the fire, he came to their master's house,  
-through the by-ways, with a coal-heaver's hat on. <persName key="And">And</persName> the assertion  
+through the by-ways, with a coal-heaver's hat on. And the assertion  
 was confirmed by some tradesmen who had seen him pass, and by  
 some boys who had followed him with shouts and nick-names. </p>
 
 <p>The mystery supplied the world with talk for more than a week,  
 when at length it was explained through the family we have just  
-mentioned. <persName key="Kennedy">Kennedy</persName>, it seems, was really a miser, and had inherited  
+mentioned. <persName key="Charles Kennedy">Kennedy</persName>, it seems, was really a miser, and had inherited  
 the estates of a third or fourth cousin, whose name he took. He had  
 had little or no acquaintance with his kinsman, before he found  
 himself his heir. His father was a petty overseer somewhere or other,  
-at a great distance from <placeName key='London'>London</placeName> j and the cousin, whose estates he  
-succeeded to, was the son of a general officer in the <placeName key='East-<placeName key='India'>India</placeName>'>East-<placeName key='India'>India</placeName></placeName>  
+at a great distance from <placeName key="London" corresp="England">London</placeName> and the cousin, whose estates he  
+succeeded to, was the son of a general officer in the <placeName key="East-India" corresp="India">East-India</placeName>  
 service. The cousin had had a son whom he sent abroad to follow  
 his grandfather's profession; but receiving the news of his death a  
 little before his own, he sickened the faster, and being in a state  
@@ -169,9 +169,9 @@ heir, I am told, is a good young man, and he is poor, with a number
 of poor relations. The watch was <persName key="Charles">Charles</persName>'s, when a boy. My father  
 gave it me, and I to him, and he used to say that he would  
 God in heaven bless you, my poor, sweet girl, prays your old  
-<hi rend="right"><persName key="Charles">Charles</persName> <persName key="Kennedy">Kennedy</persName>."</hi> </p></quote></cit>
+<hi rend="right smallcaps"><persName key="Charles Kennedy">Charles Kennedy</persName>."</hi> </p></quote></cit>
 
-<p>The consequence of the new heir's visiting <persName key="Miss <persName key="Cameron">Cameron</persName>">Miss <persName key="Cameron">Cameron</persName></persName>, was his  
+<p>The consequence of the new heir's visiting <persName key="Miss Cameron">Miss Cameron</persName>, was his  
 falling in love with her; if such a miser as he turned out to be,  
 could be said to fall in love. But though she could not help pitying  
 him at first, as she afterwards said, it was only on account of his  
@@ -180,7 +180,7 @@ make him ridiculous and unhappy wherever he went. He soon tired
 and disgusted her. After a very unequivocal repulse one day, which  
 seemed to make him prodigiously thoughtful and unhappy, he came  
 in the evening, with a mixture of odd triumph and uneasiness in his   
-aspect, at which <persName key="Miss <persName key="Cameron">Cameron</persName>">Miss <persName key="Cameron">Cameron</persName></persName> said she could hardly forbear  
+aspect, at which <persName key="Miss Cameron">Miss Cameron</persName> said she could hardly forbear  
 laughing, even from a feeling of bitterness. She saw that he  
 expected to make an impression on her of some sort; and so he did;  
 for taking an opportunity of speaking with her alone, he drew out of  
@@ -191,9 +191,9 @@ could exceed his surprise when she refused him peremptorily once
 more, and the pin with him. She owned that her sense of the ridiculous  
 so far surmounted her other feelings, as to give her a passing  
 inclination to accept the diamond, as she knew very well that he had  
-reckoned on its returning to him by marriage. I5ut her contempt  
+reckoned on its returning to him by marriage. But her contempt  
 recovered itself; and her disgust and scorn were completed by his  
-mentioning the words " <persName key="Mrs">Mrs</persName>. <persName key="Kennedy">Kennedy</persName>," which brought so noble  
+mentioning the words " Mrs. Kennedy," which brought so noble  
 and lamented a contrast before her, and visited her so' fiercely with  
 a sense of what she had lost, that she quitted the room with a sort  
 of breathless and passionate murmur. </p>
@@ -212,8 +212,8 @@ not very delicate, did not interfere as he ought, to prevent her being
 thus persecuted. But not only was the mystery explained to her  
 next day: it was the most important one of both their lives. </p>
 
-<p>On the morning when <persName key="Kennedy">Kennedy</persName> was frightened by the fire, he was  
-standing very thoughtfully by the Ship Inn, near the sea-side, when  
+<p>On the morning when <persName key="Charles Kennedy">Kennedy</persName> was frightened by the fire, he was  
+standing very thoughtfully by <placeName key="the Ship Inn" corresp="England">the Ship Inn</placeName>, near the sea-side, when  
 he was suddenly clapped by somebody on the shoulder. He turned  
 round with a start, and saw a face which he knew well enough. It  
 was that of a gentleman who, riding once when a youth, by the place  
@@ -225,42 +225,42 @@ the young gentleman in as warm a way as he could express; and
 taking fourpence-halfpenny out of a little leathern bag, offered it  
 him as a proof of his gratitude. The young gentleman declining it  
 with a good-natured smile, thinking the offer to be the effect of  
-mere simplicity 5 but the lads who were looking on, and who had  
-helped to get him out when told of the danger, burst out into taunt"  
-ing reproaches of the fellow's meanness, and informed his preserver  
-that he had at least three shillings in the other fob pf his leathern  
+mere simplicity ; but the lads who were looking on, and who had  
+helped to get him out when told of the danger, burst out into taunting  
+reproaches of the fellow's meanness, and informed his preserver  
+that he had at least three shillings in the other fob of his leathern  
 bag, besides silver pennies. So saying, they wrenched it out of his  
-hands in spite of his crying and roaring j and one of them opening  
+hands in spite of his crying and roaring ; and one of them opening  
 it, shook out, together with the water, five shillings in sixpences,  
 and the silver pennies to boot. The young gentleman laughed and  
-<persName key="Mushed">Mushed</persName> at the same instant, and not knowing well what to do, for  
+blushed at the same instant, and not knowing well what to do, for  
 he longed to give the young miser a lesson, and yet thought it would  
 be unjust to share the money between the lads who had nearly  
 drowned him, said to him, " I am not the only one to whom you  
-are indebted for being saved, for it was the sci-eams of those little  
-girls there which brought m,e to you, and so you know," continued  
-he, with a laugh which the others joined, " they ought to be re-r  
-"warded as well as myself. Don't you think so? " " Yes, Sir,"  
+are indebted for being saved, for it was the screams of those little  
+girls there which brought me to you, and so you know," continued  
+he, with a laugh which the others joined, " they ought to be rewarded  
+as well as myself. Don't you think so? " " Yes, Sir,"  
 mumbled the young hunks, half frightened, and half sulky. The  
 young gentleman then divided all the silver but a shilling among  
 the little girls, who dropped him a hundred curtsies; and giving the  
-fourpence-halfpenny to the boy who had been most forward in help-  
-ing, and least noisy in accusing, rode off amidst the shouts, of the rest, </p>
+fourpence-halfpenny to the boy who had been most forward in helping, 
+and least noisy in accusing, rode off amidst the shouts, of the rest, </p>
 
 <p>It was the first time the two had met since. "I believe," said  
 the stranger, with a sort of smile, "I have had the honour of meeting  
-you before? " " The same. Sir," answered the other, " at you^  
+you before? " " The same. Sir," answered the other, " at your  
 service. I believe. Sir, — I think, — I am sure." " Yes, Sir,"  
 returned the stranger, " it was I who played you that trick with your  
 bag of sixpences." — '•' Oh, dear Sir," rejoined t the other, half  
 ashamed at the recollection, and admiring the fashionable air of his  
-preserver, "1 am sure I had' no reason to complain. Been abroad.  
+preserver, "I am sure I had no reason to complain. Been abroad,  
 Sir, I presume, by a certain brownness of complexion, not at all   
 unbecoming? "  " Yes, Sir," said the gentleman, smiling more and  
 
 <pb n="29"/> 
 
-more : "^ I hope you have be^ as lucky at home, as some of us who  
+more : "I hope you have been as lucky at home, as some of us who  
 go abroad? " </p>
 
 <p>"Why, yes. Sir; — I have a pretty fortune, thank heaven, though  
@@ -272,28 +272,28 @@ seemed predominant — " I can wait — I can wait." </p>
 
 <p>"Can wait. Sir?" </p>
 
-<p>"Yes, Sir, I know what ybu mean : you have a sort of liberal  
+<p>"Yes, Sir, I know what you mean : you have a sort of liberal  
 yearning, which incites you to make me an acknowledgment for  
 the little piece of service I was enabled to render you. But I am  
-not poor. Sir; and indeed should decline such a thing from any but  
+not poor, Sir; and indeed should decline such a thing from any but  
 a man of fortune, and upon any other score than that of reliev-  
 ing his own feelings; so that I can very easily wait, you know, for  
 an opportunity more convenient to you; when I shall certainly not  
 hesitate to accept a trifle or so, — a brilliant — or a diamond seal,—- or  
 any little thing of that sort." </p>
 
-<p>"Bless me. Sir, you are very good. But you see. Sir, you — you —  
+<p>"Bless me, Sir, you are very good. But you see. Sir, you — you —  
 see — I am very sorry. Sir, but no doubt — in the fashionable circles,  
 —but at present, I have an engagement." </p>
 
-<p>"<placeName key='Ah'>Ah</placeName>, Sir," said the stranger with a careless air, and giving him  
+<p>"Ah, Sir," said the stranger with a careless air, and giving him  
 a thump on the shoulder which made him jump — " pray do not let  
 me interrupt you. I only hope you are not lodging in — in — what's  
 the name of the street?" </p>
 
-<p>"<placeName key='North Street'>North Street</placeName>? — I tried the <placeName key='Steyne'>Steyne</placeName>, but—" </p>
+<p>"<placeName key="North Street" corresp="England">North Street</placeName>? — I tried <placeName key="Steyne" corresp="England">the Steyne</placeName>, but—" </p>
 
-<p>" <placeName key='Ah'>Ah</placeName>, <placeName key='North Street'>North Street</placeName>." </p>
+<p>" Ah, <placeName key="North Street" corresp="England">North Street</placeName>." </p>
 
 <p>"Why so. Sir, pray?" asked the other, with an air of increasing  
 fidget and alarm, and looking about him. </p>
@@ -306,13 +306,13 @@ cannot be helped." </p>
 <p>"No, Sir, but it's a very awkward sort of accident, and the  
 lodger, I understand, is from home." </p>
 
-<p>"How, Sir, — ^what lodger, — what accident, what is it you mean,  
+<p>"How, Sir, — what lodger, — what accident, what is it you mean,  
 dear Sir?" </p>
 
 <p>"Why, look there, my good friend — look there ;— there they are,  
 removing them — removing the goods : — a fire has broken out." </p>
 
-<p><persName key="Kennedy">Kennedy</persName> seemed petrified. There was a great crowd in the street  
+<p><persName key="Charles Kennedy">Kennedy</persName> seemed petrified. There was a great crowd in the street  
 to which the stranger pointed, occasioned by a scuffle with a puppet-show 
 man. The boys were shouting, and the little moveable Punch  
 theatre tumbled about in the top of the fray, looking in the distance,  
@@ -329,7 +329,7 @@ turned deadly pale, then red, then pale again, and seeming to summon
 <pb n="30"/>
 
 up a convulsive strength, sprang off witb all his mighty and  
-rushed across the <placeName key='Steyne'>Steyne</placeName> like a madman. </p>
+rushed across <placeName key="the Steyne" corresp="England">the Steyne</placeName> like a madman. </p>
 
 <p>When he arrived at his lodging he found the street empty, and the  
 house quite cool, and being anxious to make the best and quickest of  
@@ -341,14 +341,14 @@ which he unconsciously put on. </p>
 <p>Scarcely had he astonished the young lady, and set his foot again  
 out of doors, than he encountered the stranger who had played him  
 the joke. His first impulse was to be very angry, but he wanted  
-courage to complain J and recollecting his first adventure with his  
+courage to complain ; and recollecting his first adventure with his  
 preserver, would have passed by under pretence of not seeing him.  
 He was stopped however by the elbow. "My dear Sir," exclaimed  
 the stranger with his old smile, " I rejoice to find that all was safe."  
 "Pray" continued he, changing his aspect, and looking grave and  
-earnest, — " You know the various families at <placeName key='Brighton'>Brighton</placeName> 5 — I have  
+earnest, — " You know the various families at <placeName key="Brighton" corresp="England">Brighton</placeName> ; — I have  
 found just now that there is one here which will save me a journey  
-to <placeName key='London'>London</placeName> — the name is <persName key="Cameron">Cameron</persName> — can you tell me where they live?  
+to <placeName key="London" corresp="England">London</placeName> — the name is <persName key="Cameron">Cameron</persName> — can you tell me where they live?  
 There is a person of the name of <persName key="Kennedy">Kennedy</persName> also, who I understand is  
 here too; — but that doesn't signify at present; — pray tell me if you  
 know where the <persName key="Cameron">Cameron</persName>s are." </p>
@@ -357,7 +357,7 @@ know where the <persName key="Cameron">Cameron</persName>s are." </p>
 his wits, and anxious to get away; — " there, two or three doors off." </p>
 
 <p>The stranger dropped his arm in an instant, and in an instant  
-knocked at the door. With almost as much speed poor <persName key="Kennedy">Kennedy</persName>  
+knocked at the door. With almost as much speed poor <persName key="Charles Kennedy">Kennedy</persName>  
 returned to his lodging. We know not what he was thinking about;  
 but he surprised the landlord with his exceeding hurry to be  
 gone; and gone he would have been much sooner than he was, if it  
@@ -371,7 +371,7 @@ person who was riding as a foot-boy behind the young gentleman,
 when the latter came up to help him out of the water. " Good God,  
 sir," says the man, who had something of his master's look about him,  
 '' I beg your pardon, — but are you the Mr. <persName key="Kennedy">Kennedy</persName> Avho has got  
-my master's fortune?" The other had been agitated already 3 but  
+my master's fortune?" The other had been agitated already ; but  
 the whole truth seemed now to come upon him as fast, as if it would  
 squeeze the breath out of his hody; and muttering a few indistinct  
 words, he motioned to the footman that he would go with him. He  
@@ -390,16 +390,16 @@ inform the latter, who, comparing the accounts of his old acquaintance
 with the <persName key="Cameron">Cameron</persName>s, had already guessed the secret, to the great  
 wondering of all parties. </p>
 
-<p>You have doubtless been guessing with him 5 and it is easy to fancy  
+<p>You have doubtless been guessing with him ; and it is easy to fancy  
 the remainder. There had been a false return of the young soldier's  
-death, in accounts from the army in <placeName key='India'>India</placeName>. He had been taken  
+death, in accounts from the army in <placeName key="India">India</placeName>. He had been taken  
 prisoner, and when he obtained his liberty, learnt with great grief and  
 surprise, that his father had died under the impression that he was  
 dead also, and had left his property to unknown heirs. The property  
 would have been a very secondary thing, in his mind, for its own sake;  
 and he was aware he could regain it; but his father's death afflicted  
 him much, particularly vmder all the circumstances; and he felt so  
-much anguish at the thought of what <persName key="Miss <persName key="Cameron">Cameron</persName>">Miss <persName key="Cameron">Cameron</persName></persName> must suffer, to  
+much anguish at the thought of what <persName key="Miss Cameron">Miss Cameron</persName> must suffer, to  
 whom he had plighted his faith but two years before, that it was with  
 difficulty he held up against grief, and hurry, and a burning climate,  
 so as not to fall into an illness; the very fear of which, and the delay  
@@ -428,32 +428,32 @@ hardly believe possible. </p>
 <l>Of glassy-watered flowers; — </l>
 <l>Your busy time is come now; </l>
 <l>So take care, all and some now; </l>
-<l><persName key="And">And</persName> keep my hearth in order </l>
+<l>And keep my hearth in order </l>
 <l>Through every nook and border; </l>
-<l><persName key="And">And</persName> let the fire burn brightly </l>
-<l><persName key="And">And</persName> solidly yet lightly. </l>
+<l>And let the fire burn brightly </l>
+<l>And solidly yet lightly. </l>
 <l>With just a little clinking. </l>
 <l>To soothe me while I'm thinking; </l>
-<l><persName key="And">And</persName> fit for glorious poking. </l>
+<l>And fit for glorious poking. </l>
 <l>In case a friend should look in. </l>  
 <l>So may your shelf afford ye </l>
 
 <cb n="1"/>
 
-<l>Fit place to hed and board ye. </l>
+<l>Fit place to bed and board ye. </l>
 <l>With never dust or smoking </l>
 <l>(That acrimonious choking!) </l>
-<l>Bat evergreens and berries. </l>
-<l><persName key="And">And</persName> all the best which there is </l>
+<l>But evergreens and berries. </l>
+<l>And all the best which there is </l>
 <l>Among the winter flowers </l>
 <l>To serve ye still for bowers; </l>
-<l><persName key="And">And</persName> sticks of odorous wood to </l>
-<l>Send up your <persName key="Godships">Godships</persName> food too; </l>
-<l><persName key="And">And</persName> some divine antique too. </l>
+<l>And sticks of odorous wood to </l>
+<l>Send up your Godships food too; </l>
+<l>And some divine antique too. </l>
 <l>Which ye may whisper Greek to; </l>
-<l><persName key="And">And</persName> then a sea-shell glistening. </l>
+<l>And then a sea-shell glistening. </l>
 <l>With music for your listening; </l>
-<l><persName key="And">And</persName> chimney-mounting vapours </l>
+<l>And chimney-mounting vapours </l>
 <l>With all their coils and capers. </l>
 <l>Such as are fit for chacing. </l>
 <l>When ye would go a racing. </l></lg>
@@ -472,32 +472,32 @@ but in general, a man's intolerance is in proportion to his want of
 wisdom and natural kindness. It is only an extreme evidence, from  
 whatever cause arising, of the inability to bear an argument; whether  
 from conscious tendency to doubt, and want of candour or courage to  
-acknowledge it; or from a fierce e^tism too proud to be differed  
-with i or from the callousness of mere worldly supereminence, ready  
+acknowledge it; or from a fierce egotism too proud to be differed  
+with ; or from the callousness of mere worldly supereminence, ready  
 to trample down every thing that endangers it's authority, or shames  
-it with it's truth J or lastly, from fright and . imbecility, which  
+it with it's truth ; or lastly, from fright and imbecility, which  
 confound mere custom with every species of security and good. Ordinary  
 intolerance generally arises from the first or the last of these causes.  
-Dr. <persName key="Johnson">Johnson</persName>, who longed to repose in the bosom of an infallible  
+<persName key="Dr. Johnson">Dr. Johnson</persName>, who longed to repose in the bosom of an infallible  
 ehurch, was intolerant from the united influence of doubt rendered  
 melanchply by disease. But his intolerance lay chiefly in discourse.  
 He had a great deal of real charity and goodness, with all his  
-dictatorial manners. <persName key="Henry">Henry</persName> the 8th was intolerant from a ferocious  
-aelf-love, changing his own opinion as he pleased, and then calling  
+dictatorial manners. <persName key="King Henry VIII">Henry the 8th</persName> was intolerant from a ferocious  
+self-love, changing his own opinion as he pleased, and then calling  
 on others to obey the new ones as they had done the old. Lastly,  
-such a man as <persName key="Bonner">Bonner</persName> appearis to have been intolerant from sheer  
+such a man as <persName key="Bonner">Bonner</persName> appears to have been intolerant from sheer  
 hard-hearted worldliness, mixed perhaps with an impious belief that  
-the Supreme Being was a tyrant after the fashion of <placeName key='Avorldly'>Avorldly</placeName> tyrants,  
+the Supreme Being was a tyrant after the fashion of worldly tyrants,  
 and was to be so served and made court to. But toleration has been  
 gradually increasing with the strength of opinion and the press. It  
-is pressed upon with less hardness jpit every fresh use of the foot  
+is pressed upon with less hardness at every fresh use of the foot  
 of authority, however foolish and uncharitable even that pressure  
-may be. <persName key="And">And</persName> the last and best proof of it's increase (a proof, which  
+may be. And the last and best proof of it's increase (a proof, which  
 ought to shame all it's enemies) is, that intolerance itself is treated  
 with candour. </p></div3>
 
 
-<div3 type="subsection" n="3"><p><hi rend="smallcaps">Knowledge of the World.</hi> — What is called. knowledge of the  
+<div3 type="subsection" n="3"><p><hi rend="smallcaps">Knowledge of the World.</hi> — What is called knowledge of the  
 world is in general nothing better than an ignorance of nine-tenths  
 of the creation.</p></div3>
 
@@ -512,19 +512,16 @@ his own gladdened face. </p></div3>
 </div2>
 
 <div2 type="correspondents"> <!-- Publisher and printer information -->
-                <p>[ <persName key="Persons">Persons</persName> in the country who  
-                wish to become subscribers, should therefore order it of booksellers who  
-                send weekly or monthly parcels to their respective places of residence.  
-                The delay would be of little consequence with a work not containing  
-                any thing of merely temporary interest.] </p> 
+                <p>[ Persons in the country who wish to become subscribers, should therefore order it of booksellers 
+                who send weekly or monthly parcels to their respective places of residence. The delay would 
+                be of little consequence with a work not containing any thing of merely temporary interest.] </p> 
                 </div2>
 
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, <placeName key='London'>London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
     </text>
 </TEI>
- 
