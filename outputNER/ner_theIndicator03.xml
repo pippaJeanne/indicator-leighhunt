@@ -5,14 +5,14 @@
         <!-- File Description -->
         <fileDesc>
             <!-- Title of the work -->
-            <title<persName key="St">St</persName>mt>
+            <titleStmt>
                 <title>The Indicator</title>
                 <author>Hunt, James Henry Leigh (1784-1859)</author>
-            </title<persName key="St">St</persName>mt>
+            </titleStmt>
 
-            <publication<persName key="St">St</persName>mt>
+            <publicationStmt>
                 <p />
-            </publication<persName key="St">St</persName>mt>
+            </publicationStmt>
 
             <!-- Author information -->
             <sourceDesc>
@@ -311,8 +311,8 @@ full of jovial wit, says.</p>
 <note type="source"><bibl><title>The Mermaid</title><author><persName key="Francis Beaumont">Francis Beaumont</persName></author></bibl></note>
 </cit>
 
-<p>The other celebrated report of the great wits of that time, was </placeName key="the Devil Tavern" corresp="England">the  
-Devil Tavern</placeName>, in <placeName key="Fleet-street" corresp="England">Fleet-street</placeName>, close to <placeName key='<placeName key="Temple-Bar" corresp="England">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
+<p>The other celebrated report of the great wits of that time, was <placeName key="the Devil Tavern" corresp="England">the  
+Devil Tavern</placeName>, in <placeName key="Fleet-street" corresp="England">Fleet-street</placeName>, close to <placeName key="Temple-Bar" corresp="England">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
 lived also in <placeName key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
 is in the passage from the cloisters of <placeName key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> into <placeName key="St. Batholomew's" corresp="England">St.  
 Bartholomew's</placeName>, <persName key="Aubrey">Aubrey</persName> gives it as a common opinion, that at the time  
@@ -398,7 +398,7 @@ houses, was the town mansion of the Sydneys, Earls of Leicester,
 the family of <persName key="Sir Philip Sydney">Sir Philip</persName> and <persName key="Sir Algernon Sydney">Algernon Sydney</persName>. In the same square  
 lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="Dryden">Dryden</persName> lived and died in <placeName key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
 in a house which looked backwards into the garden of <placeName key="Leicester House" corresp="England">Leicester  
-House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName key="St. Martin's-street" corresp="England>St. Martin's-street</placeName>, on the south side of  
+House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName key="St. Martin's-street" corresp="England">St. Martin's-street</placeName>, on the south side of  
 the square. <persName key="Steele">Steele</persName> lived in <placeName key="Bury-street" corresp="England">Bury-street</placeName>, <placeName key="St. James's" corresp="England">St. James's</placeName>: he furnishes an  
 illustrious precedent for the loungers in <placeName key="St. James's-street" corresp="England">St. James's-street</placeName>, where a  
 scandal-monger of those times delighted to detect <persName key="Isaac Bickerstaff">Isaac Bickerstaff</persName> in  
@@ -408,11 +408,11 @@ have mentioned the birth of <persName key="Ben Jonson">Ben Jonson</persName> nea
 died at an inn, where he put up on his arrival from <placeName key="Ireland">Ireland</placeName>, in  
 <placeName key="King-street" corresp="England">King-street</placeName>, <placeName key="Westminster" corresp="England">Westminster</placeName>, — the same which runs at the back of  
 <placeName key="Parliament-street" corresp="England">Parliament-street</placeName> to <placeName key="Westminster Abbey" corresp="England">the Abbey</placeName>. <persName key="Sir Thomas More">Sir Thomas More</persName> lived at <placeName key="Chelsea" corresp="England">Chelsea</placeName>.  
-<persName key="Addison">Addison</persName> lived and died in <placeName key="Holland-House" corresp="England">Holland-House</placeName>, <place Name key="Kensington" corresp="England">Kensington</placeName>, now the  
+<persName key="Addison">Addison</persName> lived and died in <placeName key="Holland-House" corresp="England">Holland-House</placeName>, <placeName key="Kensington" corresp="England">Kensington</placeName>, now the  
 residence of the accornplished nobleman who takes his title from it.  
 In <placeName key="Brook-street" corresp="England">Brook-street</placeName>, <placeName key="Grosvenor-square" corresp="England">Grosvenor-square</placeName>, lived <persName key="Handel">Handel</persName>; and in <placeName key="Bentinck-street" corresp="England">Bentinck-  
 street</placeName>, <placeName key="Manchester-square" corresp="England">Manchester-square</placeName>, <placeName key="Gibbon" corresp="England">Gibbon</placeName>. We have omitted to mention  
-that <persName key="Daniel DeFoe"><De Foe</persName> kept a hosier's shop in <placeName key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><corr>scite</corr><sic>site</sic></choice>  
+that <persName key="Daniel DeFoe">De Foe</persName> kept a hosier's shop in <placeName key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><corr>scite</corr><sic>site</sic></choice>  
 of the present <placeName key="Southampton-buildings" corresp="England">Southampton-buildings</placeName>, <placeName key="Chancery-lane" corresp="England">Chancery-lane</placeName>, stood the  
 mansion of the Wriothesleys, Earls of Southampton, one of whom  
 was the celebrated friend of <persName key="William Shakspeare">Shakspeare</persName>. But what have we not  
@@ -438,7 +438,7 @@ pleasant mention of it in <title level="s"><persName key="Sir Samuel Garth">Gart
 generosity of that amiable man : —</p> 
 
 <lg><l>Not far from that most celebrated place, <note> <placeName key="The Old Bailey" corresp="England">The Old Bailey</placeName> </note> </l>
-<l>Where angry Justice</placeName> shews her awful face; </l>
+<l>Where angry Justice shews her awful face; </l>
 <l>Where little villains must submit to fate </l>
 <l>That great ones may enjoy the world in state; </l>
 <l>There stands a dome, majestic to the sight. </l>
@@ -488,7 +488,7 @@ that </p>
 <l>French she spake full faire and featously; </l>
 <p>adding with great gravity.</p>
 <lg><l>After the school of <placeName key="Stratford at Bow" corresp="England">Stratford atte Bowe</placeName>; </l> 
-<l>For French of <placeName key="Paris" corresp="France>Paris</placeName> was to her unknowe. </l></lg>
+<l>For French of <placeName key="Paris" corresp="France">Paris</placeName> was to her unknowe. </l></lg>
 
 </div2>
  <div2 type="correspondents"> <!-- Publisher and printer information -->
