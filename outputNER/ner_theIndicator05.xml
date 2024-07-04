@@ -20,7 +20,7 @@
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-11-10">NOVEMBER 10th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement>London</settlement>, <country><placeName key='England'>England</placeName></country></pubPlace>
+                    <pubPlace><settlement>London</settlement>, <country><placeName key="England" corresp="England">England</placeName></country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -82,7 +82,7 @@ artificial stimulus, that it may not render the blood languid by over-
 exciting it at first; and that you may be able to keep up, by the  
 natural stimulus only, the help you have given yourself by the artificial.  
 Regard the bad weather, as somebody has advised us to handle the  
-nettle. In proportion as you are delicate with it, it will make you  
+nettle. In proportion as you are delicate with it, it will make you 
 feel but </p>
 
 <lg><l>Grasp it like a man of mettle. </l> 
@@ -132,7 +132,7 @@ that it dare not move for fear of tumbling to pieces. </p>
 industry with enjoyment, has set an excellent example to those who  
 can afford the leisure, by taking two Sabbaths every week instead of  
 one;— not Methodistical Sabbaths, but days of rest which pay true  
-homage to the Supreme Being by enjoying his creation. He will  
+homage to <persName type="real" key="God">the Supreme Being</persName> by enjoying his creation. He will  
 be gratified at reading this paragraph on his second-Sunday morning. </p>
 
 <p>One of the best pieces of advice for an ailing spirit is to go to  
@@ -220,7 +220,7 @@ it by the great improbability of her ever being suffered to become
 his wife. Royal females in most countries have certainly none of the  
 advantages of their rank, whatever the males may have. <persName key="Mary Tudor, Queen of France">Mary</persName> was  
 destined to taste the usual bitterness of their lot; but she was amply  
-repaid. At the conclusion of the war with <placeName key="France">France</placeName>, she was married  
+repaid. At the conclusion of the war with <placeName key="France" corresp="France">France</placeName>, she was married  
 to the old <persName key="King Louis XII">king Louis the Twelfth</persName>, who witnessed from a couch the  
 exploits of <persName key="Charles Brandon, 1st Duke of Suffolk">her future husband</persName> at the tournaments. The doings of  
 <persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> that time were long remembered. The love between  
@@ -251,8 +251,8 @@ looks. <persName key="Mary Tudor, Queen of France">The royal widow</persName> wa
 likely that her hand would be sought by many princely lovers; but  
 she was now resolved to reward herself for her late sacrifice, and in  
 less than two months she privately married her first love. <persName key="Mary Tudor, Queen of France">The  
-queen</persName>, says a homely but not mean poet (<persName key="William Warner">Warner</persName>, in his <title level="a">Albion's  
-<placeName key="England">England</placeName></title>) thought that to cast too many doubts </p>
+queen</persName>, says a homely but not mean poet <note type="hunt">(<persName key="William Warner">Warner</persName>, in his <title level="a">Albion's  
+<placeName key="England" corresp="England">England</placeName></title>)</note> thought that to cast too many doubts </p>
 
 <lg><lg xml:id="verse1"><l>Were oft to erre no lesse </l>
 <l>Than to be rash : and thus no doubt </l>
@@ -328,7 +328,7 @@ most comprehensive though not most poetical stanzas, as </p>
 
 <p>Of the belief in an Evil Genius, a celebrated example is furnished  
 in <persName key="Plutarch">Plutarch</persName>'s account of <persName key="Brutus">Brutus</persName>'s vision, of which <persName key="William Shakspeare">Shakspeare</persName> has  
-given so fine a version (Julius Caesar, Act 4, Sc. 3.).  Beliefs of this  
+given so fine a version <note type="hunt">(Julius Caesar, Act 4, Sc. 3.)</note>.  Beliefs of this  
 
 <pb n="38"/>
 
@@ -358,7 +358,7 @@ the original translator, who applied the Roman word Genius to the
 Arabian Dive or Elf. </p>
 
 <p>One of the stories -with which <persName key="Pausanias">Pausanias</persName> has enlivened his  
-description of <placeName key="Greece">Greece</placeName>, is relative to a Genius. He says that one of  
+description of <placeName key="Greece" corresp="Greece">Greece</placeName>, is relative to a Genius. He says that one of  
 the companions of <persName key="Ulysses">Ulysses</persName> having been killed by the people of  
 <placeName key="Temesa" corresp="Italy">Temesa</placeName>, they were fated to sacrifice a beautiful virgin every year  
 to his manes. They were about to immolate one as usual, when  
@@ -389,7 +389,7 @@ They were the personification of a particular Providence. The
 most striking mention of the Penates which we can call to mind is  
 in one of <persName key="Virgil">Virgil</persName>'s most poetical passages. It is where they appear  
 to Æneas, to warn him from <placeName key="Crete" corresp="Greece">Crete</placeName>, and announce his destined  
-empire in <placeName key="Italy">Italy</placeName>.  (Book 3, v. 147.) </p>
+empire in <placeName key="Italy" corresp="Italy">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
 
 <lg xml:lang="latin"> <l>Nox erat, et terris animalia somaus habebat. </l>
 <l>Effigies sacrse divom, Phrygiique <persName key="Penates">Penates</persName>, </l>
@@ -416,7 +416,7 @@ empire in <placeName key="Italy">Italy</placeName>.  (Book 3, v. 147.) </p>
 <l>Their hooded hair; and felt them so before </l> 
 <l>My being, that I burst at every pore. </l></lg>
 
-<p>The Lares or Lars, were the lesser and most familiar household  
+<p>The Lares or Lars, were the lesser and most familiar household 
 gods; and though their offices were afterwards extended a good deal,  
 in the same way as those of the Penates, with whom they are often  
 wrongly confounded, their principal sphere was the fire-place. This  
@@ -430,7 +430,7 @@ dogs at their feet. Some writers make them the offspring of the
 goddess <persName key="Mania">Mania</persName>, who presided over the spirits of the dead; and  
 suppose that originally they were the same as those spirits; which is a  
 very probable as well as agreeable superstition, the old nations of  
-<placeName key="Italy">Italy</placeName> having been accustomed to bury their dead in their houses.  
+<placeName key="Italy" corresp="Italy">Italy</placeName> having been accustomed to bury their dead in their houses.  
 Upon this supposition, the good or "benevolent spirits were called  
 Familiar Lares, and the evil or malignant ones Larvæ and Lemures.  
 Thus <persName key="Milton">Milton</persName>, in his awful Hymn on the Nativity : — </p>
@@ -456,7 +456,7 @@ reference enough to the gossiping over fire-places. </p>
 <p>It is impossible not to be struck with the resemblance between  
 these lesser household gods and some of the offices of our old English  
 elves and fairies. But of them, more by and by. <persName key="Dacier">Dacier</persName>, in a note  
-upon <persName key="Horace">Horace</persName> (Book 1, Od. 12.) informs us, that in some parts of  
+upon <persName key="Horace">Horace</persName> <note type="hunt">(Book 1, Od. 12.)</note> informs us, that in some parts of  
 <placeName key="Languedoc" corresp="France">Languedoc</placeName>, in his time, the fire-place was still called the Lar; and  
 that the name was also given to houses. </p>
 
@@ -515,8 +515,8 @@ of the name of <persName key="Eroition">Erotion</persName>. </p>
     be of little consequence with a work not containing any thing of merely temporary interest.</p> 
                 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. -Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. -Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
