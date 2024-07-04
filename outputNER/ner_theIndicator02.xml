@@ -20,7 +20,7 @@
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-10-20">OCTOBER 20th", 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement><placeName key="London">London</placeName></settlement>, <country>England</country></pubPlace>
+                    <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="England">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -57,8 +57,7 @@
                     <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header"> THE INDICATOR AND EXAMINER. — AUTUMNAL COMMENCEMENT 
-OF FIRES. — MANTLE-PIECES. — APARTMENTS FOR STUDY. </head>
+                    <head type="header"> THE INDICATOR AND EXAMINER. — AUTUMNAL COMMENCEMENT OF FIRES. — MANTLE-PIECES. — APARTMENTS FOR STUDY. </head>
 <p>One or two persons, we understand, have supposed that the present  
 periodical work will interfere with the literary part of another, in  
 which the Editor has long been concerned. This is a great mistake.  
@@ -103,7 +102,7 @@ yarn," a good warm hearth-rug is not the worst part of the manufacture.</p>
 <p>Here we are then again, with our fire before us, and our books on  
 each side. What shall we do? Shall we take out a Life of somebody,  
 or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante">Dante</persName>, or <persName key="Ariosto">Ariosto</persName>, or <persName key="Montaigne">Montaigne</persName>, or <persName key="Marcus Aurelius">Marcus Aurelius</persName>,  
-or <persName key="Horace">Horace</persName>, or <persName key="william Shakspeare">Shakspeare</persName> who includes them all? Or shall we  
+or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare">Shakspeare</persName> who includes them all? Or shall we  
 read an engraving from <persName key="Poussin">Poussin</persName> or <persName key="Raphael">Raphael</persName>? Or shall we sit with  
 tilted chairs, planting our wrists upon our knees, and toasting the  
 up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
@@ -154,7 +153,7 @@ from a feeling allied to the one in favour of smallness." The figure
 of my study," says he, "is round, and has no more flat (bare)  
 wall, than what is taken up by my table and my chairs; so that the  
 remaining parts of the circle present me with a view of all my books at  
-once, set upon five degrees of shelves round about me." <note type="hunt">(<bibl><author><persName key="Charles Cotton">Cotton</persName</author>'s  
+once, set upon five degrees of shelves round about me." <note type="hunt">(<bibl><author>Cotton</author>'s  
 <title level="m"><persName key="Montaigne">Montaigne</persName></title>. B.3. Ch. 3.</bibl>)</note> A great prospect we hold to be a very disputable  
 advantage, upon the same reasoning as before; but we like to have  
 some green boughs about our windows, and to fancy ourselves as  
@@ -215,7 +214,7 @@ upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
 
 <p>Or as a poet has written them : </p>
 
-<lg><l>Juro tibi sanctæ per mystica sacra <persName key="Diana">Dianæ</persName>, </l>
+<lg><l>Juro tibi sanctae per mystica sacra Dianae, </l>
 <l>Me tibi venturam comitem, sponsamque futuram. </l></lg>
 
 <lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName key="Diana">Dian</persName>, I will be </l>
@@ -225,7 +224,7 @@ upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
 on the eve of being married to another person; but her imagination  
 in the shape of the Goddess as often threw her into a fever;  
 and the lover, whose ardour and ingenuity had made an impression  
-upon her, was made happy. <persName key="Aristænetus">Aristænetus</persName> in his Epistles calls the  
+upon her, was made happy. <persName key="Aristaenetus">Aristaenetus</persName> in his Epistles calls the  
 apple <hi xml:lang="anc-Greek">Κνδωνιον μήλον</hi> a Cretan apple, which is supposed to mean a quince : or as others think, an orange, or a citron. But the apple was, is,  
 and must be, a true, unsophisticated apple. Nothing else would  
 have suited. "The apples, methought," says <persName key="Sir Philip Sydney">Sir Philip Sydney</persName>, of  
@@ -250,7 +249,7 @@ most famous passages of <persName key="Ariosto">Ariosto</persName>, where he des
 
 <p>And after him, <persName key="Torquato Tasso">Tasso</persName>, in his fine ode on the Golden Age : — </p>
 
-<lg xml:lang="it"><l><persName key="Allor">Allor</persName> tra fiori e linfe  </l>
+<lg xml:lang="it"><l>Allor tra fiori e linfe  </l>
 <l>Tracan dolci carol e  </l>
 <l>Gli Amoretti senz'archi e senza faci :  </l>
 <l>Tracan tra fiori e linfe  </l>
@@ -291,7 +290,7 @@ one of the most liberal and accomplished of cardinals; of <persName key="Paul Sa
 who kept his countrymen independent of the church of <placeName key="Rome" corresp="Italy">Rome</placeName>.</p>
 
 <p>The Venetians are like a lively family cut oflf from the rest of  
-<placeName key="Europe">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
+<placeName key="Europe" corresp="Europe">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
 and coming at a distance of a league and a half upon a city standing in  
 the sea. This is <placeName key="Venice" corresp="Italy">Venice</placeName>. It is built upon seventy-two little islands,  
 the houses abutting directly upon the water, the finest of them with-  
@@ -319,7 +318,7 @@ was the beginning of the seventh book of the Jerusalem Delivered, where <persNam
 gets among the country-people. They sang to a kind of chant, sometimes  
 responding to each other; and the aflfect at night-time, when the sound came  
 .softened by distance over the water, was often delightful. <persName key="Rousseau">Rousseau</persName>, who was  
-once at <placeName key="Venice">Venice</placeName>, published the chant in notes. We do not remember whether it is  
+once at <placeName key="Venice" corresp="Italy">Venice</placeName>, published the chant in notes. We do not remember whether it is  
 from him that <persName key="William Shield">Mr. Shield</persName> has copied it in the appendix to his <title level="m">Introduction to Har-  
 mony</title>; but it is there to be found. <persName key="Ariosto">Ariosto</persName> used to be the great favourite with  
 the Venetians; but <persName key="Torquato Tasso">Tasso</persName>'s poem seems to have superseded even the <title level="a">Orlando</title> in  
@@ -367,7 +366,7 @@ is entitled <placeName key="the River of Song" corresp="Italy">the River of Song
 and what the Italians call <persName key="Brio">Brio</persName>, — a certain sparkling of the animal  
 spirits. A quintessence of this quality would seem to have been almost  
 the only thing which made a late celebrated dramatist, <persName key="Goldoni">Goldoni</persName>,  
-be taken all over <placeName key="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
+be taken all over <placeName key="Europe" corresp="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
 in general is relieved from the frivolous by an evident capacity
 
 <pb n="15"/>
@@ -418,9 +417,9 @@ might talk or do any thing he pleased. Thus they were like a happy
 family living under a father of austere aspect and real goodnature.  
 But as their less happy neighbours out-grew them, this happy family  
 was to be disturbed; and it was so. <placeName key="Venice" corresp="Italy">Venice</placeName> in common with the  
-other northern states of <placeName key="Italy">Italy</placeName> became the property of the greatest  
+other northern states of <placeName key="Italy" corresp="Italy">Italy</placeName> became the property of the greatest  
 neighbour for the time being, — of the <placeName key="Court of Vienna" corresp="Italy">Court of Vienna</placeName> first, then  
-of <placeName key="France">France</placeName>, and now of <placeName key="Vienna" corresp="Italy">Vienna</placeName> again. It's nobles are at length  
+of <placeName key="France" corresp="France">France</placeName>, and now of <placeName key="Vienna" corresp="Italy">Vienna</placeName> again. It's nobles are at length  
 ruined; it's palaces almost deserted; and the gay Venetian, now
 <pb n="16"/>
 a pensive animal to what he was, meditates on the approaching period  
@@ -448,7 +447,7 @@ there something to admire and to love. If the Venetians have been
 thought to be of too amorous a disposition, they are acknowledged  
 to be temperate in every other respect, and to make excellent parents  
 and kinsfolk : and it is to be observed that in many of the cities of  
-<placeName key="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
+<placeName key="Italy" corresp="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
 those matters, less severe than in some other countries; so that they  
 do not violate their consciences so much as might be supposed, and  
 the guUt is of necessity diminished with the sense of it. A late tra-  
@@ -471,8 +470,8 @@ disputatious moralist would do better in letting alone.</p>
                 any thing of merely temporary interest. ] </p> 
                 </div2>
 <div2 type="colophon">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
                 </div2>
             </div1>
         </body>
