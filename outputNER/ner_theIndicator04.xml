@@ -7,7 +7,7 @@
             <!-- Title of the work -->
             <titleStmt>
                 <title>The Indicator</title>
-                <author>Hunt, James Henry Leigh (1784-1859)</author>
+                <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
             </titleStmt>
 
             <publicationStmt>
@@ -17,10 +17,10 @@
             <!-- Author information -->
             <sourceDesc>
                 <bibl>
-                    <author>Hunt, James Henry Leigh (1784-1859)</author>
+                    <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-11-03">NOVEMBER 3d, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement><placeName key='London'>London</placeName></settlement>, <country>England</country></pubPlace>
+                    <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -169,7 +169,7 @@ heir, I am told, is a good young man, and he is poor, with a number
 of poor relations. The watch was <persName key="Charles">Charles</persName>'s, when a boy. My father  
 gave it me, and I to him, and he used to say that he would  
 God in heaven bless you, my poor, sweet girl, prays your old  
-<hi rend="right smallcaps"><persName key="Charles Kennedy">Charles Kennedy</persName>."</hi> </p></quote></cit>
+<hi rend="right "><hi rend="smallcaps"><persName key="Charles Kennedy">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
 
 <p>The consequence of the new heir's visiting <persName key="Miss Cameron">Miss Cameron</persName>, was his  
 falling in love with her; if such a miser as he turned out to be,  
@@ -392,7 +392,7 @@ wondering of all parties. </p>
 
 <p>You have doubtless been guessing with him ; and it is easy to fancy  
 the remainder. There had been a false return of the young soldier's  
-death, in accounts from the army in <placeName key="India">India</placeName>. He had been taken  
+death, in accounts from the army in <placeName key="India" corresp="India">India</placeName>. He had been taken  
 prisoner, and when he obtained his liberty, learnt with great grief and  
 surprise, that his father had died under the impression that he was  
 dead also, and had left his property to unknown heirs. The property  
@@ -518,10 +518,11 @@ his own gladdened face. </p></div3>
                 </div2>
 
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
     </text>
 </TEI>
+ 
