@@ -20,7 +20,7 @@
                         <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
                         <title>The Indicator</title>
                         <date when="1819-11-24">NOVEMBER 24th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                        <pubPlace><settlement><placeName key='London'>London</placeName></settlement>, <country><placeName key='England'>England</placeName></country></pubPlace>
+                        <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country><placeName key='England'>England</placeName></country></pubPlace>
                         <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                     </bibl>
                 </sourceDesc>
@@ -47,34 +47,17 @@
                     <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                         <head type="title">THE INDICATOR.</head>
                         <epigraph>
-                        <p>IT is the object of this periodical work to notice any subjects whatsoever  
-within the range of the Editor's knowledge or reading. He will take them  
-up, as they happen to suggest themselves; and endeavour to point out their  
-essence to the reader, so as at once to be brief and satisfactory. The subjects  
-will chiefly consist of curious recollections of biography; short disquisitions  
-on men and things; the most interesting stories in history or fiction told  
-over again, with an eye to their proper appreciation by unvulgar minds;  
-and now and then a few original verses. Indeed the whole matter, whatever  
-the subject may be, will be strictly original, in one sense of the word;  
-arid it will be the Editor's aim, as well as a part of his own pleasure, to  
-render it all as entertaining as he can. To the unvulgar he exclusively  
-addresses himself; but he begs it to be particularly understood, that in this  
-description of persons are to be included all those, who without having had a  
-classical education, would have turned it to right account; just as all those;  
-are to be excluded, who in spite of that "discipline of humanity" think  
-ill of the nature which they degrade, and vulgarly confound the vulgar with  
-the uneducated.</p>
-                            <l>There he arriving round about doth flie,</l>
-                            <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
-                            <l>Now this, now that, he tasteth tenderly.</l>
-                            <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                                    cert="high" type="real">SPENSER</persName>.</l>
-                        </epigraph>
-                        <head type="catalogue">No. I. <date when="1819-11-24">—WEDNESDAY, NOVEMBER 24th, 1819</date>.</head>
-                    </div2>
-                    <div2 type="section" n="1"> <!-- Header and content -->
-
-    <head type="header">LUDICROUS EXAGGERATION. </head>
+                            <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                                <l>There he arriving round about doth flie,</l>
+                                <l>And takes survey with busie, curious eye:</l>
+                                <l>Now this, now that, he tasteth tenderly.</l>
+                                <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                        cert="high" type="real">SPENSER</persName>.</l>
+                            </epigraph>
+                            <head type="catalogue">No. I. <date when="1819-11-24">—WEDNESDAY, NOVEMBER 24th, 1819</date>.</head>
+                        </div2>
+                        <div2 type="section" n="1"> <!-- Header and content -->
+                            <head type="header">LUDICROUS EXAGGERATION. </head>
 
     <p>Men of wit sometimes like to pamper a favourite joke into exaggeration  
     — into a certain corpulence of facetiousness. Their relish  
@@ -82,105 +65,105 @@ the uneducated.</p>
     enjoyment of it is doubled by it's becoming more visible to the eyes  
     of others. It is for this reason that jests in company are sometimes  
     built up by one hand after another, — "three-piled hyperboles," — :  
-    till the over-done <persName key="Babel">Babel</persName> topples and tumbles down amidst a merry  
+    till the over-done <placeName type="fictional" key="Babel" corresp="Babylon">Babel</placeName> topples and tumbles down amidst a merry  
     confusion of tongues. </p>
 
-    <p><persName key="Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
-    himself; witness his famous account of the men in buckram. Thus he  
-    tells the Lord Chief Justice, that he had lost his voice "with singing  
-    of anthems;" and he calls <persName key="Bardolph">Bardolph</persName>'s red nose "a perpetual triumph,  
-    an everlasting bonfire light" and says it has saved him "a thousand  
-    marks in links and torches," walking with it "in the night betwixt  
-    tavern and tavern." See how he goes heightening the account of  
+    <p><persName type="fictional" key="Sir John Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
+    himself; witness his famous account of the men in <placeName type="fictional" key="buckram">buckram</placeName>. Thus he  
+    tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice "with singing  
+    of anthems;"<note type="source">(Shakespeare, Henry IV part 2, Act1 Scene2) </note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose "a perpetual triumph,  
+    an everlasting bonfire light"<note type="source">(Shakespeare, Henry IV part 1, Act3 Scene3)</note> and says it has saved him "a thousand  
+    marks in links and torches,"<note type="source">(Shakespeare, Henry IV part 1, Act3 Scene3)</note> walking with it "in the night betwixt  
+    tavern and tavern."<note type="source">(Shakespeare, Henry IV part1, Act3 Scene3)</note> See how he goes heightening the account of  
     his recruits at every step : — "You would think I had a hundred and  
     fifty tattered prodigals, lately come from swine-keeping, from eating  
     draff and husks. — A mad fellow met me on the way, and told me, I  
     had unloaded all the gibbets, and pressed the dead bodies. — No eye  
-    hath seen such scare-crows. — I'll not march through <placeName key='Coventry'>Coventry</placeName> with  
-    them, that's flat.— <persName key="Nay">Nay</persName>, and the villains march wide betwixt the  
+    hath seen such scare-crows. — I'll not march through <placeName key="Coventry" corresp="England">Coventry</placeName> with  
+    them, that's flat.— Nay, and the villains march wide betwixt the  
     legs, as if they had gyves on; for indeed I had most of them out of  
     prison.— There's but a shirt and a half in all my company; — and the  
     half-shirt is two napkins, tacked together, and thrown over the  
-    shoulders like a herald's coat without sleeves." </p>
+    shoulders like a herald's coat without sleeves."<note type="source">(Shakespeare, Henry IV part1, Act4 Scene2)</note> </p>
 
     <p>An old schoolfellow of ours, (who by the way, was more fond of  
-    quoting <persName key="Falstaff">Falstaff</persName> than any other of <persName key="Shakspeare">Shakspeare</persName>'s chararacters) used to  
-    be called upon for a story, <persName key="Avith">Avith</persName> a view to a joke of this sort; it  
+    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakspeare">Shakspeare</persName>'s chararacters) used to  
+    be called upon for a story, with a view to a joke of this sort; it  
     being an understood thing that he had a privilege of exaggeration,  
     without committing his abstract love of truth. The reader knows  
 
     <pb n="50"/>
 
-    the old blunder attributed to Goldsmith about a dish of green peas.  
+    the old blunder attributed to <persName key="Goldsmith">Goldsmith</persName> about a dish of green peas.  
     Somebody had been applauded in company for advising his cook to  
-    take some ill-drest peas to Hammersmith, "because that was the  
-    way to turn'em Green;" upon which Goldsmith is said to have gone  
+    take some ill-drest peas to <placeName key="Hammersmith" corresp="England">Hammersmith</placeName>, "because that was the  
+    way to turn'em Green;" upon which <persName key="Goldsmith">Goldsmith</persName> is said to have gone  
     and repeated the pun at another table in this fashion; — "John should  
-    take those peas, I think, to Hammersmith." "Why so. Doctor?"  
+    take those peas, I think, to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>." "Why so. Doctor?"  
     "Because that is the way to make 'em green." Now our friend  
     would give the blunder with this sort of additional dressing. At  
-    sight of the dishes of vegetables. Goldsmith, who was at his own  
+    sight of the dishes of vegetables.<persName key="Goldsmith">Goldsmith</persName>, who was at his own  
     house, took off the covers, one after another, with great anxiety, till  
     he found that peas were among them; upon which he rubbed his  
     hands with an air of infinite and prospective satisfaction. "You are  
     fond of peas. Sir?" said one of the company. "Yes, Sir," said  
-    Goldsmith, "particularly so: — I eat them all the year round; — I  
+    <persName key="Goldsmith">Goldsmith</persName>, "particularly so: — I eat them all the year round; — I  
     mean. Sir, every day in the season. I do not think there is any body  
     so fond of peas as I am!" "Is there any particular reason, Doctor,"  
     asked a gentleman present, "why you like peas so much, beyond the  
     usual one of their agreeable taste?" — "No, Sir, none whatsoever : —  
-    none I assure you" (here Goldsmith shewed a great wish to impress  
+    none I assure you" (here <persName key="Goldsmith">Goldsmith</persName> shewed a great wish to impress  
     this fact on his guests): "I never heard any particular, encomium  
     or speech about them from any one else : but they carry their own  
     eloquence with them: they are things. Sir, of infinite taste." (Here  
-    a laugh, which put Goldsmith in additional spirits.) "But, bless  
+    a laugh, which put <persName key="Goldsmith">Goldsmith</persName> in additional spirits.) "But, bless  
     me!" he exclaimed, looking narrowly into the peas: — "I fear they are  
     very ill-done: they are absolutely yellow instead of green" (here he  
     put a strong emphasis on green); "and you know, peas should be  
     emphatically green: — greenness in a pea is a quality as essential, as  
     whiteness in a lily. The cook has quite spoilt them : — but I'll give  
-    the rogue a lecture, gentlemen, with your permission." Goldsmith  
+    the rogue a lecture, gentlemen, with your permission." <persName key="Goldsmith">Goldsmith</persName>  
     then rose and rang the bell violently for the cook, who came in, ready  
-    booted and spurred. "Ha!" exclaimed Goldsmith, "those boots and  
+    booted and spurred. "Ha!" exclaimed <persName key="Goldsmith">Goldsmith</persName>, "those boots and  
     spurs are your salvation, you knave. Do you know. Sir, what you  
     have done?" — "No, Sir." — "Why, you have made the peas yellow.  
-    Sir. Go instantly, and take 'em to Hammersmith." "To Hammersmith,  
+    Sir. Go instantly, and take 'em to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>." "To <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>,  
     Sir?" cried the man, all in astonishment, the guests being no  
-    less so : — "please Sir, why am I to take 'em to Hammersmith?" —  
-    "Because, Sir," and here Goldsmith looked round with triumphant  
+    less so : — "please Sir, why am I to take 'em to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>?" —  
+    "Because, Sir," and here <persName key="Goldsmith">Goldsmith</persName> looked round with triumphant  
     anticipation, "that is the way to render those peas green." </p>
 
     <p>There is a very humourous piece of exaggeration in <persName key="Butler">Butler</persName>'s  
-    remains,— a collection, by the bye, well worthy of <placeName key='Hudibras'>Hudibras</placeName>, and  
+    remains,— a collection, by the bye, well worthy of <title level="a">Hudibras</title> and  
     indeed of more interest to the general reader. <persName key="Butler">Butler</persName> is defrauded of  
     his fame with readers of taste who happen to be no politicians, when  
-    <placeName key='Hudibras'>Hudibras</placeName> is printed without this appendage. The piece we allude  
-    to is a short Description of <placeName key='Holland'>Holland</placeName> : — </p>
+    <title level="a">Hudibras</title> is printed without this appendage. The piece we allude  
+    to is a short Description of <placeName key="Holland" corresp="The Netherlands">Holland</placeName> : — </p>
 
     <lg>
     <l>A country that draws fifty foot of water,  </l>
     <l>In which men live as in the hold of nature; </l> 
-    <l><persName key="And">And</persName> when the sea does in upon them break, </l>
-    <l><persName key="And">And</persName> drowns a province, does but spring a leak. </l>
+    <l>And when the sea does in upon them break, </l>
+    <l>And drowns a province, does but spring a leak. </l>
 
     <pb n="51"/>
 
     <l>That feed, like cannibals, on other fishes, </l>
-    <l><persName key="And">And</persName> serve their cousin-germans up in dishes. </l> 
+    <l>And serve their cousin-germans up in dishes. </l> 
     <l>A land that rides at anchor, and is moored. </l> 
     <l>In which they do not live, but go aboard. </l></lg>
 
     <p>We do not know, and perhaps it would be impossible to discover,  
     whether <persName key="Butler">Butler</persName> wrote his minor pieces before those of the great  
-    patriot <persName key="And">And</persName>rew <persName key="Marvell">Marvell</persName>, who rivalled him in wit and excelled him in  
-    poetry. <persName key="Marvell">Marvell</persName>, though born later, seems to have been known earlier  
+    patriot <persName key="Andrew Marvell">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
+    poetry. <persName key="Andrew Marvell">Marvell</persName>, though born later, seems to have been known earlier  
     as an author. He was certainly known publicly before him. But in  
-    the political poems of <persName key="Marvell">Marvell</persName> there is a ludicrous Character of  
-    <placeName key='Holland'>Holland</placeName>, which might be pronounced to be either the copy or the original  
-    of <persName key="Butler">Butler</persName>'s, if in those Anti-Batavian times the <placeName key='Holland'>Holland</placeName>er had  
+    the political poems of <persName key="Andrew Marvell">Marvell</persName> there is a ludicrous Character of  
+    <placeName key="Holland" corresp="The Netherlands">Holland</placeName>, which might be pronounced to be either the copy or the original  
+    of <persName key="Butler">Butler</persName>'s, if in those Anti-Batavian times the Hollander had  
     not been baited by all the wits; and were it not probable, that the  
     unwieldy monotony of his character gave rise to much the same  
-    ludicrous imagery in many of their fancies. <persName key="Marvell">Marvell</persName>'s wit has the  
+    ludicrous imagery in many of their fancies. <persName key="Andrew Marvell">Marvell</persName>'s wit has the  
     advantage of <persName key="Butler">Butler</persName>'s, not in learning or multiplicity of contrasts (for  
     nobody ever beat him there), but in a greater variety of them, and  
     in being able, from the more poetical turn of his mind, to bring graver   
@@ -188,16 +171,16 @@ the uneducated.</p>
 
     <p>He thus opens the battery upon our amphibious neighbour : — </p>
 
-    <lg><l><placeName key='Holland'>Holland</placeName>, that scarce deserves the name of land, </l>
-    <l>As but the off-scouring of the <placeName key='British sand'>British sand</placeName>;  </l>
-    <l><persName key="And">And</persName> so much earth as was contributed  </l>
+    <lg><l><placeName key="Holland" corresp="The Netherlands">Holland</placeName>, that scarce deserves the name of land, </l>
+    <l>As but the off-scouring of the British sand;  </l>
+    <l>And so much earth as was contributed  </l>
     <l>By English pilots, when they heaved the lead; </l> 
     <l>Or what by the ocean's slow alluvion fell.  </l>
     <l>Of shipwrecked cockle and the muscle-shell. </l></lg>
 
     <lg><l>Glad then, as miners who have found the ore. </l>
-    <l>They, with mad labour, <note type="hunt" place="foot"><persName key="Dryden">Dryden</persName> afterwards, of fighting for gain, in his song of "Come, if you dare:"  <q>The Gods from above the mad labour behold, </q></note> fished the land to shore; </l>
-    <l><persName key="And">And</persName> dived as desperately for each piece  </l>
+    <l>They, with mad labour, <note type="hunt" place="foot"><persName key="John Dryden">Dryden</persName> afterwards, of fighting for gain, in his song of "Come, if you dare:"  <q>The Gods from above the mad labour behold, </q></note> fished the land to shore; </l>
+    <l>And dived as desperately for each piece  </l>
     <l>Of earth, as if it had been of ambergreece; </l>
     <l>Collecting anxiously small loads of clay.  </l>
     <l>Less than what building swallows bear away;  </l>
@@ -207,32 +190,31 @@ the uneducated.</p>
     <p>He goes on in a strain of exquisite hyperbole : — </p>
 
     <q><l>How did they rivet with gigantic piles  </l>
-    <l><placeName key='Thorough'>Thorough</placeName> the centre their new-catched miles; </l> 
-    <l><persName key="And">And</persName> to the stake a struggling country bound.  </l>
+    <l>Thorough the centre <hi rend="italic">their new-catched miles;</hi> </l> 
+    <l>And to the stake a <hi rend="italic">struggling country</hi> bound.  </l>
     <l>Where barking waves still bait the forced ground;  </l>
-    <l>Building their wat'ry <persName key="Babel">Babel</persName> far more high </l>
+    <l>Building their wat'ry <persName type="fictional" key="Babel">Babel</persName> far more high </l>
     <l>To catch the waves, than those to scale the sky. </l> 
     <l>Yet still his claim the injured ocean layed.  </l>
-    <l><persName key="And">And</persName> oft at leap frog o'er their steeples played; </l>
+    <l>And oft at leap frog o'er their steeples played; </l>
     <l>As if on purpose it on land had come  </l>
-    <l>To shew them what's their <placeName key='Mare Liberum'>Mare Liberum</placeName>; <note type="hunt" place="foot"> A Free Ocean. </note></l>
-    
+    <l>To shew them what's their Mare Liberum; <note type="hunt" place="foot"> A Free Ocean. </note></l>
     <l>A dayly deluge over them does boil;  </l>
     <l>The earth and water play at level-coyl;  </l>
 
     <pb n="52"/>
 
     <l>The fish oft-times the burgher dispossessed.  </l>
-    <l><persName key="And">And</persName> sat, not as a meat, but as a guest :  </l>
-    <l><persName key="And">And</persName> oft the Tritons, and the Sea-nymphs, saw  </l>
+    <l>And sat, not as a meat, but as a guest :  </l>
+    <l>And oft the Tritons, and the Sea-nymphs, saw  </l>
     <l>Whole shoals of Dutch served up for cabillau.  </l>
     <l>Or, as they over the new level ranged,  </l>
-    <l>For pickled herring, pickled <persName key="Heeren">Heeren</persName> changed.  </l>
+    <l>For pickled herring, pickled Heeren changed.  </l>
     <l>Nature, it seemed, ashamed of her mistake.  </l>
-    <l>Would throw their land away at <placeName key='duck'>duck</placeName> and drake :  </l>
+    <l>Would throw their land away at duck and drake :  </l>
     <l>Therefore necessity, that first made kings.  </l>
     <l>Something like government among them brings:  </l>
-    <l>For as with <persName key="Pigmys">Pigmys</persName>, who best kills the crane.  </l>
+    <l>For as with Pigmys, who best kills the crane.  </l>
     <l>Among the hungry he that treasures grain.  </l>
     <l>Among the blind the one-eyed blinkard reigns. </l> 
     <l>So rules among the drowned he that drains.  </l>
@@ -243,25 +225,25 @@ the uneducated.</p>
     <l>To make a bank was a great plot of state; —  </l>
     <l>Invent a shovel, and be a magistrate. </l></q>
 
-    <p>We can never read these or some other ludicrous verses of <persName key="Marvell">Marvell</persName>,  
+    <p>We can never read these or some other ludicrous verses of <persName key="Andrew Marvell">Marvell</persName>,  
     even when by ourselves, without laughter; but we must curtail our  
     self-indulgence for the present. </p>
 </div2>
 <div2 type="section" n="2">
     <head type="header">GILBERT! GILBERT! </head>
 
-    <p>The idea generally conveyed to us by historians of <persName key="Thomas">Thomas</persName> à <placeName key='Becket'>Becket</placeName>  
+    <p>The idea generally conveyed to us by historians of <persName key="Thomas Becket">Thomas à Becket</persName>  
     is that of a mere haughty priest, who tried to elevate the religious  
     power above the civil. But in looking more narrowly into the accounts  
     of him, it appears that for a great part of his life he was a  
-    <persName key="merry layman">merry layman</persName>, was a great falconer, feaster, and patron, as well as  
+    merry layman, was a great falconer, feaster, and patron, as well as  
     man of business; and he wore all characters with such unaffected  
     pleasantness to all ranks, that he was called the Delight of the  
     Western World. </p>
 
-    <p>All on a sudden, to every body's surprise, <persName key="Henry">Henry</persName> the 2nd, from  
-    <persName key="Chancellor">Chancellor</persName> made him Archbishop; and with equal suddenness, though  
-    retaining his affability, the new head of the English church put off  
+    <p>All on a sudden, to every body's surprise, <persName key="King Henry II">Henry the 2nd</persName>, from  
+    Chancellor made him Archbishop; and with equal suddenness, though  
+    retaining his affability, <persName key="Thomas Becket">the new head of the English church</persName> put off  
     all his worldly graces and pleasures (save and except a rich gown  
     over his sackcloth); — and in the midst of a gay court, became the  
     most mortified of ascetics. Instead of hunting and hawking, he  
@@ -269,11 +251,11 @@ the uneducated.</p>
     and in lieu of soft clothing, he indulged his back in stripes. </p>
 
     <p>This phenomenon has divided the opinions of the moral critics.  
-    Some insist that <placeName key='Becket'>Becket</placeName> was religiously in earnest, and think the  
+    Some insist that <persName key="Thomas Becket">Becket</persName> was religiously in earnest, and think the  
     change natural to a man of the world whose heart had been struck  
     with reflection. Others see in it nothing but ambition. We certainly  
     think that three parts of the truth are with the latter; and  
-    that <placeName key='Becket'>Becket</placeName>, suddenly enabled to dispute a kind of sovereignty with  
+    that <persName key="Thomas Becket">Becket</persName>, suddenly enabled to dispute a kind of sovereignty with  
     his prince and friend, gave way to the new temptation, just as he had  
     done to his falconry, and fine living. But the complete alteration of  
     his way of life — the enthusiasm which enabled him to set up so  
@@ -290,9 +272,9 @@ the uneducated.</p>
     of his religious office, had a zest given to it's possession, of which the  
     incredulousness of mere insincerity could know nothing. </p>
 
-    <p><persName key="Thomas">Thomas</persName> à <placeName key='Becket'>Becket</placeName> may have inherited his portion of the romantic  
-    from his mother, whose story is a singular one. His father, <persName key="Gilbert">Gilbert</persName>  
-    <placeName key='Becket'>Becket</placeName>, who was afterwards a flourishing citizen, was in his youth  
+    <p><persName key="Thomas Becket">Thomas à Becket</persName> may have inherited his portion of the romantic  
+    from his mother, whose story is a singular one. His father, <persName key="Gilbert Becket">Gilbert  
+    Becket</persName>, who was afterwards a flourishing citizen, was in his youth  
     a soldier in the crusades; and being taken prisoner, became slave to  
     an Emir or Saracen prince. By degrees he obtained the confidence  
     of his master, and was admitted to his company, where he met a  
@@ -300,17 +282,17 @@ the uneducated.</p>
     daughter. Whether by her means or not does not appear; but after  
     some time he contrived to escape. The lady with her loving heart  
     followed him. She knew, they say, but two words of his language, —  
-    <placeName key='London'>London</placeName> and <persName key="Gilbert">Gilbert</persName>; and by repeating the former, she obtained a  
-    passage in a vessel, arrived in <placeName key='England'>England</placeName>, and found her trusting way  
+    <placeName key="London" corresp="England">London</placeName> and <persName key="Gilbert Becket">Gilbert</persName>; and by repeating the former, she obtained a  
+    passage in a vessel, arrived in <placeName key="England" corresp="England">England</placeName>, and found her trusting way  
     to the metropolis. She then took to her other talisman, and went  
-    from street to street pronouncing <persName key="Gilbert">Gilbert</persName>. A crowd collected about  
+    from street to street pronouncing <persName key="Gilbert Becket">Gilbert</persName>. A crowd collected about  
     her wherever she went, asking of course a thousand questions, and  
-    to all she had but one answer — <persName key="Gilbert">Gilbert</persName>! <persName key="Gilbert">Gilbert</persName>! She found her  
+    to all she had but one answer — <persName key="Gilbert Becket">Gilbert</persName>! <persName key="Gilbert Becket">Gilbert</persName>! She found her  
     faith in it sufficient. Chance, or her determination to go through  
     every street, brought her at last to the one, in which he who had  
     won her heart in slavery, was living in prosperous condition. The  
     crowd drew the family to the window; his servant recognized her;  
-    and <persName key="Gilbert">Gilbert</persName> <placeName key='Becket'>Becket</placeName> took to his arms, and his bridal bed, his far-come  
+    and <persName key="Gilbert Becket">Gilbert Becket</persName> took to his arms, and his bridal bed, his far-come  
     princess, with her solitary fond word. </p>
 
     <p>These are better histories than the quarrels of kings and archbishops. </p>
@@ -333,17 +315,17 @@ the uneducated.</p>
     <pb n="54"/>
 
     <p>There is this great difFeience between what is generally understood  
-    by the word insanity, and the nervous or <persName key="melancholy">melancholy</persName> disorders, the  
-    excess of which is so often confounded with it. <placeName key='Insanity'>Insanity</placeName> is a consequence  
+    by the word insanity, and the nervous or melancholy disorders, the  
+    excess of which is so often confounded with it. Insanity is a consequence  
     of malformation of the brain, and is by no means of necessity  
-    attended with <persName key="melancholy">melancholy</persName> or even ill health. The patient, in the  
+    attended with melancholy or even ill health. The patient, in the  
     very midst of it, is often strong, healthy, and even chearful. On the  
-    other hand, nervous disorders or even <persName key="melancholy">melancholy</persName> in it's most aggravated  
+    other hand, nervous disorders or even melancholy in it's most aggravated  
     state, is nothing but the excess of a state of stomach and  
     blood, extremely common. The mind no doubt will act upon that  
     state, and exasperate it; but there is great reaction between mind  
     and body; and as it is a common thing for a man in an ordinary  
-    fever, or fit of the bile, to be <persName key="melancholy">melancholy</persName>, and even to do or feel  
+    fever, or fit of the bile, to be melancholy, and even to do or feel  
     inclined to do an extravagant thing, so it is as common for him to get  
     well and be quite chearful again. Thus it is among witless people  
     that the true insanity will be found. It is the more intelligent that  
@@ -351,7 +333,7 @@ the uneducated.</p>
     intelligence will shew them what the disorders are. </p>
 
     <p>But weak treatment may frighten the intelligent. A kind persbn  
-    for instance, in a fit of <persName key="melancholy">melancholy</persName>, may confess that he feels an  
+    for instance, in a fit of melancholy, may confess that he feels an  
     inclination to do some desperate or even cruel thing. This is  
     often treated at once as insanity, instead of an excess of the kind  
     just mentioned; and the person seeing he is thought mad, begins to  
@@ -382,7 +364,7 @@ the uneducated.</p>
     when they are thus unwarrantably frightened, they are partaking of  
     the very essence of what they misapprehend; for it is fear, in all it's  
     various degrees and modifications, which is at the bottom of nervousness  
-    and <persName key="melancholy">melancholy</persName>; not fear in it's ordinary sense, as opposed to  
+    and melancholy; not fear in it's ordinary sense, as opposed to  
 
     <pb n="55"/>
 
@@ -403,14 +385,14 @@ the uneducated.</p>
     of the information. A very imaginative man will indeed be  
     likely to suffer more than otheis; but if his knowledge is at all in  
     proportion, he will also gfet through his evil better than an  
-    uninformed man suffering great terrors. <persName key="And">And</persName> the reason is, that he  
+    uninformed man suffering great terrors. And the reason is, that he  
     knows how much bodily unhealthiness has to do with it. The very  
     words that frighten the unknowing, might teach them better, if  
     understood. Thus insanity itself properly means nothing but  
     unhealthiness or unsoundness. Derangement explains itself, and may surely  
-    mean very harmless things. <persName key="Melancholy">Melancholy</persName> is compounded of two  
-    words, which signify dark bile. <placeName key='Hypochondria'>Hypochondria</placeName> is the name of one   
-    of the regions of the stomach, — a very instructive etymology. <persName key="And">And</persName>  
+    mean very harmless things. melancholy is compounded of two  
+    words, which signify dark bile. Hypochondria is the name of one   
+    of the regions of the stomach, — a very instructive etymology. And  
     lunacy refers to effects, real or imaginary, of particular states of  
     the moon; which if any thing after all, are nothing more than what  
     every delicate constitution feels in its degree from particular states  
@@ -418,14 +400,11 @@ the uneducated.</p>
     such a condition, when the moon presents such and such a face. </p>
 
     <p>It has been said. </p>
-    <q><choice>
-    <sic>Great wits to madness nearly are allied. </sic> 
-    <corr>Great wits are sure to madness near allied, </corr>
-    </choice></q>
+    <l>Great wits to madness nearly are allied.</l>
 
-    <p>It is curious that he who wrote the saying (<persName key="Dryden">Dryden</persName>) was a very  
+    <p>It is curious that he who wrote the saying (<persName key="John Dryden">Dryden</persName>) was a very  
     sound wit to the end of his life; while his wife, who was of a weak  
-    understanding, became insane. An excellent writer (<persName key="Wordsworth">Wordsworth</persName>) has  
+    understanding, became insane. An excellent writer (<persName key="William Wordsworth">Wordsworth</persName>) has  
     written an idle couplet about the insanity of poets : </p>
 
     <q>We poets enter on our path with gladness,  
@@ -435,9 +414,9 @@ the uneducated.</p>
     have written this line; if he did, he ought not to have fallen, in the  
     teeth of his information, into so vulgar an error. There are very  
     few instances of insane poets, or of insane great understandings  
-    of any sort. <persName key="Bacon">Bacon</persName>, <persName key="Milton">Milton</persName>, <persName key="Newton">Newton</persName>, <persName key="Shakspeare">Shakspeare</persName>, <persName key="Cervantes">Cervantes</persName>, etc.  
+    of any sort. <persName key="Francis Bacon">Bacon</persName>, <persName key="Milton">Milton</persName>, <persName key="Newton">Newton</persName>, <persName key="William Shakspeare">Shakspeare</persName>, <persName key="Cervantes">Cervantes</persName>, etc.  
     were all of minds as sound as they were great. So it has been with  
-    the infinite majority of literary men of all countries. If <persName key="Tasso">Tasso</persName> and a  
+    the infinite majority of literary men of all countries. If <persName key="Torquato Tasso">Tasso</persName> and a  
     few others were exceptions, they were but exceptions; and the  
     derangement in these eminent men has very doubtful characters about  
     it, and is sometimes made a question.  It may be pretty safely  
@@ -446,21 +425,21 @@ the uneducated.</p>
 
     affirmed, at least, upon an examination of it, that had they not been  
     the clever men they were, it would have been much worse and less  
-    equivocal. Collins, whose case was after all one of inanition rather  
+    equivocal. <persName key="Collins">Collins</persName>, whose case was after all one of inanition rather  
     than insanity, had been a free liver; and seems to have been hurt by  
-    having a fortune left him. Cowper was weak-bodied, and beset  
-    by Methodists. Swift's body was full of bad humours. He  
+    having a fortune left him. <persName key="Cowper">Cowper</persName> was weak-bodied, and beset  
+    by Methodists. <persName key="Swift">Swift</persName>'s body was full of bad humours. He  
     himself attributed his disornered system to the effects of a surfeit of  
     fruit on his stomach; and in his last illness he used to break out in  
     enormous biles and blisters. This was a violent effort of nature to  
     help and purify the current of his blood, — the main object in all  
-    such cases. Dr. Johnson, who was subject to mists of <persName key="melancholy">melancholy</persName>,  
+    such cases. <persName key="Samuel Johnson">Dr. Johnson</persName>, who was subject to mists of melancholy,  
     used to fancy he should go mad; but he never did. </p>
 
-    <p><persName key="Exercise">Exercise</persName>, conversation, cheerful society, amusements of all sorts, or  
+    <p>Exercise, conversation, cheerful society, amusements of all sorts, or  
     a kind, patient, and gradual helping of the bodily health, till the mind  
     be capable of amusement (for it should never foolishly be told "not to  
-    think" of <persName key="melancholy">melancholy</persName> things, without having something done for it  
+    think" of melancholy things, without having something done for it  
     to mend the bodily health), — these are the cures, the only cures, and  
     in our opinion the almost infallible cures of nervous disorders,  
     however excessive. Above all, the patient shoidd be told, that there has  
@@ -468,16 +447,16 @@ the uneducated.</p>
     indeed a great and venerable suffering. Many persons have got over  
     it in a week, a few weeks, or a month, some in a few months, some  
     not for years, but they have got over it at last. There is a remarkable  
-    instance of this in the life of our great king <persName key="Alfred">Alfred</persName>. He was  
+    instance of this in the life of our great <persName key="King Alfred the Great">king Alfred</persName>. He was  
     seized, says his contemporary biographer, with such a strange illness,  
     while sitting at table in the twenty-fifth year (we think) of his age,  
     that he shrieked aloud; and for twenty years afterwards this illness  
     so preyed upon him, that the relief of one hour was embittered by  
     what he dreaded would come the next. His disorder is conjectured  
     by some to have been an internal cancer; by others, with more  
-    probability, the black bile, or <persName key="melancholy">melancholy</persName>. The physicians of those  
+    probability, the black bile, or melancholy. The physicians of those  
     times knew nothing about it; and the people shewed at once their  
-    ignorance, and their admiration of the king, by saying that the devil  
+    ignorance, and their admiration of <persName key="King Alfred the Great">the king</persName>, by saying that the devil  
     had caused it out of jealousy. It was probably produced by anxiety  
     for the state of his country; but the same thing which wounded him  
     might have helped to keep him up; for he had plenty of business to.  
@@ -497,8 +476,8 @@ the uneducated.</p>
                     any thing of merely temporary interest. ] </p> 
                     </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Two-pence.</p>
-                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, <placeName key='London'>London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Two-pence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
             </div2>
                 </div1>
             </body>
