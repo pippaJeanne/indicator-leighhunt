@@ -76,6 +76,9 @@ For rendering of poems:
  <!--[…]-->
 </lg>
 ```
+For a change of language within a line use:
+<span xml:lang="latin">Mare Liberum</span>
+```
 Use the ```<q>``` tags when the quote is used inline within the paragraph. 
 ```xml
 <q> text </q>
