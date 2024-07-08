@@ -20,7 +20,7 @@
                         <author>Hunt, James <persName key="Henry">Henry</persName> Leigh (1784-1859)</author>
                         <title>The Indicator</title>
                         <date when="1819-11-24">NOVEMBER 24th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                        <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country><placeName key='England'>England</placeName></country></pubPlace>
+                        <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                         <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                     </bibl>
                 </sourceDesc>
@@ -71,10 +71,10 @@
     <p><persName type="fictional" key="Sir John Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
     himself; witness his famous account of the men in <placeName type="fictional" key="buckram">buckram</placeName>. Thus he  
     tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice "with singing  
-    of anthems;"<note type="source">(Shakespeare, Henry IV part 2, Act1 Scene2) </note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose "a perpetual triumph,  
-    an everlasting bonfire light"<note type="source">(Shakespeare, Henry IV part 1, Act3 Scene3)</note> and says it has saved him "a thousand  
-    marks in links and torches,"<note type="source">(Shakespeare, Henry IV part 1, Act3 Scene3)</note> walking with it "in the night betwixt  
-    tavern and tavern."<note type="source">(Shakespeare, Henry IV part1, Act3 Scene3)</note> See how he goes heightening the account of  
+    of anthems;"<note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV</title> part 2, Act1 Scene2 </bibl></note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose "a perpetual triumph,  
+    an everlasting bonfire light"<note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV part 1</title>, Act3 Scene3</bibl></note> and says it has saved him "a thousand  
+    marks in links and torches,"<note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV part 1</title>, Act3 Scene3</bibl></note> walking with it "in the night betwixt  
+    tavern and tavern."<note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV part1</title>, Act3 Scene3</bibl></note> See how he goes heightening the account of  
     his recruits at every step : — "You would think I had a hundred and  
     fifty tattered prodigals, lately come from swine-keeping, from eating  
     draff and husks. — A mad fellow met me on the way, and told me, I  
@@ -84,7 +84,7 @@
     legs, as if they had gyves on; for indeed I had most of them out of  
     prison.— There's but a shirt and a half in all my company; — and the  
     half-shirt is two napkins, tacked together, and thrown over the  
-    shoulders like a herald's coat without sleeves."<note type="source">(Shakespeare, Henry IV part1, Act4 Scene2)</note> </p>
+    shoulders like a herald's coat without sleeves."<note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV</title> part1, Act4 Scene2</bibl></note> </p>
 
     <p>An old schoolfellow of ours, (who by the way, was more fond of  
     quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakspeare">Shakspeare</persName>'s chararacters) used to  
@@ -198,7 +198,7 @@
     <l>Yet still his claim the injured ocean layed.  </l>
     <l>And oft at leap frog o'er their steeples played; </l>
     <l>As if on purpose it on land had come  </l>
-    <l>To shew them what's their Mare Liberum; <note type="hunt" place="foot"> A Free Ocean. </note></l>
+    <l>To shew them what's their <span xml:lang="latin">Mare Liberum</span>; <note type="translation-hunt" place="foot"> A <hi rend="italic">Free</hi> Ocean. </note></l>
     <l>A dayly deluge over them does boil;  </l>
     <l>The earth and water play at level-coyl;  </l>
 
