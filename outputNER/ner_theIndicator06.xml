@@ -20,7 +20,7 @@
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-11-17">NOVEMBER 17th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country>England</country></pubPlace>
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -60,7 +60,7 @@
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
-                    <head type="catalogue">No. I. <date when="1819-11-10">—WEDNESDAY, NOVEMBER 10th, 1819</date>.</head>
+                    <head type="catalogue">No. I. <date when="1819-11-17">—WEDNESDAY, NOVEMBER 17th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header">SOCIAL GENEALOGY. </head>
@@ -178,7 +178,7 @@ him in the coffee-house. </p>
 <l>Be kind to my remains; and O defend, </l>
 <l>Against your judgment, your departed friend ! </l>
 <l>Let not th' insulting foe my fame pursue, </l>
-<l>But shade those laurels which descend to you.</l></lg> </quote><note type="source"><bibl>Dryden, John: To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer
+<l>But shade those laurels which descend to you.</l></lg> </quote><note type="source"><bibl><author><persName key="John Dryden">Dryden, John</persName></author>: <title level="a">To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer</title>
 </bibl></note></cit>
 
 <p><persName key="Congreve">Congreve</persName> did so with great tenderness. </p>
@@ -229,7 +229,7 @@ and turned emulation to worship. </p>
 <l>Thou art a monument without a tomb; </l>
 <l>And art alive still, while thy book doth live. </l>
 <l>And we have wits to read, and praise to give. </l>
-<l>He was not of an age, but for all time. </l></lg></quote><note type="source"><bibl><persName key="Ben Jonson">Jonson</persName>, Ben: To the Memory of My Beloved the Author, Mr. <persName key="William Shakespeare">William Shakespeare</persName>
+<l>He was not of an age, but for all time. </l></lg></quote><note type="source"><bibl><author><persName key="Ben Jonson">Jonson, Ben</persName></author>: <title level="a">To the Memory of My Beloved the Author, Mr. William Shakespeare</title>
 </bibl></note></cit>
 
 </div2>
@@ -354,7 +354,7 @@ tame fish-like acquiescence to whatever the powerful chuse to inflict. </p>
 <l>In demanding, than we have in giving. </l>
 <l>Whilst quiet we sit. </l>
 <l>We conclude all things fit, </l>
-<l>Acquiescing with hearty submission, etc. </l></lg></quote><note type="source"><bibl><persName key="Charles Cotton">Cotton</persName>, <persName key="Charles Cotton">Charles</persName>: The Angler's Ballad</bibl></note></cit>
+<l>Acquiescing with hearty submission, etc. </l></lg></quote><note type="source"><bibl><author><persName key="Charles Cotton">Cotton, Charles</persName></author>: <title level="a">The Angler's Ballad</title></bibl></note></cit>
 
 <p>And this was no pastoral fiction. The anglers of those times, whose  
 pastimes became famous from the celebrity of their names, chiefly  
