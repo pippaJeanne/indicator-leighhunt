@@ -20,7 +20,7 @@
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-11-10">NOVEMBER 10th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement>London</settlement>, <country><placeName key="England" corresp="England">England</placeName></country></pubPlace>
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -203,7 +203,7 @@ angry desperation of <persName key="King Richard III">the king</persName>.</p>
 <l>Repayes this service fully to his sonne, </l>
 <l>Who marries <persName key="Duke of Richmond">Richmond</persName>'s daughter, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
-<note type="source"><bibl><author><persName key="Sir John Beaumont">Sir John Beaumont</persName></author>'s <title><placeName key="Bosworth Field" corresp="England">Bosworth Field</placeName></title>.</bibl></note></cit> 
+<note type="source"><bibl><author><persName key="Sir John Beaumont">Sir John Beaumont</persName></author>'s <title level="m"><placeName key="Bosworth Field" corresp="England">Bosworth Field</placeName></title>.</bibl></note></cit> 
 
 <p>The father's fate must doubtless have had it's effect in securing the 
 fortunes of the son. <persName key="Charles Brandon, 1st Duke of Suffolk">Young Brandon</persName>, we believe, grew up with <persName key="King Henry VII">Henry 
@@ -392,8 +392,8 @@ to Æneas, to warn him from <placeName key="Crete" corresp="Greece">Crete</place
 empire in <placeName key="Italy" corresp="Italy">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
 
 <lg xml:lang="latin"> <l>Nox erat, et terris animalia somaus habebat. </l>
-<l>Effigies sacrse divom, Phrygiique <persName key="Penates">Penates</persName>, </l>
-<l>Quos meeum a <placeName key="Troy" corresp="Greece">Troja</placeName>, mediisque ex ignibis urbis </l>
+<l>Effigies sacrse divom, Phrygiique Penates, </l>
+<l>Quos meeum a Troja, mediisque ex ignibis urbis </l>
 <l>Extuleram, visi ante oculos adstare jacentis </l>
 <l>In somnis, multo manifesti luraine, qua se. </l>
 <l>Plena per insertas fundebat luna fenestras. </l></lg>
@@ -402,7 +402,7 @@ empire in <placeName key="Italy" corresp="Italy">Italy</placeName>.  <note type=
 <l>I lay, and saw before my very eyes</l>  
 <l>Dread shapes of gods, and Phrygian -deities,</l>  
 <l>The great <persName key="Penates">Penates</persName>; whom with reverent joy</l>  
-<l>I bore from out the heart of burning <placeName key="Troy" corresp="Greece">Troy</placeName>.</l>  
+<l>I bore from out the heart of burning <placeName key="Troy" corresp="Turkey">Troy</placeName>.</l>  
 <l>Plainly I saw there, standing in the light</l>  
 <l>Which the moon poured into the room that night.</l></lg>
 
@@ -522,3 +522,4 @@ of the name of <persName key="Eroition">Erotion</persName>. </p>
         </body>
     </text>
 </TEI>
+ 
