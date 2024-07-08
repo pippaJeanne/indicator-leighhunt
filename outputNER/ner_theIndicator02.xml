@@ -20,7 +20,7 @@
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
                     <date when="1819-10-20">OCTOBER 20th", 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement><placeName key="London" corresp="England">London</placeName></settlement>, <country>England</country></pubPlace>
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
             </sourceDesc>
@@ -169,7 +169,7 @@ others into a share of his enjoyments, by the imagination of them.</p>
 <l>The Spirit of <persName key="Plato">Plato</persName>, to unfold </l>
 <l>What world or what vast regions hold </l>
 <l>The immortal mind, that hath forsook </l>
-<l>Her mansion in this fleshy nook. </l></lg></quote><note type="source"><bibl><author><persName key="John Milton">John Milton</persName></author>: <title>Il Penseroso</title></bibl></note></cit>
+<l>Her mansion in this fleshy nook. </l></lg></quote><note type="source"><bibl><author><persName key="John Milton">John Milton</persName></author>: <title level="a">Il Penseroso</title></bibl></note></cit>
 
 <p>There is a fine passionate burst of enthusiasm oh the subject of a 
 study in <persName key="Fletcher">Fletcher</persName>'s play of the <bibl><title>Elder Brother</title>, <ref>Act. 1. Scene 2</ref></bibl>.</p>
@@ -233,7 +233,7 @@ to the apples of her breast.-' The idea seems to have originated with
 <persName key="Theocritus">Theocritus</persName>, <note type="hunt">(Idyl. 27- v. 50. Edit. <persName key="Lodewijk Caspar Valckenaer">Valckenaer</persName>.)</note> from whom it was  
 copied by the Italian writers. It makes a lovely figure in one of the  
 most famous passages of <persName key="Ariosto">Ariosto</persName>, where he describes the beauty of  
-<persName key="Alcina">Alcina</persName> <note type="hunt">(Orlando Furioso, Canto 7- st. 14.)</note> : — </p>
+<persName key="Alcina">Alcina</persName> <note type="hunt">(<title level="m">Orlando Furioso</title>, Canto 7- st. 14.)</note> : — </p>
 
 <lg xml:lang="it"> <l>Bianca neve e il bel collo, e'l petto latte: </l>
 <l>II collo e tondo, il petto colmo e largo : </l> 
