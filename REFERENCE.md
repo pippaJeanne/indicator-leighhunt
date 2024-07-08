@@ -145,6 +145,9 @@ Examples
 <!--unique occurrence-->
 <persName key="King James VI of Scotland and I of England (1566–1625)" ref="http://www.wikidata.org/entity/Q118876108" cert="high" type="real">King James</persName>
 
+<!-- for families-->
+<persName role="family" key="Sydneys, Earls of Leicester">Sydneys, Earls of Leicester</persName>
+
 ```
 
 ### placeName
