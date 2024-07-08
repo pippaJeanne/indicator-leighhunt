@@ -48,7 +48,7 @@
      <head type="title">THE INDICATOR.</head>
      <epigraph>
       <l>There he arriving round about doth flie,</l>
-      <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
+      <l>And takes survey with busie, curious eye:</l>
       <l>Now this, now that, he tasteth tenderly.</l>
       <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
         cert="high" type="real">SPENSER</persName>.</l>
@@ -62,18 +62,18 @@
 that whenever so great a poet told us any thing in addition or 
 continuation of an ancient story, he had a right to be regarded as classical 
 authority. For instance, said he, when he tells us of that characteristic 
-death of Ulysses in one of the books of his Inferno, we ought 
+death of <persName key="Ulysses" type="fictional">Ulysses</persName> in one of the books of his <title level="a">Inferno</title>, we ought 
 to receive the information as authentic, and be glad that we have 
-more news of Ulysses than we looked for. </p>
+more news of <persName key="Ulysses" type="fictional">Ulysse</persName>s than we looked for. </p>
 
 <p>We thought this a happy remark, and instantly turned with him 
 to the passage in question; for not having read <persName key="Dante">Dante</persName> regularly, we 
 had passed it over so slightly as not to remember it. Yet it is 
 a striking one, as the reader will see. The last account of Ulysses 
 upon which we may fairly reckon, in the ancient poets, is his sudden 
-re-appearance before the suitors at <placeName key='Ithaca'>Ithaca</placeName>, and his consummate and 
+re-appearance before the suitors at <placeName type="ficitonal" key="Ithaca">Ithaca</placeName>, and his consummate and 
 godlike victory over their crest-fallen insolence. There is something 
-more told of him, it is true, before the Odyssey concludes; but with 
+more told of him, it is true, before <title level="m">the Odyssey</title> concludes; but with 
 the exception of his visit to his aged father, our memory scarcely 
 wishes to retain it; nor does it controvert the general impression 
 left upon us, that the wandering hero is victorious over his domestic 
@@ -84,14 +84,14 @@ the general impression upon one's mind, as to the close of his life;
 but there are plenty of obscurer fables about it still. We have 
 specimens in modern times of this propensity never to have done with a 
 good story; which is natural enough, though not very wise; nor 
-are the best writers likely to meddle with it. Thus <persName key="Cervantes">Cervantes</persName> was 
-plagued with a spurious Quixote; and our circulating libraries have 
-the adventures of <persName key="Tom Jones">Tom Jones</persName> in his Married State. The ancient 
+are the best writers likely to meddle with it. Thus <persName key="Miguel de Cervantes">Cervantes</persName> was 
+plagued with a spurious <title level="m" key="Don Quixote">Quixote</title>; and our circulating libraries have 
+<title key="The History of Tom Jones the Foundling, in his Married State" level="a">the adventures of <persName type="fictional" key="Tom Jones">Tom Jones</persName> in his Married State</title>. The ancient 
 writers on the present subject, availing themselves of an obscure 
-prophecy of <persName key="Tiresias">Tiresias</persName>, who tells Ulysses on his visit to hell, that 
+prophecy of <persName key="Tiresias">Tiresias</persName>, who tells <persName key="Ulysses">Ulysses</persName> on his visit to hell, that 
 his old enemy the sea would be the death of him at last, bring 
 over the sea <persName key="Telegonus">Telegonus</persName>, his son by the goddess <persName key="Circe">Circe</persName>, who gets into 
-a scuffle with the <placeName key='Ithaca'>Ithaca</placeName>ns, and kills his father unknowingly. It is 
+a scuffle with the Ithacans, and kills his father unknowingly. It is 
 added, that <persName key="Telegonus">Telegonus</persName> afterwards returned to his mother's island, 
 taking <persName key="Penelope">Penelope</persName> and his half-brother <persName key="Telemachus">Telemachus</persName> with him; and 
 
@@ -99,39 +99,39 @@ taking <persName key="Penelope">Penelope</persName> and his half-brother <persNa
 
 here a singular arrangement takes place, more after the fashion of 
 a modern Catholic dynasty, than an ancient heathen one: for while 
-<choice><orig>AEdipus</orig><reg>Oedipus</reg></choice> was fated to undergo such dreadful misfortunes for marrying 
-his mother without the knowledge of either party, Minerva herself 
+<choice><orig>Ædipus</orig><reg>Oedipus</reg></choice> was fated to undergo such dreadful misfortunes for marrying 
+his mother without the knowledge of either party, <persName key="Minerva">Minerva</persName> herself 
 comes down from heaven, on the present occasion, to order <persName key="Telegonus">Telegonus</persName> 
-the son of Ulysses, to marry his father's wife; the other son, 
+the son of <persName key="Ulysses">Ulysses</persName>, to marry <persName key="Penelope">his father's wife</persName>; <persName key="Telemachus">the other son</persName>, 
 at the same time, making a suitable match with his father's mistress, 
 <persName key="Circe">Circe</persName>, <persName key="Telemachus">Telemachus</persName> seems to have had the best of this extraordinary 
 bargain, for <persName key="Circe">Circe</persName> was a goddess, consequently always young; and 
 yet to perplex these windings-up still more, <persName key="Telemachus">Telemachus</persName> is represented 
 by some as marrying <persName key="Circe">Circe</persName>'s daughter, and killing his immortal 
 mother-in-law. Nor does the character of the chaste and enduring 
-<persName key="Penelope">Penelope</persName> escape in the confusion. Instead of waiting her husband's 
+<persName key="Penelope">Penelope</persName> escape in the confusion. Instead of waiting <persName key="Ulysses">her husband</persName>'s 
 return in that patient manner, she is reported to have been 
 over-hospitable to all the suitors; the consequence of which was a son 
-called Pan, being no less a personage than the god Pan himself, or 
-Nature; a fiction, as Lord Bacon says, "applied very absurdly and 
+called <persName key="Pan">Pan</persName>, being no less a personage than the god <persName key="Pan">Pan</persName> himself, or 
+Nature; a fiction, as <persName key="Francis Bacon">Lord Bacon</persName> says, "applied very absurdly and 
 indiscreetly." There are different stories respecting her lovers; but it is 
-reported that when Ulysses returned from Troy, he divorced her for 
+reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName key="Troy" corresp="Turkey">Troy</placeName>, he divorced her for 
 incontinence; and that she fled, and passed her latter days in 
-Mantinea. Some even go so far as to say, that her father Icarius had 
+<placeName key="Mantinea" corresp="Greece">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
 attempted to destroy her when young, because the oracle had told him 
 that she would be the most dissolute of the family. This was probably 
 invented by the comic writers out of a buffoon malignity; for 
 there are men, so foolishly incredulous with regard to principle, that 
 the reputation of it, even in a fiction, makes them impatient. </p>
 
-<p>Now it is impossible to say whether <persName key="Dante">Dante</persName> would have left Ulysses 
+<p>Now it is impossible to say whether <persName key="Dante">Dante</persName> would have left <persName key="Ulysses">Ulysses</persName> 
 quietly with <persName key="Penelope">Penelope</persName> after all his sufferings, had he known them 
 as described in <persName key="Homer">Homer</persName>. The old Florentine, though wilful enough 
 when he wanted to dispose of a modern's fate, had great veneration 
-for his ancient predecessors. <persName key="At">At</persName> all events, he was not acquainted 
+for his ancient predecessors. At all events, he was not acquainted 
 with <persName key="Homer">Homer</persName>'s works. They did not make their way again into <placeName key='Italy'>Italy</placeName> 
 till a little later. But there were Latin writers extant, who might 
-have informed him of the other stories relative to Ulysses; and he 
+have informed him of the other stories relative to <persName key="Ulysses">Ulysses</persName>; and he 
 saw nothing in them, to hinder him from giving the great wanderer 
 a death of his own. </p>
 
@@ -155,7 +155,7 @@ in what is burning him." <persName key="Dante">Dante</persName> told him, that h
 guessed as much; and pointing to one of them in particular, asked 
 who was in that fire, which was divided at top, as though it had  
 ascended from the funeral-pile of the hating Theban brothers. 
-"Within that," answered <persName key="Virgil">Virgil</persName>, "are Diomed and Ulysses; who 
+"Within that," answered <persName key="Virgil">Virgil</persName>, "are <persName>Diomed</persName> and <persName key="Ulysses">Ulysses</persName>; who 
 speed together now to their own misery, as they used to do to that of 
 others." They were suffering the penalty of the various frauds they 
 had perpetrated in concert; such as the contrivance of the Trojan 
@@ -169,23 +169,23 @@ within one fire;" and requests them, if he ever deserved anything of
 them as a poet, great or little, that they would not go away, till one 
 of them had told him how he came into that extremity. </p>
 
-<p><persName key="At">At</persName> this, says <persName key="Dante">Dante</persName>, the greater horn of the old fire began to lap 
+<p>At this, says <persName key="Dante">Dante</persName>, the greater horn of the old fire began to lap 
 hither and thither, murmuring; like a flame struggling with the 
 wind. The top then, yearning to and fro, like a tongue trying to 
 speak, threw out a voice, and said : "When I departed from <persName key="Circe">Circe</persName>, 
 who withdrew me to her for more than a year in the neighbourhood 
-of <persName key="Gaieta">Gaieta</persName>, before <persName key="Eneas">Eneas</persName> had so named it; neither the sweet company 
-of my son, nor pious affection for my old father, nor the long-owed 
+of <placeName key="Gaieta" corresp="Italy"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Eneas">Eneas</persName> had so named it; neither the sweet company 
+of <persName key="Telemachus">my son</persName>, nor pious affection for <persName key="Laertes">my old father</persName>, nor the long-owed 
 love with which I ought to have gladdened <persName key="Penelope">Penelope</persName>, could conquer 
 the ardour that was in me to become wise in knowledge of the world, 
 of man's vices and his virtue. I put forth into the great open deep 
 with only one bark, and the small remaining crew by whom I had 
-not been left. I saw the two shores on either side, as far as <placeName key='Spain'>Spain</placeName>  
-and <placeName key='Morocco'>Morocco</placeName>; and the island of <placeName key='Sardinia'>Sardinia</placeName>, and the other isles which 
+not been left. I saw the two shores on either side, as far as <placeName key="Spain" corresp="Spain">Spain</placeName>  
+and <placeName key="Morocco" corresp="Morocco">Morocco</placeName>; and the island of <placeName key="Sardinia" corresp="Italy">Sardinia</placeName>, and the other isles which 
 the sea there bathes round about. Slowly we went, my companions and 
 I, for we were old; till at last we came to that narrow outlet, where 
-<persName key="Hercules">Hercules</persName> set up his pillars, that no man might go further. I left <placeName key='Seville'>Seville</placeName> 
-on the right hand : on the other I had left <placeName key='Ceuta'>Ceuta</placeName>. O brothers, said 
+<persName key="Hercules">Hercules</persName> set up his pillars, that no man might go further. I left <placeName key="Seville" corresp="Spain">Seville</placeName> 
+on the right hand : on the other I had left <placeName key="Ceuta" corresp="Spain">Ceuta</placeName>. O brothers, said 
 I, who through a hundred thousand perils are at length arrived at 
 the west, deny not to the short waking day that yet remains to our 
 senses, an insight into the unpeopled world, setting your backs upon 
@@ -214,12 +214,12 @@ seemed fit to others, the ocean closed above our heads." </p>
 <l>E la prora ire in giu, come altrui piacque, </l> 
 <l>Infin ch'l mar fu sopra noi richiuso. </l></lg>
 </quote></cit>
-<p>Why poor Ulysses should find himself in hell after his immersion, 
+<p>Why poor <persName key="Ulysses">Ulysses</persName> should find himself in hell after his immersion, 
 and be condemned to a swathing of eternal fire, while <persName key="St. Dominic">St. Dominic</persName>, 
-who deluged <persName key="Christ">Christ</persName>ianity with fire and blood, is called a <placeName key='Cherubic'>Cherubic</placeName> 
+who deluged Christianity with fire and blood, is called a Cherubic 
 light, the papist, not the poet, must explain. He puts all the Pagans 
 in hell, because however good some of them may have been, they 
-lived before <persName key="Christ">Christ</persName>, and could not worship God properly — (debitamente). 
+lived before <persName key="Jesus Christ">Christ</persName>, and could not worship <persName key="God">God</persName> properly — (debitamente). 
 But he laments their state, and represents them as suffering 
 a mitigated punishment: they only live in a state of perpetual 
 desire without hope <hi xml:lang="italian">(sol di tanto offesi)</hi> ! A sufficing misery, it must 
@@ -236,7 +236,7 @@ and thus gave his poem an intention beyond what appears upon
 the surface; we must conclude, that a bigoted education, and the 
 fierce party politics in which he was a leader and a sufferer, obscured 
 the kind greatness of his spirit. It is always to be recollected 
-forever, as Mr. Coleridge has observed somewhere in other words, that 
+forever, as <persName key="Samuel Taylor Coleridge">Mr. Coleridge</persName> has observed somewhere in other words, that 
 when men consign each other to eternal punishment and such like 
 horrors, their belief is rather a venting of present impatience and  
 dislike, than any thing which they take it for. The fiercest Papist or 
@@ -244,7 +244,7 @@ Calvinist only flatters himself (a strange flattery too ! ) that he could
 behold a fellow creature tumbling and shrieking about in eternal fire. 
 He would begin shrieking himself in a few minutes; and think that 
 he and all heaven ought to pass away, rather than that one such 
-agony should continue. Tertullian himself, when he longed to 
+agony should continue. <persName key="Tertullian">Tertullian</persName> himself, when he longed to 
 behold the enemies of his faith burning and liquefying, only meant, 
 without knowing it, that he was in an excessive rage at not convincing 
 every body that read him. Yet, in the mean time, these notions 
@@ -289,27 +289,27 @@ many booths. </p>
 highly, that the latter is suspected to have lost as much modesty, as 
 the former gained by it. But they did this as a set-off against their 
 own despots and bigots. When they again became the greatest 
-power in <placeName key='Europe'>Europe</placeName>, they had a relapse of their old egotism. The 
+power in <placeName key="Europe" corresp="Europe">Europe</placeName>, they had a relapse of their old egotism. The 
 French, though an amiable and intelligent people, are not an imaginative 
 one. The greatest height they go is in a balloon. They get 
-no farther than <placeName key='France'>France</placeName>, let them go where they will. They "run 
+no farther than <placeName key="France" corresp="France">France</placeName>, let them go where they will. They "run 
 the great circle and are still at home," like the squirrel in his rolling 
 cage. Instead of going to Nature in their poetry, they would make 
 her come to them, and dress herself at their last new <choice><orig>toilet</orig><reg>toilette</reg></choice>. In 
 practical philosophy and metaphysics, they divest themselves of gross 
 prejudices, and then think they are in as graceful a state of nakedness 
-as Adam and Eve. </p>
+as <persName type="biblical" key="Adam">Adam</persName> and <persName type="biblical" key="Eve">Eve</persName>. </p>
 
-<p><persName key="At">At</persName> the time when the French had this fit upon them of praising 
+<p>At the time when the French had this fit upon them of praising 
 the English (which was nevertheless the honester one of the two), 
 they took to praising the Chinese for numberless unknown qualities. 
 This seems a contradiction to the near-sightedness we speak of : but 
 the reason they praised them was, that the Chinese had the merit of 
 unbounded religious toleration; a great and extraordinary one 
 certainly, and not the less so, for having been, to all appearance, the 
-work of one man. All the romance of <placeName key='China'>China</placeName>, such as it was, — any 
+work of one man. All the romance of <placeName key="China" corresp="China">China</placeName>, such as it was, — any 
 thing in which they differed from the French, — their dress, their 
-porcelain towers, their Great Wall, — was nothing. It was the 
+porcelain towers, their <placeName key="Great Wall of China" corresp="China">Great Wall</placeName>, — was nothing. It was the 
 particular agreement with the philosophers. </p>
 
 <p>It happened curiously enough, that they could not have selected 
@@ -325,9 +325,9 @@ pay strangers even this equivocal compliment; for under a prodigious
 mask of politeness, they are not slow to evince their contempt 
 of other nations, whenever any comparison is insinuated with the 
 subjects of the Brother of the Sun and Moon. The knowledge they 
-respect in us most, is that of gun-making, and of the East <placeName key='India'>India</placeName>n 
-passage. When our countrymen shewed them a map of the earth, they 
-enquired for <placeName key='China'>China</placeName>; and on finding that it only made a little piece 
+respect in us most, is that of gun-making, and of <placeName key="East India passage" corresp="India">the East Indian 
+passage</placeName>. When our countrymen shewed them a map of the earth, they 
+enquired for <placeName key="China" corresp="China">China</placeName>; and on finding that it only made a little piece 
 in a corner, could not contain their derision. They thought that it 
 was the main territory in the middle, the apple of the world's eye. </p>
 
@@ -338,27 +338,27 @@ suggested the meaning we are apt to give it. It may have gathered
 some such insolence with it among the Romans, as they spread their 
 own barbarous power; but the more intellectual Greeks venerated 
 the countries from which they brought the elements of their mythology 
-and philosophy. The philosopher travelled into <placeName key='Egypt'>Egypt</placeName>, like a 
-son to see his father. The merchant heard in <placeName key='Phoenicia'>Phoenicia</placeName> the far- 
+and philosophy. The philosopher travelled into <placeName key="Egypt" corresp="Egypt">Egypt</placeName>, like a 
+son to see his father. The merchant heard in <placeName key="Phœnicia" corresp="Lebanon">Phoenicia</placeName> the far- 
 brought stories of other realms, which he told to his delighted 
-countrymen. It is supposed, that the mortal pari; of <persName key="Mentor">Mentor</persName> in the 
-Odyssey was drawn from one of these voyagers. When Anacharsis 
+countrymen. It is supposed, that the mortal part of Mentor in <title level="m">the 
+Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis">Anacharsis</persName> 
 the Scythian was reproached with his native place by an unworthy 
 Greek, he said, "My country may be a shame to me, but you are a 
-shame to your country." <placeName key='Greece'>Greece</placeName> had a lofty notion of the Persians 
-and the <placeName key='Great King'>Great King</placeName>, till <persName key="Xerxes">Xerxes</persName> came over to teach it better, and 
+shame to your country." <placeName key="Greece" corresp="Greece">Greece</placeName> had a lofty notion of the Persians 
+and <persName key="Cyrus the Great">the Great King</persName>, till <persName key="Xerxes I">Xerxes</persName> came over to teach it better, and 
 betrayed the softness of their skulls. </p>
 
-<p>It was the same with the <persName key="Arabian">Arabian</persName>s, at the time when they had the 
+<p>It was the same with the Arabians, at the time when they had the 
 chief accomplishments of the world to themselves; as we see by their 
 delightful tales. Every thing shines with them in the distance, like 
 a sunset. What an amiable people are their Persians! What a 
-wonderful place is the island of <placeName key='Serendib'>Serendib</placeName>! You would think nothing 
-could be finer than the <placeName key='Caliph'>Caliph</placeName>'s city of <placeName key='Bagdat'>Bagdat</placeName>, till you hear of Grand 
-Cairo; and how has that epithet and that name towered in the 
+wonderful place is the island of <placeName key="Serendib" corresp="Sri Lanka">Serendib</placeName>! You would think nothing 
+could be finer than the Caliph's city of <placeName key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of Grand 
+<placeName key="Cairo" corresp="Egypt">Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
-modern city! <placeName key='Sindbad'>Sindbad</placeName> was respected, like Ulysses, because he had 
-seen so many adventures and nations. So was Aboulfaouris the 
+modern city! <persName key="Sindbad">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
+seen so many adventures and nations. So was <persName key="Aboulfaouris">Aboulfaouris</persName> the 
 Great Voyager, in the Persian Tales. His very name sounds like a 
 wonder. </p>
 
@@ -367,17 +367,17 @@ wonder. </p>
         <p>With many a tempest had his beard been shaken. </p>
     </quote>
     <note type="source"> 
-        <bibl> <persName key="Chaucer">Chaucer</persName>, <persName key="Geoffrey">Geoffrey</persName>: The Canterbury Tales </bibl>
+        <bibl><author><persName key="Geoffrey Chaucer">Chaucer, Geoffrey</persName></author>: <title level="m">The Canterbury Tales</title> </bibl>
     </note>
 </cit>
 
-<p>It was one of the workings of the great <persName key="Alfred">Alfred</persName>'s mind, to know about 
+<p>It was one of the workings of the great <persName key="Alfred the Great">Alfred</persName>'s mind, to know about 
 far distant countries. There is a translation by him of a book of 
 geography; and he even employed people to travel; a great stretch 
 of intellectual munificence for those times. About the same period, 
 <persName key="Haroun al Raschid">Haroun al Raschid</persName> (whom our manhood is startled to find almost a 
 less real person than we thought him, for his very reality) wrote a 
-letter to the Emperor of the West, <persName key="Charlemagne">Charlemagne</persName>. Here is <persName key="Arabian">Arabian</persName> 
+letter to the Emperor of the West, <persName key="Charlemagne">Charlemagne</persName>. Here is Arabian 
 and Italian romance, shaking hands in person ! </p>
 
 <pb n="71"/>
@@ -385,24 +385,24 @@ and Italian romance, shaking hands in person ! </p>
 <p>The Crusades pierced into a new world of remoteness. We do not 
 know whether those were much benefited, who took, part in them; 
 but for the imaginative persons remaining at home, the idea of going 
-to <placeName key='Palestine'>Palestine</placeName> must have been like travelling into a supernatural world. 
+to <placeName key="Palestine" corresp="Palestine">Palestine</placeName> must have been like travelling into a supernatural world. 
 When the compaign itself had a good effect, it must have been of a 
-very fine and highly-tempered description. <persName key="Chaucer">Chaucer</persName>'s <persName key="Knight">Knight</persName>, had 
+very fine and highly-tempered description. <persName key="Chaucer">Chaucer</persName>'s Knight, had 
 been </p>
 
 <lg xml:lang="en" type="original-quotation" xml:id="the-canterbury-tales" rend="center"><l>Sometime with the lord of Palatiee </l>
-<l>Agen another hethen in <placeName key='Turkie'>Turkie</placeName> : </l>
-<l><persName key="And">And</persName> evermore he had a sovereign price; </l>
-<l><persName key="And">And</persName> though that he was worthy, he was wise. </l>
-<l><persName key="And">And</persName> of his port as meek as is a mayde. </l></lg>
+<l>Agen another hethen in <placeName key="Turkey" corresp="Turkey">Turkie</placeName> : </l>
+<l>And evermore he had a sovereign price; </l>
+<l>And though that he was worthy, he was wise. </l>
+<l>And of his port as meek as is a mayde. </l></lg>
 
 <p>How like a return from the moon must have been the re-appearance 
-of such travellers as Sir <persName key="John Mandevile">John Mandevile</persName>, <persName key="Marco Polo">Marco Polo</persName>, and 
+of such travellers as <persName key="Sir John Mandevile">Sir John Mandevile</persName>, <persName key="Marco Polo">Marco Polo</persName>, and 
 <persName key="William de Rubruquis">William de Rubruquis</persName>, with their news of <persName key="Prester John">Prester John</persName>, the Great 
-Mogul, and the <placeName key='Great Cham of Tartary'>Great Cham of Tartary</placeName>! The long-lost voyager 
+Mogul, and the <placeName key="Great Cham of Tartary" corresp="Asia">Great Cham of Tartary</placeName>! The long-lost voyager 
 must have been like a person consecrated in all the quarters of 
 heaven. His staff and his beard must have looked like relics of his 
-former self. The Venetians, who were some of the earliest <placeName key='Europe'>Europe</placeName>an 
+former self. The Venetians, who were some of the earliest European 
 travellers, have been remarked, among their other amiable qualities, 
 for their great respect for strangers. The peculiarity of their position, 
 amid the absence of so many things which are common-places to other 
@@ -415,15 +415,15 @@ follow. How he enjoys the distance; emphatically using the words,
 far, farthest, and utmost ! </p>
 <cit><quote>
 <lg xml:lang="en" type="original-quotation" xml:id="paradise-regained" rend="center"><l> — Embassies from regions far remote, </l>
-<l>In various habits, on the <persName key="Appian">Appian</persName> road. </l>
-<l>Or on the Emilian; some from farthest south, </l>
-<l><placeName key='Syene'>Syene</placeName>, and where the shadow both way falls, </l>
-<l><placeName key='Meroe'>Meroe</placeName>, <placeName key='Nilotick'>Nilotick</placeName> isle; and more to west. </l>
-<l>The realm of <persName key="Bocchus">Bocchus</persName> to the <placeName key='Black-moor sea'>Black-moor sea</placeName>; </l>
+<l>In various habits, on <placeName key="The Appian Way" corresp="Italy"><choice><orig>the Appian road</orig><reg>the Appian Way</reg></choice></placeName>. </l>
+<l>Or on <placeName key="the Emilian" corresp="Italy">the Emilian</placeName>; some from farthest south, </l>
+<l><placeName key="Syene" corresp="Egypt">Syene</placeName><note type="editorial">Now Aswan, a city on the lower Nile.</note>, and where the shadow both way falls, </l>
+<l><placeName key="Meroë Nilotic Isle" corresp="Ethiopia">Meroe, Nilotick isle</placeName><note type="editorial">Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
+<l><placeName key="the Realm of Bocchus" corresp="Morocco">The realm of <persName key="Bocchus I">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
 <l>From the Asian kings, and Parthian among these; </l>
-<l>From <placeName key='India'>India</placeName> and the golden Chersonese, </l>
-<l><persName key="And">And</persName> utmost <placeName key='India'>India</placeName>n isle <placeName key='Taprobane'>Taprobane</placeName>. <bibl>— <title>Parad.</title> <biblScope><persName key="Reg">Reg</persName>. B. 4.</biblScope></bibl> </l></lg>
-</quote></cit>
+<l>From <placeName key="India" corresp="India">India</placeName> and <placeName key="the Golden Chersonese" corresp="Malaysia">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
+<l>And utmost Indian isle <placeName key="Taprobane" corresp="Sri Lanka">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
+</quote></cit><note type="source">editorial notes come from Thomas H. Luxon, https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml</note>
 
 <p>One of the main helps to our love of remoteness in general, is the 
 associations we connect with it of peace and quietness. Whatever 
@@ -434,30 +434,30 @@ often used wilfully in poetry, to render distance still more distant.
 An old English song begins — </p>
 
 <lg xml:lang="en" rend="center">
-<l>In <placeName key='Irelande'>Irelande</placeName> farre over the sea</l> 
+<l>In <placeName key="Ireland" corresp="Republic of Ireland">Irelande</placeName> farre over the sea</l> 
 <l>There dwelt a bonny king.</l> </lg>
 
-<p><persName key="Thomson">Thomson</persName>, a <persName key="Scotchman">Scotchman</persName>, speaking of the western isles of his own 
+<p><persName key="Thomson">Thomson</persName>, a Scotchman, speaking of the western isles of his own 
 country, has that delicious line, full of a dreary yet lulling pleasure : — </p>
 
 <lg xml:lang="en" rend="center">
-<l>As when a shepherd of the <placeName key='Hebrid'>Hebrid</placeName> isles,</l>
-<l><hi rend="italic"><persName key="Placed">Placed</persName> far amid the melancholy main</hi>. </l></lg>
+<l>As when a shepherd of the <placeName key="Hebrides" corresp="Scotland"><choice><orig>Hebrid isles</orig><reg>Hebrides</reg></choice></placeName>,</l>
+<l><hi rend="italic">Placed far amid the melancholy main</hi>. </l></lg>
 
 <pb n="72"/>
 
 <p>In childhood, the total ignorance of the world, especially when we 
 are brought up in some confined spot, renders every thing beyond 
-the bounds of our dwelling a distance and a romance. Mr. Lamb, in 
-his Recollections of <persName key="Christ">Christ</persName>'s Hospital, says that he remembers when some 
+the bounds of our dwelling a distance and a romance. <persName key="Charles Lamb">Mr. Lamb</persName>, in 
+his <title level="s">Recollections of Christ's Hospital</title>, says that he remembers when some 
 half-dozen of his schoolfellows set off, "without map, card, or 
-compass, on a serious expedition to find out <persName key="Philip Quarll">Philip Quarll</persName>'s Island." We 
+compass, on a serious expedition to find out <hi rend="italic"><persName type="fictional" key="Philip Quarll">Philip Quarll</persName>'s Island."</hi> We 
 once encountered a set of boys as romantic. It was at no greater 
-distance than at the foot of a hill near <placeName key='Hampstead'>Hampstead</placeName>; yet the spot was 
-so perfectly <placeName key='Cisalpine'>Cisalpine</placeName> to them, that two of them came up to us with 
+distance than at the foot of a hill near <placeName key="Hampstead" corresp="England">Hampstead</placeName>; yet the spot was 
+so perfectly <placeName key="Cisalpine" corresp="Italy">Cisalpine</placeName> to them, that two of them came up to us with 
 looks of hushing eagerness, and asked, "whether, on the other side 
 of that hill there were not robbers:" to which, the minor 
-adventurer of the two added, "<persName key="And">And</persName> some say, serpents." They had 
+adventurer of the two added, "And some say, serpents." They had 
 all got bows and arrows, and were evidently hovering about the 
 place, betwixt daring and apprehension, as on the borders of some 
 wild region. We smiled to think which it was that husbanded their 
@@ -470,17 +470,17 @@ sylvans and fairies. </p>
 <l>So be it when I shall grow old. </l> 
 <l>Or let me die I </l>
 <l>The child is father to the man; </l>
-<l><persName key="And">And</persName> I could wish my days to be </l>
-<l><placeName key='Bound'>Bound</placeName> each to each by natural piety."</l> </lg></quote>
+<l>And I could wish my days to be </l>
+<l>Bound each to each by natural piety."</l> </lg></quote>
 <note type="source">
-<bibl><author><persName key="William Wordsworth">William Wordsworth</persName></author> : <title>My Heart Leaps Up</title></bibl></note></cit>
+<bibl><author><persName key="William Wordsworth">William Wordsworth</persName></author> : <title level="a">My Heart Leaps Up</title></bibl></note></cit>
 </div2>
 
 <div2 type="section" n="3">
 
-<head type="header">PASSAGES FROM OSSIAN, ALLUDED TO IN OUR LAST. </head>
+<head type="header">PASSAGES FROM <persName type="fictional" key="Ossian">OSSIAN</persName>, ALLUDED TO IN OUR LAST. </head>
 
-<p>On renewing our acquaintance with <persName key="Ossian">Ossian</persName>, we felt tempted to 
+<p>On renewing our acquaintance with <persName type="fictional" key="Ossian">Ossian</persName>, we felt tempted to 
 go to some length about him; but we must reserve our criticism for 
 another time. The following are as many specimens of his uses of 
 mist, as we have room for. The first is very grand; the second as 
@@ -489,21 +489,21 @@ merit. </p>
 
 <p>TWO CHIEFS PARTED BY THEIR KING.—<cit><quote>"They sunk from the king on either 
 side, like two columns of morning mist, when the sun rises between them on his 
-glittering rocks. Dark is their rolling on either side, each toward its reedy pool." </quote><note type="source"><bibl><persName key="Macpherson">Macpherson</persName>, <persName key="James">James</persName>: Temora (Book 4)</bibl></note></cit></p>
+glittering rocks. Dark is their rolling on either side, each toward its reedy pool." </quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora (Book 4)</title></bibl></note></cit></p>
 
 <p>A GREAT ENEMY.—<cit><quote>"I love a foe like <persName key="Cathmor">Cathmor</persName>: his soul is great; his arm is 
 strong; his battles are full of fame. But the little soul is like a vapour, that 
 hovers round the marshy lake. It never rises on the green hill, lest the winds 
-meet it there." </quote><note type="source"><bibl><persName key="Macpherson">Macpherson</persName>, <persName key="James">James</persName>: Temora</bibl></note> </cit></p>
+meet it there." </quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora</title></bibl></note> </cit></p>
 
 <p>A TERRIBLE OMEN.—<cit><quote>"A mist rose slowly from the lake. It came, in the 
 figure of an aged man, along the silent plain. It's large limbs did not move in 
-steps; for a ghost supported it in mid air. It came towards <persName key="Selma">Selma</persName>'s hall, and 
-dissolved in a shower of blood."</quote><note type="source"><bibl><persName key="Macpherson">Macpherson</persName>, <persName key="James">James</persName>: <persName key="Carthon">Carthon</persName>: A Poem</bibl></note></cit></p>
+steps; for a ghost supported it in mid air. It came towards Selma's hall, and 
+dissolved in a shower of blood."</quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Carthon: A Poem</title></bibl></note></cit></p>
 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, Strand. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, London.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="real" key="No. 45, Broad-street, Golden-square, London">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
