@@ -170,4 +170,5 @@ Address : for addresses such as those found at the end of tracts such as a publs
 Road : for any place involved with travel
 Landmark : for physical monuments including bridges
 Commerce : for any place invloved with exchange liek shops and inns
+Building : for buildings, churches and hospitals
 ```
