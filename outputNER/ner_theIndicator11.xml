@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/c<placeName key='us'>us</placeName>tom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TE<persName key="I">I</persName> xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
  <!-- File Description -->
  <fileDesc>
  <!-- Title of the work -->
- <title<persName key="St">St</persName>mt>
- <title>The <persName key="I">I</persName>ndicator</title>
+ <titleStmt>
+ <title>The Indicator</title>
  <author>Hunt, James Henry Leigh (1784-1859)</author>
- </title<persName key="St">St</persName>mt>
+ </titleStmt>
 
- <publication<persName key="St">St</persName>mt>
+ <publicationStmt>
  <p />
- </publication<persName key="St">St</persName>mt>
+ </publicationStmt>
 
  <!-- Author information -->
  <sourceDesc>
  <bibl>
   <author>Hunt, James Henry Leigh (1784-1859)</author>
-  <title>The <persName key="I">I</persName>ndicator</title>
+  <title>The Indicator</title>
   <date when="1819-12-22"> DECEMBER 22d, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
   <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
   <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
@@ -45,61 +45,61 @@
  <div1 type="issue" n="11">
  <pb n="81"/> <!-- Page beginning -->
  <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
-  <head type="title">THE <persName key="I">I</persName>ND<persName key="I">I</persName>CATOR.</head>
+  <head type="title">THE INDICATOR.</head>
   <epigraph>
   <l>There he arriving round about doth flie,</l>
-  <l><persName key="And">And</persName> takes survey with b<placeName key='us'>us</placeName>ie, curio<placeName key='us'>us</placeName> eye:</l>
+  <l>And takes survey with busie, curious eye:</l>
   <l>Now this, now that, he tasteth tenderly.</l>
-  <l><persName key="Edmund <placeName key='Spenser'>Spenser</placeName>" ref="http://www.wikidata.org/entity/Q4352055"
+  <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
   cert="high" type="real">SPENSER</persName>.</l>
   </epigraph>
-  <head type="catalogue">No. X<persName key="I">I</persName>. <date when="1819-12-22">—WEDNESDAY, DECEMBER 22d, 1819</date>‹.</head>
+  <head type="catalogue">No. XI. <date when="1819-12-22">—WEDNESDAY, DECEMBER 22d, 1819</date>.</head>
  </div2>
  <div2 type="section" n="1"> <!-- Header and content -->
 
- <head type="header">TH<persName key="I">I</persName>EVES, ANC<persName key="I">I</persName>ENT AND MODERN. </head>
+ <head type="header">THIEVES, ANCIENT AND MODERN. </head>
 
-<p>Having met in the Harleian Miscellany with an account of a pet 
-thief of ours, the famo<placeName key='us'>us</placeName> Du Vail, who flourished in the time of Charles 
-the Second, and wishing to introduce him worthily to the readers, 
+<p>Having met in <title level="s">the Harleian Miscellany</title> with an account of a pet 
+thief of ours, the famous <persName key="Du Vail">Du Vail</persName>, who flourished in the time of <persName key="King Charles II">Charles 
+the Second</persName>, and wishing to introduce him worthily to the readers, 
 it has brought to mind such a number of the light-fingered gentry, 
-his predecessors, that we almost feel h<placeName key='us'>us</placeName>tled by the thoughts of 
-them. Our subject, we may truly fear, will run away with <placeName key='us'>us</placeName>. 
-We feel beset, like poor <persName key="Tasso">Tasso</persName> in his dungeon; and are not sure 
+his predecessors, that we almost feel hustled by the thoughts of 
+them. Our subject, we may truly fear, will run away with us. 
+We feel beset, like poor <persName key="Torquato Tasso">Tasso</persName> in his dungeon; and are not sure 
 that our paper will not suddenly be conveyed away from under our 
 pen. Already we miss some excellent remarks, which we should 
-have made in this place. <persName key="I">I</persName>f the reader should meet with any of that 
+have made in this place. If the reader should meet with any of that 
 kind hereafter, upon the like subject, in another man's writings, 
-twenty to one they are stolen from <placeName key='us'>us</placeName>, and ought to have enriched 
+twenty to one they are stolen from us, and ought to have enriched 
 this our plundered exordium. He that steals an author's purse, may 
 emphatically be said to steal trash; but he that filches from him 
-his good things. <persName key="Alas">Alas</persName>, we thought our subject would be running 
-away with <placeName key='us'>us</placeName>. We m<placeName key='us'>us</placeName>t keep firm. We m<placeName key='us'>us</placeName>t put something 
-heavier in our remarks, as the little thin <persName key="Grecian">Grecian</persName> philosopher <placeName key='us'>us</placeName>ed to 
+his good things. Alas, we thought our subject would be running 
+away with us. We must keep firm. We must put something 
+heavier in our remarks, as the little thin Grecian philosopher used to 
 put lead in his pockets, lest the wind should steal him. </p>
 
 <p>The more ruffianly crowd of thieves should go first, as pioneers; 
-but they can hardly be looked upon as progenitors of our gentle Du 
-Vail; and besides, with all their ferocity, some of them assume a  
+but they can hardly be looked upon as progenitors of our gentle <persName key="Du Vail">Du 
+Vail</persName>; and besides, with all their ferocity, some of them assume a  
 grandeur, from standing in the remote shadows of antiquity. There was 
-the famo<placeName key='us'>us</placeName> son, for instance, of Vulcan and Med<placeName key='us'>us</placeName>a, whom <persName key="Virgil">Virgil</persName> 
-calls the dire aspect of half-human Cac<placeName key='us'>us</placeName> — <persName key="Semihominis Caci">Semihominis Caci</persName> facies 
-dira. (AEneid, B. 8, v. 194.) He was the Raw-head-and-bloody- 
-bones of ancient fable. He lived in a cave by <placeName key='Mount Aventine'>Mount Aventine</placeName>, 
-breathing out fiery smoke, and haunting king Evander's highway 
-like the <placeName key='Apollyon'>Apollyon</placeName> of Pilgrim's Progress. </p>
+the famous son, for instance, of <persName key="Vulcan">Vulcan</persName> and <persName key="Medusa">Medusa</persName>, whom <persName key="Virgil">Virgil</persName> 
+calls the dire aspect of half-human <persName key="Cacus">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
+dira</hi>. <note type="hunt">(<title level="m">Æneid</title>, B. 8, v. 194.)</note> He was the Raw-head-and-bloody- 
+bones of ancient fable. He lived in a cave by <placeName key="Mount Aventine" corresp="Italy">Mount Aventine</placeName>, 
+breathing out fiery smoke, and haunting <placeName key="King's Highway" corresp="Jordan">king Evander's highway</placeName> 
+like the <placeName type="biblical" key="Apollyon">Apollyon</placeName> of <title level="m">Pilgrim's Progress</title>. </p>
 
 <cit><quote><lg xml:lang="latin" xml:id="aeneid" rend="center">
 <l>Semperque recenti </l>
-<l>Caede tepebat hum<placeName key='us'>us</placeName>; forib<placeName key='us'>us</placeName>que adfixa superbis </l>
+<l>Caede tepebat humus; foribusque adfixa superbis </l>
 <l>Ora virum tristi pendebant pallida trabo. </l></lg></quote>
-<note type="source"><bibl><author><persName key="Virgil">Virgil</persName></author>: <title>Aeneid</title></bibl>
+<note type="source"><bibl><author><persName key="Virgil">Virgil</persName></author>: <title level="m">Aeneid</title></bibl>
 </note></cit>
 
 <cit><quote><lg xml:lang="en" type="hunt-translation" xml:id="aeneid-en" rend="center">
 <l>The place about was ever in a plash </l>
 <l>Of steaming blood; and o'er the insulting door </l>
-<l><persName key="Hung">Hung</persName> pallid human heads, defaced with dreary gore. </l></lg></quote>
+<l>Hung pallid human heads, defaced with dreary gore. </l></lg></quote>
 </cit>
 
 <pb n="82"/>
@@ -110,142 +110,142 @@ the cows answered them; and the demigod, detecting the miscreant
 in his cave, strangled him after a hard encounter. This is one of 
 the earliest sharping tricks upon record. </p>
 
-<p>Autolyc<placeName key='us'>us</placeName>, the son of Mercury (after whom <persName key="Shakspeare">Shakspeare</persName> christened 
-his merry rogue in the Winter's Tale) was a thief suitable to the 
+<p><persName key="Autolycus">Autolycus</persName>, the son of <persName key="Mercury">Mercury</persName> (after whom <persName key="William Shakspeare">Shakspeare</persName> christened 
+his merry rogue in <title level="m">the Winter's Tale</title>) was a thief suitable to the 
 greater airiness of his origin. He is said to have performed tricks, 
-which m<placeName key='us'>us</placeName>t awake the envy even of horse-dealers; for in pretending 
+which must awake the envy even of horse-dealers; for in pretending 
 to return a capital horse which he had stolen, he palmed upon the 
 owners a sorry jade of an ass; which was gravely received by those 
 flats of antiquity. Another time he went still farther; for having 
 conveyed away a handsome bride, he sent in exchange an old lady 
-elaborately hideo<placeName key='us'>us</placeName>; yet the h<placeName key='us'>us</placeName>band did not find out the trick, till 
+elaborately hideous; yet the husband did not find out the trick, till 
 he had got off. </p>
 
-<p>Autolyc<placeName key='us'>us</placeName> himself however was outwitted by Sisyph<placeName key='us'>us</placeName>, the son of 
-AEol<placeName key='us'>us</placeName>. Autolyc<placeName key='us'>us</placeName> was in the habit of stealing his neighbours cattle, 
+<p><persName key="Autolycus">Autolycus</persName> himself however was outwitted by <persName key="Sisyphus">Sisyphus</persName>, the son of 
+<persName key="Æolus">Æolus</persName>. <persName key="Autolycus">Autolycus</persName> was in the habit of stealing his neighbours cattle, 
 and altering the marks upon them. Among others he stole some 
-from Sisyph<placeName key='us'>us</placeName>; but notwithstanding his <placeName key='us'>us</placeName>ual precautions, he was 
+from <persName key="Sisyphus">Sisyphus</persName>; but notwithstanding his usual precautions, he was 
 astonished to find the latter come and pick out his oxen, as if nothing 
-had happened. He had marked them under the hoof. Autolyc<placeName key='us'>us</placeName>, it 
-seems, had the <placeName key='us'>us</placeName>ual generosity of geni<placeName key='us'>us</placeName>; and was so pleased with 
+had happened. He had marked them under the hoof. <persName key="Autolycus">Autolycus</persName>, it 
+seems, had the usual generosity of genius; and was so pleased with 
 this evidence of superior cunning, that some say he gave him in 
 marriage his daughter <persName key="Anticlea">Anticlea</persName>, who was afterwards the wife of 
-<persName key="Laertes">Laertes</persName>, the father of Ulysses. According to others however, he 
-only favoured him with his daughter's.company for a time, a fashion 
+<persName key="Laertes">Laertes</persName>, the father of <persName key="Ulysses">Ulysses</persName>. According to others however, he 
+only favoured him with <persName key="Anriclea">his daughter</persName>'s company for a time, a fashion 
 not yet extinct in some primitive countries; and it was a reproach 
-made against Ulysses, that <persName key="Laertes">Laertes</persName> was only his pretended, and 
-Sisyph<placeName key='us'>us</placeName> his real father. Sisyph<placeName key='us'>us</placeName> has the credit of being the greatest 
-knave of antiquity. His famo<placeName key='us'>us</placeName> punishment in hell, of being compelled 
+made against <persName key="Ulysses">Ulysses</persName>, that <persName key="Laertes">Laertes</persName> was only his pretended, and 
+<persName key="Sisyphus">Sisyphus</persName> his real father. <persName key="Sisyphus">Sisyphus</persName> has the credit of being the greatest 
+knave of antiquity. His famous punishment in hell, of being compelled 
 to roll a stone up a hill to all eternity, and seeing it always go 
 down again, is attributed by some to a characteristic trait, which he 
-could not help playing off upon <persName key="Pluto">Pluto</persName>. <persName key="I">I</persName>t was supposed by the 
+could not help playing off upon <persName key="Pluto">Pluto</persName>. It was supposed by the 
 ancients, that a man's ghost would wander in a melancholy manner 
-upon the banks of the <persName key="<persName key="St">St</persName>yx"><persName key="St">St</persName>yx</persName>, as long as his corpse remained without 
-burial. Sisyph<placeName key='us'>us</placeName> on his death-bed purposely charged his wife to 
+upon the banks of <placeName type="fictional" key="the River Styx">the Styx</placeName>, as long as his corpse remained without 
+burial. <persName key="Sisyphus">Sisyphus</persName> on his death-bed purposely charged <persName key="Merope">his wife</persName> to 
 leave him unburied; and then begged <persName key="Pluto">Pluto</persName>'s permission to go back 
-to earth, on his parole, merely to punish her for so scandalo<placeName key='us'>us</placeName>, a 
+to earth, on his parole, merely to punish her for so scandalous, a 
 neglect. Like the lawyer however, who contrived to let his hat fall 
-inside the door of heaven, and got <persName key="St">St</persName>. <persName key="Peter">Peter</persName>'s permission to step in 
-for it, Sisyph<placeName key='us'>us</placeName> would not return; and so when <persName key="Pluto">Pluto</persName> had him again, 
+inside the door of heaven, and got <persName key="St. Peter">St. Peter</persName>'s permission to step in 
+for it, <persName key="Sisyphus">Sisyphus</persName> would not return; and so when <persName key="Pluto">Pluto</persName> had him again, 
 he paid him for the trick, with setting him upon this everlasting job. </p>
 
-<p>The exploits of Mercury himself, the god of cunning, may be 
+<p>The exploits of <persName key="Mercury">Mercury</persName> himself, the god of cunning, may be 
 easily imagined to surpass every thing <choice><sic>atchieved</sic><corr>achieved</corr></choice> by profaner hands. 
-Homer, in the Hymn to his honour, has given a delightful account 
+<persName key="Homer">Homer</persName>, in <title level="a" key="Hymn to Mercury">the Hymn to his honour</title>, has given a delightful account 
 of his pre-maturity in swindling. He had not been born many hours 
-before he stole Vulcan's tools, Mars's sword, and Jupiter's sceptre. 
-He beat Cupid in a wrestling bout on the same day; and Vei<placeName key='us'>us</placeName> 
+before he stole <persName key="Vulcan">Vulcan</persName>'s tools, <persName key="Mars">Mars</persName>'s sword, and <persName key="Jupiter">Jupiter</persName>'s sceptre. 
+He beat <persName key="Cupid">Cupid</persName> in a wrestling bout on the same day; and <persName key="Veius">Veius</persName> 
 caressing him for his conquest, he returned the embrace by filching 
 
 <pb n="83"/>
 
-away her girdle. He would also have stolen Jupiter's thunder-bolts 
+away her girdle. He would also have stolen <persName key="Jupiter">Jupiter</persName>'s thunder-bolts 
 but was afraid of burning his fingers. On the evening of his 
-birthday, he drove off the cattle of Adoiet<placeName key='us'>us</placeName>, which Apollo was tending. 
+birthday, he drove off the cattle of <persName key="Admetus">Admetus</persName>, which Apollo was tending. 
 The good-humoured god of wit endeavoured to frighten him into 
 restoring them; but could not help laughing, when in the midst of 
 his threatenings he found himself without his quiver. </p>
 
 <p>The history of thieves is to be found either in that of romance, or 
 in the details of the history of cities. The latter have not come 
-,down to <placeName key='us'>us</placeName> from the ancient world, with some exceptions in the 
+,down to us from the ancient world, with some exceptions in the 
 comic writers, immaterial to our present purpose, and in the loathsome 
-rhetoric of Petroni<placeName key='us'>us</placeName>, The finest thief in old history is the 
-pirate who made that famo<placeName key='us'>us</placeName> answer to <persName key="Alexander">Alexander</persName>, in which he said 
+rhetoric of <persName key="Petronius">Petronius</persName>, The finest thief in old history is the 
+pirate who made that famous answer to <persName cert="low" key="Alexander the Great">Alexander</persName>, in which he said 
 that the conqueror was only the mightier thief of the two. The story 
-of the thieving architect in Herodot<placeName key='us'>us</placeName> we will tell another time. We can 
+of the thieving architect in <persName key="Herodotus">Herodotus</persName> we will tell another time. We can 
 call to mind no other thieves in the Greek and Latin writers, (always 
 excepting political ones) except some paltry fellows who stole napkins 
-at dinner; and the robbers in Apulei<placeName key='us'>us</placeName>, the precursors of those in 
-<persName key="Gil Bias">Gil Bias</persName>. When we come however to the times of the Arabians and 
+at dinner; and the robbers in <persName key="Apuleius">Apuleius</persName>, the precursors of those in 
+<title level="m">Gil Bias</title>. When we come however to the times of the Arabians and 
 of chivalry, they abound in all their glory, both great and small. 
-Who among <placeName key='us'>us</placeName> does not know by heart the story of the never-to-be- 
-forgotten <placeName key='Forty Thieves'>Forty Thieves</placeName>, with their treasure in the green wood, their 
-anxio<placeName key='us'>us</placeName> observer, their magical opening of the door, their captain, 
+Who among us does not know by heart the story of the never-to-be- 
+forgotten <title level="a" key="Ali Baba and the Forty Thieves">Forty Thieves</title>, with their treasure in the green wood, their 
+anxious observer, their magical opening of the door, their captain, 
 their concealment in the jars, and the scalding oil, that, as it were, 
 extinguished them groaning, one by one? Have we not all ridden 
 backwards and forwards with them to the wood a hundred times? 
 Watched them, with fear and trembling, from the tree? Sewn up, 
-blindfolded, the four quarters of the dead body. <persName key="And">And</persName> said, "Open, 
-Sesame," to every door at school?" May we ride with them again and 
+blindfolded, the four quarters of the dead body. And said, "Open, 
+Sesame," to every door at school? May we ride with them again and 
 again; or we shall lose our appetite for some of the best things in 
 the world. </p>
 
-<p>We pass over those interlopers in our English family, the <placeName key='Danes'>Danes</placeName>; 
+<p>We pass over those interlopers in our English family, the Danes; 
 as well as <persName key="Rollo the Norman">Rollo the Norman</persName>, and other freebooters, who only wanted 
-less need of robbery, to become respectable conquerors. <persName key="I">I</persName>n fact they 
+less need of robbery, to become respectable conquerors. In fact they 
 did so, as they got on. We have also no particular worthy to select 
 from among that host of petty chieftains, who availed themselves of 
 their knightly castles and privileges, to commit all sorts of 
-unchivalro<placeName key='us'>us</placeName> outrages. These are the giants of modern romance; and the 
-<persName key="Veglios">Veglios</persName>, <persName key="Malengins">Malengins</persName>, and <placeName key='Pinabellos'>Pinabellos</placeName>, of <placeName key='Pulci'>Pulci</placeName>, <placeName key='Spenser'>Spenser</placeName>, and <persName key="Ariosto">Ariosto</persName>. 
-They survived in the petty states of <placeName key='<persName key="I">I</persName>taly'><persName key="I">I</persName>taly</placeName> a long while; gradually 
-took a less solitary though hardly less ferocio<placeName key='us'>us</placeName> shape among the 
+unchivalrous outrages. These are the giants of modern romance; and the 
+Veglios, Malengins, and Pinabellos, of <persName key="Luigi Pulci">Pulci</persName>, <persName key="Edmund Spenser">Spenser</persName>, and <persName key="Ariosto">Ariosto</persName>. 
+They survived in the petty states of <placeName key="Italy" corresp="Italy">Italy</placeName> a long while; gradually 
+took a less solitary though hardly less ferocious shape among the 
 fierce political partisans recorded by <persName key="Dante">Dante</persName>; and at length became 
 represented by the men of desperate fortunes, who make such a 
-figure, between the gloomy and the gallant, in <persName key="Mrs">Mrs</persName>, <persName key="Radcliffe">Radcliffe</persName>'s 
-Mysteries of Udolpho. The breaking up of the late kingdom of 
-<placeName key='<persName key="I">I</persName>taly'><persName key="I">I</persName>taly</placeName> with it's dependencies, has again revived them in some degree; 
+figure, between the gloomy and the gallant, in <persName key="Ann Radcliffe">Mrs. Radcliffe</persName>'s 
+<title key="The Mysteries of Udolpho" level="m">Mysteries of Udolpho</title>. The breaking up of the late kingdom of 
+<placeName key="Italy" corresp="Italy">Italy</placeName> with it's dependencies, has again revived them in some degree; 
 but not, we believe, in any shape above common robbery. The 
 regular modern thief seems to make his appearance for the first time, 
-in the imaginary characteir of <placeName key='Brunello'>Brunello</placeName>, as described by <persName key="Boiardo">Boiardo</persName> and 
+in the imaginary character of <persName key="Brunello">Brunello</persName>, as described by <persName key="Boiardo">Boiardo</persName> and 
 <persName key="Ariosto">Ariosto</persName>. He is a fellow that steals every valuable that comes in his 
 
 <pb n="84"/>
 
-way. The way in which he robs Sacripant King of Circassian of his 
-horse, has been ridiculed by Cervantes; if indeed he did not rather 
-repeat it with great zest; for his <placeName key='us'>us</placeName>e of the theft is really not such 
-a caricature as in <persName key="Boiardo">Boiardo</persName> and his great follower. While Sancho is 
-sitting lumpishly asleep upon the back of his friend Dapple, Gines de 
-Passanaonte, the famo<placeName key='us'>us</placeName> thief, comes and gently withdraws the 
-donkey from under him, leaving the somniculo<placeName key='us'>us</placeName> squire propped up 
+way. The way in which he robs <persName key="Sacripant">Sacripant</persName> King of Circassian of his 
+horse, has been ridiculed by <persName key="Cervantes">Cervantes</persName>; if indeed he did not rather 
+repeat it with great zest; for his use of the theft is really not such 
+a caricature as in <persName key="Boiardo">Boiardo</persName> and his great follower. While <persName key="Sancho">Sancho</persName> is 
+sitting lumpishly asleep upon the back of his friend <persName key="Dapple">Dapple</persName>, <persName key="Gines de Passamonte">Gines de 
+Passamonte</persName>, the famous thief, comes and gently withdraws the 
+donkey from under him, leaving <persName key="Sancho">the somniculous squire</persName> propped up 
 on the saddle with four sticks. His consternation on waking may be 
-guessed. But in the <persName key="I">I</persName>talian poets, the Circassian prince has only 
-fallen into a deep meditation, when <placeName key='Brunello'>Brunello</placeName> draws away his steed. 
-<persName key="Ariosto">Ariosto</persName> appears to have thought this extravagance a hazardo<placeName key='us'>us</placeName> one, 
+guessed. But in the Italian poets, the Circassian prince has only 
+fallen into a deep meditation, when <persName key="Brunello">Brunello</persName> draws away his steed. 
+<persName key="Ariosto">Ariosto</persName> appears to have thought this extravagance a hazardous one, 
 though he could not deny himself the pleasure of repeating it 5 for 
-he has made Sacripant bl<placeName key='us'>us</placeName>h, when called upon to testify how the 
-horse was stolen from him. (Orlando Furio. c. 27. st. 84.) </p>
+he has made Sacripant blush, when called upon to testify how the 
+horse was stolen from him. <note type="hunt">(Orlando Furio. c. 27. st. 84.)</note> </p>
 
-<p><persName key="I">I</persName>n the <persName key="I">I</persName>talian Novels and the old French Tales, are a variety of 
-extremely am<placeName key='us'>us</placeName>ing stories of thieves, till most probably founded on 
+<p>In the Italian Novels and the old French Tales, are a variety of 
+extremely amusing stories of thieves, till most probably founded on 
 fact. We will give a specimen as we go, by way of making this 
-article the completer. A doctor of laws in <placeName key='Bologna'>Bologna</placeName> had become rich 
+article the completer. A doctor of laws in <placeName key="Bologna" corresp="Italy">Bologna</placeName> had become rich 
 enough, by scraping money together, to indulge himself in a grand 
 silver cup, which he sent home one day to his wife from the <choice><orig>gold-smith's</orig><reg>goldsmith's</reg></choice>.  
 There were two sharping fellows prowling about that day in 
 search of a prize; and getting scent of the cup, they laid their heads 
 together, to contrive how they might indulge themselves in it instead. 
 One of them accordingly goes to a fishmonger's, and buys a fine 
-lamprey, which he takes to the doctor's wife, with her h<placeName key='us'>us</placeName>band's 
+lamprey, which he takes to the doctor's wife, with her husband's 
 compliments, and he would bring a company of his brother doctors with 
 him to dinner, requesting in the mean time that she would send back 
 the cup, by the bearer, as he had forgotten to have his arms engraved 
 upon it. The good lady, happy to obey all these pleasing impulses 
 on the part of master doctor, takes in the fish and sends out the cup, 
 with equal satisfaction; and sets about getting the dinner ready. 
-The doctor comes home at his <placeName key='us'>us</placeName>ual hour, and finding his dinner so 
+The doctor comes home at his usual hour, and finding his dinner so 
 much better than ordinary, asks with an air of wonder, where was the 
 necessity of going to that expense : upon which the wife, putting on an 
 air of wonder in her turn, and proud of possessing the new cup, asks 
@@ -253,18 +253,18 @@ him where are all those brother doctors, whom he said he should
 bring with him. What does the fool mean? said the testy old 
 gentleman. Mean! rejoined the wife : — what does this mean? pointing 
 to the fish. The doctor looked down with his old eyes at the lamprey. 
-"God knows," said he, "what it means. <persName key="I">I</persName> am sure <persName key="I">I</persName> don't know 
-what it means, more than any other fish; except that <persName key="I">I</persName> shall have 
+"God knows," said he, "what it means. I am sure I don't know 
+what it means, more than any other fish; except that I shall have 
 to pay a pretty sum for every mouthful you eat of it." " Why it 
-was your own doing, h<placeName key='us'>us</placeName>band," said the wife; "and you will 
+was your own doing, husband," said the wife; "and you will 
 remember it perhaps, when you recollect that the same man that 
 brought me the fish, was to take away the cup to have your name 
 engraved upon it." At this the doctor started back, with his eyes as 
-wide open as the fish's, exclaming, "<persName key="And">And</persName> you gave it him, did you?" 
-"To be sure <persName key="I">I</persName> did;" returned the good ho<placeName key='us'>us</placeName>ewife. The old doctor 
+wide open as the fish's, exclaming, "And you gave it him, did you?" 
+"To be sure I did;" returned the good housewife. The old doctor 
 here began a passionate speech, which he suddenly broke off; and 
 
-<pb n="84"/>
+<pb n="85"/>
 
 after stamping up and down the room, and crying out that he was 
 an undone advocate, ran quivering out into the street like one frantic, 
@@ -273,18 +273,18 @@ rogues were walking all this time in the neighbourhood; and seeing
 the doctor set off, in his frantic fit, to the goldsmith's, and knowing 
 that he who brought the lamprey had been well disguised, they began 
 to ask one another, in the jollity of their triumph, what need there 
-was for losing a good lamprey, beca<placeName key='us'>us</placeName>e they had gained a cup. The 
-other therefore went to the doctor's ho<placeName key='us'>us</placeName>e, and putting on a face of 
+was for losing a good lamprey, because they had gained a cup. The 
+other therefore went to the doctor's house, and putting on a face of 
 good news, told the wife that the cup was found. "Master doctor," 
 said he, "bade me come and tell you that it was but a joke of your 
-old friend What's-his-name." "Castellani, <persName key="I">I</persName> warrant me," said the 
+old friend What's-his-name." "<persName key="Castellani">Castellani</persName>, I warrant me," said the 
 wife, with a face broad with delight. "The same," returned he:— 
-"master doctor says that Signor Castellani, and the other gentlemen 
-he spoke of, are waiting for you at the Signor's ho<placeName key='us'>us</placeName>e, 
+"master doctor says that <persName key="Castellani">Signor Castellani</persName>, and the other gentlemen 
+he spoke of, are waiting for you at <persName key="Castellani">the Signor</persName>'s house, 
 where they purpose to laugh away the choler they so merrily raised 
 with a good dinner and wine; and to that end they have sent me 
 for the lamprey." "Take it in God's name," said the good woman; 
-"<persName key="I">I</persName> am heartily glad to see it go out of the ho<placeName key='us'>us</placeName>e, and shall follow it 
+"I am heartily glad to see it go out of the house, and shall follow it 
 myself speedily." So saying, she gave him the fine hot fish, with some 
 sauce, between two dishes; and the knave, who felt already round the 
 corner with glee, slid it under his cloak, and made the best of his 
@@ -293,10 +293,10 @@ him, and asked twenty questions in a breath, and chuckled, and slapped
 his thigh, and snapped his fingers for joy, to think what a pair 
 of fools two rogues had to do with. Little did the poor despairing 
 doctor, on his return home, guess what they were saying of him as 
-he passed the wall of the ho<placeName key='us'>us</placeName>e in which they were feasting. Heyday! 
+he passed the wall of the house in which they were feasting. Heyday! 
 cried the wife, smiling all abroad, as she saw him entering, "What, 
 are thou come to fetch me then, bone of my bone? Well; if this isn't 
-the gallantest day <persName key="I">I</persName> have seen many a year! <persName key="I">I</persName>t puts me in mind — 
+the gallantest day I have seen many a year! It puts me in mind — 
 it puts me in mind — Here the chirping old lady was about to 
 remind the doctor of the days of his youth, holding out her arms and 
 raising her quivering voice, when (we shudder to relate) she received 
@@ -305,13 +305,13 @@ the doctor," with your eternal idiotical nonsense. What do you
 mean by coming to fetch you, and the gallantest day of your life? 
 May the devil fetch you, and me, and that invisible fiend that stole 
 the cup." "What!" exclaimed the wife, suddenly changing her 
-tone from a vocifero<placeName key='us'>us</placeName> complaint which she had unthinkingly set up, 
+tone from a vociferous complaint which she had unthinkingly set up, 
 "did you send nobody then for the lamprey?" Here the doctor 
 cast his eyes upon the bereaved table; and unable to bear the shame 
 of this additional loss, however trivial, began tearing his hair and 
-beard, and hopping about the room, giving his wife a new and scandalo<placeName key='us'>us</placeName> 
+beard, and hopping about the room, giving his wife a new and scandalous 
 epithet at every step, as if he was dancing to a catalogue of her 
-imperfections. The story shook all the shoulders in <placeName key='Bologna'>Bologna</placeName> for a 
+imperfections. The story shook all the shoulders in <placeName key="Bologna" corresp="Italy">Bologna</placeName> for a 
 month after. </p>
 
 <p>As we find, by the length to which this article has already reached, 
@@ -321,71 +321,71 @@ that we should otherwise be obliged to compress our recollections of
 
 Spanish, French, and English thieves into a compass that would squeeze 
 them into the merest dry notices, we will postpone them at once to our 
-next number; and relate another story from the same <persName key="I">I</persName>talian novelist 
-that supplied our last.<note type="hunt" place="foot"><persName key="I">I</persName>t is by no means our intention in general to carry on a subject from one 
+next number; and relate another story from the same Italian novelist 
+that supplied our last.<note type="hunt" place="foot">It is by no means our intention in general to carry on a subject from one 
 paper to another. We have our reasons for doing otherwise. But we may take 
-the liberty sometimes, when the subject is of a vario<placeName key='us'>us</placeName> nature like the present; 
+the liberty sometimes, when the subject is of a various nature like the present; 
 and when the reader may, in fact, leave off at several points, if he pleases, 
-without any necessity of going forward. </note> Our author is Massuccio of Salerno, a 
-novelist who disputes with Bandello the rank next in popularity to 
-Boccaccio. We have not the original by <placeName key='us'>us</placeName>; and m<placeName key='us'>us</placeName>t be obliged to 
+without any necessity of going forward. </note> Our author is <persName key="Massuccio of Salerno">Massuccio of Salerno</persName>, a 
+novelist who disputes with <persName key="Bandello">Bandello</persName> the rank next in popularity to 
+<persName key="Boccaccio">Boccaccio</persName>. We have not the original by us; and must be obliged to 
 an English work for the ground-work of our story, as we have 
-been to Paynter's Palace of Pleasure for the one j<placeName key='us'>us</placeName>t related. But 
-we take the liberty <placeName key='us'>us</placeName>ual with the repeaters of these stories. We 
+been to <persName key="William Painter"><choice><corr>Paynter</corr><sic>Painter</sic></choice></persName>'s <title level="m">Palace of Pleasure</title> for the one just related. But 
+we take the liberty usual with the repeaters of these stories. We 
 retain the incidents, but tell them in our own way, and imagine 
 what might happen in the intervals. </p>
 
-<p>Two <placeName key='Neapolitan'>Neapolitan</placeName> sharpers, having robbed a <placeName key='Genoese'>Genoese</placeName> merchant of 
-his purse, make the best of their way to <placeName key='Sienna'>Sienna</placeName>, where they arrive 
-during the preaching of <persName key="St">St</persName>. <persName key="Bernardin">Bernardin</persName>. One of them attends a sermon 
-with an air of conspicuo<placeName key='us'>us</placeName> modesty and devotion, and afterwards 
-waits upon the preacher, and addresses him th<placeName key='us'>us</placeName>: "Reverend father, 
-you see before you a man, poor indeed, but honest. <persName key="I">I</persName> do not mean 
-to boast, God knows, <persName key="I">I</persName> have no reason. Who upon earth has reason 
+<p>Two Neapolitan sharpers, having robbed a Genoese merchant of 
+his purse, make the best of their way to <placeName key="Siena" corresp="Italy"><choice><corr>Sienna</corr><sic>Siena</sic></choice></placeName>, where they arrive 
+during the preaching of <persName key="St. Bernardin">St. Bernardin</persName>. One of them attends a sermon 
+with an air of conspicuous modesty and devotion, and afterwards 
+waits upon the preacher, and addresses him thus: "Reverend father, 
+you see before you a man, poor indeed, but honest. I do not mean 
+to boast, God knows, I have no reason. Who upon earth has reason 
 unless it be one who will be the last to boast, like yourself, holy 
-father?" Here the saintly orator shook his head, "<persName key="I">I</persName> do not mean," 
-resumed the stranger, "to speak even of the reverend and ill<placeName key='us'>us</placeName>trio<placeName key='us'>us</placeName> 
-<persName key="Bernardin">Bernardin</persName>, but as a man among men. For my part, <persName key="I">I</persName> am, as it 
-were, a creeping thing among them; and yet <persName key="I">I</persName> am honest. <persName key="I">I</persName>f <persName key="I">I</persName> 
-have any virtue, it is that. <persName key="I">I</persName> crawl right onward in my path, looking 
-neither to the fight nor to the left; and yet <persName key="I">I</persName> have my temptations. 
-Reverend father, <persName key="I">I</persName> have found this purse. <persName key="I">I</persName> will not deny, 
+father?" Here the saintly orator shook his head, "I do not mean," 
+resumed the stranger, "to speak even of the reverend and illustrious 
+<persName key="St. Bernardin">Bernardin</persName>, but as a man among men. For my part, I am, as it 
+were, a creeping thing among them; and yet I am honest. If I 
+have any virtue, it is that. I crawl right onward in my path, looking 
+neither to the fight nor to the left; and yet I have my temptations. 
+Reverend father, I have found this purse. I will not deny, 
 that being often in want of the common necessaries of life, and 
 having been obliged last night, in particular, to sit down faint at the 
-city gates, for want of my ordinary cr<placeName key='us'>us</placeName>t and onion, which <persName key="I">I</persName> had 
-given to one (God help him!) still worse off than myself, <persName key="I">I</persName> did cast 
-some looks — <persName key="I">I</persName> did, <persName key="I">I</persName> say, j<placeName key='us'>us</placeName>t open the purse, and cast a wistful eye 
+city gates, for want of my ordinary crust and onion, which I had 
+given to one (God help him!) still worse off than myself, I did cast 
+some looks — I did, I say, just open the purse, and cast a wistful eye 
 at one of those shining pieces, that lay one over the other inside, 
-with something like a wish that <persName key="I">I</persName> could procure myself a meal with 
+with something like a wish that I could procure myself a meal with 
 it, unknown to the lawful proprietor. But my conscience, thank 
-Heaven, prevailed. <persName key="I">I</persName> have to make two requests to you, reverend 
-father. First, that you will absolve me for this my offence; and 
+Heaven, prevailed. I have to make two requests to you, <persName key="St. Bernardin">reverend 
+father</persName>. First, that you will absolve me for this my offence; and 
 second, that you will be pleased to mention in one of your discourses, 
-that a poor sinner from <placeName key='Milan'>Milan</placeName>, on his road to hear them, has found 
-a purse, and would willingly restore it to the right owner. <persName key="I">I</persName> would 
+that a poor sinner from <placeName key="Milan" corresp="Italy">Milan</placeName>, on his road to hear them, has found 
+a purse, and would willingly restore it to the right owner. I would 
 fain give double the contents of it to find him out; but then, what 
-can <persName key="I">I</persName> do? All the wealth <persName key="I">I</persName> have consists in my honesty. Be pleased, 
-most ill<placeName key='us'>us</placeName>trio<placeName key='us'>us</placeName> father, to mention this in your discourse, as modestly 
+can I do? All the wealth I have consists in my honesty. Be pleased, 
+most illustrious father, to mention this in your discourse, as modestly 
 as becomes my nothingness; and to add especially, that the purse 
-was found on the road from <placeName key='Milan'>Milan</placeName>, lying, miraculo<placeName key='us'>us</placeName>ly as it were, 
+was found on the road from <placeName key="Milan" corresp="Italy">Milan</placeName>, lying, miraculously as it were, 
 
 
 <pb n="87"/>
 
 upon a sunny bank, open to the view of all, under an olive tree, not 
 far from a little fountain, the pleasant noise of which peradventure 
-had invited the owner to sleep." The good father, at hearing this 
-detail, smiled at the anxio<placeName key='us'>us</placeName> sincerity of the poor pilgrim, and giving 
+had invited the owner to sleep." <persName key="St. Bernardin">The good father</persName>, at hearing this 
+detail, smiled at the anxious sincerity of the poor pilgrim, and giving 
 him the required absolution, promised to do his utmost to bring 
-forth the proprietor. <persName key="I">I</persName>n his next sermon, he accordingly dwelt with 
+forth the proprietor. In his next sermon, he accordingly dwelt with 
 such eloquence on the opportunities thrown in the way of the rich 
 who lose purses to behave nobly, that his congregation several 
-times half rose from their seats out of enth<placeName key='us'>us</placeName>iasm, and longed for 
+times half rose from their seats out of enthusiasm, and longed for 
 some convenient loss of property, that might enable them to shew 
-their disinterestedness. At the concl<placeName key='us'>us</placeName>ion of it, however, a man 
-stepped forward, and said, that anxio<placeName key='us'>us</placeName> as he was to do j<placeName key='us'>us</placeName>tice to 
+their disinterestedness. At the conclusion of it, however, a man 
+stepped forward, and said, that anxious as he was to do justice to 
 the finder of the purse, which he knew to be his the moment he saw it 
-(only he was loth to interrupt the reverend father), he had claims upon 
+(only he was loth to interrupt <persName key="St. Bernardin">the reverend father</persName>), he had claims upon 
 him at home, in the person of his wife and thirteen children, — fourteen 
 perhaps, he might now say, — which, to his great sorrow, prevented him 
 from giving the finder more than a quarter of, a piece; this however 
@@ -395,8 +395,8 @@ doubt would make ample amends for this involuntary deficiency on the
 part of a poor family man, the whole portion of whose wife and children 
 might be said to be wiapt up in that purse. His sleep under the 
 olive tree had been his last for these six nights (here the other man 
-said, with a tremulo<placeName key='us'>us</placeName> joy of acknowledgment, that it was indeed 
-j<placeName key='us'>us</placeName>t six nights since he had found it); and heaven only knew when 
+said, with a tremulous joy of acknowledgment, that it was indeed 
+just six nights since he had found it); and heaven only knew when 
 he should have had another, if his children's bread, so to speak, had 
 not been found again." With these words, the sharper (for such, of 
 course, he was) presented the quarter of a piece to his companion, 
@@ -404,23 +404,23 @@ who made all but a prostration for it; and hastened with the purse
 out of the church. The other man's circumstances were then 
 enquired into, and as he was found to have almost as many children 
 as the purse-owner, and no possessions at all, as he said, but his 
-honesty, — all his children being equally poor and pio<placeName key='us'>us</placeName>, — a considerable 
+honesty, — all his children being equally poor and pious, — a considerable 
 subscription "was raised for him; so large indeed, that on the 
 appearance of a new claimant next day, the pockets of the good 
-people were found empty. This was no other than the <placeName key='Genoese'>Genoese</placeName> merchant, 
+people were found empty. This was no other than the Genoese merchant, 
 who having turned back on his road, when he missed his 
-purse, did not stop till he came to <placeName key='Sienna'>Sienna</placeName>, and heard the news of the 
-day before. <persName key="I">I</persName>magine the feelings of the deceived people. Saint 
-<persName key="Bernardin">Bernardin</persName> was convinced that the two cheats were devils in disguise. 
+purse, did not stop till he came to <placeName key="Siena" corresp="Italy"><choice><corr>Sienna</corr><sic>Siena</sic></choice></placeName>, and heard the news of the 
+day before. Imagine the feelings of the deceived people. <persName key="St. Bernardin">Saint 
+Bernardin</persName> was convinced that the two cheats were devils in disguise. 
 The resident canon had thought pretty nearly as much all along, but 
 had held his tongue, and now hoped it would be a lesson to people 
 not to listen to every body who could talk, especially to the neglect of 
 Saint Antonio's monastery. As to the people themselves, they thought 
-vario<placeName key='us'>us</placeName>ly. Most of them were mortified at having been cheated; 
+variously. Most of them were mortified at having been cheated; 
 and some swore they never would be cheated again, let appearances 
 be what they might. Others thought that this was a resolution 
 somewhat equivocal, and more convenient than happy. For our 
-parts, we think the last were right : and this reminds <placeName key='us'>us</placeName> of a true 
+parts, we think the last were right : and this reminds us of a true 
 
 <pb n="88"/>
 
@@ -430,10 +430,10 @@ heart (not that the two things, as a lover of parenthesis will say, are
 at all bound to go together), who had a wife somewhat given to 
 debating with hackney-coachmen, and disputing acts of settlement 
 respecting half miles, and quarter miles, and abominable additional 
-sixpences. The good ho<placeName key='us'>us</placeName>ewife was lingering at the door, and 
-exclaiming against one of these monstro<placeName key='us'>us</placeName> charioteers, whose hoarse 
+sixpences. The good housewife was lingering at the door, and 
+exclaiming against one of these monstrous charioteers, whose hoarse 
 low voice was heard at intervals, full of lying protestations and bad 
-weather, when the h<placeName key='us'>us</placeName>band called out from a back-room, "Never 
+weather, when the husband called out from a back-room, "Never 
 mind there, never mind : — let her be cheated : let her be cheated." </p>
 
 <p>This is a digression; but it is as well to introduce it, in order 
@@ -443,45 +443,46 @@ moral. </p>
 
 <div2 type="correspondents">
 <p>We intended to introduce the following delightful little lyric, by a 
-friend, in very different company from that of the gentlemen j<placeName key='us'>us</placeName>t 
-presented to the reader; but as Mercury, who was the god of thieves, 
-was also the inventor of the lyre, and as <persName key="Love">Love</persName> himself, time out of 
+friend, in very different company from that of the gentlemen just 
+presented to the reader; but as <persName key="Mercury">Mercury</persName>, who was the god of thieves, 
+was also the inventor of the lyre, and as Love himself, time out of 
 mind; has been called a thief, it is not, in all respects, 
-inappropriately situated. We may fancy Mercury playing, and <persName key="Love">Love</persName> singing: —
-and the song is indeed worthy of the performers. <persName key="I">I</persName>t is elemental, 
-<placeName key='Platonical'>Platonical</placeName>; a meeting of divineness with humanity. </p>
+inappropriately situated. We may fancy <persName key="Mercury">Mercury</persName> playing, and Love singing: —
+and the song is indeed worthy of the performers. It is elemental, 
+Platonical; a meeting of divineness with humanity. </p>
 
 <cit><quote>
-<title>LOVE'S PH<persName key="I">I</persName>LOSOPHY.</title>
+<title>LOVE'S PHILOSOPHY.</title>
 <lg xml:lang="en" xml:id="loves-philosophy" rend="center">
 <lg xml:id="verse1">
-<l>The fountains mangle with the river, </l>
-<l><persName key="And">And</persName> the rivers with the ocean; </l>
+<l>The fountains mingle with the river, </l>
+<l>And the rivers with the ocean; </l>
 <l>The winds of heaven mix for ever </l>
 <l>With a sweet emotion; </l>
 <l>Nothing in the world is single; </l>
 <l>All things by a law divine </l>
-<l><persName key="I">I</persName>n one another's being mingle;— </l>
-<l>Why not <persName key="I">I</persName> with thine? </l></lg>
+<l>In one another's being mingle;— </l>
+<l>Why not I with thine? </l></lg>
 
 <lg xml:id="verse2"><l>See the mountains kiss high heaven. </l>
-<l><persName key="And">And</persName> the waves clasp one another; </l>
+<l>And the waves clasp one another; </l>
 <l>No leaf or flower would be forgiven. </l>
-<l><persName key="I">I</persName>f it disdained to kiss it's brother; </l>
-<l><persName key="And">And</persName> the sunlight clasps the earth, ' </l>
-<l><persName key="And">And</persName> the moonbeams kiss the sea : </l>
+<l>If it disdained to kiss it's brother; </l>
+<l>And the sunlight clasps the earth, ' </l>
+<l>And the moonbeams kiss the sea : </l>
 <l>What are all these kissings worth, </l>
-<l><persName key="I">I</persName>f thou kiss not me? </l></lg>
+<l>If thou kiss not me? </l></lg>
 </lg></quote>
+<note type="source"><bibl><author><persName key="Percy Bysshe Shelley">Percy Bysshe Shelley</persName></author><title level="a">Love's Philosophy</title></bibl></note>
 </cit>
 <signed rend="right">Σ.</signed>
 
 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, 19, Catherine-street, <persName key="St">St</persName>rand. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square, London.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
     </text>
-</TE<persName key="I">I</persName>>
+</TEI>
