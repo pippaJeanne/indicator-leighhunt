@@ -160,4 +160,11 @@ Example:
 
 ```xml
 <placeName key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName>
+
+To distinguish between types of places the @type attribute can be used:
+Fictional
+Physical : for natural features like mountains, lakes, forest etc.
+Pub : for pubs that one drinks at
+Theatre
+Address : for addresses such as those found at the end of tracts such as a publsiher's
 ```
