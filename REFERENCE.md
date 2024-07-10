@@ -167,4 +167,5 @@ Physical : for natural features like mountains, lakes, forest etc.
 Pub : for pubs that one drinks at
 Theatre
 Address : for addresses such as those found at the end of tracts such as a publsiher's
+Road : for any place involved with travel
 ```
