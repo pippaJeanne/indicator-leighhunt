@@ -176,12 +176,14 @@ Prison
 
 ### Quote elements
 To indicate something in quotation marks
+```xml
 For text in quotation elements the <q> </q> element should be used around the word or phrase containing the qutation marks with the quotation marks removed.
 The quote tag includes an attribute element. <q type=""> These can also be contained int their own tags.
 spoken : for direct speech or dialogue
 thought : for a person/character's thoughts
 soCalled : (so called) contains a word or phrase for which the author or narrator indicates a disclaiming of responsibility, for example by the use of scare quotes or italics.
 foreign : identifies a word or phrase as belonging to some language other than that of the surrounding text
+```
 distinct : identifies any word or phrase which is regarded as linguistically distinct, for example as archaic, technical, dialectal, non-preferred, etc., or as forming part of a sublanguage.
 term : (term) contains a single-word, multi-word, or symbolic designation which is regarded as a technical term.
 emph : (emphasized) marks words or phrases which are stressed or emphasized for linguistic or rhetorical effect.
