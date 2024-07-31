@@ -68,7 +68,7 @@ render it all as entertaining as he can. To the unvulgar he exclusively
 addresses himself; but he begs it to be particularly understood, that in this  
 description of persons are to be included all those, who without having had a  
 classical education, would have turned it to right account; just as all those;  
-are to be excluded, who in spite of that "discipline of humanity" think  
+are to be excluded, who in spite of that <q type="soCalled">discipline of humanity</q> think  
 ill of the nature which they degrade, and vulgarly confound the vulgar with  
 the uneducated.</p>
 
@@ -113,9 +113,11 @@ title; and after many grave and ineffectual attempts to furnish one for the
 present, the company, after the fashion of <persName key="Rabelais">Rabelais</persName>, and with a chair-  
 shaking merriment which he might have joined in himself, fell to turning  
 a hopeless thing into a jest. It was like that exquisite picture of a set of  
-laughers in <persName key="William Shakspeare"><choice><sic>Shakspeare</sic><corr>Shakespeare</corr></choice></persName> : — </p>
+laughers in <persName key="William Shakspeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
 
-<cit><quote><lg><l>One rubbed his elbow, thus; and fleered, and swore </l> 
+<cit>
+<quote>
+<lg><l>One rubbed his elbow, thus; and fleered, and swore </l> 
 <l>A better speech was never spoke before :  </l>
 <l>Another, with his finger and his thumb.  </l>
 <l>Cried " Vial We will do't, come what will come!"  </l>
@@ -124,8 +126,12 @@ laughers in <persName key="William Shakspeare"><choice><sic>Shakspeare</sic><cor
 <l>"With that they all did tumble on the ground.  </l>
 <l>With such a zealous laughter, so profound.  </l>
 <l>That in this spleen ridiculous, appears,  </l>
-<l>To check their laughter, passion's solemn tears.  </l></lg></quote>
-<note type="source"> <bibl><author><persName key="William Shakespeare">William Shakespeare</persName></author>: <title level="m">Love's Labour Lost</title>. </bibl></note></cit>
+<l>To check their laughter, passion's solemn tears.  </l>
+<l rend="indent"><title level="m">LOVE'S LABOUR LOST</title></l></lg></quote>
+<note type="source"> 
+    <bibl><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title> </bibl>
+</note>
+</cit>
 
 <p>Some of the names had a meaning in their absurdity, such as <title level="u">the Adviser</title>,  
 or <title level="u">Helps for Composing</title>; — <title level="u">the Cheap Reflector</title>, or <title level="u">Every Man His Own  
@@ -144,7 +150,7 @@ Eminence</title>; <title level="u">Meditations on a Pleasing Idea</title>; <titl
 Knocker, No. I</title>; — <title level="u">the Hippopotamus Entered at Stationers' Hall</title>; <title level="u">the  
 Piano-forte</title> of <persName key="Paulus AEmilius">Paulus AEmilius</persName>; <title level="u">the Seven Sleepers at Cards</title>; <title level="u">the Arabian  
 Nights on Horseback</title> : — with an infinite number of other mortal murders  
-of common sense <note type="editorial"> This is likely a play on words of Thomas Paine's 47-page pamphlet entitled Common Sense, published in 1776.</note> , which rose to "push us from our stools," and which  
+of common sense <note type="editorial"> This is likely a play on words of Thomas Paine's 47-page pamphlet entitled Common Sense, published in 1776.</note> , which rose to <q type="soCalled">push us from our stools,</q> and which  
 none but the wise or good-natured would ever think of laughing at.</p> 
 
 <pb n="3"/>
@@ -160,7 +166,7 @@ ran to an extreme natural enough to such a mind, and proclaimed at once
 that all which is commonly understood by the word Learning was useless.  
 He saw that others mistook the letter for the spirit; and yet in objecting  
 to this mistake, he fell into one of the very same nature, and asserted that  
-learning was no longer wanted, because all the "useful books" in the  
+learning was no longer wanted, because all the <q type="soCalled">useful books</q> in the  
 ancient languages had been translated.  By useful books, he means such  
 works as <title level="a">Euclid's Elements</title> : and here again he fell into an error, from  
 which the true spirit of learning might have saved him : he confounded  
@@ -195,8 +201,8 @@ knowledge (and we cannot well return to it now-a-davs through the
 paths of ignorance, beset as they have been with every species of tyranny)  
 then the more we know of what great minds have felt and said, the more  
 we increase the general stock of humanity in its largest sense. That all  
-the "useful books" therefore have been translated, must be denied.  
-Intelligent men of no scholarship, on reading <persName key ="Horace">Horace</persName>, for instance, and <persName key="Ariosto">Ariosto</persName>,  
+the <q type="soCalled">useful books</q> therefore have been translated, must be denied.  
+Intelligent men of no scholarship, on reading <persName key ="Horace">Horace</persName>, for instance, and <persName key="Ludovico Ariosto">Ariosto</persName>,  
 through the medium of translation, have often wondered how those writers  
 obtained their glory. And they well might. The translations are no more  
 like the original than a walking-stick is like a flowering bough. It is the  
@@ -207,16 +213,20 @@ same with the versions of <persName key="Euripides">Euripides</persName>, of <pe
 of <persName key="Petrarch">Petrarch</persName>, etc. etc, and in many respects of <persName key="Homer">Homer</persName>. Perhaps we  
 could not give the reader a more brief yet complete specimen of the way  
 in which bad translations are made, than by selecting a well-known passage  
-from <persName key="William Shakespeare"><choice><sic>Shakspeare</sic><corr>Shakespeare</corr></choice></persName>, and turning it into the common-place kind of poetry  
+from <persName key="William Shakespeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName>, and turning it into the common-place kind of poetry  
 that flourished so widely among us till of late years. Take the passage  
 for instance, where the lovers in the Merchant of Venice seat themselves  
 on a bank by moonlight : — </p>
 
-<cit><quote><lg><l>How sweet the moonlight sleeps upon this bank! </l> 
+<cit>
+<quote>
+<lg><l>How sweet the moonlight sleeps upon this bank! </l> 
 <l>Here will we sit, and let the sounds of music  </l>
 <l>Creep in our ears; soft stillness, and the night,  </l>
 <l>Become the touches of sweet harmony. </l></lg></quote>
-<note type="source"><bibl><persName key="William Shakespeare">Shakespeare, William</persName>: <title level="m">The Merchant of Venice</title></bibl></note></cit>
+<note type="source">
+    <bibl><author>William Shakespeare</author> <title level="m">The Merchant of Venice</title></bibl>
+</note></cit>
 
 <p>Now a foreign translator, of the ordinary kind, would dilute and take  
 all taste and freshness out of this draught of poetry, in a style amounting  
@@ -251,12 +261,16 @@ The probability is, that he was a Pythagorean from some northern country;
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
 been enough to make a miracle. He rode like an arrow. Drop the word  
-like, and the miracle is ready. <persName key="Swift">Swift</persName> says of the famous <persName key="Lord Peterborough">Lord Peterborough</persName>.</p>
+like, and the miracle is ready. <persName key="Jonathan Swift">Swift</persName> says of the famous <persName key="Lord Peterborough">Lord Peterborough</persName>.</p>
 
 
-<cit><quote><lg><l>So wonderful his expedition, </l> 
+<cit><quote>
+<lg><l>So wonderful his expedition, </l> 
 <l>When you have not the least suspicion </l> 
-<l>He's with you like an apparition. </l></lg></quote></cit>
+<l>He's with you like an apparition. </l></lg>
+</quote>
+    <bibl><author>Jonathan Swift</author><title level="a">To the Earl of Peterborough</title></bibl>
+</cit>
 
 <p>If this had been said of a man in some ages of the world, the next step  
 would have been to use his apparition at once, and allow him a travelling  
@@ -366,7 +380,7 @@ The Italian writers are so fond of it, that they have sonnets, called
 Polyphemic sonnets. <persName key="Raphael">Raphael</persName> painted a beautiful picture of <persName key="Galatea">Galatea</persName>  
 triumphing on the waters, of which there are many engravings. And  
 <persName key="Handel">Handel</persName> finished the homage of the arts to it by that divine oratorio of <persName key="Acis">Acis</persName>  
-and <persName key="Galatea">Galatea</persName>, for which <persName key="Gay">Gay</persName> contributed words not unworthy. If the reader  
+and <persName key="Galatea">Galatea</persName>, for which <persName key="John Gay">Gay</persName> contributed words not unworthy. If the reader  
 wishes to know how the great poets have written on the subject, he should  
 hear how <persName key="Handel">Handel</persName> composed.</p>
 
@@ -407,7 +421,7 @@ unhealthy temperament, always contradicting his comfort also, though he
 may not know as much, — toil, toil, toil, every morning, — indigestion,  
 indigestion, every evening, — a gout in his old age, and a bad conscience all  
 his life, — such is the picture of a complete, successful, flourishing,  
-sophisticated, money-getting animal; who is called "a good man," because his  
+sophisticated, money-getting animal; who is called <q type="soCalled">a good man,</q> because his  
 knaveries enable him to pay; and a knowing one, because he has found  
 out with infinite labour and pains how to make himself forty times as  
 uncomfortable as other people.</p>
@@ -419,7 +433,7 @@ the industry that is now thought necessary, and an improved knowledge
 which does not confound good taste with expensiveness, would leave mankind  
 to the enjoyment of a leisure and a happiness, which they have only  
 tasted at intervals. But in the mean time, instead of happiness being  
-attended- to, the phrase is, that "business must be attended to." The  
+attended- to, the phrase is, that <q type="soCalled">business must be attended to.</q> The  
 same pains, or mere profligacies, are bequeathed to children; and with the  
 exception of a few understandings who have survived the convulsions of  
 the times, and have got hold of a weapon against error", which wisdom never  
@@ -429,7 +443,7 @@ this green and beautiful country, make a religion of their money-getting
 <pb n="8"/>
 
 and town habits, sitting in their well-clothed stupidity, and sneering with  
-as much ignorant scepticism at all improvement, as ever their <choice><sic>ancestros</sic> <corr>ancestors</corr> </choice> 
+as much ignorant scepticism at all improvement, as ever their <choice><corr>ancestors</corr><sic>ancestros</sic>  </choice> 
 might have done in their painted skins.</p>
 
 <p>The present generation, in this respect, is too old and too foolish to  
@@ -463,6 +477,9 @@ took him out of it at last.</p>
 <p xml:lang="anc-Greek" rend="center">Αγε ζωγραφων αριϛε</p>
 
 <cb n="1"/>
+<cit>
+    <quote>
+        <lg xml:lang="en" type="ex:hunt-translation" xml:id="Anacreons-Portrait-of-His-Mistress">
 <lg>
 <l>Come, master of the rosy art.</l>  
 <l>Thou painter after my own heart.</l>
@@ -499,7 +516,12 @@ took him out of it at last.</p>
 <l>So that what remains be guess'd</l>
 <l>'Tis enough: 'tis she! 'tis she!</l>
 <l>O thou sweet face, speak to me.</l>
-</lg> 
+</lg> </lg> 
+    </quote>
+    <note type="source"> 
+        <bibl><author>Leigh Hunt</author><title level="a">ANACREON'S PORTRAIT OF HIS MISTRESS</title></bibl>
+    </note>
+</cit>
 </div2>
     <div2 type="colophon" rend="center">
                 <p>Orders received by the Newsmen, Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Two-pence.</p>
