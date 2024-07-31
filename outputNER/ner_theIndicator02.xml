@@ -19,7 +19,7 @@
                 <bibl>
                     <author>Hunt, James Henry Leigh (1784-1859)</author>
                     <title>The Indicator</title>
-                    <date when="1819-10-27">OCTOBER 27th, 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <date when="1819-10-20">OCTOBER 20th", 1819</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
                     <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
                 </bibl>
@@ -42,488 +42,463 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="issue" n="3">
-                <pb n="17" /> <!-- Page beginning -->
+            <div1 type="issue" n="2">
+                <pb n="9" /> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="England">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
                         <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
                                 cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
-                    <head type="catalogue">No. I. <date when="1819-10-27">—WEDNESDAY, OCTOBER 27th, 1819</date>.</head>
+                    <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header"> <persName key="Godiva">GODIVA</persName>. </head>
+                    <head type="header"> THE INDICATOR AND EXAMINER. — AUTUMNAL COMMENCEMENT OF FIRES. — MANTLE-PIECES. — APARTMENTS FOR STUDY. </head>
+<p>One or two persons, we understand, have supposed that the present  
+periodical work will interfere with the literary part of another, in  
+which the Editor has long been concerned. This is a great mistake.  
+The Examiner will continue to be- more literary, as well as painstaking  
+in every other respect, than it has ever been. It will have  
+more than the usual literature, for instance, connected with politics  
+and criticism, — especially the latter. Indeed, should the new paper  
+injure the old one, it would be dropped. The fact is, that as far as  
+the Editor is concerned, the Examiner is to be regarded as the  
+reflection of his public literature, and the Indicator of his private.  
+In the one he has a sort of public meeting with his friends : in the  
+other, a more retired one. The Examiner is his tavern-room for  
+politics, for political pleasantry, for criticism upon the theatres and   
+living writers. The Indicator is his private room, his study, his  
+retreat from public care and criticism, with the reader who chuses  
+to accompany him.</p>
 
+<p>Here we are then, this chilly weather, with a warm fire. How  
+pleasant it is to have fires again ! We have not time to regret summer,  
+when the cold fogs begin to force us upon the necessity of having  
+a new kind of warmth; — a warmth not so fine as sunshine, but as  
+manners go, more sociable. The English get together over their  
+fires, as the Italians do in their summer-shade. We do not enjoy our  
+sunshine as we ought: our climate in general seems to render us  
+almost unaware that the weather is fine, when it really becomes so:  
+but for the same reason, we make as much of our winter as the  
+anti-social habits that have grown upon us from other causes will allow.  
+And for a similar reason, the southern European is unprepared for a  
+cold day. The houses in <placeName key="Italy" corresp="Italy">Italy</placeName> are almost all summer-houses, letting  
+in the air on every side; so that when a fit of cold weather comes  
+on the dismayed inhabitant, walking and shivering about with a  
 
-<p>This is the lady, who under the title of <persName key="Godiva">Countess of Coventry</persName>, used  
-to make such a figure in our childhood upon some old pocket-pieces  
-of that city. We hope she is in great request there still; or the  
-inhabitants deserve to be sent from <placeName key="Coventry" corresp="England">Coventry</placeName>. That city used to  
-be famous in saintly legends for the visit of the eleven thousand  
-virgins, — an <q>incredible number</q> saith <persName key="Selden">Selden</persName>. But the eleven  
-thousand virgins have vanished with their credibility; and a real  
-noble-hearted woman of flesh and blood is <placeName key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
+<pb n="10"/>
 
-<p>The story of <persName key="Godiva">Godiva</persName> is not a fiction, as many suppose it. At least  
-it is to be found in <persName key="Matthew of Westminster">Matthew of Westminster</persName>, and is not of a nature  
-to have been a mere invention. Her name, and that of her husband,  
-<persName key="Leofric">Leofric</persName>, are mentioned in an old charter recorded by another  
-early historian. That the story is omitted by <persName key="Hume">Hume</persName> and others  
-argues little against it; for the latter are accustomed to confound  
-the most interesting anecdotes of times and manners with something  
-below the dignity of history (a very absurd mistake); — and <persName key="Hume">Hume</persName>,  
-of whose philosophy better things might have been expected, is  
-notoriously less philosophical in his history than in any other of  
-his works. A certain coldness of temperament, not unmixed with  
-aristocratical pride, or at least with a great aversion from every thing  
-like vulgar credulity, rendered his scepticism so extreme, that it  
-became in spite of itself a sort of superstition in turn, and blinded  
-him to the claims of every species of enthusiasm, civil as well as  
-religious. <persName key="Milton">Milton</persName>, with his poetical eyesight, saw better when he  
-meditated the history of his native country. We do not remember  
-whether he relates the present story; but we remember well, that  
-at the beginning of his fragment on that subject, he says he shall  
-relate doubtful stories as well as authentic ones, for the benefit of  
-those, if no others, who will know how to make use of them,—  
-namely, the poets. <note type="hunt" place="foot"> When <persName key="Samuel Johnson">Dr. Johnson</persName>, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
-haye overlooked this announcement; and yet, if we recollect, it is but in the  
-second page of the fragment. So hasty, and blind, and liable to be put to shame  
-is prejudice.</note> We have faith however in the story ourselves.</p>
+little brazier in his hands, presents an awkward image of insufficiency  
+and perplexity. A few of our fogs, shutting up the sight of  
+every thing out of doors, and making the trees and the eves of the  
+houses drip like rain, would soon admonish him to get warm in good  
+earnest. If <q type="soCalled">the web of our life</q> is always to be <q type="soCalled">of a mingled  
+yarn,</q> a good warm hearth-rug is not the worst part of the manufacture.</p>
 
-<pb n="18"/>
+<p>Here we are then again, with our fire before us, and our books on  
+each side. What shall we do? Shall we take out a Life of somebody,  
+or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante">Dante</persName>, or <persName key="Ludovico Ariosto">Ariosto</persName>, or <persName key="Montaigne">Montaigne</persName>, or <persName key="Marcus Aurelius">Marcus Aurelius</persName>,  
+or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare">Shakspeare</persName> who includes them all? Or shall we  
+read an engraving from <persName key="Poussin">Poussin</persName> or <persName key="Raphael">Raphael</persName>? Or shall we sit with  
+tilted chairs, planting our wrists upon our knees, and toasting the  
+up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
+mans heart and hopes, with at least a sincerity, a good intention, and  
+good nature,</hi> that shall warrant what we say with the sincere, the  
+good-intentioned, and the good-natured?</p>
 
-<p>It has innate evidence enough for us, to give full weight to that of  
-the old annalist. Imagination can invent a good deal; affection  
-more: but affection can sometimes do things, such as the tenderest  
-imagination is at least not in the habit of inventing; and this piece  
-of noble-heartedness we believe to have been one of them.</p>
+<p>Ah — take care. You see what that old looking saucer is, with  
+a handle to it. It is a venerable piece of earthenware, which may  
+have been worth, to an Athenian, about two-pence; but to an author,  
+is worth a great deal more than ever he could — deny for it. And  
+yet he would depy it too. It will fetch his imagination more than  
+ever it fetched potter or penny-maker. It's little shallow circle  
+overflows for him with the milk and honey of a thousand pleasant  
+associations. This is one of the uses of having mantle-pieces. You  
+may often see on no very rich mantle-piece a representative body of  
+all the elements, physical and intellectual,— a shell for the sea, a  
+stuffed bird or some feathers for the air, a curious piece of mineral  
+for the earth, a glass of water with some flowers in it for the visible  
+process of creation, — a cast from sculpture for the mind of man;—  
+and underneath all, is the bright and ever-springing fire, running  
+up through them heavenwards, like hope through materiality. We  
+like to have any little curiosity of the mantle-piece kind within our  
+reach and inspection. For the same reason, we like a sniall study,  
+where we are almost in contact with our books. We like to feel  
+them about us, — to be in the arms of our mistress Philosophy, rather   
+than see her at a distance. To have a huge apartment for a study  
+is like lying in the great bed at <placeName key="Ware" corresp="England">Ware</placeName>, or being snug on a milestone  
+upon <placeName key="Hounslow Heath" corresp="England">Hounslow Heath</placeName>. It is space and physical activity, not  
+repose and concentration. It is fit only for grandeur and ostentation,  
+— for those who have secretaries, and are to be approached like gods  
+in a temple. <persName key="The archbishop of Toledo">The archbishop of Toledo</persName>, no doubt, wrote his homilies  
+in a room ninety feet long. <persName key="The Marquis Marialva">The Marquis Marialva</persName> must have been  
+approached by <persName key="Gil Blas">Gil Blas</persName> through whole ranks of glittering authors,  
+standing at due distance. But <persName key="Ludovico Ariosto">Ariosto</persName>, whose mind could fly out of  
+it's nest over all nature, wrote over the house he built, <q xml:lang="Latin">"Parva, sed  
+apta mihi"</q> — Small, but suited to me. However, it is to be observed,  
+that he could not afford a larger. He was a Duodenarian, in that  
+respect, like ourselves.  We do not know how our ideas of a study  	
 
-<p><persName key="Leofric">Leofric, Earl of Leicester</persName>, was the lord of a large feudal territory  
-in the middle of <placeName key="England" corresp="England">England</placeName>, of which <placeName key="Coventry" corresp="England">Coventry</placeName> formed a part. He  
-lived in the time of <persName key="Edward the Confessor">Edward the Confessor</persName>; and was so eminently a  
-feudal lord, that the hereditary greatness of his dominion appears to  
-have been singular even at that time, and to have lasted with an  
-uninterrupted succession from <persName key="Ethelbald">Ethelbald</persName> to the Conquest, — a period  
-of more than three hundred years. He was a great and useful  
-opponent of the famous <persName key="Earl Goodwin">Earl Goodwin</persName>.</p>
+<pb n="11"/>
 
-<p>Whether it was owing to <persName key="Leofric">Leofric</persName> or not, does not appear; but  
-<placeName key="Coventry" corresp="England">Coventry</placeName> was subject to a very oppressive tollage, by which it would  
-seem that the feudal despot enjoyed the greater part of the profit  
-of all marketable commodities. The progress of knowledge has  
-shewn us how abominable, and even how unhappy for all parties,  
-is an injustice of this description; yet it gives one an extraordinary  
-idea of a mind in those times, to see it capable of piercing through  
-the clouds of custom, of ignorance, and even of self-interest, and  
-petitioning the petty tyrant to forego such a privilege. This mind  
-was <persName key="Godiva">Godiva</persName>'s. The other sex, always more slow to admit reason  
-through the medium of feeling, were then occupied to the full in  
-their warlike habits. It was reserved for a woman to anticipate  
-whole ages of liberal opinion, and to surpass them in the daring  
-virtue of setting a principle above a custom.</p>
+might exparid With our walls. <persName key="Montaigne">Montaigne</persName>, who was <persName key="Montaigne">Montaigne</persName>  
+"of that ilk," and lord of a great chateau, had a study <q type="written">sixteen  
+paces in diameter, with three noble and free prospects.</q> He congratulates  
+himself, at the same time, on it's circular figure, evidently  
+from a feeling allied to the one in favour of smallness. <q type="written">The figure  
+of my study,</q> says he, <q type="written">is round, and has no more flat (bare)  
+wall, than what is taken up by my table and my chairs; so that the  
+remaining parts of the circle present me with a view of all my books at  
+once, set upon five degrees of shelves round about me.</q> <note type="hunt">(<bibl><author>Cotton</author>'s  
+<title level="m"><persName key="Montaigne">Montaigne</persName></title>. B.3. Ch. 3.</bibl>)</note> A great prospect we hold to be a very disputable  
+advantage, upon the same reasoning as before; but we like to have  
+some green boughs about our windows, and to fancy ourselves as  
+much as possible in the country when we are not there. <persName key="Milton">Milton</persName>  
+expressed a wish with regard to his study, extremely suitable to our  
+present purpose. He would have the lamp in it <hi rend="italic">seen</hi>; thus letting  
+others into a share of his enjoyments, by the imagination of them.</p>
 
-<p>The countess entreated her lord to give up his fancied right; but  
-in vain. At last, wishing to put an end to her importunities, he  
-told her, either in a spirit of bitter jesting, or with a playful raillery  
-that could not be bitter with so sweet an earnestness, that he would  
-give up his tax, provided she rode through the city of <placeName key="Coventry" corresp="England">Coventry</placeName>,  
-naked. She took him at his word; and said she would. One may  
-imagine the astonishment of a fierce unlettered chieftain, not  
-untinged with chivalry, at hearing a woman, and that too of the greatest  
-delicacy and rank, maintaining seriously her intention of acting  
-in a manner contrary to all that was supposed fitting tor her sex,  
-and at the same time forcing upon him a sense of the very beauty  
-of her conduct by it's principled excess. It is probable, that as he  
-could not prevail upon her to give up her design, ixe had sworn  
-some religious oath when he made his promise : but be this as it  
-may, he took every possible precaution to secure her modesty from  
-hurt. The people of <placeName key="Coventry" corresp="England">Coventry</placeName> were ordered to keep within doors, to  
-close up all their windows and outlets, and not to give a glance into  
-the streets upon pain of death. The day came; and <placeName key="Coventry" corresp="England">Coventry</placeName>, it  
-may be imagined, was silent as death. The lady went out at the  
-palace door, was set on horseback, and at the same time divested of  
-her wrapping garment, as if she had been going into a bath; then  
-taking the fillet from her head, she let down her long and lovely  
-tresses, which poured around her body like a veil; and so, with only </p>
+<cit><quote><lg><l>And let my lamp at midnight hour </l>
+<l>Be seen in some high lonely tower. </l>
+<l>Where I may oft outwatch the Bear </l>
+<l>With thrice-great <persName key="Hermes">Hermes</persName>; or unsphere </l>
+<l>The Spirit of <persName key="Plato">Plato</persName>, to unfold </l>
+<l>What world or what vast regions hold </l>
+<l>The immortal mind, that hath forsook </l>
+<l>Her mansion in this fleshy nook. </l></lg></quote>
+<note type="source"><bibl><author>John Milton</author> <title level="a">Il Penseroso</title></bibl></note></cit>
 
-<pb n="19"/>
+<p>There is a fine passionate burst of enthusiasm oh the subject of a 
+study in <persName key="Fletcher">Fletcher</persName>'s play of the <bibl><title>Elder Brother</title>, <ref>Act. 1. Scene 2</ref></bibl>.</p>
 
-<p>her white legs remaining conspicuous, took her gentle way through  
-the streets. <note type="hunt" place="foot"> <q xml:lang="latin">Nuda</q>, says <persName key="Matthew of Westminster">Matthew of Westminster</persName>, <q type="written" xml:lang="latin">equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit.</q> See <persName key="Selden">Selden</persName>'s Notes to the <title level="m">Polyolbion</title> of <persName key="Michael Drayton">Drayton</persName>. <title level="s">Song 13</title>. It is <persName key="Selden">Selden</persName> from whom we learn, that <persName key="Leofric">Leofric</persName> was Earl of Leicester, and the other particulars of him mentioned above. <persName key="Leofric">The Earl</persName> was buried at <placeName key="Coventry" corresp="England">Coventry</placeName>, <persName key="Godiva">his Countess</persName> most  
-probably, in the same tomb. </note> </p>
-
-<p>What scene can be more touching to the imagination, — beauty,  
-modesty, feminine softness, a daring sympathy; an extravagance,  
-producing by the nobleness of it's object and the strange gentleness  
-of it's means, the grave and profound effect of the most reverend  
-custom. We may suppose the scene taking place in the warm noon;  
-the doors all shut, the windows closed; <persName key="Leofric">the earl</persName> and his court serious  
-and wondering; the other inhabitants, many of them gushing with  
-gi-ateful tears, and all reverently listening to hear the footsteps of  
-the horse; and lastly, the lady herself, with a downcast but not a  
-shamefaced eye, looking towards the earth through her flowing  
-locks, and riding through the dumb and deserted streets, like an  
-angelic spirit.</p>
-
-<p>It was an honourable superstition in that part of the country, that  
-a man who ventured to look at the fair saviour of his native town,  
-was struck blind. But the vulgar use to which this superstition has  
-been turned by some writers of late times, is not so honourable. The  
-whole story is as unvulgar and as sweetly serious, as can be conceived.</p>
-
-<p><persName key="Michael Drayton">Drayton</persName> has not made so much of this subject, as might have been  
-expected; yet what he says, is said well and earnestly.</p>
-
-<cit><quote><lg><l><placeName key="Coventry" corresp="England">Coventry</placeName> at length </l>
-<l>From her small, mean regard recovered state and strength; </l>
-<l>By <persName key="Leofric">Leofric</persName> her lord, yet in base bondage held, </l>
-<l>The people from her marts by tollage were expelled; </l>
-<l>Whose dutchess which desired this tribute to release. </l>
-<l>Their freedom often begged.  The duke, to make her cease. </l>
-<l>Told her, that if she would his loss so far enforce. </l>
-<l>His will was, she should ride stark naked upon a horse </l>
-<l>By daylight through the street : which certainly he thought </l>
-<l>In her heroic breast so deeply would have wrought. </l>
-<l>That in her former suit she would have left to deal. </l>
-<l>But that most princely dame, as one devoured with zeal, </l>
-<l>Went on, and by that mean the city clearly freed. </l></lg></quote></cit>
-
-<p>We wonder that none of our painters have yet drawn us <persName key="Godiva">Godiva</persName>  
-upon her horse. They can hardly have met with the subject, or  
-surely they would have fallen in love with it.</p>
-
+<cit>
+    <quote>
+<lg><l>Sordid and dunghill minds, composed of earth, </l>
+<l>In that gross element fix all their happiness : </l>
+<l>But purer spirits, purged and refined. </l>
+<l>Shake off that clog of human frailty. Give me </l>
+<l>Leave to enjoy myself. That place, that does </l>
+<l>Contain my books, the best companions, is </l>
+<l>To me a glorious court, where hourly I </l>
+<l>Converse with the old sages and philosophers; </l>
+<l>And sometimes for variety, I confer </l>
+<l>With kings and emperors, and weigh their counsels; </l>
+<l>Calling their victories, if unjustly got. </l>
+<l>Unto a strict account; and in my fancy. </l>
+<l>Deface their ill-placed statues.  Can I then </l>
+<l>Part with such constant pleasures, to embrace </l>
+<l>Uncertain vanities?  No : be it your care </l>
+<l>To augment a heap of wealth : it shall be mine </l>
+<l>To increase in knowledge. Lights there for my study! </l></lg>    
+</quote>
+    <note type="source"> 
+        <bibl><author>John Fletcher</author><title level="m">The Elder Brother</title></bibl>
+    </note>
+</cit>
 </div2>
 
 <div2 type="section" n="2">
-<head type="header">PLEASANT RECOLLECTIONS CONNECTED WITH VARIOUS PARTS OF THE METROPOLIS.</head>
+<head type="header" rend="center">ACONTIUS AND CYDIPPE,</head>
+<head type="subheader" rend="center">A LOVE STORY IN THE ANTIENT WRITERS.</head>
+<p><persName key="Acontius">Acontius</persName> was a youth of the island <placeName key="Cea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
+sacrifices in honour of <persName key="Diana">Diana</persName> fell in love with this beautiful virgin,  
+<persName key="Cydippe">Cydippe</persName>; but she was unfortunately so much above him in rank,  
+that he had no hope of obtaining her hand in the usual way The  
 
-<p>One of the best secrets of enjoyment is the art of cultivating  
-pleasant associations. We spoke of this in our first number, and  
-shall often have occasion to recur to it. It is an art that of  
-necessity increases with the stock of our knowledge; and though in  
-acquiring our knowledge we must encounter disagreeable associations
-<pb n="20"/>
-also, yet if we secure a reasonable quantity of health by the way  
-these will be far less in number than the agreeable ones: for unless  
-the circumstances which gave rise to the associations, press upon  
-us; it is only from want of health that the power of throwing off  
-these burdensome images becomes suspended.</p>
+<pb n="12"/>
 
-<p>And the beauty of this art is, that it does not insist upon pleasant  
-materials to work on. Nor indeed does health. Health will give us  
-a vague sense of delight, in the midst of objects that would teaze  
-and oppress us during sickness. But healthy association peoples this  
-vague sense with agreeable images. It will relieve us, even when  
-a painful sympathy with the distresses of others becomes a part of  
-the very health of our minds. For instance, we can never go  
-through <placeName key="St. Giles" corresp="England">St. Giles's</placeName>, but the sense of the extravagant inequalities in  
-human condition presses more forcibly upon us; but some pleasant  
-images are at hand even there to refresh it. They do not displace  
-the others, so as to injure the sense of public duty which they  
-excite; they only serve to keep our spirits fresh for their task, and  
-hinder them from running into desperation or hopelessness. In  
-<placeName type="landmark" key="St. Giles church" corresp="England">St. Giles's Church</placeName> lie <persName key="Chapman">Chapman</persName>, the earliest and best translator of  
-<persName key="Homer">Homer</persName>; and <persName key="Andrew Marvell">Andrew Marvell</persName>, the wit and patriot, whose poverty  
-<persName key="King Charles II">Charles the Second</persName> could not bribe. We are as sure to think of  
-these two men, and of all the good and pleasure they have done to  
-the world, as of the less happy objects about us. The steeple of the  
-church itself too is a handsome one; and there is a flock of pigeons  
-in that neighbourhood, which we have stood with great pleasure to  
-see careering about it of a fine afternoon, when a western wind had  
-swept back the smoke towards the city, and shewed the white of  
-the stone steeple piercing up into a blue sky. So much for <placeName key="St. Giles" corresp="England">St.  
-Giles's</placeName>, whose very name is a nuisance with some. It is dangerous  
-to speak disrespectfully of old districts. Who would suppose  
-that <placeName key="the Borough" corresp="England">the Borough</placeName> was the most classical ground in the metropolis?  
-And yet it is undoubtedly so. <placeName type="Theatre" key="The Globe Theatre" corresp="England">The Globe theatre</placeName> was there, of  
-which <persName key="William Shakspeare">Shakspeare</persName> himself was a proprietor, and for which he wrote  
-his plays. <placeName key="Globe-Lane" corresp="England">Globe-lane</placeName>, in which it stood, is still extant, we believe,   
-under that name. It is probable that he lived near it : it is certain  
-that he must have been much there. It is also certain that on <placeName key="the Borough" corresp="England">the  
-Borough</placeName> side of the river, then and still called the <placeName key="Bank side" corresp="England">Bank side</placeName>, in the  
-same lodging, having the same wardrobe, and some say, with other  
-participations more remarkable, lived <persName key="Francis Beaumont">Beaumont</persName> and <persName key="Fletcher">Fletcher</persName>. In  
-<placeName key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's church" corresp="England">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
-one grave; in the same church, under a monument and effigy, lies  
-<persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName key="the Borough" corresp="England">the Borough</placeName>,  
-the existence of which is still boasted, and the scite pointed out by a  
-picture and inscription, <persName key="Geoffrey Chaucer">Chaucer</persName> sets out his pilgrims and himself on  
-their famous road to <placeName key="Canterbury" corresp="England">Canterbury</placeName>.</p>
+wit of a lover accordingly helped him to an expedient. There was  
+a law in <placeName key="Cea" corresp="Greece">Cea</placeName>, that any oath pronounced in the temple of <persName key="Diana">Diana</persName> was  
+irrevocably binding. Acontius got an apple, and writing some words  
+upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
+<p>The words were these; — </p>
 
-<p>To return over the water, who would expect any thing poetical  
-from <placeName key="East Smithfield" corresp="England">East Smithfield</placeName>? Yet there was born the most poetical even  
-of poets, <persName key="Edmund Spenser">Spenser</persName>. <persName key="Alexander Pope">Pope</persName> was born within the sound of <placeName key="Bow" corresp="England">Bow</placeName>-bell<note type="editorial"> One is said to be a true cockney (East-Londoner) if one is born within sound range of the Bow Bells</note>, in  
-a street no less anti-poetical than <placeName key="Lombard-street" corresp="England">Lombard-street</placeName>. So was <persName key="Gray">Gray</persName>, in  
-<placeName key="Cornhill" corresp="England">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName key="Bread-street, Cheapside" corresp="England"><placeName key="Bread-street" corresp="England">Bread-street</placeName>, <placeName key="Cheapside" corresp="England">Cheapside</placeName></placeName>. The presence 
-<pb n="21"/>
-of the same great poet and patriot has given happy memories to  
-many parts of the metropolis. He lived in <placeName key="St. Bride's Churchyard, Fleet-street" corresp="England"><placeName type="building" key="St.Bride's Churchyard" corresp="England">St. Bride's Churchyard</placeName>,  
-<placeName key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>; in <placeName key="Aldersgate-street" corresp="England">Aldersgate-street</placeName>, in <placeName key="Jewin-street" corresp="England">Jewin-street</placeName>, in <placeName key="Barbican" corresp="England">Barbican</placeName>,  
-in <placeName key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>; in <placeName key="Holborn" corresp="England">Holborn</placeName>, looking back to <placeName key="Lincoln's Inn Fields" corresp="England">Lincoln's  
-Inn Fields</placeName>; in <placeName key="Holborn" corresp="England">Holborn</placeName>, near <placeName key="Red Lion-square" corresp="England">Red Lion-square</placeName>; in <placeName key="Scotland-yard" corresp="England">Scotland-yard</placeName>  
-in a house looking to <placeName key="St. James's Park" corresp="England">St. James's Park</placeName>, now belonging to an  
-eminent writer on legislation, and lately occupied by a celebrated  
-critic and metaphysician; and he died in the <placeName key="Artillery-walk, Bunhill-Fields" corresp="England"><placeName key="Artillery-walk" corresp="England">Artillery-walk</placeName>,  
-<placeName key="Bunhill-Fields" corresp="England"> Bunhill-Fields</placeName></placeName>; and was buried in <placeName key="St Gile's Church, Cripplegate" corresp="England"><placeName type="building" key="St.Giles Church" corresp="England">St. Giles's</placeName>, <placeName key="Cripplegate" corresp="England">Cripplegate</placeName></placeName>.</p>
+<q xml:lang="anc-Greek">MA THN APTEMIN AKONTIΩ ΓAMOΥMAI.</q>
+<q>By <persName key="Diana">Dian</persName>, I will marry <persName key="Acontius">Acontius</persName>. </q>
 
-<p><persName key="Ben Jonson">Ben Jonson</persName>, who was born <q>in <placeName key="Hartshorne-lane" corresp="England">Hartshorne-lane</placeName>, near <placeName key="Charing-cross" corresp="England">Charing-cross</placeName>,</q>  
-was at one time <q type="soCalled">master</q> of a theatre in <placeName key="Barbican" corresp="England">Barbican</placeName>. He  
-appears also to have visited a tavern called <placeName key="the Sun and Moon, Aldersgate-street" corresp="England"><placeName type="Pub" key="the Sun and Moon" corresp="England">the Sun and Moon</placeName>, in  
-<placeName key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
-<persName key="Francis Beaumont">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>, which was  
-in <placeName key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
-full of jovial wit, says.</p>
+<p>Or as a poet has written them : </p>
 
-<cit><quote><lg>
-<lg xml:id="verse1"><l>The sun, which doth the greatest comfort bring. </l>
-<l>To absent friends, because the self-same thing </l>
-<l>They know they see, however absent, is </l>
-<l>Here our best haymaker : forgive me this : </l>
-<l>It is our country style : — in this warm shine </l>
-<l>I lie, and dream of your full <placeName type="Pub" key="the Mermaid" corresp="England">Mermaid</placeName> wine. </l>
-</lg>
-<l>* * * * * *</l>  
-<lg xml:id="verse2"><l>Methinks the little wit I had, is lost, </l>
-<l>Since I saw you; for wit is like a rest </l>
-<l>Held up at tennis, which men do the best </l>
-<l>With the best gamesters. What things have we seen </l>
-<l>Done at <placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>. Hard words that have been </l>
-<l>So nimble, and so full of subtle flame. </l>
-<l>As if that every one from whom they came </l>
-<l>Had meant to put his whole wit in a jest. </l>
-<l>And had resolved to live a fool the rest </l>
-<l>Of his dull life. Then, when there hath been thrown </l>
-<l>Wit, able enough to justify the town </l>
-<l>For three days past, — wit, that might warrant be </l>
-<l>For the whole city to talk foolishly </l>
-<l>Till that were cancelled, and when that was gone. </l> 
-<l>We left an air behind us, which alone </l>
-<l>Was able to make the two next companies </l>
-<l>Right witty, — though but downright fools, more wise. </l>
-</lg>
-</lg>
-</quote>
-<note type="source"><bibl><title level="a">The Mermaid</title><author>Francis Beaumont</author></bibl></note>
+<cit>
+    <quote>
+<lg><l>Juro tibi sanctae per mystica sacra Dianae, </l>
+<l>Me tibi venturam comitem, sponsamque futuram. </l></lg>
+    </quote>
+    <note type="source"> 
+        <bibl><author>Thomas Burton</author><title level="a">Love-Melancholy and Religious Melancholy</title><ref target="https://www.exclassics.com/anatomy/anatomy3.txt"/></bibl>
+    </note>
 </cit>
+<lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName key="Diana">Dian</persName>, I will be </l>
+<l>Thy bride betrothed, and bear thee company. </l></lg>
 
-<p>The other celebrated report of the great wits of that time, was <placeName key="The Devil Tavern, Fleet-Street" corresp="England"><placeName type="Pub" key="the Devil Tavern" corresp="England">the  
-Devil Tavern</placeName>, in <placeName key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>, close to <placeName type="Pub" key="Temple-Bar" corresp="England">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
-lived also in <placeName key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
-is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> into <placeName key="St. Batholomew's" corresp="England">St.  
-Bartholomew's</placeName>, <persName key="Aubrey">Aubrey</persName> gives it as a common opinion, that at the time  
-when <persName key="Ben Jonson">Jonson</persName>'s father-in-law made him help him in his business of  
-bricklayer, he worked with his own hands upon the <placeName key="Lincoln's Inn" corresp="England">Lincoln's Inn</placeName>  
-garden wall, which looks upon <placeName key="Chancery-lane" corresp="England">Chancery-lane</placeName>, and which seems old  
-enough to have some of his illustrious brick and mortar still remaining.</p>
-
-<p>Under the cloisters in <placeName type="building" key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> (which stand in the heart  
-of the city unknown to most persons, like a house kept invisible for  
-young and learned eyes) lie buried a multitude of peisons of all  
-ranks; for it was once a monastery of Grey Friars. Among them is  
-<persName key="John of Bourbon">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName key="Agincourt" corresp="France">Agincourt</placeName>.</p>
-
-<pb n="22"/>
-
-<p>Here also lies <persName key="Thomas Burdet">Thomas Burdet</persName>, ancestor of the present <persName key="Sir Francis">Sir  
-Francis</persName>, who was put to death in the reign of <persName key="King Edward IV">Edward the Fourth</persName>,  
-for wishing the horns of a favourite white stag which the king had  
-killed, in the body of the person who advised him to do it. And  
-here too (a sufficing contrast) lies <persName key="Isabella of France">Isabella</persName>, wife of <persName key="Kind Edward II">Edward the Second</persName>,</p>
-
-<lg><l><persName key="Isabella of France">She, wolf of <placeName key="France" corresp="France">France</placeName></persName>, with unrelenting fangs. </l>
-<l>Who tore the bowels of lier mangled mate. — <persName key="Gray">Gray</persName>. </l></lg>
-
-<p>Her <q type="distinct">mate's</q> heart was buried with lier, and placed upon her  
-bosom ! a thing that looks like the fantastic incoherence of a dream.  
-It is well we did not know of her presence when at school; or after  
-reading one of <persName key="William Shakspeare">Shakspeare</persName>'s tragedies, we should have run twice as  
-fast round the cloisters at night time, as we used. <persName key="William Camden">Camden</persName>, <q type="soCalled">the  
-nourrice of antiquitie,</q> received part of his education in this school;  
-and here also, not to mention a variety of others known in the  
-literary world, were bred two of the most powerful and deep-spirited  
-writers of the present day; whose visits to the cloisters we well  
-remember.</p>
-
-<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName key="Hatton Garden" corresp="England">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
-<placeName key="Brook House" corresp="England">Brook House</placeName>, at the corner of the street of that name in <placeName key="Holborn" corresp="England">Holborn</placeName>,  
-was the residence of the celebrated Sir <persName key="Fulke Greville">Fulke Greville</persName>, <persName key="Lord Brook">Lord Brook</persName>,  
-the <q type="soCalled">friend of <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
-voluntary death, of poison, that extraordinary person <persName key="Thomas Chatterton">Thomas  
-Chatterton</persName>, — </p>
+<p><persName key="Cydippe">Cydippe</persName> read, and married herself. — It is said that she was repeatedly  
+on the eve of being married to another person; but her imagination  
+in the shape of the Goddess as often threw her into a fever;  
+and the lover, whose ardour and ingenuity had made an impression  
+upon her, was made happy. <persName key="Aristaenetus">Aristaenetus</persName> in his Epistles calls the  
+apple <hi xml:lang="anc-Greek">Κνδωνιον μήλον</hi> a Cretan apple, which is supposed to mean a quince : or as others think, an orange, or a citron. But the apple was, is,  
+and must be, a true, unsophisticated apple. Nothing else would  
+have suited. <q type="written">The apples, methought,"</q> says <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>, of  
+his heroine in the Arcadia, <q type="written">fell down from the trees, to do homage   
+to the apples of her breast.</q><note type="source"><bibl><author>Sir Philip Sidney</author><title level="m">The Countess of Pembroke's Arcadia</title></bibl></note> The idea seems to have originated with  
+<persName key="Theocritus">Theocritus</persName>, <note type="hunt">(Idyl. 27- v. 50. Edit. <persName key="Lodewijk Caspar Valckenaer">Valckenaer</persName>.)</note> from whom it was  
+copied by the Italian writers. It makes a lovely figure in one of the  
+most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, where he describes the beauty of  
+<persName key="Alcina">Alcina</persName> <note type="hunt">(<title level="m">Orlando Furioso</title>, Canto 7- st. 14.)</note> : — </p>
 
 <cit><quote>
-<lg rend="center">
-<l>The sleepless boy, who perished in his pride.</l> </lg>
-</quote></cit> <note type="source"><bibl><author>William Wordsworth</author><title level="a">Resolution and Independence</title><ref target="https://www.poetryfoundation.org/poems/45545/resolution-and-independence" /></bibl></note>
-<p rend="center"><persName type="real" key="William Wordsworth">Wordsworth</persName>.</p>
-
-
-<p>He was buried in the workhouse in <placeName key="Shoe Lane" corresp="England">Shoe Lane</placeName>; — a circumstance, at  
-which one can hardly help feeling a movement of indignation. Yet  
-what could beadles and parish officers know about such a being?  
-No more than <persName key="Horace Walpole">Horace Walpole</persName>. In <placeName type="commerce" key="Gray's Inn" corresp="England">Gray's Inn</placeName> lived, and in <placeName type="building" key="Gray's Inn">Gray's  
-Inn</placeName> garden meditated. <persName key="Francis Bacon">Lord Bacon</persName>. In <placeName key="Southampton Row, Holborn" corresp="England"><placeName key="Southampton Row" corresp="England">Southampton Row</placeName>, <placeName key="Holborn" corresp="England">Holborn</placeName></placeName>,  
-<persName key="Cowper">Cowper</persName> was a fellow-clerk to an attorney with the future <persName key="Lord Chancellor Thurlow">Lord  
-Chancellor Thurlow</persName>. At the <placeName key="Fleet-street" corresp="England">Fleet Street</placeName> corner of <placeName key="Chancery Lane" corresp="England">Chancery Lane</placeName>,  
-<persName key="Cowley">Cowley</persName>, we believe, was born. In <placeName key="Salisbury Court, Fleet-street" corresp="England"><placeName key="Salisbury Court" corresp="England">Salisbury Court</placeName>, <placeName key="Fleet-street" corresp="England">Fleet Street</placeName></placeName>, was  
-the house of <persName key="Thomas Sackville">Thomas Sackville</persName>, first Earl of Dorset, the precursor  
-of <persName key="Edmund Spenser">Spenser</persName>, and one of the authors of the first regular English  
-tragedy. On the demolition of this house, part of the ground was  
-occupied by the celebrated theatre built after the Restoration, at  
-which <persName key="Betterton">Betterton</persName> performed, and of which <persName key="Sir William Davenant">Sir William Davenant</persName> was  
-manager. Lastly, here was the house and printing-office of <persName key="Richardson">Richardson</persName>.  
-In <placeName key="Bolt-court" corresp="England">Bolt-court</placeName>, not far distant, lived <persName key="Samuel Johnson">Dr. Johnson</persName>, who resided  
-also for some time in the <placeName key="Temple" corresp="England">Temple</placeName>. A list of his numerous other  
-residences is to be found in <placeName key="Boswell" corresp="England">Boswell</placeName>.<note type="hunt" place="foot">The <placeName key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> Congreve died in <placeName key="Surrey-street, the Strand" corresp="England"><placeName key="Surrey-street" corresp="England">Surrey-street</placeName>, 
-in <placeName key="the Strand" corresp="England">the Strand</placeName></placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England">Beaufort-buildings</placeName>,  
-was <placeName type="commerce" key="Lilly's" corresp="England">Lilly's</placeName>, the perfumer, at whose house <title level="j">the Tatler</title> was published.  
-In <placeName key="Maiden-Land, Covent-garden" corresp="England"><placeName key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName key="Covent-garden" corresp="England">Covent-garden</placeName></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
-<placeName key="London" corresp="England">London</placeName>, at the sign, of the <placeName type="building" key="White Peruke" corresp="England">White Peruke</placeName>. <placeName key="Tavistock-street" corresp="England">Tavistock-street</placeName> was
-<pb n="23"/>
-then, we believe, the <placeName key="Bond-street" corresp="England">Bond-street</placeName> of the fashionable world; as <placeName key="Bow-street" corresp="England">Bow-  
-street</placeName> was before. The change of <placeName key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
-with the theatre still in attendance, reminds one of the spirit of the  
-Beggar's Opera. <placeName type="commerce" key="Button's Coffee-house" corresp="England">Button's Coffee-house</placeName>, the resort of the wits of <persName key="Queen Anne">Queen  
-Anne</persName>'s time, was in <placeName key="Russell-street" corresp="England">Russell-street</placeName>,— we believe, near where the  
-<placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName> now stand. We think we recollect reading also, that in  
-the same street, at one of the corners of <placeName key="Bow-street" corresp="England">Bow-street</placeName>, was the tavern  
-where <persName key="John Dryden">Dryden</persName> held regal possession of the arm chair. The whole  
-of <placeName key="Covent-garden" corresp="England">Covent-garden</placeName> is classic ground, from its association with the  
-dramatic and other wits of the times of <persName key="John Dryden">Dryden</persName> and <persName key="Alexander Pope">Pope</persName>. <persName key="Butler">Butler</persName>  
-lived, perhaps died, in <placeName key="Rose-street" corresp="England">Rose-street</placeName>, and was buried in <placeName key="Covent-garden" corresp="England">Covent-garden</placeName>  
-Church-yard; where <persName key="Peter Pindar">Peter Pindar</persName> the other day followed him. In  
-<placeName key="Leicester-square" corresp="England">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Miss Linwood">Miss Linwood</persName>'s exhibition and other  
-houses, was the town mansion of the <persName role="family" key="The Sydneys, Earls of Leicester">Sydneys, Earls of Leicester</persName>,  
-the family of <persName key="Sir Philip Sidney">Sir Philip</persName> and <persName key="Sir Algernon Sydney">Algernon Sydney</persName>. In the same square  
-lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="John Dryden">Dryden</persName> lived and died in <placeName key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
-in a house which looked backwards into the garden of <placeName type="building" key="Leicester House" corresp="England">Leicester  
-House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName key="St. Martin's-street" corresp="England">St. Martin's-street</placeName>, on the south side of  
-the square. <persName key="Steele">Steele</persName> lived in <placeName key="Bury-street, St. James's" corresp="England"><placeName key="Bury-street" corresp="England">Bury-street</placeName>, <placeName key="St. James's" corresp="England">St. James's</placeName></placeName>: he furnishes an  
-illustrious precedent for the loungers in <placeName key="St. James's-street" corresp="England">St. James's-street</placeName>, where a  
-scandal-monger of those times delighted to detect <persName key="Isaac Bickerstaff">Isaac Bickerstaff</persName> in  
-the person of <persName key="Steele">Captain Steele</persName>, idling before the Coffee-houses, and  
-jerking his leg and stick alternately against the pavement. We  
-have mentioned the birth of <persName key="Ben Jonson">Ben Jonson</persName> near <placeName key="Charing-cross" corresp="England">Charing-cross</placeName>. <persName key="Edmund Spenser">Spenser</persName>  
-died at an inn, where he put up on his arrival from <placeName key="Ireland" corresp="Republic of Ireland">Ireland</placeName>, in  
-<placeName key="King-street, Westminster" corresp="England"><placeName key="King-street" corresp="England">King-street</placeName>, <placeName key="Westminster" corresp="England">Westminster</placeName></placeName>, — the same which runs at the back of  
-<placeName key="Parliament-street" corresp="England">Parliament-street</placeName> to <placeName key="Westminster Abbey" corresp="England">the Abbey</placeName>. <persName key="Sir Thomas More">Sir Thomas More</persName> lived at <placeName key="Chelsea" corresp="England">Chelsea</placeName>.  
-<persName key="Addison">Addison</persName> lived and died in <placeName type="building" key="Holland-House, Kensington" corresp="England"><placeName key="Holland-House" corresp="England">Holland-House</placeName>, <placeName key="Kensington" corresp="England">Kensington</placeName></placeName>, now the  
-residence of the accornplished nobleman who takes his title from it.  
-In <placeName key="Brook-street, Grosvenor-square" corresp="England"><placeName key="Brook-street" corresp="England">Brook-street</placeName>, <placeName key="Grosvenor-square" corresp="England">Grosvenor-square</placeName></placeName>, lived <persName key="Handel">Handel</persName>; and in <placeName key="Bentinck-street, Manchester-square" corresp="England"><placeName key="Bentinck-street" corresp="England">Bentinck-  
-street</placeName>, <placeName key="Manchester-square" corresp="England">Manchester-square</placeName></placeName>, <persName key="Gibbon">Gibbon</persName>. We have omitted to mention  
-that <persName key="Daniel DeFoe">De Foe</persName> kept a hosier's shop in <placeName key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><orig>scite</orig><reg>site</reg></choice>  
-of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="England"><placeName type="building" key="Southampton-buildings" corresp="England">Southampton-buildings</placeName>, <placeName key="Chancery-lane" corresp="England">Chancery-lane</placeName></placeName>, stood the  
-mansion of the <persName role="family" key="The Wriothesleys, Earls of Southampton">Wriothesleys, Earls of Southampton</persName>, one of whom  
-was the celebrated friend of <persName key="William Shakspeare">Shakspeare</persName>. But what have we not  
-omitted also? No less an illustrious head that <placeName key="the Boar's Head Tavern, East-cheap" corresp="England"><placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's</placeName>, in  
-<placeName key="East-cheap" corresp="England">East-cheap</placeName></placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
-believe the place is still marked out by a similar sign. But who  
-knows not <placeName key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head</placeName>? Have we not all been  
-there time out of mind? And is it not a more real as well as  
-notorious thing to us than <placeName type="Pub" key="the London Tavern" corresp="England">the London Tavern</placeName>, or <placeName type="Pub" key="the Crown" corresp="England">the Crown</placeName> and  
-<placeName type="Pub" key="Anchor" corresp="England">Anchor</placeName>, or the <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName>, or <placeName type="Pub" key="White's" corresp="England">White's</placeName>, or What's-his-name's, or any  
-other of your contemporary and fleeting taps? </p>
-
-<p>But a line or two, a single sentence in an author of former times,  
-will often give a value to the commonest object. It not only gives  
-us a sense of its duration, but we seem to be looking at it in company   
-with its old observer; and we are reminded at the same time of all that  
-was agreeable in him. We never saw, for instance, even the gilt ball  
-at the top of the <placeName type="building" key="College of Physicians" corresp="England">College of Physicians</placeName>, without thinking of that  
-
-<pb n="24"/>
-
-pleasant mention of it in <title level="m"><persName key="Sir Samuel Garth">Garth</persName>'s Dispensary</title>, and of all the wit and 
-generosity of that amiable man : —</p> 
-
-<cit>
-    <quote>
-<lg><l>Not far from that most celebrated place, <note> <placeName type="prison" key="The Old Bailey" corresp="England">The Old Bailey</placeName> </note> </l>
-<l>Where angry Justice shews her awful face; </l>
-<l>Where little villains must submit to fate </l>
-<l>That great ones may enjoy the world in state; </l>
-<l>There stands a dome, majestic to the sight. </l>
-<l>And sumptuous arches bear it's oval height; </l>
-<l>A golden globe, placed high with artful skill. </l>
-<l>Seems, to the distant sight, a gilded pill. </l></lg>
-</quote>    
-<note type="source"> 
-        <bibl><author>Sir Samuel Garth</author><title level="m">The Dispensary a poem</title><ref target="https://quod.lib.umich.edu/e/eebo/A42418.0001.001?rgn=main;view=fulltext"/></bibl>
+<lg xml:lang="it"> <l>Bianca neve e il bel collo, e'l petto latte: </l>
+<l>II collo e tondo, il petto colmo e largo : </l> 
+<l>Due pome acejbe, e pur d'avorio fatte, </l>
+<l>Vengono e van come onda al primo margo, </l>
+<l>Quando piacevole aura il mar combatte. </l></lg>
+</quote>
+    <note type="source"> 
+        <bibl><author>Ludovico Ariosto</author><title level="m">Orlando Furioso</title></bibl>
     </note>
 </cit>
 
-<p><persName key="John Gay">Gay</persName>, in describing the inconvenience of the late narrow part of  
-<placeName key="the Strand" corresp="England">the Strand</placeName>, by <placeName key="St. Clement's" corresp="England">St. Clement's</placeName>, took away a portion of it's unpleasantness  
-to the next generation, by associating his memory with the  
-objects in it. We did not miss without regret even the <q type="written">combs</q>  
-that hung <q type="written">dangling in your face</q> at a shop which be describes,  
-and which was standing till the improvements took place. The rest  
-of the picture is still alive. <note type="hunt">(Trivia, Book 3d.)</note> </p> 
+<lg xml:lang="en" type="hunt-translation"> <l>Her bosom is like milk, her neck like snow; </l>
+<l>A rounded neck; a bosom, where you see </l>
+<l>Two crisp young ivory apples come and go. </l>
+<l>Like waves, that on the coast beat tenderly, </l> 
+<l>When a sweet air is ruffling to and fro. </l></lg>
+
+<p>And after him, <persName key="Torquato Tasso">Tasso</persName>, in his fine ode on the Golden Age : — </p>
 
 <cit>
     <quote>
-<lg><l>Where the fair columns of <placeName key="St. Clement" corresp="England">St. Clement's</placeName> stand. </l> 
-<l>Whose straitened bounds encroach upon <placeName key="the Strand" corresp="England">the Strand</placeName>; </l>
-<l>Where the low pent-house bows the walker's head. </l>
-<l>And the rough pavement wounds the yielding tread; </l>
-<l>Where not a post protects the narrow space. </l>
-<l>And strung in twines, combs dangle in thy face; </l>
-<l>Summon at once thy courage, rouse thy care, </l>
-<l>Stand firm, look back, be resolute, beware. </l>
-<l>Forth issuing from steep lanes, the collier's steeds </l>
-<l>Drag the black load; another cart succeeds; </l>
-<l>Team follows team, crouds heaped on crouds appear, </l>
-<l>And wait impatient till the road grow clear. </l></lg>
-
-<p>There is a touch in the winter picture in the same poem, which  
-every body will recognize : — </p>
-
-<lg><l>At <placeName key="White's" corresp="England">White's</placeName> the harnessed chairman idly stands, </l>
-<l>And swings around his waist his tingling hands. </l></lg>
+<lg xml:lang="it"><l>Allor tra fiori e linfe  </l>
+<l>Tracan dolci carol e  </l>
+<l>Gli Amoretti senz'archi e senza faci :  </l>
+<l>Tracan tra fiori e linfe  </l>
+<l>Meschiando a le parole  </l>
+<l>Vezzi e susurri, ed ai susurri i baci  </l>
+<l>Strettamente tenaci.  </l>
+<l>La verginella ignude  </l>
+<l>Scopria sue fresche rose  </l>
+<l>Ch'or tien nel velo ascose,  </l>
+<l>E le pome del seno acerbe e crude: </l> 
+<l>E sperso o in fiume o in lago  </l>
+<l>Scherzar si vide con l'amata il vago. </l></lg>
     </quote>
     <note type="source"> 
-        <bibl><author>John Gay</author><title level="a">Trivia Book 3</title><ref target="https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3"/></bibl>
+        <bibl><author>Torquato Tasso</author><title level="m">Aminta</title></bibl>
     </note>
 </cit>
+<pb n="13"/>
 
-<p>The bewildered passenger in the <placeName key="Seven Dials" corresp="England">Seven Dials</placeName> is compared to <persName key="Theseus">Theseus</persName>  
-in the <placeName type="fictional" key="Cretan Labyrinth">Cretan Labyrinth</placeName>. And thus we come round to the point at  
-which we began.</p>
-
-<p>Before we rest our wings, however, we must take another drift  
-over the city, as far as <placeName key="Stratford at Bow" corresp="England">Stratford at Bow</placeName>, where, with all due tenderness  
-for boarding-school French, a joke of <persName key="Geoffrey Chaucer">Chaucer</persName>'s has existed as a  
-piece of local humour for nearly four hundred and fifty years. Speaking  
-of the <persName type="fictional" key="Prioress">Prioress</persName>, who makes such a delicate figure among his  
-Canterbury Pilgrims, he tells us, among her other accomplishments,  
-that </p>
-
-<cit>
-    <quote>
-<l>French she spake full faire and featously; </l>
-<p>adding with great gravity.</p>
-<lg><l>After the school of <placeName key="Stratford at Bow" corresp="England">Stratford atte Bowe</placeName>; </l> 
-<l>For French of <placeName key="Paris" corresp="France">Paris</placeName> was to her unknowe. </l></lg>
-    </quote>
-    <note type="source"> 
-        <bibl><author>Geoffrey Chaucer</author><title level="m">The Canterbury Tales</title><ref target="https://www.gutenberg.org/cache/epub/2383/pg2383-images.html#chap20"/></bibl>
-    </note>
-</cit>
-
+<lg xml:lang="en" type="hunt-translation"><l>Then among streams and flowers. </l>
+<l>The little Winged Povrers </l>
+<l>Went singing carols, without torch or bow; </l>
+<l>The nymphs and shepherds sat </l>
+<l>Mingling with innocent chat </l>
+<l>Sports and low whispers, and with whispers low </l>
+<l>Kisses that would not go. </l>
+<l>The maiden, budding oe'r. </l>
+<l>Kept not her bloom uneyed, </l>
+<l>Which now a veil must hide, </l>
+<l>Nor the crisp apples which her bosom bore: </l>
+<l>And oftentimes in river or in lake. </l>
+<l>The lover and his love their merry bath would take. </l></lg>
+<lg xml:lang="fr"><l>Honi soit qui mal y pense. </l></lg>
 </div2>
- <div2 type="correspondents"> <!-- Publisher and printer information -->
-                <p>[ Persons in the country who  wish to become subscribers, should therefore order it of booksellers who send weekly or monthly parcels to their respective places of residence. The delay would be of little consequence with a work not containing  
-                any thing of merely temporary interest.] </p> 
- </div2>
-<div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
- </div2>
+
+<div2 type="section" n="3">
+<head type="header"><placeName key="Venice" corresp="Italy">VENICE</placeName>.</head> 
+
+<p>This is the country of <persName key="Titian">Titian</persName>, of <persName key="Palladio">Palladio</persName>, of <persName key="Marcello">Marcello</persName>, who from  
+a nobleman became one of the finest musicians in <placeName key="Italy" corresp="Italy">Italy</placeName>; of <persName key="Pietro Bembo">Bembo</persName>,  
+one of the most liberal and accomplished of cardinals; of <persName key="Paul Sarpi">Paul Sarpi</persName>,  
+who kept his countrymen independent of the church of <placeName key="Rome" corresp="Italy">Rome</placeName>.</p>
+
+<p>The Venetians are like a lively family cut oflf from the rest of  
+<placeName key="Europe" corresp="Europe">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
+and coming at a distance of a league and a half upon a city standing in  
+the sea. This is <placeName key="Venice" corresp="Italy">Venice</placeName>. It is built upon seventy-two little islands,  
+the houses abutting directly upon the water, the finest of them with-  
+out even a landing place but the stairs; so that instead of streets  
+there are only canals of sea- water; and instead of coaches and carts,  
+gondolas and other boats. Perhaps the best idea the reader can  
+have of a Venetian street is to imagine a street like <placeName key="Portland-place" corresp="England">Portland-place</placeName>,  
+or rather a more winding one like the High-street at <placeName key="Oxford" corresp="England">Oxford</placeName>, mixed  
+with nobler as well as smaller houses, and the full sea running through  
+it, with abundance of boats of traffic and swift-darting gondolas.  
+The gondola is a sort of wherry, about five feet broad, and twenty-  
+five long, covered with black cloth, and having a cabin standing up  
+in the middle of it, like the body of a caravan. The cabin is covered with  
+black also, and has moveable windows with curtains A Venetian gentle-  
+keeps his gondola as an Englishman does his coach; only with much  
+greater cheapness. The full complement of a gondola is two rowers,  
+who stand to their oars, one at each end, and with their faces the  
+reverse way of our boatmen. They're very expert, and dart their  
+gondolas in and out among the intricacies of this watery bustle, like  
+fish. They are proverbial for their cheerfulness and honesty. They  
+used to be famous for singing passages out of <persName key="Torquato Tasso">Tasso</persName> and other Italian  
+poets; but political trouble has dashed the spirits even of the  
+Venetian gondolier, and he is now comparatively mute.*<note type="hunt" place="foot">It is curious and natural enough, that one of their most favourite passages  
+was the beginning of the seventh book of the Jerusalem Delivered, where <persName key="Erminia">Erminia</persName>  
+gets among the country-people. They sang to a kind of chant, sometimes  
+responding to each other; and the aflfect at night-time, when the sound came  
+.softened by distance over the water, was often delightful. <persName key="Rousseau">Rousseau</persName>, who was  
+once at <placeName key="Venice" corresp="Italy">Venice</placeName>, published the chant in notes. We do not remember whether it is  
+from him that <persName key="William Shield">Mr. Shield</persName> has copied it in the appendix to his <title level="m">Introduction to Har-  
+mony</title>; but it is there to be found. <persName key="Ludovico Ariosto">Ariosto</persName> used to be the great favourite with  
+the Venetians; but <persName key="Torquato Tasso">Tasso</persName>'s poem seems to have superseded even the <title level="a">Orlando</title> in  
+popularity. An Italian gentleman, when asked his opinion of this mystery,  
+thought it explained by the great mixture of Turkish affairs in the <placeName key="Jersualem" corresp="Isreal">Jerusalem</placeName>,  
+the Venetians having had a good deal to do with the Turks, both as enemies and  
+friends. </note> The guitar 
+<pb n="14"/>
+however is still heard in <placeName key="Venice" corresp="Italy">Venice</placeName>, especially of an evening; and the  
+visitor continually hears those delightful dancing airs which have  
+been collected and published in this country. The chief, or rather  
+the only place of assemblage for the inhabitants of <placeName key="Venice" corresp="Italy">Venice</placeName> out of  
+doors (for they have a fine opera and multitudes of opera-houses  
+within) is a large square, containing the principal church and the  
+government offices. Here all ranks are accustomed to meet of an  
+evening; and here something of amusement is generally going  
+forward all day, from the guitar-player to the punchinelio. There is  
+very little more standing-room throughout the city; and so little  
+vegetation, that they call a court by way of eminence the Court of  
+the Tree, and there is a church entitled our Lady of the Garden.  
+There is a monastery with one of these gardens, such as they are;  
+the <placeName type="landmark" key="Palace Zenobio" corresp="Italy">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> Baretti defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName key="Venice" corresp="Italy">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
+laces like withered nuts.</note> called <placeName key="Zanne" corresp="Italy">Zanne</placeName>, another.  
+We suppose they muster up some others in miniature; but there  
+is an island near <placeName key="Venice" corresp="Italy">Venice</placeName>, where the gentry have country-houses, and  
+contrive to be a little more horticultural.</p>
+
+<p>Next to it's watery streets, <placeName key="Venice" corresp="Italy">Venice</placeName> is remarkable for the number  
+of it's bridges and palaces. The latter are truly so called, and  
+comprise many of the master-pieces of <persName key="Palladio">Palladio</persName>. Every noble family  
+appears to have once occupied a palace, some of them many palaces.  
+They stand upon the principal canals, into which run smaller ones,  
+all of them having their bridges. These bridges however are in  
+general very small; nor is the famous one, called the <placeName type="landmark" key="Ponte di Rialto" corresp="Italy">Rialto</placeName>, so  
+remarkable as it's celebrity would imply, though it is built in a strik-  
+ing manner, of one arch. It has houses on it, like old <placeName type="landmark" key="London bridge" corresp="England">London bridge</placeName>,  
+though not after the same fashion. They cross it in a covered angle,  
+forming a double arcade. The artist who built it was called <persName key="Antonio">Antonio</persName>  
+of the Bridge. In the same spirit of poetical tendency, the bridge  
+leading to the city jail is called the <placeName type="landmark" key="Bridge of Sighs" corresp="Italy">Bridge of Sighs</placeName>; and one of the  
+principal canals, probably from the residence of some great musician,  
+is entitled <placeName type="physical" key="the River of Song" corresp="Italy">the River of Song</placeName>.</p>
+
+<p>The Venetians have always been famous for their enjoying temper,  
+and what the Italians call <persName key="Brio">Brio</persName>, — a certain sparkling of the animal  
+spirits. A quintessence of this quality would seem to have been almost  
+the only thing which made a late celebrated dramatist, <persName key="Goldoni">Goldoni</persName>,  
+be taken all over <placeName key="Europe" corresp="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
+in general is relieved from the frivolous by an evident capacity
+
+<pb n="15"/>
+for the serious. The wine in their blood has a body with it. There  
+is a tone and substance in their composition as different from the old  
+French levity, as <persName key="Titian">Titian</persName>'s pictures are from La Guerre. You still  
+meet with <persName key="Titian">Titian</persName>'s men and women at <placeName key="Venice" corresp="Italy">Venice</placeName>, — the same rich dark  
+complexions and fine figures; the same faces, earnest without sharp-  
+ness, quick without confusion, thoughtful without severity, volup-  
+tuous without grossness. The men are robust as well as agile : the  
+women have that sort of tone in their composition which made the  
+very courtezan of <placeName key="Venice" corresp="Italy">Venice</placeName> a Calypso to strangers, and enthroned the  
+more sentimental mistress at the top of her sex, at once to fascinate  
+and to rule.</p>
+
+<p>The leading men in the state, the counsellors at law, etc. take ad-  
+vantage of this solid part of the national character to affect a prodi-  
+gious air of gravity: and it was perhaps from a mixed spirit of re-  
+publican pride, and a sort of gusto of contrast to the pleasurability  
+of their temperament, that black colours became the national wear.  
+Not only the divines and lawyers wore black, but the statesmen wore  
+black, the ladies all wore black; and the gondolas, carrying guitars  
+and lovers in their bosoms, were clothed in the same external symbol  
+of solemnity. We believe it is the same to this day, if not so uni-  
+versally. There seems in this a kind of pleasant and avowed hypo-  
+crisy, which stands the lively and sincere Venetian instead of the  
+more hypocritical zests of other countries.</p>
+
+<p><placeName key="Venice" corresp="Italy">Venice</placeName> originated with fugitives from the <placeName key="Italian peninsula" corresp="Italy">Italian peninsula</placeName> during  
+the fierce time of <persName key="Attila">Attila</persName>, and subsisted afterwards as an independent  
+state for many centuries, unbesieged even but by the waves. It's  
+famous oligarchical form of government, under which it became  
+mistress of the sea, still divides the opinions of politicians. Some  
+think it must have been an intolerable tyranny; while others, among  
+whom is our republican countryman <persName key="Harrington">Harrington</persName>, have regarded it  
+as the true model of a popular state. The truth seems to be, that  
+the good climate and chearful temperament enjoyed by the Vene-  
+tians rendered them very easy subjects; and this easiness had it's  
+effect in turn upon their leaders, who with all their outward stateli-  
+ness were in reality like themselves. There was none of the physical  
+suffering, which naturally renders the people so impatient in harder  
+climates; and on the other hand, the rulers were generally wise and  
+kind, and not provoked into tyranny either by conscious injustice,  
+or extra-national ambition. The Venetians were too contented with  
+what was done and allowed, to quarrel for the last, sad privilege of  
+political talking; and provided a Venetian did not talk politics, he  
+might talk or do any thing he pleased. Thus they were like a happy  
+family living under a father of austere aspect and real goodnature.  
+But as their less happy neighbours out-grew them, this happy family  
+was to be disturbed; and it was so. <placeName key="Venice" corresp="Italy">Venice</placeName> in common with the  
+other northern states of <placeName key="Italy" corresp="Italy">Italy</placeName> became the property of the greatest  
+neighbour for the time being, — of the Court of <placeName key="Vienna" corresp="Austria">Vienna</placeName> first, then  
+of <placeName key="France" corresp="France">France</placeName>, and now of <placeName key="Vienna" corresp="Austria">Vienna</placeName> again. It's nobles are at length  
+ruined; it's palaces almost deserted; and the gay Venetian, now
+<pb n="16"/>
+a pensive animal to what he was, meditates on the approaching period  
+when his very city is to be forsaken by the sea; when <placeName key="Venice" corresp="Italy">Venice</placeName> itself,  
+eyeless, voiceless, and dead, is to stand like a gigantic skeleton on a  
+stagnant and deserted shore, whistling with the screams of sea-fowl,  
+and the disdainful rushing of the wind.</p>
+
+<p>This apprehension now appears to be a good deal entertained.  
+It was entertained also nearly forty years back, perhaps long before;  
+and was understood to be disproved at that time. According to the  
+systems, however, and calculations of modern philosophy, the sea-  
+coasts all over the globe are in a constant state either of an accression  
+or diminution of waters; and the imagination, in its gloomier mo-  
+ments, may still contemplate the desolation of <placeName key="Venice" corresp="Italy">Venice</placeName>, approaching  
+or far off.</p>
+
+<p>Still the Venetians compared with most other people are a hap-  
+py race. The blood runs quicker in their veins. They have more  
+music, more freshness and easiness of life, more cordiality of  
+intercourse. The good-natured philosopher still finds in <placeName key="Venice" corresp="Italy">Venice</placeName> the  
+greatest mixture of liveliness and sentiment : the restless man of  
+genius, impatient of the contradiction of his young hopes, still finds  
+there something to admire and to love. If the Venetians have been  
+thought to be of too amorous a disposition, they are acknowledged  
+to be temperate in every other respect, and to make excellent parents  
+and kinsfolk : and it is to be observed that in many of the cities of  
+<placeName key="Italy" corresp="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
+those matters, less severe than in some other countries; so that they  
+do not violate their consciences so much as might be supposed, and  
+the guUt is of necessity diminished with the sense of it. A late tra-  
+veller says, that the most striking thing after all, in <placeName key="Venice" corresp="Italy">Venice</placeName>, is the  
+extreme kindness and attentiveness of all ranks of people to one  
+another. A young man going by with a burden begs his <q type="soCalled">good  
+father</q> (any given old gentleman) to let him have way; and the good  
+father in as unaffected a tone is happy to make way for his <q type="soCalled">son.</q>  
+It may be answered, considering the Venetian character, that this is  
+but natural; and that the old gentleman does not, know whom he  
+may be talking to. But these, we conceive, are evidences which the  
+disputatious moralist would do better in letting alone.</p>
+</div2>
+                <div2 type="correspondents"> <!-- Publisher and printer information -->
+                <p>[ As this publication is unstamped, it will not circulate by means of the  
+                general post without a heavy expense. Persons in the country who  
+                wish to become subscribers, should therefore order it of booksellers who  
+                send weekly or monthly parcels to their respective places of residence.  
+                The delay would be of little consequence with a work not containing  
+                any thing of merely temporary interest. ] </p> 
+                </div2>
+<div2 type="colophon">
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
+                </div2>
             </div1>
         </body>
     </text>
