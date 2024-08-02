@@ -284,7 +284,7 @@ laughers in <persName key="William Shakespeare" cert="high" ref="http://www.wiki
 <l>With such a zealous laughter, so profound.  </l>
 <l>That in this spleen ridiculous, appears,  </l>
 <l>To check their laughter, passion's solemn tears.  </l>
-<l cert="high" generatedBy="human" part="Y" rend="right" xml:space="default"><bibl cert="high" default="true" generatedBy="human" xml:space="default"><title level="m">LOVE'S LABOUR LOST</title></bibl></l></lg></quote>
+<l rend="right"><bibl><title level="m">LOVE'S LABOUR LOST</title></bibl></l></lg></quote>
 <note type="source"> 
     <bibl><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title> </bibl>
 </note>
