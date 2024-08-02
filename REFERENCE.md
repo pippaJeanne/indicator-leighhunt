@@ -195,4 +195,17 @@ term : (term) contains a single-word, multi-word, or symbolic designation which 
 emph : (emphasized) marks words or phrases which are stressed or emphasized for linguistic or rhetorical effect.
 mentioned : marks words or phrases mentioned, not used
 ```
+### bibl elements
+
+To use in cases where Hunt indicates a reference.
+If it's a title or a bibliographical scope, it should be indicated with the corresponding tags.
+
+A <note> tag with the the attribute @type="source" should follow with the complete bibliographical reference.
+
+**Examples** : 
+```xml
+<bibl>Vol. I , Sestina 2.</bibl>
+
+<bibl><title level="m">LOVE'S LABOUR LOST</title></bibl>
+```
 
