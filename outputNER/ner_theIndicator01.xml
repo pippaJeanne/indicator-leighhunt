@@ -45,7 +45,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -253,7 +253,7 @@ once.</p>
 <p><persName key="Abaris">Abaris</persName>, a mysterious personage in the time of <persName key="Pythagoras">Pythagoras</persName>. He is said  
 to have received an arrow from <persName key="Apollo">Apollo</persName>, with which he rode through the  
 air, and which he afterwards gave to <persName key="Pythagoras">Pythagoras</persName> in return for the instruction  
-of that philosopher. His first appearance at <placeName key="Athens" corresp="Greece">Athens</placeName> was in consequence  
+of that philosopher. His first appearance at <placeName type="city" key="Athens" corresp="Greece">Athens</placeName> was in consequence  
 of a pestilence which then afflicted the world, and for the cessation  
 of which an oracle had enjoined the Athenians to pray in behalf of all the  
 other nations. <persName key="Abaris">Abaris</persName> came as the representative of the Hyperboreans.  
@@ -279,7 +279,7 @@ ghost.</p>
 <pb n="5"/>
 
 <p><persName key="Abradates">Abradates</persName> and <persName key="Panthea">Panthea</persName>, a singular example of conjugal affection on a  
-throne. <persName key="Abradates">Abradates</persName> was king of <placeName key="Susa" corresp="Iran">Susa in Persia<note type="editorial">Susa would now be in modern-day Iran</note></placeName> during the wars between  
+throne. <persName key="Abradates">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran">Susa in Persia<note type="editorial">Susa would now be in modern-day Iran</note></placeName> during the wars between  
 <persName key="Cyrus">Cyrus</persName> and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
 continence and respect, <persName key="Cyrus">Cyrus</persName> having denied himself even the temptation of  
@@ -296,7 +296,7 @@ ancient world, of chivalrous gallantry towards a woman.</p>
 <p><persName key="Uriel Acosta">Uriel Acosta</persName>, a Portuguese at the beginning of the 17th century,  
 presented the world with a strange instance of vacillation in religious faith.  
 He first turned Jew, converting at the same time his mother and brothers,  
-and fled with them to <placeName key="Amsterdam" corresp="The Netherlands">Amsterdam</placeName>, where they were received into a synagogue.  
+and fled with them to <placeName type="city" key="Amsterdam" corresp="The Netherlands">Amsterdam</placeName>, where they were received into a synagogue.  
 Becoming dissatisfied with some of the Jewish rites, and giving vent  
 to his objections, he was excommunicated by the Jews. He then wrote a  
 treatise against the immortality of the soul, for which he was seized and  
@@ -349,7 +349,7 @@ in ancient fable. <persName key="Acis">Acis</persName> was a mortal, because his
 his father was the wood-god <persName key="Faunus">Faunus</persName>. <persName key="Galatea">Galatea</persName>, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
-the delightful vales of <placeName key="Sicily" corresp="Italy">Sicily</placeName>; but unfortunately it had one drawback, 
+the delightful vales of <placeName type="region" key="Sicily" corresp="Italy">Sicily</placeName>; but unfortunately it had one drawback, 
 which was the jealous importunity of <persName key="Neptune">Neptune</persName>'s gigantic and one-eyed son,  
 the terrible <persName key="Polyphemus">Polyphemus</persName>. In vain the enamoured monster implored <persName key="Galatea">Galatea</persName>  
 to listen to him. In vain had love softened the natural ferocity of his  
@@ -501,7 +501,7 @@ took him out of it at last.</p>
 <cb n="2"/>
 <l>Fetch her eyesight out of fire;</l>
 <l>Like <persName key="Minerva">Minerva</persName>'s, sparkling blue;</l>
-<l>Moist, like <placeName key="Cytherea" corresp="Greece">Cytherea</placeName>'s too;</l>
+<l>Moist, like <placeName type="region" key="Kythira" corresp="Greece">Cytherea</placeName>'s too;</l>
 <l>Give her nose and cheeks a tint</l>
 <l>Like shallow milk with roses in't:</l>
 <l>Let her lip Persuasion's be.</l>
