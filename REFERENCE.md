@@ -166,7 +166,7 @@ Country
 Continent
 City : Includes cities and towns
 Street
-Region : for regions and islands
+Region : for regions and islands. These regions can be regions of a country or unspecified places within a city, for example.
 Physical : for natural features like mountains, lakes, forest etc.
 Pub : for pubs that one drinks at
 Theatre
