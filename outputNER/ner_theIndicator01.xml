@@ -60,7 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155035452",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-02T19:50:35.452Z",
-	"dcterms:modified": "2024-08-02T19:50:35.452Z",
+	"dcterms:modified": "2024-08-02T19:51:38.317Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -189,7 +189,7 @@ others to judge. There is one good thing however which the hunt after a
 title is sure to realize; — a good deal of despairing mirth. We were visiting  
 a friend the other night, who can do any thing for a book but give it a  
 title; and after many grave and ineffectual attempts to furnish one for the  
-present, the company, after the fashion of <persName key="François Rabelais" ref="http://www.wikidata.org/entity/Q131018">Rabelais</persName>, and with a chair-  
+present, the company, after the fashion of <persName key="François Rabelais" ref="http://www.wikidata.org/entity/Q131018" type="real">Rabelais</persName>, and with a chair-  
 shaking merriment which he might have joined in himself, fell to turning  
 a hopeless thing into a jest. It was like that exquisite picture of a set of  
 laughers in <persName key="William Shakspeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
