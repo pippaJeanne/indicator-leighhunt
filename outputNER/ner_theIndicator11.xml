@@ -85,9 +85,9 @@ grandeur, from standing in the remote shadows of antiquity. There was
 the famous son, for instance, of <persName key="Vulcan">Vulcan</persName> and <persName key="Medusa">Medusa</persName>, whom <persName key="Virgil">Virgil</persName> 
 calls the dire aspect of half-human <persName key="Cacus">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
 dira</hi>. <note type="hunt">(<title level="m">Æneid</title>, B. 8, v. 194.)</note> He was the Raw-head-and-bloody- 
-bones of ancient fable. He lived in a cave by <placeName key="Mount Aventine" corresp="Italy">Mount Aventine</placeName>, 
-breathing out fiery smoke, and haunting <placeName key="King's Highway" corresp="Jordan">king Evander's highway</placeName> 
-like the <placeName type="biblical" key="Apollyon">Apollyon</placeName> of <title level="m">Pilgrim's Progress</title>. </p>
+bones of ancient fable. He lived in a cave by <placeName type="Physical" key="Mount Aventine" corresp="Italy">Mount Aventine</placeName>, 
+breathing out fiery smoke, and haunting <placeName type="Road" key="King's Highway" corresp="Jordan">king Evander's highway</placeName> 
+like the <placeName type="fictional" key="Apollyon">Apollyon</placeName> of <title level="m">Pilgrim's Progress</title>. </p>
 
 <cit><quote><lg xml:lang="latin" xml:id="aeneid" rend="center">
 <l>Semperque recenti </l>
@@ -150,7 +150,7 @@ for it, <persName key="Sisyphus">Sisyphus</persName> would not return; and so wh
 he paid him for the trick, with setting him upon this everlasting job. </p>
 
 <p>The exploits of <persName key="Mercury">Mercury</persName> himself, the god of cunning, may be 
-easily imagined to surpass every thing <choice><sic>atchieved</sic><corr>achieved</corr></choice> by profaner hands. 
+easily imagined to surpass every thing <choice><corr>achieved</corr><sic>atchieved</sic></choice> by profaner hands. 
 <persName key="Homer">Homer</persName>, in <title level="a" key="Hymn to Mercury">the Hymn to his honour</title>, has given a delightful account 
 of his pre-maturity in swindling. He had not been born many hours 
 before he stole <persName key="Vulcan">Vulcan</persName>'s tools, <persName key="Mars">Mars</persName>'s sword, and <persName key="Jupiter">Jupiter</persName>'s sceptre. 
@@ -177,7 +177,7 @@ of the thieving architect in <persName key="Herodotus">Herodotus</persName> we w
 call to mind no other thieves in the Greek and Latin writers, (always 
 excepting political ones) except some paltry fellows who stole napkins 
 at dinner; and the robbers in <persName key="Apuleius">Apuleius</persName>, the precursors of those in 
-<title level="m">Gil Bias</title>. When we come however to the times of the Arabians and 
+<title level="m">Gil Blas</title>. When we come however to the times of the Arabians and 
 of chivalry, they abound in all their glory, both great and small. 
 Who among us does not know by heart the story of the never-to-be- 
 forgotten <title level="a" key="Ali Baba and the Forty Thieves">Forty Thieves</title>, with their treasure in the green wood, their 
@@ -186,8 +186,8 @@ their concealment in the jars, and the scalding oil, that, as it were,
 extinguished them groaning, one by one? Have we not all ridden 
 backwards and forwards with them to the wood a hundred times? 
 Watched them, with fear and trembling, from the tree? Sewn up, 
-blindfolded, the four quarters of the dead body. And said, "Open, 
-Sesame," to every door at school? May we ride with them again and 
+blindfolded, the four quarters of the dead body. And said, <q>Open, 
+Sesame,</q> to every door at school? May we ride with them again and 
 again; or we shall lose our appetite for some of the best things in 
 the world. </p>
 
@@ -198,7 +198,7 @@ did so, as they got on. We have also no particular worthy to select
 from among that host of petty chieftains, who availed themselves of 
 their knightly castles and privileges, to commit all sorts of 
 unchivalrous outrages. These are the giants of modern romance; and the 
-Veglios, Malengins, and Pinabellos, of <persName key="Luigi Pulci">Pulci</persName>, <persName key="Edmund Spenser">Spenser</persName>, and <persName key="Ariosto">Ariosto</persName>. 
+Veglios, Malengins, and Pinabellos, of <persName key="Luigi Pulci">Pulci</persName>, <persName key="Edmund Spenser">Spenser</persName>, and <persName key="Ludovico Ariosto">Ariosto</persName>. 
 They survived in the petty states of <placeName key="Italy" corresp="Italy">Italy</placeName> a long while; gradually 
 took a less solitary though hardly less ferocious shape among the 
 fierce political partisans recorded by <persName key="Dante">Dante</persName>; and at length became 
@@ -209,7 +209,7 @@ figure, between the gloomy and the gallant, in <persName key="Ann Radcliffe">Mrs
 but not, we believe, in any shape above common robbery. The 
 regular modern thief seems to make his appearance for the first time, 
 in the imaginary character of <persName key="Brunello">Brunello</persName>, as described by <persName key="Boiardo">Boiardo</persName> and 
-<persName key="Ariosto">Ariosto</persName>. He is a fellow that steals every valuable that comes in his 
+<persName key="Ludovico Ariosto">Ariosto</persName>. He is a fellow that steals every valuable that comes in his 
 
 <pb n="84"/>
 
@@ -223,7 +223,7 @@ donkey from under him, leaving <persName key="Sancho">the somniculous squire</pe
 on the saddle with four sticks. His consternation on waking may be 
 guessed. But in the Italian poets, the Circassian prince has only 
 fallen into a deep meditation, when <persName key="Brunello">Brunello</persName> draws away his steed. 
-<persName key="Ariosto">Ariosto</persName> appears to have thought this extravagance a hazardous one, 
+<persName key="Ludovico Ariosto">Ariosto</persName> appears to have thought this extravagance a hazardous one, 
 though he could not deny himself the pleasure of repeating it 5 for 
 he has made Sacripant blush, when called upon to testify how the 
 horse was stolen from him. <note type="hunt">(Orlando Furio. c. 27. st. 84.)</note> </p>
@@ -253,15 +253,15 @@ him where are all those brother doctors, whom he said he should
 bring with him. What does the fool mean? said the testy old 
 gentleman. Mean! rejoined the wife : — what does this mean? pointing 
 to the fish. The doctor looked down with his old eyes at the lamprey. 
-"God knows," said he, "what it means. I am sure I don't know 
+<q type="spoken">God knows,</q> said he, <q type="spoken">what it means. I am sure I don't know 
 what it means, more than any other fish; except that I shall have 
-to pay a pretty sum for every mouthful you eat of it." " Why it 
-was your own doing, husband," said the wife; "and you will 
+to pay a pretty sum for every mouthful you eat of it.</q> <q type="spoken">Why it 
+was your own doing, husband,</q> said the wife; <q type="spoken">and you will 
 remember it perhaps, when you recollect that the same man that 
 brought me the fish, was to take away the cup to have your name 
-engraved upon it." At this the doctor started back, with his eyes as 
-wide open as the fish's, exclaming, "And you gave it him, did you?" 
-"To be sure I did;" returned the good housewife. The old doctor 
+engraved upon it.</q> At this the doctor started back, with his eyes as 
+wide open as the fish's, exclaming, <q type="spoken">And you gave it him, did you?</q> 
+<q type="spoken">To be sure I did;</q> returned the good housewife. The old doctor 
 here began a passionate speech, which he suddenly broke off; and 
 
 <pb n="85"/>
@@ -275,17 +275,17 @@ that he who brought the lamprey had been well disguised, they began
 to ask one another, in the jollity of their triumph, what need there 
 was for losing a good lamprey, because they had gained a cup. The 
 other therefore went to the doctor's house, and putting on a face of 
-good news, told the wife that the cup was found. "Master doctor," 
-said he, "bade me come and tell you that it was but a joke of your 
-old friend What's-his-name." "<persName key="Castellani">Castellani</persName>, I warrant me," said the 
-wife, with a face broad with delight. "The same," returned he:— 
-"master doctor says that <persName key="Castellani">Signor Castellani</persName>, and the other gentlemen 
+good news, told the wife that the cup was found. <q type="spoken">Master doctor,</q> 
+said he, <q type="spoken">bade me come and tell you that it was but a joke of your 
+old friend What's-his-name.</q> <q type="spoken"><persName key="Castellani">Castellani</persName>, I warrant me,</q> said the 
+wife, with a face broad with delight. <q type="spoken">The same,</q> returned he:— 
+<q type="spoken">master doctor says that <persName key="Castellani">Signor Castellani</persName>, and the other gentlemen 
 he spoke of, are waiting for you at <persName key="Castellani">the Signor</persName>'s house, 
 where they purpose to laugh away the choler they so merrily raised 
 with a good dinner and wine; and to that end they have sent me 
-for the lamprey." "Take it in God's name," said the good woman; 
-"I am heartily glad to see it go out of the house, and shall follow it 
-myself speedily." So saying, she gave him the fine hot fish, with some 
+for the lamprey.</q> <q type="spoken">Take it in God's name,</q> said the good woman; 
+<q type="spoken">I am heartily glad to see it go out of the house, and shall follow it 
+myself speedily.</q> So saying, she gave him the fine hot fish, with some 
 sauce, between two dishes; and the knave, who felt already round the 
 corner with glee, slid it under his cloak, and made the best of his 
 way to his companion, who lifted up his hands and eyes at sight of 
@@ -294,19 +294,19 @@ his thigh, and snapped his fingers for joy, to think what a pair
 of fools two rogues had to do with. Little did the poor despairing 
 doctor, on his return home, guess what they were saying of him as 
 he passed the wall of the house in which they were feasting. Heyday! 
-cried the wife, smiling all abroad, as she saw him entering, "What, 
+cried the wife, smiling all abroad, as she saw him entering, <q type="spoken">What, 
 are thou come to fetch me then, bone of my bone? Well; if this isn't 
 the gallantest day I have seen many a year! It puts me in mind — 
-it puts me in mind — Here the chirping old lady was about to 
+it puts me in mind</q> — Here the chirping old lady was about to 
 remind the doctor of the days of his youth, holding out her arms and 
 raising her quivering voice, when (we shudder to relate) she received 
-a considerable cuff on the left cheek. "You make me mad," cried 
-the doctor," with your eternal idiotical nonsense. What do you 
+a considerable cuff on the left cheek. <q type="spoken">You make me mad,</q> cried 
+the doctor, <q type="spoken">with your eternal idiotical nonsense. What do you 
 mean by coming to fetch you, and the gallantest day of your life? 
 May the devil fetch you, and me, and that invisible fiend that stole 
-the cup." "What!" exclaimed the wife, suddenly changing her 
+the cup.</q> <q type="spoken">What!</q> exclaimed the wife, suddenly changing her 
 tone from a vociferous complaint which she had unthinkingly set up, 
-"did you send nobody then for the lamprey?" Here the doctor 
+<q type="spoken">did you send nobody then for the lamprey?</q> Here the doctor 
 cast his eyes upon the bereaved table; and unable to bear the shame 
 of this additional loss, however trivial, began tearing his hair and 
 beard, and hopping about the room, giving his wife a new and scandalous 
@@ -330,21 +330,21 @@ without any necessity of going forward. </note> Our author is <persName key="Mas
 novelist who disputes with <persName key="Bandello">Bandello</persName> the rank next in popularity to 
 <persName key="Boccaccio">Boccaccio</persName>. We have not the original by us; and must be obliged to 
 an English work for the ground-work of our story, as we have 
-been to <persName key="William Painter"><choice><corr>Paynter</corr><sic>Painter</sic></choice></persName>'s <title level="m">Palace of Pleasure</title> for the one just related. But 
+been to <persName key="William Painter"><choice><corr>Painter</corr><sic>Paynter</sic></choice></persName>'s <title level="m">Palace of Pleasure</title> for the one just related. But 
 we take the liberty usual with the repeaters of these stories. We 
 retain the incidents, but tell them in our own way, and imagine 
 what might happen in the intervals. </p>
 
 <p>Two Neapolitan sharpers, having robbed a Genoese merchant of 
-his purse, make the best of their way to <placeName key="Siena" corresp="Italy"><choice><corr>Sienna</corr><sic>Siena</sic></choice></placeName>, where they arrive 
+his purse, make the best of their way to <placeName key="Siena" corresp="Italy"><choice><corr>Siena</corr><sic>Sienna</sic></choice></placeName>, where they arrive 
 during the preaching of <persName key="St. Bernardin">St. Bernardin</persName>. One of them attends a sermon 
 with an air of conspicuous modesty and devotion, and afterwards 
-waits upon the preacher, and addresses him thus: "Reverend father, 
+waits upon the preacher, and addresses him thus: <q type="spoken">Reverend father, 
 you see before you a man, poor indeed, but honest. I do not mean 
 to boast, God knows, I have no reason. Who upon earth has reason 
 unless it be one who will be the last to boast, like yourself, holy 
-father?" Here the saintly orator shook his head, "I do not mean," 
-resumed the stranger, "to speak even of the reverend and illustrious 
+father?</q> Here the saintly orator shook his head, <q type="spoken">I do not mean,</q> 
+resumed the stranger, <q type="spoken">to speak even of the reverend and illustrious 
 <persName key="St. Bernardin">Bernardin</persName>, but as a man among men. For my part, I am, as it 
 were, a creeping thing among them; and yet I am honest. If I 
 have any virtue, it is that. I crawl right onward in my path, looking 
@@ -374,7 +374,7 @@ was found on the road from <placeName key="Milan" corresp="Italy">Milan</placeNa
 
 upon a sunny bank, open to the view of all, under an olive tree, not 
 far from a little fountain, the pleasant noise of which peradventure 
-had invited the owner to sleep." <persName key="St. Bernardin">The good father</persName>, at hearing this 
+had invited the owner to sleep.</q> <persName key="St. Bernardin">The good father</persName>, at hearing this 
 detail, smiled at the anxious sincerity of the poor pilgrim, and giving 
 him the required absolution, promised to do his utmost to bring 
 forth the proprietor. In his next sermon, he accordingly dwelt with 
@@ -405,11 +405,11 @@ out of the church. The other man's circumstances were then
 enquired into, and as he was found to have almost as many children 
 as the purse-owner, and no possessions at all, as he said, but his 
 honesty, — all his children being equally poor and pious, — a considerable 
-subscription "was raised for him; so large indeed, that on the 
+subscription was raised for him; so large indeed, that on the 
 appearance of a new claimant next day, the pockets of the good 
 people were found empty. This was no other than the Genoese merchant, 
 who having turned back on his road, when he missed his 
-purse, did not stop till he came to <placeName key="Siena" corresp="Italy"><choice><corr>Sienna</corr><sic>Siena</sic></choice></placeName>, and heard the news of the 
+purse, did not stop till he came to <placeName key="Siena" corresp="Italy"><choice><corr>Siena</corr><sic>Sienna</sic></choice></placeName>, and heard the news of the 
 day before. Imagine the feelings of the deceived people. <persName key="St. Bernardin">Saint 
 Bernardin</persName> was convinced that the two cheats were devils in disguise. 
 The resident canon had thought pretty nearly as much all along, but 
@@ -433,8 +433,8 @@ respecting half miles, and quarter miles, and abominable additional
 sixpences. The good housewife was lingering at the door, and 
 exclaiming against one of these monstrous charioteers, whose hoarse 
 low voice was heard at intervals, full of lying protestations and bad 
-weather, when the husband called out from a back-room, "Never 
-mind there, never mind : — let her be cheated : let her be cheated." </p>
+weather, when the husband called out from a back-room, <q type="spoken">Never 
+mind there, never mind : — let her be cheated : let her be cheated.</q> </p>
 
 <p>This is a digression; but it is as well to introduce it, in order 
 to take away a certain bitterness out of the mouth of the other's 
@@ -479,8 +479,8 @@ Platonical; a meeting of divineness with humanity. </p>
 
 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
