@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="England">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="England">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -86,7 +86,7 @@ almost unaware that the weather is fine, when it really becomes so:
 but for the same reason, we make as much of our winter as the  
 anti-social habits that have grown upon us from other causes will allow.  
 And for a similar reason, the southern European is unprepared for a  
-cold day. The houses in <placeName key="Italy" corresp="Italy">Italy</placeName> are almost all summer-houses, letting  
+cold day. The houses in <placeName type="country" key="Italy" corresp="Italy">Italy</placeName> are almost all summer-houses, letting  
 in the air on every side; so that when a fit of cold weather comes  
 on the dismayed inhabitant, walking and shivering about with a  
 
@@ -130,8 +130,8 @@ reach and inspection. For the same reason, we like a sniall study,
 where we are almost in contact with our books. We like to feel  
 them about us, — to be in the arms of our mistress Philosophy, rather   
 than see her at a distance. To have a huge apartment for a study  
-is like lying in the great bed at <placeName key="Ware" corresp="England">Ware</placeName>, or being snug on a milestone  
-upon <placeName key="Hounslow Heath" corresp="England">Hounslow Heath</placeName>. It is space and physical activity, not  
+is like lying in the great bed at <placeName type="city" key="Ware" corresp="England">Ware</placeName>, or being snug on a milestone  
+upon <placeName type="region" key="Hounslow Heath" corresp="England">Hounslow Heath</placeName>. It is space and physical activity, not  
 repose and concentration. It is fit only for grandeur and ostentation,  
 — for those who have secretaries, and are to be approached like gods  
 in a temple. <persName key="The archbishop of Toledo">The archbishop of Toledo</persName>, no doubt, wrote his homilies  
@@ -204,7 +204,7 @@ study in <persName key="Fletcher">Fletcher</persName>'s play of the <bibl><title
 <div2 type="section" n="2">
 <head type="header" rend="center">ACONTIUS AND CYDIPPE,</head>
 <head type="subheader" rend="center">A LOVE STORY IN THE ANTIENT WRITERS.</head>
-<p><persName key="Acontius">Acontius</persName> was a youth of the island <placeName key="Cea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
+<p><persName key="Acontius">Acontius</persName> was a youth of the island <placeName type="region" key="Kea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
 sacrifices in honour of <persName key="Diana">Diana</persName> fell in love with this beautiful virgin,  
 <persName key="Cydippe">Cydippe</persName>; but she was unfortunately so much above him in rank,  
 that he had no hope of obtaining her hand in the usual way The  
@@ -212,7 +212,7 @@ that he had no hope of obtaining her hand in the usual way The
 <pb n="12"/>
 
 wit of a lover accordingly helped him to an expedient. There was  
-a law in <placeName key="Cea" corresp="Greece">Cea</placeName>, that any oath pronounced in the temple of <persName key="Diana">Diana</persName> was  
+a law in <placeName type="region" key="Kea" corresp="Greece">Cea</placeName>, that any oath pronounced in the temple of <persName key="Diana">Diana</persName> was  
 irrevocably binding. Acontius got an apple, and writing some words  
 upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
 <p>The words were these; — </p>
@@ -308,23 +308,23 @@ most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, whe
 </div2>
 
 <div2 type="section" n="3">
-<head type="header"><placeName key="Venice" corresp="Italy">VENICE</placeName>.</head> 
+<head type="header"><placeName type="city" key="Venice" corresp="Italy">VENICE</placeName>.</head> 
 
 <p>This is the country of <persName key="Titian">Titian</persName>, of <persName key="Palladio">Palladio</persName>, of <persName key="Marcello">Marcello</persName>, who from  
-a nobleman became one of the finest musicians in <placeName key="Italy" corresp="Italy">Italy</placeName>; of <persName key="Pietro Bembo">Bembo</persName>,  
+a nobleman became one of the finest musicians in <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>; of <persName key="Pietro Bembo">Bembo</persName>,  
 one of the most liberal and accomplished of cardinals; of <persName key="Paul Sarpi">Paul Sarpi</persName>,  
-who kept his countrymen independent of the church of <placeName key="Rome" corresp="Italy">Rome</placeName>.</p>
+who kept his countrymen independent of the church of <placeName type="city" key="Rome" corresp="Italy">Rome</placeName>.</p>
 
 <p>The Venetians are like a lively family cut oflf from the rest of  
-<placeName key="Europe" corresp="Europe">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
+<placeName type="continent" key="Europe" corresp="Europe">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
 and coming at a distance of a league and a half upon a city standing in  
-the sea. This is <placeName key="Venice" corresp="Italy">Venice</placeName>. It is built upon seventy-two little islands,  
+the sea. This is <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>. It is built upon seventy-two little islands,  
 the houses abutting directly upon the water, the finest of them with-  
 out even a landing place but the stairs; so that instead of streets  
 there are only canals of sea- water; and instead of coaches and carts,  
 gondolas and other boats. Perhaps the best idea the reader can  
-have of a Venetian street is to imagine a street like <placeName key="Portland-place" corresp="England">Portland-place</placeName>,  
-or rather a more winding one like the High-street at <placeName key="Oxford" corresp="England">Oxford</placeName>, mixed  
+have of a Venetian street is to imagine a street like <placeName type="street" key="Portland-place" corresp="England">Portland-place</placeName>,  
+or rather a more winding one like the High-street at <placeName type="city" key="Oxford" corresp="England">Oxford</placeName>, mixed  
 with nobler as well as smaller houses, and the full sea running through  
 it, with abundance of boats of traffic and swift-darting gondolas.  
 The gondola is a sort of wherry, about five feet broad, and twenty-  
@@ -344,19 +344,19 @@ was the beginning of the seventh book of the Jerusalem Delivered, where <persNam
 gets among the country-people. They sang to a kind of chant, sometimes  
 responding to each other; and the aflfect at night-time, when the sound came  
 .softened by distance over the water, was often delightful. <persName key="Rousseau">Rousseau</persName>, who was  
-once at <placeName key="Venice" corresp="Italy">Venice</placeName>, published the chant in notes. We do not remember whether it is  
+once at <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, published the chant in notes. We do not remember whether it is  
 from him that <persName key="William Shield">Mr. Shield</persName> has copied it in the appendix to his <title level="m">Introduction to Har-  
 mony</title>; but it is there to be found. <persName key="Ludovico Ariosto">Ariosto</persName> used to be the great favourite with  
 the Venetians; but <persName key="Torquato Tasso">Tasso</persName>'s poem seems to have superseded even the <title level="a">Orlando</title> in  
 popularity. An Italian gentleman, when asked his opinion of this mystery,  
-thought it explained by the great mixture of Turkish affairs in the <placeName key="Jersualem" corresp="Isreal">Jerusalem</placeName>,  
+thought it explained by the great mixture of Turkish affairs in the <placeName type="city" key="Jersualem" corresp="Isreal">Jerusalem</placeName>,  
 the Venetians having had a good deal to do with the Turks, both as enemies and  
 friends. </note> The guitar 
 <pb n="14"/>
-however is still heard in <placeName key="Venice" corresp="Italy">Venice</placeName>, especially of an evening; and the  
+however is still heard in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, especially of an evening; and the  
 visitor continually hears those delightful dancing airs which have  
 been collected and published in this country. The chief, or rather  
-the only place of assemblage for the inhabitants of <placeName key="Venice" corresp="Italy">Venice</placeName> out of  
+the only place of assemblage for the inhabitants of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> out of  
 doors (for they have a fine opera and multitudes of opera-houses  
 within) is a large square, containing the principal church and the  
 government offices. Here all ranks are accustomed to meet of an  
@@ -367,12 +367,12 @@ vegetation, that they call a court by way of eminence the Court of
 the Tree, and there is a church entitled our Lady of the Garden.  
 There is a monastery with one of these gardens, such as they are;  
 the <placeName type="landmark" key="Palace Zenobio" corresp="Italy">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> Baretti defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName key="Venice" corresp="Italy">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
-laces like withered nuts.</note> called <placeName key="Zanne" corresp="Italy">Zanne</placeName>, another.  
+laces like withered nuts.</note> called <placeName type="city" key="Zanne" corresp="Italy">Zanne</placeName>, another.  
 We suppose they muster up some others in miniature; but there  
-is an island near <placeName key="Venice" corresp="Italy">Venice</placeName>, where the gentry have country-houses, and  
+is an island near <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, where the gentry have country-houses, and  
 contrive to be a little more horticultural.</p>
 
-<p>Next to it's watery streets, <placeName key="Venice" corresp="Italy">Venice</placeName> is remarkable for the number  
+<p>Next to it's watery streets, <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> is remarkable for the number  
 of it's bridges and palaces. The latter are truly so called, and  
 comprise many of the master-pieces of <persName key="Palladio">Palladio</persName>. Every noble family  
 appears to have once occupied a palace, some of them many palaces.  
@@ -392,19 +392,19 @@ is entitled <placeName type="physical" key="the River of Song" corresp="Italy">t
 and what the Italians call <persName key="Brio">Brio</persName>, — a certain sparkling of the animal  
 spirits. A quintessence of this quality would seem to have been almost  
 the only thing which made a late celebrated dramatist, <persName key="Goldoni">Goldoni</persName>,  
-be taken all over <placeName key="Europe" corresp="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
+be taken all over <placeName type="continent" key="Europe" corresp="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
 in general is relieved from the frivolous by an evident capacity
 
 <pb n="15"/>
 for the serious. The wine in their blood has a body with it. There  
 is a tone and substance in their composition as different from the old  
 French levity, as <persName key="Titian">Titian</persName>'s pictures are from La Guerre. You still  
-meet with <persName key="Titian">Titian</persName>'s men and women at <placeName key="Venice" corresp="Italy">Venice</placeName>, — the same rich dark  
+meet with <persName key="Titian">Titian</persName>'s men and women at <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, — the same rich dark  
 complexions and fine figures; the same faces, earnest without sharp-  
 ness, quick without confusion, thoughtful without severity, volup-  
 tuous without grossness. The men are robust as well as agile : the  
 women have that sort of tone in their composition which made the  
-very courtezan of <placeName key="Venice" corresp="Italy">Venice</placeName> a Calypso to strangers, and enthroned the  
+very courtezan of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> a Calypso to strangers, and enthroned the  
 more sentimental mistress at the top of her sex, at once to fascinate  
 and to rule.</p>
 
@@ -421,7 +421,7 @@ versally. There seems in this a kind of pleasant and avowed hypo-
 crisy, which stands the lively and sincere Venetian instead of the  
 more hypocritical zests of other countries.</p>
 
-<p><placeName key="Venice" corresp="Italy">Venice</placeName> originated with fugitives from the <placeName key="Italian peninsula" corresp="Italy">Italian peninsula</placeName> during  
+<p><placeName type="city" key="Venice" corresp="Italy">Venice</placeName> originated with fugitives from the <placeName type="region" key="Italian peninsula" corresp="Italy">Italian peninsula</placeName> during  
 the fierce time of <persName key="Attila">Attila</persName>, and subsisted afterwards as an independent  
 state for many centuries, unbesieged even but by the waves. It's  
 famous oligarchical form of government, under which it became  
@@ -442,14 +442,14 @@ political talking; and provided a Venetian did not talk politics, he
 might talk or do any thing he pleased. Thus they were like a happy  
 family living under a father of austere aspect and real goodnature.  
 But as their less happy neighbours out-grew them, this happy family  
-was to be disturbed; and it was so. <placeName key="Venice" corresp="Italy">Venice</placeName> in common with the  
-other northern states of <placeName key="Italy" corresp="Italy">Italy</placeName> became the property of the greatest  
-neighbour for the time being, — of the Court of <placeName key="Vienna" corresp="Austria">Vienna</placeName> first, then  
-of <placeName key="France" corresp="France">France</placeName>, and now of <placeName key="Vienna" corresp="Austria">Vienna</placeName> again. It's nobles are at length  
+was to be disturbed; and it was so. <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> in common with the  
+other northern states of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName> became the property of the greatest  
+neighbour for the time being, — of the Court of <placeName type="city" key="Vienna" corresp="Austria">Vienna</placeName> first, then  
+of <placeName type="country" key="France" corresp="France">France</placeName>, and now of <placeName type="city" key="Vienna" corresp="Austria">Vienna</placeName> again. It's nobles are at length  
 ruined; it's palaces almost deserted; and the gay Venetian, now
 <pb n="16"/>
 a pensive animal to what he was, meditates on the approaching period  
-when his very city is to be forsaken by the sea; when <placeName key="Venice" corresp="Italy">Venice</placeName> itself,  
+when his very city is to be forsaken by the sea; when <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> itself,  
 eyeless, voiceless, and dead, is to stand like a gigantic skeleton on a  
 stagnant and deserted shore, whistling with the screams of sea-fowl,  
 and the disdainful rushing of the wind.</p>
@@ -460,24 +460,24 @@ and was understood to be disproved at that time. According to the
 systems, however, and calculations of modern philosophy, the sea-  
 coasts all over the globe are in a constant state either of an accression  
 or diminution of waters; and the imagination, in its gloomier mo-  
-ments, may still contemplate the desolation of <placeName key="Venice" corresp="Italy">Venice</placeName>, approaching  
+ments, may still contemplate the desolation of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, approaching  
 or far off.</p>
 
 <p>Still the Venetians compared with most other people are a hap-  
 py race. The blood runs quicker in their veins. They have more  
 music, more freshness and easiness of life, more cordiality of  
-intercourse. The good-natured philosopher still finds in <placeName key="Venice" corresp="Italy">Venice</placeName> the  
+intercourse. The good-natured philosopher still finds in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> the  
 greatest mixture of liveliness and sentiment : the restless man of  
 genius, impatient of the contradiction of his young hopes, still finds  
 there something to admire and to love. If the Venetians have been  
 thought to be of too amorous a disposition, they are acknowledged  
 to be temperate in every other respect, and to make excellent parents  
 and kinsfolk : and it is to be observed that in many of the cities of  
-<placeName key="Italy" corresp="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
+<placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
 those matters, less severe than in some other countries; so that they  
 do not violate their consciences so much as might be supposed, and  
 the guUt is of necessity diminished with the sense of it. A late tra-  
-veller says, that the most striking thing after all, in <placeName key="Venice" corresp="Italy">Venice</placeName>, is the  
+veller says, that the most striking thing after all, in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, is the  
 extreme kindness and attentiveness of all ranks of people to one  
 another. A young man going by with a burden begs his <q type="soCalled">good  
 father</q> (any given old gentleman) to let him have way; and the good  
