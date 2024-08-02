@@ -115,9 +115,9 @@ over-hospitable to all the suitors; the consequence of which was a son
 called <persName key="Pan">Pan</persName>, being no less a personage than the god <persName key="Pan">Pan</persName> himself, or 
 Nature; a fiction, as <persName key="Francis Bacon">Lord Bacon</persName> says, <q type="written">applied very absurdly and 
 indiscreetly.</q><note type="source"><bibl><author>Francis Bacon</author><title level="m">The Wisdom of the Ancients</title><ref target="https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"/></bibl></note> There are different stories respecting her lovers; but it is 
-reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName key="Troy" corresp="Turkey">Troy</placeName>, he divorced her for 
+reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey">Troy</placeName>, he divorced her for 
 incontinence; and that she fled, and passed her latter days in 
-<placeName key="Mantinea" corresp="Greece">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
+<placeName type="city" key="Mantinea" corresp="Greece">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
 attempted to destroy her when young, because the oracle had told him 
 that she would be the most dissolute of the family. This was probably 
 invented by the comic writers out of a buffoon malignity; for 
@@ -129,7 +129,7 @@ quietly with <persName key="Penelope">Penelope</persName> after all his sufferin
 as described in <persName key="Homer">Homer</persName>. The old Florentine, though wilful enough 
 when he wanted to dispose of a modern's fate, had great veneration 
 for his ancient predecessors. At all events, he was not acquainted 
-with <persName key="Homer">Homer</persName>'s works. They did not make their way again into <placeName key="Italy" corresp="Italy">Italy</placeName> 
+with <persName key="Homer">Homer</persName>'s works. They did not make their way again into <placeName type="country" key="Italy" corresp="Italy">Italy</placeName> 
 till a little later. But there were Latin writers extant, who might 
 have informed him of the other stories relative to <persName key="Ulysses">Ulysses</persName>; and he 
 saw nothing in them, to hinder him from giving the great wanderer 
@@ -174,18 +174,18 @@ hither and thither, murmuring; like a flame struggling with the
 wind. The top then, yearning to and fro, like a tongue trying to 
 speak, threw out a voice, and said : <q type="spoken">When I departed from <persName key="Circe">Circe</persName>, 
 who withdrew me to her for more than a year in the neighbourhood 
-of <placeName key="Gaieta" corresp="Italy"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Eneas">Eneas</persName> had so named it; neither the sweet company 
+of <placeName type="city" key="Gaeta" corresp="Italy"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Eneas">Eneas</persName> had so named it; neither the sweet company 
 of <persName key="Telemachus">my son</persName>, nor pious affection for <persName key="Laertes">my old father</persName>, nor the long-owed 
 love with which I ought to have gladdened <persName key="Penelope">Penelope</persName>, could conquer 
 the ardour that was in me to become wise in knowledge of the world, 
 of man's vices and his virtue. I put forth into the great open deep 
 with only one bark, and the small remaining crew by whom I had 
-not been left. I saw the two shores on either side, as far as <placeName key="Spain" corresp="Spain">Spain</placeName>  
-and <placeName key="Morocco" corresp="Morocco">Morocco</placeName>; and the island of <placeName key="Sardinia" corresp="Italy">Sardinia</placeName>, and the other isles which 
+not been left. I saw the two shores on either side, as far as <placeName type="country" key="Spain" corresp="Spain">Spain</placeName>  
+and <placeName type="country" key="Morocco" corresp="Morocco">Morocco</placeName>; and the island of <placeName type="region" key="Sardinia" corresp="Italy">Sardinia</placeName>, and the other isles which 
 the sea there bathes round about. Slowly we went, my companions and 
 I, for we were old; till at last we came to that narrow outlet, where 
-<persName key="Hercules">Hercules</persName> set up his pillars, that no man might go further. I left <placeName key="Seville" corresp="Spain">Seville</placeName> 
-on the right hand : on the other I had left <placeName key="Ceuta" corresp="Spain">Ceuta</placeName>. O brothers, said 
+<persName key="Hercules">Hercules</persName> set up his pillars, that no man might go further. I left <placeName type="city" key="Seville" corresp="Spain">Seville</placeName> 
+on the right hand : on the other I had left <placeName type="region" key="Ceuta" corresp="Spain">Ceuta</placeName>. O brothers, said 
 I, who through a hundred thousand perils are at length arrived at 
 the west, deny not to the short waking day that yet remains to our 
 senses, an insight into the unpeopled world, setting your backs upon 
@@ -291,10 +291,10 @@ many booths. </p>
 highly, that the latter is suspected to have lost as much modesty, as 
 the former gained by it. But they did this as a set-off against their 
 own despots and bigots. When they again became the greatest 
-power in <placeName key="Europe" corresp="Europe">Europe</placeName>, they had a relapse of their old egotism. The 
+power in <placeName type="continent" key="Europe" corresp="Europe">Europe</placeName>, they had a relapse of their old egotism. The 
 French, though an amiable and intelligent people, are not an imaginative 
 one. The greatest height they go is in a balloon. They get 
-no farther than <placeName key="France" corresp="France">France</placeName>, let them go where they will. They <q type="soCalled">run 
+no farther than <placeName type="country" key="France" corresp="France">France</placeName>, let them go where they will. They <q type="soCalled">run 
 the great circle and are still at home,</q> like the squirrel in his rolling 
 cage. Instead of going to Nature in their poetry, they would make 
 her come to them, and dress herself at their last new <choice><orig>toilet</orig><reg>toilette</reg></choice>. In 
@@ -309,7 +309,7 @@ This seems a contradiction to the near-sightedness we speak of : but
 the reason they praised them was, that the Chinese had the merit of 
 unbounded religious toleration; a great and extraordinary one 
 certainly, and not the less so, for having been, to all appearance, the 
-work of one man. All the romance of <placeName key="China" corresp="China">China</placeName>, such as it was, — any 
+work of one man. All the romance of <placeName type="country" key="China" corresp="China">China</placeName>, such as it was, — any 
 thing in which they differed from the French, — their dress, their 
 porcelain towers, their <placeName type="Landmark" key="Great Wall of China" corresp="China">Great Wall</placeName>, — was nothing. It was the 
 particular agreement with the philosophers. </p>
@@ -329,7 +329,7 @@ of other nations, whenever any comparison is insinuated with the
 subjects of the Brother of the Sun and Moon. The knowledge they 
 respect in us most, is that of gun-making, and of <placeName type="Road" key="East India passage" corresp="India">the East Indian 
 passage</placeName>. When our countrymen shewed them a map of the earth, they 
-enquired for <placeName key="China" corresp="China">China</placeName>; and on finding that it only made a little piece 
+enquired for <placeName type="country" key="China" corresp="China">China</placeName>; and on finding that it only made a little piece 
 in a corner, could not contain their derision. They thought that it 
 was the main territory in the middle, the apple of the world's eye. </p>
 
@@ -340,14 +340,14 @@ suggested the meaning we are apt to give it. It may have gathered
 some such insolence with it among the Romans, as they spread their 
 own barbarous power; but the more intellectual Greeks venerated 
 the countries from which they brought the elements of their mythology 
-and philosophy. The philosopher travelled into <placeName key="Egypt" corresp="Egypt">Egypt</placeName>, like a 
-son to see his father. The merchant heard in <placeName key="Phœnicia" corresp="Lebanon">Phoenicia</placeName> the far- 
+and philosophy. The philosopher travelled into <placeName type="country" key="Egypt" corresp="Egypt">Egypt</placeName>, like a 
+son to see his father. The merchant heard in <placeName type="region" key="Phœnicia" corresp="Lebanon">Phoenicia</placeName> the far- 
 brought stories of other realms, which he told to his delighted 
 countrymen. It is supposed, that the mortal part of Mentor in <title level="m">the 
 Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis">Anacharsis</persName> 
 the Scythian was reproached with his native place by an unworthy 
 Greek, he said, <q type="spoken">My country may be a shame to me, but you are a 
-shame to your country.</q><note type="source"><bibl>Translation <author>Diogenes Laërtius</author><title level="a">Life of Anacharsis, the Scythian</title><ref target="https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"/></bibl></note> <placeName key="Greece" corresp="Greece">Greece</placeName> had a lofty notion of the Persians 
+shame to your country.</q><note type="source"><bibl>Translation <author>Diogenes Laërtius</author><title level="a">Life of Anacharsis, the Scythian</title><ref target="https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"/></bibl></note> <placeName type="country" key="Greece" corresp="Greece">Greece</placeName> had a lofty notion of the Persians 
 and <persName key="Cyrus the Great">the Great King</persName>, till <persName key="Xerxes I">Xerxes</persName> came over to teach it better, and 
 betrayed the softness of their skulls. </p>
 
@@ -355,9 +355,9 @@ betrayed the softness of their skulls. </p>
 chief accomplishments of the world to themselves; as we see by their 
 delightful tales. Every thing shines with them in the distance, like 
 a sunset. What an amiable people are their Persians! What a 
-wonderful place is the island of <placeName key="Serendib" corresp="Sri Lanka">Serendib</placeName>! You would think nothing 
-could be finer than the Caliph's city of <placeName key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of Grand 
-<placeName key="Cairo" corresp="Egypt">Cairo</placeName>; and how has that epithet and that name towered in the 
+wonderful place is the island of <placeName type="region" key="Serendib" corresp="Sri Lanka">Serendib</placeName>! You would think nothing 
+could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of Grand 
+<placeName type="city" key="Cairo" corresp="Egypt">Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
 modern city! <persName key="Sindbad">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
 seen so many adventures and nations. So was <persName key="Aboulfaouris">Aboulfaouris</persName> the 
@@ -387,7 +387,7 @@ and Italian romance, shaking hands in person ! </p>
 <p>The Crusades pierced into a new world of remoteness. We do not 
 know whether those were much benefited, who took, part in them; 
 but for the imaginative persons remaining at home, the idea of going 
-to <placeName key="Palestine" corresp="Palestine">Palestine</placeName> must have been like travelling into a supernatural world. 
+to <placeName type="country" key="Palestine" corresp="Palestine">Palestine</placeName> must have been like travelling into a supernatural world. 
 When the compaign itself had a good effect, it must have been of a 
 very fine and highly-tempered description. <persName key="Geoffrey Chaucer">Chaucer</persName>'s Knight, had 
 been </p>
@@ -396,7 +396,7 @@ been </p>
     <quote>
 <lg xml:lang="en" type="original-quotation" xml:id="the-canterbury-tales" rend="center">
 <l>Sometime with the lord of Palatiee </l>
-<l>Agen another hethen in <placeName key="Turkey" corresp="Turkey">Turkie</placeName> : </l>
+<l>Agen another hethen in <placeName type="country" key="Turkey" corresp="Turkey">Turkie</placeName> : </l>
 <l>And evermore he had a sovereign price; </l>
 <l>And though that he was worthy, he was wise. </l>
 <l>And of his port as meek as is a mayde. </l></lg>
@@ -409,7 +409,7 @@ been </p>
 <p>How like a return from the moon must have been the re-appearance 
 of such travellers as <persName key="Sir John Mandevile">Sir John Mandevile</persName>, <persName key="Marco Polo">Marco Polo</persName>, and 
 <persName key="William de Rubruquis">William de Rubruquis</persName>, with their news of <persName key="Prester John">Prester John</persName>, the Great 
-Mogul, and the <placeName key="Great Cham of Tartary" corresp="Asia">Great Cham of Tartary</placeName>! The long-lost voyager 
+Mogul, and the <placeName type="region" key="Great Cham of Tartary" corresp="Asia">Great Cham of Tartary</placeName>! The long-lost voyager 
 must have been like a person consecrated in all the quarters of 
 heaven. His staff and his beard must have looked like relics of his 
 former self. The Venetians, who were some of the earliest European 
@@ -427,13 +427,13 @@ far, farthest, and utmost ! </p>
 <lg xml:lang="en" type="original-quotation" xml:id="paradise-regained" rend="center">
 <l> — Embassies from regions far remote, </l>
 <l>In various habits, on <placeName type="Road" key="The Appian Way" corresp="Italy"><choice><orig>the Appian road</orig><reg>the Appian Way</reg></choice></placeName>. </l>
-<l>Or on <placeName key="the Emilian" corresp="Italy">the Emilian</placeName>; some from farthest south, </l>
-<l><placeName key="Syene" corresp="Egypt">Syene</placeName><note type="editorial">Now Aswan, a city on the lower Nile.</note>, and where the shadow both way falls, </l>
-<l><placeName key="Meroë Nilotic Isle" corresp="Ethiopia">Meroe, Nilotick isle</placeName><note type="editorial"><ref target="https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml"/>Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
-<l><placeName key="the Realm of Bocchus" corresp="Morocco">The realm of <persName key="Bocchus I">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
+<l>Or on <placeName type="region" key="the Emilian" corresp="Italy">the Emilian</placeName>; some from farthest south, </l>
+<l><placeName type="city" key="Syene" corresp="Egypt">Syene</placeName><note type="editorial">Now Aswan, a city on the lower Nile.</note>, and where the shadow both way falls, </l>
+<l><placeName type="city" key="Meroë Nilotic Isle" corresp="Ethiopia">Meroe, Nilotick isle</placeName><note type="editorial"><ref target="https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml"/>Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
+<l><placeName type="region" key="the Realm of Bocchus" corresp="Morocco">The realm of <persName key="Bocchus I">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName type="physical" key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
 <l>From the Asian kings, and Parthian among these; </l>
-<l>From <placeName key="India" corresp="India">India</placeName> and <placeName key="the Golden Chersonese" corresp="Malaysia">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
-<l>And utmost Indian isle <placeName key="Taprobane" corresp="Sri Lanka">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
+<l>From <placeName type="country" key="India" corresp="India">India</placeName> and <placeName type="region" key="the Golden Chersonese" corresp="Malaysia">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
+<l>And utmost Indian isle <placeName type="region" key="Taprobane" corresp="Sri Lanka">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
 </quote></cit><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Regained</title><ref target="https://www.gutenberg.org/cache/epub/58/pg58-images.html"/></bibl></note>
 
 <p>One of the main helps to our love of remoteness in general, is the 
@@ -445,7 +445,7 @@ often used wilfully in poetry, to render distance still more distant.
 An old English song begins — </p>
 
 <lg xml:lang="en" rend="center">
-<l>In <placeName key="Ireland" corresp="Republic of Ireland">Irelande</placeName> farre over the sea</l> 
+<l>In <placeName type="country" key="Ireland" corresp="Republic of Ireland">Irelande</placeName> farre over the sea</l> 
 <l>There dwelt a bonny king.</l> </lg>
 
 <p><persName key="James Thomson">Thomson</persName>, a Scotchman, speaking of the western isles of his own 
@@ -454,7 +454,7 @@ country, has that delicious line, full of a dreary yet lulling pleasure : — </
 <cit>
     <quote>
 <lg xml:lang="en" rend="center">
-<l>As when a shepherd of the <placeName key="Hebrides" corresp="Scotland"><choice><orig>Hebrid isles</orig><reg>Hebrides</reg></choice></placeName>,</l>
+<l>As when a shepherd of the <placeName type="region" key="Hebrides" corresp="Scotland"><choice><orig>Hebrid isles</orig><reg>Hebrides</reg></choice></placeName>,</l>
 <l><hi rend="italic">Placed far amid the melancholy main</hi>. </l></lg>
     </quote>
     <note type="source"> 
@@ -471,8 +471,8 @@ his <title level="s">Recollections of Christ's Hospital</title>, says that he re
 half-dozen of his schoolfellows set off, <q>without map, card, or 
 compass, on a serious expedition to find out <hi rend="italic"><persName type="fictional" key="Philip Quarll">Philip Quarll</persName>'s Island.</hi></q><note type="source"><bibl><author>Charles Lamb</author><title level="m">Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt</title><ref target="https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up"/></bibl></note> We 
 once encountered a set of boys as romantic. It was at no greater 
-distance than at the foot of a hill near <placeName key="Hampstead" corresp="England">Hampstead</placeName>; yet the spot was 
-so perfectly <placeName key="Cisalpine" corresp="Italy">Cisalpine</placeName> to them, that two of them came up to us with 
+distance than at the foot of a hill near <placeName type="region" key="Hampstead" corresp="England">Hampstead</placeName>; yet the spot was 
+so perfectly <placeName type="region" key="Cisalpine" corresp="Italy">Cisalpine</placeName> to them, that two of them came up to us with 
 looks of hushing eagerness, and asked, <q type="spoken">whether, on the other side 
 of that hill there were not robbers:</q> to which, the minor 
 adventurer of the two added, <q type="spoken">And some say, serpents.</q> They had 
