@@ -57,10 +57,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155035452",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155138317",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-02T19:50:35.452Z",
-	"dcterms:modified": "2024-08-02T19:51:38.317Z",
+	"dcterms:created": "2024-08-02T19:51:38.317Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -71,7 +70,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155035452#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155138317#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -85,7 +84,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155035452#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155138317#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName"
 		}
@@ -139,7 +138,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155444833",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-02T19:54:44.833Z",
-	"dcterms:modified": "2024-08-02T19:54:44.833Z",
+	"dcterms:modified": "2024-08-02T19:56:29.550Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -170,7 +169,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q692",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -178,7 +179,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -269,7 +271,7 @@ title; and after many grave and ineffectual attempts to furnish one for the
 present, the company, after the fashion of <persName key="François Rabelais" ref="http://www.wikidata.org/entity/Q131018" type="real">Rabelais</persName>, and with a chair-  
 shaking merriment which he might have joined in himself, fell to turning  
 a hopeless thing into a jest. It was like that exquisite picture of a set of  
-laughers in <persName key="William Shakspeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
+laughers in <persName key="William Shakespeare" cert="high" ref="http://www.wikidata.org/entity/Q692" type="real"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
 
 <cit>
 <quote>
