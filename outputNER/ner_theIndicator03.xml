@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -63,11 +63,11 @@
 <p>This is the lady, who under the title of <persName key="Godiva">Countess of Coventry</persName>, used  
 to make such a figure in our childhood upon some old pocket-pieces  
 of that city. We hope she is in great request there still; or the  
-inhabitants deserve to be sent from <placeName key="Coventry" corresp="England">Coventry</placeName>. That city used to  
+inhabitants deserve to be sent from <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>. That city used to  
 be famous in saintly legends for the visit of the eleven thousand  
 virgins, — an <q>incredible number</q> saith <persName key="Selden">Selden</persName>. But the eleven  
 thousand virgins have vanished with their credibility; and a real  
-noble-hearted woman of flesh and blood is <placeName key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
+noble-hearted woman of flesh and blood is <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
 
 <p>The story of <persName key="Godiva">Godiva</persName> is not a fiction, as many suppose it. At least  
 it is to be found in <persName key="Matthew of Westminster">Matthew of Westminster</persName>, and is not of a nature  
@@ -104,7 +104,7 @@ imagination is at least not in the habit of inventing; and this piece
 of noble-heartedness we believe to have been one of them.</p>
 
 <p><persName key="Leofric">Leofric, Earl of Leicester</persName>, was the lord of a large feudal territory  
-in the middle of <placeName key="England" corresp="England">England</placeName>, of which <placeName key="Coventry" corresp="England">Coventry</placeName> formed a part. He  
+in the middle of <placeName type="country" key="England" corresp="England">England</placeName>, of which <placeName type="city" key="Coventry" corresp="England">Coventry</placeName> formed a part. He  
 lived in the time of <persName key="Edward the Confessor">Edward the Confessor</persName>; and was so eminently a  
 feudal lord, that the hereditary greatness of his dominion appears to  
 have been singular even at that time, and to have lasted with an  
@@ -113,7 +113,7 @@ of more than three hundred years. He was a great and useful
 opponent of the famous <persName key="Earl Goodwin">Earl Goodwin</persName>.</p>
 
 <p>Whether it was owing to <persName key="Leofric">Leofric</persName> or not, does not appear; but  
-<placeName key="Coventry" corresp="England">Coventry</placeName> was subject to a very oppressive tollage, by which it would  
+<placeName type="city" key="Coventry" corresp="England">Coventry</placeName> was subject to a very oppressive tollage, by which it would  
 seem that the feudal despot enjoyed the greater part of the profit  
 of all marketable commodities. The progress of knowledge has  
 shewn us how abominable, and even how unhappy for all parties,  
@@ -131,7 +131,7 @@ virtue of setting a principle above a custom.</p>
 in vain. At last, wishing to put an end to her importunities, he  
 told her, either in a spirit of bitter jesting, or with a playful raillery  
 that could not be bitter with so sweet an earnestness, that he would  
-give up his tax, provided she rode through the city of <placeName key="Coventry" corresp="England">Coventry</placeName>,  
+give up his tax, provided she rode through the city of <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>,  
 naked. She took him at his word; and said she would. One may  
 imagine the astonishment of a fierce unlettered chieftain, not  
 untinged with chivalry, at hearing a woman, and that too of the greatest  
@@ -142,9 +142,9 @@ of her conduct by it's principled excess. It is probable, that as he
 could not prevail upon her to give up her design, ixe had sworn  
 some religious oath when he made his promise : but be this as it  
 may, he took every possible precaution to secure her modesty from  
-hurt. The people of <placeName key="Coventry" corresp="England">Coventry</placeName> were ordered to keep within doors, to  
+hurt. The people of <placeName key="Coventry" type="city" corresp="England">Coventry</placeName> were ordered to keep within doors, to  
 close up all their windows and outlets, and not to give a glance into  
-the streets upon pain of death. The day came; and <placeName key="Coventry" corresp="England">Coventry</placeName>, it  
+the streets upon pain of death. The day came; and <placeName key="Coventry" type="city" corresp="England">Coventry</placeName>, it  
 may be imagined, was silent as death. The lady went out at the  
 palace door, was set on horseback, and at the same time divested of  
 her wrapping garment, as if she had been going into a bath; then  
@@ -154,7 +154,7 @@ tresses, which poured around her body like a veil; and so, with only </p>
 <pb n="19"/>
 
 <p>her white legs remaining conspicuous, took her gentle way through  
-the streets. <note type="hunt" place="foot"> <q xml:lang="latin">Nuda</q>, says <persName key="Matthew of Westminster">Matthew of Westminster</persName>, <q type="written" xml:lang="latin">equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit.</q> See <persName key="Selden">Selden</persName>'s Notes to the <title level="m">Polyolbion</title> of <persName key="Michael Drayton">Drayton</persName>. <title level="s">Song 13</title>. It is <persName key="Selden">Selden</persName> from whom we learn, that <persName key="Leofric">Leofric</persName> was Earl of Leicester, and the other particulars of him mentioned above. <persName key="Leofric">The Earl</persName> was buried at <placeName key="Coventry" corresp="England">Coventry</placeName>, <persName key="Godiva">his Countess</persName> most  
+the streets. <note type="hunt" place="foot"> <q xml:lang="latin">Nuda</q>, says <persName key="Matthew of Westminster">Matthew of Westminster</persName>, <q type="written" xml:lang="latin">equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit.</q> See <persName key="Selden">Selden</persName>'s Notes to the <title level="m">Polyolbion</title> of <persName key="Michael Drayton">Drayton</persName>. <title level="s">Song 13</title>. It is <persName key="Selden">Selden</persName> from whom we learn, that <persName key="Leofric">Leofric</persName> was Earl of Leicester, and the other particulars of him mentioned above. <persName key="Leofric">The Earl</persName> was buried at <placeName key="Coventry" type="city" corresp="England">Coventry</placeName>, <persName key="Godiva">his Countess</persName> most  
 probably, in the same tomb. </note> </p>
 
 <p>What scene can be more touching to the imagination, — beauty,  
@@ -179,7 +179,7 @@ whole story is as unvulgar and as sweetly serious, as can be conceived.</p>
 <p><persName key="Michael Drayton">Drayton</persName> has not made so much of this subject, as might have been  
 expected; yet what he says, is said well and earnestly.</p>
 
-<cit><quote><lg><l><placeName key="Coventry" corresp="England">Coventry</placeName> at length </l>
+<cit><quote><lg><l><placeName key="Coventry" type="city" corresp="England">Coventry</placeName> at length </l>
 <l>From her small, mean regard recovered state and strength; </l>
 <l>By <persName key="Leofric">Leofric</persName> her lord, yet in base bondage held, </l>
 <l>The people from her marts by tollage were expelled; </l>
@@ -221,7 +221,7 @@ and oppress us during sickness. But healthy association peoples this
 vague sense with agreeable images. It will relieve us, even when  
 a painful sympathy with the distresses of others becomes a part of  
 the very health of our minds. For instance, we can never go  
-through <placeName key="St. Giles" corresp="England">St. Giles's</placeName>, but the sense of the extravagant inequalities in  
+through <placeName type="region" key="St. Giles" corresp="England">St. Giles's</placeName>, but the sense of the extravagant inequalities in  
 human condition presses more forcibly upon us; but some pleasant  
 images are at hand even there to refresh it. They do not displace  
 the others, so as to injure the sense of public duty which they  
@@ -236,47 +236,47 @@ church itself too is a handsome one; and there is a flock of pigeons
 in that neighbourhood, which we have stood with great pleasure to  
 see careering about it of a fine afternoon, when a western wind had  
 swept back the smoke towards the city, and shewed the white of  
-the stone steeple piercing up into a blue sky. So much for <placeName key="St. Giles" corresp="England">St.  
+the stone steeple piercing up into a blue sky. So much for <placeName type="region" key="St. Giles" corresp="England">St.  
 Giles's</placeName>, whose very name is a nuisance with some. It is dangerous  
 to speak disrespectfully of old districts. Who would suppose  
-that <placeName key="the Borough" corresp="England">the Borough</placeName> was the most classical ground in the metropolis?  
+that <placeName type="region" key="the Borough" corresp="England">the Borough</placeName> was the most classical ground in the metropolis?  
 And yet it is undoubtedly so. <placeName type="Theatre" key="The Globe Theatre" corresp="England">The Globe theatre</placeName> was there, of  
 which <persName key="William Shakspeare">Shakspeare</persName> himself was a proprietor, and for which he wrote  
-his plays. <placeName key="Globe-Lane" corresp="England">Globe-lane</placeName>, in which it stood, is still extant, we believe,   
+his plays. <placeName type="street" key="Globe-Lane" corresp="England">Globe-lane</placeName>, in which it stood, is still extant, we believe,   
 under that name. It is probable that he lived near it : it is certain  
-that he must have been much there. It is also certain that on <placeName key="the Borough" corresp="England">the  
+that he must have been much there. It is also certain that on <placeName type="region" key="the Borough" corresp="England">the  
 Borough</placeName> side of the river, then and still called the <placeName key="Bank side" corresp="England">Bank side</placeName>, in the  
 same lodging, having the same wardrobe, and some say, with other  
 participations more remarkable, lived <persName key="Francis Beaumont">Beaumont</persName> and <persName key="Fletcher">Fletcher</persName>. In  
-<placeName key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's church" corresp="England">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
+<placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's church" corresp="England">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
 one grave; in the same church, under a monument and effigy, lies  
-<persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName key="the Borough" corresp="England">the Borough</placeName>,  
+<persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName type="region" key="the Borough" corresp="England">the Borough</placeName>,  
 the existence of which is still boasted, and the scite pointed out by a  
 picture and inscription, <persName key="Geoffrey Chaucer">Chaucer</persName> sets out his pilgrims and himself on  
-their famous road to <placeName key="Canterbury" corresp="England">Canterbury</placeName>.</p>
+their famous road to <placeName type="city" key="Canterbury" corresp="England">Canterbury</placeName>.</p>
 
 <p>To return over the water, who would expect any thing poetical  
-from <placeName key="East Smithfield" corresp="England">East Smithfield</placeName>? Yet there was born the most poetical even  
-of poets, <persName key="Edmund Spenser">Spenser</persName>. <persName key="Alexander Pope">Pope</persName> was born within the sound of <placeName key="Bow" corresp="England">Bow</placeName>-bell<note type="editorial"> One is said to be a true cockney (East-Londoner) if one is born within sound range of the Bow Bells</note>, in  
-a street no less anti-poetical than <placeName key="Lombard-street" corresp="England">Lombard-street</placeName>. So was <persName key="Gray">Gray</persName>, in  
-<placeName key="Cornhill" corresp="England">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName key="Bread-street, Cheapside" corresp="England"><placeName key="Bread-street" corresp="England">Bread-street</placeName>, <placeName key="Cheapside" corresp="England">Cheapside</placeName></placeName>. The presence 
+from <placeName type="region" key="East Smithfield" corresp="England">East Smithfield</placeName>? Yet there was born the most poetical even  
+of poets, <persName key="Edmund Spenser">Spenser</persName>. <persName key="Alexander Pope">Pope</persName> was born within the sound of <placeName type="region" key="Bow" corresp="England">Bow</placeName>-bell<note type="editorial"> One is said to be a true cockney (East-Londoner) if one is born within sound range of the Bow Bells</note>, in  
+a street no less anti-poetical than <placeName type="street" key="Lombard-street" corresp="England">Lombard-street</placeName>. So was <persName key="Gray">Gray</persName>, in  
+<placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName type="street" key="Bread-street, Cheapside" corresp="England"><placeName type="street" key="Bread-street" corresp="England">Bread-street</placeName>, <placeName type="street" key="Cheapside" corresp="England">Cheapside</placeName></placeName>. The presence 
 <pb n="21"/>
 of the same great poet and patriot has given happy memories to  
 many parts of the metropolis. He lived in <placeName key="St. Bride's Churchyard, Fleet-street" corresp="England"><placeName type="building" key="St.Bride's Churchyard" corresp="England">St. Bride's Churchyard</placeName>,  
-<placeName key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>; in <placeName key="Aldersgate-street" corresp="England">Aldersgate-street</placeName>, in <placeName key="Jewin-street" corresp="England">Jewin-street</placeName>, in <placeName key="Barbican" corresp="England">Barbican</placeName>,  
-in <placeName key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>; in <placeName key="Holborn" corresp="England">Holborn</placeName>, looking back to <placeName key="Lincoln's Inn Fields" corresp="England">Lincoln's  
-Inn Fields</placeName>; in <placeName key="Holborn" corresp="England">Holborn</placeName>, near <placeName key="Red Lion-square" corresp="England">Red Lion-square</placeName>; in <placeName key="Scotland-yard" corresp="England">Scotland-yard</placeName>  
-in a house looking to <placeName key="St. James's Park" corresp="England">St. James's Park</placeName>, now belonging to an  
+<placeName type="street" key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>; in <placeName type="street" key="Aldersgate-street" corresp="England">Aldersgate-street</placeName>, in <placeName type="street" key="Jewin-street" corresp="England">Jewin-street</placeName>, in <placeName type="region" key="Barbican" corresp="England">Barbican</placeName>,  
+in <placeName type="street" key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>; in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>, looking back to <placeName type="region" key="Lincoln's Inn Fields" corresp="England">Lincoln's  
+Inn Fields</placeName>; in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>, near <placeName type="region" key="Red Lion-square" corresp="England">Red Lion-square</placeName>; in <placeName type="region" key="Scotland-yard" corresp="England">Scotland-yard</placeName>  
+in a house looking to <placeName type="region" key="St. James's Park" corresp="England">St. James's Park</placeName>, now belonging to an  
 eminent writer on legislation, and lately occupied by a celebrated  
-critic and metaphysician; and he died in the <placeName key="Artillery-walk, Bunhill-Fields" corresp="England"><placeName key="Artillery-walk" corresp="England">Artillery-walk</placeName>,  
-<placeName key="Bunhill-Fields" corresp="England"> Bunhill-Fields</placeName></placeName>; and was buried in <placeName key="St Gile's Church, Cripplegate" corresp="England"><placeName type="building" key="St.Giles Church" corresp="England">St. Giles's</placeName>, <placeName key="Cripplegate" corresp="England">Cripplegate</placeName></placeName>.</p>
+critic and metaphysician; and he died in the <placeName key="Artillery-walk, Bunhill-Fields" corresp="England"><placeName type="street" key="Artillery-walk" corresp="England">Artillery-walk</placeName>,  
+<placeName type="region" key="Bunhill-Fields" corresp="England"> Bunhill-Fields</placeName></placeName>; and was buried in <placeName type="building" key="St.Giles Cripplegate" corresp="England">St. Giles's, Cripplegate</placeName>.</p>
 
-<p><persName key="Ben Jonson">Ben Jonson</persName>, who was born <q>in <placeName key="Hartshorne-lane" corresp="England">Hartshorne-lane</placeName>, near <placeName key="Charing-cross" corresp="England">Charing-cross</placeName>,</q>  
-was at one time <q type="soCalled">master</q> of a theatre in <placeName key="Barbican" corresp="England">Barbican</placeName>. He  
+<p><persName key="Ben Jonson">Ben Jonson</persName>, who was born <q>in <placeName type="street" key="Hartshorne-lane" corresp="England">Hartshorne-lane</placeName>, near <placeName type="region" key="Charing-cross" corresp="England">Charing-cross</placeName>,</q>  
+was at one time <q type="soCalled">master</q> of a theatre in <placeName type="region" key="Barbican" corresp="England">Barbican</placeName>. He  
 appears also to have visited a tavern called <placeName key="the Sun and Moon, Aldersgate-street" corresp="England"><placeName type="Pub" key="the Sun and Moon" corresp="England">the Sun and Moon</placeName>, in  
-<placeName key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
+<placeName type="street" key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
 <persName key="Francis Beaumont">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>, which was  
-in <placeName key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
+in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
 full of jovial wit, says.</p>
 
 <cit><quote><lg>
@@ -312,20 +312,20 @@ full of jovial wit, says.</p>
 </cit>
 
 <p>The other celebrated report of the great wits of that time, was <placeName key="The Devil Tavern, Fleet-Street" corresp="England"><placeName type="Pub" key="the Devil Tavern" corresp="England">the  
-Devil Tavern</placeName>, in <placeName key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>, close to <placeName type="Pub" key="Temple-Bar" corresp="England">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
-lived also in <placeName key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
-is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> into <placeName key="St. Batholomew's" corresp="England">St.  
+Devil Tavern</placeName>, in <placeName type="street" key="Fleet-street" corresp="England">Fleet-street</placeName></placeName>, close to <placeName type="Pub" key="Temple-Bar" corresp="England">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
+lived also in <placeName type="street" key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
+is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> into <placeName type="building" key="St. Batholomew's hospital" corresp="England">St.  
 Bartholomew's</placeName>, <persName key="Aubrey">Aubrey</persName> gives it as a common opinion, that at the time  
 when <persName key="Ben Jonson">Jonson</persName>'s father-in-law made him help him in his business of  
-bricklayer, he worked with his own hands upon the <placeName key="Lincoln's Inn" corresp="England">Lincoln's Inn</placeName>  
-garden wall, which looks upon <placeName key="Chancery-lane" corresp="England">Chancery-lane</placeName>, and which seems old  
+bricklayer, he worked with his own hands upon the <placeName type="commerce" key="Lincoln's Inn" corresp="England">Lincoln's Inn</placeName>  
+garden wall, which looks upon <placeName type="street" key="Chancery-lane" corresp="England">Chancery-lane</placeName>, and which seems old  
 enough to have some of his illustrious brick and mortar still remaining.</p>
 
 <p>Under the cloisters in <placeName type="building" key="Christ's Hospital" corresp="England">Christ's Hospital</placeName> (which stand in the heart  
 of the city unknown to most persons, like a house kept invisible for  
 young and learned eyes) lie buried a multitude of peisons of all  
 ranks; for it was once a monastery of Grey Friars. Among them is  
-<persName key="John of Bourbon">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName key="Agincourt" corresp="France">Agincourt</placeName>.</p>
+<persName key="John of Bourbon">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName type="region" key="Agincourt" corresp="France">Agincourt</placeName>.</p>
 
 <pb n="22"/>
 
@@ -335,7 +335,7 @@ for wishing the horns of a favourite white stag which the king had
 killed, in the body of the person who advised him to do it. And  
 here too (a sufficing contrast) lies <persName key="Isabella of France">Isabella</persName>, wife of <persName key="Kind Edward II">Edward the Second</persName>,</p>
 
-<lg><l><persName key="Isabella of France">She, wolf of <placeName key="France" corresp="France">France</placeName></persName>, with unrelenting fangs. </l>
+<lg><l><persName key="Isabella of France">She, wolf of <placeName type="country" key="France" corresp="France">France</placeName></persName>, with unrelenting fangs. </l>
 <l>Who tore the bowels of lier mangled mate. — <persName key="Gray">Gray</persName>. </l></lg>
 
 <p>Her <q type="distinct">mate's</q> heart was buried with lier, and placed upon her  
@@ -349,8 +349,8 @@ literary world, were bred two of the most powerful and deep-spirited
 writers of the present day; whose visits to the cloisters we well  
 remember.</p>
 
-<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName key="Hatton Garden" corresp="England">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
-<placeName key="Brook House" corresp="England">Brook House</placeName>, at the corner of the street of that name in <placeName key="Holborn" corresp="England">Holborn</placeName>,  
+<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
+<placeName type="building" key="Brook House" corresp="England">Brook House</placeName>, at the corner of the street of that name in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>,  
 was the residence of the celebrated Sir <persName key="Fulke Greville">Fulke Greville</persName>, <persName key="Lord Brook">Lord Brook</persName>,  
 the <q type="soCalled">friend of <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
 voluntary death, of poison, that extraordinary person <persName key="Thomas Chatterton">Thomas  
@@ -363,67 +363,67 @@ Chatterton</persName>, — </p>
 <p rend="center"><persName type="real" key="William Wordsworth">Wordsworth</persName>.</p>
 
 
-<p>He was buried in the workhouse in <placeName key="Shoe Lane" corresp="England">Shoe Lane</placeName>; — a circumstance, at  
+<p>He was buried in the workhouse in <placeName type="street" key="Shoe Lane" corresp="England">Shoe Lane</placeName>; — a circumstance, at  
 which one can hardly help feeling a movement of indignation. Yet  
 what could beadles and parish officers know about such a being?  
 No more than <persName key="Horace Walpole">Horace Walpole</persName>. In <placeName type="commerce" key="Gray's Inn" corresp="England">Gray's Inn</placeName> lived, and in <placeName type="building" key="Gray's Inn">Gray's  
-Inn</placeName> garden meditated. <persName key="Francis Bacon">Lord Bacon</persName>. In <placeName key="Southampton Row, Holborn" corresp="England"><placeName key="Southampton Row" corresp="England">Southampton Row</placeName>, <placeName key="Holborn" corresp="England">Holborn</placeName></placeName>,  
+Inn</placeName> garden meditated. <persName key="Francis Bacon">Lord Bacon</persName>. In <placeName key="Southampton Row, Holborn" corresp="England"><placeName type="street" key="Southampton Row" corresp="England">Southampton Row</placeName>, <placeName type="region" key="Holborn" corresp="England">Holborn</placeName></placeName>,  
 <persName key="Cowper">Cowper</persName> was a fellow-clerk to an attorney with the future <persName key="Lord Chancellor Thurlow">Lord  
-Chancellor Thurlow</persName>. At the <placeName key="Fleet-street" corresp="England">Fleet Street</placeName> corner of <placeName key="Chancery Lane" corresp="England">Chancery Lane</placeName>,  
-<persName key="Cowley">Cowley</persName>, we believe, was born. In <placeName key="Salisbury Court, Fleet-street" corresp="England"><placeName key="Salisbury Court" corresp="England">Salisbury Court</placeName>, <placeName key="Fleet-street" corresp="England">Fleet Street</placeName></placeName>, was  
+Chancellor Thurlow</persName>. At the <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName> corner of <placeName type="street" key="Chancery Lane" corresp="England">Chancery Lane</placeName>,  
+<persName key="Cowley">Cowley</persName>, we believe, was born. In <placeName key="Salisbury Court, Fleet-street" corresp="England"><placeName key="Salisbury Court" corresp="England">Salisbury Court</placeName>, <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName></placeName>, was  
 the house of <persName key="Thomas Sackville">Thomas Sackville</persName>, first Earl of Dorset, the precursor  
 of <persName key="Edmund Spenser">Spenser</persName>, and one of the authors of the first regular English  
 tragedy. On the demolition of this house, part of the ground was  
 occupied by the celebrated theatre built after the Restoration, at  
 which <persName key="Betterton">Betterton</persName> performed, and of which <persName key="Sir William Davenant">Sir William Davenant</persName> was  
 manager. Lastly, here was the house and printing-office of <persName key="Richardson">Richardson</persName>.  
-In <placeName key="Bolt-court" corresp="England">Bolt-court</placeName>, not far distant, lived <persName key="Samuel Johnson">Dr. Johnson</persName>, who resided  
-also for some time in the <placeName key="Temple" corresp="England">Temple</placeName>. A list of his numerous other  
-residences is to be found in <placeName key="Boswell" corresp="England">Boswell</placeName>.<note type="hunt" place="foot">The <placeName key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> Congreve died in <placeName key="Surrey-street, the Strand" corresp="England"><placeName key="Surrey-street" corresp="England">Surrey-street</placeName>, 
-in <placeName key="the Strand" corresp="England">the Strand</placeName></placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England">Beaufort-buildings</placeName>,  
+In <placeName type="street" key="Bolt-court" corresp="England">Bolt-court</placeName>, not far distant, lived <persName key="Samuel Johnson">Dr. Johnson</persName>, who resided  
+also for some time in the <placeName type="region" key="Temple" corresp="England">Temple</placeName>. A list of his numerous other  
+residences is to be found in <placeName type="region" key="Boswell" corresp="England">Boswell</placeName>.<note type="hunt" place="foot">The <placeName type="region" key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> Congreve died in <placeName key="Surrey-street, the Strand" corresp="England"><placeName type="street" key="Surrey-street" corresp="England">Surrey-street</placeName>, 
+in <placeName type="street" key="the Strand" corresp="England">the Strand</placeName></placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England">Beaufort-buildings</placeName>,  
 was <placeName type="commerce" key="Lilly's" corresp="England">Lilly's</placeName>, the perfumer, at whose house <title level="j">the Tatler</title> was published.  
-In <placeName key="Maiden-Land, Covent-garden" corresp="England"><placeName key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName key="Covent-garden" corresp="England">Covent-garden</placeName></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
-<placeName key="London" corresp="England">London</placeName>, at the sign, of the <placeName type="building" key="White Peruke" corresp="England">White Peruke</placeName>. <placeName key="Tavistock-street" corresp="England">Tavistock-street</placeName> was
+In <placeName key="Maiden-Land, Covent-garden" corresp="England"><placeName type="street" key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
+<placeName type="city" key="London" corresp="England">London</placeName>, at the sign, of the <placeName type="building" key="White Peruke" corresp="England">White Peruke</placeName>. <placeName type="street" key="Tavistock-street" corresp="England">Tavistock-street</placeName> was
 <pb n="23"/>
-then, we believe, the <placeName key="Bond-street" corresp="England">Bond-street</placeName> of the fashionable world; as <placeName key="Bow-street" corresp="England">Bow-  
-street</placeName> was before. The change of <placeName key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
+then, we believe, the <placeName type="street" key="Bond-street" corresp="England">Bond-street</placeName> of the fashionable world; as <placeName type="street" key="Bow-street" corresp="England">Bow-  
+street</placeName> was before. The change of <placeName type="stret" key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
 with the theatre still in attendance, reminds one of the spirit of the  
 Beggar's Opera. <placeName type="commerce" key="Button's Coffee-house" corresp="England">Button's Coffee-house</placeName>, the resort of the wits of <persName key="Queen Anne">Queen  
-Anne</persName>'s time, was in <placeName key="Russell-street" corresp="England">Russell-street</placeName>,— we believe, near where the  
+Anne</persName>'s time, was in <placeName type="street" key="Russell-street" corresp="England">Russell-street</placeName>,— we believe, near where the  
 <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName> now stand. We think we recollect reading also, that in  
-the same street, at one of the corners of <placeName key="Bow-street" corresp="England">Bow-street</placeName>, was the tavern  
+the same street, at one of the corners of <placeName type="street" key="Bow-street" corresp="England">Bow-street</placeName>, was the tavern  
 where <persName key="John Dryden">Dryden</persName> held regal possession of the arm chair. The whole  
-of <placeName key="Covent-garden" corresp="England">Covent-garden</placeName> is classic ground, from its association with the  
+of <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName> is classic ground, from its association with the  
 dramatic and other wits of the times of <persName key="John Dryden">Dryden</persName> and <persName key="Alexander Pope">Pope</persName>. <persName key="Samuel Butler">Butler</persName>  
-lived, perhaps died, in <placeName key="Rose-street" corresp="England">Rose-street</placeName>, and was buried in <placeName key="Covent-garden" corresp="England">Covent-garden</placeName>  
+lived, perhaps died, in <placeName type="street" key="Rose-street" corresp="England">Rose-street</placeName>, and was buried in <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName>  
 Church-yard; where <persName key="Peter Pindar">Peter Pindar</persName> the other day followed him. In  
-<placeName key="Leicester-square" corresp="England">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Miss Linwood">Miss Linwood</persName>'s exhibition and other  
+<placeName type="landmark" key="Leicester-square" corresp="England">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Miss Linwood">Miss Linwood</persName>'s exhibition and other  
 houses, was the town mansion of the <persName role="family" key="The Sydneys, Earls of Leicester">Sydneys, Earls of Leicester</persName>,  
 the family of <persName key="Sir Philip Sidney">Sir Philip</persName> and <persName key="Sir Algernon Sydney">Algernon Sydney</persName>. In the same square  
-lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="John Dryden">Dryden</persName> lived and died in <placeName key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
+lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="John Dryden">Dryden</persName> lived and died in <placeName type="street" key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
 in a house which looked backwards into the garden of <placeName type="building" key="Leicester House" corresp="England">Leicester  
-House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName key="St. Martin's-street" corresp="England">St. Martin's-street</placeName>, on the south side of  
-the square. <persName key="Steele">Steele</persName> lived in <placeName key="Bury-street, St. James's" corresp="England"><placeName key="Bury-street" corresp="England">Bury-street</placeName>, <placeName key="St. James's" corresp="England">St. James's</placeName></placeName>: he furnishes an  
-illustrious precedent for the loungers in <placeName key="St. James's-street" corresp="England">St. James's-street</placeName>, where a  
+House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName type="street" key="St. Martin's-street" corresp="England">St. Martin's-street</placeName>, on the south side of  
+the square. <persName key="Steele">Steele</persName> lived in <placeName key="Bury-street, St. James's" corresp="England"><placeName type="street" key="Bury-street" corresp="England">Bury-street</placeName>, <placeName type="region" key="St. James's" corresp="England">St. James's</placeName></placeName>: he furnishes an  
+illustrious precedent for the loungers in <placeName type="street" key="St. James's-street" corresp="England">St. James's-street</placeName>, where a  
 scandal-monger of those times delighted to detect <persName key="Isaac Bickerstaff">Isaac Bickerstaff</persName> in  
 the person of <persName key="Steele">Captain Steele</persName>, idling before the Coffee-houses, and  
 jerking his leg and stick alternately against the pavement. We  
-have mentioned the birth of <persName key="Ben Jonson">Ben Jonson</persName> near <placeName key="Charing-cross" corresp="England">Charing-cross</placeName>. <persName key="Edmund Spenser">Spenser</persName>  
-died at an inn, where he put up on his arrival from <placeName key="Ireland" corresp="Republic of Ireland">Ireland</placeName>, in  
-<placeName key="King-street, Westminster" corresp="England"><placeName key="King-street" corresp="England">King-street</placeName>, <placeName key="Westminster" corresp="England">Westminster</placeName></placeName>, — the same which runs at the back of  
-<placeName key="Parliament-street" corresp="England">Parliament-street</placeName> to <placeName key="Westminster Abbey" corresp="England">the Abbey</placeName>. <persName key="Sir Thomas More">Sir Thomas More</persName> lived at <placeName key="Chelsea" corresp="England">Chelsea</placeName>.  
-<persName key="Addison">Addison</persName> lived and died in <placeName type="building" key="Holland-House, Kensington" corresp="England"><placeName key="Holland-House" corresp="England">Holland-House</placeName>, <placeName key="Kensington" corresp="England">Kensington</placeName></placeName>, now the  
+have mentioned the birth of <persName key="Ben Jonson">Ben Jonson</persName> near <placeName type="region" key="Charing-cross" corresp="England">Charing-cross</placeName>. <persName key="Edmund Spenser">Spenser</persName>  
+died at an inn, where he put up on his arrival from <placeName type="country" key="Ireland" corresp="Republic of Ireland">Ireland</placeName>, in  
+<placeName key="King-street, Westminster" corresp="England"><placeName type="street" key="King-street" corresp="England">King-street</placeName>, <placeName type="region" key="Westminster" corresp="England">Westminster</placeName></placeName>, — the same which runs at the back of  
+<placeName type="street" key="Parliament-street" corresp="England">Parliament-street</placeName> to <placeName type="building" key="Westminster Abbey" corresp="England">the Abbey</placeName>. <persName key="Sir Thomas More">Sir Thomas More</persName> lived at <placeName type="region" key="Chelsea" corresp="England">Chelsea</placeName>.  
+<persName key="Addison">Addison</persName> lived and died in <placeName key="Holland-House, Kensington" corresp="England"><placeName type="building" key="Holland-House" corresp="England">Holland-House</placeName>, <placeName type="region" key="Kensington" corresp="England">Kensington</placeName></placeName>, now the  
 residence of the accornplished nobleman who takes his title from it.  
-In <placeName key="Brook-street, Grosvenor-square" corresp="England"><placeName key="Brook-street" corresp="England">Brook-street</placeName>, <placeName key="Grosvenor-square" corresp="England">Grosvenor-square</placeName></placeName>, lived <persName key="Handel">Handel</persName>; and in <placeName key="Bentinck-street, Manchester-square" corresp="England"><placeName key="Bentinck-street" corresp="England">Bentinck-  
-street</placeName>, <placeName key="Manchester-square" corresp="England">Manchester-square</placeName></placeName>, <persName key="Gibbon">Gibbon</persName>. We have omitted to mention  
-that <persName key="Daniel DeFoe">De Foe</persName> kept a hosier's shop in <placeName key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><orig>scite</orig><reg>site</reg></choice>  
-of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="England"><placeName type="building" key="Southampton-buildings" corresp="England">Southampton-buildings</placeName>, <placeName key="Chancery-lane" corresp="England">Chancery-lane</placeName></placeName>, stood the  
+In <placeName key="Brook-street, Grosvenor-square" corresp="England"><placeName type="region" key="Brook-street" corresp="England">Brook-street</placeName>, <placeName type="region" key="Grosvenor-square" corresp="England">Grosvenor-square</placeName></placeName>, lived <persName key="Handel">Handel</persName>; and in <placeName key="Bentinck-street, Manchester-square" corresp="England"><placeName type="street" key="Bentinck-street" corresp="England">Bentinck-  
+street</placeName>, <placeName type="region" key="Manchester-square" corresp="England">Manchester-square</placeName></placeName>, <persName key="Gibbon">Gibbon</persName>. We have omitted to mention  
+that <persName key="Daniel DeFoe">De Foe</persName> kept a hosier's shop in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><orig>scite</orig><reg>site</reg></choice>  
+of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="England"><placeName type="building" key="Southampton-buildings" corresp="England">Southampton-buildings</placeName>, <placeName type="street" key="Chancery-lane" corresp="England">Chancery-lane</placeName></placeName>, stood the  
 mansion of the <persName role="family" key="The Wriothesleys, Earls of Southampton">Wriothesleys, Earls of Southampton</persName>, one of whom  
 was the celebrated friend of <persName key="William Shakspeare">Shakspeare</persName>. But what have we not  
 omitted also? No less an illustrious head that <placeName key="the Boar's Head Tavern, East-cheap" corresp="England"><placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's</placeName>, in  
-<placeName key="East-cheap" corresp="England">East-cheap</placeName></placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
+<placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName></placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
 believe the place is still marked out by a similar sign. But who  
-knows not <placeName key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head</placeName>? Have we not all been  
+knows not <placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head</placeName>? Have we not all been  
 there time out of mind? And is it not a more real as well as  
 notorious thing to us than <placeName type="Pub" key="the London Tavern" corresp="England">the London Tavern</placeName>, or <placeName type="Pub" key="the Crown" corresp="England">the Crown</placeName> and  
 <placeName type="Pub" key="Anchor" corresp="England">Anchor</placeName>, or the <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName>, or <placeName type="Pub" key="White's" corresp="England">White's</placeName>, or What's-his-name's, or any  
@@ -458,7 +458,7 @@ generosity of that amiable man : —</p>
 </cit>
 
 <p><persName key="John Gay">Gay</persName>, in describing the inconvenience of the late narrow part of  
-<placeName key="the Strand" corresp="England">the Strand</placeName>, by <placeName key="St. Clement's" corresp="England">St. Clement's</placeName>, took away a portion of it's unpleasantness  
+<placeName type="street" key="the Strand" corresp="England">the Strand</placeName>, by <placeName type="building" key="St. Clement Danes Church" corresp="England">St. Clement's</placeName>, took away a portion of it's unpleasantness  
 to the next generation, by associating his memory with the  
 objects in it. We did not miss without regret even the <q type="written">combs</q>  
 that hung <q type="written">dangling in your face</q> at a shop which be describes,  
@@ -467,8 +467,8 @@ of the picture is still alive. <note type="hunt">(Trivia, Book 3d.)</note> </p>
 
 <cit>
     <quote>
-<lg><l>Where the fair columns of <placeName key="St. Clement" corresp="England">St. Clement's</placeName> stand. </l> 
-<l>Whose straitened bounds encroach upon <placeName key="the Strand" corresp="England">the Strand</placeName>; </l>
+<lg><l>Where the fair columns of <placeName type="building" key="St. Clement Danes Church" corresp="England">St. Clement's</placeName> stand. </l> 
+<l>Whose straitened bounds encroach upon <placeName type="street" key="the Strand" corresp="England">the Strand</placeName>; </l>
 <l>Where the low pent-house bows the walker's head. </l>
 <l>And the rough pavement wounds the yielding tread; </l>
 <l>Where not a post protects the narrow space. </l>
@@ -483,7 +483,7 @@ of the picture is still alive. <note type="hunt">(Trivia, Book 3d.)</note> </p>
 <p>There is a touch in the winter picture in the same poem, which  
 every body will recognize : — </p>
 
-<lg><l>At <placeName key="White's" corresp="England">White's</placeName> the harnessed chairman idly stands, </l>
+<lg><l>At <placeName type="pub" key="White's" corresp="England">White's</placeName> the harnessed chairman idly stands, </l>
 <l>And swings around his waist his tingling hands. </l></lg>
     </quote>
     <note type="source"> 
@@ -491,12 +491,12 @@ every body will recognize : — </p>
     </note>
 </cit>
 
-<p>The bewildered passenger in the <placeName key="Seven Dials" corresp="England">Seven Dials</placeName> is compared to <persName key="Theseus">Theseus</persName>  
+<p>The bewildered passenger in the <placeName type="region" key="Seven Dials" corresp="England">Seven Dials</placeName> is compared to <persName key="Theseus">Theseus</persName>  
 in the <placeName type="fictional" key="Cretan Labyrinth">Cretan Labyrinth</placeName>. And thus we come round to the point at  
 which we began.</p>
 
 <p>Before we rest our wings, however, we must take another drift  
-over the city, as far as <placeName key="Stratford at Bow" corresp="England">Stratford at Bow</placeName>, where, with all due tenderness  
+over the city, as far as <placeName type="region" key="Stratford at Bow" corresp="England">Stratford at Bow</placeName>, where, with all due tenderness  
 for boarding-school French, a joke of <persName key="Geoffrey Chaucer">Chaucer</persName>'s has existed as a  
 piece of local humour for nearly four hundred and fifty years. Speaking  
 of the <persName type="fictional" key="Prioress">Prioress</persName>, who makes such a delicate figure among his  
@@ -507,8 +507,8 @@ that </p>
     <quote>
 <l>French she spake full faire and featously; </l>
 <p>adding with great gravity.</p>
-<lg><l>After the school of <placeName key="Stratford at Bow" corresp="England">Stratford atte Bowe</placeName>; </l> 
-<l>For French of <placeName key="Paris" corresp="France">Paris</placeName> was to her unknowe. </l></lg>
+<lg><l>After the school of <placeName type="region" key="Stratford at Bow" corresp="England">Stratford atte Bowe</placeName>; </l> 
+<l>For French of <placeName type="city" key="Paris" corresp="France">Paris</placeName> was to her unknowe. </l></lg>
     </quote>
     <note type="source"> 
         <bibl><author>Geoffrey Chaucer</author><title level="m">The Canterbury Tales</title><ref target="https://www.gutenberg.org/cache/epub/2383/pg2383-images.html#chap20"/></bibl>
