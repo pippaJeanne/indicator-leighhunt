@@ -238,11 +238,11 @@ descried in the distance. </p>
 <p>But we must come to <persName key="Samuel Taylor Coleridge">Mr. Coleridge</persName>'s story, with all our imagination 
 upon us. Now let us put our knees a little nearer the fire, 
 and tell a homelier one about Life in Death. The groundwork of it 
-is in <persName key="Geroge Sandys">Sandys</persName>'s Commentary upon <persName key="Ovid">Ovid</persName>, and quoted from <persName key="Georg Sabinus">Sabinus</persName>. <note type="hunt" place="foot">The Saxon Latin poet, we presume. Professor of Belles-Lettres at <placeName key="Frankfurt" corresp="Germany"><choice><orig>Frankfort</orig><reg>Frankfurt</reg></choice></placeName>. 
+is in <persName key="Geroge Sandys">Sandys</persName>'s Commentary upon <persName key="Ovid">Ovid</persName>, and quoted from <persName key="Georg Sabinus">Sabinus</persName>. <note type="hunt" place="foot">The Saxon Latin poet, we presume. Professor of Belles-Lettres at <placeName type="city" key="Frankfurt" corresp="Germany"><choice><orig>Frankfort</orig><reg>Frankfurt</reg></choice></placeName>. 
 We know nothing of him except from a biographical dictionary. </note>
 </p>
 
-<p><persName type="fictional" key="Otto">A gentleman of <placeName key="Bavaria" corresp="Germany">Bavaria</placeName></persName>, of a noble family, was so afflicted at the 
+<p><persName type="fictional" key="Otto">A gentleman of <placeName type="region" key="Bavaria" corresp="Germany">Bavaria</placeName></persName>, of a noble family, was so afflicted at the 
 death of <persName type="fictional" key="Bertha">his wife</persName>, that unable to bear the company of any other 
 person, he gave himself entirely up to a solitary way of living. This 
 was the more remarkable in him, as he had been a man of jovial 
@@ -435,7 +435,7 @@ spirat,"</hi> says <persName key="Doering">Doering</persName>,  <hi xml:lang="la
 metaphorarum audaciam."</hi> The probability is, that <persName key="Catullus">Catullus</persName>, who was 
 a traveller, wrote it upon some favourite vessel, which after long 
 service he had thus consecrated to the twin stars of <persName key="Castor">Castor</persName> and <persName key="Pollux">Pollux</persName>, 
-and laid up near his beloved house on the peninsula of <placeName key="Sirmio" corresp="Italy">Sirmio</placeName>. The 
+and laid up near his beloved house on the <placeName type="region" key="Sirmio peninsula" corresp="Italy">peninsula of Sirmio</placeName>. The 
 reader is to imagine, that the poet, during a visit of some friends, 
 takes them down to a retired bay of the water, and shews them his 
 old skiff laid up in port, like a battered pensioner. </p>
@@ -458,12 +458,12 @@ old skiff laid up in port, like a battered pensioner. </p>
 <l>And that no skiff that swam the main, </l>
 <l>Could get before it, strain for strain, </l>
 <l>Whether it flew with sail or oar. </l>
-<l>And this it, says, not <placeName key="Coast of the Adriatic Sea" corresp="Italy">Adria's shore</placeName> </l>
+<l>And this it, says, not <placeName type="region" key="Coast of the Adriatic Sea" corresp="Italy">Adria's shore</placeName> </l>
 <l>With all its bluster can deny, </l>
 <l>Nor that Ægæan company, </l>
-<l>Nor glorious <placeName key="Rhodes" corresp="Greece">Rhodes</placeName>, nor savage <placeName key="Thrace" corresp="Greece">Thrace</placeName>, </l>
-<l>Nor <placeName key="Dardanelles" corresp="Turkey">Hellespont</placeName><note type="editorial">The Hellespont, as it is known in Classical Antiquity, refers to the Dardanelles or the Strait of Gallipoli which is a narrow strait in northwestern Turkey which forms part of the continental boundary between Asia and Europe.</note> with either face, </l>
-<l>Nor the tremendous <placeName key="Pontus" corresp="Turkey">Pontic bay</placeName>, — </l>
+<l>Nor glorious <placeName type="region" key="Rhodes" corresp="Greece">Rhodes</placeName>, nor savage <placeName type="region" key="Thrace" corresp="Greece">Thrace</placeName>, </l>
+<l>Nor <placeName type="physical" key="Dardanelles" corresp="Turkey">Hellespont</placeName><note type="editorial">The Hellespont, as it is known in Classical Antiquity, refers to the Dardanelles or the Strait of Gallipoli which is a narrow strait in northwestern Turkey which forms part of the continental boundary between Asia and Europe.</note> with either face, </l>
+<l>Nor the tremendous <placeName type="region" key="Pontus" corresp="Turkey">Pontic bay</placeName>, — </l>
 <l>Where, till it took it's watery way, </l>
 <l>It was a thing of sylvan locks, </l>
 <l>And used, on the Cytorian rocks, </l>
