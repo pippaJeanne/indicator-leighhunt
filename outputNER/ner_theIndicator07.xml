@@ -47,7 +47,7 @@
                     <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                         <head type="title">THE INDICATOR.</head>
                         <epigraph>
-                            <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                            <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                                 <l>There he arriving round about doth flie,</l>
                                 <l>And takes survey with busie, curious eye:</l>
                                 <l>Now this, now that, he tasteth tenderly.</l>
@@ -79,7 +79,7 @@
     fifty tattered prodigals, lately come from swine-keeping, from eating  
     draff and husks. — A mad fellow met me on the way, and told me, I  
     had unloaded all the gibbets, and pressed the dead bodies. — No eye  
-    hath seen such scare-crows. — I'll not march through <placeName key="Coventry" corresp="England">Coventry</placeName> with  
+    hath seen such scare-crows. — I'll not march through <placeName type="region" key="Coventry" corresp="England">Coventry</placeName> with  
     them, that's flat.— Nay, and the villains march wide betwixt the  
     legs, as if they had gyves on; for indeed I had most of them out of  
     prison.— There's but a shirt and a half in all my company; — and the  
@@ -96,10 +96,10 @@
 
     the old blunder attributed to <persName key="Goldsmith">Goldsmith</persName> about a dish of green peas.  
     Somebody had been applauded in company for advising his cook to  
-    take some ill-drest peas to <placeName key="Hammersmith" corresp="England">Hammersmith</placeName>, <q type="spoken">because that was the  
+    take some ill-drest peas to <placeName type="region" key="Hammersmith" corresp="England">Hammersmith</placeName>, <q type="spoken">because that was the  
     way to turn'em Green;</q> upon which <persName key="Goldsmith">Goldsmith</persName> is said to have gone  
     and repeated the pun at another table in this fashion; — <q type="spoken">John should  
-    take those peas, I think, to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">Why so. Doctor?</q>  
+    take those peas, I think, to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">Why so. Doctor?</q>  
     <q type="spoken">Because that is the way to make 'em green.</q> Now our friend  
     would give the blunder with this sort of additional dressing. At  
     sight of the dishes of vegetables.<persName key="Goldsmith">Goldsmith</persName>, who was at his own  
@@ -127,9 +127,9 @@
     booted and spurred. <q type="spoken">Ha!</q> exclaimed <persName key="Goldsmith">Goldsmith</persName>, <q type="spoken">those boots and  
     spurs are your salvation, you knave. Do you know. Sir, what you  
     have done?</q> — <q type="spoken">No, Sir.</q> — <q type="spoken">Why, you have made the peas yellow.  
-    Sir. Go instantly, and take 'em to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">To <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>,  
+    Sir. Go instantly, and take 'em to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">To <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>,  
     Sir?</q> cried the man, all in astonishment, the guests being no  
-    less so : — <q type="spoken">please Sir, why am I to take 'em to <placeName key="Hammermsith" corresp="England">Hammersmith</placeName>?</q> —  
+    less so : — <q type="spoken">please Sir, why am I to take 'em to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>?</q> —  
     <q type="spoken">Because, Sir,</q> and here <persName key="Goldsmith">Goldsmith</persName> looked round with triumphant  
     anticipation, <q type="spoken">that is the way to render those peas green.</q> </p>
 
@@ -138,7 +138,7 @@
     indeed of more interest to the general reader. <persName key="Samuel Butler">Butler</persName> is defrauded of  
     his fame with readers of taste who happen to be no politicians, when  
     <title level="a">Hudibras</title> is printed without this appendage. The piece we allude  
-    to is a short Description of <placeName key="Holland" corresp="The Netherlands">Holland</placeName> : — </p>
+    to is a short Description of <placeName type="country" key="Holland" corresp="The Netherlands">Holland</placeName> : — </p>
 
     <cit>
         <quote>
@@ -166,7 +166,7 @@
     poetry. <persName key="Andrew Marvell">Marvell</persName>, though born later, seems to have been known earlier  
     as an author. He was certainly known publicly before him. But in  
     the political poems of <persName key="Andrew Marvell">Marvell</persName> there is a ludicrous Character of  
-    <placeName key="Holland" corresp="The Netherlands">Holland</placeName>, which might be pronounced to be either the copy or the original  
+    <placeName type="country" key="Holland" corresp="The Netherlands">Holland</placeName>, which might be pronounced to be either the copy or the original  
     of <persName key="Samuel Butler">Butler</persName>'s, if in those Anti-Batavian times the Hollander had  
     not been baited by all the wits; and were it not probable, that the  
     unwieldy monotony of his character gave rise to much the same  
@@ -180,7 +180,7 @@
     
     <cit>
         <quote>
-    <lg xml:id="verse1"><l><placeName key="Holland" corresp="The Netherlands">Holland</placeName>, that scarce deserves the name of land, </l>
+    <lg xml:id="verse1"><l><placeName type="country" key="Holland" corresp="The Netherlands">Holland</placeName>, that scarce deserves the name of land, </l>
     <l>As but the off-scouring of the British sand;  </l>
     <l>And so much earth as was contributed  </l>
     <l>By English pilots, when they heaved the lead; </l> 
@@ -301,8 +301,8 @@
     daughter. Whether by her means or not does not appear; but after  
     some time he contrived to escape. The lady with her loving heart  
     followed him. She knew, they say, but two words of his language, —  
-    <placeName key="London" corresp="England">London</placeName> and <persName key="Gilbert Becket">Gilbert</persName>; and by repeating the former, she obtained a  
-    passage in a vessel, arrived in <placeName key="England" corresp="England">England</placeName>, and found her trusting way  
+    <placeName type="city" key="London" corresp="England">London</placeName> and <persName key="Gilbert Becket">Gilbert</persName>; and by repeating the former, she obtained a  
+    passage in a vessel, arrived in <placeName type="country" key="England" corresp="England">England</placeName>, and found her trusting way  
     to the metropolis. She then took to her other talisman, and went  
     from street to street pronouncing <persName key="Gilbert Becket">Gilbert</persName>. A crowd collected about  
     her wherever she went, asking of course a thousand questions, and  
