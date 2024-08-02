@@ -135,10 +135,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155444833",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155629550",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-02T19:54:44.833Z",
-	"dcterms:modified": "2024-08-02T19:56:29.550Z",
+	"dcterms:created": "2024-08-02T19:56:29.550Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -149,7 +148,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155444833#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155629550#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -163,7 +162,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155444833#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240802155629550#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName[2]"
 		}
@@ -285,7 +284,7 @@ laughers in <persName key="William Shakespeare" cert="high" ref="http://www.wiki
 <l>With such a zealous laughter, so profound.  </l>
 <l>That in this spleen ridiculous, appears,  </l>
 <l>To check their laughter, passion's solemn tears.  </l>
-<l rend="indent"><title level="m">LOVE'S LABOUR LOST</title></l></lg></quote>
+<l rend="indent"><bibl cert="high" default="true" generatedBy="human" rend="right" xml:space="default"><title level="m">LOVE'S LABOUR LOST</title></bibl></l></lg></quote>
 <note type="source"> 
     <bibl><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title> </bibl>
 </note>
