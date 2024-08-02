@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -198,7 +198,7 @@ to it by birth; and yet instead of it's destroying them both, he was
 allowed to be her husband. </p>
 
 <p><persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> was the son of <persName key="Sir William Brandon">Sir William Brandon</persName>, whose skull  
-was cleaved at <placeName key="Bosworth" corresp="England">Bosworth</placeName> by <persName key="King Richard III">Richard the Third</persName>, while bearing the  
+was cleaved at <placeName type="region" key="Bosworth Field" corresp="England">Bosworth</placeName> by <persName key="King Richard III">Richard the Third</persName>, while bearing the  
 standard of the <persName key="Duke of Richmond">Duke of Richmond</persName>. <persName key="King Richard III">Richard</persName> dashed at the standard,  
 and appears to have been thrown from his horse by <persName key="Sir William Brandon">Sir William</persName>,  
 whose strength and courage however could not save him from the  
@@ -209,7 +209,7 @@ angry desperation of <persName key="King Richard III">the king</persName>.</p>
 <l>Who marries <persName key="Duke of Richmond">Richmond</persName>'s daughter, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
 <note type="source"><bibl><author>Sir John Beaumont</author> <title level="m">Bosworth Field</title>.</bibl></note></cit> 
-<p rend="center"><persName key="Sir John Beaumont">Sir John Beaumont</persName>'s <placeName key="Bosworth Field" corresp="England">Bosworth Field</placeName></p>
+<p rend="center"><persName key="Sir John Beaumont">Sir John Beaumont</persName>'s <placeName type="region" key="Bosworth Field" corresp="England">Bosworth Field</placeName></p>
 
 
 <p>The father's fate must doubtless have had it's effect in securing the 
@@ -227,12 +227,12 @@ it by the great improbability of her ever being suffered to become
 his wife. Royal females in most countries have certainly none of the  
 advantages of their rank, whatever the males may have. <persName key="Mary Tudor, Queen of France">Mary</persName> was  
 destined to taste the usual bitterness of their lot; but she was amply  
-repaid. At the conclusion of the war with <placeName key="France" corresp="France">France</placeName>, she was married  
+repaid. At the conclusion of the war with <placeName type="country" key="France" corresp="France">France</placeName>, she was married  
 to the old <persName key="King Louis XII">king Louis the Twelfth</persName>, who witnessed from a couch the  
 exploits of <persName key="Charles Brandon, 1st Duke of Suffolk">her future husband</persName> at the tournaments. The doings of  
 <persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> that time were long remembered. The love between  
 him and <persName key="Mary Tudor, Queen of France">the young queen</persName> was suspected by the French courts  
-and he had just seen her enter <placeName key="Paris" corresp="France">Paris</placeName> in the midst of a gorgeous  
+and he had just seen her enter <placeName type="city" key="Paris" corresp="France">Paris</placeName> in the midst of a gorgeous  
 procession, like <persName key="Aurora">Aurora</persName> come to marry <persName key="Tithonus">Tithonus</persName>. He dealt his  
 chivalry about him accordingly with such irresistible vigour, that  
 the Dauphin, in a fit of jealousy, secretly introduced into the contest  
@@ -259,7 +259,7 @@ likely that her hand would be sought by many princely lovers; but
 she was now resolved to reward herself for her late sacrifice, and in  
 less than two months she privately married her first love. <persName key="Mary Tudor, Queen of France">The  
 queen</persName>, says a homely but not mean poet <note type="hunt">(<persName key="William Warner" cert="low">Warner</persName>, in his <title level="a">Albion's  
-<placeName key="England" corresp="England">England</placeName></title>)</note> thought that to cast too many doubts </p>
+<placeName type="country" key="England" corresp="England">England</placeName></title>)</note> thought that to cast too many doubts </p>
 
 <cit><quote>
 <lg><l rend="indent">Were oft to erre no lesse </l>
@@ -281,7 +281,7 @@ not then been pampered into unbearable self-will by a long reign of
 <pb n="37"/>
 
 tyranny.  He soon forgave <persName key="Mary Tudor, Queen of France">his sister</persName> and <persName key="Charles Brandon, 1st Duke of Suffolk">friend</persName>; and they were  
-publicly wedded at <placeName key="Greenwich" corresp="England">Greenwich</placeName> on the 13th of May. </p>
+publicly wedded at <placeName type="region" key="Greenwich" corresp="England">Greenwich</placeName> on the 13th of May. </p>
 
 <p>It was during the festivities on this occasion (at least we believe  
 so, for we have not the chivalrous <persName key="Lord Herbert">Lord Herbert</persName>'s life of <persName key="King Henry VIII">Henry the  
@@ -377,9 +377,9 @@ the original translator, who applied the Roman word Genius to the
 Arabian Dive or Elf. </p>
 
 <p>One of the stories -with which <persName key="Pausanias">Pausanias</persName> has enlivened his  
-description of <placeName key="Greece" corresp="Greece">Greece</placeName>, is relative to a Genius. He says that one of  
+description of <placeName type="country" key="Greece" corresp="Greece">Greece</placeName>, is relative to a Genius. He says that one of  
 the companions of <persName key="Ulysses">Ulysses</persName> having been killed by the people of  
-<placeName key="Temesa" corresp="Italy">Temesa</placeName>, they were fated to sacrifice a beautiful virgin every year  
+<placeName type="city" key="Temesa" corresp="Italy">Temesa</placeName>, they were fated to sacrifice a beautiful virgin every year  
 to his manes. They were about to immolate one as usual, when  
 <persName key="Euthymus">Euthymus</persName>, a conqueror in the Olympic Games, touched with pity  
 at her fate and admiration of her beauty, fell in love with her, and  
@@ -391,7 +391,7 @@ to have been of an appalling presence. It's shape was every way
 formidable, it's colour of an intense black; and it was girded about  
 with a wolf-skin. But <persName key="Euthymus">Euthymus</persName> fought and conquered it; upon  
 which it fled madly, not only beyond the walls, but the utmost  
-bounds of <placeName key="Temesa" corresp="Italy">Temesa</placeName>, and rushed into the sea. </p>
+bounds of <placeName type="city" key="Temesa" corresp="Italy">Temesa</placeName>, and rushed into the sea. </p>
 
 <p>The Penates were Gods of the house and family. Collectively  
 speaking, they also presided over cities, public roads, aad at last over  
@@ -407,8 +407,8 @@ They were the personification of a particular Providence. The
 
 most striking mention of the Penates which we can call to mind is  
 in one of <persName key="Virgil">Virgil</persName>'s most poetical passages. It is where they appear  
-to Æneas, to warn him from <placeName key="Crete" corresp="Greece">Crete</placeName>, and announce his destined  
-empire in <placeName key="Italy" corresp="Italy">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
+to Æneas, to warn him from <placeName type="region" key="Crete" corresp="Greece">Crete</placeName>, and announce his destined  
+empire in <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
 
 <cit><quote>
 <lg xml:lang="latin"> <l>Nox erat, et terris animalia somaus habebat. </l>
@@ -425,7 +425,7 @@ empire in <placeName key="Italy" corresp="Italy">Italy</placeName>.  <note type=
 <l>I lay, and saw before my very eyes</l>  
 <l>Dread shapes of gods, and Phrygian -deities,</l>  
 <l>The great <persName key="Penates">Penates</persName>; whom with reverent joy</l>  
-<l>I bore from out the heart of burning <placeName key="Troy" corresp="Turkey">Troy</placeName>.</l>  
+<l>I bore from out the heart of burning <placeName type="city" key="Troy" corresp="Turkey">Troy</placeName>.</l>  
 <l>Plainly I saw there, standing in the light</l>  
 <l>Which the moon poured into the room that night.</l></lg>
 
@@ -457,7 +457,7 @@ dogs at their feet. Some writers make them the offspring of the
 goddess <persName key="Mania">Mania</persName>, who presided over the spirits of the dead; and  
 suppose that originally they were the same as those spirits; which is a  
 very probable as well as agreeable superstition, the old nations of  
-<placeName key="Italy" corresp="Italy">Italy</placeName> having been accustomed to bury their dead in their houses.  
+<placeName type="country" key="Italy" corresp="Italy">Italy</placeName> having been accustomed to bury their dead in their houses.  
 Upon this supposition, the good or benevolent spirits were called  
 Familiar Lares, and the evil or malignant ones Larvæ and Lemures.  
 Thus <persName key="Milton">Milton</persName>, in his awful Hymn on the Nativity : — </p>
@@ -488,7 +488,7 @@ reference enough to the gossiping over fire-places. </p>
 these lesser household gods and some of the offices of our old English  
 elves and fairies. But of them, more by and by. <persName key="Dacier">Dacier</persName>, in a note  
 upon <persName key="Horace">Horace</persName> <note type="hunt">(Book 1, Od. 12.)</note> informs us, that in some parts of  
-<placeName key="Languedoc" corresp="France">Languedoc</placeName>, in his time, the fire-place was still called the Lar; and  
+<placeName type="region" key="Languedoc" corresp="France">Languedoc</placeName>, in his time, the fire-place was still called the Lar; and  
 that the name was also given to houses. </p>
 
 <p><persName key="Robert Herrick">Herrick</persName>, an excellent poet of the Apacreontic order in the time of  
