@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior 
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior 
                          of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  
                          of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  
                          recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  
@@ -116,7 +116,7 @@ which made him the more welcome. Of <persName key="Samuel Johnson" cert="low">Jo
 <persName key="Richard Savage">Savage</persName> (we cannot help beginning the sentence with his favourite  
 leading preposition), the well-known Life is an interesting and  
 honourable record. It is said that in the commencement of their  
-friendship, they have sometimes wandered together about <placeName key="London" corresp="England">London</placeName> for  
+friendship, they have sometimes wandered together about <placeName type="city" key="London" corresp="England">London</placeName> for  
 want of a lodging; — more likely, for <persName key="Richard Savage">Savage</persName>'s want of it, and <persName key="Samuel Johnson" cert="low">Johnson</persName>'s  
 fear of offending him by offering a share of his own- But we  
 do not- remember how this circumstance is related by <persName key="James Boswell">Boswell</persName>. </p>
@@ -130,7 +130,7 @@ him, and ready to go out. What was intended, and whither they
 were to go. <persName key="Richard Savage">Savage</persName> could not conjecture, and was not willing to  
 enquire; but immediately seated himself with <persName key="Sir Richard Steele">Sir Richard</persName>. The  
 coachman was ordered to drive, and they hurried with the utmost  
-expedition to <placeName key="Hyde-Park Corner" corresp="England">Hyde-Park Corner</placeName>, where they stopped at a petty  
+expedition to <placeName type="landmark" key="Hyde-Park Corner" corresp="England">Hyde-Park Corner</placeName>, where they stopped at a petty  
 tavern, and retired to a private room. <persName key="Sir Richard Steele">Sir Richard</persName> then informed  
 him that he intended to publish a pamphlet, and that he had desired  
 him to come thither that he might write for him. They soon sat  
@@ -439,7 +439,7 @@ own exemption from suffering, and not for its diminution in general. </p>
 <p>There is a set of Italians now going about the streets, who sell  
 busts, vases, and other casts in plaister. Every body may not be  
 aware, that some of these casts are after the antique. There is a  
-head, for instance, of the Apollo Belvedere from the statue at <placeName key="Rome" corresp="Italy">Rome</placeName>;  
+head, for instance, of the Apollo Belvedere from the statue at <placeName type="city" key="Rome" corresp="Italy">Rome</placeName>;  
 another of <persName key="Homer">Homer</persName>; another of <persName key="Antinous">Antinous</persName>; another, we believe, of a  
 <persName key="Melpomene">Melpomene</persName>, crowned with vine-leaves in allusion to the origin of  
 tragedy, and a head of <persName key="Sappho">Sappho</persName>, which, if we are not mistaken, is  
@@ -470,7 +470,7 @@ shillings. </p>
 
 <p>Impressions from ancient gems are now also to be had with singular  
 cheapness, in consequence of an invention of <persName key="Mr. Tassie">Mr. Tassie</persName>'s, of  
-<placeName key="Leicester-square" corresp="England">Leicester-square</placeName>. He has found out a composition, which enables him  
+<placeName type="landmark" key="Leicester-square" corresp="England">Leicester-square</placeName>. He has found out a composition, which enables him  
 to procure in a few days, for three and sixpence, an impression exactly  
 resembling that of any gem you may select. This you may either  
 have set for your watch-chain, or keep in your desk or pocket; for  
