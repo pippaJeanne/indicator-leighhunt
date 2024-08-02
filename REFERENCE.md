@@ -162,6 +162,11 @@ Example:
 <placeName key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName>
 
 To distinguish between types of places the @type attribute can be used:
+Country
+Continent
+City
+Street
+
 Fictional
 Physical : for natural features like mountains, lakes, forest etc.
 Pub : for pubs that one drinks at
