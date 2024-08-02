@@ -148,7 +148,8 @@ very consistency, as to excite the other. </p>
 <quote><lg><l>Coffins stood round like open presses, </l>
 <l>Which shewed the dead in their last dresses : </l>
 <l>And by some devilish cantrip sleight, </l>
-<l>Each, in his cauld hand, held a light. </l></lg></quote> <note type="source"><bibl><author><persName key="Robert Burns">Burns, Robert</persName></author>: <title level="a">Tom o' Shanter</title></bibl></note></cit>
+<l>Each, in his cauld hand, held a light. </l></lg></quote> 
+<note type="source"><bibl><author>Robert Burns</author> <title level="a">Tom o' Shanter</title></bibl></note></cit>
 
 <p>Reanimation is perhaps the most ghastly of all ghastly things, uniting 
 as it does an appearance of natural interdiction from the next world, 
@@ -193,15 +194,16 @@ is that of the beautiful woman. To return also to <title level="a" key="The Rime
 Mariner</title>. The most appalling personage in <persName key="Samuel Taylor Coleridge">Mr. Coleridge</persName>'s 
 <title level="a" key="The Rime of the Ancient Mariner">Ancient Mariner</title> is the Spectre-woman, who is called <persName type="fictional" key="Life-in-Death">Life-in-Death</persName>. 
 He renders the most hideous abstraction more terrible than it could 
-otherwise have been, by embodying it in it's own reverse. "<persName type="ficitonal" key="Death">Death</persName>" 
-not only "lives" in it; but the "unutterable" becomes uttered. To 
+otherwise have been, by embodying it in it's own reverse. <q type="emph"><persName type="ficitonal" key="Death">Death</persName></q> 
+not only <q type="emph">lives</q> in it; but the <q type="emph">unutterable</q> becomes uttered. To 
 see such an unearthly passage end in such earthliness, seems at the 
 moment to turn common-place itself into a sort of spectral doubt. 
 <persName type="fictional" key="The Mariner">The Mariner</persName>, after describing the horrible calm, and the rotting sea, 
 in which the ship was stuck, is speaking of a strange sail which he 
 descried in the distance. </p>
 
-<cit><quote><lg xml:lang="en" xml:id="the-rime-of-the-ancient-mariner" rend="center"><lg xml:id="verse1"><l>The western wave was all a-flame. </l>
+<cit><quote><lg xml:lang="en" xml:id="the-rime-of-the-ancient-mariner" rend="center"><lg xml:id="verse1">
+<l>The western wave was all a-flame. </l>
 <l>The day was well nigh done ! </l>
 <l>Almost upon the western wave </l>
 <l>Rested the broad bright Sun; </l>
@@ -267,7 +269,7 @@ thought that he loved her, by the extreme bitterness of his grief.
 The very mention of festivity, though he was patient for the first day 
 or two, afterwards threw him into a passion of rage; but by degrees, 
 even his rage followed his other old habits. He was gentle, but ever 
-silent. He <choice><sic>eat</sic><corr>ate</corr></choice> and drank but sufficient to keep him alive; and used 
+silent. He <choice><corr>ate</corr><sic>eat</sic></choice> and drank but sufficient to keep him alive; and used 
 to spend the greater part of the day in the spot where his wife was 
 buried. </p>
 
@@ -278,7 +280,7 @@ buried. </p>
 
 with his eyes turned towards the earth, and had just entered the 
 rails of the burial ground, when he was accosted by the mild voice of 
-somebody coming to meet him. "It is a blessed evening, Sir," said 
+somebody coming to meet him. <q type="spoken">It is a blessed evening, Sir,</q> said 
 the voice. <persName type="fictional" key="Otto">The gentleman</persName> looked up. Nobody but himself was 
 allowed to be in the place at that hour; and yet he saw, with 
 astonishment, a young chorister approaching him. He was going to 
@@ -287,8 +289,8 @@ of the boy, and the extreme beauty of his countenance, which glowed
 in the setting sun before him, made an irresistible addition to the 
 singular sweetness of his voice; and he asked him with an involuntary 
 calmness, and a gesture of respect, not what he did there, but what 
-he wished. "Only to wish you all good things," answered the 
-stranger, who had now come up; "and to give you this letter," 
+he wished. <q type="spoken">Only to wish you all good things,</q> answered the 
+stranger, who had now come up; <q type="spoken">and to give you this letter,</q> 
 <persName type="fictional" key="Otto">The gentleman</persName> took the letter, and saw upon it, with a beating yet 
 scarcely bewildered heart, the handwriting of <persName type="fictional" key="Bertha">his wife</persName>. He raised his 
 eyes again to speak to the boy, but he was gone. He cast them far 
@@ -315,8 +317,8 @@ conscious. It seemed to him as if there had been but two things in the
 world, — Life and Death; and that Death was dead. All else 
 appeared to have been a dream. He had awaked from a waking state, 
 and found himself all eye, and spirit, and loco-motion. He said to 
-himself, once, as he went : "This is not a dream. I will ask my 
-great ancestors tomorrow to my new bridal feast, for they are alive." 
+himself, once, as he went : <q type="spoken">This is not a dream. I will ask my 
+great ancestors tomorrow to my new bridal feast, for they are alive.</q> 
 <persName type="fictional" key="Otto">Otto</persName> had been calm at first, but something of old and triumphant 
 feelings seemed again to come over him. Was he again too proud 
 and confident? Did his earthly humours prevail again, when he 
@@ -338,7 +340,7 @@ end of the walk, and approached the lady again. She was still sitting
 in the same quiet posture, only he thought she looked at him. Again 
 he passed her. On his second return, a grave and sweet courage 
 came upon him, and in an under but firm tone of enquiry, he said 
-"<persName type="fictional" key="Bertha">Bertha</persName>?" — "I thought you had forgotten me," said that well- 
+<q type="spoken"><persName type="fictional" key="Bertha">Bertha</persName>?</q> — <q type="spoken">I thought you had forgotten me,</q> said that well- 
 known and mellow voice, which he had seemed as far from ever 
 hearing again, as earth is from heaven. He took her hand, which 
 grasped his in turn; and they walked home in silence together, the 
@@ -372,8 +374,8 @@ shew any ordinary symptoms of uneasiness. </p>
 <p>At length, one day, some strong rebuff which he had received from 
 an alienated neighbour threw him into such a transport of rage, that 
 he gave way to the most bitter imprecations, crying with a loud voice 
-— "This treatment to me too ! To me ! To me, who if the world 
-knew all ——— At these words, <persName type="fictional" key="Bertha">his wife</persName>, who had in vain laid her hand 
+— <q type="spoken">This treatment to me too ! To me ! To me, who if the world 
+knew all</q> ——— At these words, <persName type="fictional" key="Bertha">his wife</persName>, who had in vain laid her hand 
 upon his, and looked him with dreary earnestness in the face, 
 suddenly glided from the room. He, and two or three who were 
 present, were struck with a dumb horror. They said, she did not walk 
@@ -433,14 +435,15 @@ spirat,"</hi> says <persName key="Doering">Doering</persName>,  <hi xml:lang="la
 metaphorarum audaciam."</hi> The probability is, that <persName key="Catullus">Catullus</persName>, who was 
 a traveller, wrote it upon some favourite vessel, which after long 
 service he had thus consecrated to the twin stars of <persName key="Castor">Castor</persName> and <persName key="Pollux">Pollux</persName>, 
-and laid up near his beloved house on the peninsula of <placeName corresp="Italy">Sirmio</placeName>. The 
+and laid up near his beloved house on the peninsula of <placeName key="Sirmio" corresp="Italy">Sirmio</placeName>. The 
 reader is to imagine, that the poet, during a visit of some friends, 
 takes them down to a retired bay of the water, and shews them his 
 old skiff laid up in port, like a battered pensioner. </p>
 
 <pb n="80"/>
 
-<cit><quote><lg xml:lang="latin" xml:id="catullus4" rend="center"><l>Phaselus ille, quem videtis, hospites, </l>
+<cit><quote><lg xml:lang="latin" xml:id="catullus4" rend="center">
+<l>Phaselus ille, quem videtis, hospites, </l>
 <l>Ait fuisse navium celerrimus, </l>
 <l>Neque ullius natantis impetum trabis </l>
 <l>Nequisse praeterire, sive palmulis </l>
@@ -448,7 +451,7 @@ old skiff laid up in port, like a battered pensioner. </p>
 <l>Et hoc negat minacis Adriatici </l>
 <l>Negare litus, insulasve Cycladas, </l>
 <l>Rhodumve nobilem, horridamque Thraciam, </l>
-<l>Propontida, trucemve Ponticum sinum, etc. </l></lg></quote><note type="source"><bibl><author>Catullus</author><title level="a">IV. de phasello</title></bibl></note></cit>
+<l>Propontida, trucemve Ponticum sinum, etc. </l></lg></quote><note type="source"><bibl><author>Catullus</author><title level="a">IV. de phasello</title><ref target="https://en.wikisource.org/wiki/Translation:Catullus_4"/></bibl></note></cit>
 
 <cit><quote><lg xml:lang="en" type="hunt-translation" xml:id="catullus4en" rend="center"><l>The bark, my friends, which you see here, </l> 
 <l>Will tell you that it had no peer; </l>
@@ -483,7 +486,7 @@ old skiff laid up in port, like a battered pensioner. </p>
 <l>But this is past: and now, grown old, </l>
 <l>It lays it's age in this calm hold, </l>
 <l>And dedicates itself to thee, </l>
-<l><persName key="Castor">Castor</persName>, and <persName key="Pollux">thy twin deity</persName>. </l></lg></quote><note type="source"><bibl></bibl></note></cit>
+<l><persName key="Castor">Castor</persName>, and <persName key="Pollux">thy twin deity</persName>. </l></lg></quote></cit>
 
 
 </div2>
@@ -496,8 +499,8 @@ old skiff laid up in port, like a battered pensioner. </p>
                 any thing of merely temporary interest. ] </p> 
                 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
