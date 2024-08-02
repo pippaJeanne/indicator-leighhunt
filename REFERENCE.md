@@ -164,9 +164,9 @@ Example:
 To distinguish between types of places the @type attribute can be used:
 Country
 Continent
-City
+City : Includes cities and towns
 Street
-region
+Region : for regions and islands
 Physical : for natural features like mountains, lakes, forest etc.
 Pub : for pubs that one drinks at
 Theatre
