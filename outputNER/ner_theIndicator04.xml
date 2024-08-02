@@ -47,7 +47,7 @@
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    <p>There  is  a  bird  in  the  interior  of  <placeName key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="Africa">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  <hi rend="smallcaps">Cuculus Indicator  of  Linnæus</hi>,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -106,7 +106,7 @@ he gave up the point with an oath. </p>
 they gradually left off inviting him to their houses, some from  
 mercenary disappointment, some from a more generous disgust, others  
 because the rest did so; and at last, just after a singular adventure  
-which happened to him at <placeName key="Brighton" corresp="England">Brighton</placeName>, he totally disappeared. </p>
+which happened to him at <placeName type="city" key="Brighton" corresp="England">Brighton</placeName>, he totally disappeared. </p>
 
 <p>Every body took him for a madman on that occasion. He had  
 not been at the place above a day or two, and was seen, during  
@@ -114,7 +114,7 @@ that time, walking about the beach very thoughtfully, with an air
 of sorrow, owing, it was conjectured, to his having put himself to  
 the expense of travelling without obtaining his expected repayment,  
 for nobody invited him. But be this as it may, he was  
-seen, one morning, running in the most violent manner across <placeName key="the Steyne" corresp="England">the  
+seen, one morning, running in the most violent manner across <placeName type="street" key="the Steyne" corresp="England">the  
 Steyne</placeName>, and crying out <q type="spoken">Fire !</q> His face was as pale as death; he  
 seemed every now and then, in the midst of his haste, to be twitched  
 and writhed up with a sort of convulsion; and his hat having been  
@@ -137,8 +137,8 @@ mentioned. <persName key="Charles Kennedy">Kennedy</persName>, it seems, was rea
 the estates of a third or fourth cousin, whose name he took. He had  
 had little or no acquaintance with his kinsman, before he found  
 himself his heir. His father was a petty overseer somewhere or other,  
-at a great distance from <placeName key="London" corresp="England">London</placeName> and the cousin, whose estates he  
-succeeded to, was the son of a general officer in the <placeName key="East-India" corresp="India">East-India</placeName>  
+at a great distance from <placeName type="city" key="London" corresp="England">London</placeName> and the cousin, whose estates he  
+succeeded to, was the son of a general officer in the <placeName type="region" key="East-India" corresp="India">East-India</placeName>  
 service. The cousin had had a son whom he sent abroad to follow  
 his grandfather's profession; but receiving the news of his death a  
 little before his own, he sickened the faster, and being in a state  
@@ -291,9 +291,9 @@ a thump on the shoulder which made him jump — <q type="spoken">pray do not let
 me interrupt you. I only hope you are not lodging in — in — what's  
 the name of the street?</q> </p>
 
-<p><q type="spoken"><placeName key="North Street" corresp="England">North Street</placeName>? — I tried <placeName key="Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
+<p><q type="spoken"><placeName type="street" key="North Street" corresp="England">North Street</placeName>? — I tried <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
 
-<p><q type="spoken">Ah, <placeName key="North Street" corresp="England">North Street</placeName>.</q> </p>
+<p><q type="spoken">Ah, <placeName type="street" key="North Street" corresp="England">North Street</placeName>.</q> </p>
 
 <p><q type="spoken">Why so. Sir, pray?</q> asked the other, with an air of increasing  
 fidget and alarm, and looking about him. </p>
@@ -329,7 +329,7 @@ turned deadly pale, then red, then pale again, and seeming to summon
 <pb n="30"/>
 
 up a convulsive strength, sprang off witb all his mighty and  
-rushed across <placeName key="the Steyne" corresp="England">the Steyne</placeName> like a madman. </p>
+rushed across <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName> like a madman. </p>
 
 <p>When he arrived at his lodging he found the street empty, and the  
 house quite cool, and being anxious to make the best and quickest of  
@@ -346,9 +346,9 @@ preserver, would have passed by under pretence of not seeing him.
 He was stopped however by the elbow. <q type="spoken">My dear Sir,</q> exclaimed  
 the stranger with his old smile, <q type="spoken">I rejoice to find that all was safe.</q>  
 <q type="spoken">Pray</q> continued he, changing his aspect, and looking grave and  
-earnest, — <q type="spoken">You know the various families at <placeName key="Brighton" corresp="England">Brighton</placeName> ; — I have  
+earnest, — <q type="spoken">You know the various families at <placeName type="city" key="Brighton" corresp="England">Brighton</placeName> ; — I have  
 found just now that there is one here which will save me a journey  
-to <placeName key="London" corresp="England">London</placeName> — the name is <persName key="Cameron">Cameron</persName> — can you tell me where they live?  
+to <placeName type="city" key="London" corresp="England">London</placeName> — the name is <persName key="Cameron">Cameron</persName> — can you tell me where they live?  
 There is a person of the name of <persName key="Kennedy">Kennedy</persName> also, who I understand is  
 here too; — but that doesn't signify at present; — pray tell me if you  
 know where the <persName key="Cameron">Cameron</persName>s are.</q> </p>
@@ -392,7 +392,7 @@ wondering of all parties. </p>
 
 <p>You have doubtless been guessing with him ; and it is easy to fancy  
 the remainder. There had been a false return of the young soldier's  
-death, in accounts from the army in <placeName key="India" corresp="India">India</placeName>. He had been taken  
+death, in accounts from the army in <placeName type="country" key="India" corresp="India">India</placeName>. He had been taken  
 prisoner, and when he obtained his liberty, learnt with great grief and  
 surprise, that his father had died under the impression that he was  
 dead also, and had left his property to unknown heirs. The property  
