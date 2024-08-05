@@ -57,7 +57,7 @@ cert="high" type="real">SPENSER</persName>.</l>
 
 
 <p>[The following tale is founded upon a tradition in <persName key="Anne Grant" ref="http://www.wikidata.org/entity/Q4768392" cert="high" type="real">Mrs. Grant</persName>'s <title key="Essays on the Superstitions of the Highlanders of Scotland" ref="https://archive.org/details/essaysonsuperst00grangoog/page/n12/mode/2up" level="s">Superstitions 
-of the <placeName key="Highlands" corresp="Scotland">Highlands</placeName></title>. It was originally intended to be written in verse; which will 
+of the <placeName type="region" key="Highlands" corresp="Scotland">Highlands</placeName></title>. It was originally intended to be written in verse; which will 
 account for it's present appearance.]</p>
 
 <lg>
@@ -78,7 +78,7 @@ account for it's present appearance.]</p>
 <l>Tis evening quick;—tis night:—the rain</l>
 <l>Is sowing wide the fruitless main,</l>
 <l>Thick, thick;–no sight remains the while</l>
-<l>From the farthest <placeName key="Orkney" corresp="Scotland">Orkney isle</placeName>,</l>
+<l>From the farthest <placeName type="region" key="Orkney" corresp="Scotland">Orkney isle</placeName>,</l>
 <l>No sight to sea-horse, or to seer,</l>
 <l>But of a little pallid sail,</l>
 <l>That seems as if twould struggle near,</l>
@@ -115,7 +115,7 @@ account for it's present appearance.]</p>
 <l>And bright <persName key="Clan Alpin">Clan Alpin</persName>, who could leap</l>
 <l>Like a torrent from steep to steep;</l>
 <l>And he, the greatest of that great band,</l>
-<l><persName key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>.</l>
+<l><persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>.</l>
 </lg>
 <lb />
 <lg>
@@ -134,7 +134,7 @@ account for it's present appearance.]</p>
 </lg>
 <lb />
 <lg>
-<l><persName key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName></l>
+<l><persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName></l>
 <l>Has rowed the most of all that band;</l>
 <l>And now he's resting for a space</l>
 <l>At the helm, and turns his face</l>
@@ -142,7 +142,7 @@ account for it's present appearance.]</p>
 <l>To see what cannot be descried,</l>
 <l>Shore, nor sky, nor light, nor even</l>
 <l>HOPE, whose feet are last in heaven.</l>
-<l><persName key="Ronald of the Perfect Hand">Ronald</persName> thought him of the roar</l>
+<l><persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> thought him of the roar</l>
 <l>Of the fight the day before,</l>
 <l>And of the young Norwegian prince</l>
 <l>Whom in all the worryings</l>
@@ -150,7 +150,7 @@ account for it's present appearance.]</p>
 <l>He had sent with life away,</l>
 <l>Because he told him of a bride</l>
 <l>That if she lost him, would have died;</l>
-<l>And <persName key="Ronald of the Perfect Hand">Ronald</persName> then, in bitter case,</l>
+<l>And <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> then, in bitter case,</l>
 <l>Though of his own sweet lady's face,</l>
 <l>Which upon this very night</l>
 <l>Should have blushed with bridal light,</l>
@@ -166,7 +166,7 @@ account for it's present appearance.]</p>
 <l>And more he though of, grave and sweet,</l>
 <l>That made the thin tears start, and meet</l>
 <l>The wetting of the insolent wave;</l>
-<l>And <persName key="Ronald of the Perfect Hand">Ronald</persName>, who though all so brave,</l>
+<l>And <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, who though all so brave,</l>
 <l>Had often that hard day before</l>
 <l>Wished himself well housed on shore,</l>
 <l>Felt a sharp impatient start</l>
@@ -178,27 +178,27 @@ account for it's present appearance.]</p>
 </lg>
 <lb />
 
-<p>"Some spirit," exclaimed <persName key="Duth Maruno">Duth Maruno</persName>, "must pursue us, and 
+<p><q type="spoken">Some spirit,</q> exclaimed <persName key="Duth Maruno">Duth Maruno</persName>, <q type="spoken">must pursue us, and 
 perpetually urge the boat out of it's way, or we must have arrived 
-by this time at <placeName key="Orkney" corresp="Scotland">Inistore</placeName>."*<note type="hunt" place="foot">The old name for the Orkneys.</note> <persName key="Ronald of the Perfect Hand">Ronald</persName> took him at his word, and turning
+by this time at <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>.</q>*<note type="hunt" place="foot">The old name for the Orkneys.</note> <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> took him at his word, and turning
 hastily round, thought he saw an armed figure behind the stern. 
 His anger rose with his despair; and with all his strength he dashed 
 his arm at the moveless and airy shape. At that instant a fierce 
 blast of wind half turned the boat round. The chieftains called out 
-to <persName key="Ronald of the Perfect Hand">Ronald</persName> to set his whole heart at the rudder; but the wind beat 
+to <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> to set his whole heart at the rudder; but the wind beat 
 back their voices, like young birds into the nest; and no answer 
 followed it. The boat seemed less and less manageable, and at last 
 to be totally left to themselves. In the intervals of the wind they 
-again called out to <persName key="Ronald of the Perfect Hand">Ronald</persName>, but still received no answer. One of 
+again called out to <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, but still received no answer. One of 
 them crept forward, and felt for him through the blinding wet and 
-darkness. His place was void. "It was a ghost," said they, "which 
-came to fetch him to the spirits of his fathers. <persName key="Ronald of the Perfect Hand">Ronald of the Perfect 
+darkness. His place was void. <q type="spoken">It was a ghost,</q> said they, <q type="spoken">which 
+came to fetch him to the spirits of his fathers. <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect 
 Hand</persName> is gone, and we shall follow him as we did in the fight. Hark! 
 The wind is louder and louder: it is louder and many-voiced. Is it 
 his voice which has roused up the others? Is he calling upon us, as 
-he did in the battle, when his followers shouted after his call?"</p>
+he did in the battle, when his followers shouted after his call?</q></p>
 
-<p>It was the rocks of an isle beyond <placeName key="Orkney" corresp="Scotland">Inistore</placeName>, which made that multitudinous 
+<p>It was the rocks of an isle beyond <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>, which made that multitudinous 
 roaring of the wind. The chieftains found that they were
 not destined to perish in the mid ocean; but it was fortunate for
 them that the wind did not set in directly upon the island, or they
@@ -209,107 +209,107 @@ remained on this desolate island two days, during the first of which
 the storm subsided. On the third, they were taken away by a boat
 of seal-hunters.</p>
 
-<p>The chiefs, on their arrival at home, related how <persName key="Ronald of the Perfect Hand">Ronald of the 
+<p>The chiefs, on their arrival at home, related how <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the 
 
 <pb n="156" />
 
 Perfect Hand</persName> had been summoned away by a loud-voiced spirit, and 
-disappeared. Great was the mourning in <placeName key="Orkney" corresp="Scotland">Inistore</placeName> for the Perfect 
+disappeared. Great was the mourning in <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName> for the Perfect 
 Hand; for the Hand that with equal skill could throw the javelin 
 and traverse the harp; could build the sudden hut of the hunter; 
 and bind up the glad locks of the maiden tired in the dance. Therefore 
-was he called <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName>; and therefore with great
+was he called <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName>; and therefore with great
 mourning was he mourned; yet with non half as great as by his 
-love, his betrother bride <persName key="Moilena of the Perfect Voice">Moilena</persName>; by her of the Beautiful Voice, who 
-had latterly begun to be called <persName key="Moilena of the Perfect Voice">the Perfect Voice</persName>, because she was to 
-be matched with <persName key="Ronald of the Perfect Hand">him of the Perfect Hand</persName>. <persName key="Ronald of the Perfect Hand">Perfect Hand</persName> and <persName key="Moilena of the Perfect Voice">Perfect 
-Voice</persName> were they called; but the Hand was now gone, and <persName key="Moilena of the Perfect Voice">the 
+love, his betrother bride <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>; by her of the Beautiful Voice, who 
+had latterly begun to be called <persName type="fictional" key="Moilena of the Perfect Voice">the Perfect Voice</persName>, because she was to 
+be matched with <persName type="fictional" key="Ronald of the Perfect Hand">him of the Perfect Hand</persName>. <persName type="fictional" key="Ronald of the Perfect Hand">Perfect Hand</persName> and <persName type="fictional" key="Moilena of the Perfect Voice">Perfect 
+Voice</persName> were they called; but the Hand was now gone, and <persName type="fictional" key="Moilena of the Perfect Voice">the 
 Voice</persName> sang brokenly for tears.</p>
 
-<p>A dreary winter was it, though a victorious, to the people of <placeName key="Orkney" corresp="Scotland">Inistore</placeName>. 
+<p>A dreary winter was it, though a victorious, to the people of <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>. 
 Their swords had conquered in Lochlin; but most of the
 hands that wielded them had never come back. Their warm pressure
 was felt no more. The last which they had given their friends was
-now to serve them all their lives. "Never, with all my yearning,"
-said <persName key="Moilena of the Perfect Voice">Moilena</persName>, "shall I look upon his again, as I have looked at it a
-hundred times, when nobody suspected. Never." And she turned
+now to serve them all their lives. <q type="spoken">Never, with all my yearning,</q>
+said <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>, <q type="spoken">shall I look upon his again, as I have looked at it a
+hundred times, when nobody suspected. Never.</q> And she turned
 from the sight of the destructive ocean, which seemed as interminable
 as her thoughts.</p>
 
 <p>But winter had now passed away. The tears of the sky at least
 were dried up. The sun looked out kindly again; and the spring
-had scarcely re-appeared, when <placeName key="Orkney" corresp="Scotland">Inistore</placeName> had a proud and a gladder
+had scarcely re-appeared, when <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName> had a proud and a gladder
 day, from the arrival of the young prince of Lochlin with his bride.
-It was a bitter one to <persName key="Moilena of the Perfect Voice">Moilena</persName>, for the prince came to thank <persName key="Ronald of the Perfect Hand">Ronald</persName>
+It was a bitter one to <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>, for the prince came to thank <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>
 for sparing his life in the war, and had brought his lady to thank him
-too. They thanked <persName key="Moilena of the Perfect Voice">Moilena</persName> instead; and proud, in the midst of her
-unhappiness, of being the representative of <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName>, she
+too. They thanked <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName> instead; and proud, in the midst of her
+unhappiness, of being the representative of <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName>, she
 lavished hundred of smiles upon them from her pale face. But she
 wept in secret. She could not bear this new addition to the store of
-noble and kind memories respecting her <persName key="Ronald of the Perfect Hand">Ronald</persName>. He had spared the
+noble and kind memories respecting her <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>. He had spared the
 bridegroom for his bride. He had hoped to come back to his own.
 She looked over to the north; and thought that her home was as
-much there as in <placeName key="Orkney" corresp="Scotland">Inistore</placeName>.
+much there as in <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>.
 </p>
 
-<p>Meantime, <persName key="Ronald of the Perfect Hand">Ronald</persName> was not drowned. A Scandinavian boat, bound 
-for an island called the <placeName key="Stromness" corresp="Scotland" cert="low">Island of the Circle</placeName>, had picked him up. 
+<p>Meantime, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> was not drowned. A Scandinavian boat, bound 
+for an island called the <placeName type="region" key="Stromness" corresp="Scotland" cert="low">Island of the Circle</placeName>, had picked him up. 
 The crew, which consisted chiefly of priests, were going thither to 
 propitiate the deities, on account of the late defeat of their countrymen. 
 They recognized the victorious chieftain, who on coming to 
 his senses freely confessed who he was. Instantly they raised a
-chorus, which rose sternly through the tempest. "We carry," said 
-they, "an acceptable present to the Gods. <persName type="fictional" key="Odin">Odin</persName>, stay thy hand from 
+chorus, which rose sternly through the tempest. <q type="spoken">We carry,</q> said 
+they, <q type="spoken">an acceptable present to the Gods. <persName type="fictional" key="Odin">Odin</persName>, stay thy hand from 
 the slaughter of the obscure. <persName type="fictional" key="Thor">Thor</persName>, put down the mallet with which 
 thou beatest, like red hail, on the skulls of thin enemies. Ye other 
 feasters in <placeName type="fictional" key="Valhalla">Valhalla</placeName>, set down the skulls full of mead, and pledge a health 
 out of a new and noble one to <persName type="fictional" key="Odin">the King of Gods</persName> and Men, that the 
 twilight of heaven may come late. We bring an acceptable present: 
-we bring <persName key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>." Thus they sang in the boat, 
+we bring <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>.</q> Thus they sang in the boat, 
 
 <pb n="157" /> 
 
 labouring all the while with the winds and waves, but surer now
 than ever of reaching the shore. And they did so, by the first light 
 of the morning. When they came to <placeName type="Landmark" key="The Ring of Brodgar" corresp="Scotland" cert="low">the circle of sacred stones</placeName>, 
-from which <placeName key="Stromness" corresp="Scotland" cert="low">the island</placeName> took it's name, they placed their late conquer- 
+from which <placeName type="region" key="Stromness" corresp="Scotland" cert="low">the island</placeName> took it's name, they placed their late conquer- 
 or by the largest, and kindled a fire in the middle. The warm smoke 
-rose thickly against the cold white morning. "Let me be offered 
-up to your gods," said <persName key="Ronald of the Perfect Hand">Ronald</persName>, "like a man, by the sword; and not 
-like food, by the fire." "We know all," answered the priests: "be 
-thou silent." "Treat not him," said <persName key="Ronald of the Perfect Hand">Ronald</persName>, "who spared your 
+rose thickly against the cold white morning. <q type="spoken">Let me be offered 
+up to your gods,</q> said <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, <q type="spoken">like a man, by the sword; and not 
+like food, by the fire.</q> <q type="spoken">We know all,</q> answered the priests: <q type="spoken">be 
+thou silent.</q> <q type="spoken">Treat not him,</q> said <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, <q type="spoken">who spared your 
 prince, unworthily. If he must be sacrificed, let him die as your 
-prince would have died by this hand." Still they answered nothing, 
-but "We know all: be thou silent." <persName key="Ronald of the Perfect Hand">Ronald</persName> could not help witnessing 
+prince would have died by this hand.</q> Still they answered nothing, 
+but <q type="spoken">We know all: be thou silent.</q> <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> could not help witnessing 
 these preparations for a new and unexpected death with an
 emotion of terror; but disdain and despair were uttermost. Once, 
-and but once, his cheek turned deadly pale in thinking of <persName key="Moilena of the Perfect Voice">Moilena</persName>. 
+and but once, his cheek turned deadly pale in thinking of <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>. 
 He shifted his posture resolutely, and thought of the spirit of the 
 dead whom he was about to join. The priests then encircled the fire 
 and the stone at which he tood, with another devoting song; and 
-<persName key="Ronald of the Perfect Hand">Ronald</persName> looked earnestly at the ruddy flames, which gave to his cold 
+<persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> looked earnestly at the ruddy flames, which gave to his cold 
 body, as in mockery, a kindly warmth. The priests however did not 
 lay hands on him. They respected the sparer of their prince so 
 far as not to touch him themselves; they left him to be dispatched 
 by the supernatural beings, whom they confidently expected to come 
 down for that purpose as soon as they had retired.</p>
 
-<p><persName key="Ronald of the Perfect Hand">Ronald</persName>, whose faith was of another description, saw their departure
+<p><persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, whose faith was of another description, saw their departure
 with joy; but it was damped the next minute. What was he to do in
 winter-time on an island, inhabited only by the aphibious creatures
-of the <placeName key="North Sea" corresp="North Sea">northern sea</placeName>, and never touched at but for a purpose hostile
-to his hopes? For he now recollected, that this was  <placeName key="Stromness" corresp="Scotland" cert="low">the island</placeName> he
+of the <placeName type="physical" key="North Sea" corresp="North Sea">northern sea</placeName>, and never touched at but for a purpose hostile
+to his hopes? For he now recollected, that this was  <placeName type="region" key="Stromness" corresp="Scotland" cert="low">the island</placeName> he
 ad so often heard of, as the chief seat of the Scandivnavian religion;
 whose traditions had so influenced countries of a different faith, that
-it was believed in <placeName key="Scotland" corresp="Scotland">Scotland</placeName> as well as the continetn, that no human
+it was believed in <placeName type="country" key="Scotland" corresp="Scotland">Scotland</placeName> as well as the continetn, that no human
 being could live there many hours. Spirits, it was thought, appeared
 in terrible superhuman shapes, like the bloody idols which the priests
 worshipped; and carried him off.</p>
 
-<p><persName key="Ronald of the Perfect Hand">The warrior of <placeName key="Orkney" corresp="Scotland">Inistore</placeName></persName> had soon too much reason to know the 
+<p><persName type="fictional" key="Ronald of the Perfect Hand">The warrior of <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName></persName> had soon too much reason to know the 
 extent of this belief. He was not without fear himself, but disdained 
 to yield to any circumstances without a struggle. He refreshed himself 
-with some snow-water; and after climbing the highest part of <placeName key="Stromness" corresp="Scotland" cert="low">the 
+with some snow-water; and after climbing the highest part of <placeName type="region" key="Stromness" corresp="Scotland" cert="low">the 
 island</placeName> to look for a boat in vain (nothing was to be seen but the 
 waves tumbling on all sides after the storm) he instantly set about 
 preparing a habitation. He saw at a little distance, on a slope, the 
@@ -317,7 +317,7 @@ mouth of a rocky cave. This he destined for his shelter at night;
 and looking round for a defence for the door, as he knew not whether 
 bears might not be among the inhabitants, he cast his eyes upon the 
 thinnest of the stones which stood upright about the fire. The heart 
-of <persName key="Ronald of the Perfect Hand">the warrior</persName>, though of a different faith, misgave him as he thought 
+of <persName type="fictional" key="Ronald of the Perfect Hand">the warrior</persName>, though of a different faith, misgave him as he thought 
 of appropriating this mystical stone, carved full of strange figures; 
 but half in courage, and half in the very despair of fear, he suddenly 
 
@@ -325,18 +325,18 @@ but half in courage, and half in the very despair of fear, he suddenly
 
 twisted it from it's place. No one appeared. The fire altered not. 
 The noise of the fowl and other creatures was no louder on the shore. 
-<persName key="Ronald of the Perfect Hand">Ronald</persName> smiled at his fears, and knew the undiminished vigour of <persName key="Ronald of the Perfect Hand">the
+<persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> smiled at his fears, and knew the undiminished vigour of <persName type="fictional" key="Ronald of the Perfect Hand">the
 Perfect Hand</persName>.</p>
 
 <p>He found the cavern already fitted for shelter; doubtless by the
 Scandinavian priests. He had bitter reason to know how well it
 sheltered him; for day after day he hoped in vain that some boat
-from <placeName key="Orkney" corresp="Scotland">Inistore</placeName> would venture upon <placeName key="Stromness" corresp="Scotland" cert="low">the island</placeName>. He beheld sails at a
+from <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName> would venture upon <placeName type="region" key="Stromness" corresp="Scotland" cert="low">the island</placeName>. He beheld sails at a
 distance, but they never came. He piled stone upon stone, joined
 old pieces of boats together, and made flags of the sea-weed; but all
 in vain. The vessels, he thought, came nearer, but none so near as
 to be of use; and a new and sickly kind of impatience cut across the
-stout heart of <persName key="Ronald of the Perfect Hand">Ronald</persName>, and set it beating. He knew not whether it
+stout heart of <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, and set it beating. He knew not whether it
 was with the cold or with misery, but his frame would shake for an
 hour together, when he lay down on his dried weeds and feathers to
 rest. He remembered the happy sleeps that used to follow upon toil;
@@ -353,13 +353,13 @@ dirty white into a yellow; and a faint-coloured poppy, neither the
 good nor the ill of which was then known; and here and there by the
 thorny underwood a shrinking violet. The lark alone seemed chear-
 ful, and startled the ear of the desolate chieftain with it's climbing
-triumph in the air. <persName key="Ronald of the Perfect Hand">Ronald</persName> looked up. His fancy had been made
+triumph in the air. <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> looked up. His fancy had been made
 wild and wilful by strange habits and sickened blood; and he thought
 impatiently, that if he were up there like the lark, he might see his
-friends and his love in <placeName key="Orkney" corresp="Scotland">Inistore</placeName>.</p>
+friends and his love in <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>.</p>
 
 <p>Being naturally however of a gentle as well as courageous disposi-
-tion, <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName> found the advantage as well as necessity of
+tion, <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName> found the advantage as well as necessity of
 turning his violent impulses into noble matter for patience. He had
 heard of the dreadful bodily sufferings which the Scandinavian heroes
 underwent from their enemies with triumphant songs. He knew
@@ -388,7 +388,7 @@ that had ever been heard in that wild island. He touched it one day
 in the midst of a flock of seals, who were basking in the sun; they 
 turned their heads towards the sound; he thought he saw in their 
 mild faces a human expression; and from that day forth no seal was 
-ever slain by <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName>. He spared even the huge and 
+ever slain by <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName>. He spared even the huge and 
 cloudy-visaged walrusses, in whose societies he beheld a dull resemblance 
 to the gentler affections; and his new intimacy with these 
 possessors of the place was completed by one of the former animals, 
@@ -418,11 +418,11 @@ and laid-open machinery; many thoughts came upon him,
 some which he understood not, and some which he recognized but
 too well; and a turbid violence seemed rising at his heart, when the
 seal his companion drew nigh, and began licking that weak memorial
-of <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName>. A shower of self-pitying tears fell upon the
+of <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName>. A shower of self-pitying tears fell upon the
 seal's face and the hand together.</p>
 
 <p>On a sudden, he heard a voice. It was a deep and loud one, and
-distinctly called out, <persName key="Ronald of the Perfect Hand">Ronald</persName>! He looked up, gasping with wonder.
+distinctly called out, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>! He looked up, gasping with wonder.
 Three times it called out, as if with peremptory command; and three
 times the rocks and caverns echoed the word with a dim sullenness.</p>
 
@@ -430,7 +430,7 @@ times the rocks and caverns echoed the word with a dim sullenness.</p>
 sudden change of sensations had done what all his sufferings had not 
 been able to do; and he found himself unable either to rise or to 
 speak. The voice called again and again, but it was now more distant; 
-and <persName key="Ronald of the Perfect Hand">Ronald</persName>'s heart sickened as he heard it retreating. His 
+and <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>'s heart sickened as he heard it retreating. His 
 
 <pb n="160" /> 
 strength seemed to fail him in proportion as it became necessary. 
@@ -441,47 +441,47 @@ it as they descend. They enter. They are before him and about
 him. Some of them, in a Scandinavian habit, prostrate themselves 
 at his feet, and address him in an unknown language. But these 
 are sent away by another, who remains with none but two youths. 
-<persName key="Ronald of the Perfect Hand">Ronald</persName> has risen a little, and leans his back against the rock. One 
+<persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> has risen a little, and leans his back against the rock. One 
 of the youths puts his arm between his neck and the rock, and half 
-kneels beside him, turning his face away and weeping. "I am no 
-god, nor a favourite of gods, as these people supposed me," said <persName key="Ronald of the Perfect Hand">Ronald</persName>, 
+kneels beside him, turning his face away and weeping. <q type="spoken">I am no 
+god, nor a favourite of gods, as these people supposed me,</q> said <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, 
 looking up at the chief who was speaking to the other youth :– 
-"if thou wilt dispatch me then, do so. I only pray thee to let the 
-death be fit for a warrior, such as I once was." The chief appeared
-agitated. "Speak not ill of the gods, <persName key="Ronald of the Perfect Hand">Ronald</persName>," said he, "although 
+<q type="spoken">if thou wilt dispatch me then, do so. I only pray thee to let the 
+death be fit for a warrior, such as I once was.</q> The chief appeared
+agitated. <q type="spoken">Speak not ill of the gods, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>,</q> said he, <q type="spoken">although 
 thou wert blindly brought up. A warrior like thee must be a favourite 
 of heaven. I come to prove it to thee: Dost thou not know 
-me? I come to give thee life for life." <persName key="Ronald of the Perfect Hand">Ronald</persName> looked more steadfastly. 
+me? I come to give thee life for life.</q> <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> looked more steadfastly. 
 It was the Scandinavian prince whom he had spared, because of his bride, in battle. He smiled, and lifted up his hand to
 him, which was intercepted and kissed by the youth who held his arm round his
-neck. "Who are these fair youths?" said <persName key="Ronald of the Perfect Hand">Ronald</persName>, 
-half turning his head to look in his supporter's face. "This is the 
-bride I spoke of," answered the prince, "who insisted on sharing this 
-voyage with me, and put on this dress to be the bolder in it." "And 
-who is the other?" The <hi rend="italic">other</hi>, with dried eyes, looked smiling into
-his, and intercepted the answer also.–"Who," said the sweetest 
-voice in the world, "can it be, but one?"–With a quick and almost 
-fierce tone, <persName key="Ronald of the Perfect Hand">Ronald</persName> cried out aloud "I know the voice;" and he 
+neck. <q type="spoken">Who are these fair youths?</q> said <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, 
+half turning his head to look in his supporter's face. <q type="spoken">This is the 
+bride I spoke of,</q> answered the prince, <q type="spoken">who insisted on sharing this 
+voyage with me, and put on this dress to be the bolder in it.</q> <q type="spoken">And 
+who is the other?</q> The <hi rend="italic">other</hi>, with dried eyes, looked smiling into
+his, and intercepted the answer also.–<q type="spoken">Who,</q> said the sweetest 
+voice in the world, <q type="spoken">can it be, but one?</q>–With a quick and almost 
+fierce tone, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> cried out aloud <q type="spoken">I know the voice;</q> and he 
 would have fallen flat on the earth, if they had not all three supported 
 him.</p>
 
-<p>It was a mild return to <placeName key="Orkney" corresp="Scotland">Inistore</placeName>, <persName key="Ronald of the Perfect Hand">Ronald</persName> gathering strength all the
-way at the eyes and voice of <persName key="Moilena of the Perfect Voice">Moilena</persName>, and the hands of all three.
+<p>It was a mild return to <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> gathering strength all the
+way at the eyes and voice of <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>, and the hands of all three.
 Their discovery of him was easily explained. The crews of the vessels, 
 who had been afraid to come nearer, had repeatedly seen a figure
 on the island making signs. The Scandinavian priests related how
-they had left <persName key="Ronald of the Perfect Hand">Ronald</persName> there, but insisted that no human being could
+they had left <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> there, but insisted that no human being could
 live upon it, and that some god wished to manifest himself to his
-faithful worshippers. The heart of <persName key="Moilena of the Perfect Voice">Moilena</persName> was quick to guess the
+faithful worshippers. The heart of <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName> was quick to guess the
 truth. The prince proposed to accompany the priests. His bride
 and the destined bride of his saviour went with him, and returned as
-you heard; and from that day forth many were the songs in <placeName key="Orkney" corresp="Scotland">Inistore</placeName>,
-upon the fortunes of <persName key="Ronald of the Perfect Hand">the Perfect Hand</persName> and the kindness of <persName key="Moilena of the Perfect Voice">the Perfect 
+you heard; and from that day forth many were the songs in <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>,
+upon the fortunes of <persName type="fictional" key="Ronald of the Perfect Hand">the Perfect Hand</persName> and the kindness of <persName type="fictional" key="Moilena of the Perfect Voice">the Perfect 
 Voice</persName>. Nor were those forgotten, who forgot not others.</p>
 </div2>
 <div2 type="colophon">
-<p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">J. Appleyard</persName>, <placeName type="address" key="19, Catherin-street, Strand">19, Catherin-street, Strand</placeName>.–Price 2d.</p>
-<p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square">No. 45, Broad-street, Golden-square</placeName>.</p>
+<p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">J. Appleyard</persName>, <placeName type="address" key="19, Catherin-street, Strand" corresp="England">19, Catherin-street, Strand</placeName>.–Price 2d.</p>
+<p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
 </div2>
 </div1>
 </body>
