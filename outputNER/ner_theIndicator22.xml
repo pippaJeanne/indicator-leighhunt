@@ -2,467 +2,546 @@
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>THE INDICATOR.</title>
-                <title type="sub">No. XXII.--WEDNESDAY, MARCH 8th, 1820.</title>
-                <author>Leigh Hunt</author>
-            </titleStmt>
-            <publicationStmt>
-                <p />
-            </publicationStmt>
-            <sourceDesc>
-                <p />
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div1 type="issue" n="22">
-                <pb n="169" />
-                <div2 type="forematter"> 
-                <head type="title" rend="center">THE INDICATOR.</head>
-                <epigraph rend="center">
-                    <l>There he arriving round about doth flie</l>
-                    <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
-                    <l>Now this, now that, he tasteth tenderly.<note type="citation">
-                            <bibl>
-                                <ref
-                                    target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon" />
-                            </bibl>
-                        </note></l>
-                    <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                            cert="high" type="real">SPENSER</persName>.</l>
-                </epigraph>
-                <head type="subtitle" rend="center">No. XXII.—<date when="1820-03-08" cert="high">WEDNESDAY, MARCH 8th, 1820</date>.</head>
-                </div2> 
-                <div2 type="section" n="1">
-                    <head type="header" rend="center">HATS, NEW AND ANCIENT.</head>
-                    <p> We know not what will be thought of our taste in so important a matter, but
-                        we must confess we are not fond of a new hat. There is a certain insolence
-                        about it: it seems to value itself upon it's finished appearance, and to
-                        presume upon our liking before we are acquainted with it. In the first
-                        place, it comes home more like a marmot or some other living creature, than
-                        a manufacture. It is boxed up, and wrapt in silver paper, and brought
-                        delicately. It is as sleek as a lap-dog. Then we are to take it out as
-                        nicely, and people are to wonder how we shall, look in it. <persName key="Maria">Maria</persName> twitches
-                        one this way, and <persName key="Sophia">Sophia</persName> that, and <persName key="Caroline">Caroline</persName> that, and <placeName key='Catharine'>Catharine</placeName> t'other. We
-                        have the difficult task, all the while, of looking easy, till the ap-
-                        proving votes are pronounced: our only resource (which is also difficult)
-                        is to say good things to all four; or to clap the hat upon each of their
-                        heads, and see what pretty milk-women they make. At last the approving votes
-                        are pronounced; and (provided it is fine) we may go forth. But how uneasy
-                        the sensation about the head! How unlike the old hat, to which we, had
-                        become used, and which must now make way for this fop of a stranger! We
-                        might do what we liked with the former. Dust, rain, a gale of wind, a fall,
-                        a squeeze,—nothing affected it. It was a true friend, a friend for all
-                        weathers. It's appearance only was against it: in every thing else it was
-                        the better for wear. But if the roads or the streets are too dry, the new
-                        hat is afraid of getting dusty: if there is wind, and it is not tight, it
-                        may be blown off into the dirt: we may have to scramble after it through
-                        dust or mud; just rea<placeName key='chin'>chin</placeName>g it with our fingers, only to see it blown away
-                        again. <persName key="And">And</persName> if rain comes on! Oh ye gallant apprentices, who have issued
-                        forth on a Sunday morning, with <persName key="Jane">Jane</persName> or <persName key="Susan">Susan</persName>, careless either of storms at
-                        night-fall, or toils and scoldings next day! Ye, who have received your new
-                        hat and boots but an hour before ye set out; and then issue forth
-                        triumphantly, the charmer by your side! She, with arm in yours, and <pb
-                            n="170" /> handkerchief in hand, blushing, or eating gingerbread, trips
-                        on: ye, admiring, trudge: we ask ye, whether love itself has prevented ye
-                        from feeling a certain fearful consciousness of that crowning glory, the new
-                        and glossy hat, when the first drops of rain announce the coming of a
-                        shower? Ah, hasten, while yet it is of use to haste; ere yet the spotty
-                        horror fixes on the nap! Out with the protecting handkerchief, which tied
-                        round the hat, and flowing off in a corner behind, shall gleam through the
-                        thickening night like a suburb comet! Trust not the tempting yawn of
-                        stable-yard or gate-way, or the impossible notion of a coach! The rain will
-                        continue; and alas! ye are not so rich as in the morning. Hasten! or think
-                        of a new hat's becoming a rain-spout! Think of it's well-built crown, it's
-                        graceful and well-measured fit, the curved-up elegance of it's rim, it's
-                        shadowing gentility when seen in front, it's ar<placeName key='chin'>chin</placeName>g grace over the ear when
-                        beheld sideways! Think of it also the next day! How altered, how dejected! <l>How
-                        changed from him, </l>
-                    <l>That life of measure, and
-                            that soul of rim! </l> Think of the paper-like change of it's
-                        consistence; of it's limp sadness,—it's confused and flattened nap, and of
-                        that polished and perfect circle, which neither brush nor hot iron shall
-                        restore! We have here spoken of the beauties of a new hat; but abstractedly
-                        considered, they are very problematical. Fashion makes beauty for a time.
-                        Our ancestors found a grace in the cocked hats now confined to beadles,
-                        Chelsea Pensioners, and coachmen. They would have laughed at our
-                        chimney-tops with a border; though upon the whole we do think them the more
-                        graceful of the two. The best modern covering for the head was the imitation
-                        of the broad Spanish hat in use about thirty years back, when Mr. Stothard
-                        made his designs for the Novelist's Magazine. But in proportion as society
-                        has been put into a bustle, our hats seem to have narrowed their dimensions:
-                        the flaps were clipped off more and more till they became a rim; and now the
-                        rim has contracted to a mere nothing; so that what with our close heads and
-                        our tight succinct mode of dress, we look as if we were intended for nothing
-                        but to dart backwards and forwards on matters of business, with as little
-                        hindrance to each other as possible. </p>
-                    <p> This may give us a greater distaste to the hat than it deserves; but
-                        good-looking or not, we know of no situation in which a new one can be said
-                        to be useful. We have seen how the case is during bad weather: but if the
-                        weather is in the finest condition possible, with neither rain nor dust,
-                        there may be a hot sunshine and then the hat is too narrow to shade us: no
-                        great evil, it is true! but we must have our pique out against the knave,
-                        and turn him to the only account in our power:— we must write upon him. For
-                        every other purpose, we hold him as naught. The only place a new hat can be
-                        carried into with safety, is a church; for there is plenty of room there.
-                        There also takes place it's only union of the ornamental with the useful, if
-                        so it is to be called:— we allude to the preparatory ejaculation whispered
-                        into it by the genteel worshipper, before he turns <pb n="171" />round and
-                        makes a bow to Mr. and Mrs. Jones and the Miss Thompsons. There is a formula
-                        for this occasion; and doubtless it is often used, to say nothing of
-                        extempore effusions:— but there are wicked imaginations, who suspect that
-                        instead of devouter whisperings, the communer with his lining sometimes
-                        ejaculates no more than Swallow, St. James's-street; or, Augarde and <placeName key='Spain'>Spain</placeName>,
-                        Hatters, No. 51, Oxford-street, London:— after which he draws up his head
-                        with infinite gravity and preparation, and makes the gentle recognition
-                        aforesaid.</p>
-                    <p> But wherever there is a crowd, the new hat is worse than
-                        useless. It is a pity that the general retrenchment of people's finances did
-                        away with the flat opera hat, which was a very sensible thing. The round one
-                        is
-                        only in the way. The matting over the floor of the Opera does not hinder it
-                        from
-                        getting dusty; not to mention it's chance of a kick from the inconsiderate.
-                        But
-                        from the pit of the other theatres, you may bring it away covered with
-                        saw-dust,
-                        or rubbed up all the wrong way of the nap, or monstrously squeezed into a
-                        shapeless lump. The least thing to be expected in a pressure, is a great
-                        poke in
-                        it's side like a sunken cheek. </p>
-                    <p> <persName key="Boating">Boating</persName> is a mortal enemy to new hats. A shower
-                        has you fast in a common boat; or a sail-line, or an inexperienced oar, may
-                        knock the hat off; and then fancy it tilting over the water with the tide,
-                        soaked all the while beyond redemption, and escaping from the tips of your
-                        outstretched fingers, while you ought all to be pulling the contrary way
-                        home.</p>
-                    <p> But of all wrong boxes for a new hat, avoid a mail-coach. If you keep it on,
-                        you will begin nodding perhaps at midnight, and then it goes jamming against
-                        the side of the coach, to the equal misery of it's nap and your own. If you
-                        take it off, where is it's refuge? Will the clergyman take the least heed of
-                        it, who is snoring comfortably in one corner in his nightcap? Or will the
-                        farmer, jolting about inexorably Or the regular traveller, who in his
-                        fur-cap and infinite knowledge of highway conveniences, has already beheld
-                        it with contempt? Or the old market-woman, whom it is in vain to request to
-                        be tender? Or the young damsel, who wonders how you can think of sleeping in
-                        such a thing? In the morning, you suddenly miss your hat, and ask after it
-                        with trepidation. The traveller smiles. They all move their legs, but know
-                        nothing of it; till the market-woman exclaims, <q type="spoken">Deary me!
-                        Well - lord, only think! A
-                            hat,
-                            is it, Sir? Why I do believe,—but I'm sure I never thought o'such a
-                        thing
-                            more than the
-                            child unborn.—that it must be a hat then which I took for a pan I've
-                        been a
-                            buying; and so I've had my warm foot in it. <persName key="Lord">Lord</persName> bless us, ever since
-                        five
-                            <persName key="o'clock">o'clock</persName> this blessed morning!</q></p>
-                    <p> It is but fair to add that we happen to have an educated antipathy to the
-                        hat. At our school no hats were worn, and the cap was too small to be a
-                        substitute. It's only use is to astonish the old ladies in the street, who
-                        wonder how so small a thing can be kept on; and to this end, it used to be
-                        rubbed into the back or side of the head, where it hung <pb n="172" />like a
-                        worsted wonder. It is after the fashion of <placeName key='Catharine'>Catharine</placeName>'s cap in the play: it
-                        seems as if <q
-                            type="written">
-                            <l>Moulded on a poringer: </l>
-                            <l>Why, 'tis a cockle, or a walnut-shell,</l>
-                            <l>A knack, a toy, a trick, a baby's can;</l>
-                            <l>A custard coffin, a bauble.<note
-                                type="editorial">Hunt is referencing <persName key="William <persName key="Shakespeare">Shakespeare</persName>">William <persName key="Shakespeare">Shakespeare</persName></persName>'s Taming of
-                        the
-                                <persName key="Shrew IV. iii">Shrew IV. iii</persName>.</note></l>
-                            
-                        </q> But we may not
-                        add; <q type="written">
-                            <l>I love thee well, in that thou lik'st it not.<note
-                                type="editorial">Again, <persName key="Shakespeare">Shakespeare</persName>'s Taming of the <persName key="Shrew IV. iii">Shrew IV. iii</persName>.</note></l>
-                            
-                        </q>
-                        Ill befall us, if we ever dislike any thing about thee, old nurse of our
-                        childhood! How independent of the weather, used we to feel in our old
-                        friar's dress,—our thick shoes, yellow worsted stockings, and coarse long
-                        coat or gown! Our cap was oftener in our hand than on our head, let the
-                        weather be what it would. We felt a pride as well as pleasure, when every
-                        body else was hurrying through the streets, in receiving the full summer
-                        showers with uncovered poll, sleeking our glad hair like the feathers of a
-                        bird. </p>
-                    <p> It must be said for hats in general, that they are a very ancient part of
-                        dress, perhaps the most ancient; for a negro who has nothing else upon him,
-                        sometimes finds it necessary to guard off the sun with a hat of leaves or
-                        straw. The Chinese, who carry their records farther back than any other
-                        people, are a hatted race, both narrow-brimmed and broad. We are apt to
-                        think of the Greeks as a bare-headed people; and they liked to be so; but
-                        they had hats for journeying in, such as may be seen on the statues of
-                        Mercury, who was the god of travellers. They were large and flapped, and
-                        were sometimes fastened round under the <placeName key='chin'>chin</placeName> like a lady's straw-bonnet. The
-                        Eastern nations generally wore turbans, and do still, with the exception of
-                        the Persians, who have exchanged them for large conical caps of felt. The
-                        Romans copied the Greeks in their dress, as in every thing else; but the
-                        poorer orders wore a cap like their boasted Phrygian ancestors, resembing
-                        the one which the reader may now see about the streets upon the busts of
-                        <persName key="Canova">Canova</persName>'s <placeName key='Paris'>Paris</placeName>. The others would put their robes about their heads upon
-                        occasion,—a custom which probably gave rise to the hoods of the middle ages,
-                        and to the cloth head-dresses which we see in the portraits of <persName key="Dante">Dante</persName> and
-                        <persName key="Petrarch">Petrarch</persName>. From these were taken the draperies on the heads of our old
-                        <persName key="Plantagenet">Plantagenet</persName> kings and of <persName key="Chaucer">Chaucer</persName>. The velvet cap which succeeded, appears
-                        also to have come from <placeName key='Italy'>Italy</placeName>, as in the portraits of <persName key="Raphael">Raphael</persName> and <persName key="Titian">Titian</persName>: and
-                        it would probably have continued till the French times of <persName key="Charles">Charles</persName> the
-                        Second, for our ancestors up to that period were always great admirers of
-                        <placeName key='Italy'>Italy</placeName>, had not <persName key="<persName key="Philip">Philip</persName> the Second"><persName key="Philip">Philip</persName> the Second</persName> of <placeName key='Spain'>Spain</placeName> come over to marry our Queen Mary.
-                        The extreme heats of <placeName key='Spain'>Spain</placeName> had forced the natives upon taking to that
-                        ingenious union of the hat and umbrella, still known by the name of the
-                        Spanish hat. We know not whether <persName key="Philip">Philip</persName> himself wore it. His father, <persName key="Charles">Charles</persName>
-                        the Fifth, who was at the top of the world, is represented as delighting in
-                        a little humble-looking cap. But we conceive it was either from <persName key="Philip">Philip</persName>, or
-                        some gentleman in his train, that the hat and <pb n="173" /> feather
-                        succeeded among us to the cap and jewels of Henry the 8th. The ascendancy of
-                        <placeName key='Spain'>Spain</placeName> in these times carried it into other parts of Europe. The French, not
-                        requiring so munch shade from the sun, and always playing with and altering
-                        their dress, like a child with his toy, first covered the brim with
-                        feathers, then gave them a pinch in front; then came pinches up at the side;
-                        and at last appeared the fierce and triple-daring cocked hat. This
-                        disappeared in our childhood, or only survived among the military, the old,
-                        and the reverend, who could not willingly part with their habitual dignity.
-                        An old beau or so would also retain it, in memory of it's victories when
-                        young. We remember it's going away from the heads of the footguards. The
-                        heavy dragoons retained it till very lately. It is now almost sunk into the
-                        mock-heroic, and confined, as we before observed, to beadles and coachmen,
-                        &amp;c. The modern clerical beaver, agreeably to the deliberation with which
-                        our establishments depart frpm old custom, is a cocked hat with the hind
-                        flap let down, and only a slight pinch remaining in front. This is what is
-                        worn also by the judges, the lawyers being of clerical extraction. Still
-                        however the true cocked-hat lingers here and there with a solitary old
-                        gentleman; and wherever it appears in such company, begets a certain
-                        retrospective reverence. There was a something in it's connexion with the
-                        high-bred drawing-room times of the 17th century; in the gallant though
-                        quaint ardour of it's look; and in it's being lifted up in salutations with
-                        that deliberate loftiness, the arm ar<placeName key='chin'>chin</placeName>g up in front and slowly raising it
-                        by the front angle with finger and thumb,—that could not easily die. We
-                        remember, when our steward at school, remarkable for his inflexible air of
-                        precision and dignity, left off his cocked hat for a round one, there was,
-                        undoubtedly, though we dared only half confess it to our minds, a sort of
-                        diminished majesty about him. His infinite self-possession began to look
-                        remotely finite. His Crown-Imperial was a little blighted. It was like
-                        divesting a column of it's capital. But the native stateliness was there,
-                        informing the new hat. He <q type="written">
-                            <l>Had not yet lost</l>
-                            <l><hi rend="italic">All</hi> his original beaver; nor appeared</l>
-                            <l>Less than arch-steward ruined, and the excess</l>
-                            <l>Of glory obscured.<note type="editorial">Hunt is referencing <persName key="John Milton">John Milton</persName>'s Paradise Lost,
-                        I, ll. 591-94.</note></l>
-                        </q> The late Emperor Paul had
-                        conceived such a sense of the dignity of the cocked hat, aggravated by it's
-                        having given way to the round one of the French republicans, that he ordered
-                        all persons in his dominions never to dare be seen in public with round
-                        hats, upon pain of being knouted and sent to Siberia.</p>
-                    <p>Hats, being the easiest part of the European dress to be taken off, are
-                        doffed among us out of reverence. The <placeName key='Orientals'>Orientals</placeName>, on the same account, put
-                        off their slippers instead of turbans; which is the reason why the Jews
-                        still keep their heads covered during worship. The Spanish grandees have the
-                        privilege of wearing their hats in the royal presence, probably in
-                        commemoration of the free spirit in which the Cortes used to crown the
-                        sovereign; telling him (we sup<pb n="174" />pose in their corporate
-                        capacity) that they were better men than he, but chose him of their own free
-                        will for their master. The grandees only claim to be as good men, unless
-                        their families are older. There is a well-known story of a picture, in which
-                        the Virgin Mary is represented with a label coming out of her mouth, saying
-                        to a Spanish gentleman, who has politely taken off his hat, <q type="spoken"><placeName key='Cousin'>Cousin</placeName>,
-                        be covered.</q> But the most interesting anecdote connected with a hat,
-                        belongs to the family of the De Courcys, <persName key="Lord">Lord</persName> Kinsale. One of their
-                        ancestors, at an old period of our history, having overthrown a huge and
-                        insolent champion, who had challenged the whole court, was desired by the
-                        king to ask him some special favour. He requested that his descendants
-                        should have the privilege of keeping their heads covered in the royal
-                        presence; and they do so to this day. The new lord, we believe, always comes
-                        to court on purpose to vindicate his right. We have heard, that on the last
-                        occasion, probably after a long interval, some of the courtiers thought it
-                        might as well have been dispensed with; which was a foolish as well as a
-                        jealous thing: for these exceptions only prove the royal rule. The Spanish
-                        grandees originally took their privilege instead of receiving it; but when
-                        the spirit of it had gone, their covered heads were only so many intense
-                        recognitions of the king's dignity, which it was thought such a mighty thing
-                        to resemble. A Quaker's hat is a more formidable thing than a grandee's. </p>
-                </div2>
-                <div2 type="section" n="2">
-                    <head type="header" rend="center">THE INFANT HERCULES AND THE SERPENTS.</head>
-                    <head type="subheader" rend="italic center">Translated from the 24th Idyll of Theocritus.</head>
-                    <p><hi rend="smallcaps"><placeName key='Jupiter'>Jupiter</placeName></hi> having taken <persName key="Amphitryon">Amphitryon</persName>'s shape during the absence of 
-                        that hero in the wars, begot Hercules of his wife <persName key="Alcmena">Alcmena</persName>. The 
-                        husband, when the circumstance came to his knowledge, felt nothing 
-                        but a generous pride at the deity's admiration of his beloved wife; 
-                        and with all care and tenderness brought up the infant demi-god 
-                        with his own twin son Iphiclus. But, <persName key="Juno">Juno</persName>'s feelings were not so 
-                        godlike as the mortal's. She laid various plans for the destruction of 
-                        this new child of her husband's; and among others, sent two dreadful 
-                        serpents at midnight to devour it. This is the subject of the present 
-                        idyll, which in the original is exceedingly fine and real, and shews 
-                        that Theocritus had a perception of grandeur becoming his deep 
-                        insight into nature in general. We have seen an outline after a picture 
-                        of this story by one of the Caracci, which must be very noble; 
-                        though his Hercules seems to retain too little of the unconscious 
-                        baby. His look is too full of intention. The poet has preserved an 
-                        admirable propriety in this respect.</p>
-                    <lg>
-                        <l>Young Hercules had now beheld the light </l>
-                        <l>Only ten months, when once, upon a night, </l>
-                        <l><persName key="Alcmena">Alcmena</persName> having washed, and giv'n the breast </l>
-                        <l>To both her heavy boy, laid them to rest. </l>
-                        <pb n="175" />
-                        <l>Their cradle was a noble shield of brass </l>
-                        <l>Won by her lord from slaughtered <placeName key='Pterelas'>Pterelas</placeName>. </l>
-                        <l>Gently she laid them down, <persName key="aud">aud</persName> gently laid </l>
-                        <l>Her hand on both their heads, and yearned, and said, </l>
-                        <l>"Sleep, sleep, my boys, a light and pleasant sleep: </l>
-                        <l>My little souls, my twins, my guard and keep! </l>
-                        <l>Sleep happy, and wake happy!" <persName key="And">And</persName> she kept </l>
-                        <l>Rocking the mighty buckler, and they slept. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>At midnight,—when the Bear went down, and broad </l>
-                        <l>Orion's shoulder lit the starry road, </l>
-                        <l>There came, careering through the opening halls, </l>
-                        <l>On livid spires, two dreadful animals, </l>
-                        <l>Serpents; whom <persName key="Juno">Juno</persName>, threatening as she drove, </l>
-                        <l>Had sent there to devour the boy of Jove. </l>
-                        <l>Orbing their blood-fed bellies in and out, </l>
-                        <l>They towered along; and as they looked about, </l>
-                        <l>An evil fire out of their eyes came lamping: </l>
-                        <l>A heavy poison dropt about their champing. </l>
-                    </lg> <!-- Edited to here so far -->
-                    <lb />
-                    <lg>
-                        <l><persName key="And">And</persName> now they have arrived, and think to fall </l>
-                        <l>To their dread meal, when lo! (for Jove sees all) </l>
-                        <l>The house is lit, as with the morning's break. </l>
-                        <l><persName key="And">And</persName> the dear children of <persName key="Alcmena">Alcmena</persName> wake. </l>
-                        <l>The younger one, as soon as he beheld </l>
-                        <l>The evil creatures coming on the shield, </l>
-                        <l><persName key="And">And</persName> saw their loathsome teeth, began to cry </l>
-                        <l><persName key="And">And</persName> shriek, and kick away the clothes, and try </l>
-                        <l>All his poor little instincts of escape:— </l>
-                        <l>The other, grappling, seized them by the nape </l>
-                        <l>Of either poisonous neck, for all their twists, </l>
-                        <l><persName key="And">And</persName> held, like iron, in it's little fists. </l>
-                        <l>Buckled and bound he held them, struggling wild; </l>
-                        <l><persName key="And">And</persName> so they wound about the boy, the child, </l>
-                        <l>The long-begetting boy, the suckling dear, </l>
-                        <l>That never teazed his nurses with a tear. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>Tired out at length, they trail their spires, and gasp, </l>
-                        <l><persName key="Locked">Locked</persName> in that young indissoluble grasp. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l><persName key="Alcmena">Alcmena</persName> heard the noise, and "Wake," she cried, </l>
-                        <l>"<persName key="Amphitryon">Amphitryon</persName>, wake; for terror holds me tied! </l>
-                        <l>Up; stay not for the sandals: hark! the child—</l>
-                        <l>The youngest—how he shrieks! The babe is wild! </l>
-                        <l><persName key="And">And</persName> see the walls and windows! 'Tis as light </l>
-                        <l>As if 'twere day, and yet 'tis surely night. </l>
-                        <l>There's something dreadful in the house; there is </l>
-                        <l>Indeed, dear husband!"—He arose at this; </l>
-                        <l><persName key="And">And</persName> seized his noble sword, which overhead </l>
-                        <l>Was always hanging at the cedar-bed: </l>
-                        <l>The hilt he grasped in one hand, and the sheath </l>
-                        <l>In t'other, and drew forth the blade of death. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>All in an instant, like a stroke of doom, </l>
-                        <l>Returning midnight smote upon the room. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l><persName key="Amphitryon">Amphitryon</persName> called; and woke from heavy sleep </l>
-                        <l>His household, who lay breathing hard and deep. </l>
-                        <l>"Bring lights here from the hearth; lights, lights; and guard </l>
-                        <l>The doorways. Rise, ye ready labourers hard!" </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>He said; and lights came pouring in; and all </l>
-                        <l>The busy house was up in bower and hall. </l>
-                        <l>'But when they saw the little suckler, how </l>
-                        <l>He grasped the monsters, and with earnest brow </l>
-                    <pb n="176" />
-                        <l><persName key="Kept">Kept</persName> beating them together, plaything-wise, </l>
-                        <l>They shrieked aloud; but he, with laughing eyes, </l>
-                        <l>Soon as he saw <persName key="Amphitryon">Amphitryon</persName>, leaped and sprung. </l>
-                        <l>Childlike, and at his feet the dead disturbers flung. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>Then did <persName key="Alcmena">Alcmena</persName> to her bosom take </l>
-                        <l>Her feebler boy,<note type="hunt">
-                            Literally, the <hi rend="italic">extremely bilious</hi> Iphiclus,—ἀκράχολον Ἰφικλῆα. The ancients
-                            are accused of being too bodily and superficial in their philosophy. It was one of the 
-                            advantages however of their attention to these exoterical matters, that they never lost
-                            sight of the connexion between mind and body, and their mutual healthiness, beauty, and
-                            power;—a part of wisdom which our modern psychosophists are so apt to forget.
-                        </note> who could not cease to shake. </l>
-                        <l>The other son Amphytrion took, and laid </l>
-                        <l><placeName key='Beneath'>Beneath</placeName> a fleece; and so returned to bed. </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>Soon as the cock, with his thrice-echoing chear, </l>
-                        <l>Proclaimed the gladness of the day was near, </l>
-                        <l><persName key="Alcmena">Alcmena</persName> sent for old, truth-uttering </l>
-                        <l><persName key="Tiresias">Tiresias</persName>; and she told him all this thing, </l>
-                        <l><persName key="And">And</persName> bade him say what she might think and do: </l>
-                        <l>"Nor do thou fear," said she, "to let me know, </l>
-                        <l>Although the mighty gods should meditate </l>
-                        <l>Aught ill; for man can never fly from Fate. </l>
-                        <l><persName key="And">And</persName> thus thou seest" (and here her smiling eyes </l>
-                        <l><persName key="Looked">Looked</persName> through a blush) "how well I teach the wise." </l>
-                    </lg>
-                    <lb />
-                    <lg>
-                        <l>So spoke the queen. Then he, with glad old tone:— </l>
-                        <l>"Be of good heart, thou blessed bearing one, </l>
-                        <l><persName key="True">True</persName> blood of <persName key="Perseus">Perseus</persName>: for by my sweet sight, </l>
-                        <l>Which once divided these poor lids with light, </l>
-                        <l>Many Greek women, as they sit and weave </l>
-                        <l>The gentle thread across their knees at eve, </l>
-                        <l>Shall sing of thee and thy beloved name: </l>
-                        <l>Thou shall be blest by every <placeName key='Argive'>Argive</placeName> dame: </l>
-                        <l>For unto this thy son it shall be given </l>
-                        <l>With his broad heart to win his way to heaven: </l>
-                        <l>Twelve labours shall he work; and all accurst </l>
-                        <l><persName key="And">And</persName> brutal things o'erthrow, brute men the worst: </l>
-                        <l><persName key="And">And</persName> in <placeName key='Trachynia'>Trachynia</placeName> shall the funeral pyre </l>
-                        <l><persName key="Purge">Purge</persName> his mortalities away with fire; </l>
-                        <l><persName key="And">And</persName> he shall mount amid the stars, and be </l>
-                        <l>Acknowledged kin to those who envied thee, </l>
-                        <l><persName key="And">And</persName> sent these den-born shapes to crush his destiny."</l>
-                    </lg>
-                </div2>
-                <div2 type="correspondents">
-                    <head type="header" rend="center">TO CORRESPONDENTS.</head>
-                    <p>In removing a quantity of papers, we have unfortunately mislaid some letters 
-                        from correspondents. We hope to recover them; but should we still be disappointed, 
-                        the writers will perhaps have the goodness to oblige us with other 
-                        copies. We have not forgotten the substance however of some of them; and 
-                        least of all, what was so good-naturedly said upon the article on the Heathen 
-                        Mythology.
-                    </p>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>THE INDICATOR.</title>
+<title type="sub">No. XXII.--WEDNESDAY, MARCH 8th, 1820.</title>
+<author>Leigh Hunt</author>
+</titleStmt>
+<publicationStmt>
+<p />
+</publicationStmt>
+<sourceDesc>
+<bibl>
+    <author>Hunt, James Henry Leigh (1784-1859)</author>
+    <title>The Indicator</title>
+    <date when="1820-03-08">March 8th, 1820</date>
+    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+    <publisher>Joseph Appleyard</publisher>
+</bibl>
+</sourceDesc>
+</fileDesc>
+ 
+<!-- Encoding Description -->
+ <encodingDesc>
+    <!-- Add any encoding information or guidelines here if applicable -->
+    <p>
+    Basic encoding, capturing relevant formatting and layout information. Page numbers are
+    included for reference to the source only and are not intended to indicate precise
+    preservation.
+    </p>
+   </encodingDesc>
+
+<profileDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="issue" n="22">
+<pb n="169" />
+<div2 type="forematter"> 
+<head type="title" rend="center">THE INDICATOR.</head>
+<epigraph rend="center">
+<l>There he arriving round about doth flie</l>
+<l>And takes survey with busie, curious eye:</l>
+<l>Now this, now that, he tasteth tenderly.<note type="citation">
+<bibl>
+<ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon" />
+</bibl>
+</note></l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+cert="high" type="real">SPENSER</persName>.</l>
+</epigraph>
+<head type="catalogue" rend="center">No. XXII.—<date when="1820-03-08" cert="high">WEDNESDAY, MARCH 8th, 1820</date>.</head>
+</div2> 
+<div2 type="section" n="1">
+
+    <head type="header" rend="center">HATS, NEW AND ANCIENT.</head>
+
+    <p> We know not what will be thought of our taste in so important a 
+matter, but we must confess we are not fond of a new hat. There 
+is a certain insolence about it: it seems to value itself upon it's 
+finished appearance, and to presume upon our liking before we are 
+acquainted with it. In the first place, it comes home more like a 
+marmot or some other living creature, than a manufacture. It is 
+boxed up, and wrapt in silver paper, and brought delicately. It is 
+as sleek as a lap-dog. Then we are to take it out as nicely, and 
+people are to wonder how we shall, look in it. <persName type="fictional" key="Maria">Maria</persName> twitches one 
+this way, and <persName type="fictional" key="Sophia">Sophia</persName> that, and <persName type="fictional" key="Caroline">Caroline</persName> that, and <persName type="fictional" key="Catharine">Catharine</persName> t'other. 
+We have the difficult task, all the while, of looking easy, till the approving 
+votes are pronounced: our only resource (which is also difficult)
+is to say good things to all four; or to clap the hat upon each 
+of their heads, and see what pretty milk-women they make. At 
+last the approving votes are pronounced; and (provided it is fine) 
+we may go forth. But how uneasy the sensation about the head! 
+How unlike the old hat, to which we, had become used, and which 
+must now make way for this fop of a stranger! We might do what 
+we liked with the former. Dust, rain, a gale of wind, a fall, a 
+squeeze,—nothing affected it. It was a true friend, a friend for all
+weathers. It's appearance only was against it: in every thing else 
+it was the better for wear. But if the roads or the streets are too 
+dry, the new hat is afraid of getting dusty: if there is wind, and it 
+is not tight, it may be blown off into the dirt: we may have to 
+scramble after it through dust or mud; just reaching it with our 
+fingers, only to see it blown away again. And if rain comes on! 
+Oh ye gallant apprentices, who have issued forth on a Sunday morning, 
+with <persName type="fictional" key="Jane">Jane</persName> or <persName type="fictional" key="Susan">Susan</persName>, careless either of storms at night-fall, or 
+toils and scoldings next day! Ye, who have received your new hat and 
+boots but an hour before ye set out; and then issue forth triumphantly, 
+the charmer by your side! She, with arm in yours, and 
+
+<pb n="170" /> 
+
+handkerchief in hand, blushing, or eating gingerbread, trips on: 
+ye, admiring, trudge: we ask ye, whether love itself has prevented 
+ye from feeling a certain fearful consciousness of that crowning glory, 
+the new and glossy hat, when the first drops of rain announce the 
+coming of a shower? Ah, hasten, while yet it is of use to haste; ere yet 
+the spotty horror fixes on the nap! Out with the protecting handkerchief, 
+which tied round the hat, and flowing off in a corner behind, 
+shall gleam through the thickening night like a suburb comet! 
+Trust not the tempting yawn of stable-yard or gate-way, or the impossible 
+notion of a coach! The rain will continue; and alas! ye 
+are not so rich as in the morning. Hasten! or think of a new hat's 
+becoming a rain-spout! Think of it's well-built crown, it's graceful 
+and well-measured fit, the curved-up elegance of it's rim, it's shadowing 
+gentility when seen in front, it's arching grace over the ear 
+when beheld sideways! Think of it also the next day! How altered, 
+how dejected!</p>
+
+<lg><l>How changed from him, </l>
+<l>That life of measure, and that soul of rim! </l></lg> 
+
+<p>Think of the paper-like change of it's consistence; of it's limp sadness,
+—it's confused and flattened nap, and of that polished and perfect 
+circle, which neither brush nor hot iron shall restore! </p>
+
+<p>We have here spoken of the beauties of a new hat; but abstractedly
+considered, they are very problematical. Fashion makes beauty 
+for a time. Our ancestors found a grace in the cocked hats now confined 
+to beadles, Chelsea Pensioners, and coachmen. They would have 
+laughed at our chimney-tops with a border; though upon the whole 
+we do think them the more graceful of the two. The best modern 
+covering for the head was the imitation of the broad Spanish hat in 
+use about thirty years back, when <persName key="Thomas Stothard">Mr. Stothard</persName> made his designs for 
+<title level="j">the Novelist's Magazine</title>. But in proportion as society has been put 
+into a bustle, our hats seem to have narrowed their dimensions: the 
+flaps were clipped off more and more till they became a rim; and 
+now the rim has contracted to a mere nothing; so that what with our 
+close heads and our tight succinct mode of dress, we look as if we 
+were intended for nothing but to dart backwards and forwards on 
+matters of business, with as little hindrance to each other as possible. </p>
+
+<p> This may give us a greater distaste to the hat than it deserves; 
+but good-looking or not, we know of no situation in which a new one 
+can be said to be useful. We have seen how the case is during bad 
+weather: but if the weather is in the finest condition possible, with 
+neither rain nor dust, there may be a hot sunshine and then the hat 
+is too narrow to shade us: no great evil, it is true! but we must 
+have our pique out against the knave, and turn him to the only 
+account in our power:— we must write upon him. For every other 
+purpose, we hold him as naught. The only place a new hat can be
+carried into with safety, is a church; for there is plenty of room 
+there. There also takes place it's only union of the ornamental with 
+the useful, if so it is to be called:— we allude to the preparatory ejaculation 
+whispered into it by the genteel worshipper, before he turns 
+
+<pb n="171" />
+
+round and makes a bow to Mr. and Mrs. Jones and the Miss Thompsons. 
+There is a formula for this occasion; and doubtless it is often 
+used, to say nothing of extempore effusions:— but there are wicked 
+imaginations, who suspect that instead of devouter whisperings, the 
+communer with his lining sometimes ejaculates no more than Swallow, 
+<placeName type="street" key="St. James's-street" corresp="England">St. James's-street</placeName>; or, Augarde and <placeName type="country" key="Spain" corresp="Spain">Spain</placeName>, Hatters, <placeName type="street" key="No. 51, Oxford-street, London" corresp="England">No. 51, 
+Oxford-street, London</placeName>:— after which he draws up his head with 
+infinite gravity and preparation, and makes the gentle recognition
+aforesaid.</p>
+
+<p> But wherever there is a crowd, the new hat is worse than useless. 
+It is a pity that the general retrenchment of people's finances did
+away with the flat opera hat, which was a very sensible thing. The 
+round one is only in the way. The matting over the floor of the 
+Opera does not hinder it from getting dusty; not to mention it's 
+chance of a kick from the inconsiderate. But from the pit of the 
+other theatres, you may bring it away covered with saw-dust, or 
+rubbed up all the wrong way of the nap, or monstrously squeezed 
+into a shapeless lump. The least thing to be expected in a pressure, 
+is a great poke in it's side like a sunken cheek. </p>
+
+<p> Boating is a mortal enemy to new hats. A shower has you fast in 
+a common boat; or a sail-line, or an inexperienced oar, may knock 
+the hat off; and then fancy it tilting over the water with the tide,
+soaked all the while beyond redemption, and escaping from the tips 
+of your outstretched fingers, while you ought all to be pulling the 
+contrary way home.</p>
+
+<p> But of all wrong boxes for a new hat, avoid a mail-coach. If you 
+keep it on, you will begin nodding perhaps at midnight, and then it 
+goes jamming against the side of the coach, to the equal misery of it's 
+nap and your own. If you take it off, where is it's refuge? Will the 
+clergyman take the least heed of it, who is snoring comfortably in 
+one corner in his nightcap? Or will the farmer, jolting about inexorably? 
+Or the regular traveller, who in his fur-cap and infinite 
+knowledge of highway conveniences, has already beheld it with contempt? 
+Or the old market-woman, whom it is in vain to request to
+be tender? Or the young damsel, who wonders how you can think 
+of sleeping in such a thing? In the morning, you suddenly miss your 
+hat, and ask after it with trepidation. The traveller smiles. They all 
+move their legs, but know nothing of it; till the market-woman 
+exclaims, <q type="spoken">Deary me! Well - lord, only think! A hat, is it, Sir? 
+Why I do believe,—but I'm sure I never thought o'such a thing more 
+than the child unborn.—that it must be a hat then which I took for 
+a pan I've been a buying; and so I've had my warm foot in it. <persName type="fictional" key="God">Lord</persName> 
+bless us, ever since five o'clock this blessed morning!</q></p>
+
+<p> It is but fair to add that we happen to have an educated antipathy to 
+the hat. At our school no hats were worn, and the cap was too small to 
+be a substitute. It's only use is to astonish the old ladies in the street, 
+who wonder how so small a thing can be kept on; and to this end, 
+it used to be rubbed into the back or side of the head, where it hung 
+
+<pb n="172" />
+
+like a worsted wonder. It is after the fashion of <persName type="fictional" key="Katharine"><choice><corr>Katharine</corr><sic>Catherine</sic></choice></persName>'s cap in 
+the play: it seems as if </p> 
+
+<cit>
+    <quote>
+<lg rend="center">
+<l>Moulded on a poringer: </l>
+<l>Why, 'tis a cockle, or a walnut-shell,</l>
+<l>A knack, a toy, a trick, a baby's can;</l>
+<l>A custard coffin, a bauble.</l></lg> 
+    </quote>
+    <note type="source"> 
+        <bibl><author>William Shakespeare</author><title level="m">The Taming of the Shrew</title>Act 4 Scene 3<ref target="https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/"/></bibl>
+    </note>
+</cit>
+
+<p>But we may not add;</p> 
+
+<cit><quote>
+<lg rend="center">
+<l>I love thee well, in that thou lik'st it not.</l></lg>
+</quote>
+<note type="source"> 
+    <bibl><author>William Shakespeare</author><title level="m">The Taming of the Shrew</title>Act 4 Scene 3<ref target="https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/"/></bibl>
+</note>
+</cit>
+
+<p>Ill befall us, if we ever dislike any thing about thee, old nurse of 
+our childhood! How independent of the weather, used we to feel in 
+our old friar's dress,—our thick shoes, yellow worsted stockings, and 
+coarse long coat or gown! Our cap was oftener in our hand than on 
+our head, let the weather be what it would. We felt a pride as 
+well as pleasure, when every body else was hurrying through the 
+streets, in receiving the full summer showers with uncovered poll, 
+sleeking our glad hair like the feathers of a bird. </p>
+
+<p> It must be said for hats in general, that they are a very ancient 
+part of dress, perhaps the most ancient; for a negro who has nothing 
+else upon him, sometimes finds it necessary to guard off the sun 
+with a hat of leaves or straw. The Chinese, who carry their records 
+farther back than any other people, are a hatted race, both narrow-brimmed 
+and broad. We are apt to think of the Greeks as a bare-headed 
+people; and they liked to be so; but they had hats for journeying 
+in, such as may be seen on the statues of <persName key="Mercury">Mercury</persName>, who was 
+the god of travellers. They were large and flapped, and were sometimes 
+fastened round under the chin like a lady's straw-bonnet. The
+Eastern nations generally wore turbans, and do still, with the exception 
+of the Persians, who have exchanged them for large conical 
+caps of felt. The Romans copied the Greeks in their dress, as in 
+every thing else; but the poorer orders wore a cap like their boasted 
+Phrygian ancestors, resembing the one which the reader may now 
+see about the streets upon the busts of <persName key="Antonio Canova">Canova</persName>'s <persName key="Paris">Paris</persName>. The others 
+would put their robes about their heads upon occasion,—a custom 
+which probably gave rise to the hoods of the middle ages, and to the 
+cloth head-dresses which we see in the portraits of <persName key="Dante">Dante</persName> and <persName key="Petrarch">Petrarch</persName>. 
+From these were taken the draperies on the heads of our 
+old <persName role="family" key="Plantagenets">Plantagenet kings</persName> and of <persName key="Geoffrey Chaucer">Chaucer</persName>. The velvet cap which succeeded, 
+appears also to have come from <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, as in the portraits of 
+<persName key="Raphael">Raphael</persName> and <persName key="Titian">Titian</persName>: and it would probably have continued till the 
+French times of <persName key="King Charles II">Charles the Second</persName>, for our ancestors up to that 
+period were always great admirers of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, had not <persName key="King Philip II of Spain">Philip the Second 
+of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName></persName> come over to marry our <persName key="Queen Mary I">Queen Mary</persName>. The extreme 
+heats of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> had forced the natives upon taking to that ingenious 
+union of the hat and umbrella, still known by the name of the Spanish 
+hat. We know not whether <persName key="King Philip II of Spain">Philip</persName> himself wore it. His father, 
+<persName key="King Charles V of Spain">Charles the Fifth</persName>, who was at the top of the world, is represented as 
+delighting in a little humble-looking cap. But we conceive it was 
+either from <persName key="King Philip II of Spain">Philip</persName>, or some gentleman in his train, that the hat and 
+
+<pb n="173" />
+
+feather succeeded among us to the cap and jewels of <persName key="King Henry VIII">Henry the 8th</persName>. 
+The ascendancy of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> in these times carried it into other parts of 
+<placeName type="continent" key="Europe" corresp="Europe">Europe</placeName>. The French, not requiring so munch shade from the sun, 
+and always playing with and altering their dress, like a child with 
+his toy, first covered the brim with feathers, then gave them a pinch 
+in front; then came pinches up at the side; and at last appeared the 
+fierce and triple-daring cocked hat. This disappeared in our childhood, 
+or only survived among the military, the old, and the reverend, 
+who could not willingly part with their habitual dignity. An old 
+beau or so would also retain it, in memory of it's victories when
+young. We remember it's going away from the heads of the footguards. 
+The heavy dragoons retained it till very lately. It is 
+now almost sunk into the mock-heroic, and confined, as we before 
+observed, to beadles and coachmen,&amp;c. The modern clerical beaver, 
+agreeably to the deliberation with which our establishments depart 
+from old custom, is a cocked hat with the hind flap let down, and 
+only a slight pinch remaining in front. This is what is worn also 
+by the judges, the lawyers being of clerical extraction. Still however 
+the true cocked-hat lingers here and there with a solitary old
+gentleman; and wherever it appears in such company, begets a certain
+retrospective reverence. There was a something in it's <choice><orig>connexion</orig><reg>connection</reg></choice> 
+with the high-bred drawing-room times of the 17th century; 
+in the gallant though quaint ardour of it's look; and in it's being 
+lifted up in salutations with that deliberate loftiness, the arm arching 
+up in front and slowly raising it by the front angle with finger and 
+thumb,—that could not easily die. We remember, when our steward at 
+school, remarkable for his inflexible air of precision and dignity, left 
+off his cocked hat for a round one, there was, undoubtedly, though 
+we dared only half confess it to our minds, a sort of diminished 
+majesty about him. His infinite self-possession began to look remotely 
+finite. His Crown-Imperial was a little blighted. It was 
+like divesting a column of it's capital. But the native stateliness 
+was there, informing the new hat. He 
+
+<cit><quote>
+<lg rend="center">
+<l>Had not yet lost</l>
+<l><hi rend="italic">All</hi> his original beaver; nor appeared</l>
+<l>Less than arch-steward ruined, and the excess</l>
+<l>Of glory obscured.</l>
+</lg> 
+</quote>
+<note type="source"> 
+    <bibl><author>John Milton</author><title level="m">Paradise Lost</title>Book 1<ref target="https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_I"/></bibl>
+</note>
+</cit>
+
+The late <persName key="Paul I of Russia" cert="medium">Emperor Paul</persName> had conceived such a sense of the dignity of 
+the cocked hat, aggravated by it's having given way to the round one 
+of the French republicans, that he ordered all persons in his dominions 
+never to dare be seen in public with round hats, upon pain of 
+being knouted<note type="editorial">knouted: punished by whipping</note> and sent to <placeName type="region" key="Siberia" corresp="Russia">Siberia</placeName>.</p>
+
+<p>Hats, being the easiest part of the European dress to be taken off, 
+are doffed among us out of reverence. The Orientals, on the same 
+account, put off their slippers instead of turbans; which is the reason 
+why the Jews still keep their heads covered during worship. 
+The Spanish grandees have the privilege of wearing their hats in the 
+royal presence, probably in commemoration of the free spirit in 
+which the <persName key="Hernán Cortés" cert="low">Cortes</persName> used to crown the sovereign; telling him (we suppose
+
+<pb n="174" />
+
+in their corporate capacity) that they were better men than he, 
+but chose him of their own free will for their master. The grandees 
+only claim to be as good men, unless their families are older. There 
+is a well-known story of a picture, in which <persName key="the Virgin Mary">the Virgin Mary</persName> is represented 
+with a label coming out of her mouth, saying to a Spanish 
+gentleman, who has politely taken off his hat, <q type="spoken">"Cousin, be covered."</q> 
+But the most interesting anecdote connected with a hat, 
+belongs to the family of the <persName role="family" key="De Courcys">De Courcys</persName>, <persName key="John de Courcy, 35th Baron Kingsale" cert="medium">Lord <choice><orig>Kinsale</orig><reg>Kingsale</reg></choice></persName>. One of their
+ancestors, at an old period of our history, having overthrown a huge 
+and insolent champion, who had challenged the whole court, was 
+desired by the king to ask him some special favour. He requested 
+that his descendants should have the privilege of keeping their heads 
+covered in the royal presence; and they do so to this day. The new 
+lord, we believe, always comes to court on purpose to vindicate his 
+right. We have heard, that on the last occasion, probably after a 
+long interval, some of the courtiers thought it might as well have 
+been dispensed with; which was a foolish as well as a jealous thing: 
+for these exceptions only prove the royal rule. The Spanish grandees 
+originally took their privilege instead of receiving it; but when
+the spirit of it had gone, their covered heads were only so many intense
+recognitions of the king's dignity, which it was thought such a mighty thing
+to resemble. A Quaker's hat is a more formidable 
+thing than a grandee's. </p>
 </div2>
-                    <div2 type="colophon">
-                    <p rend="center">
-                        <persName key="Orders">Orders</persName> received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, No. 19, Catherine-street, Strand.——Price 2d.
-                    </p>
-                    <p rend="center">Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 46, Broad-street, Golden-square. </p>
-                </div2>
-            </div1>
-        </body>
-    </text>
+
+<div2 type="section" n="2">
+<head type="header" rend="center">THE INFANT HERCULES AND THE SERPENTS.</head>
+<head type="subheader" rend="italic center">Translated from the <title level="a">24th Idyll of <persName key="Theocritus">Theocritus</persName></title>.</head>
+<p><hi rend="smallcaps"><persName key="Jupiter">Jupiter</persName></hi> having taken <persName key="Amphitryon">Amphitryon</persName>'s shape during the absence of 
+<persName key="Amphitryon">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmena">Alcmena</persName>. <persName key="Amphitryon">The 
+husband</persName>, when the circumstance came to his knowledge, felt nothing 
+but a generous pride at <persName key="Jupiter">the deity</persName>'s admiration of <persName key="Alcmena">his beloved wife</persName>; 
+and with all care and tenderness brought up <persName key="Hercules">the infant demi-god</persName> 
+with his own twin son <persName key="Iphiclus">Iphiclus</persName>. But, <persName key="Juno">Juno</persName>'s feelings were not so 
+godlike as <persName key="Amphitryon">the mortal</persName>'s. She laid various plans for the destruction of 
+this new child of <persName key="Jupiter">her husband</persName>'s; and among others, sent two dreadful 
+serpents at midnight to devour it. This is the subject of the present 
+idyll, which in the original is exceedingly fine and real, and shews 
+that <persName key="Theocritus">Theocritus</persName> had a perception of grandeur becoming his deep 
+insight into nature in general. We have seen an outline after a picture 
+of this story by one of <persName role="family" key="The Caracci">the Caracci</persName>, which must be very noble; 
+though his <persName key="Hercules">Hercules</persName> seems to retain too little of the unconscious 
+baby. His look is too full of intention. The poet has preserved an 
+admirable propriety in this respect.</p>
+<lg xml:lang="en" type="ex:hunt-translation" xml:id="The-Infant-Hercules-and-the-Serpents" rend="center" >
+<lg xml:id="verse1">
+<l>Young <persName key="Hercules">Hercules</persName> had now beheld the light </l>
+<l>Only ten months, when once, upon a night, </l>
+<l><persName key="Alcmena">Alcmena</persName> having washed, and giv'n the breast </l>
+<l>To both her heavy boys, laid them to rest. </l>
+
+<pb n="175" />
+
+<l>Their cradle was a noble shield of brass </l>
+<l>Won by <persName key="Amphitryon">her lord</persName> from slaughtered <persName type="fictional" key="Pterelas">Pterelas</persName>. </l>
+<l>Gently she laid them down, and gently laid </l>
+<l>Her hand on both their heads, and yearned, and said, </l>
+<l>"Sleep, sleep, my boys, a light and pleasant sleep: </l>
+<l>My little souls, my twins, my guard and keep! </l>
+<l>Sleep happy, and wake happy!" And she kept </l>
+<l>Rocking the mighty buckler, and they slept. </l>
+</lg>
+<lb />
+<lg xml:id="verse2">
+<l>At midnight,—when the Bear went down, and broad </l>
+<l>Orion's shoulder lit the starry road, </l>
+<l>There came, careering through the opening halls, </l>
+<l>On livid spires, two dreadful animals, </l>
+<l>Serpents; whom <persName key="Juno">Juno</persName>, threatening as she drove, </l>
+<l>Had sent there to devour <persName key="Hercules">the boy of <persName key="Jupiter">Jove</persName></persName>. </l>
+<l>Orbing their blood-fed bellies in and out, </l>
+<l>They towered along; and as they looked about, </l>
+<l>An evil fire out of their eyes came lamping: </l>
+<l>A heavy poison dropt about their champing. </l>
+</lg>
+<lb />
+<lg xml:id="verse3">
+<l>And now they have arrived, and think to fall </l>
+<l>To their dread meal, when lo! (for <persName key="Jupiter">Jove</persName> sees all) </l>
+<l>The house is lit, as with the morning's break, </l>
+<l>And the dear children of <persName key="Alcmena">Alcmena</persName> wake. </l>
+<l>The younger one, as soon as he beheld </l>
+<l>The evil creatures coming on the shield, </l>
+<l>And saw their loathsome teeth, began to cry </l>
+<l>And shriek, and kick away the clothes, and try </l>
+<l>All his poor little instincts of escape:— </l>
+<l>The other, grappling, seized them by the nape </l>
+<l>Of either poisonous neck, for all their twists, </l>
+<l>And held, like iron, in it's little fists. </l>
+<l>Buckled and bound he held them, struggling wild; </l>
+<l>And so they wound about <persName key="Hercules">the boy</persName>, <persName key="Hercules">the child</persName>, </l>
+<l><persName key="Hercules">The long-begetting boy</persName>, <persName key="Hercules"></persName>the suckling dear, </l>
+<l>That never teazed his nurses with a tear. </l>
+</lg>
+<lb />
+<lg xml:id="verse4">
+<l>Tired out at length, they trail their spires, and gasp, </l>
+<l>Locked in that young indissoluble grasp. </l>
+</lg>
+<lb />
+<lg xml:id="verse5">
+<l><persName key="Alcmena">Alcmena</persName> heard the noise, and <q type="spoken">Wake,</q> she cried, </l>
+<l>"<persName key="Amphitryon">Amphitryon</persName>, wake; for terror holds me tied! </l>
+<l>Up; stay not for the sandals: hark! <persName key="Hercules">the child</persName>—</l>
+<l>The youngest—how he shrieks! The babe is wild! </l>
+<l>And see the walls and windows! 'Tis as light </l>
+<l>As if 'twere day, and yet 'tis surely night. </l>
+<l>There's something dreadful in the house; there is </l>
+<l>Indeed, <persName key="Amphitryon">dear husband</persName>!"—He arose at this; </l>
+<l>And seized his noble sword, which overhead </l>
+<l>Was always hanging at the cedar-bed: </l>
+<l>The hilt he grasped in one hand, and the sheath </l>
+<l>In t'other, and drew forth the blade of death. </l>
+</lg>
+<lb />
+<lg xml:id="verse6">
+<l>All in an instant, like a stroke of doom, </l>
+<l>Returning midnight smote upon the room. </l>
+</lg>
+<lb />
+<lg xml:id="verse7">
+<l><persName key="Amphitryon">Amphitryon</persName> called; and woke from heavy sleep </l>
+<l>His household, who lay breathing hard and deep. </l>
+<l>"Bring lights here from the hearth; lights, lights; and guard </l>
+<l>The doorways. Rise, ye ready labourers hard!" </l>
+</lg>
+<lb />
+<lg xml:id="verse8">
+<l>He said; and lights came pouring in; and all </l>
+<l>The busy house was up in bower and hall. </l>
+<l>But when they saw <persName key="Hercules">the little suckler</persName>, how </l>
+<l>He grasped the monsters, and with earnest brow </l>
+
+<pb n="176" />
+
+<l>Kept beating them together, plaything-wise, </l>
+<l>They shrieked aloud; but he, with laughing eyes, </l>
+<l>Soon as he saw <persName key="Amphitryon">Amphitryon</persName>, leaped and sprung. </l>
+<l>Childlike, and at his feet the dead disturbers flung. </l>
+</lg>
+<lb />
+<lg xml:id="verse9">
+<l>Then did <persName key="Alcmena">Alcmena</persName> to her bosom take </l>
+<l><persName key="Iphiclus">Her feebler boy</persName>,<note type="hunt">
+Literally, the <hi rend="italic">extremely bilious</hi> Iphiclus,—ἀκράχολον Ἰφικλῆα. The ancients
+are accused of being too bodily and superficial in their philosophy. It was one of the 
+advantages however of their attention to these exoterical matters, that they never lost
+sight of the connexion between mind and body, and their mutual healthiness, beauty, and
+power;—a part of wisdom which our modern psychosophists are so apt to forget.
+</note> who could not cease to shake. </l>
+<l><persName key="Hercules">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
+<l>Beneath a fleece; and so returned to bed. </l>
+</lg>
+<lb />
+<lg xml:id="verse10">
+<l>Soon as the cock, with his thrice-echoing <choice><corr>cheer</corr><sic>chear</sic></choice>, </l>
+<l>Proclaimed the gladness of the day was near, </l>
+<l><persName key="Alcmena">Alcmena</persName> sent for old, truth-uttering </l>
+<l><persName key="Tiresias">Tiresias</persName>; and she told him all this thing, </l>
+<l>And bade him say what she might think and do: </l>
+<l><q type="spoken">Nor do thou fear,</q> said she, "to let me know, </l>
+<l>Although the mighty gods should meditate </l>
+<l>Aught ill; for man can never fly from Fate. </l>
+<l>And thus thou seest" (and here her smiling eyes </l>
+<l>Looked through a blush) <q type="spoken">how well I teach the wise.</q> </l>
+</lg>
+<lb />
+<lg xml:id="verse11">
+<l>So spoke the queen. Then he, with glad old tone:— </l>
+<l>"Be of good heart, thou blessed bearing one, </l>
+<l>True blood of <persName key="Perseus">Perseus</persName>: for by my sweet sight, </l>
+<l>Which once divided these poor lids with light, </l>
+<l>Many Greek women, as they sit and weave </l>
+<l>The gentle thread across their knees at eve, </l>
+<l>Shall sing of thee and thy beloved name: </l>
+<l>Thou shall be blest by every Argive dame: </l>
+<l>For unto this thy son it shall be given </l>
+<l>With his broad heart to win his way to heaven: </l>
+<l>Twelve labours shall he work; and all accurst </l>
+<l>And brutal things o'erthrow, brute men the worst: </l>
+<l>And in <placeName type="region" key="Trachis" corresp="Greece" cert="low">Trachynia</placeName> shall the funeral pyre </l>
+<l>Purge his mortalities away with fire; </l>
+<l>And he shall mount amid the stars, and be </l>
+<l>Acknowledged kin to those who envied thee, </l>
+<l>And sent these den-born shapes to crush his destiny."</l>
+</lg></lg>
+</div2>
+<div2 type="correspondents">
+<head type="header" rend="center">TO CORRESPONDENTS.</head>
+<p>In removing a quantity of papers, we have unfortunately mislaid some letters 
+from correspondents. We hope to recover them; but should we still be disappointed, 
+the writers will perhaps have the goodness to oblige us with other 
+copies. We have not forgotten the substance however of some of them; and 
+least of all, what was so good-naturedly said upon the article on the Heathen 
+Mythology.
+</p>
+</div2>
+<div2 type="colophon">
+<p rend="center">
+<persName key="Orders">Orders</persName> received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d.
+</p>
+<p rend="center">Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 46, Broad-street, Golden-square</placeName>. </p>
+</div2>
+</div1>
+</body>
+</text>
 </TEI>
