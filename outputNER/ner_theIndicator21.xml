@@ -3,848 +3,854 @@
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>THE INDICATOR.</title>
-                <title type="sub">No. XX.--WEDNESDAY, FEBRUARY 23rd, 1820.</title>
-                <author>Leigh Hunt</author>
-            </titleStmt>
-            <publicationStmt>
-                <p />
-            </publicationStmt>
-            <sourceDesc sameAs="http://www.cwrc.ca">
-                <p>Created from original research by members of CWRC/CSÉC unless
-                    otherwise noted.</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <particDesc>
-                <listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
-                    <person xml:id="<persName key="Cont">Cont</persName>">
-                        <persName type="standard"><persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName></persName>
-                        <persName type="form"><persName key="Cont">Cont</persName>.</persName>
-                    </person>
-                    <person xml:id="<persName key="Mol">Mol</persName>">
-                        <persName type="standard"><persName key="<persName key="Mol">Mol</persName>ilo"><persName key="Mol">Mol</persName>ilo</persName></persName>
-                        <persName type="form"><persName key="Mol">Mol</persName>.</persName>
-                    </person>
-                    <person xml:id="Seb">
-                        <persName type="standard"><persName key="Sebastian">Sebastian</persName></persName>
-                        <persName type="form">Seb.</persName>
-                    </person>
-                    <person xml:id="<placeName key='Cand'>Cand</placeName>">
-                        <persName type="standard"><persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName></persName>
-                        <persName type="form"><placeName key='Cand'>Cand</placeName>.</persName>
-                    </person>
-                    <person xml:id="<persName key="Greg">Greg</persName>">
-                        <persName type="standard"><persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName></persName>
-                        <persName type="form"><persName key="Greg">Greg</persName>.</persName>
-                    </person>
-                    <person xml:id="<persName key="Van">Van</persName>">
-                        <persName type="standard"><persName key="<persName key="Van">Van</persName>ni"><persName key="Van">Van</persName>ni</persName></persName>
-                        <persName type="form"><persName key="Van">Van</persName>.</persName>
-                    </person>
-                    <person xml:id="<placeName key='Fiam'>Fiam</placeName>">
-                        <persName type="stadard"><placeName key='Fiam'>Fiam</placeName>metta</persName>
-                        <persName type="form"><placeName key='Fiam'>Fiam</placeName>.</persName>
-                    </person>
-                    <person xml:id="<placeName key='Vit'>Vit</placeName>">
-                        <persName type="standard"><persName key="<placeName key='Vit'>Vit</placeName>toria"><placeName key='Vit'>Vit</placeName>toria</persName></persName>
-                        <persName type="form"><placeName key='Vit'>Vit</placeName>.</persName>
-                    </person>
-                    <person xml:id="Mal">
-                        <persName type="standard"><placeName key='Malipiero'>Malipiero</placeName></persName>
-                        <persName type="form">Mal.</persName>
-                    </person>
-                    <person xml:id="Herb">
-                        <persName type="standard"><persName key="<persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName>"><persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName></persName></persName>
-                        <persName type="form">Herb.</persName>
-                    </person>
-                </listPerson>
-            </particDesc>
-        </profileDesc>
+<fileDesc>
+    <titleStmt>
+<title>THE INDICATOR.</title>
+<title type="sub">No. XX.--WEDNESDAY, FEBRUARY 23rd, 1820.</title>
+<author>Leigh Hunt</author>
+    </titleStmt>
+    <publicationStmt>
+<p />
+    </publicationStmt>
+    <sourceDesc> 
+ <bibl>
+ <author>Hunt, James Henry Leigh (1784-1859)</author>
+ <title>The Indicator</title>
+ <date when="1820-03-01"> March 1st, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+ <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+ <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+ </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <particDesc>
+<listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
+    <person xml:id="Cont">
+<persName type="standard"><persName key="Contarini">Contarini</persName></persName>
+<persName type="form">Cont.</persName>
+    </person>
+    <person xml:id="Mol">
+<persName type="standard"><persName key="Molilo">Molilo</persName></persName>
+<persName type="form">Mol.</persName>
+    </person>
+    <person xml:id="Seb">
+<persName type="standard"><persName key="Sebastian">Sebastian</persName></persName>
+<persName type="form">Seb.</persName>
+    </person>
+    <person xml:id="Cand">
+<persName type="standard"><persName key="Candian">Candian</persName></persName>
+<persName type="form">Cand.</persName>
+    </person>
+    <person xml:id="Greg">
+<persName type="standard"><persName key="Gregory">Gregory</persName></persName>
+<persName type="form">Greg.</persName>
+    </person>
+    <person xml:id="Van">
+<persName type="standard"><persName key="Vanni">Vanni</persName></persName>
+<persName type="form">Van.</persName>
+    </person>
+    <person xml:id="Fiam">
+<persName type="stadard">Fiammetta</persName>
+<persName type="form">Fiam.</persName>
+    </person>
+    <person xml:id="Vit">
+<persName type="standard"><persName key="Vittoria">Vittoria</persName></persName>
+<persName type="form">Vit.</persName>
+    </person>
+    <person xml:id="Mal">
+<persName type="standard"><persName key="Malipiero">Malipiero</persName></persName>
+<persName type="form">Mal.</persName>
+    </person>
+    <person xml:id="Herb">
+<persName type="standard"><persName key="Walter Herbert">Walter Herbert</persName></persName>
+<persName type="form">Herb.</persName>
+    </person>
+</listPerson>
+    </particDesc>
+</profileDesc>
     </teiHeader>
     <text>
-        <body>
-            <div1 type="issue" n="21">
-                <pb n="161" />
-                <div2 type="forematter"> 
-                <head type="title" rend="center">THE INDICATOR.</head>
-                <epigraph rend="center">
-                    <l>There he arriving round about doth flie</l>
-                    <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
-                    <l>Now this, now that, he tasteth tenderly.<note type="citation"><bibl><ref target="http://dbpedia.org/resource/<persName key="Elizabeth">Elizabeth</persName>_Spencer,_Baroness_Hunsdon"/></bibl></note></l>
-                    <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
-                </epigraph>
-                <head type="subtitle" rend="center">No. XXI.—<date when="1820-03-01" cert="high">WEDNESDAY, MARCH 1st, 1820</date>.</head>
-                </div2>
-                <div2 type="section" n="1">
-                <head type="header" rend="center">SCENES FROM AN UNFINISHED DRAMA.</head>
-                <p>THE following scenes are from a play which the Editor intended 
-                    to write, and belonged to the more serious part of it. The rest he 
-                    has retained for another purpose. The objects of the piece in gene-
-                    ral were to shew the character of an English gentleman in the time 
-                    of <persName key="Elizabeth">Elizabeth</persName>; the manners at the same period of the Venetians, both 
-                    rich and poor; and the generous struggle of a mother to suppress a 
-                    passion she conceived for our countryman, who had saved her daughter 
-                    from drowning. The accident, like the scheme of Pollexfen in <persName key="Sir">Sir</persName> 
-                    <persName key="Charles Grandison">Charles Grandison</persName>, had been purposely contrived by a Venetian of
-                    darker character, <placeName key='Malipiero'>Malipiero</placeName>, as the only means of gaining the young
-                    lady's affection; but the <persName key="Englishman">Englishman</persName> was quicker to rescue her, and 
-                    so threw him doubly aback. The incidents, or rather the dialogues, 
-                    which took place imediately after this circumstance, occup the 
-                    scenes now laid before the reader. <persName key="<placeName key='Vit'>Vit</placeName>toria"><placeName key='Vit'>Vit</placeName>toria</persName> and <persName key="Flammetta">Flammetta</persName>, the mother 
-                    and daughter, are of a similar character for goodness and frankness; 
-                    but the one is the more stately minded, the other sparkling and full 
-                    of spirits. <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName>, her grand-uncle, <persName key="Sebastian">Sebastian</persName>, her brother, Mo-
-                    lino, <persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName>, and <placeName key='Malipiero'>Malipiero</placeName>, are Venetian gentlement, the four first 
-                    of different characters of sprightliness or warmth; the last an intel-
-                    igent man like the rest, but of a violent and envious disposition. 
-                    <persName key="<persName key="Van">Van</persName>ni"><persName key="Van">Van</persName>ni</persName> and <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName> are the servants of <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName> and the <persName key="Englishman">Englishman</persName>. 
-                    With <persName key="<persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName>"><persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName></persName> the <persName key="Englishman">Englishman</persName>, and indeed with most of the 
-                    others, it is lucky perhaps that the author had nothing farther to 
-                    do; for he intended him as one of those high and graceful spirits, in 
-                    the best age of this country, who were admitted to the society of its 
-                    poets and other great men.
-                </p>
-                <q type="written">For <hi rend="italic">valour</hi>, <hi rend="italic">is</hi> not <persName key="Love">Love</persName> a Hercules?</q>
-                </div2>
-                <pb n="162" />
-                <div2 type="scene" n="1">
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName>.</speaker>
-                        <l>The <placeName key='Englishmen'>Englishmen</placeName> indeed, <persName key="Sir">Sir</persName>, have graced us, </l>
-                        <l>Not we the <placeName key='Englishmen'>Englishmen</placeName>. How instantly </l>
-                        <l><persName key="Sebastian">Sebastian</persName>'s friend laid himself out o' the boat, </l>
-                        <l>Before our thoughts had time to find themselves, </l>
-                        <l><persName key="And">And</persName> gave us back our pale one.</l>
-                    </sp>
-                    <sp who="#<persName key="Mol">Mol</persName>">
-                        <speaker><persName key="<persName key="Mol">Mol</persName>ilo"><persName key="Mol">Mol</persName>ilo</persName>.</speaker>
-                        <l>Like a god </l> <!-- How can this be formatted to show it completes <persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName>'s previous line? -->
-                        <l>In his own element. 'Twas a strange thing,—</l>
-                        <l>That sudden shock. I never knew the like </l>
-                        <l>Happen before in <placeName key='Venice'>Venice</placeName>, though our gondolas </l>
-                        <l>Serve us for every purpose of the road, </l>
-                        <l><persName key="And">And</persName> pierce about like fish.</l>
-                    </sp>
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="Cont">Cont</persName>.</speaker>
-                        <l>It marred so too </l>
-                        <l>The stately self-possesion of the day, </l>
-                        <l>Especially before our naval emulators. </l>
-                        <l>How <placeName key='Malipiero'>Malipiero</placeName>'s vexed!</l>
-                    </sp>
-                    <sp who="#<persName key="Mol">Mol</persName>">
-                        <speaker><persName key="Mol">Mol</persName>.</speaker>
-                        <l>He seized directly </l>
-                        <l><persName key="Piero">Piero</persName>, the gondolier, who is supposed </l>
-                        <l>To have meant this mischief out of some revenge </l>
-                        <l>Towards his good master; and conveyed him off </l>
-                        <l>With his fierce fist against the scoundrel's throat.</l>
-                    </sp>
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="Cont">Cont</persName>.</speaker>
-                        <l>That's settled then. Some singular punishment </l>
-                        <l><persName key="Will">Will</persName> mark this singular disgrace of <placeName key='Venice'>Venice</placeName>.</l>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="Sebastian">Sebastian</persName>.</stage>
-                    <sp who="#<persName key="Mol">Mol</persName>">
-                        <speaker><persName key="Mol">Mol</persName>.</speaker>
-                        <l>How are the ladies now?</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker><persName key="Sebastian">Sebastian</persName>.</speaker>
-                        <l><persName key="Quite">Quite</persName> well again.</l>
-                        <l>'Twas but a fright at last, though a severe one.</l>
-                        <l><placeName key='Fiam'>Fiam</placeName>metta sparkles like a flower new washed, </l>
-                        <l><persName key="And">And</persName> turns it all, as she is wont to do, </l>
-                        <l>To chearfulness and grace.</l>
-                    </sp>
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="Cont">Cont</persName>.</speaker>
-                        <l>A charming lady.</l>
-                        <l>But how's your mother?</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>She's recovered too;</l>
-                        <l>Yet though she had no drowning, takes on still, </l>
-                        <l>Kissing my sister's hand, and cheek, and pressing her, </l>
-                        <l><persName key="And">And</persName> then again turning to plenteous tears, </l>
-                        <l>As if she wept for all that might have happened.</l>
-                    </sp>
-                    <sp who="#<persName key="Mol">Mol</persName>">
-                        <speaker><persName key="Mol">Mol</persName>.</speaker>
-                        <l>I have observed it so: the heart, as 'twere, </l>
-                        <l>Takes pity on itself, and so turns fond </l>
-                        <l>On it's own gentle nature.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>Yes, when tears </l>
-                        <l>Come, as these do, seldom, and out of sweetness.</l>
-                        <l>My dearest mother is of a true clay, </l>
-                        <l>Much like her daughter; only former trouble—</l>
-                        <l>The loss of a loved partner,—made her quit </l>
-                        <l>The dance, and sit her down in a still patience, </l>
-                        <l>Happy to see us nevertheless enjoy it.</l>
-                        <l>She seldom weeps: but now that this rude shock </l>
-                        <l>Has shaken up the long-collecting fountains,</l>
-                        <l>She bathes her heart's great thirst.</l>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName>.</stage>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l><persName key="Piero">Piero</persName>'s escaped.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>Escaped?</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l>Escaped,—in an unguarded moment.</l>
-                        <l>Poor <placeName key='Malipiero'>Malipiero</placeName> reddens for mere rage, </l>
-                        <l><persName key="And">And</persName> will not patiently endure to hear </l>
-                        <l>Even the English praised:—he says their coming </l>
-                        <l>Is a bad omen.</l>
-                    </sp>
-                    <sp who="#<persName key="Mol">Mol</persName>">
-                        <speaker><persName key="Mol">Mol</persName>.</speaker>
-                        <l>'Tis his vehemence.</l>
-                        <l>He's vexed at the escape; and to speak truly, </l>
-                        <pb n="163" />
-                        <l>I think his natural emulation chides him </l>
-                        <l>For not being quicker than the <persName key="Englishman">Englishman</persName>.</l>
-                    </sp>
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="Cont">Cont</persName>.</speaker>
-                        <l>He'll make it up to him with double praise.</l>
-                        <l>This jealousy in noble spirits runs forth </l>
-                        <l>For it's own self, only to turn again </l>
-                        <l>With a new shape of ardour, and perform </l>
-                        <l>Another's messages to fame more quickly.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>It does so. I have heard my noble friend </l>
-                        <l>Our visitor say, that spirits which have wings </l>
-                        <l>Of muscular root enough to winnow up, </l>
-                        <l>As they go on, the petty from the great, </l>
-                        <l>Find something more succesful than success </l>
-                        <l>Itself, or rather than the name of it,—</l>
-                        <l><persName key="Succeeding">Succeeding</persName> most where they most realize </l>
-                        <l>Their own calm world of beauty, and inspire </l>
-                        <l>A self-divested sense of it in others: </l>
-                        <l>Like odour-wafting airs in summer-time,</l>
-                        <l>In which the odour's praised, though not the air.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l>'Tis wondered at by some, that <persName key="Piero">Piero</persName> escaped; </l>
-                        <l><persName key="And">And</persName> certainly 'tis strange, especially </l>
-                        <l>AS his own tribe are jealous of their fame, </l>
-                        <l><persName key="And">And</persName> fall, like clamourous birds, upon foul play.</l>
-                        <l>Yet as to what concerns our anxious friend, </l>
-                        <l>Who is to wonder, that a spirit like his, </l>
-                        <l>Unused to keep constrained it's very thoughts, </l>
-                        <l><persName key="Should">Should</persName> let his generous hand forget it's hold, </l>
-                        <l><persName key="And">And</persName> find it a bad jail.</l>
-                    </sp>
-                    <sp who="#<persName key="Cont">Cont</persName>">
-                        <speaker><persName key="Cont">Cont</persName>.</speaker>
-                        <l>Who, <persName key="Sir">Sir</persName>, indeed?</l>
-                        <l>But we'll detain you, gentlemen, no longer </l>
-                        <l>From our fair friends; pray tell them of our joy, </l>
-                        <l><persName key="And">And</persName> willing envy of the <persName key="Englishman">Englishman</persName>.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l><persName key="Nay">Nay</persName> we will praise, and thank him, but not envy.</l>
-                        <l>We can afford, I hope, to let a foreigner </l>
-                        <l>Plunge in our <persName key="waters">waters</persName> for a lady's sake,</l>
-                        <l><persName key="Without">Without</persName> making the windows stare the wider, </l>
-                        <l><persName key="And">And</persName> lift their stony brows up in astonishment.</l>
-                        <l>But he's a gallant fellow, and we'll tell him so.</l>
-                    </sp>
-                </div2>
-                <div2 type="scene" n="2">
-                    <stage type="setting" rend="center">SCENE.—The front of the <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName> Palace.</stage>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>.</stage>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>.</speaker>
-                        <p>This comes of travelling. It seems all a dream. I'm not sure that 
-                            I sha'n't wake and find myself in the arms of the dear old chair at the Bull. My 
-                            master, whom it is impossible to resist, offers me to go with him; I consent; and 
-                            so he ties me in a manner to his coat like a witch, and off I go; first scouring over 
-                            the road to the seaside; then rocking up and down, up and down, till I'm sick; 
-                            then scouring away again; then dragged up mountains into the clouds, till my 
-                            teeth chatter for fear and cold; then whew! down again like a flourish on paper; 
-                            then jolted along, all unbuttoned for heat; then bitten till I could have got the 
-                            sign of the comb to scratch me; or scraped acquaintance with a brick wall; or 
-                            taken to the cunning custom of flogging myself for penance; or winced, and 
-                            tumbled, and beaten myself and the very air about me, like a shirt hung out to 
-                            dry in a high wind:—then comes some more sea-rocking, and then says my 
-                            master, <q type="spoken">Now, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>, we land for good:</q>—thinks I, looking about me, and 
-                            seeing nothing but canals for streets, and houses standing out of them like so 
-                            many cows in a pond,——I hope we don't land for evil: and I had scarcely 
-                            thought the word, when we took to boating it again, and hey! presto! down 
-                            goes that <persName key="Will">Will</persName>-o'-the-wisp, my master, souse over head and ears after a fish in 
-                            petticoats.
-                        </p>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="<persName key="Van">Van</persName>ni"><persName key="Van">Van</persName>ni</persName>.</stage>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="<persName key="Van">Van</persName>ni"><persName key="Van">Van</persName>ni</persName>.</speaker>
-                        <p>Well, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>, this is a strange unaccountable circumstance, isn't it!</p>
-                    </sp>
-                    <pb n="164" />
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>What, a fall in the water! not half so strange to me, <persName key="<persName key="Van">Van</persName>ni"><persName key="Van">Van</persName>ni</persName>, as that 
-                            you Venetians will have so much water to fall in.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p>If we hadn't so much water to fall in, we shouldn't have so much love 
-                            to fall in. Our shews and our shews-off by day, our gondolas, and our serenades, 
-                            what should we do without them? <persName key="And">And</persName> the water causes or sweetens them all. 
-                            <placeName key='You'>You</placeName>'ll hear guitars to night twinkling about like stars. I won my mistress's 
-                            heart by a plunge higher than was known before into the <placeName key='River of Song!'>River of Song!</placeName>
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>How these Venetians do talk! Guitars twinkling about like stars! and 
-                            a plunge into the <placeName key='River of Song!'>River of Song!</placeName> there's a name for a canal! It's fine talking, 
-                            and sometimes puts me in mind of my master's friends, Master Shakespeare and the 
-                            others at the mermaid; but what name comes home to me like the manly and 
-                            natural one of Fleet Ditch!
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p><placeName key='You'>You</placeName> seem sad, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>. We shall cheer you up before long. We have 
-                            everything here to make a man merry,—rowing, laughing, sunshine, music, wo-
-                            men, every thing.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>No, <placeName key='<persName key="Sir">Sir</persName>,—no'><persName key="Sir">Sir</persName>,—no</placeName>, <persName key="<persName key="Sir">Sir</persName>,—you"><persName key="Sir">Sir</persName>,—you</persName> haven't my wife and <persName key="Bunhill">Bunhill</persName>-fields.</p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p>There's plenty of fields over the water, and as to your wife, my dear Gre-
-                            gory, I never heard you talk much about her before. Besides, she told you she 
-                            should be quite happy, you know; and she looked so.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>Ah, <persName key="Sir">Sir</persName>, and then you pretend that the English women are not so chear-
-                            ful as your's. Oh, I never loved my wife more than now I am in the thick of 'em. 
-                            Oh, how I loved her during the squall at sea! and how prodigiously I did love 
-                            her, when I thought I should have broken my neck on the top of the Alps! I hope, 
-                            <persName key="Sir">Sir</persName>, you found your intended as well as could be expected after your absence.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p>Better than ever: as hearty as you'll find your wife, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>:—but how 
-                            formal and ceremonious you seem to think it necessary to be in your pathetics. 
-                            Come, man, <placeName key='I'll'>I'll</placeName> shew you the lions, as you used to say, and keep my word for better 
-                            too, as far as stone lions can go; and then <placeName key='I'll'>I'll</placeName> introduce you to <placeName key='Momola'>Momola</placeName>. She'll 
-                            rouse your spirits for you. We'll cross the way to <placeName key='St. Mark'>St. Mark</placeName>'s. <persName key="Bartolo">Bartolo</persName>, there! 
-                            Hallo! Mind the canal, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>, you'll run over the parapet.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>Lord! the very dangers in this place have nothing Christian about 
-                            them! We can't even be run over by a horse, but must be warned how a parapet 
-                            is run over by a man.
-                        </p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p>We'll go round by the bridge if you prefer it, <persName key="<persName key="Greg">Greg</persName>ory"><persName key="Greg">Greg</persName>ory</persName>.</p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>Ah, do.</p>
-                    </sp>
-                    <sp who="#<persName key="Van">Van</persName>">
-                        <speaker><persName key="Van">Van</persName>.</speaker>
-                        <p>Never mind, then, <persName key="Bartolo">Bartolo</persName>, this time.</p>
-                    </sp>
-                    <sp who="#<persName key="Greg">Greg</persName>">
-                        <speaker><persName key="Greg">Greg</persName>.</speaker>
-                        <p>Perhaps I shall have the pleasure of meeting with some dust.</p>
-                    </sp>
-                    <stage type="exit" rend="italic rightJustified">[<placeName key='Exeunt'>Exeunt</placeName>.</stage>
-                </div2>
-                <div2 type="scene" n="3">
-                    <stage type="setting" rend="center">SCENE.—An apartment in the Palace <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName>. <persName key="<placeName key='Vit'>Vit</placeName>toria"><placeName key='Vit'>Vit</placeName>toria</persName> and <persName key="<placeName key='Fiam'>Fiam</placeName>-"><placeName key='Fiam'>Fiam</placeName>-</persName>
-                        metta sitting together, with books, music, and flowers about them; 
-                        the former with her face towards a looking-glass, adjusting some-
-                        thing about her head.
-                    </stage>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>My dear, dear mother, let me make you merry again.</l>
-                        <l>I'm merry.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Be so, child,—be so, dear child.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l><placeName key='You'>You</placeName> see how stout I am; I'm drest before you.</l>
-                        <l>'Twas but a kind of unexpected bath.</l>
-                        <l>'Twas frightful to be sure; the sudden missing </l>
-                        <l>Of one's dry senses,—the deaf plunge and bubbling, </l>
-                        <l><persName key="And">And</persName> wrapping up in heavy wateriness: </l>
-                        <l>But now that it is past, somehow or other, </l>
-                        <l>One feels the grander for it, and, poor soul!</l>
-                        <l>Fancies one's accident a grand achievement!</l>
-                        <l><placeName key='You'>You</placeName>'re absent, mother! <placeName key='You'>You</placeName>'re in the boat still!</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>No more of that, my love, I have you fast;</l>
-                        <l><placeName key='You'>You</placeName>r brother is come home, our noble bird, </l>
-                        <l>Nobler than ever! What can I want more </l>
-                        <l>To make me happy? I believe I want </l>
-                        <l>Some pain to pinch away these foolish tears, </l>
-                        <l><persName key="And">And</persName> make me, as before, give smile for smile.</l>
-                    </sp>
-                    <pb n="165" />
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l><persName key="Shall I">Shall I</persName> read to you, mother?</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>No, my child.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>Or sing? or dance? or bring your favourite picture </l>
-                        <l>Of <persName key="Dido">Dido</persName> playing with the cheeks of Cupid, </l>
-                        <l>As if she said unwittingly, "<placeName key='You'>You</placeName> rogue!"</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Oh no, no, no! talk to me of things common; </l>
-                        <l>Of dress, for instance, flounces, coifs, and fashions, </l>
-                        <l><persName key="And">And</persName> what new creature we're to look like next, </l>
-                        <l>When some great lady quarrels with her shoulder-blade, </l>
-                        <l>Or has a private pique against her waist.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>Oh, if no waist, like a tied sack of charcoal, </l>
-                        <l>Or like the letter B run up to seed; </l>
-                        <l><persName key="And">And</persName> if a waist, why then we must be wasps </l>
-                        <l>Cut right in two, or hour-glasses that shew </l>
-                        <l>The time by letting their wise heads run empty.</l>
-                        <l>Or if we must be neither, we'll preside </l>
-                        <l>O'er hoops, like busts upon a cupola; </l>
-                        <l>Or turn to real walking bells, with feet </l>
-                        <l>For double clappers; and let mother church </l>
-                        <l>Look to high winds, or we'll have belfry and all, </l>
-                        <l>For bonnet, with the penthouse, and stick in it </l>
-                        <l>The whole FLower-Market and the shops of plumes, </l>
-                        <l><persName key="And">And</persName> all the Sunday ribbons in the parish.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Why you dash on this morning like <persName key="Sebastian">Sebastian</persName>, </l>
-                        <l>Along your gay reflections in wit's gondola.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l><persName key="And">And</persName> you must think of gondolas again, </l>
-                        <l><persName key="And">And</persName> sigh, dear mother. Well, if you will think of 'em, </l>
-                        <l>Pray tell me now what think you of the <persName key="Englishman">Englishman</persName>; </l>
-                        <l>Taking him in the common light, you know,—</l>
-                        <l>His look, his figure; for to say the truth, </l>
-                        <l>Only don't tell, I've hardly seen him yet; </l>
-                        <l>Though I've the recollection at my heart </l>
-                        <l>Of—</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>What, my love?</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>. . . . . . His terrible pinching fingers.</l>
-                    </sp>
-                    <sp who="<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Why, you sweet trifler! this is the way, is it, </l>
-                        <l><placeName key='You'>You</placeName> treat a — gentleman that saves your life.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>A gentleman that saves one's life! Well, really now, </l>
-                        <l>That is a proper philosophic way </l>
-                        <l>Of putting it, before we've got the right </l>
-                        <l>Of speaking highlier of him for himself. </l>
-                        <l><placeName key='You'>You</placeName> mean, I know, you dare not trust yourself </l>
-                        <l>Just now, upon that watery subject, mother;—</l>
-                        <l>But this, believe me, is the very way </l>
-                        <l>To speak of such good chances giv'n the gentlemen. </l>
-                        <l>From what I've read, there are some ladies who </l>
-                        <l>Think one such plunge renders a man invulnerable </l>
-                        <l>To all objection. By their rule, one ought </l>
-                        <l>To save one's life, only to lose one's freedom; </l>
-                        <l>Begging the gentleman, that since a shark </l>
-                        <l>Was not to have you, or since he had kindly </l>
-                        <l>Taken the trouble to pick you up, he'd have you. </l>
-                        <l>Tis lucky, mother, the same principle </l>
-                        <l>Does not extend to limbs, or 'twould be requisite </l>
-                        <l>To give one's hand for saving it a scratch; </l>
-                        <l>Or when a dog was hindered of his bite, </l>
-                        <l>Present one's foot with an elaborate stretch, </l>
-                        <l>Like a French dancer, and say, "Gracious <persName key="Sir">Sir</persName>, </l> <!-- How to mark cross line quotation ??-->
-                        <l><placeName key='You'>You</placeName> saved this foot of mine; will't please ye accept it?"</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Oh rattler, rattler! How am I to know </l>
-                        <l>That all this smiling surface of your talk </l>
-                        <l>Has not grave ground beneath?</l>
-                    </sp>
-                    <pb n="166" />
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>. . . . <persName key="Nay">Nay</persName>, other, now </l>
-                        <l><placeName key='You'>You</placeName> make me blush to think that I could give </l>
-                        <l>More than my thaks at first to one of whom </l>
-                        <l>I know so little; grateful thanks, 'tis true, </l>
-                        <l>Most grateful,—but—I'm sure <emph rend="italic">you</emph> think a man </l>
-                        <l><persName key="Should">Should</persName> shew that he has picked up a few qualities </l>
-                        <l>As well as ladies, ere he picks our hearts. </l>
-                        <l>My brother, to be sure, is fond of truth, </l>
-                        <l>Extremely fond,—but then as uncle said—</l>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="<placeName key='Cand'>Cand</placeName>ian"><placeName key='Cand'>Cand</placeName>ian</persName>, <hi rend="italic">followed by</hi> <persName key="Mol">Mol</persName>ino, <persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName>, <hi rend="italic">and</hi> <placeName key='Malipiero'>Malipiero</placeName>.</stage>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l><persName key="And">And</persName> what did uncle say? Ladies, allow me—</l>
-                        <l>The <placeName key='Signor'>Signor</placeName> <placeName key='Malipiero'>Malipiero</placeName>, a sad gentleman, </l>
-                        <l>Who thinks it necessary to apologize </l>
-                        <l>For not being a king-fisher.—We found him </l>
-                        <l>Eyeing his would-be element at the door.</l>
-                    </sp>
-                    <sp who="#Mal">
-                        <speaker>Mal.</speaker>
-                        <l><persName key="Nay">Nay</persName>, <persName key="Sir">Sir</persName>, I yield to none in hearty chearfulness; </l>
-                        <l><persName key="And">And</persName> as I hope and think the best of others, </l>
-                        <l>'Tis thought, I trust, of me: and yet, dear ladies, </l>
-                        <l>A man may reasonably regret, that chance </l>
-                        <l><persName key="Should">Should</persName> on the turn, as 'twere, of one swift instant, </l>
-                        <l><persName key="Whisk">Whisk</persName> him from shewing all his zeal for ye.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>My daughter loves a good intention, <persName key="Sir">Sir</persName>, </l>
-                        <l>Too well to make it answerable to fortune.</l>
-                    </sp>
-                    <sp who="#Mal" toWhom="<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker>Mal. </speaker>
-                        <stage type="delivery">(to <placeName key='Fiam'>Fiam</placeName>.)</stage>
-                        <l>Then, <placeName key='Madam'>Madam</placeName>, I may hope that this omission </l>
-                        <l><persName key="Will">Will</persName> not be held a punishable sin, </l>
-                        <l>When heavenly eyes look down upon one's homage.</l>
-                    </sp>
-                    <sp who="<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>If you mean my eyes, <placeName key='Signor'>Signor</placeName> <placeName key='Malipiero'>Malipiero</placeName>, </l>
-                        <l>Which heaven forbid should look down on tall gentlemen, </l>
-                        <l>I think no evil of our other friends here, </l>
-                        <l><persName key="And">And</persName> why should I of you?</l>
-                    </sp>
-                    <sp who="<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l>Come, <placeName key='Malipiero'>Malipiero</placeName>, </l>
-                        <l>Settle these grave state questions by and bye, </l>
-                        <l>For here's <persName key="Sebastian">Sebastian</persName> and the <persName key="Englishman">Englishman</persName>: </l>
-                        <l>I saw them from the window, coming in.</l>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> Servant.</stage>
-                    <sp>
-                        <l><placeName key='Signor'>Signor</placeName> <persName key="Sebastian">Sebastian</persName>, and his noble friend, <persName key="Sir">Sir</persName>.</l>
-                    </sp>
-                    <stage type="entrance" rend="center"><hi rend="italic"><placeName key='Enter'>Enter</placeName></hi> <persName key="Sebastian">Sebastian</persName> <hi rend="italic">and</hi> <persName key="<persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName>"><persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName></persName>.</stage>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>Dear mother, uncle, sister sweet, and gentlemen, </l>
-                        <l>I need not introduce my noble friend </l>
-                        <l><persName key="And">And</persName> your's—the <placeName key='Signor'>Signor</placeName> <persName key="<persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName>"><persName key="Walter">Walter</persName> <persName key="Herbert">Herbert</persName></persName>, <persName key="Englishman">Englishman</persName>.</l>
-                        <l><persName key="Dear <persName key="Walter">Walter</persName>">Dear <persName key="Walter">Walter</persName></persName>, this is the affectionate circle </l>
-                        <l>I've told you of so often. Heaven be praised </l>
-                        <l><placeName key='You'>You</placeName>'re in the midst of it, and have been so.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l>Our silence, <persName key="Sir">Sir</persName>, must shew you what we feel, </l>
-                        <l>This ready swiftness to oblige your friends, </l>
-                        <l>Is, I perceive, a habit with you.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>If, <persName key="Sir">Sir</persName>, </l>
-                        <l>Winning their ready kindness be obliging them. </l>
-                        <l>'Tis counted so by some.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l><persName key="Sir">Sir</persName>, the best thanks  </l>
-                        <l>A mother can pay to you, who has been </l>
-                        <l><persName key="Made">Made</persName> breathless with two rushing visitations, </l>
-                        <l>Terror and joy, is to shew what you saved for her:—</l>
-                        <l>My daughter, <persName key="Sir">Sir</persName>.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>A pearl indeed, whose sight </l>
-                        <l>Would pay a fathomless plunge.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l><emph rend="italic" cert="medium">I</emph> cannot, <persName key="Sir">Sir</persName>, </l>
-                        <l>Pay compliments; I fear, I had expected—</l>
-                        <l>I thank you, <persName key="Sir">Sir</persName>, from bottom of my heart.</l>
-                    </sp>
-                    <pb n="167" />
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>I am paid, <placeName key='Madam'>Madam</placeName>, beyond compliment,—</l>
-                        <l><persName key="Almost">Almost</persName> beyond surprise, to think that two </l>
-                        <l>Such spirits from the earthly heaven of womanhood </l>
-                        <l><persName key="Should">Should</persName> stand before me—pardon me this burst,—</l>
-                        <l><persName key="And">And</persName> fancy that they owed me any thing.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l><placeName key='You'>You</placeName> can pay compliments at any rate, <persName key="Sir">Sir</persName>, </l>
-                        <l>Whether we must or not.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l><placeName key='You'>You</placeName> make me vain, <placeName key='Madam'>Madam</placeName>; </l>
-                        <l><persName key="And">And</persName> vanity assumes the right to praise, </l>
-                        <l>Where silence is best worship.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l><persName key="Nay">Nay</persName>, <persName key="Sir">Sir</persName>, I neither </l>
-                        <l>Deny your right, nor, to say truth, our pleasure. </l>
-                        <l>We feel but doubly flattered to conjecture </l>
-                        <l>That you are driven by your sympathy </l>
-                        <l>Out of your plainer path.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb</speaker>
-                        <l><placeName key='You'>You</placeName> judge me, <placeName key='Madam'>Madam</placeName>, </l>
-                        <l><placeName key='Truly'>Truly</placeName> and nobly.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l><placeName key='You'>You</placeName>'re no friend then, <persName key="Sir">Sir</persName>, </l>
-                        <l>To compliment in general?</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>Oh yes, <persName key="Sir">Sir</persName>, </l>
-                        <l>Where 'tis th' escape of pleased sincerity, </l>
-                        <l><persName key="And">And</persName> not so needlessly alone, as shews it </l>
-                        <l><persName key="Van">Van</persName>ity and a superfluous common-place.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l><persName key="And">And</persName> what, <persName key="Sir">Sir</persName>, as to taking compliments?</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>It seems to me, <placeName key='Madam'>Madam</placeName>, as I presume </l>
-                        <l>It does to you, by your reception of them, </l>
-                        <l>That not to take a compliment in general, </l>
-                        <l>With leaning rather to the praiser's feelings </l>
-                        <l>Than his true sight, or our own better merits, </l>
-                        <l><persName key="Argues">Argues</persName> self-love rather than modesty.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l><placeName key='You'>You</placeName> see, <persName key="Sir">Sir</persName>, we have scarcely yet recovered </l>
-                        <l>Our drowning, and our gratitude. Come, this weight </l>
-                        <l>Of mutual homage bows us into ceremony </l>
-                        <l>In our own spite. It must give way to something </l>
-                        <l><persName key="Quite">Quite</persName> as respectful, and more easy and pleasant: </l>
-                        <l><placeName key='Mutual'>Mutual</placeName> enjoyment.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>The right proposition.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>I feel the hand of home, <persName key="Sir">Sir</persName>, in this grasp.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>Yes, <persName key="Walter">Walter</persName>, we but fancy we're new friends here;</l>
-                        <l>We are as old ones the tastes we love.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l><persName key="And">And</persName> friends ave other privileges in <placeName key='England'>England</placeName>.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker><placeName key='Cand'>Cand</placeName>.</speaker>
-                        <l>Ay, and in most places. Come, girls, your cheeks.</l>
-                    </sp>
-                    <stage type="business" rend="rightJustified">(<persName key="Herbert">Herbert</persName> <hi rend="italic">kisses them</hi>.)</stage>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <stage type="delivery" rend="italic">(aside).</stage>
-                        <l>I told you how 'twould be, <persName key="Mother">Mother</persName>.</l>
-                        <l>My cheek's gone off already.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l><persName key="And">And</persName> your heart; </l>
-                        <stage type="delivery" rend="italic">(aside).</stage>
-                        <l>She blushes, and I fear I do so too:—</l>
-                        <l>I have most cause.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <stage type="delivery">(to <placeName key='Fiam'>Fiam</placeName>.)</stage>
-                        <l>Well, <placeName key='Sister'>Sister</placeName> gravity, and have you no praises </l>
-                        <l>AS well as cheeks?</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l>Yes, just as many as friends </l>
-                        <l>Would wish to have just now;—at least I think so.</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l><placeName key='You'>You</placeName>r brother could not be more gladly answered, </l>
-                        <l><persName key="Nor I">Nor I</persName> more honoured.</l>
-                    </sp>
-                    <sp who="#Mal">
-                        <speaker>Mal.</speaker>
-                        <l>'Tis an answer, <persName key="Sir">Sir</persName>, </l>
-                        <l>Befitting the coy oracle that sits </l>
-                        <l>Within a maid's sincerity: but suffer </l>
-                        <l><placeName key='Us'>Us</placeName> to give louder grace to your achievement, </l>
-                        <l><persName key="And">And</persName> hail you at the shrine whose present goddess </l>
-                        <l><placeName key='You'>You</placeName> have preserv'd. It was a happy deed, </l>
-                        <l><persName key="And">And</persName> might have made us watery champions jealous, </l>
-                        <l>Did it not ev'n outbenefit envy.</l>
-                    </sp>
-                    <pb n="168" />
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>That </l>
-                        <l>Were to outdo the deeds of Hercules, </l>
-                        <l><persName key="And">And</persName> make old <persName key="Atlas">Atlas</persName> turn to kiss his burden, </l>
-                        <l>Like a borne lass. <placeName key='You'>You</placeName>r generous spirit, <persName key="Sir">Sir</persName>, </l>
-                        <l>Sees, like an eye, ore infinite things outside it, </l>
-                        <l>Than ever it would boast to hold itself. </l>
-                        <l><placeName key='You'>You</placeName> measure my desert by your great joy.</l>
-                    </sp>
-                    <sp who="#Mal">
-                        <speaker>Mal.</speaker>
-                        <l>Is not this contradicting you own sentiment, </l>
-                        <l>A little so at least,—denying us </l>
-                        <l>The pride of giving you what you give others?</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>Well, <persName key="Sir">Sir</persName>, to shew you I can claim my due, </l>
-                        <l><persName key="And">And</persName> have my benefits returned, <placeName key='I'll'>I'll</placeName> ask </l>
-                        <l>This lady to speak for me, and to own </l>
-                        <l>That what would have been done by any gentleman </l>
-                        <l><persName key="Should">Should</persName> not be charged so brightly on my scutcheon.</l>
-                    </sp>
-                    <sp who="#<placeName key='Fiam'>Fiam</placeName>">
-                        <speaker><placeName key='Fiam'>Fiam</placeName>.</speaker>
-                        <l><persName key="Nay">Nay</persName>, <persName key="Sir">Sir</persName>, <placeName key='I'll'>I'll</placeName> own still more, and plainly tell you, </l>
-                        <l><persName key="And">And</persName> that without the fear of being tossed back </l>
-                        <l>Into the sea for my ingratitude, </l>
-                        <l>that I insinuated as much just now </l>
-                        <l>To <placeName key='Signor'>Signor</placeName> <placeName key='Malipiero'>Malipiero</placeName> here himself. </l>
-                        <l>Did I not, gentlemen? <persName key="And">And</persName> did I rate </l>
-                        <l><placeName key='You'>You</placeName>, <placeName key='Signor'>Signor</placeName> <persName key="<persName key="Cont">Cont</persName>arini"><persName key="Cont">Cont</persName>arini</persName>, or you, <persName key="Sir">Sir</persName>, </l>
-                        <l>For not being quicker than our other friend, </l>
-                        <l><persName key="And">And</persName> catching me no agues!—Pardon me, </l>
-                        <l>But I should have asked, <persName key="Sir">Sir</persName>, whether you suffered </l>
-                        <l>The least - - no clinging chilliness, I trust, </l>
-                        <l>Or other - -</l>
-                    </sp>
-                    <sp who="#Herb">
-                        <speaker>Herb.</speaker>
-                        <l>Not the least, <placeName key='Madam'>Madam</placeName>; no more </l>
-                        <l>Than if I had put my hand into a brook, </l>
-                        <l>To bring away a lily. I had heard </l>
-                        <l>Of your own welfare: and if I had not, </l>
-                        <l>I see—<placeName key='You'>You</placeName>, <placeName key='Madam'>Madam</placeName>, 
-                            <stage type="delivery" rend="italic">(to <placeName key='Vit'>Vit</placeName>.)</stage> 
-                            scarcely seem so well, 
-                        </l>
-                        <l>As when I first came in.</l>
-                    </sp>
-                    <sp who="#<placeName key='Vit'>Vit</placeName>">
-                        <speaker><placeName key='Vit'>Vit</placeName>.</speaker>
-                        <l>Oh quite, <persName key="Sir">Sir</persName>, thank you, </l>
-                        <l>I feel the ebbing of these <persName key="waters">waters</persName> yet </l>
-                        <l>At intervals. <persName key="Quite">Quite</persName> well, child,—quite indeed. </l>
-                        <l><persName key="Uncle">Uncle</persName>, we're getting at our compliments </l>
-                        <l><placeName key='Again'>Again</placeName>.</l>
-                    </sp>
-                    <sp who="#<placeName key='Cand'>Cand</placeName>">
-                        <speaker>Indeed! I fear I've scarcely given our friend </speaker>
-                        <l>A proper English welcome. Well; I hope </l>
-                        <l><placeName key='You'>You</placeName>'ll spend the day with us, and teach us how </l>
-                        <l>To interchange each other's cordial customs. </l>
-                        <l>My nephew tells me you must leave ys now </l>
-                        <l>To visit the ambassador. Be it so; </l>
-                        <l>But come back quickly—will you? that's well looked: </l>
-                        <l>For you must know, you have a face, young gentleman, </l>
-                        <l>As full of dialogue as my neice's here.</l>
-                    </sp>
-                    <sp who="#Seb">
-                        <speaker>Seb.</speaker>
-                        <l>In the evening we shall have a masquerade, </l>
-                        <l>Which was already intended, and will serve </l>
-                        <l>To let the whole tide of congratulation </l>
-                        <l>Come in at once. A dance, a little music, </l>
-                        <l> Hearts at their merriest, faces at their best, </l>
-                        <l><persName key="And">And</persName> after all, a look into the still </l>
-                        <l><persName key="And">And</persName> smiling ferment of our starry hour, </l>
-                        <l>Whose ear is kissed with <persName key="waters">waters</persName> gently spooned, </l>
-                        <l>Whose nightingale is <persName key="Love">Love</persName>, shall give you a taste </l>
-                        <l>Of <placeName key='Venice'>Venice</placeName> to the core.</l>
-                    </sp>
-                </div2>
-                <div2 type="colophon">
-                    <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>, No. 19, Catherine-street, Strand—Price 2d.
-                    </p>
-                    <p>
-                        Printed by <persName type="real" key="<persName key="C. H. Reynell">C. H. Reynell</persName>"><persName key="C. H. Reynell">C. H. Reynell</persName></persName>, No. 45, Broad-street, Golden-square.
-                    </p>
-                </div2>
-            </div1>
-        </body>
+<body>
+    <div1 type="issue" n="21">
+<pb n="161" />
+<div2 type="forematter"> 
+<head type="title" rend="center">THE INDICATOR.</head>
+<epigraph rend="center">
+    <l>There he arriving round about doth flie</l>
+    <l>And takes survey with busie, curious eye:</l>
+    <l>Now this, now that, he tasteth tenderly.<note type="citation"><bibl><ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon"/></bibl></note></l>
+    <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
+</epigraph>
+<head type="catalogue" rend="center">No. XXI.—<date when="1820-03-01" cert="high">WEDNESDAY, MARCH 1st, 1820</date>.</head>
+</div2>
+<div2 type="section" n="1">
+<head type="header" rend="center">SCENES FROM AN UNFINISHED DRAMA.</head>
+<p>THE following scenes are from a play which the Editor intended 
+    to write, and belonged to the more serious part of it. The rest he 
+    has retained for another purpose. The objects of the piece in general 
+    were to <choice><orig>shew</orig><reg>show</reg></choice> the character of an English gentleman in the time 
+    of <persName key="queen Elizabeth I">Elizabeth</persName>; the manners at the same period of the Venetians, both 
+    rich and poor; and the generous struggle of a mother to suppress a 
+    passion she conceived for our countryman, who had saved her daughter 
+    from drowning. The accident, like the scheme of <persName type="fictional" key="Pollexfen">Pollexfen</persName> in <title key="The History of Sir Charles Grandison" level="m">Sir 
+    Charles Grandison</title>, had been purposely contrived by a Venetian of
+    darker character, <persName type="fictional" key="Malipiero">Malipiero</persName>, as the only means of gaining the young
+    lady's affection; but the Englishman was quicker to rescue her, and 
+    so threw him doubly aback. The incidents, or rather the dialogues, 
+    which took place imediately after this circumstance, occup the 
+    scenes now laid before the reader. <persName type="fictional" key="Vittoria">Vittoria</persName> and <persName type="fictional" key="Flammetta">Flammetta</persName>, the mother 
+    and daughter, are of a similar character for goodness and frankness; 
+    but the one is the more stately minded, the other sparkling and full 
+    <persName key="Contarini">Contarini</persName>, and <persName type="fictional" key="Malipiero">Malipiero</persName>, are Venetian gentlement, the four first 
+    of spirits. <persName type="fictional" key="Candian">Candian</persName>, her <choice><orig>grand-uncle</orig><reg>great uncle</reg></choice>, <persName type="fictional" key="Sebastian">Sebastian</persName>, her brother, <persName type="fictional" key="Molino">Molino</persName>, 
+    <persName type="fictional" key="Contarini">Contarini</persName>, and <persName type="fictional" key="Malipiero">Malipiero</persName>, are Venetian gentlement, the four first 
+    of different characters of sprightliness or warmth; the last an inteligent 
+    man like the rest, but of a violent and envious disposition. 
+    <persName type="fictional" key="Vanni">Vanni</persName> and <persName type="fictional" key="Gregory">Gregory</persName> are the servants of <persName type="fictional" key="Candian">Candian</persName> and <persName type="fictional" key="Walter Herbert">the Englishman</persName>. 
+    With <persName type="fictional" key="Walter Herbert">Walter Herbert</persName> the Englishman, and indeed with most of the 
+    others, it is lucky perhaps that the author had nothing farther to 
+    do; for he intended him as one of those high and graceful spirits, in 
+    the best age of this country, who were admitted to the society of its 
+    poets and other great men.
+</p>
+<q type="written">For <hi rend="italic">valour</hi>, <hi rend="italic">is</hi> not Love a Hercules?</q><note type="source"><bibl><author>William Shakespeare</author><title level="m">Love's Labor's Lost</title>Act 4 Scene 3<ref target="https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/"/></bibl></note>
+</div2>
+<pb n="162" />
+<div2 type="scene" n="1">
+    <sp who="#Cont">
+<speaker>Contarini.</speaker>
+<l>The Englishmen indeed, <persName type="ficitonal" key="Molio">Sir</persName>, have graced us, </l>
+<l>Not we the Englishmen. How instantly </l>
+<l><persName type="fictional" key="Sebastian">Sebastian</persName>'s friend laid himself out o' the boat, </l>
+<l>Before our thoughts had time to find themselves, </l>
+<l>And gave us back our pale one.</l>
+    </sp>
+    <sp who="#Mol">
+<speaker>Molilo.</speaker>
+<l><gap><desc><!-- How can this be formatted to show it completes <persName key="Contarini">Contarini</persName>'s previous line? https://www.teibyexample.org/exist/tutorials/TBED01v00.htm --></desc></gap>Like a god </l> 
+<l>In his own element. 'Twas a strange thing,—</l>
+<l>That sudden shock. I never knew the like </l>
+<l>Happen before in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, though our gondolas </l>
+<l>Serve us for every purpose of the road, </l>
+<l>And pierce about like fish.</l>
+    </sp>
+    <sp who="#Cont">
+<speaker>Cont.</speaker>
+<l><gap></gap>It marred so too </l>
+<l>The stately self-possesion of the day, </l>
+<l>Especially before our naval emulators. </l>
+<l>How <persName type="fictional" key="Malipiero">Malipiero</persName>'s vexed!</l>
+    </sp>
+    <sp who="#Mol">
+<speaker>Mol.</speaker>
+<l><gap></gap>He seized directly </l>
+<l><persName type="fictional" key="Piero">Piero</persName>, the gondolier, who is supposed </l>
+<l>To have meant this mischief out of some revenge </l>
+<l>Towards his good master; and conveyed him off </l>
+<l>With his fierce fist against the scoundrel's throat.</l>
+    </sp>
+    <sp who="#Cont">
+<speaker>Cont.</speaker>
+<l>That's settled then. Some singular punishment </l>
+<l>Will mark this singular disgrace of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>.</l>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Sebastian.</stage>
+    <sp who="#Mol">
+<speaker>Mol.</speaker>
+<l>How are the ladies now?</l>
+    </sp>
+    <sp who="#Seb">
+<speaker><persName key="Sebastian">Sebastian</persName>.</speaker>
+<l><gap></gap>Quite well again.</l>
+<l>'Twas but a fright at last, though a severe one.</l>
+<l><persName type="fictional" key="Fiammetta">Fiammetta</persName> sparkles like a flower new washed, </l>
+<l>And turns it all, as she is wont to do, </l>
+<l>To chearfulness and grace.</l>
+    </sp>
+    <sp who="#Cont">
+<speaker>Cont.</speaker>
+<l><gap></gap>A charming lady.</l>
+<l>But how's <persName type="fictional" key="Vittoria">your mother</persName>?</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l><gap></gap>She's recovered too;</l>
+<l>Yet though she had no drowning, takes on still, </l>
+<l>Kissing <persName type="fictional" key="Fiammetta">my sister</persName>'s hand, and cheek, and pressing her, </l>
+<l>And then again turning to plenteous tears, </l>
+<l>As if she wept for all that might have happened.</l>
+    </sp>
+    <sp who="#Mol">
+<speaker>Mol.</speaker>
+<l>I have observed it so: the heart, as 'twere, </l>
+<l>Takes pity on itself, and so turns fond </l>
+<l>On it's own gentle nature.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l><gap></gap>Yes, when tears </l>
+<l>Come, as these do, seldom, and out of sweetness.</l>
+<l><persName type="fictional" key="Vittoria">My dearest mother</persName> is of a true clay, </l>
+<l>Much like <persName type="fictional" key="Fiammetta">her daughter</persName>; only former trouble—</l>
+<l>The loss of a loved partner,—made her quit </l>
+<l>The dance, and sit her down in a still patience, </l>
+<l>Happy to see us nevertheless enjoy it.</l>
+<l>She seldom weeps: but now that this rude shock </l>
+<l>Has shaken up the long-collecting fountains,</l>
+<l>She bathes her heart's great thirst.</l>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Candian.</stage>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l><persName type="fictional" key="Piero">Piero</persName>'s escaped.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l>Escaped?</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>Escaped,—in an unguarded moment.</l>
+<l>Poor <persName type="fictional" key="Malipiero">Malipiero</persName> reddens for mere rage, </l>
+<l>And will not patiently endure to hear </l>
+<l>Even the English praised:—he says their coming </l>
+<l>Is a bad omen.</l>
+    </sp>
+    <sp who="#Mol">
+<speaker>Mol.</speaker>
+<l><gap></gap>'Tis his vehemence.</l>
+<l>He's vexed at the escape; and to speak truly, </l>
+<pb n="163" />
+<l>I think his natural emulation chides him </l>
+<l>For not being quicker than <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
+    </sp>
+    <sp who="#Cont">
+<speaker>Cont.</speaker>
+<l>He'll make it up to him with double praise.</l>
+<l>This jealousy in noble spirits runs forth </l>
+<l>For it's own self, only to turn again </l>
+<l>With a new shape of ardour, and perform </l>
+<l>Another's messages to fame more quickly.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l>It does so. I have heard my noble friend </l>
+<l>Our visitor say, that spirits which have wings </l>
+<l>Of muscular root enough to winnow up, </l>
+<l>As they go on, the petty from the great, </l>
+<l>Find something more succesful than success </l>
+<l>Itself, or rather than the name of it,—</l>
+<l>Succeeding most where they most realize </l>
+<l>Their own calm world of beauty, and inspire </l>
+<l>A self-divested sense of it in others: </l>
+<l>Like odour-wafting airs in summer-time,</l>
+<l>In which the odour's praised, though not the air.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>'Tis wondered at by some, that <persName type="fictional" key="Piero">Piero</persName> escaped; </l>
+<l>And certainly 'tis strange, especially </l>
+<l>AS his own tribe are jealous of their fame, </l>
+<l>And fall, like clamourous birds, upon foul play.</l>
+<l>Yet as to what concerns our anxious friend, </l>
+<l>Who is to wonder, that a spirit like his, </l>
+<l>Unused to keep constrained it's very thoughts, </l>
+<l>Should let his generous hand forget it's hold, </l>
+<l>And find it a bad jail.</l>
+    </sp>
+    <sp who="#Cont">
+<speaker>Cont.</speaker>
+<l><gap></gap>Who, <persName type="ficitonal" key="Candian">Sir</persName>, indeed?</l>
+<l>But we'll detain you, gentlemen, no longer </l>
+<l>From our fair friends; pray tell them of our joy, </l>
+<l>And willing envy of <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>Nay we will praise, and thank him, but not envy.</l>
+<l>We can afford, I hope, to let a foreigner </l>
+<l>Plunge in our waters for a lady's sake,</l>
+<l>Without making the windows stare the wider, </l>
+<l>And lift their stony brows up in astonishment.</l>
+<l>But he's a gallant fellow, and we'll tell him so.</l>
+    </sp>
+</div2>
+<div2 type="scene" n="2">
+    <stage type="setting" rend="center">SCENE.—The front of the <persName type="fictional" key="Candian">Candian</persName> Palace.</stage>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Gregory.</stage>
+    <sp who="#Greg">
+<speaker>Gregory.</speaker>
+<p>This comes of travelling. It seems all a dream. I'm not sure that 
+    I sha'n't wake and find myself in the arms of the dear old chair at the Bull. <persName type="fictional" key="Walter Herbert">My 
+    master</persName>, whom it is impossible to resist, offers me to go with him; I consent; and 
+    so he ties me in a manner to his coat like a witch, and off I go; first scouring over 
+    the road to the seaside; then rocking up and down, up and down, till I'm sick; 
+    then scouring away again; then dragged up mountains into the clouds, till my 
+    teeth chatter for fear and cold; then whew! down again like a flourish on paper; 
+    then jolted along, all unbuttoned for heat; then bitten till I could have got the 
+    sign of the comb to scratch me; or scraped acquaintance with a brick wall; or 
+    taken to the cunning custom of flogging myself for penance; or winced, and 
+    tumbled, and beaten myself and the very air about me, like a shirt hung out to 
+    dry in a high wind:—then comes some more sea-rocking, and then says my 
+    master, <q type="spoken">Now, <persName type="fictional" key="Gregory">Gregory</persName>, we land for good:</q>—thinks I, looking about me, and 
+    seeing nothing but canals for streets, and houses standing out of them like so 
+    many cows in a pond,——I hope we don't land for evil: and I had scarcely 
+    thought the word, when we took to boating it again, and hey! presto! down 
+    goes that Will-o'-the-wisp, <persName type="fictional" key="Walter Herbert">my master</persName>, souse over head and ears after a fish in 
+    petticoats.
+</p>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Vanni.</stage>
+    <sp who="#Van">
+<speaker>Vanni.</speaker>
+<p>Well, <persName key="Gregory">Gregory</persName>, this is a strange unaccountable circumstance, isn't it!</p>
+    </sp>
+    <pb n="164" />
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>What, a fall in the water! not half so strange to me, <persName type="ficitonal" key="Vanni">Vanni</persName>, as that 
+    you Venetians will have so much water to fall in.
+</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>If we hadn't so much water to fall in, we shouldn't have so much love 
+    to fall in. Our shews and our shews-off by day, our gondolas, and our serenades, 
+    what should we do without them? And the water causes or sweetens them all. 
+    You'll hear guitars to night twinkling about like stars. I won my mistress's 
+    heart by a plunge higher than was known before into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName>
+</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>How these Venetians do talk! Guitars twinkling about like stars! and 
+    a plunge into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName> there's a name for a canal! It's fine talking, 
+    and sometimes puts me in mind of <persName type="ficitonal" key="Walter Herbert">my master</persName>'s friends, <persName key="William Shakespeare">Master Shakespeare</persName> and the 
+    others at <placeName type="Pub" key="The Mermaid" corresp="England">the mermaid</placeName>; but what name comes home to me like the manly and 
+    natural one of <placeName type="physical" key="The River Fleet" corresp="England">Fleet Ditch</placeName>!
+</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>You seem sad, <persName type="ficitonal" key="Gregory">Gregory</persName>. We shall cheer you up before long. We have 
+    everything here to make a man merry,—rowing, laughing, sunshine, music, women, 
+    every thing.
+</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>No, <persName type="ficitonal" key="Vanni">Sir</persName>,—no, Sir,—you haven't my wife and <persName key="Bunhill-fields" corresp="England">Bunhill-fields</persName>.</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>There's plenty of fields over the water, and as to your wife, my dear <persName type="ficitonal" key="Gregory">Gregory</persName>, 
+    I never heard you talk much about her before. Besides, she told you she 
+    should be quite happy, you know; and she looked so.
+</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>Ah, <persName type="ficitonal" key="Vanni">Sir</persName>, and then you pretend that the English women are not so chear-
+    ful as your's. Oh, I never loved my wife more than now I am in the thick of 'em. 
+    Oh, how I loved her during the squall at sea! and how prodigiously I did love 
+    her, when I thought I should have broken my neck on the top of the Alps! I hope, 
+    <persName type="ficitonal" key="Vanni">Sir</persName>, you found your intended as well as could be expected after your absence.
+</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>Better than ever: as hearty as you'll find your wife, <persName type="ficitonal" key="Gregory">Gregory</persName>:—but how 
+    formal and ceremonious you seem to think it necessary to be in your pathetics. 
+    Come, man, I'll shew you the lions, as you used to say, and keep my word for better 
+    too, as far as stone lions can go; and then I'll introduce you to <persName type="ficitonal" key="Momola">Momola</persName>. She'll 
+    rouse your spirits for you. We'll cross the way to <placeName type="building" key="St. Mark's Basilica" corresp="Italy" cert="low">St. Mark's. Bartolo</placeName>, there! 
+    Hallo! Mind the canal, <persName type="ficitonal" key="Gregory">Gregory</persName>, you'll run over the parapet.
+</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>Lord! the very dangers in this place have nothing Christian about 
+    them! We can't even be run over by a horse, but must be warned how a parapet 
+    is run over by a man.
+</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>We'll go round by the bridge if you prefer it, <persName type="ficitonal" key="Gregory">Gregory</persName>.</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>Ah, do.</p>
+    </sp>
+    <sp who="#Van">
+<speaker>Van.</speaker>
+<p>Never mind, then, <placeName type="building" key="St. Mark's Barsilica" corresp="Italy" cert="low">Bartolo</placeName>, this time.</p>
+    </sp>
+    <sp who="#Greg">
+<speaker>Greg.</speaker>
+<p>Perhaps I shall have the pleasure of meeting with some dust.</p>
+    </sp>
+    <stage type="exit" rend="italic rightJustified">[Exeunt.</stage>
+</div2>
+<div2 type="scene" n="3">
+    <stage type="setting" rend="center">SCENE.—An apartment in the Palace <persName key="Candian">Candian</persName>. <persName type="ficitonal" key="Vittoria">Vittoria</persName> and <persName key="Fiammetta">Fiammetta</persName> 
+sitting together, with books, music, and flowers about them; 
+<persName type="ficitonal" key="Vittoria">the former</persName> with her face towards a looking-glass, adjusting some-
+thing about her head.
+    </stage>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l><persName type="ficitonal" key="Vittoria">My dear, dear mother</persName>, let me make you merry again.</l>
+<l>I'm merry.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap>Be so, child,—be so, dear child.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>You see how stout I am; I'm drest before you.</l>
+<l>'Twas but a kind of unexpected bath.</l>
+<l>'Twas frightful to be sure; the sudden missing </l>
+<l>Of one's dry senses,—the deaf plunge and bubbling, </l>
+<l>And wrapping up in heavy wateriness: </l>
+<l>But now that it is past, somehow or other, </l>
+<l>One feels the grander for it, and, poor soul!</l>
+<l>Fancies one's accident a grand achievement!</l>
+<l>You're absent, mother! You're in the boat still!</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>No more of that, my love, I have you fast;</l>
+<l><persName type="ficitonal" key="Sebastian">Your brother</persName> is come home, our noble bird, </l>
+<l>Nobler than ever! What can I want more </l>
+<l>To make me happy? I believe I want </l>
+<l>Some pain to pinch away these foolish tears, </l>
+<l>And make me, as before, give smile for smile.</l>
+    </sp>
+    <pb n="165" />
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>Shall I read to you, <persName type="ficitonal" key="Vittoria">mother</persName>?</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap>No, my child.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>Or sing? or dance? or bring your favourite picture </l>
+<l>Of <persName key="Dido">Dido</persName> playing with the cheeks of <persName key="Cupid">Cupid</persName>, </l>
+<l>As if she said unwittingly, <q type="spoken">You rogue!</q></l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>Oh no, no, no! talk to me of things common; </l>
+<l>Of dress, for instance, flounces, coifs, and fashions, </l>
+<l>And what new creature we're to look like next, </l>
+<l>When some great lady quarrels with her shoulder-blade, </l>
+<l>Or has a private pique against her waist.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>Oh, if no waist, like a tied sack of charcoal, </l>
+<l>Or like the letter B run up to seed; </l>
+<l>And if a waist, why then we must be wasps </l>
+<l>Cut right in two, or hour-glasses that shew </l>
+<l>The time by letting their wise heads run empty.</l>
+<l>Or if we must be neither, we'll preside </l>
+<l>O'er hoops, like busts upon a cupola; </l>
+<l>Or turn to real walking bells, with feet </l>
+<l>For double clappers; and let mother church </l>
+<l>Look to high winds, or we'll have belfry and all, </l>
+<l>For bonnet, with the penthouse, and stick in it </l>
+<l>The whole FLower-Market and the shops of plumes, </l>
+<l>And all the Sunday ribbons in the parish.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>Why you dash on this morning like <persName type="ficitonal" key="Sebastian">Sebastian</persName>, </l>
+<l>Along your gay reflections in wit's gondola.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>And you must think of gondolas again, </l>
+<l>And sigh, <persName type="ficitonal" key="Vittoria">dear mother</persName>. Well, if you will think of 'em, </l>
+<l>Pray tell me now what think you of <persName type="ficitonal" key="Walter Herbert">the Englishman</persName>; </l>
+<l>Taking him in the common light, you know,—</l>
+<l>His look, his figure; for to say the truth, </l>
+<l>Only don't tell, I've hardly seen him yet; </l>
+<l>Though I've the recollection at my heart </l>
+<l>Of—</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>What, my love?</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>. . . . . . His terrible pinching fingers.</l>
+    </sp>
+    <sp who="Vit">
+<speaker>Vit.</speaker>
+<l>Why, you sweet trifler! this is the way, is it, </l>
+<l>You treat a — gentleman that saves your life.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>A gentleman that saves one's life! Well, really now, </l>
+<l>That is a proper philosophic way </l>
+<l>Of putting it, before we've got the right </l>
+<l>Of speaking highlier of him for himself. </l>
+<l>You mean, I know, you dare not trust yourself </l>
+<l>Just now, upon that watery subject, <persName type="ficitonal" key="Vittoria">mother</persName>;—</l>
+<l>But this, believe me, is the very way </l>
+<l>To speak of such good chances giv'n <persName type="ficitonal" key="Walter Herbert">the gentlemen</persName>. </l>
+<l>From what I've read, there are some ladies who </l>
+<l>Think one such plunge renders a man invulnerable </l>
+<l>To all objection. By their rule, one ought </l>
+<l>To save one's life, only to lose one's freedom; </l>
+<l>Begging <persName type="ficitonal" key="Walter Herbert">the gentleman</persName>, that since a shark </l>
+<l>Was not to have you, or since he had kindly </l>
+<l>Taken the trouble to pick you up, he'd have you. </l>
+<l>Tis lucky, <persName type="ficitonal" key="Vittoria">mother</persName>, the same principle </l>
+<l>Does not extend to limbs, or 'twould be requisite </l>
+<l>To give one's hand for saving it a scratch; </l>
+<l>Or when a dog was hindered of his bite, </l>
+<l>Present one's foot with an elaborate stretch, </l>
+<l>Like a French dancer, and say, "Gracious <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l> <!-- How to mark cross line quotation ??-->
+<l>You saved this foot of mine; will't please ye accept it?"</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>Oh rattler, rattler! How am I to know </l>
+<l>That all this smiling surface of your talk </l>
+<l>Has not grave ground beneath?</l>
+    </sp>
+    <pb n="166" />
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>. . . . Nay, <persName type="ficitonal" key="Vittoria">mother</persName>, now </l>
+<l>You make me blush to think that I could give </l>
+<l>More than my thanks at first to one of whom </l>
+<l>I know so little; grateful thanks, 'tis true, </l>
+<l>Most grateful,—but—I'm sure <emph rend="italic">you</emph> think a man </l>
+<l>Should shew that he has picked up a few qualities </l>
+<l>As well as ladies, ere he picks our hearts. </l>
+<l><persName type="ficitonal" key="Sebastian">My brother</persName>, to be sure, is fond of truth, </l>
+<l>Extremely fond,—but then as <persName type="ficitonal" key="Candian">uncle</persName> said—</l>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Malipiero.</stage>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>And what did <persName type="ficitonal" key="Candian">uncle</persName> say? Ladies, allow me—</l>
+<l><persName type="ficitonal" key="Malipiero">The Signor Malipiero</persName>, a sad gentleman, </l>
+<l>Who thinks it necessary to apologize </l>
+<l>For not being a king-fisher.—We found him </l>
+<l>Eyeing his would-be element at the door.</l>
+    </sp>
+    <sp who="#Mal">
+<speaker>Mal.</speaker>
+<l>Nay, <persName type="ficitonal" key="Candian">Sir</persName>, I yield to none in hearty chearfulness; </l>
+<l>And as I hope and think the best of others, </l>
+<l>'Tis thought, I trust, of me: and yet, dear ladies, </l>
+<l>A man may reasonably regret, that chance </l>
+<l>Should on the turn, as 'twere, of one swift instant, </l>
+<l>Whisk him from shewing all his zeal for ye.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><persName type="ficitonal" key="Fiammetta">My daughter</persName> loves a good intention, <persName type="ficitonal" key="Malipiero">Sir</persName>, </l>
+<l>Too well to make it answerable to fortune.</l>
+    </sp>
+    <sp who="#Mal" toWhom="Fiam">
+<speaker>Mal. </speaker>
+<stage type="delivery">(to Fiam.)</stage>
+<l>Then, <persName type="ficitonal" key="Fiammetta">Madam</persName>, I may hope that this omission </l>
+<l>Will not be held a punishable sin, </l>
+<l>When heavenly eyes look down upon one's homage.</l>
+    </sp>
+    <sp who="Fiam">
+<speaker>Fiam.</speaker>
+<l>If you mean my eyes, <persName type="ficitonal" key="Malipiero">Signor Malipiero</persName>, </l>
+<l>Which heaven forbid should look down on tall gentlemen, </l>
+<l>I think no evil of our other friends here, </l>
+<l>And why should I of you?</l>
+    </sp>
+    <sp who="Cand">
+<speaker>Cand.</speaker>
+<l>Come, <persName type="ficitonal" key="Malipiero">Malipiero</persName>, </l>
+<l>Settle these grave state questions by and bye, </l>
+<l>For here's <persName type="ficitonal" key="Sebastian">Sebastian</persName> and <persName type="ficitonal" key="Walter Herbert">the Englishman</persName>: </l>
+<l>I saw them from the window, coming in.</l>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Servant.</stage>
+    <sp>
+<l><persName type="ficitonal" key="Sebastian">Signor Sebastian</persName>, and <persName type="ficitonal" key="Walter Herbert">his noble friend</persName>, <persName type="ficitonal" key="Candian">Sir</persName>.</l>
+    </sp>
+    <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Sebastian <hi rend="italic">and</hi> Walter Herbert.</stage>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l>Dear <persName type="ficitonal" key="Vittoria">mother</persName>, <persName type="ficitonal" key="Candian">uncle</persName>, <persName type="ficitonal" key="Fiammetta">sister</persName> sweet, and gentlemen, </l>
+<l>I need not introduce my noble friend </l>
+<l>And your's—the Signor <persName type="ficitonal" key="Walter Herbert">Walter Herbert</persName>, Englishman.</l>
+<l><persName key="Walter Herbert">Dear Walter</persName>, this is the affectionate circle </l>
+<l>I've told you of so often. Heaven be praised </l>
+<l>You're in the midst of it, and have been so.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>Our silence, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, must shew you what we feel, </l>
+<l>This ready swiftness to oblige your friends, </l>
+<l>Is, I perceive, a habit with you.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>If, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
+<l>Winning their ready kindness be obliging them. </l>
+<l>'Tis counted so by some.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap><persName type="ficitonal" key="Walter Herbert">Sir</persName>, the best thanks  </l>
+<l>A mother can pay to you, who has been </l>
+<l>Made breathless with two rushing visitations, </l>
+<l>Terror and joy, is to shew what you saved for her:—</l>
+<l><persName type="ficitonal" key="Fiammetta">My daughter</persName>, <persName type="ficitonal" key="Walter Herbert">Sir</persName>.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>A pearl indeed, whose sight </l>
+<l>Would pay a fathomless plunge.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l><gap></gap><hi rend="italic">I</hi> cannot, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l>Pay compliments; I fear, I had expected—</l>
+<l>I thank you, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, from bottom of my heart.</l>
+    </sp>
+    <pb n="167" />
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l>I am paid, <persName type="ficitonal" key="Fiammetta">Madam</persName>, beyond compliment,—</l>
+<l>Almost beyond surprise, to think that two </l>
+<l>Such spirits from the earthly heaven of womanhood </l>
+<l>Should stand before me—pardon me this burst,—</l>
+<l>And fancy that they owed me any thing.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>You can pay compliments at any rate, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l>Whether we must or not.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>You make me vain, <persName type="ficitonal" key="Vittoria">Madam</persName>; </l>
+<l>And vanity assumes the right to praise, </l>
+<l>Where silence is best worship.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap>Nay, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, I neither </l>
+<l>Deny your right, nor, to say truth, our pleasure. </l>
+<l>We feel but doubly flattered to conjecture </l>
+<l>That you are driven by your sympathy </l>
+<l>Out of your plainer path.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb</speaker>
+<l><gap></gap>You judge me, <persName type="ficitonal" key="Vittoria">Madam</persName>, </l>
+<l>Truly and nobly.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>You're no friend then, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l>To compliment in general?</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>Oh yes, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
+<l>Where 'tis th' escape of pleased sincerity, </l>
+<l>And not so needlessly alone, as shews it </l>
+<l>Vanity and a superfluous common-place.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l>And what, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, as to taking compliments?</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l>It seems to me, <persName type="ficitonal" key="Vittoria">Madam</persName>, as I presume </l>
+<l>It does to you, by your reception of them, </l>
+<l>That not to take a compliment in general, </l>
+<l>With leaning rather to the praiser's feelings </l>
+<l>Than his true sight, or our own better merits, </l>
+<l>Argues self-love rather than modesty.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>You see, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, we have scarcely yet recovered </l>
+<l>Our drowning, and our gratitude. Come, this weight </l>
+<l>Of mutual homage bows us into ceremony </l>
+<l>In our own spite. It must give way to something </l>
+<l>Quite as respectful, and more easy and pleasant: </l>
+<l>Mutual enjoyment.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l><gap></gap>The right proposition.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l>I feel the hand of home, <persName type="ficitonal" key="Sebastian">Sir</persName>, in this grasp.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l>Yes, <persName type="ficitonal" key="Walter Herbert">Walter</persName>, we but fancy we're new friends here;</l>
+<l>We are as old ones the tastes we love.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l>And friends ave other privileges in <placeName type="country" key="England" corresp="England">England</placeName>.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Cand.</speaker>
+<l>Ay, and in most places. Come, girls, your cheeks.</l>
+    </sp>
+    <stage type="business" rend="rightJustified">(Herbert <hi rend="italic">kisses them</hi>.)</stage>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<stage type="delivery" rend="italic">(aside).</stage>
+<l>I told you how 'twould be, <persName type="ficitonal" key="Vittoria">Mother</persName>.</l>
+<l>My cheek's gone off already.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap>And your heart; </l>
+<stage type="delivery" rend="italic">(aside).</stage>
+<l>She blushes, and I fear I do so too:—</l>
+<l>I have most cause.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<stage type="delivery">(to Fiam.)</stage>
+<l>Well, <persName type="ficitonal" key="Fiammetta">Sister</persName> gravity, and have you no praises </l>
+<l>AS well as cheeks?</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l><gap></gap>Yes, just as many as friends </l>
+<l>Would wish to have just now;—at least I think so.</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><persName type="ficitonal" key="Sebastian">Your brother</persName> could not be more gladly answered, </l>
+<l>Nor I more honoured.</l>
+    </sp>
+    <sp who="#Mal">
+<speaker>Mal.</speaker>
+<l><gap></gap>'Tis an answer, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l>Befitting the coy oracle that sits </l>
+<l>Within a maid's sincerity: but suffer </l>
+<l>Us to give louder grace to your achievement, </l>
+<l>And hail you at the shrine whose present goddess </l>
+<l>You have preserv'd. It was a happy deed, </l>
+<l>And might have made us watery champions jealous, </l>
+<l>Did it not ev'n outbenefit envy.</l>
+    </sp>
+    <pb n="168" />
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>That </l>
+<l>Were to outdo the deeds of <persName key="Hercules">Hercules</persName>, </l>
+<l>And make old <persName key="Atlas">Atlas</persName> turn to kiss his burden, </l>
+<l>Like a borne lass. Your generous spirit, <persName type="ficitonal" key="Malipiero">Sir</persName>, </l>
+<l>Sees, like an eye, ore infinite things outside it, </l>
+<l>Than ever it would boast to hold itself. </l>
+<l>You measure my desert by your great joy.</l>
+    </sp>
+    <sp who="#Mal">
+<speaker>Mal.</speaker>
+<l>Is not this contradicting you own sentiment, </l>
+<l>A little so at least,—denying us </l>
+<l>The pride of giving you what you give others?</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l>Well, <persName type="ficitonal" key="Malipiero">Sir</persName>, to shew you I can claim my due, </l>
+<l>And have my benefits returned, I'll ask </l>
+<l><persName type="ficitonal" key="Fiammetta">This lady</persName> to speak for me, and to own </l>
+<l>That what would have been done by any gentleman </l>
+<l>Should not be charged so brightly on my scutcheon.</l>
+    </sp>
+    <sp who="#Fiam">
+<speaker>Fiam.</speaker>
+<l>Nay, Sir, I'll own still more, and plainly tell you, </l>
+<l>And that without the fear of being tossed back </l>
+<l>Into the sea for my ingratitude, </l>
+<l>that I insinuated as much just now </l>
+<l>To <persName type="ficitonal" key="Malipiero">Signor Malipiero</persName> here himself. </l>
+<l>Did I not, gentlemen? And did I rate </l>
+<l>You, <persName type="ficitonal" key="Contarini">Signor Contarini</persName>, or you, Sir, </l>
+<l>For not being quicker than <persName type="ficitonal" key="Walter Herbert">our other friend</persName>, </l>
+<l>And catching me no agues!—Pardon me, </l>
+<l>But I should have asked, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, whether you suffered </l>
+<l>The least - - no clinging chilliness, I trust, </l>
+<l>Or other - -</l>
+    </sp>
+    <sp who="#Herb">
+<speaker>Herb.</speaker>
+<l><gap></gap>Not the least, <persName type="ficitonal" key="Fiammetta">Madam</persName>; no more </l>
+<l>Than if I had put my hand into a brook, </l>
+<l>To bring away a lily. I had heard </l>
+<l>Of your own welfare: and if I had not, </l>
+<l>I see—You, <persName type="ficitonal" key="Vittoria">Madam</persName>, 
+    <stage type="delivery" rend="italic">(to Vit.)</stage> 
+    scarcely seem so well, 
+</l>
+<l>As when I first came in.</l>
+    </sp>
+    <sp who="#Vit">
+<speaker>Vit.</speaker>
+<l><gap></gap>Oh quite, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, thank you, </l>
+<l>I feel the ebbing of these waters yet </l>
+<l>At intervals. Quite well, child,—quite indeed. </l>
+<l><persName key="Candian">Uncle</persName>, we're getting at our compliments </l>
+<l>Again.</l>
+    </sp>
+    <sp who="#Cand">
+<speaker>Indeed! I fear I've scarcely given <persName type="ficitonal" key="Walter Herbert">our friend</persName> </speaker>
+<l>A proper English welcome. Well; I hope </l>
+<l>You'll spend the day with us, and teach us how </l>
+<l>To interchange each other's cordial customs. </l>
+<l><persName type="ficitonal" key="Sebastian">My nephew</persName> tells me you must leave us now </l>
+<l>To visit the ambassador. Be it so; </l>
+<l>But come back quickly—will you? that's well looked: </l>
+<l>For you must know, you have a face, <persName type="ficitonal" key="Walter Herbert">young gentleman</persName>, </l>
+<l>As full of dialogue as <persName type="ficitonal" key="Fiammetta" cert="low">my neice</persName>'s here.</l>
+    </sp>
+    <sp who="#Seb">
+<speaker>Seb.</speaker>
+<l>In the evening we shall have a masquerade, </l>
+<l>Which was already intended, and will serve </l>
+<l>To let the whole tide of congratulation </l>
+<l>Come in at once. A dance, a little music, </l>
+<l> Hearts at their merriest, faces at their best, </l>
+<l>And after all, a look into the still </l>
+<l>And smiling ferment of our starry hour, </l>
+<l>Whose ear is kissed with waters gently spooned, </l>
+<l>Whose nightingale is Love, shall give you a taste </l>
+<l>Of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> to the core.</l>
+    </sp>
+</div2>
+<div2 type="colophon">
+    <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>—Price 2d.
+    </p>
+    <p>
+Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.
+    </p>
+</div2>
+    </div1>
+</body>
     </text>
 </TEI>
