@@ -2,694 +2,609 @@
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- Template Version 1.0 -->
 <!-- This template is intended to be used as a starting point for encoding a new text.
-        It is not intended as a fixed structure, but rather collects some of the most common
-        structural elements for convenience and uniformity. Please add/remove elements as
-        necessary for your use case. -->
+   It is not intended as a fixed structure, but rather collects some of the most common
+   structural elements for convenience and uniformity. Please add/remove elements as
+   necessary for your use case. -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <!-- File Description -->
-        <fileDesc>
-            <!-- Title of the work -->
-            <titleStmt>
-                <title>The Indicator</title>
-                <author>Hunt, James Henry Leigh (1784-1859)</author>
-            </titleStmt>
+   <!-- File Description -->
+   <fileDesc>
+  <!-- Title of the work -->
+  <titleStmt>
+ <title>The Indicator</title>
+ <author>Hunt, James Henry Leigh (1784-1859)</author>
+  </titleStmt>
 
-            <publicationStmt>
-                <p />
-            </publicationStmt>
+  <publicationStmt>
+ <p />
+  </publicationStmt>
 
-            <!-- Author information -->
-            <sourceDesc>
-                <bibl>
-                    <author>Hunt, James Henry Leigh (1784-1859)</author>
-                    <title>The Indicator</title>
-                    <date when="1820-03-22">March 22d, 1820</date> <!-- The publication date of this
-                    issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
-                    <publisher><persName key="Joseph Appleyard">Joseph Appleyard</persName></publisher> <!-- Publisher details if available -->
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
+  <!-- Author information -->
+  <sourceDesc>
+<bibl>
+<author>Hunt, James Henry Leigh (1784-1859)</author>
+<title>The Indicator</title>
+<date when="1820-03-22">March 22d, 1820</date> <!-- The publication date of this
+issue ({Month} {Day}, {Year}) -->
+<pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+<publisher><persName key="Joseph Appleyard">Joseph Appleyard</persName></publisher> <!-- Publisher details if available -->
+</bibl>
+  </sourceDesc>
+   </fileDesc>
 
-        <!-- Encoding Description -->
-        <encodingDesc>
-            <!-- Add any encoding information or guidelines here if applicable -->
-            <p>
-                Basic encoding, capturing relevant formatting and layout information. Page numbers
-                are
-                included for reference to the source only and are not intended to indicate precise
-                preservation.
-            </p>
-        </encodingDesc>
+   <!-- Encoding Description -->
+   <encodingDesc>
+  <!-- Add any encoding information or guidelines here if applicable -->
+  <p>
+ Basic encoding, capturing relevant formatting and layout information. Page numbers
+ are
+ included for reference to the source only and are not intended to indicate precise
+ preservation.
+  </p>
+   </encodingDesc>
 
-        <!-- Profile Description -->
-        <profileDesc>
-        </profileDesc>
+   <!-- Profile Description -->
+   <profileDesc>
+   </profileDesc>
     </teiHeader>
     <text>
-        <body>
-            <div1 type="issue" n="24">
-                <pb n="185" /> <!-- Page beginning -->
-                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
-                    <head type="title">THE INDICATOR.</head>
-                    <epigraph>
-                        <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
-                        <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser"
-                                ref="http://www.wikidata.org/entity/Q4352055"
-                                cert="high" type="real">SPENSER</persName>.</l>
-                    </epigraph>
-                    <head type="catalogue">No. XXIV.—WEDNESDAY, MARCH 22d, 1820.</head>
-                </div2>
-                <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header">ON THE REALITIES OF IMAGINATION</head>
-                    <p><hi rend="smallcaps">There</hi> is not a more unthinking way of talking, than
-                        to say such and such pains and pleasures are only imaginary, and therefore
-                        to be got rid of or undervalued accordingly. There is nothing imaginary, in
-                        the common acceptation of the word. The logic of Moses in the Vicar of
-                        Wakefield is good argument here:— <cit>
-                                <q>Whatever is, is.</q>
-                            <note type="source" cert="high">
-                                <bibl>
-                                    <author><persName key="Oliver Goldsmith">Oliver Goldsmith</persName></author>, <title type="novel">The Vicar
-                        of Wakefield</title>
-                                </bibl>
-                            </note>
-                        </cit>
-                        Whatever touches us, whatever moves us, does touch and does move us. We
-                        recognize the reality of it, as we do that of a hand in the dark. We might
-                        as well say that a sight which makes us laugh, or a blow which brings tears
-                        into our eyes, is imaginary, as that any thing else is imaginary which makes
-                        us laugh or weep. We can only judge of things by their effects. Our
-                        perception constantly deceives us, in things with which we suppose ourselves
-                        perfectly conversant; but our reception of their effect is a different
-                        matter. Whether we are materialists or immaterialists, whether things be
-                        about us or within us, whether we think the sun is a substance, or only the
-                        image of a divine thought, an idea, a thing imaginary, we are equally agreed
-                        as to the notion of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> warmth. But on the
-                        other hand, as this warmth is felt differently by different temperaments, so
-                        what we call imaginary things affect different minds. What we have to do is
-                        not to deny their effect, because we do not feel in the same proportion, or
-                        whether we even feel it at all; but to see whether our neighbours may not be
-                        moved. If they are, there is, to all intents and purposes, a moving cause.
-                        But we do not see it? No;—neither perhaps do they. They only feel it; they
-                        are only sentient,—a word which implies the sight given to the imagination
-                        by the feelings. But what do you mean, we may ask in return, by seeing? Some
-                        rays of light come in contact with the eye; they bring a sensation to it; in
-                        a word, they touch it; and the impression left by this touch we call sight.
-                        How far does this differ in effect from the impression left by any other
-                        touch, however mysterious? An ox knocked down by a butcher, and a man <pb
-                            n="186" /> knocked down by a fit of the apoplexy, equally feel
-                        themselves compelled to drop. The tickling of a straw and of a comedy
-                        equally move the muscles about our mouth. The look of a beloved eye will so
-                        thrill the whole frame, that old philosophers have had recourse to a
-                        doctrine of beams and radiant particles flying from one sight to another. In
-                        fine, what is contact itself, and why does it affect us? There is no one
-                        cause more mysterious than another, if we look into it. </p>
-                    <p> Nor does the question concern us like moral causes. We may be content to
-                        know the earth by <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> fruits; but how to
-                        increase and improve them is a more attractive study. If instead of saying
-                        that the causes which moved in us this or that pain or pleasure were
-                        imaginary, people were to say that the causes themselves were removeable,
-                        they would be nearer the truth. When a stone trips us up, we do not fall to
-                        disputing it's existence: we put it out of the way. In like manner, when we
-                        suffer from what is called an imaginary pain, our business is not to canvass
-                        the reality of it. Whether there is any cause or not in that or any other
-                        perception, or whether every thing consist not in what is called effect, it
-                        is sufficient for us that the effect is real. Our sole business is to remove
-                        those second causes, which always accompany the original idea. As in
-                        deliriums for instance, it would be idle to go about persuading the patient
-                        that he did not behold the figures he says he does. He might reasonably ask
-                        us, if he could, how we know any thing about the matter; or how we can be
-                        sure, that in the infinite wonders of the universe, certain realities may
-                        not become apparent to certain eyes, whether diseased or not. Our business
-                        would be to put him into that state of health, in which human beings are not
-                        diverted from their offices and comforts by a liability to such
-                        imaginations. The best reply to his question would be, that such a morbidity
-                        is clearly no more a fit state for a human being, than a disarranged or
-                        incomplete state of works is for a watch; and that seeing the general
-                        tendency of nature to this completeness or state of comfort, we naturally
-                        conclude, that the imaginations in question, whether substantial or not, are
-                        at least not of the same lasting or prevailing description. </p>
-                    <p> We do not profess metaphysics. We are indeed so little conversant with the
-                        masters of that profound art, that we are never sure whether we are using
-                        even <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> proper terms. All that
-                        we may know on the subject comes to us from some reflection and some
-                        experience; and this all may be so little as to make a metaphysician smile;
-                        which if he be a true one, he will do good-naturedly. The pretender will
-                        take occasion from our very confession, to say that we know nothing. Our
-                        faculty, such as it is, is rather instinctive than reasoning; rather
-                        physical than metaphysical; rather wise because it loves much, than because
-                        it knows much; rather calculated by a certain retention of boyhood, and by
-                        it's wanderings in the green places of thought, to light upon a piece of the
-                        old golden world, than to tire ourselves, and conclude it unattainable, by
-                        too wide and scientific a search. We pretend to see farther than none but
-                        the worldly and the malignant. <persName key="And">And</persName> yet those who see farther, may not all
-                        see so well. We do not blind our eyes with looking upon the sun in the
-                        heavens. We believe <pb n="187" /> it to be there, but we find it's light
-                        upon earth also; and we would lead humanity, if we could, out of misery and
-                        coldness into the shine of it. Pain might still be there; must be so, as
-                        long as we are mortal; <cit>
-                            <quote>
-                                <l>For oft we still must weep, since we are human: </l>
-                            </quote>
-                            <note type="source" cert="high">
-                                <bibl>
-                                    <author>
-                                        <forename>Percy Bysshe</forename>
-                                        <surname>Shelley</surname>
-                                    </author>
-                        ,
-        <title level="a">The Revolt of Islam</title>, <biblScope>Canto V</biblScope>
-                                </bibl>
-                        .
-                            </note>
-                        </cit> but it should be pain for the sake
-                        of others, which is noble; not unnecessary pain inflicted by or upon them,
-                        which it is absurd not to remove. The very pains of mankind struggle towards
-                        pleasures; and such pains as are proper for them have this inevitable
-                        accompaniment of true humanity,—that they cannot but realize a certain
-                        gentleness of enjoyment. Thus the true bearer of pain would come round to
-                        us; and he would not grudge us a share of his burden, though in taking from
-                        his trouble it might diminish his pride. Pride is but a bad pleasure at the
-                        expense of others. The great object of humanity is to enrich every body. If
-                        it is a task destined not to succeed, it is a good one from <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> very nature; and
-                        fulfils at least a glad destiny of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> own. To look upon it
-                        austerely is in reality the reverse of austerity. It is only such an
-                        impatience of the want of pleasure as leads us to grudge it in others; and
-                        this impatience itself, if the sufferer knew how to use it, is but another
-                        impulse, in the general yearning, towards an equal wealth of enjoyment. </p>
-                    <p> But we shall be getting into other discussions.—The ground-work of all
-                        happiness is health. Take care of this ground; and the doleful imaginations
-                        that come to warn us against <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> abuse, will avoid it.
-                        Take care of this ground, and let as many glad imaginations throng to it as
-                        possible. Read the magical works of the poets, and they will come. If you
-                        doubt their existence, ask yourself whether you feel pleasure at the idea of
-                        them; whether you are moved into delicious smiles, or tears as delicious. If
-                        you are, the result is the same to you, whether they exist or not. It is not
-                        mere words to say, that he who goes through a rich man's park, and sees
-                        things in it which never bless the mental eyesight of the possessor, is
-                        richer than he. He is richer. More results of pleasure come home to him. The
-                        ground is actually more fertile to him: the place haunted with finer shapes.
-                        He has more servants to come at his call, and administer to him with full
-                        hands. Knowledge, sympathy, imagination, are all Divining Rods, with which
-                        he discovers treasure. Let a painter go through the grounds, and he will see
-                        not only the general colours of green and brown, but all their combination
-                        and contrasts, and all the modes in which they might again be combined and
-                        contrasted. He will also put figures in the landscape if there are none
-                        there, flocks and herds, or a solitary spectator, or Venus lying with her
-                        white body among the violets and primroses. Let a musician go through, and
-                        he will hear <q>differences discreet</q> in the notes of the birds and the
-                        lapsing of the water-fall. He will fancy a serenade of wind instruments in
-                        the open air at the lady's window, with a voice rising through it; or the
-                        horn of the hunter; or the musical cry of the hounds, <cit>
-                            <quote rend="center">
-                                <l rend="indent">Matched in mouth like bells, </l>
-                                <l>Each under each; </l>
-                            </quote>
-                            <note type="source" cert="high">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname>Shakespeare</surname>
-                                    </author>
-                        ,
-        <title>A Midsummer Night's Dream</title>, <biblScope>Act IV, scene
-                        i</biblScope>
-                                </bibl>. </note>
-                        </cit>
-<pb
-                            n="188" /> or a solitary voice in a bower, singing for an expected
-                        lover; or the chapel organ, waking up like the fountain of the winds. Let a
-                        poet go through the grounds, and he will heighten and increase all these
-                        sounds and images. He will bring the colours from heaven, and put an
-                        unearthly meaning into the voice. He will have stories of the sylvan
-                        inhabitants; will shift the population through infinite varieties; will put
-                        a sentiment upon every sight and sound; will be human, romantic,
-                        supernatural; will make all nature send tribute into that spot. <cit>
-                            <quote>
-                                <lg>
-                                    <l><placeName key='Straight'>Straight</placeName> mine eye hath caught new pleasures </l>
-                                    <l>While the landskip round it measures; </l>
-                                    <l><persName key="Russet">Russet</persName> lawns, and fallows grey, </l>
-                                    <l>Where the nibbling flocks do stray; </l>
-                                    <l><placeName key='Mountains'>Mountains</placeName>, on whose barren breast </l>
-                                    <l>The labouring clouds do often rest; </l>
-                                    <l><persName key="Meadows">Meadows</persName> trim with daisies pied, </l>
-                                    <l><persName key="Shallow">Shallow</persName> brooks, and rivers wide; </l>
-                                    <l><placeName key='Towers'>Towers</placeName> and battlements it sees, </l>
-                                    <l><placeName key='Bosomed'>Bosomed</placeName> high in tufted trees, </l>
-                                    <l>Where perhaps some <placeName key='Beauty'>Beauty</placeName> lies, </l>
-                                    <l>The <placeName key='Cynosure'>Cynosure</placeName> of neighbouring eyes. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>John</forename>
-                                        <surname><persName key="Milton">Milton</persName></surname>
-                                    </author>
-                        ,
-            <title>L'Allegro</title>
-                                </bibl>
-                            </note>
-                        </cit>
-                        But not to go on quoting lines which are ever in people's mouths like a
-                        popular tune, take a passage from the same poet less familiar to one's
-                        every-day recollections. It is in his Arcadian Mask, which was performed by
-                        some of the Derby family at their seat at Harefield, near Uxbridge. The
-                        <persName key="Genius">Genius</persName> of the place, meeting the noble shepherds and shepherdesses, accosts
-                        them:— <cit>
-                            <quote>
-                                <lg>
-                                    <l>Stay, gentle swains, for though in this disguise, </l>
-                                    <l>I see bright honour sparkle through your eyes; </l>
-                                    <l>Of famous Arcady ye are, and sprung </l>
-                                    <l>Of that renowed flood, so often sung, </l>
-                                    <l><persName key="Divine Alpheus">Divine Alpheus</persName>, who by secret sluice </l>
-                                    <l><placeName key='Stole'>Stole</placeName> under seas to meet his <placeName key='Arethuse'>Arethuse</placeName>; </l>
-                                    <l><persName key="And">And</persName> ye, the breathing roses of the wood, </l>
-                                    <l>Fair silver-buskined <placeName key='Nymphs'>Nymphs</placeName>, as great and good; </l>
-                                    <l>I know this quest of yours, and free intent, </l>
-                                    <l>Was all in honour and devotion meant </l>
-                                    <l>To the great mistress of yon princely shrine, </l>
-                                    <l>Whom with low reverence I adore as mine; </l>
-                                    <l><persName key="And">And</persName> with all helpful service will comply </l>
-                                    <l>To further this night's glad solemnity; </l>
-                                    <l><persName key="And">And</persName> lead ye where ye may more near behold </l>
-                                    <l>What shallow-searching Fame hath left untold; </l>
-                                    <l>Which I, full oft, amidst these shades alone, </l>
-                                    <l>Have sat to wonder at, and gaze upon: </l>
-                                    <l>For know, by lot from Jove I am the Power </l>
-                                    <l>Of this fair wood, and live in oaken bower, </l>
-                                    <l>To nurse the saplings tall, and curl the grove </l>
-                                    <l>In ringlets quaint and wanton windings wove: </l>
-                                    <l><persName key="And">And</persName> all my plants I save from nightly ill </l>
-                                    <l>Of noisome winds, and blasting vapours chill; </l>
-                                    <l><persName key="And">And</persName> from the boughs brush off the evil dew, </l>
-                                    <l><persName key="And">And</persName> heal the harms of thwarting thunder blue, </l>
-                                    <l>Or what the cross dire-looking-planet smites, </l>
-                                    <l>Or hurtful worm with cankered venom bites. </l>
-                                    <l>When evening gray doth rise, I fetch my round </l>
-                                    <l>Over the mount, and all thie hallowed ground;</l>
-                                    <pb n="189" />
-                                    <l><persName key="And">And</persName> early, ere the odorous breath of morn </l>
-                                    <l><persName key="Awakes">Awakes</persName> the slumbering leaves, or tassel'd horn </l>
-                                    <l>Shakes the high thicket, haste I all about, </l>
-                                    <l><persName key="Number">Number</persName> my ranks, and visit every sprout </l>
-                                    <l>With puissant words and murmurs made to bless. </l>
-                                    <l>But else, in deep of night, when drowsiness </l>
-                                    <l><persName key="Hath">Hath</persName> locked up mortal sense, then listen I </l>
-                                    <l>To the celestial <placeName key='Syrens'>Syrens</placeName>' harmony, </l>
-                                    <l>That sit upon the nine infolded spheres, </l>
-                                    <l><persName key="And">And</persName> sing to those that hold the vital shears, </l>
-                                    <l><persName key="And">And</persName> turn the adamantine spindle round, </l>
-                                    <l>On which the fate of gods and men is wound. </l>
-                                    <l>Such sweet compulsion doth in music lie </l>
-                                    <l>To lull the daughters of necessity, </l>
-                                    <l><persName key="And">And</persName> keep unsteady Nature to her law, </l>
-                                    <l><persName key="And">And</persName> the low world in measured motion draw, </l>
-                                    <l>After the heavenly tune, which none can hear </l>
-                                    <l>Of human mould, with gross unpurged ear. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>John</forename>
-                                        <surname><persName key="Milton">Milton</persName></surname>
-                                    </author>
-                        ,
-        <title>Arcades</title>
-                                </bibl>. </note>
-                        </cit>
+   <body>
+  <div1 type="issue" n="24">
+ <pb n="185" /> <!-- Page beginning -->
+ <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+<head type="title">THE INDICATOR.</head>
+<epigraph>
+    <l>There he arriving round about doth flie,</l>
+    <l>And takes survey with busie, curious eye:</l>
+    <l>Now this, now that, he tasteth tenderly.</l>
+    <l><persName key="Edmund Spenser"
+  ref="http://www.wikidata.org/entity/Q4352055"
+  cert="high" type="real">SPENSER</persName>.</l>
+</epigraph>
+<head type="catalogue">No. XXIV.—<date when="1820-03-22">WEDNESDAY, MARCH 22d, 1820</date>.</head>
+ </div2>
+ <div2 type="section" n="1"> <!-- Header and content -->
+<head type="header">ON THE REALITIES OF IMAGINATION</head>
+<p><hi rend="smallcaps">There</hi> is not a more unthinking way of talking, than to say such 
+    and such pains and pleasures are only imaginary, and therefore to be got rid of 
+    or undervalued accordingly. There is nothing imaginary, 
+    in the common acceptation of the word. The logic of <persName type="fictional" key="Moses">Moses</persName> in <title level="m">the 
+    Vicar of Wakefield</title> is good argument here:— <q type="spoken">Whatever is, is.</q><note type="source" cert="high"><bibl><author>Oliver Goldsmith</author>, <title level="m">The Vicar of Wakefield</title><ref target="https://www.gutenberg.org/files/2667/2667-h/2667-h.htm"/></bibl></note>
+    Whatever touches us, whatever moves us, does touch and does move 
+    us. We recognize the reality of it, as we do that of a hand in the 
+    dark. We might as well say that a sight which makes us laugh, or a 
+    blow which brings tears into our eyes, is imaginary, as that any thing 
+    else is imaginary which makes us laugh or weep. We can only judge 
+    of things by their effects. Our perception constantly deceives us, in 
+    things with which we suppose ourselves perfectly conversant; but our 
+    reception of their effect is a different matter. Whether we are materialists 
+    or immaterialists, whether things be about us or within us, 
+    whether we think the sun is a substance, or only the image of a divine 
+    thought, an idea, a thing imaginary, we are equally agreed as to the 
+    notion of its warmth. But on the other hand, as this warmth is felt 
+    differently by different temperaments, so what we call imaginary 
+    things affect different minds. What we have to do is not to deny their 
+    effect, because we do not feel in the same proportion, or whether we 
+    even feel it at all; but to see whether our neighbours may not be
+    moved. If they are, there is, to all intents and purposes, a moving 
+    cause. But we do not see it? No;—neither perhaps do they. They 
+    only feel it; they are only sentient,—a word which implies the sight 
+    given to the imagination by the feelings. But what do you mean, we 
+    may ask in return, by seeing? Some rays of light come in contact 
+    with the eye; they bring a sensation to it; in a word, they touch 
+    it; and the impression left by this touch we call sight. How far does 
+    this differ in effect from the impression left by any other touch, however 
+    mysterious? An ox knocked down by a butcher, and a man 
+    
+    <pb n="186" /> 
+    
+    knocked down by a fit of the apoplexy, equally feel themselves compelled 
+    to drop. The tickling of a straw and of a comedy equally 
+    move the muscles about our mouth. The look of a beloved eye will 
+    so thrill the whole frame, that old philosophers have had recourse to 
+    a doctrine of beams and radiant particles flying from one sight to 
+    another. In fine, what is contact itself, and why does it affect us? 
+    There is no one cause more mysterious than another, if we look 
+    into it. </p>
+
+    <p> Nor does the question concern us like moral causes. We may be content 
+    to know the earth by its fruits; but how to increase and improve 
+    them is a more attractive study. If instead of saying that the causes 
+    which moved in us this or that pain or pleasure were imaginary, 
+    people were to say that the causes themselves were removeable, they 
+    would be nearer the truth. When a stone trips us up, we do not fall 
+    to disputing it's existence: we put it out of the way. In like manner, 
+    when we suffer from what is called an imaginary pain, our business is 
+    not to canvass the reality of it. Whether there is any cause or not in 
+    that or any other perception, or whether every thing consist not in what 
+    is called effect, it is sufficient for us that the effect is real. Our sole 
+    business is to remove those second causes, which always accompany 
+    the original idea. As in deliriums for instance, it would be idle to go 
+    about persuading the patient that he did not behold the figures he says 
+    he does. He might reasonably ask us, if he could, how we know any 
+    thing about the matter; or how we can be sure, that in the infinite 
+    wonders of the universe, certain realities may not become apparent to 
+    certain eyes, whether diseased or not. Our business would be to 
+    put him into that state of health, in which human beings are not
+    diverted from their offices and comforts by a liability to such imaginations. 
+    The best reply to his question would be, that such a morbidity
+    is clearly no more a fit state for a human being, than a disarranged or
+    incomplete state of works is for a watch; and that seeing the general
+    tendency of nature to this completeness or state of comfort, we naturally
+    conclude, that the imaginations in question, whether substantial 
+    or not, are at least not of the same lasting or prevailing description. </p>
+
+    <p> We do not profess metaphysics. We are indeed so little conversant 
+    with the masters of that profound art, that we are never sure whether 
+    we are using even its proper terms. All that we may know on the 
+    subject comes to us from some reflection and some experience; and 
+    this all may be so little as to make a metaphysician smile; which if he 
+    be a true one, he will do good-naturedly. The pretender will take 
+    occasion from our very confession, to say that we know nothing. Our
+    faculty, such as it is, is rather instinctive than reasoning; rather physical 
+    than metaphysical; rather wise because it loves much, than because
+    it knows much; rather calculated by a certain retention of 
+    boyhood, and by it's wanderings in the green places of thought, to 
+    light upon a piece of the old golden world, than to tire ourselves, and 
+    conclude it unattainable, by too wide and scientific a search. We 
+    pretend to see farther than none but the worldly and the malignant. 
+    And yet those who see farther, may not all see so well. We do not 
+    blind our eyes with looking upon the sun in the heavens. We believe 
+    
+    <pb n="187" />
+    
+    it to be there, but we find it's light upon earth also; and we would 
+    lead humanity, if we could, out of misery and coldness into the shine 
+    of it. Pain might still be there; must be so, as long as we are mortal;
+   <cit>
+      <quote>
+  <lg rend="center"><l>For oft we still must weep, since we are human: </l></lg>
+   </quote>
+   <note type="source" cert="high">
+  <bibl><author>Percy Bysshe Shelley</author><title level="a">The Revolt of Islam</title>Canto V</bibl>
+   </note>
+    </cit> 
+    
+    but it should be pain for the sake of others, which is noble; not unnecessary 
+    pain inflicted by or upon them, which it is absurd not to 
+    remove. The very pains of mankind struggle towards pleasures; and 
+    such pains as are proper for them have this inevitable accompaniment 
+    of true humanity,—that they cannot but realize a certain gentleness of 
+    enjoyment. Thus the true bearer of pain would come round to us; 
+    and he would not grudge us a share of his burden, though in taking 
+    from his trouble it might diminish his pride. Pride is but a bad pleasure 
+    at the expense of others. The great object of humanity is to 
+    enrich every body. If it is a task destined not to succeed, it is a good 
+    one from its very nature; and fulfils at least a glad destiny of its own.  
+    To look upon it austerely is in reality the reverse of austerity. It is 
+    only such an impatience of the want of pleasure as leads us to grudge 
+    it in others; and this impatience itself, if the sufferer knew how to 
+    use it, is but another impulse, in the general yearning, towards an equal 
+    wealth of enjoyment. </p>
+
+    <p> But we shall be getting into other discussions.—The ground-work 
+    of all happiness is health. Take care of this ground; and the doleful 
+    imaginations that come to warn us against its abuse, will avoid it.
+    Take care of this ground, and let as many glad imaginations throng to 
+    it as possible. Read the magical works of the poets, and they will 
+    come. If you doubt their existence, ask yourself whether you feel 
+    pleasure at the idea of them; whether you are moved into delicious 
+    smiles, or tears as delicious. If you are, the result is the same to you, 
+    whether they exist or not. It is not mere words to say, that he who 
+    goes through a rich man's park, and sees things in it which never bless 
+    the mental eyesight of the possessor, is richer than he. He is richer. 
+    More results of pleasure come home to him. The ground is actually 
+    more fertile to him: the place haunted with finer shapes. He has 
+    more servants to come at his call, and administer to him with full
+    hands. Knowledge, sympathy, imagination, are all Divining Rods, 
+    with which he discovers treasure. Let a painter go through the 
+    grounds, and he will see not only the general colours of green and 
+    brown, but all their combination and contrasts, and all the modes in 
+    which they might again be combined and contrasted. He will also 
+    put figures in the landscape if there are none there, flocks and herds, 
+    or a solitary spectator, or <persName key="Venus">Venus</persName> lying with her white body among the 
+    violets and primroses. Let a musician go through, and he will hear 
+    <q type="written">differences discreet</q><note type="source"><bibl><author>Edmund Spenser</author><title level="m">The Faerie Queen</title>Book 2 Canto 12</bibl></note> in the notes of the birds and the lapsing of the 
+    water-fall. He will fancy a serenade of wind instruments in the open 
+    air at the lady's window, with a voice rising through it; or the horn 
+    of the hunter; or the musical cry of the hounds,
+   <cit>
+      <quote> 
+      <lg rend="center">
+  <l rend="indent">Matched in mouth like bells, </l>
+  <l>Each under each; </l></lg>
+   </quote>
+   <note type="source" cert="high"><bibl><author>William Shakespeare</author><title>A Midsummer Night's Dream</title>Act IV, scene i</bibl> </note>
+    </cit>
+
+    <pb n="188" /> 
+    
+    or a solitary voice in a bower, singing for an expected lover; or the 
+    chapel organ, waking up like the fountain of the winds. Let a poet 
+    go through the grounds, and he will heighten and increase all these
+    sounds and images. He will bring the colours from heaven, and put 
+    an unearthly meaning into the voice. He will have stories of the 
+    sylvan inhabitants; will shift the population through infinite varieties; 
+    will put a sentiment upon every sight and sound; will be human, 
+    romantic, supernatural; will make all nature send tribute into that 
+    spot. 
+    <cit>
+   <quote>
+  <lg rend="center">
+ <l>Straight mine eye hath caught new pleasures </l>
+ <l>While the landskip round it measures; </l>
+ <l>Russet lawns, and fallows grey, </l>
+ <l>Where the nibbling flocks do stray; </l>
+ <l>Mountains, on whose barren breast </l>
+ <l>The labouring clouds do often rest; </l>
+ <l>Meadows trim with daisies pied, </l>
+ <l>Shallow brooks, and rivers wide; </l>
+ <l>Towers and battlements it sees, </l>
+ <l>Bosomed high in tufted trees, </l>
+ <l>Where perhaps some Beauty lies, </l>
+ <l>The Cynosure of neighbouring eyes. </l>
+  </lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>John Milton</author>
+  <title level="a">L'Allegro</title>
+  </bibl>
+   </note>
+    </cit>
+    
+    But not to go on quoting lines which are ever in people's mouths like 
+    a popular tune, take a passage from the same poet less familiar to 
+    one's every-day recollections. It is in his <title key="Arcades" level="m">Arcadian Mask</title>, which was 
+    performed by some of <persName role="family" key="The Derbys">the Derby family</persName> at their seat at <placeName type="city" key="Harefield" corresp="England">Harefield</placeName>, near 
+    <placeName type="city" key="Uxbridge" corresp="England">Uxbridge</placeName>. The Genius of the place, meeting the noble shepherds and 
+    shepherdesses, accosts them:— 
+    
+    <cit>
+   <quote>
+  <lg rend="center">
+ <l>Stay, gentle swains, for though in this disguise, </l>
+ <l>I see bright honour sparkle through your eyes; </l>
+ <l>Of famous Arcady ye are, and sprung </l>
+ <l>Of that renowed flood, so often sung, </l>
+ <l>Divine <persName key="Alpheus">Alpheus</persName>, who by secret sluice </l>
+ <l>Stole under seas to meet his <persName key="Arethuse">Arethuse</persName>; </l>
+ <l>And ye, the breathing roses of the wood, </l>
+ <l>Fair silver-buskined Nymphs, as great and good; </l>
+ <l>I know this quest of yours, and free intent, </l>
+ <l>Was all in honour and devotion meant </l>
+ <l>To the great mistress of yon princely shrine, </l>
+ <l>Whom with low reverence I adore as mine; </l>
+ <l>And with all helpful service will comply </l>
+ <l>To further this night's glad solemnity; </l>
+ <l>And lead ye where ye may more near behold </l>
+ <l>What shallow-searching Fame hath left untold; </l>
+ <l>Which I, full oft, amidst these shades alone, </l>
+ <l>Have sat to wonder at, and gaze upon: </l>
+ <l>For know, by lot from <persName key="Jupiter">Jove</persName> I am the Power </l>
+ <l>Of this fair wood, and live in oaken bower, </l>
+ <l>To nurse the saplings tall, and curl the grove </l>
+ <l>In ringlets quaint and wanton windings wove: </l>
+ <l>And all my plants I save from nightly ill </l>
+ <l>Of noisome winds, and blasting vapours chill; </l>
+ <l>And from the boughs brush off the evil dew, </l>
+ <l>And heal the harms of thwarting thunder blue, </l>
+ <l>Or what the cross dire-looking-planet smites, </l>
+ <l>Or hurtful worm with cankered venom bites. </l>
+ <l>When evening gray doth rise, I fetch my round </l>
+ <l>Over the mount, and all thie hallowed ground;</l>
+ 
+ <pb n="189" />
+ 
+ <l>And early, ere the odorous breath of morn </l>
+ <l>Awakes the slumbering leaves, or tassel'd horn </l>
+ <l>Shakes the high thicket, haste I all about, </l>
+ <l>Number my ranks, and visit every sprout </l>
+ <l>With puissant words and murmurs made to bless. </l>
+ <l>But else, in deep of night, when drowsiness </l>
+ <l>Hath locked up mortal sense, then listen I </l>
+ <l>To the celestial Syrens' harmony, </l>
+ <l>That sit upon the nine infolded spheres, </l>
+ <l>And sing to those that hold the vital shears, </l>
+ <l>And turn the adamantine spindle round, </l>
+ <l>On which the fate of gods and men is wound. </l>
+ <l>Such sweet compulsion doth in music lie </l>
+ <l>To lull the daughters of necessity, </l>
+ <l>And keep unsteady Nature to her law, </l>
+ <l>And the low world in measured motion draw, </l>
+ <l>After the heavenly tune, which none can hear </l>
+ <l>Of human mould, with gross unpurged ear. </l>
+  </lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>John Milton</author>
+   <title level="m">Arcades</title>
+  </bibl></note>
+    </cit>
+
+<q type="written"><persName key="Milton">Milton</persName>'s Genius of the Grove,</q> says <persName key="Thomas Warton">Warton</persName>, <q type="written">being a spirit sent
+    from <persName key="Jupiter">Jove</persName>, and commissioned from heaven to exercise a preternatural
+    guardianship over the <q type="written">saplings tall,</q> to avert every noxious influence, 
+    and <q type="written">to visit every sprout with puissant words, and murmurs made to 
+    bless,</q> had the privilege, not indulged to gross mortals, of hearing the 
+    celestial Syrens' harmony. This enjoyment,</q> continues the critic, in 
+    the spirit of a true reader, luxuriating over a beautiful thought,— 
+    <q type="written">This enjoyment, which is highly imagined, was a a relaxation from the 
+    duties of his peculiar charge, in the depth of midnight, when the world 
+    is locked up in sleep and silence.</q>
+<note type="source" cert="high">
+  <bibl>
+ <editor>Thomas Warton</editor>,<title level="s">Poems Upon Several Occasions, English, Italian, and Latin, with Translations</title><author>John Milton</author>
+  </bibl>
+</note>
+    <note type="hunt">
+   If the reader wishes to indulge himself in a volume full of sheer poetry with a
+   pleasant companion, familiar with the finest haunts of the Muses, he cannot do
+   better than get <persName key="Thomas Warton">Warton</persName>'s Edition of the Minor Poems of <persName key="Milton">Milton</persName>. The principal
+   notes have been transferred by <persName key="Henry John Todd">Mr. Todd</persName> to the sixth volume of his own valuable
+   Edition of <title level="s" key="The Poetical Works of John Milton. In six volumes"><persName key="Milton">Milton</persName>'s Poetical Works</title>; but it is better to have a good thing entire.
+   The two together might be still better; but a work complete now-a-days, in one
+   volume, is—a work complete.
+</note>
+    The music of the spheres is the 
+    old Platonic or Pythagorean doctrine; but it
+    remained for <persName key="Milton">Milton</persName> to 
+    render it a particular midnight recreation to <q type="written">purged ears,</q><!--struggle to find credible source--> after the 
+    earthly toils of the day. And we partake of it with the Genius. We 
+    may say of the Love of Nature, what <persName key="William Shakespeare">Shakspeare</persName> says of another Love, 
+    that it 
+    <cit>
+   <quote>
+  <lg rend="center">
+    <l>Adds a precious seeing to the eye.</l></lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>William Shakespeare</author>
+   <title>Love's Labor's Lost</title>Act IV, scene iii</bibl>
+   </note>
+    </cit>
+    And we may say also, upon the like principle, that it adds a precious
+    hearing to the ear. This and Imagination, which ever follows upon it, 
+    are the two purifiers of our sense, which rescue us from the deafening 
+    babble of common cares, and enable us to hear all the affectionate 
+    voices of earth and heaven. The starry orbs, lapsing about in their 
+    smooth and sparkling dance, sing to us. The brooks talk to us of 
+    solitude. The birds are the animal spirits of nature, carolling in the 
+    air, like a careless lass. 
+    
+    <cit>
+   <quote>
+  <lg rend="center">
+ <l rend="indent">The gentle gales, </l>
+ <l>Fanning their odoriferous wings, dispense </l>
+ <l>Native perfumes; and whisper whence they stole </l>
+ <l>Those balmy spoils.-------------<note type="hunt"><title level="m"><hi rend="italic">Paradise Lost</hi></title>, B.4</note></l>
+  </lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>John Milton</author>
+    <title level="m">Paradise Lost</title>Book IV
+  </bibl>
+</note>
+    </cit>
+
+    <pb n="190" /> 
+    
+    The poets are called creators (<!-- rend Greek Ποἰῃταἰ -->, Makers), because with their 
+    magical words, they bring forth to our eyesight the abundant images 
+    and beauties of creation. The put them there, if the reader pleases; 
+    and so are literally creators. But whether put there or discovered, 
+    whether created or invented, (for invention means nothing but finding 
+    out), there they are. If they touch us, they exist to as much purpose 
+    as any thing else which touches us. If a passage in <title level="m">King Lear</title> brings 
+    the tears into our eyes, it is as real as the touch of a sorrowful hand. 
+    If the flow of a song of <persName key="Anacreon">Anacreon</persName>'s intoxicates us, it is as true to a
+    pulse within us as the wine he drank. We hear not their sounds with 
+    ears, nor see their sights with eyes; but we hear and see both so truly, 
+    that we are moved with pleasure; and the advantage, nay, even the 
+    test, of seeing and hearing, at any time, is not in the seeing and hearing, 
+    but in the ideas we realize, and the pleasure we derive. Intellectual 
+    objects therefore, inasmuch as they come home to us, are as true 
+    a part of the population of nature, as visible ones; and they are infinitely 
+    more abundant. Between the tree of a country clown, and the 
+    tree of a <persName key="Milton">Milton</persName> or <persName key="Edmund Spenser">Spenser</persName>, what a difference in point of productiveness! 
+    Between the plodding of a sexton through a church-yard, and 
+    the walk of a Gray, what a difference! What a difference between the Bermudas of a ship-builder, and the Bermoothes of <persName key="William Shakespeare">Shakspeare</persName>; 
+    the isle 
+    <cit>
+   <quote>
+    <lg rend="center">
+  <l rend="indent">Full of noises, </l>
+  <l>Sounds, and sweet airs that give delight, and hurt not; </l></lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>William Shakespeare</author>
+   <title level="m">The Tempest</title>Act III, scene ii
+  </bibl>
+</note>
+    </cit> 
+    
+    the isle of elves and fairies, that chased the tide to and fro on the seashore; 
+    of coral-bones, and the knells of sea-nymphs; of spirits dancing 
+    on the sands, and singing amidst the hushes of the wind; of <persName type="fictional" key="Caliban">Caliban</persName>, 
+    whose brute nature enchantment had made poetical; of <persName type="fictional" key="Ariel">Ariel</persName>, 
+    who lay in cowslip bells, and rode upon the bat; of <persName type="fictional" key="Miranda">Miranda</persName>, 
+    who wept when she saw <persName type="fictional" key="Ferdinand">Ferdinand</persName> work so hard, and begged him to 
+    let her help; telling him, 
+    
+    <cit>
+   <quote>
+  <lg rend="center">
+ <l>I am your wife, if you will marry me; </l>
+ <l>If not, I'll die your maid. To be your fellow </l>
+ <l>You may deny me; but I'll be your servant, </l>
+ <l>Whether you will or no. </l>
+  </lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>William Shakespeare
+ </author>
+   <title>The Tempest</title>, Act III, scene i
+  </bibl>
+</note>
+    </cit> 
+    
+    Such are the discoveries which the poets make for us;—worlds, to 
+    which that of <persName key="Christopher Columbus" cert="medium">Columbus</persName> was but a handful of brute matter. It began 
+    to be richer for us the other day, when <persName key="Alexander von Humboldt" cert="medium">Humboldt</persName> came back and told 
+    us of its luxuriant and gigantic vegetation; of the myriads of shooting 
+    lights, which revel at evening in the southern sky: and of that grand 
+    constellation, at which <persName key="Dante">Dante</persName> seems to have made so remarkable a 
+    guess. <note type="hunt">(Purgatorio, Cant. .1, v. 22.)</note> The natural warmth of the Mexican 
+    and Peruvian genius, set free from despotism, will soon do all the 
+    rest for it; awaken the sleeping riches of its eyesight, and call forth 
+    the glad music of its affections. </p>
+
+    <p> To return to our parks or landscapes, and what the poets can make 
+    of them. It is not improbable that <persName key="Milton">Milton</persName>, by his Genius of the 
+    Grove at <placeName type="city" key="Harefield" corresp="England">Harefield</placeName>, covertly intended himself. He had been applied 
+    to by the <persName role="family" key="The Derbys">Derbys</persName> to write some holiday poetry for them. He puts 
+    his consent in the mouth of the Genius, whose band, he says, curls the 
+    
+    <pb n="191" /> 
+    
+    ringlets of the grove, and who refreshes himself at midnight with listening 
+    to the music of the spheres: that is to say, whose hand confers 
+    new beauty on it by it's touch, and who has pleasures in solitude far 
+    richer and loftier than those of mere patrician mortals. </p>
+
+    <p> See how finely <persName key="Ben Jonson">Ben Jonson</persName> enlivens his description of <placeName type="city" key="Penshurst" corresp="England">Penshurst</placeName>, 
+    the family-seat of the <persName role="family" key="The Sydneys, Earls of Leicester">Sydney</persName>s; now with the creations of classical 
+    mythology, and now with the rural manners of the time.</p>
 
 <cit>
-                            <quote><q><persName key="Milton">Milton</persName>'s <persName key="Genius">Genius</persName> of the Grove,</q> says <persName key="Warton">Warton</persName>, <q>being a spirit sent
-                        from Jove, and commissioned from heaven to exercise a preternatural
-                        guardianship over the <q>saplings tall,</q> to avert every noxious
-                        influence, and <q>to visit every sprout with puissant words, and murmurs
-                        made to bless,</q> had the privilege, not indulged to gross mortals, of
-                        hearing the celestial <placeName key='Syrens'>Syrens</placeName>' harmony. This enjoyment,</q> continues the
-                        critic, in the spirit of a true reader, luxuriating over a beautiful
-                        thought,— <q>This enjoyment, which is highly imagined, <persName key="Avas">Avas</persName> a relaxation
-                        from the duties of his peculiar charge, in the depth of midnight, when the
-                        world is locked up in sleep and silence.</q></quote>
-<note type="source"
-                                cert="high">
-                                <bibl>
-                                    <editor>
-                                        <forename>Thomas</forename>
-                                        <surname><persName key="Warton">Warton</persName></surname>
-                                    </editor>,
-                        in <title>Poems Upon Several Occasions, English, Italian, and Latin, with
-                        Translations</title> by <author>
-                                        <forename>John</forename>
-                                        <surname><persName key="Milton">Milton</persName></surname>
-                                    </author>
-                                </bibl>
-                        .
-</note>
-                        </cit><note type="hunt">
-                            If the reader wishes to indulge himself in a volume full of sheer poetry
-                        with a
-                            pleasant companion, familiar with the finest haunts of the <persName key="Muses">Muses</persName>, he
-                        cannot do
-                            better than get <persName key="Warton">Warton</persName>'s Edition of the Minor Poems of <persName key="Milton">Milton</persName>. The
-                        principal
-                            notes have been transferred by <persName key="Mr">Mr</persName>. <persName key="Todd">Todd</persName> to the sixth volume of his own
-                        valuable
-                            Edition of <persName key="Milton">Milton</persName>'s Poetical Works; but it is better to have a good
-                        thing entire.
-                            The two together might be still better; but a work complete now-a-days,
-                        in one
-                            volume, is—a work complete.
-</note>
-                        The music of the spheres is the old Platonic or Pythagorean doctrine; but it
-                        remained for <persName key="Milton">Milton</persName> to render it a particular midnight recreation to <q>purged
-                        ears,</q> after the earthly toils of the day. <persName key="And">And</persName> we partake of it with the
-                        <persName key="Genius">Genius</persName>. We may say of the Love of Nature, what Shakspeare says of another
-                        Love, that it <cit>
-                            <quote>
-                                <placeName key='Adds'>Adds</placeName> a precious seeing to the eye.
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname>Shakespeare</surname>
-                                    </author>
-                        ,
-        <title>Love's Labor's Lost</title>
-        <biblScope>Act IV, scene iii</biblScope>
-                                </bibl>
-                            </note>
-                        </cit>
-                        <persName key="And">And</persName> we may say also, upon the like principle, that it adds a precious
-                        hearing to the ear. This and Imagination, which ever follows upon it, are
-                        the two purifiers of our sense, which rescue us from the deafening babble of
-                        common cares, and enable us to hear all the affectionate voices of earth and
-                        heaven. The starry orbs, lapsing about in their smooth and sparkling dance,
-                        sing to us. The brooks talk to us of solitude. The birds are the animal
-                        spirits of nature, carolling in the air, like a careless lass. <cit>
-                            <quote>
-                                <lg>
-                                    <l rend="indent">The gentle gales, </l>
-                                    <l>Fanning their odoriferous wings, dispense </l>
-                                    <l>Native perfumes; and whisper whence they stole </l>
-                                    <l>Those balmy spoils.</l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>John</forename>
-                                        <surname><persName key="Milton">Milton</persName></surname>
-                                    </author>
-                        ,
-    <title>Paradise Lost</title>, <biblScope>Book IV</biblScope>
-                                </bibl>
-                        .
-</note>
-                        </cit>
-<pb n="190" /> The poets are called
-                        creators (<!-- rend Greek -->, Makers), because with their magical words, they bring forth to
-                        our eyesight the abundant images and beauties of creation. The put them
-                        there, if the reader pleases; and so are literally creators. But whether put
-                        there or discovered, whether created or invented, (for invention means
-                        nothing but finding out), there they are. If they touch us, they exist to as
-                        much purpose as any thing else which touches us. If a passage in King Lear
-                        brings the tears into our eyes, it is as real as the touch of a sorrowful
-                        hand. If the flow of a song of Anacreon's intoxicates us, it is as true to a
-                        pulse within us as the wine he drank. We hear not their sounds with ears,
-                        nor see their sights with eyes; but we hear and see both so truly, that we
-                        are moved with pleasure; and the advantage, nay, even the test, of seeing
-                        and hearing, at any time, is not in the seeing and hearing, but in the ideas
-                        we realize, and the pleasure we derive. Intellectual objects therefore,
-                        inasmuch as they come home to us, are as true a part of the population of
-                        nature, as visible ones; and they are Infinitely more abundant. Between the
-                        tree of a country clown, and the tree of a <persName key="Milton">Milton</persName> or Spenser, what a
-                        difference in point of productiveness! Between the plodding of a sexton
-                        through a church-yard, and the walk of a Gray, what a difference! What a
-                        difference between the Bermudas of a ship-builder, and the Bermoothes of
-                        Shakspeare; the isle <cit>
-                            <quote>
-                                <l rend="indent">Full of noises, </l>
-                                <l>Sounds, and sweet airs that give delight, and hurt not; </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname>Shakespeare</surname>
-                                    </author>
-                        ,
-        <title>The Tempest</title>, <biblScope>Act III, scene ii</biblScope>
-                                </bibl>
-                        .
-</note>
-                        </cit> the isle of elves and fairies, that
-                        chased the tide to and fro on the seashore; of coral-bones, and the knells
-                        of sea-nymphs; of spirits dancing on the sands, and singing amidst the
-                        hushes of the wind; of Caliban, whose brute nature enchantment had made
-                        poetical; of Ariel, who lay in cowslip bells, and rode upon the bat; of
-                        Miranda, who wept when she saw Ferdinand work so hard, and begged him to let
-                        her help; telling him, <cit>
-                            <quote>
-                                <lg>
-                                    <l>I am your wife, if you will marry me; </l>
-                                    <l>If not, <persName key="I'll">I'll</persName> die your maid. To be your fellow </l>
-                                    <l>You may deny me; but <persName key="I'll">I'll</persName> be your servant, </l>
-                                    <l>Whether you will or no. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname>Shakespeare</surname>
-                                    </author>
-                        ,
-        <title>The Tempest</title>, <biblScope>Act III, scene i</biblScope>
-                                </bibl>
-                        .
-</note>
-                        </cit> Such are the discoveries which the
-                        poets make for us;—worlds, to which that of Columbus was but a handful of
-                        brute matter. It began to be richer for us the other day, when Humboldt came
-                        back and told us of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> luxuriant and gigantic
-                        vegetation; of the myriads of shooting lights, which revel at evening in the
-                        southern sky: and of that grand constellation, at which Dante seems to have
-                        made so remarkable a guess. (Purgatorio, Cant. .1, v. 22.) The natural
-                        warmth of the Mexican and Peruvian genius, set free from despotism, will
-                        soon do all the rest for it; awaken the sleeping riches of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> eyesight, and call
-                        forth the glad music of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> affections. </p>
-                    <p> To return to our parks or landscapes, and what the poets can make of them.
-                        It is not improbable that <persName key="Milton">Milton</persName>, by his <persName key="Genius">Genius</persName> of the Grove at <placeName key='Ilarefield'>Ilarefield</placeName>,
-                        covertly intended himself. He had been applied lo by the <placeName key='Derbys'>Derbys</placeName> to write
-                        some holiday poetry for them* . He puts his consent in the mouth of the
-                        <persName key="Genius">Genius</persName>, whose band, he says, curls the <pb n="191" /> ringlets of the grove,
-                        and who refreshes himself at midnight with listening to the music of the
-                        spheres: that is to say, whose hand confers new beauty on it by it's touch,
-                        and who has pleasures in solitude far richer and loftier than those of mere
-                        patrician mortals. </p>
-                    <p> See how finely <persName key="Ben Jonson">Ben Jonson</persName> enlivens his description of <placeName key='Penshurst'>Penshurst</placeName>, the
-                        family-seat of the <placeName key='Sydney'>Sydney</placeName>s; now with the creations of classical mythology,
-                        and now with the rural manners of the time. <cit>
-                            <quote>
-                                <lg>
-                                    <l>Thou art not, <placeName key='Penshurst'>Penshurst</placeName>, built to envious show, </l>
-                                    <l>Or touch, of marble; nor canst boast a row </l>
-                                    <l>Of polished pillars, or a roof of gold; </l>
-                                    <l>Thou hast no lantern, whereof tales are told; </l>
-                                    <l>Or stair, or courts; but standst an ancient pile; </l>
-                                    <l><persName key="And">And</persName> these, grudged at, are reverenced the while. </l>
-                                    <l>Thou joy'st in better marks, of soil, of air, </l>
-                                    <l>Of wood, of water: <persName key="herein">herein</persName> thou art fair. </l>
-                                    <l>Thou hast thy walks for health, as well as sport; </l>
-                                    <l>Thy mount, to which the <placeName key='Dryads'>Dryads</placeName> do resort; </l>
-                                    <l>Where <persName key="Pan">Pan</persName> and <persName key="Bacchus">Bacchus</persName> their high feasts have made, </l>
-                                    <l>Beneath the broad beech, and the chesnut shade; </l>
-                                    <l>That taller tree, which of a nut was set </l>
-                                    <l>At his great birth, where all the muses met. </l>
-                                    <note type="hunt">Sir <persName key="Philip Sidney">Philip Sidney</persName>.</note>
-                                    <l>There, in the writhed bark, are cut the names </l>
-                                    <l>Of many a <placeName key='Sylvan'>Sylvan</placeName>, taken with his flames: </l>
-                                    <l><persName key="And">And</persName> thence the ruddy Satyrs oft provoke </l>
-                                    <l>The lighter <persName key="Fawns">Fawns</persName> to reach thy lady's oak. </l>
-                                    <l>Thy copse too, named of <placeName key='Gamage'>Gamage</placeName>, thou hast there, </l>
-                                    <l>That never fails to serve thee seasoned dear, </l>
-                                    <l>When thou wouldst feast, or exercise thy friends: </l>
-                                    <l>The lower land, that to the river bends, </l>
-                                    <l>Thy sheep, thy bullocks, kine, and calves do feed; </l>
-                                    <l>The middle grounds thy mares and horses breed: </l>
-                                    <l>Each bank doth yield thee conies; and the tops </l>
-                                    <l>Fertile of wood, <persName key="Ashore">Ashore</persName> and <placeName key='Sydney'>Sydney</placeName> copse. </l>
-                                    <l>To crown,—thy open table doth provide </l>
-                                    <l>The purple pheasant with the speckled side. </l>
-                                    <ellipsis>
-                                        <metamark function="multilineEllipsis"> * * * * * * * * </metamark>
-                                        <desc>Hunt omits ten lines here.</desc>
-                                    </ellipsis>
-                                    <l>Then hath thy orchard fruit, thy garden flowers, </l>
-                                    <l>Fresh as the air, and new as are the hours, </l>
-                                    <l>The early cherry, with the later plum, </l>
-                                    <l>Fig, grape, and quince, each in his time doth come: </l>
-                                    <l>The blushing apricot, and woolly peach, </l>
-                                    <l>Hang on thy walls, that every child may reach; </l>
-                                    <l><persName key="And">And</persName> though thy walls be of the country ston, </l>
-                                    <l><placeName key='They're'>They're</placeName> reared with no man's ruin, no man's groan; </l>
-                                    <l>There's none that dwell about them wish them down; </l>
-                                    <l>But all come in, the farmer and the clown, </l>
-                                    <l><persName key="And">And</persName> no one empty handed, to salute </l>
-                                    <l>Thy lord and lady, though they have no suit. </l>
-                                    <l>Some bring a capon, some a rural cake, </l>
-                                    <l>Some nuts, some apples; some that think they make </l>
-                                    <l>The better cheeses, bring 'em; or else send </l>
-                                    <l>By their ripe daughters, whom they would commend </l>
-                                    <l>This way to husbands; and whose baskets bear </l>
-                                    <l>An emblem of themselves in plum or pear. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>Ben</forename>
-                                        <surname>Jonson</surname>
-                                    </author>
-                        ,
-    <title>To <placeName key='Penshurst'>Penshurst</placeName></title>. </bibl>
-                            </note>
-                        </cit>
-                        Imagination enriches every thing. A great library contains not only books,
-                        but <cit>
-                            <quote>
-                                The assembled souls of all that men held wise.
+      <quote>
+  <lg rend="center">
+ <l>Thou art not, <placeName type="city" key="Penshurst" corresp="England">Penshurst</placeName>, built to envious show, </l>
+ <l>Or touch, of marble; nor canst boast a row </l>
+ <l>Of polished pillars, or a roof of gold; </l>
+ <l>Thou hast no lantern, whereof tales are told; </l>
+ <l>Or stair, or courts; but standst an ancient pile; </l>
+ <l>And these, grudged at, are reverenced the while. </l>
+ <l>Thou joy'st in better marks, of soil, of air, </l>
+ <l>Of wood, of water: herein thou art fair. </l>
+ <l>Thou hast thy walks for health, as well as sport; </l>
+ <l>Thy mount, to which the Dryads do resort; </l>
+ <l>Where <persName key="Pan">Pan</persName> and <persName key="Bacchus">Bacchus</persName> their high feasts have made, </l>
+ <l>Beneath the broad beech, and the chesnut shade; </l>
+ <l>That taller tree, which of a nut was set </l>
+ <l>At his great birth, where all the muses met. </l>
+ <note type="hunt" place="foot"><persName key="Sir Philip Sidney">Sir Philip Sidney</persName>.</note>
+ <l>There, in the writhed bark, are cut the names </l>
+ <l>Of many a Sylvan, taken with his flames: </l>
+ <l>And thence the ruddy Satyrs oft provoke </l>
+ <l>The lighter Fawns to reach thy lady's oak. </l>
+ <l>Thy copse too, named of Gamage, thou hast there, </l>
+ <l>That never fails to serve thee seasoned dear, </l>
+ <l>When thou wouldst feast, or exercise thy friends: </l>
+ <l>The lower land, that to the river bends, </l>
+ <l>Thy sheep, thy bullocks, kine, and calves do feed; </l>
+ <l>The middle grounds thy mares and horses breed: </l>
+ <l>Each bank doth yield thee conies; and the tops </l>
+ <l>Fertile of wood, Ashore and Sydney copse. </l>
+ <l>To crown,—thy open table doth provide </l>
+ <l>The purple pheasant with the speckled side. </l>
+ <ellipsis>
+<metamark function="multilineEllipsis"> * * * * * * * * </metamark>
+<desc>Hunt omits ten lines here.</desc>
+ </ellipsis>
+ <l>Then hath thy orchard fruit, thy garden flowers, </l>
+ <l>Fresh as the air, and new as are the hours, </l>
+ <l>The early cherry, with the later plum, </l>
+ <l>Fig, grape, and quince, each in his time doth come: </l>
+ <l>The blushing apricot, and woolly peach, </l>
+ <l>Hang on thy walls, that every child may reach; </l>
+ <l>And though thy walls be of the country ston, </l>
+ <l>They're reared with no man's ruin, no man's groan; </l>
+ <l>There's none that dwell about them wish them down; </l>
+ <l>But all come in, the farmer and the clown, </l>
+ <l>And no one empty handed, to salute </l>
+ <l>Thy lord and lady, though they have no suit. </l>
+ <l>Some bring a capon, some a rural cake, </l>
+ <l>Some nuts, some apples; some that think they make </l>
+ <l>The better cheeses, bring 'em; or else send </l>
+ <l>By their ripe daughters, whom they would commend </l>
+ <l>This way to husbands; and whose baskets bear </l>
+ <l>An emblem of themselves in plum or pear. </l>
+  </lg>
+   </quote>
+   <note type="source">
+  <bibl>
+ <author>Ben Jonson</author>
+    <title level="a">To Penshurst</title>. </bibl>
+   </note>
+    </cit>
+    
+<p>Imagination enriches every thing. A great library contains not only 
+  books, but 
+    
+    <cit>
+   <quote>
+  <lg rend="center"><l>The assembled souls of all that men held wise.----<note type="hunt"><hi rend="smallcaps"><persName key="William Davenant">Davenant</persName></hi></note></l></lg>
 </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname>Davenant</surname>
-                                    </author>
-                        ,
-    <title>Gondibert: An Heroick Poem</title>, <biblScope>Canto V, verse
-                        xxxvii</biblScope>
-                                </bibl>. </note>
-                        </cit>
-<pb
-                            n="192" /> The moon is Homer's and Shakspeare's moon, as well as the one
-                        we look at. The sun comes out of his chamber in the east, with a sparkling
-                        eye, <cit>
-                            <q>rejoicing like a bridegroom.</q>
-                            <note type="source"> Seemingly a conflated paraphrase of <bibl>
-                                    <title>Psalms</title>, <biblScope>19:5</biblScope>
-                                </bibl>
-                        .
-</note>
-                        </cit> The commonest thing becomes like
-                        Aaron's rod, that budded. Pope called up the spirits of the Cabala to wait
-                        upon a lock of hair, and justly gave it the honours of a constellation; for
-                        he has hung it, sparkling for ever, in the eyes of posterity. A common
-                        meadow is a sorry thing to a ditcher or a coxcomb; but by the help of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> dues from imagination
-                        and the love of nature, the grass brightens for us, the air soothes us, we
-                        feel as we did in the daisied hours of childhood. <choice>
-                            <corr>Its</corr>
-                            <sic>It's</sic>
-                        </choice> verdures, <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> sheep, <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> hedge row elms,—all
-                        these, and all else which sight, avid sound, and association can give it,
-                        are made to furnish a treasure of pleasant thoughts. Even brick and mortar
-                        are vivified, as of old at the harp of Orpheus. A metropolis becomes no
-                        longer a mere collection of houses or of trades. It puts on all the grandeur
-                        of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> history, and <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> literature; <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> towers, and rivers; <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> art, and jewelry, and
-                        foreign wealth; <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> multitude of human
-                        beings all intent upon excitement, wise or yet to learn; the huge and sullen
-                        dignity of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> canopy of smoke by day;
-                        the wide gleam upwards of its lighted lustre at night-time; and the noise of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> many chariots, heard,
-                        at the same hour, when the wind sets gently towards some quiet suburb. </p>
-                </div2>
-                <div2 type="correspondents"> <!-- Appended notes to correspondents -->
-                    <head type="header">TO CORRESPONDENTS.</head>
-                    <p>We will consider the suggestion respecting a List of Books; though our
-                        Correspondent
-                        will see in our present <persName key="Number">Number</persName>, one reason among others, which must at
-                        least prevent us from being in a hurry on the subject. </p>
-                    <lb />
-                    <p>
-                        <hi rend="smallcaps">Mottoes</hi>.—Are the Mottoes in question heraldic
-                        ones; or any others already existing? </p>
-                    <lb />
-                    <p>
-                        The Verses of B. and of <persName key="W. B. W.">W. B. W.</persName> have their graces and other merits; but we
-                        are obliged to be so chary in this Department, that they must think as
-                        kindly as
-                        they can of our omitting them. </p>
-                </div2>
-                <div2 type="colophon"> <!-- Publisher and printer information -->
-                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
-                        <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>. </p>
-                    <p>Printed by <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>, No. 19, Catherine-street, Strand.——Price 2d. </p>
-                </div2>
-            </div1>
-        </body>
+   <note type="source">
+  <bibl>
+ <author>William Davenant
+ </author>
+    <title>Gondibert: An Heroick Poem</title>, Canto V, verse xxxvii
+  </bibl> </note>
+    </cit>
+
+    <pb n="192" /> 
+
+    The moon is <persName key="Homer">Homer</persName>'s and <persName key="William Shakespeare">Shakspeare</persName>'s moon, as well as the one we 
+    look at. The sun comes out of his chamber in the east, with a sparkling
+    eye,<q type="written">rejoicing like a bridegroom.</q><note type="source"> Seemingly a conflated paraphrase of <bibl><title>Psalms</title> 19:5</bibl>.</note> The commonest thing becomes 
+    like <persName type="fictional" key="Aaron">Aaron</persName>'s rod, that budded. <persName key="Alexander Pope">Pope</persName> called up the spirits of 
+    the Cabala<note type="editorial">Kabbalah (also spelled Kabalah, Cabala, Qabala) is a part of Jewish mysticism tradition which refers to the received wisdom from the essence of God.</note> to wait upon a lock of hair, and justly gave it the honours 
+    of a constellation; for he has hung it, sparkling for ever, in the eyes 
+    of posterity. A common meadow is a sorry thing to a ditcher or a 
+    coxcomb; but by the help of <choice><corr>its</corr></choice><sic>it's</sic> dues from imagination and the love 
+    of nature, the grass brightens for us, the air soothes us, we feel as we 
+    did in the daisied hours of childhood. <choice><corr>Its</corr></choice><sic>It's</sic> verdures, <choice><corr>its</corr></choice><sic>it's</sic> sheep, <choice><corr>its</corr></choice><sic>it's</sic> 
+    hedge row elms,—all these, and all else which sight, and sound, and 
+    association can give it, are made to furnish a treasure of pleasant 
+    thoughts. Even brick and mortar are vivified, as of old at the harp of 
+    <persName key="Orpheus">Orpheus</persName>. A metropolis becomes no longer a mere collection of houses 
+    or of trades. It puts on all the grandeur of <choice><corr>its</corr></choice><sic>it's</sic> history, and <choice><corr>its</corr></choice><sic>it's</sic> literature; 
+    <choice><corr>its</corr></choice><sic>it's</sic> towers, and rivers; <choice><corr>its</corr></choice><sic>it's</sic> art, and jewelry, and foreign 
+    wealth; its multitude of human beings all intent upon excitement, 
+    wise or yet to learn; the huge and sullen dignity of <choice><corr>its</corr></choice><sic>it's</sic> canopy of 
+    smoke by day; the wide gleam upwards of its lighted lustre at night-time; 
+    and the noise of <choice><corr>its</corr></choice><sic>it's</sic> many chariots, heard, at the same hour, 
+    when the wind sets gently towards some quiet suburb. </p>
+ </div2>
+ <div2 type="correspondents"> <!-- Appended notes to correspondents -->
+<head type="header">TO CORRESPONDENTS.</head>
+<p>We will consider the suggestion respecting a List of Books; though our Correspondent
+    will see in our present Number, one reason among others, which must at
+    least prevent us from being in a hurry on the subject. </p>
+<lb />
+<p>
+    <hi rend="smallcaps">Mottoes</hi>.—Are the Mottoes in question heraldic ones; or any others already 
+    existing? </p>
+<lb />
+<p>
+    The Verses of B. and of <persName key="W. B. W.">W. B. W.</persName> have their graces and other merits; but we
+    are obliged to be so chary in this Department, that they must think as kindly as
+    they can of our omitting them. </p>
+ </div2>
+ <div2 type="colophon"> <!-- Publisher and printer information -->
+<p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+    <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>. </p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d. </p>
+ </div2>
+  </div1>
+   </body>
     </text>
 </TEI>
