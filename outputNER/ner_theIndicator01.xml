@@ -219,7 +219,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240806171338128",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-06T21:13:38.128Z",
-	"dcterms:modified": "2024-08-06T21:13:38.128Z",
+	"dcterms:modified": "2024-08-06T21:14:27.077Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -250,7 +250,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q126462",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -392,7 +394,7 @@ none but the wise or good-natured would ever think of laughing at.</p>
 <pb n="3"/>
 
 <p>A MISTAKE OF MR. THOMAS PAINE'S UPON LEARNING; AND A WORD  
-OR TWO ON TRANSLATION. — We speak of <persName key="Thomas Paine">Mr. Paine</persName> as a deceased author  
+OR TWO ON TRANSLATION. — We speak of <persName key="Thomas Paine" ref="http://www.wikidata.org/entity/Q126462">Mr. Paine</persName> as a deceased author  
 whom it is a vulgar error to under-rate. His great natural powers have  
 forced themselves into eminence through every species of obstacle. Well  
 aware of them himself, seeing in what manner they were often denied, and  
