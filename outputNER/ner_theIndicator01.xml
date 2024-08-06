@@ -298,7 +298,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?title_annotation_20240806171610290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-06T21:16:10.290Z",
-	"dcterms:modified": "2024-08-06T21:16:10.290Z",
+	"dcterms:modified": "2024-08-06T21:16:54.694Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -329,7 +329,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q172891",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -483,7 +485,7 @@ He saw that others mistook the letter for the spirit; and yet in objecting
 to this mistake, he fell into one of the very same nature, and asserted that  
 learning was no longer wanted, because all the <q type="soCalled">useful books</q> in the  
 ancient languages had been translated.  By useful books, he means such  
-works as <title level="a">Euclid's Elements</title> : and here again he fell into an error, from  
+works as <title level="a" key="Elements" ref="http://www.wikidata.org/entity/Q172891">Euclid's Elements</title> : and here again he fell into an error, from  
 which the true spirit of learning might have saved him : he confounded  
 utility with mere science.  He forgot that for one instance in which mere  
 science is necessary to our happiness, there are a hundred in which we  
