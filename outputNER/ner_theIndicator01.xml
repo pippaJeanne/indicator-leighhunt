@@ -57,10 +57,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163853857",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163945011",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-06T20:38:53.857Z",
-	"dcterms:modified": "2024-08-06T20:39:45.011Z",
+	"dcterms:created": "2024-08-06T20:39:45.011Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -71,7 +70,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163853857#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163945011#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -85,15 +84,14 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163853857#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240806163945011#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/choice"
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/corr"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "fabio:Correction",
-		"dc:format": "text/xml",
-		"rdf:value": "choose"
+		"dc:format": "text/xml"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -159,7 +157,7 @@ is accustomed to use his pen, as habitually as a bird his pinion, and to
 betake himself with it into the nests and bowers of more lasting speculations,  
 when he has done with public ones, he is determined to keep those haunts  
 of his recreation free from all noise and wrangling, both for his own pleasure  
-and for those who may <choice><sic>choose</sic><corr>choose</corr></choice> to accompany him.</p>
+and for those who may <corr><orig>choose</orig><reg>choose</reg></corr> to accompany him.</p>
 
 <p>The Indicator will appear every Wednesday morning, at an hour early  
 enough for the breakfast-table; although the subjects will not be  
