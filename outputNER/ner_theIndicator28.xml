@@ -2,738 +2,687 @@
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
 <!-- This template is intended to be used as a starting point for encoding a new text.
-        It is not intended as a fixed structure, but rather collects some of the most common
-        structural elements for convenience and uniformity. Please add/remove elements as
-        necessary for your use case. -->
+It is not intended as a fixed structure, but rather collects some of the most common
+structural elements for convenience and uniformity. Please add/remove elements as
+necessary for your use case. -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <!-- File Description -->
-        <fileDesc>
-            <!-- Title of the work -->
-            <titleStmt>
-                <title>The Indicator</title>
-                <author>
-                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
-                    <surname>
-                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
-                </author>
-            </titleStmt>
+<teiHeader>
+<!-- File Description -->
+<fileDesc>
+<!-- Title of the work -->
+<titleStmt>
+<title>The Indicator</title>
+<author>
+James Henry Leigh
 
-            <publicationStmt>
-                <p />
-            </publicationStmt>
+Hunt, <date from="1784" to="1859">1784-1859</date>
+</author>
+</titleStmt>
 
-            <!-- Author information -->
-            <sourceDesc>
-                <bibl>
-                    <author>
-                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
-                        <surname>
-                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
-                    </author>
-                    ,
-                    <title>The Indicator</title>
-                    <date when="1820-04-19">April
-                    19th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
-                    <publisher>Joseph
-                    Appleyard</publisher> <!-- Publisher details if available -->
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
+<publicationStmt>
+<p />
+</publicationStmt>
 
-        <!-- Encoding Description -->
-        <encodingDesc>
-            <!-- Add any encoding information or guidelines here if applicable -->
-            <p>
-                Basic encoding, capturing relevant formatting and layout information. Page numbers
-                are
-                included for reference to the source only and are not intended to indicate precise
-                preservation.
-            </p>
-        </encodingDesc>
+<!-- Author information -->
+<sourceDesc>
+<bibl>
+<author>
+James Henry Leigh
 
-        <!-- Profile Description -->
-        <profileDesc>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div1 type="issue" n="28">
-                <pb n="217" /> <!-- Page beginning -->
-                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
-                    <head type="title">THE INDICATOR.</head>
-                    <epigraph>
-                        <l>There he arriving round about doth flie,</l>
-                        <l><persName key="And">And</persName> takes survey with busie, curious eye:</l>
-                        <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="<persName key="Edmund Spenser">Edmund Spenser</persName>"
-                                ref="http://www.wikidata.org/entity/Q4352055"
-                                cert="high" type="real">SPENSER</persName>.</l>
-                    </epigraph>
-                    <head type="catalogue">No. XXVIII.—WEDNESDAY, APRIL 19th, 1820.</head>
-                </div2>
-                <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header">SPRING.—DAISIES.—GATHERING FLOWERS</head>
-                    <p>The Spring is now complete. The winds have done their work.
-                        The shaken air, well tempered and equalized, has subsided; the genial
-                        rains, however thickly they may come, do not saturate the ground,
-                        beyond the power of the sun to dry it up again. There are clear
-                        chrystal mornings; noons of blue sky and white cloud; nights, in
-                        which the growing moon seems to lie looking at the stars, like a
-                        young shepherdess at her flock. A few days ago she lay gazing in
-                        this manner at the solitary evening star, like <persName key="Diana">Diana</persName>, on the slope of a
-                        valley, looking up at Endymion. His young eye seemed to sparkle
-                        out upon the world; while she, bending inwards, her hands behind
-                        her head, watched him with an enamoured dumbness. </p>
-                    <p>But this is the quiet of Spring. <choice>
-                            <corr>Its</corr>
-                            <sic>It's</sic>
-                        </choice> voices and swift
-                        movements have come back also. The swallow shoots by us, like an embodied
-                        ardour of the season. The glowing bee has his will of the honied flowers,
-                        grappling with them as they tremble. We have not yet heard the nightingale
-                        or the cuckoo; but we can hear them with our imagination, and enjoy them
-                        through the content of those who have. </p>
-                    <p>Then the young green. This is the most apt and perfect mark of
-                        the season,—the true issuing forth of the Spring. The trees and
-                        bushes are putting forth their crisp fans; the lilac is loaded with bud;
-                        the meadows are thick with the bright young grass, running into sweeps
-                        of white and gold with the daisies and buttercups. The orchards announce
-                        their riches, in a shower of silver blossoms. The earth in fertile
-                        woods is spread with yellow and blue carpets of primroses, violets,
-                        and hyacinths, over which the birch-trees, like stooping nymphs, hang
-                        with their thickening hair. Lilies of the valley, stocks, columbines,
-                        lady-smocks, and the intensely red piony which seems to anticipate
-                        the full glow of summer-time, all come out to wait upon the season,
-                        like fairies from their subterraneous palaces. </p>
-                    <p>Who is to wonder that the idea of love mingles itself with that of this
-                        cheerful and kind time of the year, setting aside even common <pb n="218" />
-                        associations? It is not only it's youth, and beauty, and budding life, and <q>the
-                        passion of the groves,</q> that exclaim with the poet, <cit>
-                            <quote>
-                                <l>Let those love now, who never loved before; </l>
-                                <l><persName key="And">And</persName> those who always loved, now love the more. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author><persName key="Anon">Anon</persName>.</author>, <title><persName key="Pervigilium Veneris">Pervigilium Veneris</persName></title>,
-                        translated by <editor>
-                                        <forename>Thomas</forename>
-                                        <surname>Parnell</surname>
-                                    </editor>
-                        .
-    </bibl>
-                            </note>
-                        </cit>
-                        All our kindly impulses are apt to have more sentiment in them, than the
-                        world suspect; and it is by fetching out this sentiment, and making it the
-                        ruling association, that we exalt the impulse into generosity and
-                        refinement, instead of degrading it, as is too much the case, into what is
-                        selfish, and coarse, and pollutes all <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> systems. One of the
-                        greatest inspirers of love is gratitude,—not merely on <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> common grounds, but
-                        gratitude for pleasures, whether consciously or unconsciously, conferred.
-                        Thus we are thankful for the delight given us by a kind and sincere face;
-                        and if we fall in love with it, one great reason is, that we long to return
-                        what we have received. The same feeling has a considerable influence in the
-                        love that has been felt for men of talents, whose persons or address have
-                        not been much calculated to inspire it. In spring-time, joy awakens the
-                        heart: with joy, awakes gratitude and nature; and in our gratitude, we
-                        return, on <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> own principle of
-                        participation, the love that has been shewn us. </p>
-                    <p>This association of ideas renders solitude in spring, and solitude in winter,
-                        two very different things. In the latter, we are better content to bear the
-                        feelings of the season by ourselves:—in the former they are so sweet as well
-                        as so overflowing, that we long to share them. Shakspeare, in one of his
-                        sonnets, describes himself as so identifying the beauties of the spring with
-                        the thought of his absent mistress, that he says he forgot them in their own
-                        character, and played with them only as with her shadow. See how exquisitely
-                        he turns a commonplace into this fancy; and what a noble brief portrait of
-                        April he gives us at the beginning. There is indeed a wonderful mixture of
-                        softness and strength in almost every one of the lines. <cit>
-                            <quote>
-                                <lg>
-                                    <l>From you have I been absent in the spring. </l>
-                                    <l>When proud-pied April, dressed in all his trim, </l>
-                                    <l><persName key="Hath">Hath</persName> put a spirit of youth in every thing; </l>
-                                    <l>That heavy Saturn laughed and leaped with him. </l>
-                                    <l>Yet nor the lays of birds, nor the sweet smell </l>
-                                    <l>Of different flowers in odour and in hue. </l>
-                                    <l>Could make me any summer's story tell. </l>
-                                    <l>Or from their proud lap pluck them where they grew: </l>
-                                    <l>Nor did I wonder at the lilies white. </l>
-                                    <l>Nor praise the deep vermilion in the rose; </l>
-                                    <l>They were but sweet, but<note type="hunt"><hi rend="italic">But
-                        sweet, but</hi>.—Quaere:—<hi rend="italic">But sweet-cut?</hi></note>
-                        patterns of delight, </l>
-                                    <l>Drawn after you, you pattern of all those. </l>
-                                    <l>Yet seemed it winter still; and, you away, </l>
-                                    <l>As with your shadow, I with these did play. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname><persName key="Shakespeare">Shakespeare</persName></surname>
-                                    </author>
-                        ,
-            <title>Sonnet XCVIII</title>. </bibl>
-                            </note>
-                        </cit>
-                        Shakspeare was fond of alluding to April. He did not allow <persName key="May">May</persName> to have all
-                        his regard, because she was richer. Perdita, crowned with flowers, in the
-                        Winter's Tale, is beautifully compared to <cit>
-                            <quote>
-                                Flora,
-                                Peering in April's front.
+Hunt, <date from="1784" to="1859">1784-1859</date>
+</author>
+,
+<title>The Indicator</title>
+<date when="1820-04-19">April 19th, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+<pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+<publisher>Joseph
+Appleyard</publisher> <!-- Publisher details if available -->
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<!-- Encoding Description -->
+<encodingDesc>
+<!-- Add any encoding information or guidelines here if applicable -->
+<p>
+Basic encoding, capturing relevant formatting and layout information. Page numbers
+are
+included for reference to the source only and are not intended to indicate precise
+preservation.
+</p>
+</encodingDesc>
+
+<!-- Profile Description -->
+<profileDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="issue" n="28">
+<pb n="217" /> <!-- Page beginning -->
+<div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+<head type="title">THE INDICATOR.</head>
+<epigraph>
+<l>There he arriving round about doth flie,</l>
+<l>And takes survey with busie, curious eye:</l>
+<l>Now this, now that, he tasteth tenderly.</l>
+<l><persName key="Edmund Spenser"
+ref="http://www.wikidata.org/entity/Q4352055"
+cert="high" type="real">SPENSER</persName>.</l>
+</epigraph>
+<head type="catalogue">No. XXVIII.—<date when="1820-04-19">WEDNESDAY, APRIL 19th, 1820</date>.</head>
+</div2>
+<div2 type="section" n="1"> <!-- Header and content -->
+<head type="header">SPRING.—DAISIES.—GATHERING FLOWERS</head>
+<p>The Spring is now complete. The winds have done their work.
+The shaken air, well tempered and equalized, has subsided; the genial
+rains, however thickly they may come, do not saturate the ground,
+beyond the power of the sun to dry it up again. There are clear
+chrystal mornings; noons of blue sky and white cloud; nights, in
+which the growing moon seems to lie looking at the stars, like a
+young shepherdess at her flock. A few days ago she lay gazing in
+this manner at the solitary evening star, like <persName key="Diana">Diana</persName>, on the slope of a
+valley, looking up at <persName key="Endymion">Endymion</persName>. His young eye seemed to sparkle
+out upon the world; while she, bending inwards, her hands behind
+her head, watched him with an enamoured dumbness. </p>
+
+<p>But this is the quiet of Spring. <choice><corr>Its</corr><sic>It's</sic></choice> voices and swift movements 
+have come back also. The swallow shoots by us, like an embodied
+ardour of the season. The glowing bee has his will of the honied 
+flowers, grappling with them as they tremble. We have not yet heard 
+the nightingale or the cuckoo; but we can hear them with our imagination, 
+and enjoy them through the content of those who have. </p>
+
+<p>Then the young green. This is the most apt and perfect mark of
+the season,—the true issuing forth of the Spring. The trees and
+bushes are putting forth their crisp fans; the lilac is loaded with bud;
+the meadows are thick with the bright young grass, running into sweeps
+of white and gold with the daisies and buttercups. The orchards announce
+their riches, in a shower of silver blossoms. The earth in fertile
+woods is spread with yellow and blue carpets of primroses, violets,
+and hyacinths, over which the birch-trees, like stooping nymphs, hang
+with their thickening hair. Lilies of the valley, stocks, columbines,
+lady-smocks, and the intensely red piony which seems to anticipate
+the full glow of summer-time, all come out to wait upon the season,
+like fairies from their subterraneous palaces. </p>
+
+<p>Who is to wonder that the idea of love mingles itself with that of 
+this cheerful and kind time of the year, setting aside even common 
+
+<pb n="218" />
+
+associations? It is not only it's youth, and beauty, and budding life, 
+and <q type="soCalled">the passion of the groves,</q> that exclaim with the poet, 
+<cit>
+<quote><lg rend="center">
+<l>Let those love now, who never loved before; </l>
+<l>And those who always loved, now love the more. </l></lg><note type="hunt" place="foot">Pervigilium Veneris-<hi rend="italic">Parnell's translation</hi></note>
 </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Shakespeare">Shakespeare</persName></surname>
-                                    </author>
-                        ,
-        <title>The Winter's Tale</title>, <biblScope>Act IV scene iv, ll.
-                        2-3</biblScope>. </bibl>
-                            </note>
-                        </cit>
-<pb
-                            n="219" /> There is a line in one of his sonnets, which, agreeably to
-                        the image he had in his mind, seems to strike up in one's face, hot and
-                        odorous, like perfume in a censer. <cit>
-                            <quote>
-                                <l>In process of the seasons have I seen </l>
-                                <l>Three April perfumes in three hot <persName key="Junes">Junes</persName> burned. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Shakespeare">Shakespeare</persName></surname>
-                                    </author>
-                        ,
-        <title>Sonnet CIV</title>. </bibl>
-                            </note>
-                        </cit>
-                        His allusions ta spring are numerous in proportion. We all know the song,
-                        containing that fine line, fresh from the most brilliant of pallets:— <cit>
-                            <quote>
-                                <l>When daisies pied, and violets blue, </l>
-                                <l><persName key="And">And</persName> lady-smocks all silver white, </l>
-                                <l><persName key="And">And</persName> cuckoo-birds of yellow hue, </l>
-                                <l rend="italic">Do paint the meadows with delight. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Shakespeare">Shakespeare</persName></surname>
-                                    </author>
-                        ,
-        <title><persName key="Love">Love</persName>'s Labour's Lost</title>, <biblScope>Act V scene ii,
-                        ll. 881-84</biblScope>. </bibl>
-                            </note>
-                        </cit>
-                    </p>
-                    <p>We owe a long debt of gratitude to the daisy; and we take this opportunity of
-                        discharging a millionth part of it. If we undertook to pay it all, we should
-                        have had to write such a book, as is never very likely to be written,—a
-                        journal of numberless happy hours in childhood, kept with the feelings of an
-                        infant and the pen of a man. For it would take, we suspect, a depth of
-                        delight and a subtlety of words, to express even the vague joy of infancy,
-                        such as our learned departures from natural wisdom would find it more
-                        difficult to put together, than criticism and comfort, or an old palate and
-                        a young relish.—But knowledge is the widening and the brightening road that
-                        must conduct us back to the joys from which it led us; and which it is
-                        destined perhaps to secure and extend. We must not quarrel with <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> asperities, when we can
-                        help. </p>
-                    <p>We do not know the Greek name of the daisy, nor do the dictionaries inform
-                        us; and we are not at present in the way of consulting books that might. We
-                        always like to see what the Greeks say to these things, because they had a
-                        sentiment in their enjoyments. The Latins called it <placeName key='Bellis'>Bellis</placeName> or <placeName key='Bellus'>Bellus</placeName>, as
-                        much as to say, Nice One, With the French and Italians it has the same name
-                        as a Pearl,—<persName key="Marguerite">Marguerite</persName>, <persName key="Margarita">Margarita</persName>, or generally, by way of endearment,
-                        <persName key="Margheretina">Margheretina</persName>.<note type="hunt">This word is originally Greek,—Margarites;
-                        and as the Franks probably brought it from <placeName key='Constantinople'>Constantinople</placeName>, perhaps they
-                        brought <choice>
-                                <corr>its</corr>
-                                <sic>it's</sic>
-                            </choice> association
-                        with the daisy also. </note> The same word was the name of a woman, and
-                        occasioned infinite intermixtures of compliment about pearls, daisies, and
-                        fair mistresses. <persName key="Chaucer">Chaucer</persName>, <choice>
-                            <corr>in</corr>
-                            <sic>is</sic>
-                        </choice> his beautiful poem of the
-                        Flower and the Leaf, which is evidently imitated from some French poetess,
-                        says, <cit>
-                            <quote>
-                                <l><persName key="And">And</persName> at the laste there began anon </l>
-                                <l>A lady for to sing right womanly </l>
-                                <l>A bargaret<note type="hunt"><placeName key='Bargaret'>Bargaret</placeName>, <placeName key='Bergerette'>Bergerette</placeName>, a little
-                        pastoral.</note> in praising the daisie, </l>
-                                <l>For as me thought among her notes sweet. </l>
-                                <l>She said <q>Si douset est la Margarete.</q>
-                                </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>Geoffrey</forename>
-                                        <surname><persName key="Chaucer">Chaucer</persName></surname>
-                                    </author>
-                        ,
-        <title>The Flower and the Leaf</title>. </bibl>
-                            </note>
-                        </cit>
-<q>The
-                        Margaret is so sweet.</q> Our Margaret however, in this allegorical poem, is
-                        undervalued in comparison with the laurel; yet <persName key="Chaucer">Chaucer</persName> perhaps was partly
-                        induced to translate it on account of <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> making the figure that
-                        it does; for he has informed us more than once, in a <pb n="220" /> very
-                        particular manner, that it was his favourite flower. There is a very
-                        interesting passage to this effect in his Legend of Good Women; where he
-                        says, that nothing but the daisied fields in spring could take him from his
-                        books. <cit>
-                            <quote>
-                                <l><persName key="And">And</persName> as for me, though that I can but lite<note type="hunt"><persName key="Know">Know</persName>
-                        but little.</note>
-                                </l>
-                                <l>On bookes for to read I me delight, </l>
-                                <l><persName key="And">And</persName> to hem give I faith and full credence, </l>
-                                <l><persName key="And">And</persName> in my heart have hem in reverence, </l>
-                                <l>So heartily, that there is game none, </l>
-                                <l>That from my bookes maketh me to gone, </l>
-                                <l>But it be seldom, on the holy day; </l>
-                                <l>Save certainly, when that the month of <persName key="May">May</persName> </l>
-                                <l>Is comen, and that I hear the foules sing, </l>
-                                <l><persName key="And">And</persName> that the flowers ginnen for to spring, </l>
-                                <l>Farewell my booke, and my devotion. </l>
-                                <l>Now have i then eke this condition, </l>
-                                <l>That, of all the flowers in the mead, </l>
-                                <l>Then love I most those flowers white and red, </l>
-                                <l>Such that men callen daisies in our town. </l>
-                                <l>To hem I have so great affection, </l>
-                                <l><persName key="As I">As I</persName> said erst, when comen is the <persName key="May">May</persName>, </l>
-                                <l>That in the bed there daweth<note type="hunt"><persName key="Dawneth">Dawneth</persName>.</note> me
-                        no day, </l>
-                                <l>That I nam up and walking in the mead, </l>
-                                <l>To seen this flower agenst the sunne spread </l>
-                                <l>When it upriseth early by the morrow, </l>
-                                <l>That blissful sight softeneth all my sorrow. </l>
-                                <l>So glad am I, when that I have presence </l>
-                                <l>Of it, to done it all reverence, </l>
-                                <l>As she that is of all flowers the flower. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Chaucer">Chaucer</persName></surname>
-                                    </author>
-                        ,
-        <title>The Legend of Good Women</title>. </bibl>
-                            </note>
-                        </cit>
-                        He says that he finds it ever new, and that he shall love it till his <q>heart
-                        dies:</q> and afterwards, with a natural picture of his resting on the
-                        grass, <cit>
-                            <quote>
-                                <l><placeName key='Adown'>Adown</placeName> full softely I gan to sink, </l>
-                                <l><persName key="And">And</persName> leaning on my elbow and my side, </l>
-                                <l>The long day I shope<note type="hunt"><persName key="Shaped">Shaped</persName>.</note> me for to
-                        abide </l>
-                                <l>For nothing else, and I shall not lie, </l>
-                                <l>But for to look upon the daisie, </l>
-                                <l>That well by reason men it call may </l>
-                                <l>The daisie, or else the eye of day. </l>
-                            </quote>
-                            <note>
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Chaucer">Chaucer</persName></surname>
-                                    </author>
-                        ,
-        <title>The Legend of Good Women</title>. </bibl>
-                            </note>
-                        </cit>
-                        This etymology, which we have no doubt is the real one, is repeated by Ben
-                        Jonson, who takes occasion to spell the word days-eyes; adding, with his
-                        usual tendency to overdo a matter of learning, <cit>
-                            <quote>
-                                <l>Days-eyes, and the lippes of cows; </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>Ben</forename>
-                                        <surname>Jonson</surname>
-                                    </author>
-                        ,
-        <title>Pan's Anniversary, or the <persName key="Shepherd">Shepherd</persName>'s Holiday</title>, <biblScope>l.
-                        12</biblScope>
-                                </bibl>. </note>
-                        </cit>
-                        videlicet, cowslips: which is a disentanglement of compounds, in the style
-                        of our pleasant parodists: <lg>
-                            <l>——<persName key="Puddings">Puddings</persName> of the plum, </l>
-                            <l><persName key="And">And</persName> fingers of the lady. </l>
-                        </lg> Mr.
-                        <persName key="Wordsworth">Wordsworth</persName> introduces his homage to the daisy with a passage from George
-                        Wither; which as it is an old favourite of ours, and extremely applicable
-                        both to this article and our whole work, we cannot deny ourselves the
-                        pleasure of repeating. It is the more interesting, <pb n="221" /> inasmuch
-                        as it was written in prison, where the freedom of his opinions had thrown
-                        him.<note type="hunt">It is not generally known, that <persName key="Chaucer">Chaucer</persName> was four years
-                        in prison, in his old
-                            age, on the same account. He was Wickliffite,—one of the precursors of
-                        the Reformation.
-                            His prison, doubtless, was no diminisher of his love the daisy.
+<note type="source">
+<bibl>
+<author>Anon.</author>, <title>Pervigilium Veneris</title><editor>Thomas Parnell</editor>
+</bibl>
 </note>
-                        He is speaking of his Muse, or Imagination. <cit>
-                            <quote>
-                                <l>Her divine skill taught me this; </l>
-                                <l>That from every thing I saw </l>
-                                <l>I could some instruction draw, </l>
-                                <l><persName key="And">And</persName> raise pleasure to the height </l>
-                                <l>From the meanest object's sight. </l>
-                                <l>By the murmur of a spring, </l>
-                                <l>Or the least bough's rustelling; </l>
-                                <l>By a daisy, whose leaves spread </l>
-                                <l>Shut, when <placeName key='Titan'>Titan</placeName> goes to bed; </l>
-                                <l>Or a shady bush or tree; </l>
-                                <l>She could more infuse in me, </l>
-                                <l>Than all Nature's beauties can </l>
-                                <l>In some other wiser man. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>George</forename>
-                                        <surname>Wither</surname>
-                                    </author>
-                        ,
-        <title>The <persName key="Shepherd">Shepherd</persName>'s Hunting</title>, from the <biblScope>Prelude</biblScope>
-                                </bibl>
-                        .
-</note>
-                        </cit> Mr. <persName key="Wordsworth">Wordsworth</persName> undertakes to
-                        patronize the Celandine, because nobody else will notice it: which is a good
-                        reason. But though he tells us, in a startling piece of information, that <cit>
-                            <quote>
-                                Poets, vain men in their mood I
-                                Travel with the multitude,
+</cit>
+All our kindly impulses are apt to have more sentiment in them, than 
+the world suspect; and it is by fetching out this sentiment, and making 
+it the ruling association, that we exalt the impulse into generosity 
+and refinement, instead of degrading it, as is too much the case, into what 
+is selfish, and coarse, and pollutes all <choice><corr>its</corr><sic>it's</sic></choice> systems. One of the
+greatest inspirers of love is gratitude,—not merely on <choice><corr>its</corr><sic>it's</sic></choice> common 
+grounds, but gratitude for pleasures, whether consciously or unconsciously, 
+conferred. Thus we are thankful for the delight given us by 
+a kind and sincere face; and if we fall in love with it, one great reason 
+is, that we long to return what we have received. The same feeling 
+has a considerable influence in the love that has been felt for men of 
+talents, whose persons or address have not been much calculated to 
+inspire it. In spring-time, joy awakens the heart: with joy, awakes 
+gratitude and nature; and in our gratitude, we
+return, on <choice><corr>its</corr><sic>it's</sic></choice> own 
+principle of participation, the love that has been shewn us. </p>
+
+<p>This association of ideas renders solitude in spring, and solitude in 
+winter, two very different things. In the latter, we are better content 
+to bear the feelings of the season by ourselves:—in the former 
+they are so sweet as well as so overflowing, that we long to share them. 
+<persName key="William Shakespeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName>, in one of his sonnets, describes himself as so identifying 
+the beauties of the spring with the thought of his absent mistress, that 
+he says he forgot them in their own character, and played with them 
+only as with her shadow. See how exquisitely he turns a commonplace 
+into this fancy; and what a noble brief portrait of April he gives 
+us at the beginning. There is indeed a wonderful mixture of softness 
+and strength in almost every one of the lines. 
+<cit>
+<quote>
+<lg rend="center">
+<l>From you have I been absent in the spring. </l>
+<l>When proud-pied April, dressed in all his trim, </l>
+<l>Hath put a spirit of youth in every thing; </l>
+<l>That heavy <persName key="Saturn">Saturn</persName> laughed and leaped with him. </l>
+<l>Yet nor the lays of birds, nor the sweet smell </l>
+<l>Of different flowers in odour and in hue. </l>
+<l>Could make me any summer's story tell. </l>
+<l>Or from their proud lap pluck them where they grew: </l>
+<l>Nor did I wonder at the lilies white. </l>
+<l>Nor praise the deep vermilion in the rose; </l>
+<l>They were but sweet, but<note type="hunt" place="foot"><hi rend="italic">But sweet, but</hi>.—Quaere:—<hi rend="italic">But sweet-cut?</hi></note> patterns of delight, </l>
+<l>Drawn after you, you pattern of all those. </l>
+<l>Yet seemed it winter still; and, you away, </l>
+<l>As with your shadow, I with these did play. </l>
+</lg>
 </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>William</forename>
-                                        <surname><persName key="Wordsworth">Wordsworth</persName></surname>
-                                    </author>
-                        ,
-        <title>To the Small Celandine</title>, <biblScope>ll. 33-34</biblScope>
-                                </bibl>
-                        .
+<note type="source">
+<bibl>
+<author>William Shakespeare
+</author>
+<title level="a">Sonnet XCVIII</title>. </bibl>
 </note>
-                        </cit> yet he falls in with his old
-                        brethren of England and Normandy, and becomes loyal to the daisy. <cit>
-                            <quote>
-                                <lg type="stanza">
-                                    <l>Be violets in their secret mews </l>
-                                    <l>The flowers the wanton <placeName key='Zephyrs'>Zephyrs</placeName> chuse; </l>
-                                    <l><placeName key='Proud'>Proud</placeName> be the rose, with rains and dews </l>
-                                    <l rend="indent">Her head impearling; </l>
-                                    <l>Thou liv'st with less ambitious aim, </l>
-                                    <l>Yet hast not gone without thy fame; </l>
-                                    <l>Thou art indeed, by many a claim, </l>
-                                    <l rend="indent">The poet's darling. </l>
-                                </lg>
-                                <ellipsis>
-                                    <metamark function="multilineEllipsis"> * * * * * * * * </metamark>
-                                </ellipsis>
-                                <lg type="stanza">
-                                    <l>A nun demure, of lowly port; </l>
-                                    <l>Or sprightly maiden of <persName key="Love">Love</persName>'s court, </l>
-                                    <l>In thy simplicity the sport </l>
-                                    <l rend="indent">Of all temptations; </l>
-                                    <l>A queen in crown of rubies drest; </l>
-                                    <l>A starveling in a scanty vest; </l>
-                                    <l>Are all, as seem to suit thee best, </l>
-                                    <l rend="indent">Thy appellations. </l>
-                                </lg>
-                                <lg type="stanza">
-                                    <l>A little <persName key="Cyclops">Cyclops</persName>, with one eye </l>
-                                    <l><persName key="Staring">Staring</persName> to threaten or defy, </l>
-                                    <l>That thought comes next, and instantly </l>
-                                    <l rend="indent">The freak is over; </l>
-                                    <l>The freak will vanish, and behold! </l>
-                                    <l>A silver shield with boss of gold, </l>
-                                    <l>That spreads itself, some fairy bold </l>
-                                    <l rend="indent">In fight to cover. </l>
-                                </lg>
-                                <lg type="stanza">
-                                    <l>I see thee glittering from afar; </l>
-                                    <l><persName key="And">And</persName> then thou art a pretty star, </l>
-                                    <l>Not quite so fair as many are </l>
-                                    <l rend="indent">In heaven above thee! </l>
-                                    <pb n="222" />
-                                    <l>Yet like a star, with glittering crest, </l>
-                                    <l>Self-poised in air, thou seem'st to rest;— </l>
-                                    <l><persName key="May">May</persName> peace come never to his nest. </l>
-                                    <l rend="indent">Who shall reprove thee. </l>
-                                </lg>
-                                <lg type="stanza">
-                                    <l>Sweet flower! for by that name at last, </l>
-                                    <l>When all my reveries are past, </l>
-                                    <l>I call thee, and to that cleave fast; </l>
-                                    <l rend="indent">Sweet silent creature; </l>
-                                    <l>That breath'st with me in sun and air, </l>
-                                    <l>Do thou, as thou art wont, repair </l>
-                                    <l>My heart with gladness, and a share </l>
-                                    <l rend="indent">Of thy meek nature. </l>
-                                </lg>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <surname><persName key="Wordsworth">Wordsworth</persName></surname>
-                                    </author>,
-                        taken from <title>To the <persName key="Daisy">Daisy</persName> ("In youth from rock to rock I went")</title>
-                        ,
-        <biblScope>ll. 25-32</biblScope>, and <title>To the <persName key="Daisy">Daisy</persName> ("With
-                        little here to do or see")</title>, <biblScope>ll. 17-36</biblScope>
-                                </bibl>
-                        .
+</cit>
+<persName key="William Shakespeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> was fond of alluding to April. He did not allow May to 
+have all his regard, because she was richer. <persName type="fictional" key="Perdita">Perdita</persName>, crowned with 
+flowers, in <title level="m">the Winter's Tale</title>, is beautifully compared to 
+
+<cit><quote>
+<lg xml:lang="en" rend="center">
+<l><hi rend="indent">Flora,</hi></l>
+<l>Peering in April's front.</l>
+</lg>
+</quote>
+<note type="source">
+<bibl>
+<author>William Shakespeare</author>
+<title level="m">The Winter's Tale</title>, Act IV scene iv, ll. 2-3. </bibl>
 </note>
-                        </cit></p>
-                    <p>Mr. <persName key="Wordsworth">Wordsworth</persName> calls the daisy <q>an unassuming common-place of
-                            Nature,</q> which it is; and he praises it very becomingly for
-                        discharging <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> duties so chearfully,
-                        in that universal character. But we cannot agree with him in thinking that
-                        it has a <q>homely face.</q> Not that we should care, if it really had; for
-                        homeliness does not make ugliness; but we appeal to every body, whether it
-                        is proper to say this of la belle <persName key="Marguerite">Marguerite</persName>. In the first place, <choice>
-                            <corr>its</corr>
-                            <sic>it's</sic>
-                        </choice> shape is very pretty
-                        and slender, but not too much so. Then it has a boss of gold, set round and
-                        irradiated with silver points. <choice>
-                            <corr>Its</corr>
-                            <sic>It's</sic>
-                        </choice> yellow and fair white
-                        are in so high a taste of contrast, that Spenser has chosen the same colours
-                        for a picture of Leda reposing:— <cit>
-                            <quote>
-                                <l>Oh wondrous skill and sweet wit of the man! </l>
-                                <l>That her in daffodillies sleeping laid, </l>
-                                <l>From scorching heat her dainty limbs to shade. </l>
-                            </quote>
-                            <note type="source">
-                                <bibl>
-                                    <author>
-                                        <forename>Edmund</forename>
-                                        <surname>Spenser</surname>
-                                    </author>
-                        ,
-            <title>The Faerie Queene</title>, <biblScope>Book III, Canto
-                        XI</biblScope>. </bibl>
-                            </note>
-                        </cit></p>
-                    <p>It is for the same reason, that the daisy, being chiefly white, makes
-                        such a beautiful shew in company with the butter cup. But this is
-                        not all; for look at the back, and you find it's fair petals blushing
-                        with a most delightful red. <persName key="And">And</persName> how compactly and delicately is the
-                        neck set in green! Belle et douce <persName key="Marguerite">Marguerite</persName>, aimable soeur du roi
-                        Kingcup, we would tilt for thee with a hundred pens, against the
-                        stoutest poet that did not find perfection in thy cheek. </p>
-                    <p>But here somebody may remind us of the spring showers, and what drawbacks
-                        they are upon going into the fields.—Not at all so, when the spring is
-                        really confirmed, and the showers but April-like and at intervals. Let us
-                        turn our imaginations to the bright side of spring, and we shall forget the
-                        showers. You see they have been forgotten just this moment. <placeName key='Besides'>Besides</placeName>, we are
-                        not likely to stray too far into the fields; and if we should, are there not
-                        hats, bonnets, barns, <placeName key='cottages'>cottages</placeName>, <placeName key='elm-trees'>elm-trees</placeName>, and good wills? We may make these
-                        things zests, if we please, instead of drawbacks. There is a pleasant,
-                        off-hand, picturesque little poem, full of sprightly simplicity, written by
-                        <persName key="Franco <persName key="Sacchetti">Sacchetti</persName>">Franco <persName key="Sacchetti">Sacchetti</persName></persName>, the earliest follower of <persName key="Boccaccio">Boccaccio</persName>; which will shew us,
-                        that the Italians are not prevented from gathering flowers by the fear of
-                        rain, nor even of snakes. <persName key="Eccolo">Eccolo</persName>.<note type="hunt"> With respect to giving
-                        the originals of what we translate, we are guided by this principle:—if they
-                        are easily referred to, we shall always content ourselves with short
-                        extracts, unless hurried away by the enthusiasm of the moment, or for some
-                        other special reason; if they are not so readily to be found, it will add a
-                        value to our little work to lay them before the reader. A volume of the
-                        Indicator will thus contain some of the best morsels of literature. In the
-                        <placeName key='Parnaso Italiano'>Parnaso Italiano</placeName>, it is doubted whether the present poem is to be assigned
-                        to <persName key="Franco <persName key="Sacchetti">Sacchetti</persName>">Franco <persName key="Sacchetti">Sacchetti</persName></persName>, or to <persName key="Ugolin Ubaldini">Ugolin Ubaldini</persName>, who according to the editor is
-                        the same as the Ubaldin de la Pila mentioned among the gluttons in the 24th
-                        Book of Dante's Purgatory. If so, he was not so likely to forget himself
-                        among the fields, as <persName key="Sacchetti">Sacchetti</persName>; but whether he be the same person or not,
-                        the poem answers so well to the latter's character, that it was most
-                        probably his production. He is another instance, to be added to some of the
-                        most illustrious names, of the triumph of a genial imagination, and a rich
-                        indifference to riches, over a life of business, politics, and even honours.
-                        <persName key="Franco <persName key="Sacchetti">Sacchetti</persName>">Franco <persName key="Sacchetti">Sacchetti</persName></persName>, a Florentine, says Mr. <cit>
-                                <bibl><surname>Dunlop</surname>, (<title>History of Fiction</title>, <biblScope>Vol.
-                        2. p. 305</biblScope>)</bibl>
-                                <q>was
-                                    born in 1335, and died about the year 1410. He was a poet in his
-                        youth, and travelled
-                                    to <placeName key='Sclavonia'>Sclavonia</placeName> and other countries, to attend to some mercantile
-                        concerns. As
-                                    he advanced in years, he was raised to a distinguished rank in
-                        the <placeName key='Magistracy'>Magistracy</placeName> of
-                                    <placeName key='Florence'>Florence</placeName>; he became podesta of <placeName key='Faenza'>Faenza</placeName> and other places, and at
-                        length governor of
-                                    a Florentine province in the <placeName key='Romagna'>Romagna</placeName>. Notwithstanding his
-                        honours he lived and
-                                    died poor, but is said to have been a good-humoured facetious
-                        man. He left an
-                                    immense collection of sonnets and canzone, some of which have
-                        been lost, and
-                                    others are still in M.S.</q>
-                            </cit> —
-                        We should be exceedingly gratified by the sight of any of his poems that may
-                        happen to be in print. </note></p>
-                    <pb n="223" />
-                    <cit>
-                        <quote>
-                            <title rend="center capitalise">Gathering Flowers.</title>
-                            <lg xml:lang="it">
-                                <l>Passando con pensier per un boschetto, </l>
-                                <l><placeName key='Donne'>Donne</placeName> per quello givan fior cogliendo, </l>
-                                <l>Con diletto, co' quel, co' quel dicendo, </l>
-                                <l><persName key="Eccolo">Eccolo</persName>, eccol; che? è fiordaliso. </l>
-                                <l>Va là per le viole; </l>
-                                <l>Più colà per le rose, cole, cole </l>
-                                <l>Vaghe amorose. </l>
-                                <l>O me, che'l prun mi punge, </l>
-                                <l>Quell' altra, me v'aggiunge. </l>
-                                <l>U', u, o, ch'è quel che salta? </l>
-                                <l>Un grillo, un grillo. </l>
-                                <l>Venite qua, correte, </l>
-                                <l><persName key="Ramponzoli">Ramponzoli</persName> cogliete: </l>
-                                <l>E' non son' essi. </l>
-                                <l>Sì, son: colei o colei </l>
-                                <l><placeName key='Vien'>Vien</placeName> qua, vien qua per funghi, un micolino, </l>
-                                <l>Più colà, piu colà, per sermollino. </l>
-                                <l>Noi starem troppo, che'l tempo si turba; </l>
-                                <l>Ve' che balena e tuona, </l>
-                                <l>E m'indovino die vespero suona. </l>
-                                <l>Paurosa! non è egli ancor nona; </l>
-                                <l>E vedi ed odi l'usignuol che canta, </l>
-                                <l>Piu bel ve', piu bel ve'. </l>
-                                <l>Io sento e non so che; </l>
-                                <l>E dov' è, e dov' è? </l>
-                                <l>In quel cespuglio. </l>
-                                <l>Ognuna qui picchia, tocca, e ritocca: </l>
-                                <l>Mentre lo busso cresce, </l>
-                                <l>Una gran serpe n' esce. </l>
-                                <l>O me trista! o me lassa! o me! o me! </l>
-                                <l><placeName key='Gridan'>Gridan</placeName> fuggendo di paura piene, </l>
-                                <l>Ed ecco che una folta pioggia viene. </l>
-                                <l><persName key="Timidetta">Timidetta</persName> quell' una e l'altra urtando, </l>
-                                <l><placeName key='Stridendo'>Stridendo</placeName>, la divanza, via fuggendo, </l>
-                                <l>E gridando, qual sdrucciola, qual cade. </l>
-                                <l>Per caso l'una appone lo ginecchio </l>
-                                <l>Là ve seggea lo frettoloso piede, </l>
-                                <l>E la mano e le veste: </l>
-                                <l>Quella di fango lorda ne diviene, </l>
-                                <l><placeName key='Quelladi'>Quelladi</placeName> di piu calpeste: </l>
-                                <pb n="224" />
-                                <l>Cio ch' an colto ir si lassa, </l>
-                                <l>Ne pui s' apprtfzza, e per bosco si spande. </l>
-                                <l>De' fiori a terra vanno le ghirlande, </l>
-                                <l>Nè si sdimette pure unquanto il corso. </l>
-                                <l>In cotal fuga a repetute note </l>
-                                <l>Tiensi beata, chi piu correr puote. </l>
-                                <l rend="indent">Sì fiso stetti il dì io To le mirai, </l>
-                                <l>Ch' io non m' avvidi, e tutto mi bagnai. </l>
-                            </lg>
-                        </quote>
-                        <note type="source">
-                            <bibl>
-                                <author>
-                                    <forename>Franco</forename>
-                                    <surname><persName key="Sacchetti">Sacchetti</persName></surname>
-                                </author>
-                            ,
-                    <title>Passando con pensier per un boschetto</title>
-                            </bibl>
-                            .
-            </note>
-                    </cit>
-                    <lg type="translation-hunt" xml:id="eng">
-                        <l><placeName key='Walking'>Walking</placeName> and musing in a wood, I saw </l>
-                        <l>Some ladies gathering flowers, now this, now t'other, </l>
-                        <l><persName key="And">And</persName> crying in delight to one another, </l>
-                        <l>"Look here, look here: what's this? a fleur-de-lis. </l>
-                        <l>Oh—get some violets there: </l>
-                        <l>No, no, some roses farther onward there: </l>
-                        <l>How beautiful they are! </l>
-                        <l>O me! these thorns do prick so—only see:—</l>
-                        <l>Not that; the other; reach it me. </l>
-                        <l><persName key="Hallo">Hallo</persName>, hallo! What is it leaping so? </l>
-                        <l>A grasshopper, a grasshopper.</l>
-                        <l>Come here, come here now, quickly,</l>
-                        <l>The rampions grew so thickly; </l>
-                        <l>No; they're not rampions. </l>
-                        <l>Yes, they are:—Anna, <persName key="Beatrice">Beatrice</persName>, or Lisa, </l>
-                        <l>Come here, come here for mushrooms just a bit </l>
-                        <l>There, there's the betony—you're treading it. </l>
-                        <l>We shall be caught, the weather's going to change: </l>
-                        <l>See, see; it lightens—hush—and there's the thunder. </l>
-                        <l>Was that the bell for vespers too, I wonder? </l>
-                        <l>Why, you faint-hearted thing, it isn't noon: </l>
-                        <l>It was the nightingale—I know his tune— </l>
-                        <l>There's something stirring there! </l>
-                        <l>Where, where? </l>
-                        <l>There, in the bushes." </l>
-                        <l>Here every lady pokes, and peeps, and pushes; </l>
-                        <l>When suddenly, in middle of the rout, </l>
-                        <l>A great large snake comes out. </l>
-                        <l>"O lord ! O lord! Good heavens! O me! O me!" </l>
-                        <l><persName key="And">And</persName> off they go, scampering with all their power, </l>
-                        <l>While from above, down comes a pelting shower. </l>
-                        <l rend="indent">Frightened, and scrambling, jolting one another, </l>
-                        <l>They shriek, they run, they slide: the foot of one </l>
-                        <l><persName key="Catches">Catches</persName> her gown, and where the foot should be </l>
-                        <l>Down goes the knee, </l>
-                        <l><persName key="And">And</persName> hands, and clothes, and all; some stumble on, </l>
-                        <l><persName key="Brushing">Brushing</persName> the hard earth off, and some the mud. </l>
-                        <l>What they plucked, so glad and heaping, </l>
-                        <l>Now becomes not worth their keeping. </l>
-                        <l>Off it squirrs, leaf, root, and flower; </l>
-                        <l>Yet not the less for that they scream and scower, </l>
-                        <l>In such a passage, happiest she </l>
-                        <l>Who plies her notes most rapidly. </l>
-                        <l rend="indent">So fixed I stood, gazing at that fair set, </l>
-                        <l>That I forgot the shower, and dripped with wet. </l>
-                    </lg>
-                </div2>
-                <div2 type="colophon"> <!-- Publisher and printer information -->
-                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
-                        <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>.</p>
-                    <p>Printed by <persName type="real" key="<persName key="Joseph Appleyard">Joseph Appleyard</persName>"><persName key="Joseph Appleyard">Joseph Appleyard</persName></persName>, No. 19, Catherine-street, Strand.——Price 2d.</p>
-                </div2>
-            </div1>
-        </body>
-    </text>
+</cit>
+
+<pb n="219" /> 
+
+There is a line in one of his sonnets, which, agreeably to the image he 
+had in his mind, seems to strike up in one's face, hot and odorous, like 
+perfume in a censer. 
+<cit><quote>
+<lg rend="center">
+<l>In process of the seasons have I seen </l>
+<l>Three April perfumes in three hot Junes burned. </l>
+</lg>
+</quote>
+<note type="source">
+<bibl>
+<author>William Shakespeare</author>
+<title level="a">Sonnet CIV</title>. </bibl>
+</note>
+</cit>
+His allusions ta spring are numerous in proportion. We all know 
+the song, containing that fine line, fresh from the most brilliant of 
+pallets:— 
+
+<cit><quote>
+<lg rend="center">
+<l>When daisies pied, and violets blue, </l>
+<l>And lady-smocks all silver white, </l>
+<l>And cuckoo-birds of yellow hue, </l>
+<l rend="italic">Do paint the meadows with delight. </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>William Shakespeare</author>
+<title level="m">Love's Labour's Lost</title>, Act V scene ii, ll. 881-84. </bibl>
+</note>
+</cit>
+</p>
+
+<p>We owe a long debt of gratitude to the daisy; and we take this 
+opportunity of discharging a millionth part of it. If we undertook to 
+pay it all, we should have had to write such a book, as is never very 
+likely to be written,—a journal of numberless happy hours in childhood, 
+kept with the feelings of an infant and the pen of a man. For 
+it would take, we suspect, a depth of delight and a subtlety of words, 
+to express even the vague joy of infancy, such as our learned departures 
+from natural wisdom would find it more difficult to put together, 
+than criticism and comfort, or an old palate and a young relish.—
+But knowledge is the widening and the brightening road that must 
+conduct us back to the joys from which it led us; and which it is destined 
+perhaps to secure and extend. We must not quarrel with <choice><corr>its</corr><sic>it's</sic></choice> 
+asperities, when we can help. </p>
+
+<p>We do not know the Greek name of the daisy, nor do the dictionaries 
+inform us; and we are not at present in the way of consulting 
+books that might. We always like to see what the Greeks say to 
+these things, because they had a sentiment in their enjoyments. The 
+Latins called it Bellis or Bellus, as much as to say, Nice One, With 
+the French and Italians it has the same name as a Pearl,—Marguerite, 
+Margarita, or generally, by way of endearment, Margheretina.<note type="hunt">This word is originally Greek,—Margarites; and as the Franks probably 
+brought it from <placeName key="Istanbul" corresp="Turkey">Constantinople</placeName>, perhaps they brought <choice><corr>its</corr><sic>it's</sic></choice> association with the daisy 
+also. </note> The 
+same word was the name of a woman, and occasioned infinite intermixtures 
+of compliment about pearls, daisies, and fair mistresses. 
+<persName key="Chaucer">Chaucer</persName>, <choice><corr>in</corr><sic>is</sic></choice> his beautiful poem of the Flower and the Leaf, which is 
+evidently imitated from some French poetess, says, 
+
+<cit><quote><lg rend="center">
+<l>And at the laste there began anon </l>
+<l>A lady for to sing right womanly </l>
+<l>A bargaret<note type="hunt">Bargaret, Bergerette, a little pastoral.</note> in praising the daisie, </l>
+<l>For as me thought among her notes sweet. </l>
+<l>She said <q type="foreign">Si douset est la Margarete.</q></l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>Geoffrey Chaucer</author>
+<title level="a">The Flower and the Leaf</title>. </bibl>
+</note>
+</cit>
+</p>
+
+<p><q type="spoken">The Margaret is so sweet.</q> Our Margaret however, in this allegorical 
+poem, is undervalued in comparison with the laurel; yet <persName key="Chaucer">Chaucer</persName> 
+perhaps was partly induced to translate it on account of <choice><corr>its</corr><sic>it's</sic></choice> making 
+the figure that it does; for he has informed us more than once, in a 
+
+<pb n="220" /> 
+
+very particular manner, that it was his favourite flower. There is a 
+very interesting passage to this effect in his <title key="The Legend of Good Women" level="m">Legend of Good Women</title>; 
+where he says, that nothing but the daisied fields in spring could take 
+him from his books. 
+<cit><quote>
+<lg rend="center">
+<l>And as for me, though that I can but lite<note type="hunt" place="foot">Know but little.</note></l>
+<l>On bookes for to read I me delight, </l>
+<l>And to hem give I faith and full credence, </l>
+<l>And in my heart have hem in reverence, </l>
+<l>So heartily, that there is game none, </l>
+<l>That from my bookes maketh me to gone, </l>
+<l>But it be seldom, on the holy day; </l>
+<l>Save certainly, when that the month of May </l>
+<l>Is comen, and that I hear the foules sing, </l>
+<l>And that the flowers ginnen for to spring, </l>
+<l>Farewell my booke, and my devotion. </l>
+<l>Now have i then eke this condition, </l>
+<l>That, of all the flowers in the mead, </l>
+<l>Then love I most those flowers white and red, </l>
+<l>Such that men callen daisies in our town. </l>
+<l>To hem I have so great affection, </l>
+<l>As I said erst, when comen is the May, </l>
+<l>That in the bed there daweth<note type="hunt" place="foot">Dawneth.</note> me no day, </l>
+<l>That I nam up and walking in the mead, </l>
+<l>To seen this flower agenst the sunne spread, </l>
+<l>When it upriseth early by the morrow, </l>
+<l>That blissful sight softeneth all my sorrow. </l>
+<l>So glad am I, when that I have presence </l>
+<l>Of it, to done it all reverence, </l>
+<l>As she that is of all flowers the flower. </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>Geoffrey Chaucer
+</author>
+<title level="a">The Legend of Good Women</title>. </bibl>
+</note>
+</cit>
+
+He says that he finds it ever new, and that he shall love it till his 
+<q type="emph">heart dies:</q> and afterwards, with a natural picture of his resting on 
+the grass, 
+
+<cit><quote><lg rend="center">
+<l>Adown full softely I gan to sink, </l>
+<l>And leaning on my elbow and my side, </l>
+<l>The long day I shope<note type="hunt" place="foot"><persName key="Shaped">Shaped</persName>.</note> me for to abide </l>
+<l>For nothing else, and I shall not lie, </l>
+<l>But for to look upon the daisie, </l>
+<l>That well by reason men it call may </l>
+<l>The daisie, or else the eye of day. </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>Geoffrey Chaucer</author>
+<title level="a">The Legend of Good Women</title>. </bibl>
+</note>
+</cit>
+
+This etymology, which we have no doubt is the real one, is repeated 
+by <persName key="Ben Jonson">Ben Jonson</persName>, who takes occasion to spell the word days-eyes; 
+adding, with his usual tendency to overdo a matter of learning, 
+
+<cit><quote>
+<lg rend="center">
+<l>Days-eyes, and the lippes of cows; </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>Ben Jonson</author>
+<title level="m">Pan's Anniversary, or the <persName key="Shepherd">Shepherd</persName>'s Holiday</title>, l.12
+</bibl>. </note>
+</cit>
+
+videlicet, cowslips: which is a disentanglement of compounds, in the 
+style of our pleasant parodists: 
+
+<lg rend="center">
+<l>——Puddings of the plum, </l>
+<l>And fingers of the lady. </l>
+</lg><note type="source">Leigh Hunt</note>
+</p>
+
+<p><persName key="William Wordsworth">Mr. Wordsworth</persName> introduces his homage to the daisy with a passage 
+from <persName key="George Wither">George Wither</persName>; which as it is an old favourite of ours, and extremely 
+applicable both to this article and our whole work, we cannot 
+deny ourselves the pleasure of repeating. It is the more interesting, 
+
+<pb n="221" /> 
+
+inasmuch as it was written in prison, where the freedom of his opinions 
+had thrown him.<note type="hunt">It is not generally known, that <persName key="Chaucer">Chaucer</persName> was four years in prison, in his old
+age, on the same account. He was a Wickliffite,—one of the precursors of the 
+Reformation. His prison, doubtless, was no diminisher of his love the daisy.</note> He is speaking of his Muse, or Imagination. 
+
+<cit><quote>
+<lg real="center">
+<l>Her divine skill taught me this; </l>
+<l>That from every thing I saw </l>
+<l>I could some instruction draw, </l>
+<l>And raise pleasure to the height </l>
+<l>From the meanest object's sight. </l>
+<l>By the murmur of a spring, </l>
+<l>Or the least bough's rustelling; </l>
+<l>By a daisy, whose leaves spread </l>
+<l>Shut, when Titan goes to bed; </l>
+<l>Or a shady bush or tree; </l>
+<l>She could more infuse in me, </l>
+<l>Than all Nature's beauties can </l>
+<l>In some other wiser man. </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>George Wither</author>
+<title level="m">The Shepherd's Hunting</title>, from the Prelude
+</bibl>
+</note>
+</cit> 
+</p>
+
+<p><persName key="William Wordsworth">Mr. Wordsworth</persName> undertakes to patronize the Celandine, because nobody 
+else will notice it: which is a good reason. But though he tells 
+us, in a startling piece of information, that 
+
+<cit><quote>
+<lg rend="center">
+<l>Poets, vain men in their mood!</l>
+<l>Travel with the multitude,</l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>William Wordsworth</author>
+<title level="a">To the Small Celandine</title>, ll. 33-34
+</bibl>
+</note>
+</cit> 
+
+yet he falls in with his old brethren of England and Normandy, and 
+becomes loyal to the daisy. </p>
+
+<cit><quote>
+<lg rend="center">
+<lg xml:id="verse1">
+<l>Be violets in their secret mews </l>
+<l>The flowers the wanton Zephyrs chuse; </l>
+<l>Proud be the rose, with rains and dews </l>
+<l rend="indent">Her head impearling; </l>
+<l>Thou liv'st with less ambitious aim, </l>
+<l>Yet hast not gone without thy fame; </l>
+<l>Thou art indeed, by many a claim, </l>
+<l rend="indent">The poet's darling. </l>
+</lg>
+<ellipsis>
+<metamark function="multilineEllipsis"> * * * * * * * * </metamark>
+</ellipsis>
+<lg xml:id="verse2">
+<l>A nun demure, of lowly port; </l>
+<l>Or sprightly maiden of Love's court, </l>
+<l>In thy simplicity the sport </l>
+<l rend="indent">Of all temptations; </l>
+<l>A queen in crown of rubies drest; </l>
+<l>A starveling in a scanty vest; </l>
+<l>Are all, as seem to suit thee best, </l>
+<l rend="indent">Thy appellations. </l>
+</lg>
+<lg xml:id="verse3">
+<l>A little Cyclops, with one eye </l>
+<l>Staring to threaten or defy, </l>
+<l>That thought comes next, and instantly </l>
+<l rend="indent">The freak is over; </l>
+<l>The freak will vanish, and behold! </l>
+<l>A silver shield with boss of gold, </l>
+<l>That spreads itself, some fairy bold </l>
+<l rend="indent">In fight to cover. </l>
+</lg>
+<lg xml:id="verse4">
+<l>I see thee glittering from afar; </l>
+<l>And then thou art a pretty star, </l>
+<l>Not quite so fair as many are </l>
+<l rend="indent">In heaven above thee! </l>
+
+<pb n="222" />
+
+<l>Yet like a star, with glittering crest, </l>
+<l>Self-poised in air, thou seem'st to rest;— </l>
+<l>May peace come never to his nest, </l>
+<l rend="indent">Who shall reprove thee. </l>
+</lg>
+<lg xml:id="verse5">
+<l>Sweet flower! for by that name at last, </l>
+<l>When all my reveries are past, </l>
+<l>I call thee, and to that cleave fast; </l>
+<l rend="indent">Sweet silent creature; </l>
+<l>That breath'st with me in sun and air, </l>
+<l>Do thou, as thou art wont, repair </l>
+<l>My heart with gladness, and a share </l>
+<l rend="indent">Of thy meek nature. </l>
+</lg>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>William Wordsworth</author>
+taken from <title level="a">To the Daisy ("In youth from rock to rock I went")</title>, ll. 25-32, and <title level="a">To the Daisy ("With little here to do or see")</title>, ll. 17-36
+</bibl>
+</note>
+</cit>
+
+<p><persName key="William Wordsworth">Mr. Wordsworth</persName> calls the daisy <q type="written">an unassuming common-place of
+Nature,</q> which it is; and he praises it very becomingly for discharging 
+<choice><corr>its</corr><sic>it's</sic></choice> duties so chearfully, in that universal character. But we 
+cannot agree with him in thinking that it has a <q type="written">homely face.</q><note type="source"><bibl><author>William Wordsworth</author><title level="a">To The Same Flower (Second Poem)</title></bibl></note> Not 
+that we should care, if it really had; for homeliness does not make 
+ugliness; but we appeal to every body, whether it is proper to say 
+this of la belle Marquerite. In the first place, <choice><corr>its</corr><sic>it's</sic></choice> shape is very pretty
+and slender, but not too much so. Then it has a boss of gold, set 
+round and irradiated with silver points. <choice><corr>Its</corr><sic>It's</sic></choice> yellow and fair white are 
+in so high a taste of contrast, that <persName key="Edmund Spenser">Spenser</persName> has chosen the same colours
+for a picture of <persName type="fictional" key="Leda">Leda</persName> reposing:— 
+
+<cit><quote>
+<lg rend="center">
+<l>Oh wondrous skill and sweet wit of the man! </l>
+<l>That her in daffodillies sleeping laid, </l>
+<l>From scorching heat her dainty limbs to shade. </l>
+</lg></quote>
+<note type="source">
+<bibl>
+<author>Edmund Spenser</author>
+<title level="m">The Faerie Queene</title>, Book III, Canto XI. </bibl>
+</note>
+</cit>
+</p>
+
+<p>It is for the same reason, that the daisy, being chiefly white, makes
+such a beautiful shew in company with the butter cup. But this is
+not all; for look at the back, and you find it's fair petals blushing
+with a most delightful red. And how compactly and delicately is the
+neck set in green! Belle et douce Marquerite, aimable soeur du roi
+Kingcup, we would tilt for thee with a hundred pens, against the
+stoutest poet that did not find perfection in thy cheek. </p>
+
+<p>But here somebody may remind us of the spring showers, and what 
+drawbacks they are upon going into the fields.—Not at all so, when 
+the spring is really confirmed, and the showers but April-like and at 
+intervals. Let us turn our imaginations to the bright side of spring, 
+and we shall forget the showers. You see they have been forgotten 
+just this moment. Besides, we are not likely to stray too far into the 
+fields; and if we should, are there not hats, bonnets, barns, cottages, 
+elm-trees, and good wills? We may make these things zests, if we 
+please, instead of drawbacks. There is a pleasant, off-hand, picturesque 
+little poem, full of sprightly simplicity, written by <persName key="Franco Sacchetti">Franco 
+Sacchetti</persName>, the earliest follower of <persName key="Boccaccio">Boccaccio</persName>; which will <choice><corr>show</corr><sic>shew</sic></choice> us,
+that the Italians are not prevented from gathering flowers by the fear of
+rain, nor even of snakes. Eccolo.<note type="hunt"> With respect to giving the originals of what we translate, we are guided by 
+this principle:—if they are easily referred to, we shall always content ourselves 
+with short extracts, unless hurried away by the enthusiasm of the moment, or for 
+some other special reason; if they are not so readily to be found, it will add a value 
+to our little work to lay them before the reader. A volume of <title level="j">the
+<hi rend="italic">Indicator</hi></title> will 
+thus contain some of the best morsels of literature. In the <title level="s">Parnaso Italiano</title> it is 
+doubted whether the present poem is to be assigned to <persName key="Franco Sacchetti">Franco Sacchetti</persName>, or to 
+<persName key="Ugolin della Gherardesca" cert="low">Ugolin Ubaldini</persName>, who according to the editor is the same as the Ubaldin de la Pila 
+mentioned among the gluttons in the 24th Book of Dante's <title level="m">Purgatory</title>. If so, he 
+was not so likely to forget himself among the fields, as <persName key="Franco Sacchetti">Sacchetti</persName>; but whether he 
+be the same person or not, the poem answers so well to the latter's character, that 
+it was most probably his production. He is another instance, to be added to some 
+of the most illustrious names, of the triumph of a genial imagination, and a rich indifference 
+to riches, over a life of business, politics, and even honours. <persName key="Franco Sacchetti">Franco 
+Sacchetti</persName>, a Florentine, says <persName key="John Colin Dunlop">Mr. Dunlop</persName>, <note type="hunt">(<title level="m">History of Fiction</title>, Vol. 2. p. 305)</note> <q type="written">was
+born in 1335, and died about the year 1410. He was a poet in his youth, and travelled
+to <placeName key="Sclavonia" corresp="Croatia">Sclavonia</placeName> and other countries, to attend to some mercantile concerns. As
+he advanced in years, he was raised to a distinguished rank in the Magistracy of
+<placeName key="Florence" corresp="Italy">Florence</placeName>; he became <hi rend="italic">podesta</hi> of <placeName key="Faenza" corresp="Italy">Faenza</placeName> and other places, and at length governor of
+a Florentine province in the <placeName key="Romagna" corresp="Italy">Romagna</placeName>. Notwithstanding his honours he lived and
+died poor, but is said to have been a good-humoured facetious man. He left an
+immense collection of sonnets and canzone, some of which have been lost, and
+others are still in M.S.</q> — We should be exceedingly gratified by the sight of any of 
+his poems that may happen to be in print. </note></p>
+
+<pb n="223" />
+
+<cit>
+<quote>
+<title rend="center capitalise">Gathering Flowers.</title>
+<lg xml:lang="it" rend="center">
+<l>Passando con pensier per un boschetto, </l>
+<l>Donne per quello givan fior cogliendo, </l>
+<l>Con diletto, co' quel, co' quel dicendo, </l>
+<l>Eccolo, eccol; che? è fiordaliso. </l>
+<l>Va là per le viole; </l>
+<l>Più colà per le rose, cole, cole </l>
+<l>Vaghe amorose. </l>
+<l>O me, che'l prun mi punge, </l>
+<l>Quell' altra, me v'aggiunge. </l>
+<l>U', u, o, ch'è quel che salta? </l>
+<l>Un grillo, un grillo. </l>
+<l>Venite qua, correte, </l>
+<l>Ramponzoli cogliete: </l>
+<l>E' non son' essi. </l>
+<l>Sì, son: colei o colei </l>
+<l>Vien qua, vien qua per funghi, un micolino, </l>
+<l>Più colà, piu colà, per sermollino. </l>
+<l>Noi starem troppo, che'l tempo si turba; </l>
+<l>Ve' che balena e tuona, </l>
+<l>E m'indovino die vespero suona. </l>
+<l>Paurosa! non è egli ancor nona; </l>
+<l>E vedi ed odi l'usignuol che canta, </l>
+<l>Piu bel ve', piu bel ve'. </l>
+<l>Io sento e non so che; </l>
+<l>E dov' è, e dov' è? </l>
+<l>In quel cespuglio. </l>
+<l>Ognuna qui picchia, tocca, e ritocca: </l>
+<l>Mentre lo busso cresce, </l>
+<l>Una gran serpe n' esce. </l>
+<l>O me trista! o me lassa! o me! o me! </l>
+<l>Gridan fuggendo di paura piene, </l>
+<l>Ed ecco che una folta pioggia viene. </l>
+<l>Timidetta quell' una e l'altra urtando, </l>
+<l>Stridendo, la divanza, via fuggendo, </l>
+<l>E gridando, qual sdrucciola, qual cade. </l>
+<l>Per caso l'una appone lo ginecchio </l>
+<l>Là ve seggea lo frettoloso piede, </l>
+<l>E la mano e le veste: </l>
+<l>Quella di fango lorda ne diviene, </l>
+<l>Quelladi di piu calpeste: </l>
+
+<pb n="224" />
+
+<l>Cio ch' an colto ir si lassa, </l>
+<l>Ne pui s' apprtezza, e per bosco si spande. </l>
+<l>De' fiori a terra vanno le ghirlande, </l>
+<l>Nè si sdimette pure unquanto il corso. </l>
+<l>In cotal fuga a repetute note </l>
+<l>Tiensi beata, chi piu correr puote. </l>
+<l rend="indent">Sì fiso stetti il dì ch' io le mirai, </l>
+<l>Ch'io non m'avvidi, e tutto mi bagnai. </l>
+</lg>
+</quote>
+<note type="source">
+<bibl>
+<author>Franco Sacchetti</author>
+<title level="a">Passando con pensier per un boschetto</title>
+</bibl>
+</note>
+</cit>
+
+<lg type="translation-hunt" xml:id="eng" rend="center">
+<l>Walking and musing in a wood, I saw </l>
+<l>Some ladies gathering flowers, now this, now t'other, </l>
+<l>And crying in delight to one another, </l>
+<l>"Look here, look here: what's this? a fleur-de-lis. </l>
+<l>Oh—get some violets there: </l>
+<l>No, no, some roses farther onward there: </l>
+<l>How beautiful they are! </l>
+<l>O me! these thorns do prick so—only see:—</l>
+<l>Not that; the other; reach it me. </l>
+<l>Hallo, hallo! What is it leaping so? </l>
+<l>A grasshopper, a grasshopper.</l>
+<l>Come here, come here now, quickly,</l>
+<l>The rampions grew so thickly; </l>
+<l>No; they're not rampions. </l>
+<l>Yes, they are:—<persName type="fictional" key="Anna">Anna</persName>, <persName type="fictional" key="Beatrice">Beatrice</persName>, or <persName type="fictional" key="Lisa">Lisa</persName>, </l>
+<l>Come here, come here for mushrooms just a bit </l>
+<l>There, there's the betony—you're treading it. </l>
+<l>We shall be caught, the weather's going to change: </l>
+<l>See, see; it lightens—hush—and there's the thunder. </l>
+<l>Was that the bell for vespers too, I wonder? </l>
+<l>Why, you faint-hearted thing, it isn't noon: </l>
+<l>It was the nightingale—I know his tune— </l>
+<l>There's something stirring there! </l>
+<l>Where, where? </l>
+<l>There, in the bushes." </l>
+<l>Here every lady pokes, and peeps, and pushes; </l>
+<l>When suddenly, in middle of the rout, </l>
+<l>A great large snake comes out. </l>
+<l><q>O lord ! O lord! Good heavens! O me! O me!</q> </l>
+<l>And off they go, scampering with all their power, </l>
+<l>While from above, down comes a pelting shower. </l>
+<l rend="indent">Frightened, and scrambling, jolting one another, </l>
+<l>They shriek, they run, they slide: the foot of one </l>
+<l>Catches her gown, and where the foot should be </l>
+<l>Down goes the knee, </l>
+<l>And hands, and clothes, and all; some stumble on, </l>
+<l>Brushing the hard earth off, and some the mud. </l>
+<l>What they plucked, so glad and heaping, </l>
+<l>Now becomes not worth their keeping. </l>
+<l>Off it squirrs, leaf, root, and flower; </l>
+<l>Yet not the less for that they scream and scower, </l>
+<l>In such a passage, happiest she </l>
+<l>Who plies her notes most rapidly. </l>
+<l rend="indent">So fixed I stood, gazing at that fair set, </l>
+<l>That I forgot the shower, and dripped with wet. </l>
+</lg>
+</div2>
+<div2 type="colophon"> <!-- Publisher and printer information -->
+<p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+<persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d.</p>
+</div2>
+</div1>
+</body>
+</text>
 </TEI>
   
