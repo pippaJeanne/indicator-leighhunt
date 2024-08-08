@@ -1805,7 +1805,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240808132932816",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-08T17:29:32.816Z",
-	"dcterms:modified": "2024-08-08T17:29:32.816Z",
+	"dcterms:modified": "2024-08-08T17:34:33.483Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1836,7 +1836,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q305567",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1844,7 +1846,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2078,7 +2081,7 @@ air, and which he afterwards gave to <persName key="Pythagoras" cert="high" ref=
 of that philosopher. His first appearance at <placeName type="city" key="Athens" corresp="Greece" cert="high" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName> was in consequence  
 of a pestilence which then afflicted the world, and for the cessation  
 of which an oracle had enjoined the Athenians to pray in behalf of all the  
-other nations. <persName key="Abaris">Abaris</persName> came as the representative of the Hyperboreans.  
+other nations. <persName key="Abaris the Hyperborean" cert="high" corresp="#abaris" ref="http://www.wikidata.org/entity/Q305567" type="real">Abaris</persName> came as the representative of the Hyperboreans.  
 The probability is, that he was a Pythagorean from some northern country;  
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
