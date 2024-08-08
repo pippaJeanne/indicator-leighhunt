@@ -252,7 +252,7 @@ these things, because they had a sentiment in their enjoyments. The
 Latins called it Bellis or Bellus, as much as to say, Nice One, With 
 the French and Italians it has the same name as a Pearl,—Marguerite, 
 Margarita, or generally, by way of endearment, Margheretina.<note type="hunt">This word is originally Greek,—Margarites; and as the Franks probably 
-brought it from <placeName key="Istanbul" corresp="Turkey">Constantinople</placeName>, perhaps they brought <choice><corr>its</corr><sic>it's</sic></choice> association with the daisy 
+brought it from <placeName type="city" key="Istanbul" corresp="Turkey">Constantinople</placeName>, perhaps they brought <choice><corr>its</corr><sic>it's</sic></choice> association with the daisy 
 also. </note> The 
 same word was the name of a woman, and occasioned infinite intermixtures 
 of compliment about pearls, daisies, and fair mistresses. 
@@ -552,10 +552,10 @@ of the most illustrious names, of the triumph of a genial imagination, and a ric
 to riches, over a life of business, politics, and even honours. <persName key="Franco Sacchetti">Franco 
 Sacchetti</persName>, a Florentine, says <persName key="John Colin Dunlop">Mr. Dunlop</persName>, <note type="hunt">(<title level="m">History of Fiction</title>, Vol. 2. p. 305)</note> <q type="written">was
 born in 1335, and died about the year 1410. He was a poet in his youth, and travelled
-to <placeName key="Sclavonia" corresp="Croatia">Sclavonia</placeName> and other countries, to attend to some mercantile concerns. As
+to <placeName type="region" key="Sclavonia" corresp="Croatia">Sclavonia</placeName> and other countries, to attend to some mercantile concerns. As
 he advanced in years, he was raised to a distinguished rank in the Magistracy of
-<placeName key="Florence" corresp="Italy">Florence</placeName>; he became <hi rend="italic">podesta</hi> of <placeName key="Faenza" corresp="Italy">Faenza</placeName> and other places, and at length governor of
-a Florentine province in the <placeName key="Romagna" corresp="Italy">Romagna</placeName>. Notwithstanding his honours he lived and
+<placeName type="city" key="Florence" corresp="Italy">Florence</placeName>; he became <hi rend="italic">podesta</hi> of <placeName key="Faenza" corresp="Italy">Faenza</placeName> and other places, and at length governor of
+a Florentine province in the <placeName type="region" key="Romagna" corresp="Italy">Romagna</placeName>. Notwithstanding his honours he lived and
 died poor, but is said to have been a good-humoured facetious man. He left an
 immense collection of sonnets and canzone, some of which have been lost, and
 others are still in M.S.</q> — We should be exceedingly gratified by the sight of any of 
