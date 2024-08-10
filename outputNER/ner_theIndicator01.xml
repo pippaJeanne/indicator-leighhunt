@@ -2850,7 +2850,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810172603645",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T21:26:03.645Z",
-	"dcterms:modified": "2024-08-10T21:26:03.645Z",
+	"dcterms:modified": "2024-08-10T21:27:14.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2881,7 +2881,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q347893",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2889,7 +2891,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3160,7 +3163,7 @@ ancient world, of chivalrous gallantry towards a woman.</p>
 </div2>
 
 <div2 type="section" n="3">
-<p><persName key="Uriel Acosta">Uriel Acosta</persName>, a Portuguese at the beginning of the 17th century,  
+<p><persName key="Uriel da Costa" cert="medium" ref="http://www.wikidata.org/entity/Q347893" type="real">Uriel Acosta</persName>, a Portuguese at the beginning of the 17th century,  
 presented the world with a strange instance of vacillation in religious faith.  
 He first turned Jew, converting at the same time his mother and brothers,  
 and fled with them to <placeName type="city" key="Amsterdam" corresp="The Netherlands">Amsterdam</placeName>, where they were received into a synagogue.  
