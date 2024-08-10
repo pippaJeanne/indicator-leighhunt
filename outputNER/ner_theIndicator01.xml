@@ -2203,7 +2203,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165413314",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T20:54:13.314Z",
-	"dcterms:modified": "2024-08-10T20:56:06.420Z",
+	"dcterms:modified": "2024-08-10T20:57:00.261Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2234,7 +2234,10 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "http://dbpedia.org/resource/Abradatas",
 		"dc:format": "text/plain"
 	},
@@ -2244,7 +2247,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2501,7 +2505,7 @@ ghost.</p>
 <pb n="5"/>
 
 <p><persName key="Abradatas" cert="medium" ref="http://dbpedia.org/resource/Abradatas" type="fictional" xml:id="abradates">Abradates</persName> and <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional">Panthea</persName>, a singular example of conjugal affection on a  
-throne. <persName key="Abradatas" corresp="#abradates" ref="http://dbpedia.org/resource/Abradatas">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran">Susa in Persia<note type="editorial">Susa would now be in modern-day Iran</note></placeName> during the wars between  
+throne. <persName key="Abradatas" corresp="#abradates" ref="http://dbpedia.org/resource/Abradatas" cert="medium" type="fictional">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran">Susa in Persia<note type="editorial">Susa would now be in modern-day Iran</note></placeName> during the wars between  
 <persName key="Cyrus">Cyrus</persName> and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
 continence and respect, <persName key="Cyrus">Cyrus</persName> having denied himself even the temptation of  
