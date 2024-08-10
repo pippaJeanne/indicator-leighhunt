@@ -2119,6 +2119,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165320044",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T20:53:20.044Z",
+	"dcterms:modified": "2024-08-10T21:16:43.153Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2363,7 +2364,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810170217835",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T21:02:17.835Z",
-	"dcterms:modified": "2024-08-10T21:03:04.797Z",
+	"dcterms:modified": "2024-08-10T21:17:31.295Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2523,7 +2524,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810170918228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T21:09:18.228Z",
-	"dcterms:modified": "2024-08-10T21:16:12.217Z",
+	"dcterms:modified": "2024-08-10T21:17:05.380Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2824,9 +2825,9 @@ ghost.</p>
 
 <pb n="5"/>
 
-<p><persName key="Abradatas" cert="medium" ref="http://dbpedia.org/resource/Abradatas" type="fictional" xml:id="abradates">Abradates</persName> and <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional">Panthea</persName>, a singular example of conjugal affection on a  
+<p><persName key="Abradatas" cert="medium" ref="http://dbpedia.org/resource/Abradatas" type="fictional" xml:id="abradates">Abradates</persName> and <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional" xml:id="panthea">Panthea</persName>, a singular example of conjugal affection on a  
 throne. <persName key="Abradatas" corresp="#abradates" ref="http://dbpedia.org/resource/Abradatas" cert="medium" type="fictional">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran" cert="high" ref="http://www.wikidata.org/entity/Q180773">Susa in Persia</placeName><note type="editorial">Susa would now be in modern-day Iran</note> during the wars between  
-<persName key="Cyrus the Great" cert="high" ref="http://www.wikidata.org/entity/Q8423" type="real">Cyrus</persName> and <persName key="Artaxerxes I of Persia" cert="high" ref="http://www.wikidata.org/entity/Q189689" type="real">Artaxerxes</persName>; and hearing that his wife <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional">Panthea</persName>, who had gotten  
+<persName key="Cyrus the Great" cert="high" ref="http://www.wikidata.org/entity/Q8423" type="real" xml:id="cyrus">Cyrus</persName> and <persName key="Artaxerxes I of Persia" cert="high" ref="http://www.wikidata.org/entity/Q189689" type="real">Artaxerxes</persName>; and hearing that his wife <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional" corresp="#panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
 continence and respect, <persName key="Cyrus">Cyrus</persName> having denied himself even the temptation of  
 seeing her, he went over to that prince with all his troops. Unfortunately,  
