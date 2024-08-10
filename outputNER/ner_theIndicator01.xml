@@ -2034,10 +2034,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165153498",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165622376",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-10T20:51:53.498Z",
-	"dcterms:modified": "2024-08-10T20:56:22.376Z",
+	"dcterms:created": "2024-08-10T20:56:22.376Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2048,7 +2047,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165153498#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165622376#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -2062,7 +2061,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165153498#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165622376#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/persName"
 		}
@@ -2117,10 +2116,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165258722",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165320044",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-10T20:52:58.722Z",
-	"dcterms:modified": "2024-08-10T20:53:20.044Z",
+	"dcterms:created": "2024-08-10T20:53:20.044Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2131,7 +2129,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165258722#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165320044#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -2145,7 +2143,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165258722#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165320044#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/persName[2]"
 		}
@@ -2200,10 +2198,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165413314",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165700261",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-10T20:54:13.314Z",
-	"dcterms:modified": "2024-08-10T20:57:00.261Z",
+	"dcterms:created": "2024-08-10T20:57:00.261Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2214,7 +2211,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165413314#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165700261#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -2228,7 +2225,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165413314#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810165700261#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/persName[3]"
 		}
@@ -2505,7 +2502,7 @@ ghost.</p>
 <pb n="5"/>
 
 <p><persName key="Abradatas" cert="medium" ref="http://dbpedia.org/resource/Abradatas" type="fictional" xml:id="abradates">Abradates</persName> and <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional">Panthea</persName>, a singular example of conjugal affection on a  
-throne. <persName key="Abradatas" corresp="#abradates" ref="http://dbpedia.org/resource/Abradatas" cert="medium" type="fictional">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran">Susa in Persia<note type="editorial">Susa would now be in modern-day Iran</note></placeName> during the wars between  
+throne. <persName key="Abradatas" corresp="#abradates" ref="http://dbpedia.org/resource/Abradatas" cert="medium" type="fictional">Abradates</persName> was king of <placeName type="city" key="Susa" corresp="Iran">Susa in Persia</placeName><note type="editorial">Susa would now be in modern-day Iran</note> during the wars between  
 <persName key="Cyrus">Cyrus</persName> and <persName key="Artaxerxes">Artaxerxes</persName>; and hearing that his wife <persName key="Panthea">Panthea</persName>, who had gotten  
 into the hands of the former, had been treated by him with singular  
 continence and respect, <persName key="Cyrus">Cyrus</persName> having denied himself even the temptation of  
