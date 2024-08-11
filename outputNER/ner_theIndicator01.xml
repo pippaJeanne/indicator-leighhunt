@@ -3233,10 +3233,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225154419",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225322511",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-11T02:51:54.419Z",
-	"dcterms:modified": "2024-08-11T02:53:22.511Z",
+	"dcterms:created": "2024-08-11T02:53:22.511Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3247,7 +3246,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225154419#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225322511#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -3261,15 +3260,14 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225154419#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?correction_annotation_20240810225322511#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[4]/p/choice"
+			"rdf:value": "TEI/text/body/div1/div2[4]/p/corr"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "fabio:Correction",
-		"dc:format": "text/xml",
-		"rdf:value": "shows"
+		"dc:format": "text/xml"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3590,10 +3588,10 @@ like a frightened animal, into the toils of his <hi rend="italic">first fear</hi
 in the family. He stared about him a while, amidst the candles the  
 curses, and the dropping blood; and then went melancholy, and killed  
 himself. — Thus an honest man is driven into suicide, because his ancestors  
-differed in point of faith! The religionist will say that this <choice><sic>shews</sic><corr>shows</corr></choice> the value  
+differed in point of faith! The religionist will say that this <corr><orig>shews</orig><reg>shows</reg></corr> the value  
 of having one regular hereditary faith; but would he cease then to convert  
 the heretic to his own? And what good did this do to the poor unwilling  
-martyr <persName key="Uriel da Costa" cert="high" corresp="#acosta" ref="http://www.wikidata.org/entity/Q347893" type="real">Acosta</persName>? The philosopher will say that it shews the wretched  
+martyr <persName key="Uriel da Costa" cert="high" corresp="#acosta" ref="http://www.wikidata.org/entity/Q347893" type="real">Acosta</persName>? The philosopher will say that it <choice><orig>shews</orig><reg>shows</reg></choice> the wretched  
 tyranny of custom.</p>
 
 </div2>
