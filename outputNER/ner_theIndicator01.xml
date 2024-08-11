@@ -3158,7 +3158,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810224336717",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-11T02:43:36.717Z",
-	"dcterms:modified": "2024-08-11T02:43:36.717Z",
+	"dcterms:modified": "2024-08-11T02:44:18.585Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3199,7 +3199,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3515,7 +3516,7 @@ himself. — Thus an honest man is driven into suicide, because his ancestors
 differed in point of faith! The religionist will say that this shews the value  
 of having one regular hereditary faith; but would he cease then to convert  
 the heretic to his own? And what good did this do to the poor unwilling  
-martyr <persName key="Uriel da Costa" ref="http://www.wikidata.org/entity/Q347893">Acosta</persName>? The philosopher will say that it shews the wretched  
+martyr <persName key="Uriel da Costa" cert="high" corresp="#acosta" ref="http://www.wikidata.org/entity/Q347893" type="real">Acosta</persName>? The philosopher will say that it shews the wretched  
 tyranny of custom.</p>
 
 </div2>
