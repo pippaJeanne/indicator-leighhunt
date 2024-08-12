@@ -4224,7 +4224,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811232911023",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:11.023Z",
-	"dcterms:modified": "2024-08-12T03:29:11.023Z",
+	"dcterms:modified": "2024-08-12T03:48:12.071Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4255,7 +4255,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q4649",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4263,7 +4268,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -4301,7 +4307,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811232914416",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:14.416Z",
-	"dcterms:modified": "2024-08-12T03:29:14.416Z",
+	"dcterms:modified": "2024-08-12T03:48:33.085Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4332,7 +4338,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q241070",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4340,7 +4351,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5679,8 +5691,8 @@ fled but the more for refuge into the arms of the handsome shepherd. The
 wretched <persName key="Polyphemus" cert="high" ref="http://www.wikidata.org/entity/Q193567" type="fictional">Polyphemus</persName>, looking down one day into a valley, saw the happy  
 lovers giving way to their transport; and this sight made the load of his  
 despair intolerable. He rent off a fragment of the rock on which he was  
-sitting; and hurling it down as <persName key="Jupiter">Jupiter</persName> might do his thunder, smote his  
-rival so as to crush him to death. <persName key="Galatea">Galatea</persName>, inconsolable, and unable to  
+sitting; and hurling it down as <persName key="Jupiter" cert="high" ref="http://www.wikidata.org/entity/Q4649" type="fictional">Jupiter</persName> might do his thunder, smote his  
+rival so as to crush him to death. <persName key="Galatea" cert="high" ref="http://www.wikidata.org/entity/Q241070" type="fictional">Galatea</persName>, inconsolable, and unable to  
 restore her lover to life, or render him a deity like herself, turned him into  
 a fountain. It was after this event that we may suppose <persName key="Polyphemus">Polyphemus</persName> to  
 have become the inhospitable and cruel wretch which he is described  
