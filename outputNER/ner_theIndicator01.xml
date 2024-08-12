@@ -4553,7 +4553,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?title_annotation_20240811232925720",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:25.720Z",
-	"dcterms:modified": "2024-08-12T03:29:25.720Z",
+	"dcterms:modified": "2024-08-12T03:52:19.963Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4584,7 +4584,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q35160",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4592,7 +4594,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5705,7 +5708,7 @@ rival so as to crush him to death. <persName key="Galatea" cert="high" ref="http
 restore her lover to life, or render him a deity like herself, turned him into  
 a fountain. It was after this event that we may suppose <persName key="Polyphemus" cert="high" ref="http://www.wikidata.org/entity/Q193567" type="fictional">Polyphemus</persName> to  
 have become the inhospitable and cruel wretch which he is described  
-to be in <persName key="Homer" cert="high" ref="http://www.wikidata.org/entity/Q6691" type="real">Homer</persName>'s <title level="m" ref="http://www.wikidata.org/entity/Q35160" key="Odyssey">Odyssey</title> : and this point of view helps to throw an  
+to be in <persName key="Homer" cert="high" ref="http://www.wikidata.org/entity/Q6691" type="real">Homer</persName>'s <title level="m" cert="high" key="Odyssey" ref="http://www.wikidata.org/entity/Q35160">Odyssey</title> : and this point of view helps to throw an  
 additional interest over his story, which always appeared to us one of the  
 most pathetic and deeply-meaning in poetry. He was separated by his  
 monstrous appearance from human kind, and yet in his heart and inclinations  
