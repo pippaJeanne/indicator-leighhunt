@@ -5199,7 +5199,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811232958358",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:58.358Z",
-	"dcterms:modified": "2024-08-12T03:29:58.358Z",
+	"dcterms:modified": "2024-08-12T03:57:28.067Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5230,7 +5230,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q241070",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5238,7 +5243,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5750,7 +5756,7 @@ The Italian writers are so fond of it, that they have sonnets, called
 Polyphemic sonnets. <persName key="Raphael" cert="high" ref="http://www.wikidata.org/entity/Q5597" type="real">Raphael</persName> painted a beautiful picture of <persName key="Galatea" cert="high" ref="http://www.wikidata.org/entity/Q241070" type="fictional">Galatea</persName>  
 triumphing on the waters, of which there are many engravings. And  
 <persName key="George Frideric Handel" cert="high" ref="http://www.wikidata.org/entity/Q7302" type="real">Handel</persName> finished the homage of the arts to it by that divine oratorio of <persName key="Acis" cert="high" ref="http://www.wikidata.org/entity/Q419156" type="fictional">Acis</persName>  
-and <persName key="Galatea">Galatea</persName>, for which <persName key="John Gay">Gay</persName> contributed words not unworthy. If the reader  
+and <persName key="Galatea" cert="high" ref="http://www.wikidata.org/entity/Q241070" type="fictional">Galatea</persName>, for which <persName key="John Gay">Gay</persName> contributed words not unworthy. If the reader  
 wishes to know how the great poets have written on the subject, he should  
 hear how <persName key="Handel">Handel</persName> composed.</p>
 
