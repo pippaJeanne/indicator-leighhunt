@@ -5489,10 +5489,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812004617764",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812005459867",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-12T04:46:17.764Z",
-	"dcterms:modified": "2024-08-12T04:54:59.867Z",
+	"dcterms:created": "2024-08-12T04:54:59.867Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5503,7 +5502,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812004617764#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812005459867#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml",
@@ -5517,7 +5516,7 @@
 			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812004617764#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240812005459867#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[6]/cit/quote/lg/lg/l[19]/persName"
 		}
@@ -5575,7 +5574,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?place_annotation_20240812004623867",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T04:46:23.867Z",
-	"dcterms:modified": "2024-08-12T04:46:23.867Z",
+	"dcterms:modified": "2024-08-12T04:57:15.131Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5606,7 +5605,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q207239",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5614,7 +5615,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6093,7 +6095,7 @@ took him out of it at last.</p>
 <cb n="2"/>
 <l>Fetch her eyesight out of fire;</l>
 <l>Like <persName key="Minerva" cert="high" ref="http://www.wikidata.org/entity/Q126916" type="fictional">Minerva</persName>'s, sparkling blue;</l>
-<l>Moist, like <placeName type="region" key="Kythira" corresp="Greece">Cytherea</placeName>'s too;</l>
+<l>Moist, like <placeName type="region" key="Kythira" corresp="Greece" cert="high" ref="http://www.wikidata.org/entity/Q207239">Cytherea</placeName>'s too;</l>
 <l>Give her nose and cheeks a tint</l>
 <l>Like shallow milk with roses in't:</l>
 <l>Let her lip Persuasion's be.</l>
