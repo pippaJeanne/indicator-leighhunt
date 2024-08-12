@@ -3812,7 +3812,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?place_annotation_20240811230727973",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:07:27.973Z",
-	"dcterms:modified": "2024-08-12T03:07:27.973Z",
+	"dcterms:modified": "2024-08-12T03:44:36.023Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3843,7 +3843,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1460",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3851,7 +3853,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -3889,7 +3892,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811230732666",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:07:32.666Z",
-	"dcterms:modified": "2024-08-12T03:07:32.666Z",
+	"dcterms:modified": "2024-08-12T03:45:04.569Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3920,7 +3923,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q3954",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3928,7 +3936,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5641,8 +5650,8 @@ in ancient fable. <persName key="Acis" cert="high" ref="http://www.wikidata.org/
 his father was the wood-god <persName key="Faunus" cert="high" ref="http://www.wikidata.org/entity/Q3089703" type="fictional">Faunus</persName>. <persName key="Galatea" cert="high" ref="http://www.wikidata.org/entity/Q241070" type="fictional">Galatea</persName>, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
-the delightful vales of <placeName type="region" key="Sicily" corresp="Italy">Sicily</placeName>; but unfortunately it had one drawback, 
-which was the jealous importunity of <persName key="Neptune">Neptune</persName>'s gigantic and one-eyed son,  
+the delightful vales of <placeName type="region" key="Sicily" corresp="Italy" cert="high" ref="http://www.wikidata.org/entity/Q1460">Sicily</placeName>; but unfortunately it had one drawback, 
+which was the jealous importunity of <persName key="Neptune" cert="high" ref="http://www.wikidata.org/entity/Q3954" type="fictional">Neptune</persName>'s gigantic and one-eyed son,  
 the terrible <persName key="Polyphemus">Polyphemus</persName>. In vain the enamoured monster implored <persName key="Galatea">Galatea</persName>  
 to listen to him. In vain had love softened the natural ferocity of his  
 manners, so that he would sit whole days on the sea-coast, watching to  
