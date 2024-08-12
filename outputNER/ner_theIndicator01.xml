@@ -4633,7 +4633,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811232930865",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:30.865Z",
-	"dcterms:modified": "2024-08-12T03:29:30.865Z",
+	"dcterms:modified": "2024-08-12T03:54:22.628Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4664,7 +4664,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q219484",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4672,7 +4674,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -4710,7 +4713,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811232933786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:29:33.786Z",
-	"dcterms:modified": "2024-08-12T03:29:33.786Z",
+	"dcterms:modified": "2024-08-12T03:54:50.267Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4741,7 +4744,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4749,7 +4754,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5717,8 +5723,8 @@ made him ireful, revengeful, impious. What moral can go to the heart of
 things more deeply than this? </p>
 
 <p>This story has been a great favourite with all men of genius. It has  
-been touched upon with great pathos and simplicity by <persName key="Theocritus">Theocritus</persName>, who  
-was followed not so well by <persName key="Virgil">Virgil</persName>, and with much less nature by <persName key="Ovid">Ovid</persName>.  
+been touched upon with great pathos and simplicity by <persName key="Theocritus" cert="high" ref="http://www.wikidata.org/entity/Q219484" type="real">Theocritus</persName>, who  
+was followed not so well by <persName key="Virgil" cert="high" ref="http://www.wikidata.org/entity/Q1398" type="real">Virgil</persName>, and with much less nature by <persName key="Ovid">Ovid</persName>.  
 The Italian writers are so fond of it, that they have sonnets, called  
 Polyphemic sonnets. <persName key="Raphael">Raphael</persName> painted a beautiful picture of <persName key="Galatea">Galatea</persName>  
 triumphing on the waters, of which there are many engravings. And  
