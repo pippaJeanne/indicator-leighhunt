@@ -3563,7 +3563,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811230714905",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:07:14.905Z",
-	"dcterms:modified": "2024-08-12T03:07:14.905Z",
+	"dcterms:modified": "2024-08-12T03:41:29.357Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3594,7 +3594,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q419156",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3602,7 +3607,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -3640,7 +3646,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811230719267",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:07:19.267Z",
-	"dcterms:modified": "2024-08-12T03:07:19.267Z",
+	"dcterms:modified": "2024-08-12T03:41:57.391Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3671,7 +3677,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q3089703",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3679,7 +3690,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -5619,8 +5631,8 @@ tyranny of custom.</p>
 
 <div2 type="section" n="4">
 <p><persName key="Polyphemus" cert="high" ref="http://www.wikidata.org/entity/Q193567" type="fictional">Polyphemus</persName>, <persName key="Acis" cert="high" ref="http://www.wikidata.org/entity/Q419156" type="fictional">Acis</persName>, and <persName key="Galatea" cert="high" ref="http://www.wikidata.org/entity/Q241070" type="fictional">Galatea</persName>, one of the most celebrated love-stories  
-in ancient fable. <persName key="Acis">Acis</persName> was a mortal, because his mother was so, though  
-his father was the wood-god <persName key="Faunus">Faunus</persName>. <persName key="Galatea">Galatea</persName>, who loved him deeply, and  
+in ancient fable. <persName key="Acis" cert="high" ref="http://www.wikidata.org/entity/Q419156" type="fictional">Acis</persName> was a mortal, because his mother was so, though  
+his father was the wood-god <persName key="Faunus" cert="high" ref="http://www.wikidata.org/entity/Q3089703" type="fictional">Faunus</persName>. <persName key="Galatea">Galatea</persName>, who loved him deeply, and  
 whose passion was returned, was an immortal sea-nymph, the daughter of  
 two deities of the ocean. They enjoyed the happiness of their affection in  
 the delightful vales of <placeName type="region" key="Sicily" corresp="Italy">Sicily</placeName>; but unfortunately it had one drawback, 
