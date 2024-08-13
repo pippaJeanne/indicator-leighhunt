@@ -41,6 +41,14 @@ Types:
 - catalogue: Publication no., and date of publication (ie. No. XXIV.—WEDNESDAY, MARCH 22d, 1820.)
 - header: The header of a section or subsection within the publication issue (ie. "ON THE REALITIES OF IMAGINATION.")
 
+** For the heads type "header" and "subheader", add @rend with values "center" and/or "uppercase" or both according to source.
+Ex: 
+```xml
+<head type="header" rend="center uppercase">Text (not in caps)</head>
+
+<head type="subheader" rend="center uppercase">Text (not in caps)</head>
+```
+
 ### Note Elements
 ```<note type="">```
 
@@ -195,6 +203,7 @@ term : (term) contains a single-word, multi-word, or symbolic designation which 
 emph : (emphasized) marks words or phrases which are stressed or emphasized for linguistic or rhetorical effect.
 mentioned : marks words or phrases mentioned, not used
 ```
+
 ### bibl elements
 
 To use in cases where Hunt indicates a reference.
@@ -208,4 +217,3 @@ A <note> tag with the the attribute @type="source" should follow with the comple
 
 <bibl><title level="m">LOVE'S LABOUR LOST</title></bibl>
 ```
-
