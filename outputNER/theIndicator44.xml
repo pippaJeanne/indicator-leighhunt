@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                 <title type="subtitle">No. XLIV. — WEDNESDAY, August 9th, 1820.</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p />
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title>The Indicator</title>
+                    <date when="1820-08-09">AUGUST 9th, 1820.</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+ </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="43">
+                <pb n="337" /> <!-- Page beginning -->
+                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. XLIV.<date when="1820-08-09"> —WEDNESDAY, AUGUST 9th, 1820</date>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header" rend="center uppercase">The Stories of <title>Lamia</title>, <title>The Pot of Basil</title>, <title>The Eve of St. Agnes</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> as Told by <persName key="John Keats" type="real" ref="http://www.wikidata.org/entity/Q82083">Mr. Keats</persName>.</head>
+                    <head type="subheader" rend="center uppercase">(Concluded from Last Week.)</head>
+<p>
+As a specimen of the Poems, which are all lyrical, we must indulge 
+ourselves in quoting entire the <title>Ode to a Nightingale</title>. There is that mixture in it of real melancholy and imaginative relief, which poetry alone presents us in her "charmed cup," and which some over-rational 
+critics have undertaken to find wrong because it is not true. It 
+does not follow that what is not true to them, is not true to others. 
+If the relief is real, the mixture is good and sufficing. A poet finds refreshment in his imaginary wine, as other men do in their real; nor 
+have we the least doubt, that <persName key="John Milton" type="real">Milton</persName> found his grief for the loss of his friend <persName key="Edward King" type="real">King</persName>, more solaced by the allegorical recollections of <title>Lycidas</title>, (which were exercises of his mind, and recollections of a friend who would have admired them) than if he could have anticipated <persName key="Samuel Johnson" type="real">Dr. Johnson</persName>'s objections, and mourned in nothing but broadcloth and matter of fact. He yearned after the poetical as well as social part of his friend's nature; and had as much right to fancy it straying in the wilds and oceans of romance, where it had strayed, as in the avenues 
+of <placeName type="building" corresp="England" key="Christ's College">Christ's College</placeName> where his body had walked. In the same spirit the imagination of <persName key="John Keats" type="real">Mr. Keats</persName> befakes itself, like the wind, "where it listeth," and is as truly there, as if his feet could follow it. The poem will be the more striking to the reader, when he understands what we 
+take a friend's liberty in telling him, that the author's powerful mind 
+has for some time past been inhabiting a sickened and shaken body, 
+and that in the mean while it has had to contend with feelings that 
+make a fine nature ache for its species, even when it would disdain to 
+do so for itself; –we mean, critical malignity,— that unhappy envy, 
+which would wreak its own tortures upon others, especially upon 
+those that really feel for it already.</p>
+<cit><quote>
+<lg rend="center" xml:id="extract4">
+<lg xml:id="stanza-1">
+<l>My heart aches, and a drowsy numbness pains</l> 
+<l>My sense, as though of hemlock I had drunk,</l> 
+<l>Or emptied some dull opiate to the drains</l>
+<l>One minute past, and Lethe-wards had sunk:</l>
+<l>'Tis not through envy of thy happy lot,</l>
+<l>But being too happy in thine happiness,–</l>
+<l>That thou, light-winged Dryad of the trees,</l>
+<l>In some melodious plot</l>
+<l>Of beechen green, and shadows numberless,</l>
+<l>Singest of summer in full-throated ease.</l>
+</lg>
+<pb n="346"/>
+<lg xml:id="stanza-2">
+<l>O, for a draught of vintage! that hath been</l>
+<l>Cool'd a long age in the deep-delved earth,</l>
+<l>Tasting of Flora and the country green,</l>
+<l>Dance, and Provençal song, and sunburt mirth!</l> 
+<l>O for a beaker full of the warm South,</l>
+<l>Full of the true, the blushful <placeName corresp="Greece" type="fictional" key="Hippocrene">Hippocrene</placeName>,</l>
+<l>With beaded bubbles winking at the brim,</l> 
+<l>And purple-stained mouth;</l>
+<l>That I might drink, and leave the world unseen,</l>
+<l>And with thee fade away into the forest dim:</l>
+</lg>
+<lg xml:id="stanza-3">
+<l>Fade far away, dissolve, and quite forget</l>
+<l>What thou among the leaves hast never known,</l>
+<l>The weariness, the fever, and the fret</l>
+<l>Here, where men sit and hear each other groan;</l>
+<l>Where palsy shakes a few, sad, last gray hairs,</l>
+<l>Where youth grows pale, and spectre-thin, and dies;</l>
+<l>Where but to think is to be full of sorrow</l>
+<l>And leaden-eyed despairs,</l>
+<l>Where Beauty cannot keep her lustrous eyes,</l>
+<l>Or new Love pine at them beyond <choice><orig>to-morrow</orig><reg>tomorrow</reg></choice>.</l>
+</lg>
+<lg xml:id="stanza-4">
+<l>Away! away! for I will fly to thee,</l>
+<l>Not charioted by <persName key="Bacchus" type="fictional">Bacchus</persName> and his pards,</l>
+<l>But on the viewless wings of Poesy,</l>
+<l>Though the dull brain perplexes and retards:</l>
+<l>Already with thee! tender is the night,</l>
+<l>And haply the Queen-Moon is on her throne,</l>
+<l>Cluster'd around by all her starry Fays;</l>
+<l>But here there is no light,</l>
+<l>Save what from heaven is with the breezes blown</l>
+<l>Through verdurous glooms and winding mossy ways.</l>
+</lg>
+<lg xml:id="stanza-5">
+<l>I cannot see what flowers are at my feet,</l>
+<l>Nor what soft incense hangs upon the boughs,</l>
+<l>But, in embalmed darkness, guess each sweet</l>
+<l>Wherewith the seasonable month endows</l>
+<l>The grass, the thicket, and the fruit-tree wild;</l>
+<l>White hawthorn, and the pastoral eglantine;</l> 
+<l>Fast fading violets cover'd up in leaves;</l>
+<l>And mid-May's eldest child,</l>
+<l>The coming musk-rose, full of dewy wine,</l>
+<l>The murmurous haunt of flies on summer eves.</l>
+</lg>
+<lg xml:id="stanza-6">
+<l>Darkling I listen; and, for many a time</l>
+<l>I have been half in love with easeful Death,</l>
+<l>Call'd him soft names in many a mused rhyme,</l>
+<l>To take into the air my quiet breath;</l>
+<l>Now more than ever seems it rich to die,</l>
+<l>To cease upon the midnight with no pain,</l>
+ <l>While thou art pouring forth thy soul abroad</l> 
+<l>In such an ecstasy!</l>
+<l>Still wouldst thou sing, and I have ears in vain–</l>
+<l>To thy high requiem become a sod.</l>
+</lg>
+<lg xml:id="stanza-7">
+<l>Thou wast not born for death, immortal Bird!</l>
+<l>No hungry generations tread thee down;</l>
+<l>The voice I hear this passing night was heard</l>
+<l>In ancient days by emperor and clown:</l>
+<l>Perhaps the self-same song that found a path</l>
+<l>Through the sad heart of <persName type="real" key="Ruth the Moabite">Ruth</persName>, when, sick for home,</l>
+<l><hi rend="italic">She stood in tears amid the alien corn</hi>;</l>
+<l>The same that oft-times hath</l> 
+<l>Charm'd magic casements, opening on the foam</l>
+<l>Of perilous seas, in faery lands forlorn.</l>
+</lg>
+<pb n="347"/>
+<lg xml:id="stanza-8">
+<l>Forlorn! the very word is like bell</l>
+<l>To toll me back from thee to my sole self!</l> 
+<l>Adieu! the fancy cannot cheat so well</l>
+<l>As she is fam'd to do, deceiving elf.</l> 
+<l>Adieu! adieu! thy plaintive anthem fades</l>
+<l>Past the near meadows, over the still stream,</l>
+<l>Up the hill-side; and now 'tis buried deep</l>
+<l>In the next valley-glades:</l>
+<l>Was it a vision, or a waking dream?</l>
+<l>Fled is that music: — Do I wake or sleep?</l>
+</lg>
+</lg>
+</quote></cit>
+<p>The <title>Hyperion</title> is a fragment,— a gigantic one, like a ruin in the 
+<choice><orig>desart</orig><reg>desert</reg></choice>, or the bones of the mastodon. It is truly of a piece with its subject, which is the downfall of the elder gods. It opens with <persName key="Saturn" type="fictional">Saturn</persName>, 
+dethroned, sitting in a deep and solitary valley, benumbed in spite of 
+his huge powers with the amazement of the change.</p>
+<cit><quote>
+<lg rend="center" xml:id="extract5">
+<lg>
+<l>Deep in the shady sadness of a vale</l>
+<l>Far sunken from the healthy breath of morn,</l>
+<l>Far from the fiery noon, and eve's one star,</l>
+<l>Sat gray-hair'd <persName key="Saturn" type="fictional">Saturn</persName>, qniet as a stone,</l>
+<l>Still as the silence round about his lair;</l>
+<l>Forest on forest hung about his head</l>
+<l>Like cloud on cloud. No stir of air was there,</l>
+<l>Not so much life as on a summer's day</l>
+<l>Robs not one light seed from the feather'd grass,</l>
+<l>But where the dead leaf fell, there did it rest.</l>
+<l>A stream went voiceless by, still deadened more</l>
+<l>By reason of his fallen divinity</l>
+<l>Spreading a shade; the Naiad 'mid her reeds</l>
+<l>Press'd her cold finger closer to her lips.</l>
+<l>Along the margin-sand large foot-marks went,</l>
+<l>No further than to where his feet had stray'd,</l>
+<l>And slept there since. Upon the sodden ground</l>
+<l>His old right hand lay nerveless, listless, dead,</l>
+<l>Unsceptred; and his realmless eyes were closed;</l>
+<l>While his bow'd head seem'd list'ning to the Earth,</l>
+<l>His ancient mother, for some comfort yet.</l>
+<l>It seem'd no force could wake him from his place;</l>
+<l>But there came one, who with a kindred hand</l>
+<l>Touch'd his wide shoulders, after bending low</l>
+<l>With reverence, though to one who knew it not</l>
+<l>She was a Goddess of the infant world;</l>
+<l>By her in stature the tall Amazon</l>
+<l>Had stood a pigmy's height; she would have ta'en</l>
+<l><persName key="Achilles" type="fictional">Achilles</persName> by the hair and bent his neck;</l>
+<l>Or with a finger stay'd <persName key="Ixion" type="fictional">Ixion</persName>'s wheel.</l>
+<l>Her face was large as that of Memphian sphinx,</l>
+<l>Pedestal'd haply in a palace court,</l>
+<l>When sages look'd to <placeName type="country" corresp="Egypt" key="Egypt">Egypt</placeName> for their lore.</l>
+<l>But oh! how unlike marble was that face:</l>
+<l>How beautiful, if sorrow had not made</l>
+<l>Sorrow more beautiful than Beauty's self.</l>
+<l>There was a listening fear in her regard,</l>
+<l>As if calamity had but begun;</l>
+<l>As if the vanward clouds of evil days</l>
+<l>Had spent their malice, and the sullen rear</l>
+<l>Was with its stored thunder labouring up.</l>
+</lg>
+</lg>
+</quote></cit>
+<p>By degrees, the Titans meet in one spot, to consult how they may regain their lost empire; but <persName key="Clymene" type="fictional">Clymene</persName> the gentlest, and <persName key="Oceanus" type="fictional">Oceanus</persName> the most reflective of those earlier deities, tell them that it is irrecoverable. A very grand and deep-thoughted cause is assigned for this by the
+<pb n="348"/>
+latter. Intellect, he gives them to understand, was inevitably displacing a more brute power.
+</p>
+<cit><quote>
+<lg rend="center" xml:id="extract6">
+<lg xml:id="stanzaA">
+<l rend="right">Great <persName key="Saturn" type="fictional">Saturn</persName>, thou</l>
+<l>Hast sifted well the atom universe;</l>
+<l>But for this reason, that thou art the King,</l>
+<l>And only blind from sheer supremacy,</l>
+<l>One avenue was shaded from thine eyes,</l> 
+<l>Through which I wandered to eternal truth.</l>
+<l>And first, as thou wast not the first of powers,</l>
+<l>So thou art not the last; it cannot be:</l>
+<l>Thou art not the beginning nor the end.</l>
+</lg>
+<l> * * * * * * </l>
+<lg xml:id="stanzaB"> 
+<l>Now comes the pain of truth, to vvhom 'tis pain;</l>
+<l>O folly! for to bear all naked truths,</l>
+<l>And to envisage circumstance, all calm,</l>
+<l>That is the top of sovereignty. Mark well!</l>
+<l>As Heaven and Earth are fairer, fairer far</l>
+<l>Than Chaos and blank Darkness, though once chiefs;</l>
+<l>And as we show beyond that Heaven and Earth</l>
+<l>In form and shape compact and beautiful,</l>
+<l>In will, in action free, companionship,</l>
+<l>And thousand other signs of purer life;</l>
+<l>So on our heels a fresh perfection treads,</l>
+<l>A power more strong in beauty, born of us</l>
+<l>And fated to excel us, as we pass</l>
+<l>In glory that old Darkness.</l>
+</lg>
+</lg>
+</quote></cit>
+<p>The more imaginative parts of the poem are worthy of this sublime 
+moral. <persName key="Hyperion" type="fictional">Hyperion</persName>, the God of the Sun, is the last to give way; but horror begins to visit his old beautitude with new and dread sensations. 
+The living beauty of his palace, whose portals open like a rose, the 
+awful phænomena that announce a change in heaven, and his inability 
+to bid the day break as he was accustomed, — all this part, in short, 
+which is the core and inner diamond of the poem, we must enjoy with 
+the reader.
+</p>
+<cit><quote>
+<lg xml:id="extract7" rend="center">
+<l rend='right'>His palace bright</l>
+<l>Bastion'd with pyramids of glowing gold,</l>
+<l>And touch'd with shade of bronzed obelisks,</l>
+<l>Glar'd a blood-red through all its thousand courts,</l>
+<l>Arches, and domes, and fiery galleries;</l>
+<l>And all its curtains of Aurorean clouds</l>
+<l>Flush'd angerly: while sometimes eagle's wings,</l>
+<l>Unseen before by Gods or wondering men,</l>
+<l>Darken'd the place; and neighing steeds were heard,</l>
+<l>Not heard before by Gods or wondering men.</l>
+<l>Also, when he would taste the spicy wreaths</l>
+<l>Of incense, breath'd aloft from sacred hills,</l>
+<l>Instead of sweets, his ample palate took</l>
+<l>Savour of poisonous brass and metal sick:</l>
+<l>And so, when harbour'd in the sleepy west.</l>
+<l>After the full completion of fair day.—–</l>
+<l>For rest divine upon exalted couch</l>
+<l>And slumber in the arms of melody,</l>
+<l>He pac'd away the pleasant hours of ease</l>
+<l>With stride colossal, or from hall to hall;</l>
+<l>While far within each aisle and deep recess,</l>
+<l>His winged minions in close clusters stood,</l>
+<l>Amaz'd and full of fear; like anxious men</l>
+<l>Who on wide plains gather in panting troops,</l>
+<l>When earthquakes jar their battlements and towers.</l>
+<l>Even now, while <persName key="Saturn" type="fictional">Saturn</persName>, rous'd from icy trance,</l>
+<l>Went step for step with <persName key="Thea" type="fictional">Thea</persName> through the woods,</l>
+<pb n="349"/>
+<l><persName key="Hyperion" type="fictional">Hyperion</persName>, leaving twilight in the rear,</l>
+<l>Came slope upon the threshold of the west;</l>
+<l>Then, as was wont, his palace-door flew <choice><sic>ope</sic><corr>open</corr></choice></l>
+<l>In smoothest silence, save what solemn tubes,</l>
+<l>Blown by the serious Zephyrs, gave of sweet</l>
+<l>And wandering sounds, slow-breathed melodies;</l>
+<l>And like a rose in vermeil tint and shape,</l>
+<l>In fragrance soft, and coolness to the eye,</l>
+<l>That inlet to severe magnificence</l>
+<l>Stood full blown, for the God to enter in.</l>
+<l>He enter'd, but he enter'd full of wrath;</l>
+<l>His flaming robes streamed out beyond his heels,</l>
+<l>And gave a roar, as if of earthly fire,</l>
+<l>That scar'd away the meek ethereal Hours</l>
+<l>And made their dove-wings tremble. On he flared,</l>
+<l>From stately nave to nave, from vault to vault,</l>
+<l>Through bowers of fragrant and enwreathed light,</l>
+<l>And diamond-paved lustrous long arcades,</l>
+<l>Until He reach'd the great main cupola;</l>
+<l>There standing fierce beneath, he stampt his foot,</l>
+<l>And from the basements deep to the high towers</l>
+<l>Jarr'd his own golden region; and before</l>
+<l>The quavering thunder thereupon had ceas'd,</l>
+<l>His voice leapt out, despite of godlike curb,</l>
+<l>To this results: "O dreams of day and night!</l>
+<l>"O monstrous forms! O effigies of pain!</l>
+<l>"O spectres busy in a cold, cold gloom!</l>
+<l>"O lank-eared Phantoms of black-weeded pools!</l>
+<l>"Why do I know ye ? why have I seen ye? why</l>
+<l>"Is my eternal essence thus distraught</l>
+<l>"To see and to behold these horrors new?</l>
+<l>"<persName key="Saturn" type="fictional">Saturn</persName> is fallen, am I too to fall?</l>
+<l>"Am I to leave this haven of my rest,</l>
+<l>"This cradle of my glory, this soft clime,</l>
+<l>"This calm luxuriance of blissful light,</l>
+<l>"These crystalline pavilions, and pure fanes,</l>
+<l>"Of all my lucent empire? It is left</l>
+<l>"Deserted, void, nor any haunt of mine.</l>
+<l>"The blaze, the splendor, and the symmetry,</l>
+<l>"I cannot see — but darkness, death and darkness.</l>
+<l>"Even here, into my centre of repose,</l>
+<l>"The shady visions come to domineer,</l>
+<l>"Insult, and blind, and stifle up my pomp.–—</l>
+<l>"Fall! — No, by <persName key="Tellus" type="fictional">Tellus</persName> and her briny robes!</l>
+<l>"Over the fiery frontier of my realms</l>
+<l>"I will advance a terrible right arm</l>
+<l>"Shall scarce that infant thunderer, rebel <persName key="Jove" type="fictional">Jove</persName>,</l>
+<l>"And bid old <persName key="Saturn" type="fictional">Saturn</persName> take his throne again."–—</l>
+<l>He spake, and ceas'd, the while a heavier threat</l>
+<l>Held struggle with his throat but came not forth;</l>
+<l>For as in theatres of crowded men</l>
+<l>Hubbub increases more they call out "Hush!"</l>
+<l>So at <persName key="Hyperion" type="fictional">Hyperion</persName>'s words the <persName>Phantoms</persName> pale</l>
+<l>Bestirred themselves, thrice horrible and cold;</l>
+<l>And from the mirror'd level where he stood</l>
+<l>A mist arose, as from a scummy marsh.</l>
+<l>At this, through all his bulk an agony</l>
+<l>Crept gradual, from the feet unto the crown,</l>
+<l>Like a lithe serpent vast and muscular</l>
+<l>Making slow way, with head and neck convuls'd</l>
+<l>From over-strained might. Releas'd, he fled</l>
+<l>To the eastern gates, and full six dewy hours</l>
+<l>Before the dawn in season due should blush,</l>
+<l>He breath'd fierce breath against the sleepy portals,</l>
+<l>Clear'd them of heavy vapours, burst them wide</l>
+<pb n="350"/>
+<l>Suddenly on the ocean's chilly streams.</l>
+<l>The planet orb of fire, whereon he rode</l>
+<l>Each day from east to west the heavens through,</l>
+<l>Spun round in sable curtaining of clouds;</l>
+<l>Not therefore veiled quite, blindfold, and hid,</l>
+<l>But ever and anon the glancing spheres,</l>
+<l>Circles, and arcs, and broad-belting colure,</l>
+<l>Glow'd through, and wrought opon the muffling dark</l>
+<l>Sweet-shaped lightnings from the nadir deep</l>
+<l>Up to the zenith, — hieroglyphics old,</l>
+<l>Which sages and keen-eyed astrologers</l>
+<l>Then Irving on the earth, with labouring thought</l>
+<l>Won from the gaze of many centuries:</l>
+<l>Now lost, save what we find on remnants huge</l>
+<l>Of stone, or marble swart; their import gone,</l>
+<l>Their wisdom long since fled. — Two wings this orb</l>
+<l>Possss'd for glory, two fair argent wings,</l>
+<l>Ever exalted at the God's approach:</l>
+<l>And now, from forth the gloom their plumes immense</l>
+<l>Rose, one by one, till all outspreaded were;</l>
+<l>While still the dazzling globe maintain'd eclipse,</l>
+<l>Awaiting for <persName key="Hyperion" type="fictional">Hyperion</persName>'s command.</l>
+<l>Fain would he have commanded, fain took throne</l>
+<l>And bid the day begin, if but for change.</l>
+<l>He might not: — No, though a primeval God:</l>
+<l>The sacred seasons might not be disturb'd.</l>
+<l>Therefore the operations of the dawn</l>
+<l>Stay'd in their birth, even as here 'tis told.</l>
+<l>Those silver wings expanded sisterly,</l>
+<l>Eager to sail their orb; the porches wide</l>
+<l>Open'd upon the dusk demesnes of night;</l>
+<l>And the bright Titan, phrenzied with new woes,</l>
+<l>Unus'd to bend, by hard compulsion bent</l>
+<l>His spirit to the sorrow of the time;</l>
+<l>And all along a dismal rack of clouds,</l>
+<l>Upon the boundaries of day and night,</l>
+<l>He stretch'd himself in grief and radiance faint.</l>
+</lg>
+</quote>
+</cit>
+<p>The other Titans, lying half lifeless in their valley of despair, are happily compared to</p>
+<cit><quote>
+<lg rend="center" xml:id="extract8">
+<l rend="right">A dismal cirque</l>
+<l>Of Druid Stones, upon a forlorn moor,</l> 
+<l>When the chill rain begins at shut of eve,</l>
+<l>In dull November, and their chancel vault,</l> 
+<l>The Heaven itself, is blinded thronghout night.</l>
+</lg>
+</quote></cit>
+<p>The fragment ends with the deification of <persName key="Apollo" type="fictional">Apollo</persName>. It strikes us that there is something too effeminate and human in the way in which 
+<persName key="Apollo" type="fictional">Apollo</persName> receives the exaltation which his wisdom is giving him. He 
+weeps and wonders somewhat too fondly; but his powers gather nobly 
+on him as he proceeds. lie exclaims to <persName key="Mnemosyne" type="fictional">Mnemosyne</persName>, the Goddess of 
+Memory,</p>
+<cit><quote><lg>
+<l>Knowledge enormous makes a God of me,</l>
+<l>Names, deeds, gray legends, dire events, rebellions,</l>
+<l>Majesties, sovran voices, agonies,</l>
+<l>Creations and destroyings, all at once</l>
+<l>Pour into the wide hollows of my brain,</l>
+<l>And deify me, as if some blithe vine</l>
+<l>Or bright elixir peerless I had drunk,</l>
+<l>And so become immorlal.</l>
+</lg>
+</quote></cit>
+<pb n="351"/>
+<p>
+After this speech, he is seized with a glow of aspiration, and an intensity of pain, proportioned to the causes that are changing him; <persName key="Mnemosyne" type="fictional">Mnemosyne</persName> upholds her arms, as one who prophesied; and</p>
+<cit><quote><lg rend="center">
+<l rend="right">At length</l> 
+<l><persName key="Apollo" type="fictional">Apollo</persName> shrieked; — and lo!<note type="editorial">According to the Oxford Dictionary, lo! is an archaic exclamation "used to draw attention to an interesting or amazing event".</note> from all his limbs</l>
+<l>Celestial  <hi>*  *  *  *  *  *</hi></l>
+</lg></quote></cit>
+<p>Here the poem ceases, to the great impatience of the poetical reader. 
+If any living poet could finish this fragment, we believe it is the 
+author himself. But perhaps he feels that he ought not. A story 
+which involves passion, almost of necessity involves speech; and 
+though we may well enough describe beings greater than ourselves by 
+comparison, unfortunately we cannot make them speak by comparison. 
+<persName key="John Keats" type="real">Mr. Keats</persName>, when he first introduces <persName>Thea</persName> consoling <persName key="Saturn" type="fictional">Saturn</persName>, says that 
+she spoke</p>
+<cit><quote><lg rend="center">
+<l>Some mourning words, which in our feeble tongue</l>
+<l>Would come in these like accents; O how frail</l>
+<l>To that large utterance of the early Gods!</l>
+</lg></quote></cit>
+<p>This grand confession of want of grandeur is all that he could do for 
+them. <persName key="John Milton" type="real">Milton</persName> could do no more. Nay, he did less, when according to <persName type="real" key="Alexander Pope">Pope</persName> he made</p>
+<cit><quote>
+<l rend="center">God the father turn a school divine.</l>
+</quote></cit>
+<p>The moment the Gods speak, we forget that they did not speak like 
+ourselves. The fact is, they feel like ourselves; and the poet would 
+have to make them feel otherwise, even if he could make them speak 
+otherwise, which he cannot, unless he venture upon an obscurity which 
+would destroy our sympathy: and what is sympathy with a God, but 
+turning him into a man? We allow, that superiority and inferiority 
+are, after all, human terms, and imply, something not so truly fine and 
+noble as the levelling of a great sympathy and love; but poems of the 
+present nature, like <title>Paradise Lost</title>, assume a different principle; and 
+fortunately perhaps, it is one which it is impossible to reconcile with 
+the other.</p>
+<p>We have now to conclude the surprise of the reader, who has seen 
+what solid stuff these poems are made of, with informing him of what 
+the book has not mentioned, — that they were almost all written four 
+years ago, when the author was but twenty. Ay, indeed! cries a 
+critic, rubbing his hands delighted (if indeed even criticism can do 
+so, any longer); "then that accounts for the lines you speak of, written in the taste of <persName type="real" key="Giambattista Marino">Marino</persName>." — It does so; but, sage Sir, after settling the merits of those one or two lines you speak of, what accounts, pray, for a small matter which you leave unnoticed, namely, all the rest? — 
+The truth is, we rather mention this circumstance as a matter of ordinary curiosity, than <choice><orig>any thing</orig><reg>anything</reg></choice> else; for great faculties have great privileges, and leap over time as well as other obstacles. Time itself, 
+and its continents, are things yet to be discovered. There is no knowing even how much duration one man may crowd into a few years, while others drag out their slender lines. There are circular roads 
+full of hurry and scenery, and straight roads full of listlessness and 
+barrenness; and travellers may arrive by both, at the same hour. The
+<pb n="352"/>
+<persName key="John Milton" type="real">Milton</persName>s, who bring intellectually old, and still intellectual, <choice><sic>end</sic><corr>and</corr></choice> physically old, are indeed Methusalems; and may such be our author, their son.</p>
+<p><persName key="John Keats" type="real">Mr. Keats</persName>'s versification sometimes reminds us of <persName key="John Milton" type="real">Milton</persName> in his blank verse, and sometimes of <persName type="real" key="George Chapman">Chapman</persName> both in his blank verse and 
+rhyme; but his faculties, essentially speaking, though partaking of the 
+unearthly aspirations and abstract yearnings of both these poets, are 
+altogether his own. They are ambitious, but less directly so. They 
+are more social, and in the finer sense of the word, sensual, than either. 
+They are more coloured by the modern philosophy of sympathy and 
+natural justice. <title>Endymion</title>, with all its extraordinary powers, partook of the faults of youth, though the best ones; but the reader of <title>Hyperion</title> 
+and these other stories would never guess that they were written at 
+twenty. The author's versification is now perfected, the exuberances 
+of his imagination restrained, and a calm power, the surest and loftiest 
+of all power, takes place of the impatient workings of the younger 
+god within him. The character of his genius is that of energy and 
+voluptuousness, each able at will to take leave of the other, and possessing, in their union, a high feeling of humanity not common to the best authors who can less combine them. <persName key="John Keats" type="real">Mr. Keats</persName> undoubtedly 
+takes his seat with the oldest and best of our living poets.</p>
+<p>We have carried our criticism to much greater length than we intended; but in truth, whatever the critics might think, it is a refreshment to us to get upon other people's thoughts, even though the rogues be our contemporaries. Oh! how little do those minds get out of 
+themselves, and what fertile and heaven-breathing prospects do they 
+lose, who think that a man must be confined to the mill-path of his 
+own homestead, merely that he may avoid seeing the abundance of his 
+neighbours! Above all, how little do they know of us eternal, 
+weekly, and semi-weekly writers! We do not mean to say that it is 
+not very pleasant to run upon a smooth road, seeing what we like, and 
+talking what we like; but we do say, that it is pleasanter than all, 
+when we are tired, to hear what we like, and to be lulled with congenial thoughts and higher music, till we are fresh to start again upon our journey. What we would not give to have a better <title level="j">Examiner</title> and a better <title level="j">Indicator</title> than our own twice every week, uttering our own thoughts in a finer manner, and altering the world faster and better 
+than we can alter it! How we should like to read our present number, five times bettered; and to have nothing to do, for years and years, but to pace the green lanes, forget the tax-gatherer, and vent 
+ourselves now and then in a verse. 
+</p>
+    </div2>
+    <div2 type="colophon"> <!-- Publisher and printer information -->
+        <p>Printed and published by <hi rend="smallcaps"><persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName></hi>, No. 19, Catherine-street, Strand. 
+            Price 2d. — And sold also by <hi rend="smallcaps"><orgName cert="low">A. Gliddon</orgName></hi>, Importer of Snuffs, No. 31, Tavistock-street, Covent-garden. Orders received at the above places, and by all Booksellers and Newsmen.</p>
+        </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
