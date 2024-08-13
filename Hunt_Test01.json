@@ -1,0 +1,303 @@
+{
+          "outputNER/ner_theIndicator01.xml": {
+                    "forematter": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055"
+                                        },
+                                        "fictional": {}
+                              },
+                              "places": {
+                                        "Africa": {
+                                                  "name": "Africa",
+                                                  "url": "http://www.wikidata.org/entity/Q15",
+                                                  "place_type": "continent",
+                                                  "country": "Africa"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {
+                                        "1819-10-13": "—WEDNESDAY, OCTOBER 13th, 1819"
+                              }
+                    },
+                    "section 1": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {},
+                                        "fictional": {}
+                              },
+                              "places": {},
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 2": {
+                              "header": "The Difficulty of Finding a Name for a Work of this Kind.",
+                              "subheader": "",
+                              "title": [
+                                        "Love's Labour Lost",
+                                        "the Adviser",
+                                        "Helps for Composing",
+                                        "the Cheap Reflector",
+                                        "Every Man His Own Looking- Glass",
+                                        "the Retailer",
+                                        "Every Man His Own Other Man's Wit",
+                                        "Nonsense",
+                                        "the Crocodile",
+                                        "Pleasing Companion",
+                                        "Chaos",
+                                        "the Agreeable Miscellany",
+                                        "the Fugitive Guide",
+                                        "the Foot-Soldier",
+                                        "Flowers of Wit",
+                                        "Bigotry",
+                                        "the Cheerful Instructor",
+                                        "the Polite Repository of Abuse",
+                                        "Blood, being a Collection of Light Essays",
+                                        "the Pleasing Ancestor",
+                                        "the Silent Remarker",
+                                        "the Tart",
+                                        "the Leg of Beef by a Layman",
+                                        "the Ingenious Hatband",
+                                        "the Booths of Bliss",
+                                        "the Occasional Diner",
+                                        "the Tooth-ache",
+                                        "Recollections of a Very Unpleasant Nature",
+                                        "Thoughts on Taking up a Pair of Snuffers",
+                                        "Thoughts on a Barouche-Box",
+                                        "Thoughts on a Hill of Considerable Eminence",
+                                        "Meditations on a Pleasing Idea",
+                                        "Materials for Drinking",
+                                        "the Knocker, No. I",
+                                        "the Hippopotamus Entered at Stationers' Hall",
+                                        "the Piano-forte",
+                                        "the Seven Sleepers at Cards",
+                                        "the Arabian Nights on Horseback"
+                              ],
+                              "bibl": {
+                                        "title": {
+                                                  "Love's Labour Lost": {
+                                                            "author": "William Shakespeare",
+                                                            "ref": "https://www.google.com/search?q=paradise+lost&rlz=1C5GCCM_en&oq=paradise+lo&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBggCEEUYOTIHCAMQABiABDITCAQQLhivARjHARiABBiYBRiZBTIKCAUQLhjUAhiABDIKCAYQLhjUAhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8"
+                                                  }
+                                        }
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Paulus Aemilius": "http://www.wikidata.org/entity/Q7155382"
+                                        },
+                                        "fictional": {}
+                              },
+                              "places": {},
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 3": {
+                              "header": "A Mistake of Mr. Thomas Paine's upon Learning; and a Word or Two on Translation",
+                              "subheader": "",
+                              "title": [
+                                        "Euclid's Elements",
+                                        "The Merchant of Venice"
+                              ],
+                              "bibl": {
+                                        "title": {
+                                                  "The Merchant of Venice": {
+                                                            "author": "William Shakespeare",
+                                                            "ref": "https://www.google.com/search?q=the+merchant+of+venice"
+                                                  }
+                                        }
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Thomas Paine": "http://www.wikidata.org/entity/Q126462",
+                                                  "Jane Welsh Carlyle": "http://www.wikidata.org/entity/Q6152913",
+                                                  "Homer": "http://www.wikidata.org/entity/Q6691",
+                                                  "Alexander Pope": "http://www.wikidata.org/entity/Q164047",
+                                                  "Horace": "http://www.wikidata.org/entity/Q6197",
+                                                  "Ludovico Ariosto": "http://www.wikidata.org/entity/Q48900",
+                                                  "Euripides": "http://www.wikidata.org/entity/Q48305",
+                                                  "Aeschylus": "http://www.wikidata.org/entity/Q40939",
+                                                  "Sophocles": "http://www.wikidata.org/entity/Q7235",
+                                                  "Theocritus": "https://www.wikidata.org/wiki/Q219484",
+                                                  "Petrarch": "http://www.wikidata.org/entity/Q1401",
+                                                  "William Shakespeare": "http://www.wikidata.org/entity/Q692"
+                                        },
+                                        "fictional": {}
+                              },
+                              "places": {},
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 4": {
+                              "header": "A Mistake of Mr. Thomas Paine's upon Learning; and a Word or Two on TranslationAbaris",
+                              "subheader": "",
+                              "title": [
+                                        "To the Earl of Peterborough"
+                              ],
+                              "bibl": {
+                                        "title": {
+                                                  "To the Earl of Peterborough": {
+                                                            "author": "Jonathan Swift",
+                                                            "ref": "https://www.google.com/search?q=to+the+earl+of+peterborough+jonathan+swift&sca_esv=f34a7ccbd9a4492c&ei=gwO1ZryYAfat5NoPrd7B-Qw&ved=0ahUKEwj85dfm-OWHAxX2FlkFHS1vMM8Q4dUDCBA&uact=5&oq=to+the+earl+of+peterborough+jonathan+swift"
+                                                  }
+                                        }
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Abaris the Hyperborean": "Abaris the Hyperborean",
+                                                  "Pythagoras": "http://www.wikidata.org/entity/Q10261",
+                                                  "Jonathan Swift": "http://www.wikidata.org/entity/Q41166",
+                                                  "Charles Mordaunt, 3rd Earl of Peterborough": "http://www.wikidata.org/entity/Q1065565",
+                                                  "Cyrus the Great": "http://www.wikidata.org/entity/Q8423",
+                                                  "Artaxerxes I of Persia": "http://www.wikidata.org/entity/Q189689",
+                                                  "Xenophon": "http://www.wikidata.org/entity/Q129772"
+                                        },
+                                        "fictional": {
+                                                  "Apollo": "http://www.wikidata.org/entity/Q37340",
+                                                  "Abradatas": "http://dbpedia.org/resource/Abradatas",
+                                                  "Pantea Arteshbod": "http://www.wikidata.org/entity/Q2049876"
+                                        }
+                              },
+                              "places": {
+                                        "Susa": {
+                                                  "name": "Susa",
+                                                  "url": "http://www.wikidata.org/entity/Q180773",
+                                                  "place_type": "city",
+                                                  "country": "Iran"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 5": {
+                              "header": "A Mistake of Mr. Thomas Paine's upon Learning; and a Word or Two on TranslationAbarisUriel Acosta",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Uriel da Costa": "http://www.wikidata.org/entity/Q347893"
+                                        },
+                                        "fictional": {}
+                              },
+                              "places": {
+                                        "Amsterdam": {
+                                                  "name": "Amsterdam",
+                                                  "url": "http://www.wikidata.org/entity/Q727",
+                                                  "place_type": "city",
+                                                  "country": "The Netherlands"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 6": {
+                              "header": "A Mistake of Mr. Thomas Paine's upon Learning; and a Word or Two on TranslationAbarisUriel AcostaPolyphemus, Acis, and Galatea",
+                              "subheader": "",
+                              "title": [
+                                        "Odyssey"
+                              ],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Homer": "http://www.wikidata.org/entity/Q6691",
+                                                  "Theocritus": "http://www.wikidata.org/entity/Q219484",
+                                                  "Virgil": "http://www.wikidata.org/entity/Q1398",
+                                                  "Ovid": "http://www.wikidata.org/entity/Q7198",
+                                                  "Raphael": "http://www.wikidata.org/entity/Q5597",
+                                                  "George Frideric Handel": "http://www.wikidata.org/entity/Q7302",
+                                                  "John Gay": "http://www.wikidata.org/entity/Q321660"
+                                        },
+                                        "fictional": {
+                                                  "Polyphemus": "http://www.wikidata.org/entity/Q193567",
+                                                  "Acis": "http://www.wikidata.org/entity/Q419156",
+                                                  "Galatea": "http://www.wikidata.org/entity/Q241070",
+                                                  "Faunus": "http://www.wikidata.org/entity/Q3089703",
+                                                  "Neptune": "http://www.wikidata.org/entity/Q3954",
+                                                  "Jupiter": "http://www.wikidata.org/entity/Q4649"
+                                        }
+                              },
+                              "places": {
+                                        "Sicily": {
+                                                  "name": "Sicily",
+                                                  "url": "http://www.wikidata.org/entity/Q1460",
+                                                  "place_type": "region",
+                                                  "country": "Italy"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {}
+                    },
+                    "section 7": {
+                              "header": "A Mistake of Mr. Thomas Paine's upon Learning; and a Word or Two on TranslationAbarisUriel AcostaPolyphemus, Acis, and GalateaAnacreon's Portrait of His Mistress.",
+                              "subheader": "",
+                              "title": [
+                                        "Anacreon's Portrait of his Mistress"
+                              ],
+                              "bibl": {
+                                        "title": {
+                                                  "ANACREON'S PORTRAIT OF HIS MISTRESS": {
+                                                            "author": "Leigh Hunt"
+                                                  }
+                                        }
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Anacreon": "http://www.wikidata.org/entity/Q213484"
+                                        },
+                                        "fictional": {
+                                                  "Minerva": "http://www.wikidata.org/entity/Q126916"
+                                        }
+                              },
+                              "places": {
+                                        "Kythira": {
+                                                  "name": "Kythira",
+                                                  "url": "http://www.wikidata.org/entity/Q207239",
+                                                  "place_type": "region",
+                                                  "country": "Greece"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {}
+                    },
+                    "colophon": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Joseph Appleyard": "Joseph Appleyard",
+                                                  "C. H. Reynell": "C. H. Reynell"
+                                        },
+                                        "fictional": {}
+                              },
+                              "places": {
+                                        "No. 45, Broad-street, Golden-square, London": {
+                                                  "name": "No. 45, Broad-street, Golden-square, London",
+                                                  "url": null,
+                                                  "place_type": "address",
+                                                  "country": "England"
+                                        }
+                              },
+                              "org": {},
+                              "dates": {}
+                    }
+          }
+}
