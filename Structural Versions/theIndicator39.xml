@@ -385,7 +385,7 @@
           <head type="catalogue" rend="center">No. XXXIX.<date when="1820-07-05"> —WEDNESDAY, July 5th, 1820</date>.</head>
         </div2>
         <div2 type="section" n="1"> <!-- Header and content -->
-          <head type="header" rend="center"><persName key="Galgano" type="fictional" xml:id="galgano" cert="medium">GALGANO</persName> AND <persName type="fictional" xml:id="minoccia">MADONNA MINOCCIA</persName>.</head>
+          <head type="header" rend="center uppercase"><persName key="Galgano" type="fictional" xml:id="galgano" cert="medium">Galgano</persName> and <persName type="fictional" xml:id="minoccia">Madonna Minoccia</persName>.</head>
            <p>In <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName> in <placeName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" key="Italy" ref="http://www.wikidata.org/entity/Q38" xml:id="Italy">Italy</placeName> , famous for it's sweet voices and pleasant air, lived a sprightly aud accomplished young man of the name of 
 <persName type="fictional" cert="medium" corresp="#galgano">Galgano</persName>, who had long loved in vain the wife of one <persName type="fictional">Signor Stricca</persName>. 
 He knew nothing of the husband, except that he was what we call a 
@@ -591,7 +591,7 @@ moved to some regard for me by qualities which you know only by report, will gue
 <p>We know not how <persName type="fictional">Signor Stricca</persName> received the account of this interview at the time; for Madame <persName type="fictional" corresp="#minoccia">Minoccia</persName> certainly related it to him; but it is in the records of <placeName key="Siena" ref="http://www.wikidata.org/entity/Q2751" cert="high">Sienna</placeName>, that years afterwards, while she was yet alive, her husband became bound for Signor <persName type="fictional">Galgano</persName> in a large sum of money, as security for an office which the latter held in the state; and it appears by the dates in the papers, that they were close neighbours as well as friends.<note type="hunt">This story (with the usual difference of detail) is from the Italian Novelists, and has been told in Painter's Palace of Pleasure, one of the store-houses of our great dramatic writers.</note></p>
         </div2>
        <div2 type="section" n="2"> <!-- Header and content -->
-          <head type="header" rend="center">ON THE SLOW RISE OF THE MOST RATIONAL OPINIONS.</head>
+          <head type="header" rend="center uppercase">On the Slow Rise of the Most Rational Opinions.</head>
           <!--Continue here-->
           <p>
           It would be surprising to think by what slow degrees the most rational, and apparently the most obvious improvements take place in humau opinion, did not habit, and self-love, and the fear of change, sufficiently account for them. Some find it as difficult to leave off a mere habit of opinion, however pernicious, as drunkards their drams. Others cannot bear a diminution in the respect which they have long entertained for themselves, as sensible and conclusive thinkers. Others are afraid of all innovation, in consequence of the shock it gives to society; and yet the next minute they would wage a dozen wars to preserve the old notions. Again, it is thought a triumphant argument with some, if the new opinion proposed be to the advantage of the proposer; — which is a very idle objection; because if it supposes the general good, it includes his among the rest.</p> 
@@ -616,7 +616,7 @@ and religious. This excellent person was in the habit of moralizing upon every t
 <p>We laugh at this wretched moral pedantry now, and deplore the involuntary hard-heartedness which such mistakes in religion tended to produce; but in how many respects should it not make us look about us, and see where we fall short of an enlargement of thinking?</p>
           </div2>
            <div2 type="correspondents">
-                    <head type="header" rend="center">TO CORRESPONDENTS.</head>
+                    <head type="header" rend="center uppercase">To Correspondents.</head>
                     <p><hi rend="italic">A True Story</hi> will be inverted<note type="editorial">Could also be "invented". Level of certainty of this word is low since it is not clear in the source text due to an insufficient ink printing defect.</note> with pleasure.
                     </p>
                     </div2>
