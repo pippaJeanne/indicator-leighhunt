@@ -57,7 +57,7 @@
                     <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header"> THE INDICATOR AND EXAMINER. — AUTUMNAL COMMENCEMENT OF FIRES. — MANTLE-PIECES. — APARTMENTS FOR STUDY. </head>
+                    <head type="header" rend="center uppercase"> The Indicator and Examiner. — Autumnal Commencement of Fires. — Mantle-Pieces. — Apartments For Study. </head>
 <p>One or two persons, we understand, have supposed that the present  
 periodical work will interfere with the literary part of another, in  
 which the Editor has long been concerned. This is a great mistake.  
@@ -202,10 +202,10 @@ study in <persName key="Fletcher">Fletcher</persName>'s play of the <bibl><title
 </div2>
 
 <div2 type="section" n="2">
-<head type="header" rend="center">ACONTIUS AND CYDIPPE,</head>
-<head type="subheader" rend="center">A LOVE STORY IN THE ANTIENT WRITERS.</head>
+<head type="header" rend="center uppercase"><persName key="Acontius">Acontius</persName> and <persName key="Cydippe">Cydippe</persName>,</head>
+<head type="subheader" rend="center uppercase">A Love Story in the Antient Writers.</head>
 <p><persName key="Acontius">Acontius</persName> was a youth of the island <placeName type="region" key="Kea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
-sacrifices in honour of <persName key="Diana">Diana</persName> fell in love with this beautiful virgin,  
+sacrifices in honour of <persName key="Diana" xml:id="Diana">Diana</persName> fell in love with this beautiful virgin,  
 <persName key="Cydippe">Cydippe</persName>; but she was unfortunately so much above him in rank,  
 that he had no hope of obtaining her hand in the usual way The  
 
@@ -218,7 +218,7 @@ upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
 <p>The words were these; — </p>
 
 <q xml:lang="anc-Greek">MA THN APTEMIN AKONTIΩ ΓAMOΥMAI.</q>
-<q>By <persName key="Diana">Dian</persName>, I will marry <persName key="Acontius">Acontius</persName>. </q>
+<q>By <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will marry <persName key="Acontius">Acontius</persName>. </q>
 
 <p>Or as a poet has written them : </p>
 
@@ -231,7 +231,7 @@ upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
         <bibl><author>Thomas Burton</author><title level="a">Love-Melancholy and Religious Melancholy</title><ref target="https://www.exclassics.com/anatomy/anatomy3.txt"/></bibl>
     </note>
 </cit>
-<lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName key="Diana">Dian</persName>, I will be </l>
+<lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will be </l>
 <l>Thy bride betrothed, and bear thee company. </l></lg>
 
 <p><persName key="Cydippe">Cydippe</persName> read, and married herself. — It is said that she was repeatedly  
@@ -247,7 +247,7 @@ to the apples of her breast.</q><note type="source"><bibl><author>Sir Philip Sid
 <persName key="Theocritus">Theocritus</persName>, <note type="hunt">(Idyl. 27- v. 50. Edit. <persName key="Lodewijk Caspar Valckenaer">Valckenaer</persName>.)</note> from whom it was  
 copied by the Italian writers. It makes a lovely figure in one of the  
 most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, where he describes the beauty of  
-<persName key="Alcina">Alcina</persName> <note type="hunt">(<title level="m">Orlando Furioso</title>, Canto 7- st. 14.)</note> : — </p>
+<persName key="Alcina">Alcina</persName> <note type="hunt">(<bibl><title level="m">Orlando Furioso</title>, <biblScope>7- st. 14.</biblScope></bibl>)</note> : — </p>
 
 <cit><quote>
 <lg xml:lang="it"> <l>Bianca neve e il bel collo, e'l petto latte: </l>
@@ -308,7 +308,7 @@ most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, whe
 </div2>
 
 <div2 type="section" n="3">
-<head type="header"><placeName type="city" key="Venice" corresp="Italy">VENICE</placeName>.</head> 
+<head type="header" rend="center uppercase"><placeName type="city" key="Venice" corresp="Italy">Venice</placeName>.</head> 
 
 <p>This is the country of <persName key="Titian">Titian</persName>, of <persName key="Palladio">Palladio</persName>, of <persName key="Marcello">Marcello</persName>, who from  
 a nobleman became one of the finest musicians in <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>; of <persName key="Pietro Bembo">Bembo</persName>,  
