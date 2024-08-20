@@ -151,7 +151,7 @@ Examples
 <!--first occurrence of many-->
 <persName key="Robert Boyle" ref="http://www.wikidata.org/entity/Q43393" cert="medium" type="real" xml:id="robertBoyle">Robert Boyle</persName> 
 <!--other occurrences of same key-->
-<persName key="Robert Boyle" type="real" ref="#robertBoyle">Mr. Boyle</persName>
+<persName ref="#robertBoyle">Mr. Boyle</persName>
 
 <!--unique occurrence-->
 <persName key="King James VI of Scotland and I of England (1566–1625)" ref="http://www.wikidata.org/entity/Q118876108" cert="high" type="real">King James</persName>

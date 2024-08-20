@@ -320,7 +320,7 @@ convulsive change, and flies towards <placeName type="region" corresp="Greece" k
 <cit><quote><l rend="center">A full-born beauty, new and exquisite.</l></quote></cit>
 
 <p><persName key="Lamia" type="fictional">Lamia</persName>, whose liability to painful metamorphosis was relieved by a 
-supernatural imagination, had been attracted by the beauty of <persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName>, 
+supernatural imagination, had been attracted by the beauty of <persName type="real" ref="#lycius">Lycius</persName>, 
 while pitching her mind among the enjoyments of <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>. By the 
 same process, she knew that he was to pass along, that evening, on the 
 road from the sea-side to <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>; and there accordingly she contrives 
@@ -328,7 +328,7 @@ to have an interview, which ends in his being smitten with love, and
 conducting her to her pretended home in that city. She represents 
 herself as a rich orphan, living "but half-retired," and affects to won- 
 der that he never saw her before. As they enter <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>, they pass 
-the philosopher <persName type="real" key="Apollonius of Tyana">Apollonius</persName>, who is <persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName>'s tutor, and from whom he 
+the philosopher <persName type="real" key="Apollonius of Tyana">Apollonius</persName>, who is <persName type="real" ref="#lycius">Lycius</persName>'s tutor, and from whom he 
 instinctively conceals his face. <persName key="Lamia" type="fictional">Lamia</persName>'s hand shudders in that of her 
 lover; but she says she is only wearied; and at the same moment, 
 they stop at the entrance of a magnificent house:-</p>
@@ -341,7 +341,7 @@ they stop at the entrance of a magnificent house:-</p>
 </lg></quote></cit>
 <p>Here they lived for some time, undisturbed by the world, in all the 
 delight of a mutual passion. The house remained invisible to all eyes, 
-but those of <persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName>. There were a few Persian mutes, <q>"seen that 
+but those of <persName ref="#lycius">Lycius</persName>. There were a few Persian mutes, <q>"seen that 
 year about the markets;"</q> and nobody knew whence they came; but 
 the most inquisitive were baffled in endeavouring to track them to some 
 place of abode.</p>
@@ -357,7 +357,7 @@ Every night</p>
 <l>And down the passage cast a glow upon the floor.</l>
 </lg></quote></cit>
 
-<p><persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName>, to the great distress of his mistress, who saw in his vanity a great danger, persuaded her to have a public wedding-feast. She only 
+<p><persName ref="#lycius">Lycius</persName>, to the great distress of his mistress, who saw in his vanity a great danger, persuaded her to have a public wedding-feast. She only 
 begged him not to iitvite <persName type="real" key="Apollonius of Tyana">Apollonius</persName>; and then, resolving to dress up her bridals with a sort of despairing magnificence, equal to her apprehensions of danger, she worked a fairy architecture in secret, served only with the noise of wings and a restless sound of music––</p>
 <cit><quote>
 <lg rend="center">
@@ -407,7 +407,7 @@ would have ended well enough, when the wine prevailed, had not
 <l>Full on the alarmed-beauty of the bride,</l>
 <l>Brow-beating her fair form, and troubling her sweet pride.</l>
 </lg></quote></cit>
-<p><persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName> felt her hand grow alternately hot and cold, and wondered 
+<p><persName ref="#lycius">Lycius</persName> felt her hand grow alternately hot and cold, and wondered 
 more and more both at her agitation and the conduct of his old tutor. 
 He looked into her eyes, but they looked nothing in return: he spoke 
 to her, but she made o answer: by degrees the music ceased, the 
@@ -426,7 +426,7 @@ ought to see him made the prey of a serpent. A mortal faintness came
 into the breath of <persName key="Lamia" type="fictional">Lamia</persName> at this word; she motioned him, as well 
 as she could to be silent; but looking her stedfastly in the face, he 
 repeated Serpent! and she vanished with a horrible scream. Upon 
-the same night, died <persName type="real" key="Menippus of Lycia" ref="#lycius">Lycius</persName> and was swathed for the funeral in 
+the same night, died <persName ref="#lycius">Lycius</persName> and was swathed for the funeral in 
 his wedding-garments.</p>
 
 <p><persName key="John Keats" type="real">Mr. Keats</persName> has departed as much from common-place in the character 
@@ -568,7 +568,7 @@ his imagination depart,</p>
 <cit><quote>
 <lg rend="center" xml:id="extract2">
 <lg xml:id="half-stanza">
-<l>For <persName key="Isabella" type="fictional"  ref="#isabella">Isabel</persName>, sweet <persName key="Isabella" type="fictional"  ref="#isabella">Isabel</persName>, will die;</l>
+<l>For <persName type="fictional"  ref="#isabella">Isabel</persName>, sweet <persName type="fictional"  ref="#isabella">Isabel</persName>, will die;</l>
 <l>Will die a death too lone and incomplete,</l>
 <l>Now they have ta'en away her <persName key="Basil" type="fictional">Basil</persName> sweet.</l>
 </lg>
