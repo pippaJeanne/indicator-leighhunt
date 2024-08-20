@@ -3,7 +3,7 @@ import json
 from os import listdir # install the "listdir" package (pip install dirlist)
 from os.path import isfile, join
 files =[]
-dir = "Structural Versions"
+dir = "outputNER"
 for file in listdir(dir): 
     if isfile(join(dir, file)):
         files.append(dir + "/" + file)
@@ -25,7 +25,7 @@ def compile():
         result[file]["bibl"]["title"] = {}
         result[file]["persons"] = {}
         result[file]["persons"]["real"] = {}
-        result[file]["persons"]["fictional"] = []
+        result[file]["persons"]["fictional"] = {}
         result[file]["places"] = {}
         result[file]["org"] = {}
         result[file]["dates"] = {}
@@ -52,12 +52,14 @@ def compile():
             elif key is not None and string is None:
                 result[file]["persons"]["real"][key] = key
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}persName[@type = 'fictional']"):
-            if el.get('corresp') is not None:
-                no = el.text
-            if el.text != no:
-                string = el.text
-            if string not in result[file]["persons"]["fictional"]:
-                result[file]["persons"]["fictional"].append(string)
+            key = el.get('key')
+            string = el.get('ref')
+
+
+            if key is not None and string is not None:
+                result[file]["persons"]["fictional"][key] = string
+            elif key is not None and string is None:
+                result[file]["persons"]["fictional"][key] = key
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}bibl"): 
             altstring = ""
             head = el.find("{http://www.tei-c.org/ns/1.0}title")
@@ -88,7 +90,11 @@ def compile():
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}placeName[@key]"):
             string = el.get('key')
             ref = el.get('ref')
-            result[file]["places"][string] = ref
+            type = el.get('type')
+            country = el.get('corresp')
+            result[file]["places"][string] = {}
+            result[file]["places"][string]["type"] = type
+            result[file]["places"][string]["country"] = country
 
         for el in root.findall(".//{http://www.tei-c.org/ns/1.0}div2//{http://www.tei-c.org/ns/1.0}orgName"):
             key = el.get('key')
@@ -111,6 +117,6 @@ def compile():
 jsonfile = compile()
 print(jsonfile)
 json_obj = json.dumps(jsonfile, indent=7, ensure_ascii = False)
-with open("Hunt_data.json", "w") as outfile:
+with open("Hunt_dataNew.json", "w") as outfile:
     outfile.write(json_obj)
     print("Done!")

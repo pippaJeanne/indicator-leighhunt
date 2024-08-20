@@ -3,7 +3,7 @@ import json
 from os import listdir # install the "listdir" package (pip install dirlist)
 from os.path import isfile, join
 files =[]
-dir = "Structural Versions"
+dir = "outputNER"
 for file in listdir(dir): 
     if isfile(join(dir, file)):
         files.append(dir + "/" + file)
@@ -12,7 +12,7 @@ for f in files:
         files.remove(f)
 files.sort()
 #print(files)
-files = ["outputNER/ner_theIndicator01.xml"]
+#files = ["outputNER/ner_theIndicator01.xml"]
 result = {} 
 def compile():
     for file in files:
@@ -70,7 +70,8 @@ def compile():
                                             nestedText.remove(i)
                                     
                                     header = "".join(nestedText)
-                                    result[file][section]["header"] = header             
+                                    result[file][section]["header"] = header
+                                    nestedText = []             
                                     
                             for e in el.findall("{http://www.tei-c.org/ns/1.0}head[@type='subheader']"):
                                 string = e.text
@@ -207,6 +208,7 @@ def compile():
                                     
                                     header = "".join(nestedText)
                                     result[file][section]["header"] = header
+                                    nestedText = []
 
                             for e in el.findall("{http://www.tei-c.org/ns/1.0}head[@type='subheader']"):
                                 string = e.text
@@ -335,6 +337,7 @@ def compile():
                                     
                                 header = "".join(nestedText)
                                 result[file][section]["header"] = header
+                                nestedText = []
 
                             for e in el.findall("{http://www.tei-c.org/ns/1.0}head[@type='subheader']"):
                                 string = e.text
@@ -384,6 +387,7 @@ def compile():
                                     
                                     header = "".join(nestedText)
                                     result[file][section][subsect]["header"] = header
+                                    nestedText = []
 
                                     for e in div.findall("{http://www.tei-c.org/ns/1.0}head[@type='subheader']"):
                                         string = e.text
@@ -485,7 +489,7 @@ def compile():
 jsonfile = compile()
 print(jsonfile)
 json_obj = json.dumps(jsonfile, indent=10, ensure_ascii = False)
-with open("Hunt_Test01.json", "w") as outfile:
+with open("Hunt_Data_Vlast.json", "w") as outfile:
     outfile.write(json_obj)
     print("Done!")
         
