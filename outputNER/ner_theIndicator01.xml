@@ -219,6 +219,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240808132033166",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-08T17:20:33.166Z",
+	"dcterms:modified": "2024-08-20T18:43:26.068Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -250,7 +251,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q10261",
+		"@id": "http://dbpedia.org/resource/William_Shakespeare",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1636,7 +1637,7 @@ title; and after many grave and ineffectual attempts to furnish one for the
 present, the company, after the fashion of <persName key="François Rabelais" cert="high" ref="http://www.wikidata.org/entity/Q131018" type="real">Rabelais</persName>, and with a chair-  
 shaking merriment which he might have joined in himself, fell to turning  
 a hopeless thing into a jest. It was like that exquisite picture of a set of  
-laughers in <persName key="William Shakspeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
+laughers in <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> : — </p>
 
 <cit>
 <quote>
