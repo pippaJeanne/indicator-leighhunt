@@ -60,7 +60,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240820144634289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-20T18:46:34.289Z",
-	"dcterms:modified": "2024-08-20T18:46:34.289Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -87,7 +86,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240820144634289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2/epigraph/placeName"
+			"rdf:value": "TEI/text/body/div2/epigraph/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -166,7 +165,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240820144735799#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/persName"
+			"rdf:value": "TEI/text/body/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -242,7 +241,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240821143738268#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/p[2]/placeName/placeName"
+			"rdf:value": "TEI/text/body/p[2]/placeName/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -323,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154001623#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/p[2]/orgName"
+			"rdf:value": "TEI/text/body/p[2]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -403,7 +402,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154134498#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/p[2]/orgName[2]"
+			"rdf:value": "TEI/text/body/p[2]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -436,7 +435,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="issue" n="2">
+            
                 <pb n="9"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
@@ -892,7 +891,7 @@ disputatious moralist would do better in letting alone.</p>
                 <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>.</p>
                 <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
                 </div2>
-            </div1>
+            
         </body>
     </text>
 </TEI>
