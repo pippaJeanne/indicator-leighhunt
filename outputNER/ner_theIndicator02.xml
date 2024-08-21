@@ -140,7 +140,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240820144735799",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-20T18:47:35.799Z",
-	"dcterms:modified": "2024-08-20T18:47:35.799Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -167,7 +166,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240820144735799#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName"
+			"rdf:value": "TEI/text/body/div1/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -217,7 +216,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240821143738268",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T18:37:38.268Z",
-	"dcterms:modified": "2024-08-21T18:37:38.268Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -244,7 +242,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240821143738268#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/placeName/placeName"
+			"rdf:value": "TEI/text/body/div1/p[2]/placeName/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -325,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154001623#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/orgName"
+			"rdf:value": "TEI/text/body/div1/p[2]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -405,7 +403,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154134498#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/orgName[2]"
+			"rdf:value": "TEI/text/body/div1/p[2]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -451,7 +449,7 @@
                     </epigraph>
                     <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
                 </div2>
-                <div2 type="section" n="1"> <!-- Header and content -->
+                 <!-- Header and content -->
                     <head type="header" rend="center uppercase"> The Indicator and Examiner. — Autumnal Commencement of Fires. — Mantle-Pieces. — Apartments For Study. </head>
 <p>One or two persons, we understand, have supposed that the present  
 periodical work will interfere with the literary part of another, in  
@@ -494,7 +492,7 @@ houses drip like rain, would soon admonish him to get warm in good
 earnest. If <q type="soCalled">the web of our life</q> is always to be <q type="soCalled">of a mingled  
 yarn,</q> a good warm hearth-rug is not the worst part of the manufacture.</p>
 
-<p>Here we are then again, with our fire before us, and our books on  
+Here we are then again, with our fire before us, and our books on  
 each side. What shall we do? Shall we take out a Life of somebody,  
 or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante">Dante</persName>, or <persName key="Ludovico Ariosto">Ariosto</persName>, or <persName key="Montaigne">Montaigne</persName>, or <persName key="Marcus Aurelius">Marcus Aurelius</persName>,  
 or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare">Shakspeare</persName> who includes them all? Or shall we  
@@ -503,7 +501,7 @@ tilted chairs, planting our wrists upon our knees, and toasting the
 up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
 mans heart and hopes, with at least a sincerity, a good intention, and  
 good nature,</hi> that shall warrant what we say with the sincere, the  
-good-intentioned, and the good-natured?</p>
+good-intentioned, and the good-natured?
 
 <p>Ah — take care. You see what that old looking saucer is, with  
 a handle to it. It is a venerable piece of earthenware, which may  
@@ -594,7 +592,7 @@ study in <persName key="Fletcher">Fletcher</persName>'s play of the <bibl><title
         <bibl><author>John Fletcher</author><title level="m">The Elder Brother</title></bibl>
     </note>
 </cit>
-</div2>
+
 
 <div2 type="section" n="2">
 <head type="header" rend="center uppercase"><persName key="Acontius">Acontius</persName> and <persName key="Cydippe">Cydippe</persName>,</head>
