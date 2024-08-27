@@ -1664,7 +1664,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240826213248971",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-27T01:32:48.971Z",
-	"dcterms:modified": "2024-08-27T01:32:48.971Z",
+	"dcterms:modified": "2024-08-27T01:36:29.469Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1696,7 +1696,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q126462",
+		"@id": "https://dbpedia.org/resource/Thomas_Paine",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1837,7 +1837,7 @@ none but the wise or good-natured would ever think of laughing at.</p>
 </div2>
 <pb n="3"/>
 <div2 type="section" n="3">
-<head type="header" rend="inline uppercase">A Mistake of <persName key="Thomas Paine" ref="http://www.wikidata.org/entity/Q126462" cert="medium" type="real" xml:id="ThomasPaine">Mr. Thomas Paine</persName>'s upon Learning; and a Word or Two on Translation</head> <p>— We speak of <persName cert="medium" type="real" ref="#ThomasPaine">Mr. Paine</persName> as a deceased author whom it is a vulgar error to under-rate. His great natural powers have forced themselves into eminence through every species of obstacle. Well  
+<head type="header" rend="inline uppercase">A Mistake of <persName key="Thomas Paine" ref="https://dbpedia.org/resource/Thomas_Paine" cert="medium" type="real" xml:id="ThomasPaine">Mr. Thomas Paine</persName>'s upon Learning; and a Word or Two on Translation</head> <p>— We speak of <persName cert="medium" type="real" ref="#ThomasPaine">Mr. Paine</persName> as a deceased author whom it is a vulgar error to under-rate. His great natural powers have forced themselves into eminence through every species of obstacle. Well  
 aware of them himself, seeing in what manner they were often denied, and  
 what a convention there was among worldly and common-place men,  
 possessed of a little scholarship, to cry down every thing but themselves, he  
