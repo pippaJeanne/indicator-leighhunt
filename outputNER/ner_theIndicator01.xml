@@ -939,6 +939,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811234157391",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:41:57.391Z",
+	"dcterms:modified": "2024-08-27T01:50:06.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -969,11 +970,8 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": [
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		],
-		"@id": "http://www.wikidata.org/entity/Q3089703",
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Jonathan_Swift",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1937,7 +1935,7 @@ The probability is, that he was a Pythagorean from some northern country;
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
 been enough to make a miracle. He rode like an arrow. Drop the word  
-like, and the miracle is ready. <persName key="Jonathan Swift" cert="high" ref="http://www.wikidata.org/entity/Q41166" type="real">Swift</persName> says of the famous <persName key="Charles Mordaunt, 3rd Earl of Peterborough" cert="high" ref="http://www.wikidata.org/entity/Q1065565" type="real">Lord Peterborough</persName>.</p>
+like, and the miracle is ready. <persName key="Jonathan Swift" cert="high" ref="https://dbpedia.org/resource/Jonathan_Swift" type="real">Swift</persName> says of the famous <persName key="Charles Mordaunt, 3rd Earl of Peterborough" cert="high" ref="http://www.wikidata.org/entity/Q1065565" type="real">Lord Peterborough</persName>.</p>
 
 
 <cit><quote>
