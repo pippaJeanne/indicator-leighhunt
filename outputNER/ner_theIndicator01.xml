@@ -376,6 +376,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810174153632",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-10T21:41:53.632Z",
+	"dcterms:modified": "2024-08-27T01:38:00.702Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -407,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q347893",
+		"@id": "http://dbpedia.org/resource/Jane_Welsh_Carlyle",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -417,7 +418,7 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.5.0"
 	},
-	"cwrc:hasCertainty": "cwrc:high"
+	"cwrc:hasCertainty": "cwrc:low"
 }]]>
         </rdf:Description>
       
@@ -1856,7 +1857,7 @@ perceptions, with our ability or inability to extract pleasure from the
 innumerable things in the intellectual and external world. Utility is only  
 utility in as much as it conduces somehow or other to advantage and  
 pleasure. Every thing that is truly pleasurable or beautiful is as useful  
-as the most scientific thing upon earth. <persName key="Jane Welsh Carlyle" cert="low" ref="http://www.wikidata.org/entity/Q6152913" type="real">Jane</persName>, when she smiles at us, or  
+as the most scientific thing upon earth. <persName key="Jane Welsh Carlyle" cert="low" ref="http://dbpedia.org/resource/Jane_Welsh_Carlyle" type="real">Jane</persName>, when she smiles at us, or  
 takes a country walk with us, or reads an author with us, is at least as  
 good as a <rs key="spinning jenny" ref="http://www.wikidata.org/entity/Q49015" cert="medium">Spinning Jenny</rs>. If we have twenty pleasures from the sight of  
 a cherry, such as the admiration of it's bloom, it's figure, it's scent, it's  
