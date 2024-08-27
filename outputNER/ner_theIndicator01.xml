@@ -694,7 +694,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811234018949",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:40:18.949Z",
-	"dcterms:modified": "2024-08-27T01:45:24.826Z",
+	"dcterms:modified": "2024-08-27T01:45:33.790Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -859,6 +859,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240811234129357",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-12T03:41:29.357Z",
+	"dcterms:modified": "2024-08-27T01:47:01.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -889,11 +890,8 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": [
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		],
-		"@id": "http://www.wikidata.org/entity/Q419156",
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Abaris_the_Hyperborean",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1929,12 +1927,12 @@ once.</p>
 
 <div2 type="section" n="4">
 <head type="header" rend="inline uppercase"><persName key="Abaris the Hyperborean" cert="high" ref="http://www.wikidata.org/entity/Q305567" type="real">Abaris</persName></head><p>, a mysterious personage in the time of <persName key="Pythagoras" cert="high" ref="https://dbpedia.org/resource/Pythagoras" type="real">Pythagoras</persName>. He is said  
-to have received an arrow from <persName key="Apollo" ref="http://dbpedia.org/resource/Apollo" type="fictional">Apollo</persName>, with which he rode through the  
+to have received an arrow from <persName key="Apollo" ref="http://dbpedia.org/resource/Apollo" type="fictional" cert="high">Apollo</persName>, with which he rode through the  
 air, and which he afterwards gave to <persName key="Pythagoras" cert="high" ref="http://www.wikidata.org/entity/Q10261" type="real">Pythagoras</persName> in return for the instruction  
 of that philosopher. His first appearance at <placeName type="city" key="Athens" corresp="Greece" cert="high" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName> was in consequence  
 of a pestilence which then afflicted the world, and for the cessation  
 of which an oracle had enjoined the Athenians to pray in behalf of all the  
-other nations. <persName key="Abaris the Hyperborean" cert="high" type="real">Abaris</persName> came as the representative of the Hyperboreans.  
+other nations. <persName key="Abaris the Hyperborean" cert="high" type="real" ref="http://dbpedia.org/resource/Abaris_the_Hyperborean">Abaris</persName> came as the representative of the Hyperboreans.  
 The probability is, that he was a Pythagorean from some northern country;  
 who astonished the Athenians by the rapidity of his journies, and was  
 not sorry perhaps to have it thought supernatural. A metaphor has often  
