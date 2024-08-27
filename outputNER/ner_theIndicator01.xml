@@ -456,6 +456,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator01.xml?person_annotation_20240810224203619",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-11T02:42:03.619Z",
+	"dcterms:modified": "2024-08-27T01:38:40.725Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -487,7 +488,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q347893",
+		"@id": "http://dbpedia.org/resource/Homer",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1868,7 +1869,7 @@ dozen of them would come to at a farthing apiece. If we see nothing in
 the moon but a light for old gentlewomen to go home by, or a satellite to the  
 earth, or even a vague beauty and serenity, we do not receive so much  
 utility from it as when we recollect that it is the very same moon which  
-<persName key="Homer" cert="high" ref="http://www.wikidata.org/entity/Q6691" type="real" xml:id="homer">Homer</persName> has so often looked at and so beautifully described,— which said  
+<persName key="Homer" cert="high" ref="http://dbpedia.org/resource/Homer" type="real" xml:id="homer">Homer</persName> has so often looked at and so beautifully described,— which said  
 beauty of description is not to be found in the translation of <persName key="Alexander Pope" ref="http://www.wikidata.org/entity/Q164047" type="real">Pope</persName>. Now  
 there is scarcely any of all the great poets in other languages, of whom the  
 English reader has had a proper account from translators.  An individual  
