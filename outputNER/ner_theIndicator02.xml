@@ -1123,6 +1123,85 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904185224317",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-09-04T22:52:24.317Z",
+	"dcterms:modified": "2024-09-04T22:52:24.317Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/fernandamateos",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Fernanda Mateos"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904185224317#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904185224317#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/persName[9]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q5597",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -1198,7 +1277,7 @@ Here we are then again, with our fire before us, and our books on
 each side. What shall we do? Shall we take out a Life of somebody,  
 or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante"><persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" cert="high" type="real">Dante</persName></persName>, or <persName key="Ludovico Ariosto"><persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto">Ariosto</persName></persName>, or <persName key="Montaigne"><persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568">Montaigne</persName></persName>, or <persName key="Marcus Aurelius"><persName key="Marcus Aurelius" ref="http://dbpedia.org/resource/Marcus_Aurelius" cert="high" type="real"/>Marcus Aurelius</persName>,  
 or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare"><persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692">Shakspeare</persName></persName> who includes them all? Or shall we  
-read an engraving from <persName key="Poussin"><persName key="Nicolas Poussin" ref="http://www.wikidata.org/entity/Q41554" cert="high" type="real">Poussin</persName></persName> or <persName key="Raphael">Raphael</persName>? Or shall we sit with  
+read an engraving from <persName key="Poussin"><persName key="Nicolas Poussin" ref="http://www.wikidata.org/entity/Q41554" cert="high" type="real">Poussin</persName></persName> or <persName key="Raphael"><persName key="Raphael" ref="http://www.wikidata.org/entity/Q5597">Raphael</persName></persName>? Or shall we sit with  
 tilted chairs, planting our wrists upon our knees, and toasting the  
 up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
 mans heart and hopes, with at least a sincerity, a good intention, and  
