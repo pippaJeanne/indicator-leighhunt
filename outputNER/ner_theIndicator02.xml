@@ -1362,6 +1362,87 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240904185934703",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-09-04T22:59:34.703Z",
+	"dcterms:modified": "2024-09-04T22:59:34.703Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/fernandamateos",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Fernanda Mateos"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240904185934703#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240904185934703#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/p[3]/persName/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q54929",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -1468,7 +1549,7 @@ is like lying in the great bed at <placeName type="city" key="Ware" corresp="Eng
 upon <placeName type="region" key="Hounslow Heath" corresp="England"><placeName key="Hounslow Heath" ref="http://www.wikidata.org/entity/Q5913296">Hounslow Heath</placeName></placeName>. It is space and physical activity, not  
 repose and concentration. It is fit only for grandeur and ostentation,  
 — for those who have secretaries, and are to be approached like gods  
-in a temple. <persName key="The archbishop of Toledo">The archbishop of Toledo</persName>, no doubt, wrote his homilies  
+in a temple. <persName key="The archbishop of Toledo">The archbishop of <placeName key="Toledo Province" ref="http://www.wikidata.org/entity/Q54929" cert="high">Toledo<precision match="@ref" precision="high"/></placeName></persName>, no doubt, wrote his homilies  
 in a room ninety feet long. <persName key="The Marquis Marialva">The Marquis Marialva</persName> must have been  
 approached by <persName key="Gil Blas">Gil Blas</persName> through whole ranks of glittering authors,  
 standing at due distance. But <persName key="Ludovico Ariosto">Ariosto</persName>, whose mind could fly out of  
