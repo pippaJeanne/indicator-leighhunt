@@ -3608,6 +3608,85 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904194734571",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-09-04T23:47:34.571Z",
+	"dcterms:modified": "2024-09-04T23:47:34.571Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/fernandamateos",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Fernanda Mateos"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904194734571#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904194734571#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/div2[3]/p[2]/note[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q741900",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -3946,7 +4025,7 @@ very little more standing-room throughout the city; and so little
 vegetation, that they call a court by way of eminence the Court of  
 the Tree, and there is a church entitled our Lady of the Garden.  
 There is a monastery with one of these gardens, such as they are;  
-the <placeName type="landmark" key="Palace Zenobio" corresp="Italy">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> Baretti defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName key="Venice" corresp="Italy">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
+the <placeName type="landmark" key="Palace Zenobio" corresp="Italy">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> <persName key="Giuseppe Marc'Antonio Baretti" ref="http://www.wikidata.org/entity/Q741900">Baretti</persName> defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName key="Venice" corresp="Italy">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
 laces like withered nuts.</note> called <placeName type="city" key="Zanne" corresp="Italy">Zanne</placeName>, another.  
 We suppose they muster up some others in miniature; but there  
 is an island near <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, where the gentry have country-houses, and  
