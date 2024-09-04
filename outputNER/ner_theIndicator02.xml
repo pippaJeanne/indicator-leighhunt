@@ -60,6 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240820144634289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-20T18:46:34.289Z",
+	"dcterms:modified": "2024-08-20T18:46:34.289Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -86,7 +87,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240820144634289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div2/epigraph/placeName"
+			"rdf:value": "TEI/text/div2/epigraph/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -139,6 +140,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240820144735799",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-20T18:47:35.799Z",
+	"dcterms:modified": "2024-08-20T18:47:35.799Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -165,7 +167,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240820144735799#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName"
+			"rdf:value": "TEI/text/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -215,6 +217,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240821143738268",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T18:37:38.268Z",
+	"dcterms:modified": "2024-08-21T18:37:38.268Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -241,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?place_annotation_20240821143738268#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/placeName/placeName"
+			"rdf:value": "TEI/text/p[2]/placeName/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -295,7 +298,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154001623",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T19:40:01.623Z",
-	"dcterms:modified": "2024-08-21T19:40:01.623Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -322,7 +324,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154001623#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/orgName"
+			"rdf:value": "TEI/text/p[2]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -375,7 +377,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154134498",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T19:41:34.498Z",
-	"dcterms:modified": "2024-08-21T19:41:34.498Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -402,7 +403,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?organization_annotation_20240821154134498#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[2]/orgName[2]"
+			"rdf:value": "TEI/text/p[2]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -455,7 +456,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821160620903",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T20:06:20.903Z",
-	"dcterms:modified": "2024-08-21T20:06:20.903Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -482,7 +482,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821160620903#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[2]"
+			"rdf:value": "TEI/text/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -558,7 +558,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161215946#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[4]/persName"
+			"rdf:value": "TEI/text/persName[4]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -610,7 +610,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161148653",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T20:11:48.653Z",
-	"dcterms:modified": "2024-08-21T20:11:48.653Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -637,7 +636,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161148653#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[2]/persName"
+			"rdf:value": "TEI/text/persName[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -690,7 +689,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161357352",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T20:13:57.352Z",
-	"dcterms:modified": "2024-08-21T20:13:57.352Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -717,7 +715,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161357352#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[5]"
+			"rdf:value": "TEI/text/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -767,7 +765,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161726265",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T20:17:26.265Z",
-	"dcterms:modified": "2024-08-21T20:17:26.265Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -794,7 +791,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161726265#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[5]/persName"
+			"rdf:value": "TEI/text/persName[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -847,7 +844,6 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161849235",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T20:18:49.235Z",
-	"dcterms:modified": "2024-08-21T20:18:49.235Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/fernandamateos",
 		"@type": [
@@ -874,7 +870,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240821161849235#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[3]/persName"
+			"rdf:value": "TEI/text/persName[3]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -953,11 +949,90 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904184454013#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/persName[6]"
+			"rdf:value": "TEI/text/persName[6]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904184744195",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-09-04T22:47:44.195Z",
+	"dcterms:modified": "2024-09-04T22:47:44.195Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/fernandamateos",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Fernanda Mateos"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904184744195#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator02.xml?person_annotation_20240904184744195#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/persName[7]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q692",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -982,7 +1057,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <body>
+        
             
                 <pb n="9"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
@@ -1042,7 +1117,7 @@ yarn,</q> a good warm hearth-rug is not the worst part of the manufacture.</p>
 Here we are then again, with our fire before us, and our books on  
 each side. What shall we do? Shall we take out a Life of somebody,  
 or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante"><persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" cert="high" type="real">Dante</persName></persName>, or <persName key="Ludovico Ariosto"><persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto">Ariosto</persName></persName>, or <persName key="Montaigne"><persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568">Montaigne</persName></persName>, or <persName key="Marcus Aurelius"><persName key="Marcus Aurelius" ref="http://dbpedia.org/resource/Marcus_Aurelius" cert="high" type="real"/>Marcus Aurelius</persName>,  
-or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare">Shakspeare</persName> who includes them all? Or shall we  
+or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare"><persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692">Shakspeare</persName></persName> who includes them all? Or shall we  
 read an engraving from <persName key="Poussin">Poussin</persName> or <persName key="Raphael">Raphael</persName>? Or shall we sit with  
 tilted chairs, planting our wrists upon our knees, and toasting the  
 up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
@@ -1440,6 +1515,6 @@ disputatious moralist would do better in letting alone.</p>
                 <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
                 </div2>
             
-        </body>
+        
     </text>
 </TEI>
