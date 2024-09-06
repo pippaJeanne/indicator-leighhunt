@@ -4582,14 +4582,14 @@
         <profileDesc>
         </profileDesc>
     </teiHeader>
-    <text cert="high" xml:space="default">
-        
-            
+    <text>
+        <body>
+			<div1 type="issue" n="2">
                 <pb n="9"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
-                    There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q15">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  Cuculus Indicator  of  Linnæus,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.
+                    <p>There  is  a  bird  in  the  interior  of  <placeName type="continent" key="Africa" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q15">Africa</placeName>,  whose  habits  would  rather  seem  to  belong  to  the  interior  of Fairy-land:  but  they  have  been,  well  authenticated.  It  indicates  to  honey-hunters  where  the  nests  of  wild bees  are  to  be  found.  It  calls  them  with  a  cheerful  cry,  which  they  answer;  and  on  finding  itself  recognized, flies  and  hovers  over  a  hollow  tree  containing  the  honey.  While  they  are  occupied  in  collecting  it,  the  bird goes  to  a  little  distance,  where  he  observes  all  that  passes;  and  the  hunters,  wnen  they  have  helped  themselves, take  care  to  leave  him  his  portion  of  the  food. — This  is  the  Cuculus Indicator  of  Linnæus,  otherwise called  the  Moroc,  Bee  Cuckoo,  or  Honey  Bird.</p>
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
@@ -4597,6 +4597,7 @@
                     </epigraph>
                     <head type="catalogue">No. II. <date when="1819-10-20">—WEDNESDAY, OCTOBER 20th, 1819</date>.</head>
                 </div2>
+				<div2 type="section" n="1">
                  <!-- Header and content -->
                     <head type="header" rend="center uppercase"> The Indicator and Examiner. — Autumnal Commencement of Fires. — Mantle-Pieces. — Apartments For Study. </head>
 <p>One or two persons, we understand, have supposed that the present  
@@ -4627,7 +4628,7 @@ almost unaware that the weather is fine, when it really becomes so:
 but for the same reason, we make as much of our winter as the  
 anti-social habits that have grown upon us from other causes will allow.  
 And for a similar reason, the southern European is unprepared for a  
-cold day. The houses in <placeName type="country" key="Italy" corresp="Italy"><placeName key="Italy" ref="http://www.wikidata.org/entity/Q38" cert="high">Italy<precision match="@ref" precision="high"/></placeName></placeName> are almost all summer-houses, letting  
+cold day. The houses in <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38" cert="high">Italy</placeName> are almost all summer-houses, letting  
 in the air on every side; so that when a fit of cold weather comes  
 on the dismayed inhabitant, walking and shivering about with a  
 
@@ -4639,17 +4640,16 @@ every thing out of doors, and making the trees and the eves of the
 houses drip like rain, would soon admonish him to get warm in good  
 earnest. If <q type="soCalled">the web of our life</q> is always to be <q type="soCalled">of a mingled  
 yarn,</q> a good warm hearth-rug is not the worst part of the manufacture.</p>
-
-Here we are then again, with our fire before us, and our books on  
+<p>Here we are then again, with our fire before us, and our books on  
 each side. What shall we do? Shall we take out a Life of somebody,  
-or a <persName key="Theocritus">Theocritus</persName>, or <persName key="Dante"><persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" cert="high" type="real">Dante</persName></persName>, or <persName key="Ludovico Ariosto"><persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto">Ariosto</persName></persName>, or <persName key="Montaigne"><persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568">Montaigne</persName></persName>, or <persName key="Marcus Aurelius"><persName key="Marcus Aurelius" ref="http://dbpedia.org/resource/Marcus_Aurelius" cert="high" type="real"/>Marcus Aurelius</persName>,  
-or <persName key="Horace">Horace</persName>, or <persName key="William Shakspeare"><persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692">Shakspeare</persName></persName> who includes them all? Or shall we  
-read an engraving from <persName key="Poussin"><persName key="Nicolas Poussin" ref="http://www.wikidata.org/entity/Q41554" cert="high" type="real">Poussin</persName></persName> or <persName key="Raphael"><persName key="Raphael" ref="http://www.wikidata.org/entity/Q5597">Raphael</persName></persName>? Or shall we sit with  
+or a <persName key="Theocritus" type="real" cert="high" ref="https://dbpedia.org/resource/Theocritus">Theocritus</persName>, or <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" cert="high" type="real">Dante</persName>, or <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q48900" type="real">Ariosto</persName>, or <persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568" type="real">Montaigne</persName>, or <persName key="Marcus Aurelius" ref="http://dbpedia.org/resource/Marcus_Aurelius" cert="high" type="real">Marcus Aurelius</persName>,  
+or <persName key="Horace">Horace</persName>, or <persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692">Shakspeare</persName> who includes them all? Or shall we  
+read an engraving from <persName key="Nicolas Poussin" ref="http://www.wikidata.org/entity/Q41554" cert="high" type="real">Poussin</persName> or <persName key="Raphael" type="real" cert="high" ref="http://www.wikidata.org/entity/Q5597">Raphael</persName>? Or shall we sit with  
 tilted chairs, planting our wrists upon our knees, and toasting the  
 up-turned palms of our hands, <hi rend="italic">while we discourse of manners and of  
 mans heart and hopes, with at least a sincerity, a good intention, and  
 good nature,</hi> that shall warrant what we say with the sincere, the  
-good-intentioned, and the good-natured?
+good-intentioned, and the good-natured?</p>
 
 <p>Ah — take care. You see what that old looking saucer is, with  
 a handle to it. It is a venerable piece of earthenware, which may  
@@ -4671,14 +4671,14 @@ reach and inspection. For the same reason, we like a sniall study,
 where we are almost in contact with our books. We like to feel  
 them about us, — to be in the arms of our mistress Philosophy, rather   
 than see her at a distance. To have a huge apartment for a study  
-is like lying in the great bed at <placeName type="city" key="Ware" corresp="England"><placeName key="Ware" ref="http://www.wikidata.org/entity/Q19792" cert="high">Ware<precision match="@ref" precision="high"/></placeName></placeName>, or being snug on a milestone  
-upon <placeName type="region" key="Hounslow Heath" corresp="England"><placeName key="Hounslow Heath" ref="http://www.wikidata.org/entity/Q5913296">Hounslow Heath</placeName></placeName>. It is space and physical activity, not  
+is like lying in the great bed at <placeName type="city" key="Ware" corresp="England" ref="http://www.wikidata.org/entity/Q19792" cert="high">Ware</placeName>, or being snug on a milestone  
+upon <placeName type="region" key="Hounslow Heath" corresp="England" ref="http://www.wikidata.org/entity/Q5913296">Hounslow Heath</placeName>. It is space and physical activity, not  
 repose and concentration. It is fit only for grandeur and ostentation,  
 — for those who have secretaries, and are to be approached like gods  
-in a temple. <persName key="The archbishop of Toledo">The archbishop of <placeName key="Toledo Province" ref="http://www.wikidata.org/entity/Q54929" cert="high">Toledo<precision match="@ref" precision="high"/></placeName></persName>, no doubt, wrote his homilies  
-in a room ninety feet long. <persName key="The Marquis Marialva">The Marquis Marialva</persName> must have been  
-approached by <persName key="Gil Blas"><persName key="Gil Blas" ref="http://www.wikidata.org/entity/Q2635218" cert="high" type="fictional">Gil Blas</persName></persName> through whole ranks of glittering authors,  
-standing at due distance. But <persName key="Ludovico Ariosto"><persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q48900" type="real">Ariosto</persName></persName>, whose mind could fly out of  
+in a temple. The archbishop of <placeName key="Toledo Province" ref="http://www.wikidata.org/entity/Q54929" cert="high" type="region" corresp="Spain">Toledo</placeName>, no doubt, wrote his homilies  
+in a room ninety feet long. <persName key="The Marquis Marialva" ref="http://dbpedia.org:8891/resource/Marquis_of_Marialva" type="real">The Marquis Marialva</persName> must have been  
+approached by <persName key="Gil Blas" ref="https://dbpedia.org/resource/Gil_Blas" cert="high" type="fictional">Gil Blas</persName> through whole ranks of glittering authors,  
+standing at due distance. But <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q48900" type="real">Ariosto</persName>, whose mind could fly out of  
 it's nest over all nature, wrote over the house he built, <q xml:lang="Latin">"Parva, sed  
 apta mihi"</q> — Small, but suited to me. However, it is to be observed,  
 that he could not afford a larger. He was a Duodenarian, in that  
@@ -4686,7 +4686,7 @@ respect, like ourselves.  We do not know how our ideas of a study
 
 <pb n="11"/>
 
-might exparid With our walls. <persName key="Montaigne">Montaigne</persName>, who was <persName key="Montaigne">Montaigne</persName>  
+might exparid With our walls. <persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568" type="real">Montaigne</persName>, who was <persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568" type="real">Montaigne</persName>  
 "of that ilk," and lord of a great chateau, had a study <q type="written">sixteen  
 paces in diameter, with three noble and free prospects.</q> He congratulates  
 himself, at the same time, on it's circular figure, evidently  
@@ -4695,26 +4695,25 @@ of my study,</q> says he, <q type="written">is round, and has no more flat (bare
 wall, than what is taken up by my table and my chairs; so that the  
 remaining parts of the circle present me with a view of all my books at  
 once, set upon five degrees of shelves round about me.</q> <note type="hunt">(<bibl><author><persName key="Charles Cotton">Cotton</persName></author>'s  
-<title level="m"><persName key="Montaigne">Montaigne</persName></title>. B.3. Ch. 3.</bibl>)</note> A great prospect we hold to be a very disputable  
+<title level="m"><persName key="Michel de Montaigne" ref="http://www.wikidata.org/entity/Q41568" type="real">Montaigne</persName></title>. B.3. Ch. 3.</bibl>)</note> A great prospect we hold to be a very disputable  
 advantage, upon the same reasoning as before; but we like to have  
 some green boughs about our windows, and to fancy ourselves as  
-much as possible in the country when we are not there. <persName key="Milton"><persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759" cert="high">Milton</persName></persName>  
-expressed a wish with regard to his study, extremely suitable to our  
+much as possible in the country when we are not there. <persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759" cert="high" type="real">Milton</persName> expressed a wish with regard to his study, extremely suitable to our  
 present purpose. He would have the lamp in it <hi rend="italic">seen</hi>; thus letting  
 others into a share of his enjoyments, by the imagination of them.</p>
 
 <cit><quote><lg><l>And let my lamp at midnight hour </l>
 <l>Be seen in some high lonely tower. </l>
 <l>Where I may oft outwatch the Bear </l>
-<l>With thrice-great <persName key="Hermes"><persName key="Hermes" ref="http://www.wikidata.org/entity/Q41484" type="fictional">Hermes</persName></persName>; or unsphere </l>
-<l>The Spirit of <persName key="Plato"><persName key="Plato" ref="http://www.wikidata.org/entity/Q859" cert="high" type="real">Plato</persName></persName>, to unfold </l>
+<l>With thrice-great <persName key="Hermes" ref="http://www.wikidata.org/entity/Q41484" type="fictional">Hermes</persName>; or unsphere </l>
+<l>The Spirit of <persName key="Plato" ref="http://www.wikidata.org/entity/Q859" cert="high" type="real">Plato</persName>, to unfold </l>
 <l>What world or what vast regions hold </l>
 <l>The immortal mind, that hath forsook </l>
 <l>Her mansion in this fleshy nook. </l></lg></quote>
 <note type="source"><bibl><author>John Milton</author> <title level="a">Il Penseroso</title></bibl></note></cit>
 
 <p>There is a fine passionate burst of enthusiasm oh the subject of a 
-study in <persName key="Fletcher"><persName key="John Fletcher" ref="http://www.wikidata.org/entity/Q312444">Fletcher</persName></persName>'s play of the <bibl><title>Elder Brother</title>, <ref>Act. 1. Scene 2</ref></bibl>.</p>
+study in <persName key="John Fletcher" ref="http://www.wikidata.org/entity/Q312444" type="real">Fletcher</persName>'s play of the <bibl><title>Elder Brother</title>, <ref>Act. 1. Scene 2</ref></bibl>.</p>
 
 <cit>
     <quote>
@@ -4737,58 +4736,60 @@ study in <persName key="Fletcher"><persName key="John Fletcher" ref="http://www.
 <l>To increase in knowledge. Lights there for my study! </l></lg>    
 </quote>
     <note type="source"> 
-        <bibl><author>John Fletcher</author><title level="m">The Elder Brother</title></bibl>
+        <bibl><author>John Fletcher</author><title level="m">The Elder Brother</title><ref target="https://www.google.com/search?q=elder+brother+fletcher+Act.+1.+Scene+2"/><biblScope>Act. 1. Scene 2</biblScope></bibl>
     </note>
 </cit>
-
+</div2>
 
 <div2 type="section" n="2">
-<head type="header" rend="center uppercase"><persName key="Acontius"><persName key="Acontius" ref="http://www.wikidata.org/entity/Q420533">Acontius</persName></persName> and <persName key="Cydippe"><persName key="Cydippe" ref="http://www.wikidata.org/entity/Q5796486" cert="high" type="fictional">Cydippe</persName></persName>,</head>
+<head type="header" rend="center uppercase"><persName key="Acontius" type="fictional" cert="high" ref="http://www.wikidata.org/entity/Q420533">Acontius</persName> and <persName key="Cydippe" ref="http://www.wikidata.org/entity/Q5796486" cert="high" type="fictional">Cydippe</persName>,
+</head>
 <head type="subheader" rend="center uppercase">A Love Story in the Antient Writers.</head>
-<p><persName key="Acontius">Acontius</persName> was a youth of the island <placeName type="region" key="Kea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
-sacrifices in honour of <persName key="Diana" xml:id="Diana"><persName key="Diana" ref="http://www.wikidata.org/entity/Q132543" cert="high" type="fictional">Diana</persName></persName> fell in love with this beautiful virgin,  
-<persName key="Cydippe">Cydippe</persName>; but she was unfortunately so much above him in rank,  
+<p><persName key="Acontius" type="fictional" cert="high" ref="http://www.wikidata.org/entity/Q420533">Acontius</persName> was a youth of the island <placeName type="region" key="Kea" corresp="Greece">Cea</placeName> <note type="hunt">(now <placeName key="Zia" corresp="Greece">Zia</placeName>)</note>, who at the  
+sacrifices in honour of <persName key="Diana" ref="http://www.wikidata.org/entity/Q132543" cert="high" xml:id="Diana" type="fictional">Diana</persName> fell in love with this beautiful virgin,  
+<persName key="Cydippe" ref="http://www.wikidata.org/entity/Q5796486" cert="high" type="fictional">Cydippe</persName>; but she was unfortunately so much above him in rank,  
 that he had no hope of obtaining her hand in the usual way The  
 
 <pb n="12"/>
 
 wit of a lover accordingly helped him to an expedient. There was  
-a law in <placeName type="region" key="Kea" corresp="Greece">Cea</placeName>, that any oath pronounced in the temple of <persName key="Diana">Diana</persName> was  
-irrevocably binding. Acontius got an apple, and writing some words  
-upon it; pitched it into <persName key="Cydippe">Cydippe</persName>'s bosom.</p>
+a law in <placeName type="region" key="Kea" corresp="Greece">Cea</placeName>, that any oath pronounced in the temple of <persName key="Diana" ref="http://www.wikidata.org/entity/Q132543" cert="high" type="fictional">Diana</persName> was  
+irrevocably binding. <persName key="Acontius" type="fictional" cert="high" ref="http://www.wikidata.org/entity/Q420533">Acontius</persName> got an apple, and writing some words  
+upon it; pitched it into <persName key="Cydippe" ref="http://www.wikidata.org/entity/Q5796486" cert="high" type="fictional">Cydippe</persName>'s bosom.</p>
 <p>The words were these; — </p>
 
 <q xml:lang="anc-Greek">MA THN APTEMIN AKONTIΩ ΓAMOΥMAI.</q>
-<q>By <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will marry <persName key="Acontius">Acontius</persName>. </q>
+<q>By <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will marry <persName key="Acontius" type="fictional" cert="high" ref="http://www.wikidata.org/entity/Q420533">Acontius</persName>. </q>
 
 <p>Or as a poet has written them : </p>
 
 <cit>
     <quote>
-<lg><l>Juro tibi sanctae per mystica sacra Dianae, </l>
+<lg xml:lang="lat" xml:id="src" corresp="#trans">
+<l>Juro tibi sanctae per mystica sacra Dianae, </l>
 <l>Me tibi venturam comitem, sponsamque futuram. </l></lg>
     </quote>
     <note type="source"> 
         <bibl><author>Thomas Burton</author><title level="a">Love-Melancholy and Religious Melancholy</title><ref target="https://www.exclassics.com/anatomy/anatomy3.txt"/></bibl>
     </note>
 </cit>
-<lg xml:lang="en" type="hunt-translation"><l>I swear by holy <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will be </l>
+<lg xml:lang="en" type="hunt-translation" corresp="#src" xml:id="trans"><l>I swear by holy <persName key="Diana" type="fictional" corresp="#Diana">Dian</persName>, I will be </l>
 <l>Thy bride betrothed, and bear thee company. </l></lg>
 
-<p><persName key="Cydippe">Cydippe</persName> read, and married herself. — It is said that she was repeatedly  
+<p><persName key="Cydippe" ref="http://www.wikidata.org/entity/Q5796486" cert="high" type="fictional">Cydippe</persName> read, and married herself. — It is said that she was repeatedly  
 on the eve of being married to another person; but her imagination  
 in the shape of the Goddess as often threw her into a fever;  
 and the lover, whose ardour and ingenuity had made an impression  
-upon her, was made happy. <persName key="Aristaenetus"><persName key="Aristaenetus" ref="http://www.wikidata.org/entity/Q664196" type="real">Aristaenetus</persName></persName> in his Epistles calls the  
+upon her, was made happy. <persName key="Aristaenetus" ref="http://www.wikidata.org/entity/Q664196" type="real">Aristaenetus</persName> in his Epistles calls the  
 apple <hi xml:lang="anc-Greek">Κνδωνιον μήλον</hi> a Cretan apple, which is supposed to mean a quince : or as others think, an orange, or a citron. But the apple was, is,  
 and must be, a true, unsophisticated apple. Nothing else would  
-have suited. <q type="written">The apples, methought,"</q> says <persName key="Sir Philip Sidney"><persName key="Philip Sidney" ref="http://www.wikidata.org/entity/Q315509" cert="high">Sir Philip Sydney</persName></persName>, of  
+have suited. <q type="written">The apples, methought,"</q> says <persName key="Philip Sidney" ref="http://www.wikidata.org/entity/Q315509" cert="high" type="real">Sir Philip Sydney</persName>, of  
 his heroine in the <title key="The Countess of Pembroke's Arcadia" ref="http://www.wikidata.org/entity/Q4069405" cert="high">Arcadia</title>, <q type="written">fell down from the trees, to do homage   
 to the apples of her breast.</q><note type="source"><bibl><author>Sir Philip Sidney</author><title level="m">The Countess of Pembroke's Arcadia</title></bibl></note> The idea seems to have originated with  
-<persName key="Theocritus">Theocritus</persName>, <note type="hunt">(Idyl. 27- v. 50. Edit. <persName key="Lodewijk Caspar Valckenaer">Valckenaer</persName>.)</note> from whom it was  
+<persName key="Theocritus" type="real" cert="high" ref="https://dbpedia.org/resource/Theocritus">Theocritus</persName>, <note type="hunt">(Idyl. 27- v. 50. Edit. <persName key="Lodewijk Caspar Valckenaer">Valckenaer</persName>.)</note> from whom it was  
 copied by the Italian writers. It makes a lovely figure in one of the  
-most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, where he describes the beauty of  
-<persName key="Alcina">Alcina</persName> <note type="hunt">(<bibl><title level="m">Orlando Furioso</title>, <biblScope>7- st. 14.</biblScope></bibl>)</note> : — </p>
+most famous passages of <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q48900" type="real">Ariosto</persName>, where he describes the beauty of  
+<persName key="Alcina" type="fictional" cert="high">Alcina</persName> <note type="hunt">(<bibl><title level="m">Orlando Furioso</title>, <biblScope>7 - st. 14.</biblScope></bibl>)</note> : — </p>
 
 <cit><quote>
 <lg xml:lang="it"> <l>Bianca neve e il bel collo, e'l petto latte: </l>
@@ -4808,7 +4809,7 @@ most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, whe
 <l>Like waves, that on the coast beat tenderly, </l> 
 <l>When a sweet air is ruffling to and fro. </l></lg>
 
-<p>And after him, <persName key="Torquato Tasso"><persName key="Torquato Tasso" ref="http://www.wikidata.org/entity/Q168962" type="real">Tasso</persName></persName>, in his fine ode on the Golden Age : — </p>
+<p>And after him, <persName key="Torquato Tasso" type="real" ref="https://dbpedia.org/resource/Torquato_Tasso" cert="high">Tasso</persName>, in his fine ode on the Golden Age : — </p>
 
 <cit>
     <quote>
@@ -4849,24 +4850,22 @@ most famous passages of <persName key="Ludovico Ariosto">Ariosto</persName>, whe
 </div2>
 
 <div2 type="section" n="3">
-<head type="header" rend="center uppercase"><placeName type="city" key="Venice" corresp="Italy"><placeName key="Venice" ref="http://www.wikidata.org/entity/Q641">Venice</placeName></placeName>.</head> 
+<head type="header" rend="center uppercase"><placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641">Venice</placeName>.</head> 
 
-<p>This is the country of <persName key="Titian"><persName key="Titian" ref="http://www.wikidata.org/entity/Q47551" cert="high">Titian</persName></persName>, of <persName key="Palladio"><persName key="Andrea Palladio" ref="http://www.wikidata.org/entity/Q177692" type="real">Palladio</persName></persName>, of <persName key="Marcello"><persName key="Marcello Venusti" ref="http://www.wikidata.org/entity/Q2716659" cert="high">Marcello</persName></persName>, who from  
-a nobleman became one of the finest musicians in <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>; of <persName key="Pietro Bembo"><persName key="Pietro Bembo" ref="http://www.wikidata.org/entity/Q334188" type="real">Bembo</persName></persName>,  
-one of the most liberal and accomplished of cardinals; of <persName key="Paul Sarpi"><persName key="Paolo Sarpi" ref="http://dbpedia.org/resource/Paolo_Sarpi" cert="high">Paul Sarpi</persName></persName>,  
-who kept his countrymen independent of the church of <placeName type="city" key="Rome" corresp="Italy"><placeName key="Rome" ref="http://www.wikidata.org/entity/Q220" cert="high">Rome<precision match="@ref" precision="high"/></placeName></placeName>.</p>
+<p>This is the country of <persName key="Titian" ref="https://dbpedia.org/resource/Titian" type="real" cert="high">Titian</persName>, of <persName key="Andrea Palladio" ref="https://dbpedia.org/resource/Andrea_Palladio" type="real">Palladio</persName>, of <persName key="Marcello Venusti" ref="https://dbpedia.org/resource/Marcello_Venusti" type="real" cert="high">Marcello</persName>, who from  
+a nobleman became one of the finest musicians in <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38" cert="high">Italy</placeName>; of <persName key="Pietro Bembo" ref="https://dbpedia.org/resource/Pietro_Bembo" type="real">Bembo</persName>,  
+one of the most liberal and accomplished of cardinals; of <persName key="Paolo Sarpi" ref="http://dbpedia.org/resource/Paolo_Sarpi" type="real" cert="high">Paul Sarpi</persName>,  
+who kept his countrymen independent of the church of <placeName type="city" key="Rome" corresp="Italy" ref="http://www.wikidata.org/entity/Q220" cert="high">Rome</placeName>.</p>
 
 <p>The Venetians are like a lively family cut oflf from the rest of  
-<placeName type="continent" key="Europe" corresp="Europe"><placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName></placeName>, Let the reader imagine himself pushing off from a sea-coast,  
+<placeName type="continent" key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, Let the reader imagine himself pushing off from a sea-coast,  
 and coming at a distance of a league and a half upon a city standing in  
-the sea. This is <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>. It is built upon seventy-two little islands,  
+the sea. This is <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>. It is built upon seventy-two little islands,  
 the houses abutting directly upon the water, the finest of them with-  
 out even a landing place but the stairs; so that instead of streets  
 there are only canals of sea- water; and instead of coaches and carts,  
 gondolas and other boats. Perhaps the best idea the reader can  
-have of a Venetian street is to imagine a street like <placeName type="street" key="Portland-place" corresp="England"><placeName key="Portland Place" ref="http://www.wikidata.org/entity/Q7231999">Portland-place</placeName></placeName>,  
-or rather a more winding one like the <placeName key="High Street" ref="http://www.wikidata.org/entity/Q60282" cert="high">High-street<precision match="@ref" precision="high"/></placeName> at <placeName type="city" key="Oxford" corresp="England"><placeName key="University of Oxford" ref="http://www.wikidata.org/entity/Q34433" cert="high">Oxford<precision match="@ref" precision="high"/></placeName></placeName>, mixed  
-with nobler as well as smaller houses, and the full sea running through  
+have of a Venetian street is to imagine a street like <placeName type="street" key="Portland-place" corresp="England" ref="http://www.wikidata.org/entity/Q7231999">Portland-place</placeName>, or rather a more winding one like the <placeName key="High Street" ref="http://www.wikidata.org/entity/Q60282" type="street" corresp="England" cert="high">High-street</placeName> at <placeName type="city" key="Oxford" corresp="England" ref="https://www.wikidata.org/wiki/Q34217" cert="high">Oxford</placeName>, mixed with nobler as well as smaller houses, and the full sea running through  
 it, with abundance of boats of traffic and swift-darting gondolas.  
 The gondola is a sort of wherry, about five feet broad, and twenty-  
 five long, covered with black cloth, and having a cabin standing up  
@@ -4878,26 +4877,24 @@ who stand to their oars, one at each end, and with their faces the
 reverse way of our boatmen. They're very expert, and dart their  
 gondolas in and out among the intricacies of this watery bustle, like  
 fish. They are proverbial for their cheerfulness and honesty. They  
-used to be famous for singing passages out of <persName key="Torquato Tasso">Tasso</persName> and other Italian  
+used to be famous for singing passages out of <persName key="Torquato Tasso" type="real" ref="https://dbpedia.org/resource/Torquato_Tasso" cert="high">Tasso</persName> and other Italian  
 poets; but political trouble has dashed the spirits even of the  
 Venetian gondolier, and he is now comparatively mute.*<note type="hunt" place="foot">It is curious and natural enough, that one of their most favourite passages  
-was the beginning of the seventh book of the <title key="Jerusalem Delivered" ref="http://www.wikidata.org/entity/Q1053313">Jerusalem Delivered</title>, where <persName key="Erminia"><persName key="Erminia" ref="http://www.wikidata.org/entity/Q17324876" type="fictional">Erminia</persName></persName>  
+was the beginning of the seventh book of the <title key="Jerusalem Delivered" ref="http://www.wikidata.org/entity/Q1053313">Jerusalem Delivered</title>, where <persName key="Erminia" ref="http://www.wikidata.org/entity/Q17324876" type="fictional">Erminia</persName>
 gets among the country-people. They sang to a kind of chant, sometimes  
-responding to each other; and the aflfect at night-time, when the sound came  
-.softened by distance over the water, was often delightful. <persName key="Rousseau"><persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high" type="real">Rousseau</persName></persName>, who was  
-once at <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, published the chant in notes. We do not remember whether it is  
-from him that <persName key="William Shield">Mr. Shield</persName> has copied it in the appendix to his <title level="m">Introduction to Har-  
-mony</title>; but it is there to be found. <persName key="Ludovico Ariosto">Ariosto</persName> used to be the great favourite with  
-the Venetians; but <persName key="Torquato Tasso">Tasso</persName>'s poem seems to have superseded even the <title level="a">Orlando</title> in  
+responding to each other; and the aflfect at night-time, when the sound came softened by distance over the water, was often delightful. <persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high" type="real">Rousseau</persName>, who was  
+once at <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, published the chant in notes. We do not remember whether it is  
+from him that <persName key="William Shield" type="real" cert="high" ref="https://dbpedia.org/resource/William_Shield">Mr. Shield</persName> has copied it in the appendix to his <title level="m">Introduction to Harmony</title>; but it is there to be found. <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q48900" type="real">Ariosto</persName> used to be the great favourite with  
+the Venetians; but <persName key="Torquato Tasso" type="real" ref="https://dbpedia.org/resource/Torquato_Tasso" cert="high">Tasso</persName>'s poem seems to have superseded even the <title level="a">Orlando</title> in  
 popularity. An Italian gentleman, when asked his opinion of this mystery,  
-thought it explained by the great mixture of Turkish affairs in the <placeName type="city" key="Jersualem" corresp="Isreal">Jerusalem</placeName>,  
+thought it explained by the great mixture of Turkish affairs in the <placeName type="city" key="Jerusalem" corresp="Isreal" ref="https://www.wikidata.org/wiki/Q1218">Jerusalem</placeName>,  
 the Venetians having had a good deal to do with the Turks, both as enemies and  
 friends. </note> The guitar 
 <pb n="14"/>
-however is still heard in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, especially of an evening; and the  
+however is still heard in <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, especially of an evening; and the  
 visitor continually hears those delightful dancing airs which have  
 been collected and published in this country. The chief, or rather  
-the only place of assemblage for the inhabitants of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> out of  
+the only place of assemblage for the inhabitants of <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> out of  
 doors (for they have a fine opera and multitudes of opera-houses  
 within) is a large square, containing the principal church and the  
 government offices. Here all ranks are accustomed to meet of an  
@@ -4907,45 +4904,43 @@ very little more standing-room throughout the city; and so little
 vegetation, that they call a court by way of eminence the Court of  
 the Tree, and there is a church entitled our Lady of the Garden.  
 There is a monastery with one of these gardens, such as they are;  
-the <placeName type="landmark" key="Palace Zenobio" corresp="Italy">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> <persName key="Giuseppe Marc'Antonio Baretti" ref="http://www.wikidata.org/entity/Q741900">Baretti</persName> defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName key="Venice" corresp="Italy">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their pa-  
-laces like withered nuts.</note> called <placeName type="city" key="Zanne" corresp="Italy">Zanne</placeName>, another.  
+the <placeName type="landmark" key="Palace Zenobio" corresp="Italy" ref="https://www.wikidata.org/wiki/Q3649097">Palace Zenobio</placeName> has another, and a Casino,*<note type="hunt" place="foot"> <persName key="Giuseppe Marc'Antonio Baretti" ref="http://www.wikidata.org/entity/Q741900" type="real">Baretti</persName> defines one of these Casinos exactly. He calls it <q type="mentioned">a small house kept for pleasure in a town, besides our own.</q> They are in great request at <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>; more so now, we suppose than ever, since the nobility have shrunk in their palaces like withered nuts.</note> called <placeName type="building" key="Zane" corresp="Italy" ref="https://www.wikidata.org/wiki/Q2945371">Zanne</placeName>, another.  
 We suppose they muster up some others in miniature; but there  
-is an island near <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, where the gentry have country-houses, and  
+is an island near <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, where the gentry have country-houses, and  
 contrive to be a little more horticultural.</p>
 
-<p>Next to it's watery streets, <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> is remarkable for the number  
+<p>Next to it's watery streets, <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> is remarkable for the number  
 of it's bridges and palaces. The latter are truly so called, and  
-comprise many of the master-pieces of <persName key="Palladio"><persName key="Andrea Palladio" ref="http://www.wikidata.org/entity/Q177692" cert="high" type="real">Palladio</persName></persName>. Every noble family  
+comprise many of the master-pieces of <persName key="Andrea Palladio" ref="https://dbpedia.org/resource/Andrea_Palladio" type="real">Palladio</persName>. Every noble family  
 appears to have once occupied a palace, some of them many palaces.  
 They stand upon the principal canals, into which run smaller ones,  
 all of them having their bridges. These bridges however are in  
-general very small; nor is the famous one, called the <placeName type="landmark" key="Ponte di Rialto" corresp="Italy">Rialto</placeName>, so  
+general very small; nor is the famous one, called the <placeName type="landmark" key="Ponte di Rialto" corresp="Italy" ref="https://www.wikidata.org/wiki/Q52505">Rialto</placeName>, so  
 remarkable as it's celebrity would imply, though it is built in a strik-  
-ing manner, of one arch. It has houses on it, like old <placeName type="landmark" key="London bridge" corresp="England"><placeName key="London Bridge" ref="http://www.wikidata.org/entity/Q56739974">London bridge</placeName></placeName>,  
+ing manner, of one arch. It has houses on it, like old <placeName type="landmark" key="London bridge" corresp="England" ref="http://www.wikidata.org/entity/Q56739974">London bridge</placeName>,  
 though not after the same fashion. They cross it in a covered angle,  
-forming a double arcade. The artist who built it was called <persName key="Antonio">Antonio</persName>  
+forming a double arcade. The artist who built it was called <persName key="Antonio" type="real" cert="high" ref="https://dbpedia.org/resource/Antonio_da_Ponte">Antonio</persName>  
 of the Bridge. In the same spirit of poetical tendency, the bridge  
-leading to the city jail is called the <placeName type="landmark" key="Bridge of Sighs" corresp="Italy"><placeName key="Bridge of Sighs" ref="http://www.wikidata.org/entity/Q52517" cert="high">Bridge of Sighs<precision match="@ref" precision="high"/></placeName></placeName>; and one of the  
+leading to the city jail is called the <placeName type="landmark" key="Bridge of Sighs" corresp="Italy" ref="http://www.wikidata.org/entity/Q52517" cert="high">Bridge of Sighs</placeName>; and one of the  
 principal canals, probably from the residence of some great musician,  
 is entitled <placeName type="physical" key="the River of Song" corresp="Italy">the River of Song</placeName>.</p>
 
 <p>The Venetians have always been famous for their enjoying temper,  
-and what the Italians call <persName key="Brio">Brio</persName>, — a certain sparkling of the animal  
-spirits. A quintessence of this quality would seem to have been almost  
-the only thing which made a late celebrated dramatist, <persName key="Goldoni"><persName key="Carlo Goldoni" ref="http://www.wikidata.org/entity/Q165534">Goldoni</persName></persName>,  
-be taken all over <placeName type="continent" key="Europe" corresp="Europe">Europe</placeName> for a great genius. Yet the Venetian character  
+and what the Italians call Brio, — a certain sparkling of the animal spirits. A quintessence of this quality would seem to have been almost  
+the only thing which made a late celebrated dramatist, <persName key="Carlo Goldoni" ref="http://www.wikidata.org/entity/Q165534" type="real">Goldoni</persName>,  
+be taken all over <placeName type="continent" key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> for a great genius. Yet the Venetian character  
 in general is relieved from the frivolous by an evident capacity
 
 <pb n="15"/>
 for the serious. The wine in their blood has a body with it. There  
 is a tone and substance in their composition as different from the old  
-French levity, as <persName key="Titian">Titian</persName>'s pictures are from La Guerre. You still  
-meet with <persName key="Titian">Titian</persName>'s men and women at <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, — the same rich dark  
+French levity, as <persName key="Titian" ref="https://dbpedia.org/resource/Titian" type="real" cert="high">Titian</persName>'s pictures are from La Guerre. You still  
+meet with <persName key="Titian" ref="https://dbpedia.org/resource/Titian" type="real" cert="high">Titian</persName>'s men and women at <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, — the same rich dark  
 complexions and fine figures; the same faces, earnest without sharp-  
 ness, quick without confusion, thoughtful without severity, volup-  
 tuous without grossness. The men are robust as well as agile : the  
 women have that sort of tone in their composition which made the  
-very courtezan of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> a <persName key="Calypso" ref="http://www.wikidata.org/entity/Q48961" cert="high" type="fictional">Calypso</persName> to strangers, and enthroned the  
+very courtezan of <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> a <persName key="Calypso" ref="http://www.wikidata.org/entity/Q48961" cert="high" type="fictional">Calypso</persName> to strangers, and enthroned the  
 more sentimental mistress at the top of her sex, at once to fascinate  
 and to rule.</p>
 
@@ -4962,8 +4957,8 @@ versally. There seems in this a kind of pleasant and avowed hypo-
 crisy, which stands the lively and sincere Venetian instead of the  
 more hypocritical zests of other countries.</p>
 
-<p><placeName type="city" key="Venice" corresp="Italy">Venice</placeName> originated with fugitives from the <placeName type="region" key="Italian peninsula" corresp="Italy"><placeName key="Italian Peninsula" ref="http://www.wikidata.org/entity/Q145694" cert="high">Italian peninsula<precision match="@ref" precision="high"/></placeName></placeName> during  
-the fierce time of <persName key="Attila"><persName key="Attila" ref="http://www.wikidata.org/entity/Q36724" type="real">Attila</persName></persName>, and subsisted afterwards as an independent  
+<p><placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> originated with fugitives from the <placeName type="region" key="Italian peninsula" corresp="Italy" ref="http://www.wikidata.org/entity/Q145694" cert="high">Italian peninsula</placeName> during  
+the fierce time of <persName key="Attila" ref="http://www.wikidata.org/entity/Q36724" type="real">Attila</persName>, and subsisted afterwards as an independent  
 state for many centuries, unbesieged even but by the waves. It's  
 famous oligarchical form of government, under which it became  
 mistress of the sea, still divides the opinions of politicians. Some  
@@ -4983,14 +4978,14 @@ political talking; and provided a Venetian did not talk politics, he
 might talk or do any thing he pleased. Thus they were like a happy  
 family living under a father of austere aspect and real goodnature.  
 But as their less happy neighbours out-grew them, this happy family  
-was to be disturbed; and it was so. <placeName type="city" key="Venice" corresp="Italy"><placeName key="Venice" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice<precision match="@ref" precision="high"/></placeName></placeName> in common with the  
-other northern states of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName> became the property of the greatest  
-neighbour for the time being, — of the Court of <placeName type="city" key="Vienna" corresp="Austria"><placeName key="Vienna" ref="http://www.wikidata.org/entity/Q1741" cert="high">Vienna<precision match="@ref" precision="high"/></placeName></placeName> first, then  
-of <placeName type="country" key="France" corresp="France"><placeName key="France" ref="http://www.wikidata.org/entity/Q142">France</placeName></placeName>, and now of <placeName type="city" key="Vienna" corresp="Austria"><placeName key="Vienna" ref="http://www.wikidata.org/entity/Q1741">Vienna</placeName></placeName> again. It's nobles are at length  
+was to be disturbed; and it was so. <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> in common with the  
+other northern states of <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38" cert="high">Italy</placeName> became the property of the greatest  
+neighbour for the time being, — of the Court of <placeName type="city" key="Vienna" corresp="Austria" ref="http://www.wikidata.org/entity/Q1741" cert="high">Vienna</placeName> first, then  
+of <placeName type="country" key="France" corresp="France" ref="http://www.wikidata.org/entity/Q142">France</placeName>, and now of <placeName type="city" key="Vienna" corresp="Austria" ref="http://www.wikidata.org/entity/Q1741">Vienna</placeName> again. It's nobles are at length  
 ruined; it's palaces almost deserted; and the gay Venetian, now
 <pb n="16"/>
 a pensive animal to what he was, meditates on the approaching period  
-when his very city is to be forsaken by the sea; when <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> itself,  
+when his very city is to be forsaken by the sea; when <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> itself,  
 eyeless, voiceless, and dead, is to stand like a gigantic skeleton on a  
 stagnant and deserted shore, whistling with the screams of sea-fowl,  
 and the disdainful rushing of the wind.</p>
@@ -5001,24 +4996,24 @@ and was understood to be disproved at that time. According to the
 systems, however, and calculations of modern philosophy, the sea-  
 coasts all over the globe are in a constant state either of an accression  
 or diminution of waters; and the imagination, in its gloomier mo-  
-ments, may still contemplate the desolation of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, approaching  
+ments, may still contemplate the desolation of <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, approaching  
 or far off.</p>
 
 <p>Still the Venetians compared with most other people are a hap-  
 py race. The blood runs quicker in their veins. They have more  
 music, more freshness and easiness of life, more cordiality of  
-intercourse. The good-natured philosopher still finds in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> the  
+intercourse. The good-natured philosopher still finds in <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName> the  
 greatest mixture of liveliness and sentiment : the restless man of  
 genius, impatient of the contradiction of his young hopes, still finds  
 there something to admire and to love. If the Venetians have been  
 thought to be of too amorous a disposition, they are acknowledged  
 to be temperate in every other respect, and to make excellent parents  
 and kinsfolk : and it is to be observed that in many of the cities of  
-<placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
+<placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38" cert="high">Italy</placeName>, the proneness to love has gradually produced a state of opinion on  
 those matters, less severe than in some other countries; so that they  
 do not violate their consciences so much as might be supposed, and  
 the guUt is of necessity diminished with the sense of it. A late tra-  
-veller says, that the most striking thing after all, in <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>, is the  
+veller says, that the most striking thing after all, in <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641" cert="high">Venice</placeName>, is the  
 extreme kindness and attentiveness of all ranks of people to one  
 another. A young man going by with a burden begs his <q type="soCalled">good  
 father</q> (any given old gentleman) to let him have way; and the good  
@@ -5040,7 +5035,7 @@ disputatious moralist would do better in letting alone.</p>
                 <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>.</p>
                 <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
                 </div2>
-            
-        
+            </div1>
+			</body>
     </text>
 </TEI>
