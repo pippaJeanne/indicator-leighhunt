@@ -531,7 +531,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241014230217283",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-15T03:02:17.283Z",
-	"dcterms:modified": "2024-10-15T03:02:17.283Z",
+	"dcterms:modified": "2024-10-15T03:07:45.325Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -562,7 +562,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q17645367",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -570,7 +572,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -608,7 +611,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241014230222003",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-15T03:02:22.003Z",
-	"dcterms:modified": "2024-10-15T03:02:22.003Z",
+	"dcterms:modified": "2024-10-15T03:08:12.486Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -639,7 +642,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5933",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -647,7 +652,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -846,7 +852,7 @@ thousand virgins have vanished with their credibility; and a real
 noble-hearted woman of flesh and blood is <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
 
 <p>The story of <persName key="Godiva">Godiva</persName> is not a fiction, as many suppose it. At least  
-it is to be found in Matthew of Westminster<note type="editorial">It is making reference to <title level="s" ref="https://en.wikipedia.org/wiki/Flores_Historiarum">Flores Historiarum</title> (Flowers of History), a series of two related Latin chronicles written in the 13th century by medieval English historians. The second of which, originally written at <placeName key="St Albans Abbey" type="building" corresp="England">St Albans Abbey</placeName> and later at <placeName key="Westminster Abbey" type="building" corresp="England">Westminster Abbey</placeName>, was for a long time attributed to a Matthew of Westminster. <persName key="Henry Richards Luard" type="real">Henry Richards Luard</persName> demonstrated in the late 19th century that he was actually <persName key="Matthew Paris" type="real">Matthew Paris</persName>. Source : <bibl><title level="a">Flores Historiarum</title>. 2024. <ref>In Wikipedia. https://en.wikipedia.org/wiki/Flores_Historiarum</ref></bibl>.
+it is to be found in Matthew of Westminster<note type="editorial">It is making reference to <title level="s" ref="https://en.wikipedia.org/wiki/Flores_Historiarum">Flores Historiarum</title> (Flowers of History), a series of two related Latin chronicles written in the 13th century by medieval English historians. The second of which, originally written at <placeName key="St Albans Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q17645367">St Albans Abbey</placeName> and later at <placeName key="Westminster Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5933">Westminster Abbey</placeName>, was for a long time attributed to a Matthew of Westminster. <persName key="Henry Richards Luard" type="real">Henry Richards Luard</persName> demonstrated in the late 19th century that he was actually <persName key="Matthew Paris" type="real">Matthew Paris</persName>. Source : <bibl><title level="a">Flores Historiarum</title>. 2024. <ref>In Wikipedia. https://en.wikipedia.org/wiki/Flores_Historiarum</ref></bibl>.
 </note>, and is not of a nature  
 to have been a mere invention. Her name, and that of her husband,  
 <persName key="Leofric">Leofric</persName>, are mentioned in an old charter recorded by another  
