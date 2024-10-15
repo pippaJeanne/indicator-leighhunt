@@ -294,10 +294,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014204457169",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014221534285",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-10-15T00:44:57.169Z",
-	"dcterms:modified": "2024-10-15T02:15:34.285Z",
+	"dcterms:created": "2024-10-15T02:15:34.285Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -308,7 +307,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014204457169#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014221534285#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
@@ -322,7 +321,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014204457169#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014221534285#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName[2]"
 		}
@@ -451,7 +450,7 @@
                     <head type="header" rend="center uppercase"> <persName key="Lady Godiva" ref="http://dbpedia.org/resource/Lady_Godiva" type="real" cert="high" xml:id="Godiva">Godiva</persName>. </head>
 
 
-<p>This is the lady, who under the title of <persName key="Lady Godiva" cert="high" corresp="#Godiva" ref="http://dbpedia.org/resource/Lady_Godiva" type="real">Countess of Coventry</persName>, used  
+<p>This is the lady, who under the title of <persName key="Lady Godiva" cert="high" corresp="#Godiva" type="real">Countess of Coventry</persName>, used  
 to make such a figure in our childhood upon some old pocket-pieces  
 of that city. We hope she is in great request there still; or the  
 inhabitants deserve to be sent from <placeName type="city" key="Coventry" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q6225">Coventry</placeName>. That city used to  
@@ -461,7 +460,8 @@ thousand virgins have vanished with their credibility; and a real
 noble-hearted woman of flesh and blood is <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>'s true immortality.</p>
 
 <p>The story of <persName key="Godiva">Godiva</persName> is not a fiction, as many suppose it. At least  
-it is to be found in <persName key="Matthew of Westminster">Matthew of Westminster</persName>, and is not of a nature  
+it is to be found in Matthew of Westminster<note type="editorial">It is making reference to <title level="s" ref="https://en.wikipedia.org/wiki/Flores_Historiarum">Flores Historiarum</title> (Flowers of History), a series of two related Latin chronicles written in the 13th century by medieval English historians. The second of which, originally written at <placeName key="St Albans Abbey" type="building" corresp="England">St Albans Abbey</placeName> and later at <placeName key="Westminster Abbey" type="building" corresp="England">Westminster Abbey</placeName>, was for a long time attributed to a Matthew of Westminster. <persName key="Henry Richards Luard" type="real">Henry Richards Luard</persName> demonstrated in the late 19th century that he was actually <persName key="Matthew Paris" type="real">Matthew Paris</persName>. Source : <title level="a">« Flores Historiarum »</title>. 2024. <ref>In Wikipedia. https://en.wikipedia.org/wiki/Flores_Historiarum</ref>.
+</note>, and is not of a nature  
 to have been a mere invention. Her name, and that of her husband,  
 <persName key="Leofric">Leofric</persName>, are mentioned in an old charter recorded by another  
 early historian. That the story is omitted by <persName key="Hume">Hume</persName> and others  
