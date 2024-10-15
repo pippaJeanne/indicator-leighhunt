@@ -57,10 +57,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014201410586",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014203645264",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-10-15T00:14:10.586Z",
-	"dcterms:modified": "2024-10-15T00:36:45.264Z",
+	"dcterms:created": "2024-10-15T00:36:45.264Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -71,7 +70,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014201410586#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014203645264#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
@@ -85,7 +84,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014201410586#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014203645264#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName"
 		}
@@ -140,7 +139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014203653797",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-15T00:36:53.797Z",
-	"dcterms:modified": "2024-10-15T00:36:53.797Z",
+	"dcterms:modified": "2024-10-15T00:40:51.753Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -171,7 +170,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Lady_Godiva",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -179,7 +180,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -214,7 +216,7 @@
                     <head type="header" rend="center uppercase"> <persName key="Lady Godiva" ref="http://dbpedia.org/resource/Lady_Godiva" type="real" cert="high" xml:id="Godiva">Godiva</persName>. </head>
 
 
-<p>This is the lady, who under the title of <persName key="Godiva">Countess of Coventry</persName>, used  
+<p>This is the lady, who under the title of <persName key="Lady Godiva" cert="high" corresp="#Godiva" ref="http://dbpedia.org/resource/Lady_Godiva" type="real">Countess of Coventry</persName>, used  
 to make such a figure in our childhood upon some old pocket-pieces  
 of that city. We hope she is in great request there still; or the  
 inhabitants deserve to be sent from <placeName type="city" key="Coventry" corresp="England">Coventry</placeName>. That city used to  
