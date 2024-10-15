@@ -928,7 +928,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241014231727195",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-15T03:17:27.195Z",
-	"dcterms:modified": "2024-10-15T03:17:27.195Z",
+	"dcterms:modified": "2024-10-15T03:18:33.193Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -959,7 +959,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/David_Hume",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -967,7 +969,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1016,7 +1019,7 @@ it is to be found in Matthew of Westminster<note type="editorial">It is making r
 </note>, and is not of a nature  
 to have been a mere invention. Her name, and that of her husband,  
 <persName key="Leofric, Earl of Mercia" cert="high" ref="http://dbpedia.org/resource/Leofric,_Earl_of_Mercia" type="real">Leofric</persName>, are mentioned in an old charter recorded by another  
-early historian. That the story is omitted by <persName key="Hume">Hume</persName> and others  
+early historian. That the story is omitted by <persName key="David Hume" cert="medium" ref="http://dbpedia.org/resource/David_Hume" type="real">Hume</persName> and others  
 argues little against it; for the latter are accustomed to confound  
 the most interesting anecdotes of times and manners with something  
 below the dignity of history (a very absurd mistake); — and <persName key="Hume">Hume</persName>,  
