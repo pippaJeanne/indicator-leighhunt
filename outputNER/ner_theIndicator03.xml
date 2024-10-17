@@ -2589,7 +2589,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017182650852",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T22:26:50.852Z",
-	"dcterms:modified": "2024-10-17T22:26:50.852Z",
+	"dcterms:modified": "2024-10-17T22:27:54.892Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2620,7 +2620,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q692",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2845,7 +2847,7 @@ Giles's</placeName>, whose very name is a nuisance with some. It is dangerous
 to speak disrespectfully of old districts. Who would suppose  
 that <placeName type="region" key="Southwark" corresp="England" ref="http://www.wikidata.org/entity/Q5273898">the Borough</placeName> was the most classical ground in the metropolis?  
 And yet it is undoubtedly so. <placeName type="Theatre" key="Globe Theatre" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q272434">The Globe theatre</placeName> was there, of  
-which <persName key="William Shakspeare">Shakspeare</persName> himself was a proprietor, and for which he wrote  
+which <persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692" type="real">Shakspeare</persName> himself was a proprietor, and for which he wrote  
 his plays. <placeName type="street" key="Globe-Lane" corresp="England">Globe-lane</placeName>, in which it stood, is still extant, we believe,   
 under that name. It is probable that he lived near it : it is certain  
 that he must have been much there. It is also certain that on <placeName type="region" key="the Borough" corresp="England">the  
