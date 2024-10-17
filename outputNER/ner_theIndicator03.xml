@@ -2350,7 +2350,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017181729519",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T22:17:29.519Z",
-	"dcterms:modified": "2024-10-17T22:17:29.519Z",
+	"dcterms:modified": "2024-10-17T22:21:22.861Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2381,7 +2381,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Charles_II_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2389,7 +2391,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2594,7 +2597,7 @@ excite; they only serve to keep our spirits fresh for their task, and
 hinder them from running into desperation or hopelessness. In  
 <placeName type="landmark" key="St. Giles church" corresp="England">St. Giles's Church</placeName> lie <persName key="George Chapman" cert="high" ref="https://dbpedia.org/resource/George_Chapman" type="real">Chapman</persName>, the earliest and best translator of  
 <persName key="Homer" cert="high" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>; and <persName key="Andrew Marvell" cert="high" ref="https://dbpedia.org/resource/Andrew_Marvell" type="real">Andrew Marvell</persName>, the wit and patriot, whose poverty  
-<persName key="King Charles II">Charles the Second</persName> could not bribe. We are as sure to think of  
+<persName key="Charles II of England" cert="high" ref="https://dbpedia.org/resource/Charles_II_of_England" type="real">Charles the Second</persName> could not bribe. We are as sure to think of  
 these two men, and of all the good and pleasure they have done to  
 the world, as of the less happy objects about us. The steeple of the  
 church itself too is a handsome one; and there is a flock of pigeons  
