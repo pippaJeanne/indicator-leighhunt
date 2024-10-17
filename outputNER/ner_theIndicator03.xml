@@ -1167,7 +1167,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017143935078",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T18:39:35.078Z",
-	"dcterms:modified": "2024-10-17T18:39:35.078Z",
+	"dcterms:modified": "2024-10-17T18:41:52.157Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1198,7 +1198,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Leofric,_Earl_of_Mercia",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1285,7 +1287,7 @@ more: but affection can sometimes do things, such as the tenderest
 imagination is at least not in the habit of inventing; and this piece  
 of noble-heartedness we believe to have been one of them.</p>
 
-<p><persName key="Leofric">Leofric, Earl of Leicester</persName>, was the lord of a large feudal territory  
+<p><persName key="Leofric, Earl of Mercia" ref="http://dbpedia.org/resource/Leofric,_Earl_of_Mercia" corresp="#leofric">Leofric, Earl of Leicester</persName>, was the lord of a large feudal territory  
 in the middle of <placeName type="country" key="England" corresp="England">England</placeName>, of which <placeName type="city" key="Coventry" corresp="England">Coventry</placeName> formed a part. He  
 lived in the time of <persName key="Edward the Confessor">Edward the Confessor</persName>; and was so eminently a  
 feudal lord, that the hereditary greatness of his dominion appears to  
