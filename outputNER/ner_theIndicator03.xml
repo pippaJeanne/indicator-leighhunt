@@ -2430,7 +2430,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241017182325760",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T22:23:25.760Z",
-	"dcterms:modified": "2024-10-17T22:23:25.760Z",
+	"dcterms:modified": "2024-10-17T22:24:36.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2461,7 +2461,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5273898",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2684,7 +2686,7 @@ swept back the smoke towards the city, and shewed the white of
 the stone steeple piercing up into a blue sky. So much for <placeName type="region" key="St. Giles" corresp="England">St.  
 Giles's</placeName>, whose very name is a nuisance with some. It is dangerous  
 to speak disrespectfully of old districts. Who would suppose  
-that <placeName type="region" key="the Borough" corresp="England">the Borough</placeName> was the most classical ground in the metropolis?  
+that <placeName type="region" key="Southwark" corresp="England" ref="http://www.wikidata.org/entity/Q5273898">the Borough</placeName> was the most classical ground in the metropolis?  
 And yet it is undoubtedly so. <placeName type="Theatre" key="The Globe Theatre" corresp="England">The Globe theatre</placeName> was there, of  
 which <persName key="William Shakspeare">Shakspeare</persName> himself was a proprietor, and for which he wrote  
 his plays. <placeName type="street" key="Globe-Lane" corresp="England">Globe-lane</placeName>, in which it stood, is still extant, we believe,   
