@@ -1321,7 +1321,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017144845795",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T18:48:45.795Z",
-	"dcterms:modified": "2024-10-17T18:48:45.795Z",
+	"dcterms:modified": "2024-10-17T18:50:29.433Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1352,7 +1352,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Edward_the_Confessor",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1360,7 +1362,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1441,7 +1444,7 @@ of noble-heartedness we believe to have been one of them.</p>
 
 <p><persName type="real" key="Leofric, Earl of Mercia" corresp="#leofric">Leofric, Earl of Leicester</persName>, was the lord of a large feudal territory  
 in the middle of <placeName type="country" key="England" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q21">England</placeName>, of which <placeName type="city" key="Coventry" corresp="England">Coventry</placeName> formed a part. He  
-lived in the time of <persName key="Edward the Confessor">Edward the Confessor</persName>; and was so eminently a  
+lived in the time of <persName key="Edward the Confessor" cert="high" ref="https://dbpedia.org/resource/Edward_the_Confessor" type="real">Edward the Confessor</persName>; and was so eminently a  
 feudal lord, that the hereditary greatness of his dominion appears to  
 have been singular even at that time, and to have lasted with an  
 uninterrupted succession from <persName key="Ethelbald">Ethelbald</persName> to the Conquest, — a period  
