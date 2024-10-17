@@ -2030,7 +2030,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241017164635341",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T20:46:35.341Z",
-	"dcterms:modified": "2024-10-17T21:00:57.259Z",
+	"dcterms:modified": "2024-10-17T21:05:07.218Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2269,7 +2269,7 @@ and oppress us during sickness. But healthy association peoples this
 vague sense with agreeable images. It will relieve us, even when  
 a painful sympathy with the distresses of others becomes a part of  
 the very health of our minds. For instance, we can never go  
-through <placeName type="region" key="St. Giles Church" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q3495322">St. Giles's</placeName>, but the sense of the extravagant inequalities in  
+through <placeName type="region" key="St. Giles Church" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q3495322" xml:id="st_giles">St. Giles's</placeName>, but the sense of the extravagant inequalities in  
 human condition presses more forcibly upon us; but some pleasant  
 images are at hand even there to refresh it. They do not displace  
 the others, so as to injure the sense of public duty which they  
