@@ -1875,7 +1875,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017153235479",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T19:32:35.479Z",
-	"dcterms:modified": "2024-10-17T19:32:35.479Z",
+	"dcterms:modified": "2024-10-17T19:33:56.277Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1906,7 +1906,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Michael_Drayton",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1914,7 +1916,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2044,7 +2047,7 @@ tresses, which poured around her body like a veil; and so, with only </p>
 <pb n="19"/>
 
 <p>her white legs remaining conspicuous, took her gentle way through  
-the streets. <note type="hunt" place="foot"> <q xml:lang="latin">Nuda</q>, says <persName key="Matthew Paris" cert="high" corresp="#mathew_paris" ref="http://www.wikidata.org/entity/Q369366" type="real">Matthew of Westminster</persName>, <q type="written" xml:lang="latin">equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit.</q> See <persName key="Selden">Selden</persName>'s Notes to the <title level="m">Polyolbion</title> of <persName key="Michael Drayton">Drayton</persName>. <title level="s">Song 13</title>. It is <persName key="Selden">Selden</persName> from whom we learn, that <persName key="Leofric">Leofric</persName> was Earl of Leicester, and the other particulars of him mentioned above. <persName key="Leofric">The Earl</persName> was buried at <placeName key="Coventry" type="city" corresp="England">Coventry</placeName>, <persName key="Godiva">his Countess</persName> most  
+the streets. <note type="hunt" place="foot"> <q xml:lang="latin">Nuda</q>, says <persName key="Matthew Paris" cert="high" corresp="#mathew_paris" ref="http://www.wikidata.org/entity/Q369366" type="real">Matthew of Westminster</persName>, <q type="written" xml:lang="latin">equum ascendens, erines capitis et tricas dissolvens, corpus suum totum, prjeter crura candidissima, inde velavit.</q> See <persName key="Selden">Selden</persName>'s Notes to the <title level="m">Polyolbion</title> of <persName key="Michael Drayton" cert="high" ref="https://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>. <title level="s">Song 13</title>. It is <persName key="Selden">Selden</persName> from whom we learn, that <persName key="Leofric">Leofric</persName> was Earl of Leicester, and the other particulars of him mentioned above. <persName key="Leofric">The Earl</persName> was buried at <placeName key="Coventry" type="city" corresp="England">Coventry</placeName>, <persName key="Godiva">his Countess</persName> most  
 probably, in the same tomb. </note> </p>
 
 <p>What scene can be more touching to the imagination, — beauty,  
