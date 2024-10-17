@@ -1481,7 +1481,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017145401228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T18:54:01.228Z",
-	"dcterms:modified": "2024-10-17T18:54:01.228Z",
+	"dcterms:modified": "2024-10-17T18:58:40.330Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1512,7 +1512,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Godwin,_Earl_of_Wessex",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1520,7 +1522,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1606,7 +1609,7 @@ feudal lord, that the hereditary greatness of his dominion appears to
 have been singular even at that time, and to have lasted with an  
 uninterrupted succession from <persName key="Æthelbald, King of Wessex" cert="high" ref="http://dbpedia.org/resource/Æthelbald,_King_of_Wessex" type="real">Ethelbald</persName> to the Conquest, — a period  
 of more than three hundred years. He was a great and useful  
-opponent of the famous <persName key="Earl Goodwin">Earl Goodwin</persName>.</p>
+opponent of the famous <persName key="Godwin, Earl of Wessex" cert="high" ref="https://dbpedia.org/resource/Godwin,_Earl_of_Wessex" type="real">Earl Goodwin</persName>.</p>
 
 <p>Whether it was owing to <persName key="Leofric">Leofric</persName> or not, does not appear; but  
 <placeName type="city" key="Coventry" corresp="England">Coventry</placeName> was subject to a very oppressive tollage, by which it would  
