@@ -2110,7 +2110,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017181039713",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T22:10:39.713Z",
-	"dcterms:modified": "2024-10-17T22:12:40.683Z",
+	"dcterms:modified": "2024-10-17T22:13:31.622Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2142,7 +2142,87 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q342720",
+		"@id": "https://dbpedia.org/resource/George_Chapman",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017181343092",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-10-17T22:13:43.092Z",
+	"dcterms:modified": "2024-10-17T22:13:59.366Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017181343092#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017181343092#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Homer",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2355,8 +2435,8 @@ images are at hand even there to refresh it. They do not displace
 the others, so as to injure the sense of public duty which they  
 excite; they only serve to keep our spirits fresh for their task, and  
 hinder them from running into desperation or hopelessness. In  
-<placeName type="landmark" key="St. Giles church" corresp="England">St. Giles's Church</placeName> lie <persName key="https://dbpedia.org/resource/George_Chapman" cert="high" ref="http://www.wikidata.org/entity/Q342720" type="real">Chapman</persName>, the earliest and best translator of  
-<persName key="Homer">Homer</persName>; and <persName key="Andrew Marvell">Andrew Marvell</persName>, the wit and patriot, whose poverty  
+<placeName type="landmark" key="St. Giles church" corresp="England">St. Giles's Church</placeName> lie <persName key="George Chapman" cert="high" ref="https://dbpedia.org/resource/George_Chapman" type="real">Chapman</persName>, the earliest and best translator of  
+<persName key="Homer" cert="high" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>; and <persName key="Andrew Marvell">Andrew Marvell</persName>, the wit and patriot, whose poverty  
 <persName key="King Charles II">Charles the Second</persName> could not bribe. We are as sure to think of  
 these two men, and of all the good and pleasure they have done to  
 the world, as of the less happy objects about us. The steeple of the  
