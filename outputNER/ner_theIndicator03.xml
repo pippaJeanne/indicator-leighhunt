@@ -1085,7 +1085,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241017143436720",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-17T18:34:36.720Z",
-	"dcterms:modified": "2024-10-17T18:34:36.720Z",
+	"dcterms:modified": "2024-10-17T18:36:26.503Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1116,7 +1116,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Samuel_Johnson",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1124,7 +1126,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1190,7 +1193,7 @@ whether he relates the present story; but we remember well, that
 at the beginning of his fragment on that subject, he says he shall  
 relate doubtful stories as well as authentic ones, for the benefit of  
 those, if no others, who will know how to make use of them,—  
-namely, the poets. <note type="hunt" place="foot"> When <persName key="Samuel Johnson">Dr. Johnson</persName>, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
+namely, the poets. <note type="hunt" place="foot"> When <persName key="Samuel Johnson" cert="high" ref="https://dbpedia.org/resource/Samuel_Johnson" type="real">Dr. Johnson</persName>, among his other impatient accusations of our great republican, charged him with telling unwarrantable stories in his history, he must  
 haye overlooked this announcement; and yet, if we recollect, it is but in the  
 second page of the fragment. So hasty, and blind, and liable to be put to shame  
 is prejudice.</note> We have faith however in the story ourselves.</p>
