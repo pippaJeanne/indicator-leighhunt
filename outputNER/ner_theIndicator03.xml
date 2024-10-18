@@ -3139,7 +3139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172352115",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T21:23:52.115Z",
-	"dcterms:modified": "2024-10-18T21:23:52.115Z",
+	"dcterms:modified": "2024-10-18T21:24:23.628Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3170,7 +3170,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3178,7 +3180,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3404,7 +3407,7 @@ same lodging, having the same wardrobe, and some say, with other
 participations more remarkable, lived <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="John Fletcher" cert="high" ref="https://dbpedia.org/resource/John_Fletcher_(playwright)" type="real">Fletcher</persName>. In  
 <placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q105074883">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Philip Massinger" cert="high" ref="https://dbpedia.org/resource/Philip_Massinger" type="real">Massinger</persName> in  
 one grave; in the same church, under a monument and effigy, lies  
-<persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName type="region" key="the Borough" corresp="England">the Borough</placeName>,  
+<persName key="Geoffrey Chaucer" cert="high" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName type="region" key="the Borough" corresp="England">the Borough</placeName>,  
 the existence of which is still boasted, and the scite pointed out by a  
 picture and inscription, <persName key="Geoffrey Chaucer">Chaucer</persName> sets out his pilgrims and himself on  
 their famous road to <placeName type="city" key="Canterbury" corresp="England">Canterbury</placeName>.</p>
