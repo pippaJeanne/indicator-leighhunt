@@ -3458,7 +3458,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018173755154",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T21:37:55.154Z",
-	"dcterms:modified": "2024-10-18T21:37:55.154Z",
+	"dcterms:modified": "2024-10-18T21:38:24.578Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3489,7 +3489,87 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5288837",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018173845943",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-10-18T21:38:45.943Z",
+	"dcterms:modified": "2024-10-18T21:38:45.943Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018173845943#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018173845943#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3729,7 +3809,7 @@ picture and inscription, <persName key="Geoffrey Chaucer">Chaucer</persName> set
 their famous road to <placeName type="city" key="Canterbury" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1094104">Canterbury</placeName>.</p>
 
 <p>To return over the water, who would expect any thing poetical  
-from <placeName type="region" key="East Smithfield" corresp="England">East Smithfield</placeName>? Yet there was born the most poetical even  
+from <placeName type="region" key="East Smithfield" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5288837">East Smithfield</placeName>? Yet there was born the most poetical even  
 of poets, <persName key="Edmund Spenser">Spenser</persName>. <persName key="Alexander Pope">Pope</persName> was born within the sound of <placeName type="region" key="Bow" corresp="England">Bow</placeName>-bell<note type="editorial"> One is said to be a true cockney (East-Londoner) if one is born within sound range of the Bow Bells</note>, in  
 a street no less anti-poetical than <placeName type="street" key="Lombard-street" corresp="England">Lombard-street</placeName>. So was <persName key="Gray">Gray</persName>, in  
 <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName type="street" key="Bread-street, Cheapside" corresp="England"><placeName type="street" key="Bread-street" corresp="England">Bread-street</placeName>, <placeName type="street" key="Cheapside" corresp="England">Cheapside</placeName></placeName>. The presence 
