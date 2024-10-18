@@ -2739,7 +2739,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018165402483",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T20:54:02.483Z",
-	"dcterms:modified": "2024-10-18T20:54:02.483Z",
+	"dcterms:modified": "2024-10-18T21:00:24.860Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2770,7 +2770,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2660320",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2778,7 +2780,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2999,7 +3002,7 @@ which <persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q6
 his plays. <placeName type="street" key="New Globe Walk" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q66809977">Globe-lane</placeName><note cert="high" evaluate="all" generatedBy="human" place="top" type="editorial" xml:space="default">Now called New Globe Walk.</note>, in which it stood, is still extant, we believe,   
 under that name. It is probable that he lived near it : it is certain  
 that he must have been much there. It is also certain that on <placeName type="region" key="the Borough" corresp="England">the  
-Borough</placeName> side of the river, then and still called the <placeName key="Bank side" corresp="England">Bank side</placeName>, in the  
+Borough</placeName> side of the river, then and still called the <placeName key="Bankside" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2660320" type="region">Bank side</placeName>, in the  
 same lodging, having the same wardrobe, and some say, with other  
 participations more remarkable, lived <persName key="Francis Beaumont">Beaumont</persName> and <persName key="Fletcher">Fletcher</persName>. In  
 <placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's church" corresp="England">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
