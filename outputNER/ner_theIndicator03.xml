@@ -4977,7 +4977,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018184452928",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T22:44:52.928Z",
-	"dcterms:modified": "2024-10-18T22:44:52.928Z",
+	"dcterms:modified": "2024-10-18T22:45:08.482Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5008,7 +5008,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q216914",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5016,7 +5018,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5258,10 +5261,10 @@ many parts of the metropolis. He lived in <placeName type="building" key="St. Br
 <placeName type="street" key="Fleet Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName>; in <placeName type="street" key="Aldersgate Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64008611">Aldersgate-street</placeName>, in <placeName type="street" key="Jewin street" corresp="England" ref="https://www.londonpicturearchive.org.uk/view-item?i=23074&amp;WINID=1729290687895">Jewin-street</placeName>, in <placeName type="region" key="Barbican" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q4859652">Barbican</placeName>,  
 in <placeName type="street" key="Bartholomew Close" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123667869">Bartholomew-close</placeName>; in <placeName type="region" key="Holborn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123624">Holborn</placeName>, looking back to <placeName type="region" key="Lincoln's Inn Fields" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2736153">Lincoln's  
 Inn Fields</placeName>; in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>, near <placeName type="landmark" key="Red Lion Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q7304535">Red Lion-square</placeName>; in <placeName type="region" key="New Scotland Yard" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q184619">Scotland-yard</placeName>  
-in a house looking to <placeName type="region" key="St. James's Park" corresp="England">St. James's Park</placeName>, now belonging to an  
+in a house looking to <placeName type="region" key="St. James's Park" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q216914">St. James's Park</placeName>, now belonging to an  
 eminent writer on legislation, and lately occupied by a celebrated  
-critic and metaphysician; and he died in the <placeName key="Artillery-walk, Bunhill-Fields" corresp="England"><placeName type="street" key="Artillery-walk" corresp="England">Artillery-walk</placeName>,  
-<placeName type="region" key="Bunhill-Fields" corresp="England"> Bunhill-Fields</placeName></placeName>; and was buried in <placeName type="building" key="St.Giles Cripplegate" corresp="England">St. Giles's, Cripplegate</placeName>.</p>
+critic and metaphysician; and he died in the <placeName type="street" key="Artillery-walk" corresp="England">Artillery-walk</placeName>,  
+<placeName type="region" key="Bunhill-Fields" corresp="England"> Bunhill-Fields</placeName>; and was buried in <placeName type="building" key="St.Giles Cripplegate" corresp="England">St. Giles's, Cripplegate</placeName>.</p>
 
 <p><persName key="Ben Jonson">Ben Jonson</persName>, who was born <q>in <placeName type="street" key="Hartshorne-lane" corresp="England">Hartshorne-lane</placeName>, near <placeName type="region" key="Charing-cross" corresp="England">Charing-cross</placeName>,</q>  
 was at one time <q type="soCalled">master</q> of a theatre in <placeName type="region" key="Barbican" corresp="England">Barbican</placeName>. He  
