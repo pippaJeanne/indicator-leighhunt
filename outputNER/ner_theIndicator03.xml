@@ -4178,7 +4178,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018181144924",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T22:11:44.924Z",
-	"dcterms:modified": "2024-10-18T22:11:44.924Z",
+	"dcterms:modified": "2024-10-18T22:24:16.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4209,7 +4209,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.wikidata.org/wiki/Q1112579",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4217,7 +4219,88 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018182424954",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-10-18T22:24:24.954Z",
+	"dcterms:modified": "2024-10-18T22:24:37.765Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018182424954#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241018182424954#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/placeName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q846686",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4455,8 +4538,8 @@ a street no less anti-poetical than <placeName type="street" key="Lombard Street
 <placeName type="street" key="Cornhill" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q28846065">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName type="street" key="Bread Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q68027315">Bread-street</placeName>, <placeName type="street" key="Cheapside" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1068693">Cheapside</placeName>. The presence 
 <pb n="21"/>
 of the same great poet and patriot has given happy memories to  
-many parts of the metropolis. He lived in <placeName type="building" key="St.Bride's Churchyard" corresp="England">St. Bride's Churchyard</placeName>,  
-<placeName type="street" key="Fleet-street" corresp="England">Fleet-street</placeName>; in <placeName type="street" key="Aldersgate-street" corresp="England">Aldersgate-street</placeName>, in <placeName type="street" key="Jewin-street" corresp="England">Jewin-street</placeName>, in <placeName type="region" key="Barbican" corresp="England">Barbican</placeName>,  
+many parts of the metropolis. He lived in <placeName type="building" key="St. Bride's Church" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q1112579">St. Bride's Churchyard</placeName>,  
+<placeName type="street" key="Fleet Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName>; in <placeName type="street" key="Aldersgate-street" corresp="England">Aldersgate-street</placeName>, in <placeName type="street" key="Jewin-street" corresp="England">Jewin-street</placeName>, in <placeName type="region" key="Barbican" corresp="England">Barbican</placeName>,  
 in <placeName type="street" key="Bartholomew-close" corresp="England">Bartholomew-close</placeName>; in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>, looking back to <placeName type="region" key="Lincoln's Inn Fields" corresp="England">Lincoln's  
 Inn Fields</placeName>; in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>, near <placeName type="landmark" key="Red Lion-square" corresp="England">Red Lion-square</placeName>; in <placeName type="region" key="Scotland-yard" corresp="England">Scotland-yard</placeName>  
 in a house looking to <placeName type="region" key="St. James's Park" corresp="England">St. James's Park</placeName>, now belonging to an  
