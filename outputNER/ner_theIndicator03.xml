@@ -2899,7 +2899,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018170619272",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T21:06:19.272Z",
-	"dcterms:modified": "2024-10-18T21:06:19.272Z",
+	"dcterms:modified": "2024-10-18T21:19:30.100Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2930,7 +2930,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_Fletcher_(playwright)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2938,7 +2940,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3161,7 +3164,7 @@ under that name. It is probable that he lived near it : it is certain
 that he must have been much there. It is also certain that on <placeName type="region" key="the Borough" corresp="England">the  
 Borough</placeName> side of the river, then and still called the <placeName key="Bankside" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2660320" type="region">Bank side</placeName>, in the  
 same lodging, having the same wardrobe, and some say, with other  
-participations more remarkable, lived <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="Fletcher">Fletcher</persName>. In  
+participations more remarkable, lived <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="John Fletcher" cert="high" ref="https://dbpedia.org/resource/John_Fletcher_(playwright)" type="real">Fletcher</persName>. In  
 <placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's church" corresp="England">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
 one grave; in the same church, under a monument and effigy, lies  
 <persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName type="region" key="the Borough" corresp="England">the Borough</placeName>,  
