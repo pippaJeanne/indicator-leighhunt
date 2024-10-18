@@ -3858,7 +3858,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018175345840",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T21:53:45.840Z",
-	"dcterms:modified": "2024-10-18T22:06:47.562Z",
+	"dcterms:modified": "2024-10-18T22:08:53.875Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3890,7 +3890,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q315516",
+		"@id": "https://dbpedia.org/resource/Thomas_Gray",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4214,7 +4214,7 @@ their famous road to <placeName type="city" key="Canterbury" corresp="England" c
 <p>To return over the water, who would expect any thing poetical  
 from <placeName type="region" key="East Smithfield" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5288837">East Smithfield</placeName>? Yet there was born the most poetical even  
 of poets, <persName key="Edmund Spenser" cert="high" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>. <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName> was born within the sound of <placeName type="region" key="Bow" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q122607">Bow</placeName>-bell<note type="editorial"> One is said to be a true cockney (East-Londoner) if one is born within sound range of the Bow Bells</note>, in  
-a street no less anti-poetical than <placeName type="street" key="Lombard Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1432321">Lombard-street</placeName>. So was <persName key="Thomas Gray" cert="high" ref="http://www.wikidata.org/entity/Q315516" type="real">Gray</persName>, in  
+a street no less anti-poetical than <placeName type="street" key="Lombard Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1432321">Lombard-street</placeName>. So was <persName key="Thomas Gray" cert="high" ref="https://dbpedia.org/resource/Thomas_Gray" type="real">Gray</persName>, in  
 <placeName type="street" key="Cornhill" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q28846065">Cornhill</placeName>. So was <persName key="Milton">Milton</persName>, in <placeName type="street" key="Bread-street" corresp="England">Bread-street</placeName>, <placeName type="street" key="Cheapside" corresp="England">Cheapside</placeName>. The presence 
 <pb n="21"/>
 of the same great poet and patriot has given happy memories to  
