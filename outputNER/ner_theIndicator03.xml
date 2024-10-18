@@ -3059,7 +3059,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172153088",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-18T21:21:53.088Z",
-	"dcterms:modified": "2024-10-18T21:21:53.088Z",
+	"dcterms:modified": "2024-10-18T21:23:34.894Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3087,6 +3087,86 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172153088#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Philip_Massinger",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172352115",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-10-18T21:23:52.115Z",
+	"dcterms:modified": "2024-10-18T21:23:52.115Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172352115#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241018172352115#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -3322,7 +3402,7 @@ that he must have been much there. It is also certain that on <placeName type="r
 Borough</placeName> side of the river, then and still called the <placeName key="Bankside" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2660320" type="region">Bank side</placeName>, in the  
 same lodging, having the same wardrobe, and some say, with other  
 participations more remarkable, lived <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="John Fletcher" cert="high" ref="https://dbpedia.org/resource/John_Fletcher_(playwright)" type="real">Fletcher</persName>. In  
-<placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q105074883">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Massinger">Massinger</persName> in  
+<placeName type="region" key="the Borough" corresp="England">the Borough</placeName> also, at <placeName type="building" key="St. Saviour's" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q105074883">St. Saviour's</placeName>, lie <persName key="Fletcher">Fletcher</persName> and <persName key="Philip Massinger" cert="high" ref="https://dbpedia.org/resource/Philip_Massinger" type="real">Massinger</persName> in  
 one grave; in the same church, under a monument and effigy, lies  
 <persName key="Geoffrey Chaucer">Chaucer</persName>'s contemporary, <persName key="Gower">Gower</persName>; and from an inn in <placeName type="region" key="the Borough" corresp="England">the Borough</placeName>,  
 the existence of which is still boasted, and the scite pointed out by a  
