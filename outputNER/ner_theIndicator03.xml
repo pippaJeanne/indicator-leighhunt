@@ -5267,7 +5267,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241101210800575",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T01:08:00.575Z",
-	"dcterms:modified": "2024-11-02T01:14:14.056Z",
+	"dcterms:modified": "2024-11-02T03:16:31.496Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6513,7 +6513,7 @@ in a house looking to <placeName type="region" key="St. James's Park" corresp="E
 eminent writer on legislation, and lately occupied by a celebrated  
 critic and metaphysician; and he died in the <placeName type="street" key="Artillery Lane" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q66126480">Artillery-walk</placeName>,  <placeName type="region" key="Bunhill Fields Burial Ground" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q782140">Bunhill-Fields</placeName>; and was buried in <placeName type="building" key="St. Giles's, Cripplegate" corresp="England" ref="https://www.wikidata.org/wiki/Q2323930">St. Giles's, Cripplegate</placeName>.</p>
 
-<p><persName key="Ben Jonson" cert="medium" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName>, who was born <q>in <placeName type="street" key="Hartshorne lane" corresp="England" cert="low" ref="https://c17thlondontokens.com/2013/03/23/henry-morrell-of-hartshorne-lane-westminster/">Hartshorne-lane</placeName>, near <placeName type="region" key="Charing Cross" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q216185">Charing-cross</placeName>,</q>  
+<p><persName key="Ben Jonson" cert="medium" ref="https://dbpedia.org/resource/Ben_Jonson" type="real" xml:id="Jonson">Ben Jonson</persName>, who was born <q>in <placeName type="street" key="Hartshorne lane" corresp="England" cert="low" ref="https://c17thlondontokens.com/2013/03/23/henry-morrell-of-hartshorne-lane-westminster/">Hartshorne-lane</placeName>, near <placeName type="region" key="Charing Cross" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q216185">Charing-cross</placeName>,</q>  
 was at one time <q type="soCalled">master</q> of a theatre in <placeName type="region" key="Barbican" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q4859652">Barbican</placeName>. He  
 appears also to have visited a tavern called <placeName key="Aldersgate Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64008611"><placeName type="Pub" key="the Sun and Moon" corresp="England" ref="https://www.wikidata.org/wiki/Q64008611">the Sun and Moon</placeName>, in  
 <placeName type="street" key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
