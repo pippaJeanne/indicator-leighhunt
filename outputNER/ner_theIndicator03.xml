@@ -6703,7 +6703,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241101234435353",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T03:44:35.353Z",
-	"dcterms:modified": "2024-11-02T03:47:20.222Z",
+	"dcterms:modified": "2024-11-02T03:53:49.788Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6735,7 +6735,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/resource/John_II,_Duke_of_Bourbon",
+		"@id": "https://dbpedia.org/resource/John_I,_Duke_of_Bourbon",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6782,7 +6782,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101234819878",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T03:48:19.878Z",
-	"dcterms:modified": "2024-11-02T03:48:19.878Z",
+	"dcterms:modified": "2024-11-02T03:53:29.211Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6813,7 +6813,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q238339",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6821,7 +6823,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -7121,7 +7124,7 @@ enough to have some of his illustrious brick and mortar still remaining.</p>
 of the city unknown to most persons, like a house kept invisible for  
 young and learned eyes) lie buried a multitude of persons of all  
 ranks; for it was once a monastery of Grey Friars. Among them is  
-<persName key="John of Bourbon" ref="https://dbpedia.org/resource/John_II,_Duke_of_Bourbon" type="real">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName type="region" key="Agincourt" corresp="France">Agincourt</placeName>.</p>
+<persName key="John of Bourbon" ref="https://dbpedia.org/resource/John_I,_Duke_of_Bourbon" type="real">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName type="region" key="Azincourt" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q238339">Agincourt</placeName>.</p>
 
 <pb n="22"/>
 
