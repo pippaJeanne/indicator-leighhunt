@@ -6703,7 +6703,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241101234435353",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T03:44:35.353Z",
-	"dcterms:modified": "2024-11-02T03:44:35.353Z",
+	"dcterms:modified": "2024-11-02T03:47:20.222Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6734,7 +6734,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_II,_Duke_of_Bourbon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7042,7 +7044,7 @@ enough to have some of his illustrious brick and mortar still remaining.</p>
 of the city unknown to most persons, like a house kept invisible for  
 young and learned eyes) lie buried a multitude of persons of all  
 ranks; for it was once a monastery of Grey Friars. Among them is  
-<persName key="John of Bourbon">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName type="region" key="Agincourt" corresp="France">Agincourt</placeName>.</p>
+<persName key="John of Bourbon" ref="https://dbpedia.org/resource/John_II,_Duke_of_Bourbon" type="real">John of Bourbon</persName>, one of the prisoners taken at the battle of <placeName type="region" key="Agincourt" corresp="France">Agincourt</placeName>.</p>
 
 <pb n="22"/>
 
