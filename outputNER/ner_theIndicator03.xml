@@ -6385,7 +6385,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101231819784",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T03:18:19.784Z",
-	"dcterms:modified": "2024-11-02T03:19:37.898Z",
+	"dcterms:modified": "2024-11-02T03:40:12.174Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6417,7 +6417,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q26468798",
+		"@id": "http://www.wikidata.org/entity/Q677579",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6508,6 +6508,85 @@
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101234027840",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-02T03:40:27.840Z",
+	"dcterms:modified": "2024-11-02T03:40:27.840Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101234027840#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101234027840#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[5]/placeName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q69482",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6796,10 +6875,10 @@ full of jovial wit, says.</p>
 <p>The other celebrated report of the great wits of that time, was <placeName cert="high" corresp="England" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="The Devil Tavern, Fleet-Street"><placeName type="Pub" key="Devil Tavern" corresp="England" ref="https://en.wikipedia.org/wiki/The_Devil_Tavern">the  
 Devil Tavern</placeName>, in <placeName type="street" key="Fleet Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName></placeName>, close to <placeName type="region" key="Temple Bar" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q125555724">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
 lived also in <placeName type="street" key="Bartholomew Close" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123667869">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
-is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q26468798">Christ's Hospital</placeName> into <placeName type="building" key="St Bartholomew's Hospital" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q164946">St.  
+is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q677579">Christ's Hospital</placeName> into <placeName type="building" key="St Bartholomew's Hospital" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q164946">St.  
 Bartholomew's</placeName>, <persName key="Aubrey">Aubrey</persName> gives it as a common opinion, that at the time  
 when <persName key="Ben Jonson">Jonson</persName>'s father-in-law made him help him in his business of  
-bricklayer, he worked with his own hands upon the <placeName type="commerce" key="Lincoln's Inn" corresp="England">Lincoln's Inn</placeName>  
+bricklayer, he worked with his own hands upon the <placeName type="commerce" key="Lincoln's Inn" corresp="England" ref="http://www.wikidata.org/entity/Q69482">Lincoln's Inn</placeName>  
 garden wall, which looks upon <placeName type="street" key="Chancery-lane" corresp="England">Chancery-lane</placeName>, and which seems old  
 enough to have some of his illustrious brick and mortar still remaining.</p>
 
