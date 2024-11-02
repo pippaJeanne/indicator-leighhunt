@@ -5906,7 +5906,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222708425",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T02:27:08.425Z",
-	"dcterms:modified": "2024-11-02T02:27:08.425Z",
+	"dcterms:modified": "2024-11-02T02:27:43.833Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5937,7 +5937,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q28846065",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5945,7 +5947,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6196,7 +6199,7 @@ was at one time <q type="soCalled">master</q> of a theatre in <placeName type="r
 appears also to have visited a tavern called <placeName key="Aldersgate Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64008611"><placeName type="Pub" key="the Sun and Moon" corresp="England" ref="https://www.wikidata.org/wiki/Q64008611">the Sun and Moon</placeName>, in  
 <placeName type="street" key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
 <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="The Mermaid" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q83558826">the Mermaid</placeName>, which was  
-in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
+in <placeName type="street" key="Cornhill" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q28846065">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
 full of jovial wit, says.</p>
 
 <cit><quote><lg>
