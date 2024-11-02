@@ -6465,7 +6465,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101232042666",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T03:20:42.666Z",
-	"dcterms:modified": "2024-11-02T03:20:42.666Z",
+	"dcterms:modified": "2024-11-02T03:39:33.449Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6496,7 +6496,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q164946",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6504,7 +6506,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6793,7 +6796,7 @@ full of jovial wit, says.</p>
 <p>The other celebrated report of the great wits of that time, was <placeName cert="high" corresp="England" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="The Devil Tavern, Fleet-Street"><placeName type="Pub" key="Devil Tavern" corresp="England" ref="https://en.wikipedia.org/wiki/The_Devil_Tavern">the  
 Devil Tavern</placeName>, in <placeName type="street" key="Fleet Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName></placeName>, close to <placeName type="region" key="Temple Bar" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q125555724">Temple-Bar</placeName>. <persName key="Ben Jonson">Ben Jonson</persName>  
 lived also in <placeName type="street" key="Bartholomew Close" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123667869">Bartholomew-close</placeName>, where <persName key="Milton">Milton</persName> afterwards lived. It  
-is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q26468798">Christ's Hospital</placeName> into <placeName type="building" key="St. Batholomew's hospital" corresp="England">St.  
+is in the passage from the cloisters of <placeName type="building" key="Christ's Hospital" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q26468798">Christ's Hospital</placeName> into <placeName type="building" key="St Bartholomew's Hospital" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q164946">St.  
 Bartholomew's</placeName>, <persName key="Aubrey">Aubrey</persName> gives it as a common opinion, that at the time  
 when <persName key="Ben Jonson">Jonson</persName>'s father-in-law made him help him in his business of  
 bricklayer, he worked with his own hands upon the <placeName type="commerce" key="Lincoln's Inn" corresp="England">Lincoln's Inn</placeName>  
