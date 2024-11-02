@@ -5746,7 +5746,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241101222201664",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T02:22:01.664Z",
-	"dcterms:modified": "2024-11-02T02:22:01.664Z",
+	"dcterms:modified": "2024-11-02T02:23:18.403Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5777,7 +5777,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Francis_Beaumont",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5785,7 +5787,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6035,7 +6038,7 @@ critic and metaphysician; and he died in the <placeName type="street" key="Artil
 was at one time <q type="soCalled">master</q> of a theatre in <placeName type="region" key="Barbican" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q4859652">Barbican</placeName>. He  
 appears also to have visited a tavern called <placeName key="Aldersgate Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64008611"><placeName type="Pub" key="the Sun and Moon" corresp="England" ref="https://www.wikidata.org/wiki/Q64008611">the Sun and Moon</placeName>, in  
 <placeName type="street" key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
-<persName key="Francis Beaumont">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>, which was  
+<persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>, which was  
 in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
 full of jovial wit, says.</p>
 
