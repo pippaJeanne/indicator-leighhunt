@@ -5826,7 +5826,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222507719",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-02T02:25:07.719Z",
-	"dcterms:modified": "2024-11-02T02:25:07.719Z",
+	"dcterms:modified": "2024-11-02T02:26:46.830Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5854,6 +5854,86 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222507719#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/placeName[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q83558826",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222708425",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-02T02:27:08.425Z",
+	"dcterms:modified": "2024-11-02T02:27:08.425Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222708425#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241101222708425#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/placeName[3]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -6115,7 +6195,7 @@ critic and metaphysician; and he died in the <placeName type="street" key="Artil
 was at one time <q type="soCalled">master</q> of a theatre in <placeName type="region" key="Barbican" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q4859652">Barbican</placeName>. He  
 appears also to have visited a tavern called <placeName key="Aldersgate Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64008611"><placeName type="Pub" key="the Sun and Moon" corresp="England" ref="https://www.wikidata.org/wiki/Q64008611">the Sun and Moon</placeName>, in  
 <placeName type="street" key="Aldersgate-street">Aldersgate-street</placeName></placeName>; and is known to have frequented, with  
-<persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="the Mermaid" corresp="England">the Mermaid</placeName>, which was  
+<persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and others, the famous one called <placeName key="The Mermaid, Cornhill" corresp="England"><placeName type="Pub" key="The Mermaid" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q83558826">the Mermaid</placeName>, which was  
 in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName></placeName>. <persName key="Francis Beaumont">Beaumont</persName>, writing to him from the country in an epistle  
 full of jovial wit, says.</p>
 
