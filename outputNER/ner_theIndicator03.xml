@@ -7000,7 +7000,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241104002130774",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-04T05:21:30.774Z",
-	"dcterms:modified": "2024-11-04T05:21:30.774Z",
+	"dcterms:modified": "2024-11-04T05:26:49.979Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7031,7 +7031,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Edward_IV_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7039,7 +7041,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -7344,7 +7347,7 @@ ranks; for it was once a monastery of Grey Friars. Among them is
 <pb n="22"/>
 
 <p>Here also lies <persName key="Thomas Burdet" cert="high" ref="https://dbpedia.org/resource/Sir_Thomas_Burdett,_1st_Baronet,_of_Bramcote" type="real">Thomas Burdet</persName>, ancestor of the present <persName key="Francis Bacon" cert="high" ref="https://dbpedia.org/resource/Francis_Bacon" type="real">Sir  
-Francis</persName>, who was put to death in the reign of <persName key="King Edward IV">Edward the Fourth</persName>,  
+Francis</persName>, who was put to death in the reign of <persName key="king Edward the Fourth" cert="high" ref="https://dbpedia.org/resource/Edward_IV_of_England" type="real">Edward the Fourth</persName>,  
 for wishing the horns of a favourite white stag which the king had  
 killed, in the body of the person who advised him to do it. And  
 here too (a sufficing contrast) lies <persName key="Isabella of France">Isabella</persName>, wife of <persName key="Kind Edward II">Edward the Second</persName>,</p>
