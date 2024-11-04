@@ -7445,6 +7445,86 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241104012514298",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-04T06:25:14.298Z",
+	"dcterms:modified": "2024-11-04T06:25:39.068Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241104012514298#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241104012514298#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[9]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5682158",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -7766,7 +7846,7 @@ literary world, were bred two of the most powerful and deep-spirited
 writers of the present day; whose visits to the cloisters we well  
 remember.</p>
 
-<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
+<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5682158">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
 <placeName type="building" key="Brook House" corresp="England">Brook House</placeName>, at the corner of the street of that name in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>,  
 was the residence of the celebrated Sir <persName key="Fulke Greville">Fulke Greville</persName>, <persName key="Lord Brook">Lord Brook</persName>,  
 the <q type="soCalled">friend of <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
