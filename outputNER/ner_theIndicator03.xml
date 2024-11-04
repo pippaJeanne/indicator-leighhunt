@@ -7320,7 +7320,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241104010025761",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-04T06:00:25.761Z",
-	"dcterms:modified": "2024-11-04T06:00:25.761Z",
+	"dcterms:modified": "2024-11-04T06:02:38.921Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7351,7 +7351,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#isabella_of_france",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7359,7 +7361,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -7669,7 +7672,7 @@ for wishing the horns of a favourite white stag which the king had
 killed, in the body of the person who advised him to do it. And  
 here too (a sufficing contrast) lies <persName key="Isabella" cert="high" ref="https://dbpedia.org/resource/Isabella_of_France" type="real" xml:id="isabella_of_france">Isabella</persName>, wife of <persName key="Edward the Second" cert="high" ref="https://dbpedia.org/resource/Edward_II_of_England" type="real">Edward the Second</persName>,</p>
 
-<lg><l><persName key="Isabella of France">She, wolf of <placeName type="country" key="France" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q142">France</placeName></persName>, with unrelenting fangs. </l>
+<lg><l><persName key="Isabella of France" cert="high" ref="#isabella_of_france" type="real">She, wolf of <placeName type="country" key="France" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q142">France</placeName></persName>, with unrelenting fangs. </l>
 <l>Who tore the bowels of her mangled mate. — <persName key="Gray">Gray</persName>. </l></lg>
 
 <p>Her <q type="distinct">mate's</q> heart was buried with her, and placed upon her  
