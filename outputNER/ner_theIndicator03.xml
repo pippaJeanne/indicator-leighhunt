@@ -7560,7 +7560,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241104012659761",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-04T06:26:59.761Z",
-	"dcterms:modified": "2024-11-04T06:26:59.761Z",
+	"dcterms:modified": "2024-11-04T06:27:56.932Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7591,7 +7591,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_of_Gaunt",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7599,7 +7601,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -7923,7 +7926,7 @@ literary world, were bred two of the most powerful and deep-spirited
 writers of the present day; whose visits to the cloisters we well  
 remember.</p>
 
-<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5682158">Hatton Garden</placeName>, died <persName key="John of Gaunt">John of Gaunt</persName>.  
+<p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5682158">Hatton Garden</placeName>, died <persName key="John of Gaunt" cert="high" ref="https://dbpedia.org/resource/John_of_Gaunt" type="real">John of Gaunt</persName>.  
 <placeName type="building" key="Brook House" corresp="England">Brook House</placeName>, at the corner of the street of that name in <placeName type="region" key="Holborn" corresp="England">Holborn</placeName>,  
 was the residence of the celebrated Sir <persName key="Fulke Greville">Fulke Greville</persName>, <persName key="Lord Brook">Lord Brook</persName>,  
 the <q type="soCalled">friend of <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
