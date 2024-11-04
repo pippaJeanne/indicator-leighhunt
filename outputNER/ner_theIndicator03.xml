@@ -7160,7 +7160,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241104005853960",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-04T05:58:53.960Z",
-	"dcterms:modified": "2024-11-04T05:59:26.112Z",
+	"dcterms:modified": "2024-11-04T06:01:41.449Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7667,7 +7667,7 @@ ranks; for it was once a monastery of Grey Friars. Among them is
 Francis</persName>, who was put to death in the reign of <persName key="king Edward the Fourth" cert="high" ref="https://dbpedia.org/resource/Edward_IV_of_England" type="real">Edward the Fourth</persName>,  
 for wishing the horns of a favourite white stag which the king had  
 killed, in the body of the person who advised him to do it. And  
-here too (a sufficing contrast) lies <persName key="Isabella" cert="high" ref="https://dbpedia.org/resource/Isabella_of_France" type="real">Isabella</persName>, wife of <persName key="Edward the Second" cert="high" ref="https://dbpedia.org/resource/Edward_II_of_England" type="real">Edward the Second</persName>,</p>
+here too (a sufficing contrast) lies <persName key="Isabella" cert="high" ref="https://dbpedia.org/resource/Isabella_of_France" type="real" xml:id="isabella_of_france">Isabella</persName>, wife of <persName key="Edward the Second" cert="high" ref="https://dbpedia.org/resource/Edward_II_of_England" type="real">Edward the Second</persName>,</p>
 
 <lg><l><persName key="Isabella of France">She, wolf of <placeName type="country" key="France" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q142">France</placeName></persName>, with unrelenting fangs. </l>
 <l>Who tore the bowels of her mangled mate. — <persName key="Gray">Gray</persName>. </l></lg>
