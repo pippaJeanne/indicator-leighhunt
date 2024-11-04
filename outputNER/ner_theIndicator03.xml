@@ -7400,7 +7400,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241104012315100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-04T06:23:15.100Z",
-	"dcterms:modified": "2024-11-04T06:23:15.100Z",
+	"dcterms:modified": "2024-11-04T06:24:28.435Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7431,7 +7431,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/William_Camden",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7439,7 +7441,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -7756,7 +7759,7 @@ here too (a sufficing contrast) lies <persName key="Isabella" cert="high" ref="h
 bosom ! a thing that looks like the fantastic incoherence of a dream.  
 It is well we did not know of her presence when at school; or after  
 reading one of <persName key="William Shakspeare">Shakspeare</persName>'s tragedies, we should have run twice as  
-fast round the cloisters at night time, as we used. <persName key="William Camden">Camden</persName>, <q type="soCalled">the  
+fast round the cloisters at night time, as we used. <persName key="William Camden" cert="high" ref="https://dbpedia.org/resource/William_Camden" type="real">Camden</persName>, <q type="soCalled">the  
 nourrice of antiquitie,</q> received part of his education in this school;  
 and here also, not to mention a variety of others known in the  
 literary world, were bred two of the most powerful and deep-spirited  
