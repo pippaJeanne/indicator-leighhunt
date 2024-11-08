@@ -7950,7 +7950,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108153942166",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T20:39:42.166Z",
-	"dcterms:modified": "2024-11-08T20:39:42.166Z",
+	"dcterms:modified": "2024-11-08T20:42:47.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7978,6 +7978,86 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108153942166#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[9]/q/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Philip_Sidney",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108154305041",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-08T20:43:05.041Z",
+	"dcterms:modified": "2024-11-08T20:43:05.041Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108154305041#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108154305041#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[9]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -8316,7 +8396,7 @@ remember.</p>
 <p>In a palace on the <choice><orig>scite</orig><reg>site</reg></choice> of <placeName type="street" key="Hatton Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5682158">Hatton Garden</placeName>, died <persName key="John of Gaunt" cert="high" ref="https://dbpedia.org/resource/John_of_Gaunt" type="real">John of Gaunt</persName>.  
 <placeName type="building" key="Brook House" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q20711858">Brook House</placeName>, at the corner of the street of that name in <placeName type="region" key="Holborn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123624">Holborn</placeName>,  
 was the residence of the celebrated Sir <persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke" type="real">Fulke Greville</persName>, Lord Brook,  
-the <q type="soCalled">friend of <persName key="Sir Philip Sidney">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
+the <q type="soCalled">friend of <persName key="Philip Sydney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
 voluntary death, of poison, that extraordinary person <persName key="Thomas Chatterton">Thomas  
 Chatterton</persName>, — </p>
 
