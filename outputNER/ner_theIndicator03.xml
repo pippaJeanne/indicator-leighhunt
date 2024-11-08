@@ -10644,7 +10644,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108175348951",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T22:53:48.951Z",
-	"dcterms:modified": "2024-11-08T22:53:48.951Z",
+	"dcterms:modified": "2024-11-08T22:55:01.430Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -10675,7 +10675,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2922699",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -10683,7 +10685,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -11043,8 +11046,7 @@ was Lilly's, the perfumer, at whose house <title level="j" key="the Tatler" ref=
 In <placeName type="street" key="Maiden Lane" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q23041988">Maiden-lane</placeName>, <placeName type="region" key="Covent Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q55019">Covent-garden<precision match="@ref" precision="high"/></placeName>, <persName key="Voltaire" cert="high" ref="https://dbpedia.org/resource/Voltaire" type="real">Voltaire</persName> lodged while in  
 <placeName type="city" key="London" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q84">London</placeName>, at the sign of the White Peruke. <placeName type="street" key="Tavistock Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q7689135">Tavistock-street</placeName> was
 <pb n="23"/>
-then, we believe, the <placeName type="street" key="Bond Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q892187">Bond-street</placeName> of the fashionable world; as <placeName type="street" key="Bow-street" corresp="England">Bow-  
-street</placeName> was before. The change of <placeName type="stret" key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
+then, we believe, the <placeName type="street" key="Bond Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q892187">Bond-street</placeName> of the fashionable world; as <placeName type="street" key="Bow Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2922699">Bow-street</placeName> was before. The change of <placeName type="stret" key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
 with the theatre still in attendance, reminds one of the spirit of the  
 Beggar's Opera. <placeName type="commerce" key="Button's Coffee-house" corresp="England">Button's Coffee-house</placeName>, the resort of the wits of <persName key="Queen Anne">Queen  
 Anne</persName>'s time, was in <placeName type="street" key="Russell-street" corresp="England">Russell-street</placeName>,— we believe, near where the  
