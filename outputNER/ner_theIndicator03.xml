@@ -8030,7 +8030,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108154305041",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T20:43:05.041Z",
-	"dcterms:modified": "2024-11-08T20:43:05.041Z",
+	"dcterms:modified": "2024-11-08T20:46:00.114Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -8061,7 +8061,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Thomas_Chatterton",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -8069,7 +8071,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -8397,7 +8400,7 @@ remember.</p>
 <placeName type="building" key="Brook House" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q20711858">Brook House</placeName>, at the corner of the street of that name in <placeName type="region" key="Holborn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q123624">Holborn</placeName>,  
 was the residence of the celebrated Sir <persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke" type="real">Fulke Greville</persName>, Lord Brook,  
 the <q type="soCalled">friend of <persName key="Philip Sydney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sir Philip Sydney</persName>.</q> In the same street, died, by a  
-voluntary death, of poison, that extraordinary person <persName key="Thomas Chatterton">Thomas  
+voluntary death, of poison, that extraordinary person <persName key="Thomas  Chatterton" cert="high" ref="https://dbpedia.org/resource/Thomas_Chatterton" type="real">Thomas  
 Chatterton</persName>, — </p>
 
 <cit><quote>
