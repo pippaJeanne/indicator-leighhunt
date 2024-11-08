@@ -9139,7 +9139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108164029106",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T21:40:29.106Z",
-	"dcterms:modified": "2024-11-08T21:40:29.106Z",
+	"dcterms:modified": "2024-11-08T21:42:54.370Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -9170,7 +9170,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Edmund_Spenser",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -9178,7 +9180,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -9525,7 +9528,7 @@ Inn</placeName> garden meditated, <persName key="Francis Bacon" cert="high" ref=
 Chancellor Thurlow</persName>. At the <placeName type="street" key="Fleet Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q846686">Fleet Street</placeName> corner of <placeName type="street" key="Chancery Lane" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q404351">Chancery Lane</placeName>,  
 <persName key="Henry Wellesley, 1st Baron Cowley" cert="medium" ref="http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley" type="real">Cowley</persName>, we believe, was born. In <placeName key="Salisbury Court, Fleet-street" corresp="England"><placeName key="Salisbury Court" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q68010161" type="street">Salisbury Court</placeName>, <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName></placeName>, was  
 the house of <persName key="Thomas Sackville" cert="high" ref="https://dbpedia.org/resource/Thomas_Sackville,_1st_Earl_of_Dorset" type="real">Thomas Sackville</persName>, first Earl of Dorset, the precursor  
-of <persName key="Edmund Spenser">Spenser</persName>, and one of the authors of the first regular English  
+of <persName key="Edmund Spenser" cert="high" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, and one of the authors of the first regular English  
 tragedy. On the demolition of this house, part of the ground was  
 occupied by the celebrated theatre built after the Restoration, at  
 which <persName key="Betterton">Betterton</persName> performed, and of which <persName key="Sir William Davenant">Sir William Davenant</persName> was  
