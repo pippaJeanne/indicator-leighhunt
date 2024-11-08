@@ -10081,10 +10081,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108172616140",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?title_annotation_20241108173327800",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-08T22:26:16.140Z",
-	"dcterms:modified": "2024-11-08T22:32:44.866Z",
+	"dcterms:created": "2024-11-08T22:33:27.800Z",
+	"dcterms:modified": "2024-11-08T22:33:27.800Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -10095,7 +10095,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108172616140#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?title_annotation_20241108173327800#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
@@ -10109,15 +10109,13 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108172616140#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?title_annotation_20241108173327800#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[13]"
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/title"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q63958836",
-		"dc:format": "text/plain"
+		"@type": "bf:Title"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -10481,7 +10479,7 @@ In <placeName type="street" key="Bolt Court" corresp="England" cert="high" ref="
 also for some time in the <placeName type="region" key="Temple" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q3624241">Temple</placeName>. A list of his numerous other  
 residences is to be found in <persName key="James Boswell" ref="http://dbpedia.org/resource/James_Boswell" cert="high" type="real">Boswell</persName>.<note type="hunt" place="foot">The <placeName type="region" key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> <persName key="William Congreve" ref="http://dbpedia.org/resource/William_Congreve" cert="medium" type="real">Congreve</persName> died in <placeName type="street" key="Surrey Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q65937605">Surrey-street</placeName>, 
 in <placeName type="street" key="Strand" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England" cert="medium" ref="https://www.grubstreetproject.net/places/9581/#:~:text=opposite%20Exeter%20Street.-,Then%20on%20the%20south%20side%20of%20the%20Strand%2C%20near%20adjoining,of%20Worcester%2C%20and%20descending%20to">Beaufort-buildings</placeName>,  
-was <placeName type="commerce" key="Lilly Svanberg" corresp="England" ref="http://www.wikidata.org/entity/Q63958836">Lilly's</placeName>, the perfumer, at whose house <title level="j">the Tatler</title> was published.  
+was Lilly's, the perfumer, at whose house <title level="j">the Tatler</title> was published.  
 In <placeName key="Maiden-Land, Covent-garden" corresp="England"><placeName type="street" key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
 <placeName type="city" key="London" corresp="England">London</placeName>, at the sign, of the <placeName type="building" key="White Peruke" corresp="England">White Peruke</placeName>. <placeName type="street" key="Tavistock-street" corresp="England">Tavistock-street</placeName> was
 <pb n="23"/>
