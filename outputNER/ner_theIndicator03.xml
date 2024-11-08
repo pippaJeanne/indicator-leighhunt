@@ -8270,7 +8270,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108155512019",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T20:55:12.019Z",
-	"dcterms:modified": "2024-11-08T20:55:12.019Z",
+	"dcterms:modified": "2024-11-08T20:56:01.481Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -8301,7 +8301,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Horace_Walpole",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -8309,7 +8311,88 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108155611410",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-08T20:56:11.410Z",
+	"dcterms:modified": "2024-11-08T20:56:27.366Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108155611410#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108155611410#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q157412",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -8650,7 +8733,7 @@ Chatterton</persName>, — </p>
 <p>He was buried in the workhouse in <placeName type="street" key="Shoe Lane" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q64616776">Shoe Lane</placeName>; — a circumstance, at  
 which one can hardly help feeling a movement of indignation. Yet  
 what could beadles and parish officers know about such a being?  
-No more than <persName key="Horace Walpole">Horace Walpole</persName>. In <placeName type="commerce" key="Gray's Inn" corresp="England">Gray's Inn</placeName> lived, and in <placeName type="building" key="Gray's Inn">Gray's  
+No more than <persName key="Horace Walpole" cert="high" ref="http://dbpedia.org/resource/Horace_Walpole" type="real">Horace Walpole</persName>. In <placeName type="commerce" key="Gray's Inn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q157412">Gray's Inn</placeName> lived, and in <placeName type="building" key="Gray's Inn">Gray's  
 Inn</placeName> garden meditated. <persName key="Francis Bacon">Lord Bacon</persName>. In <placeName key="Southampton Row, Holborn" corresp="England"><placeName type="street" key="Southampton Row" corresp="England">Southampton Row</placeName>, <placeName type="region" key="Holborn" corresp="England">Holborn</placeName></placeName>,  
 <persName key="Cowper">Cowper</persName> was a fellow-clerk to an attorney with the future <persName key="Lord Chancellor Thurlow">Lord  
 Chancellor Thurlow</persName>. At the <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName> corner of <placeName type="street" key="Chancery Lane" corresp="England">Chancery Lane</placeName>,  
