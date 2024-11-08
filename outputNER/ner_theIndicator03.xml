@@ -10163,7 +10163,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108174245644",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T22:42:45.644Z",
-	"dcterms:modified": "2024-11-08T22:42:45.644Z",
+	"dcterms:modified": "2024-11-08T22:44:47.483Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -10194,7 +10194,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q23041988",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -10202,7 +10204,89 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108174452344",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-08T22:44:52.344Z",
+	"dcterms:modified": "2024-11-08T22:45:15.921Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108174452344#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108174452344#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[14]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q55019",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -10559,7 +10643,7 @@ also for some time in the <placeName type="region" key="Temple" corresp="England
 residences is to be found in <persName key="James Boswell" ref="http://dbpedia.org/resource/James_Boswell" cert="high" type="real">Boswell</persName>.<note type="hunt" place="foot">The <placeName type="region" key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> <persName key="William Congreve" ref="http://dbpedia.org/resource/William_Congreve" cert="medium" type="real">Congreve</persName> died in <placeName type="street" key="Surrey Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q65937605">Surrey-street</placeName>, 
 in <placeName type="street" key="Strand" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England" cert="medium" ref="https://www.grubstreetproject.net/places/9581/#:~:text=opposite%20Exeter%20Street.-,Then%20on%20the%20south%20side%20of%20the%20Strand%2C%20near%20adjoining,of%20Worcester%2C%20and%20descending%20to">Beaufort-buildings</placeName>,  
 was Lilly's, the perfumer, at whose house <title level="j" key="the Tatler" ref="https://dbpedia.org/resource/Tatler_(1709_journal)">the Tatler</title> was published.  
-In <placeName type="street" key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
+In <placeName type="street" key="Maiden Lane" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q23041988">Maiden-lane</placeName>, <placeName type="region" key="Covent Garden" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q55019">Covent-garden<precision match="@ref" precision="high"/></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
 <placeName type="city" key="London" corresp="England">London</placeName>, at the sign, of the <placeName type="building" key="White Peruke" corresp="England">White Peruke</placeName>. <placeName type="street" key="Tavistock-street" corresp="England">Tavistock-street</placeName> was
 <pb n="23"/>
 then, we believe, the <placeName type="street" key="Bond-street" corresp="England">Bond-street</placeName> of the fashionable world; as <placeName type="street" key="Bow-street" corresp="England">Bow-  
