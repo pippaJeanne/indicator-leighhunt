@@ -8579,7 +8579,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241108160832339",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-08T21:08:32.339Z",
-	"dcterms:modified": "2024-11-08T21:08:32.339Z",
+	"dcterms:modified": "2024-11-08T21:17:14.044Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -8610,7 +8610,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/William_Cowper",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -8618,7 +8620,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -8961,7 +8964,7 @@ which one can hardly help feeling a movement of indignation. Yet
 what could beadles and parish officers know about such a being?  
 No more than <persName key="Horace Walpole" cert="high" ref="http://dbpedia.org/resource/Horace_Walpole" type="real">Horace Walpole</persName>. In <placeName type="commerce" key="Gray's Inn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q157412">Gray's Inn</placeName> lived, and in <placeName type="building" key="Gray's Inn">Gray's  
 Inn</placeName> garden meditated, <persName key="Francis Bacon" cert="high" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName>. In <placeName type="street" key="Southampton Row, Holborn" corresp="England" ref="http://www.wikidata.org/entity/Q7569155">Southampton Row, Holborn</placeName>,  
-<persName key="Cowper">Cowper</persName> was a fellow-clerk to an attorney with the future <persName key="Lord Chancellor Thurlow">Lord  
+<persName key="William Cowper" cert="medium" ref="http://dbpedia.org/resource/William_Cowper" type="real">Cowper</persName> was a fellow-clerk to an attorney with the future <persName key="Lord Chancellor Thurlow">Lord  
 Chancellor Thurlow</persName>. At the <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName> corner of <placeName type="street" key="Chancery Lane" corresp="England">Chancery Lane</placeName>,  
 <persName key="Cowley">Cowley</persName>, we believe, was born. In <placeName key="Salisbury Court, Fleet-street" corresp="England"><placeName key="Salisbury Court" corresp="England">Salisbury Court</placeName>, <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName></placeName>, was  
 the house of <persName key="Thomas Sackville">Thomas Sackville</persName>, first Earl of Dorset, the precursor  
