@@ -9664,83 +9664,6 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108170420281",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-08T22:04:20.281Z",
-	"dcterms:modified": "2024-11-08T22:04:20.281Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/pippaJeanne",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Yanet Hernandez"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108170420281#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241108170420281#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[10]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -10092,7 +10015,7 @@ which <persName key="Thomas Betterton" cert="high" ref="http://dbpedia.org/resou
 manager. Lastly, here was the house and printing-office of <persName key="Jonathan Richardson" cert="medium" ref="https://dbpedia.org/resource/Jonathan_Richardson" type="real">Richardson</persName>.  
 In <placeName type="street" key="Bolt Court" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q66009847">Bolt-court</placeName>, not far distant, lived <persName key="Samuel Johnson" cert="high" ref="https://dbpedia.org/resource/Samuel_Johnson" type="real">Dr. Johnson</persName>, who resided  
 also for some time in the <placeName type="region" key="Temple" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q3624241">Temple</placeName>. A list of his numerous other  
-residences is to be found in <placeName type="region" key="Boswell" corresp="England">Boswell</placeName>.<note type="hunt" place="foot">The <placeName type="region" key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> Congreve died in <placeName key="Surrey-street, the Strand" corresp="England"><placeName type="street" key="Surrey-street" corresp="England">Surrey-street</placeName>, 
+residences is to be found in Boswell.<note type="hunt" place="foot">The <placeName type="region" key="Temple" corresp="England">Temple</placeName> must have had many eminent inmates. Among them it is believed was <persName key="Geoffrey Chaucer">Chaucer</persName>, who is also said, upon the strength of an old record, to have been fined two shillings for beating a Franciscan friar in <placeName type="street" key="Fleet-street" corresp="England">Fleet Street</placeName>. </note> Congreve died in <placeName key="Surrey-street, the Strand" corresp="England"><placeName type="street" key="Surrey-street" corresp="England">Surrey-street</placeName>, 
 in <placeName type="street" key="the Strand" corresp="England">the Strand</placeName></placeName>, at his own house. At the corner of <placeName type="building" key="Beaufort-buildings" corresp="England">Beaufort-buildings</placeName>,  
 was <placeName type="commerce" key="Lilly's" corresp="England">Lilly's</placeName>, the perfumer, at whose house <title level="j">the Tatler</title> was published.  
 In <placeName key="Maiden-Land, Covent-garden" corresp="England"><placeName type="street" key="Maiden-Lane" corresp="England">Maiden-lane</placeName>, <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName></placeName>, <persName key="Voltaire">Voltaire</persName> lodged while in  
