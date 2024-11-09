@@ -11476,6 +11476,86 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109162736513",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-09T21:27:36.513Z",
+	"dcterms:modified": "2024-11-09T21:27:51.576Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109162736513#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109162736513#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[27]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q848912",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -11844,7 +11924,7 @@ of <placeName type="region" key="Covent-garden" corresp="England">Covent-garden<
 dramatic and other wits of the times of <persName key="John Dryden">Dryden</persName> and <persName key="Alexander Pope" cert="high" ref="http://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>. <persName key="Samuel Butler (novelist)" cert="high" ref="http://dbpedia.org/resource/Samuel_Butler_(novelist)" type="real">Butler</persName>  
 lived, perhaps died, in <placeName type="street" key="Rose Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q67187701">Rose-street</placeName>, and was buried in <placeName type="region" key="Covent-garden" corresp="England">Covent-garden</placeName>  
 Church-yard; where <persName key="Peter Pindar" cert="high" ref="https://dbpedia.org/resource/John_Wolcot" type="real">Peter Pindar</persName> the other day followed him. In  
-<placeName type="landmark" key="Leicester-square" corresp="England">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Miss Linwood">Miss Linwood</persName>'s exhibition and other  
+<placeName type="landmark" key="Leicester Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q848912">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Miss Linwood">Miss Linwood</persName>'s exhibition and other  
 houses, was the town mansion of the <persName role="family" key="The Sydneys, Earls of Leicester">Sydneys, Earls of Leicester</persName>,  
 the family of <persName key="Sir Philip Sidney">Sir Philip</persName> and <persName key="Sir Algernon Sydney">Algernon Sydney</persName>. In the same square  
 lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="John Dryden">Dryden</persName> lived and died in <placeName type="street" key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
