@@ -14069,7 +14069,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109173112253",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T22:31:12.253Z",
-	"dcterms:modified": "2024-11-09T22:31:12.253Z",
+	"dcterms:modified": "2024-11-09T22:31:55.051Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -14100,7 +14100,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q63203976",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -14108,7 +14110,88 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109173206896",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-09T22:32:06.896Z",
+	"dcterms:modified": "2024-11-09T22:32:21.568Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109173206896#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109173206896#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[43]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q6747523",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -14496,8 +14579,8 @@ died at an inn, where he put up on his arrival from <placeName type="country" ke
 <placeName type="street" key="Parliament Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q63986036">Parliament-street</placeName> to <placeName type="building" key="Westminster Abbey" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5933">the Abbey</placeName>. <persName key="Sir Thomas More" cert="high" ref="https://dbpedia.org/resource/Thomas_More" type="real">Sir Thomas More</persName> lived at <placeName type="region" key="Chelsea" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q743535">Chelsea</placeName>.  
 <persName key="Joseph Addison" cert="high" ref="http://dbpedia.org/resource/Joseph_Addison" type="real">Addison</persName> lived and died in <placeName key="Holland-House, Kensington" corresp="England"><placeName type="building" key="Holland House" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2342832">Holland-House</placeName>, <placeName type="region" key="Kensington" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q288781">Kensington</placeName></placeName>, now the  
 residence of the accornplished nobleman who takes his title from it.  
-In <placeName key="Brook-street, Grosvenor-square" corresp="England"><placeName type="region" key="Brook Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2926113">Brook-street</placeName>, <placeName type="landmark" key="Grosvenor Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q932992">Grosvenor-square</placeName></placeName>, lived <persName key="Handel" cert="high" ref="https://dbpedia.org/resource/George_Frideric_Handel" type="real">Handel</persName>; and in <placeName key="Bentinck-street, Manchester-square" corresp="England"><placeName type="street" key="Bentinck-street" corresp="England">Bentinck-  
-street</placeName>, <placeName type="landmark" key="Manchester-square" corresp="England">Manchester-square</placeName></placeName>, <persName key="Gibbon">Gibbon</persName>. We have omitted to mention  
+In <placeName key="Brook-street, Grosvenor-square" corresp="England"><placeName type="region" key="Brook Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2926113">Brook-street</placeName>, <placeName type="landmark" key="Grosvenor Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q932992">Grosvenor-square</placeName></placeName>, lived <persName key="Handel" cert="high" ref="https://dbpedia.org/resource/George_Frideric_Handel" type="real">Handel</persName>; and in <placeName key="Bentinck-street, Manchester-square" corresp="England"><placeName type="street" key="Bentinck Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q63203976">Bentinck-  
+street</placeName>, <placeName type="landmark" key="Manchester Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q6747523">Manchester-square</placeName></placeName>, <persName key="Gibbon">Gibbon</persName>. We have omitted to mention  
 that <persName key="Daniel DeFoe">De Foe</persName> kept a hosier's shop in <placeName type="street" key="Cornhill" corresp="England">Cornhill</placeName>; and that on the <choice><orig>scite</orig><reg>site</reg></choice>  
 of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="England"><placeName type="building" key="Southampton-buildings" corresp="England">Southampton-buildings</placeName>, <placeName type="street" key="Chancery-lane" corresp="England">Chancery-lane</placeName></placeName>, stood the  
 mansion of the <persName role="family" key="The Wriothesleys, Earls of Southampton">Wriothesleys, Earls of Southampton</persName>, one of whom  
