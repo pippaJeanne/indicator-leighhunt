@@ -14980,7 +14980,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109181743928",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T23:17:43.928Z",
-	"dcterms:modified": "2024-11-09T23:18:56.006Z",
+	"dcterms:modified": "2024-11-09T23:29:50.835Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -15012,7 +15012,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://vocab.getty.edu/tgn/2194068",
+		"@id": "http://www.wikidata.org/entity/Q20746232",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15021,7 +15021,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -15420,7 +15421,7 @@ omitted also? No less an illustrious head that <placeName type="Pub" key="The Bo
 believe the place is still marked out by a similar sign. But who  
 knows not <placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England" cert="high" ref="#boarsHead">the Boar's Head</placeName>? Have we not all been  
 there time out of mind? And is it not a more real as well as  
-notorious thing to us than <placeName type="Pub" key="Brick Tavern" corresp="England" ref="http://vocab.getty.edu/tgn/2194068">the London Tavern</placeName>, or <placeName type="Pub" key="the Crown" corresp="England">the Crown</placeName> and  
+notorious thing to us than <placeName type="Pub" key="London Tavern" corresp="England" ref="http://www.wikidata.org/entity/Q20746232" cert="high">the London Tavern</placeName>, or <placeName type="Pub" key="the Crown" corresp="England">the Crown</placeName> and  
 <placeName type="Pub" key="Anchor" corresp="England">Anchor</placeName>, or the <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName>, or <placeName type="Pub" key="White's" corresp="England">White's</placeName>, or What's-his-name's, or any  
 other of your contemporary and fleeting taps? </p>
 
