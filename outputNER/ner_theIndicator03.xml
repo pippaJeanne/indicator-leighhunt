@@ -15140,7 +15140,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109183136271",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T23:31:36.271Z",
-	"dcterms:modified": "2024-11-09T23:31:36.271Z",
+	"dcterms:modified": "2024-11-09T23:35:15.384Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -15171,7 +15171,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://dbpedia.org/resource/Crown_and_Anchor",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -15179,7 +15181,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -15579,7 +15582,7 @@ believe the place is still marked out by a similar sign. But who
 knows not <placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England" cert="high" ref="#boarsHead">the Boar's Head</placeName>? Have we not all been  
 there time out of mind? And is it not a more real as well as  
 notorious thing to us than <placeName type="Pub" key="London Tavern" corresp="England" ref="http://www.wikidata.org/entity/Q20746232" cert="high">the London Tavern</placeName>, or <placeName type="Pub" key="The Crown" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q16988250">the Crown</placeName> and  
-<placeName type="Pub" key="Anchor" corresp="England">Anchor</placeName>, or the <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName>, or <placeName type="Pub" key="White's" corresp="England">White's</placeName>, or What's-his-name's, or any  
+<placeName type="Pub" key="Crown and Anchor" corresp="England" cert="medium" ref="http://dbpedia.org/resource/Crown_and_Anchor">Anchor</placeName>, or the <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName>, or <placeName type="Pub" key="White's" corresp="England">White's</placeName>, or What's-his-name's, or any  
 other of your contemporary and fleeting taps? </p>
 
 <p>But a line or two, a single sentence in an author of former times,  
