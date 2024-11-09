@@ -10872,7 +10872,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109155953872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T20:59:53.872Z",
-	"dcterms:modified": "2024-11-09T20:59:53.872Z",
+	"dcterms:modified": "2024-11-09T21:06:46.692Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -10903,7 +10903,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/page/Anne,_Queen_of_Great_Britain",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -10911,7 +10913,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -11273,7 +11276,7 @@ In <placeName type="street" key="Maiden Lane" corresp="England" cert="high" ref=
 <pb n="23"/>
 then, we believe, the <placeName type="street" key="Bond Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q892187">Bond-street</placeName> of the fashionable world; as <placeName type="street" key="Bow Street" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2922699">Bow-street</placeName> was before. The change of <placeName type="stret" key="Bow-street" corresp="England">Bow-street</placeName> from fashion to the police,  
 with the theatre still in attendance, reminds one of the spirit of the  
-<title key="The Beggar's Opera" ref="http://www.wikidata.org/entity/Q1472110" level="m">Beggar's Opera</title>. <placeName type="commerce" key="Button's Coffee House" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1018198">Button's Coffee-house</placeName>, the resort of the wits of <persName key="Queen Anne">Queen  
+<title key="The Beggar's Opera" ref="http://www.wikidata.org/entity/Q1472110" level="m">Beggar's Opera</title>. <placeName type="commerce" key="Button's Coffee House" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q1018198">Button's Coffee-house</placeName>, the resort of the wits of <persName key="Anne, Queen of Great Britain" ref="https://dbpedia.org/page/Anne,_Queen_of_Great_Britain" cert="high" type="real">Queen  
 Anne</persName>'s time, was in <placeName type="street" key="Russell-street" corresp="England">Russell-street</placeName>,— we believe, near where the  
 <placeName type="Pub" key="Hummums" corresp="England">Hummums</placeName> now stand. We think we recollect reading also, that in  
 the same street, at one of the corners of <placeName type="street" key="Bow-street" corresp="England">Bow-street</placeName>, was the tavern  
