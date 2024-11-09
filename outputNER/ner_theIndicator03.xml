@@ -14869,7 +14869,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109175816370",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T22:58:16.370Z",
-	"dcterms:modified": "2024-11-09T22:58:16.370Z",
+	"dcterms:modified": "2024-11-09T22:59:26.150Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -14903,7 +14903,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/John_Falstaff",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -14911,7 +14913,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -15306,7 +15309,7 @@ of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="En
 mansion of the <persName key="Wriothesleys, Earls of Southampton" cert="high" ref="https://en.wikipedia.org/wiki/Earl_of_Southampton" type="real">Wriothesleys, Earls of Southampton</persName>, one of whom  
 was the celebrated friend of <persName key="William Shakspeare">Shakspeare</persName>. But what have we not  
 omitted also? No less an illustrious head that <placeName type="Pub" key="The Boar's Head Tavern" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q26637027" xml:id="boarsHead">the Boar's</placeName>, in  
-<placeName type="street" key="Eastcheap" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q1790942">East-cheap</placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England" cert="high" ref="#boarsHead">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
+<placeName type="street" key="Eastcheap" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q1790942">East-cheap</placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England" cert="high" ref="#boarsHead">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff" cert="high" ref="https://dbpedia.org/resource/John_Falstaff">Falstaff</persName>'s revels. We  
 believe the place is still marked out by a similar sign. But who  
 knows not <placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head</placeName>? Have we not all been  
 there time out of mind? And is it not a more real as well as  
