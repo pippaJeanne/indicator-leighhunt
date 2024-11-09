@@ -13029,7 +13029,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109171328866",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T22:13:28.866Z",
-	"dcterms:modified": "2024-11-09T22:13:28.866Z",
+	"dcterms:modified": "2024-11-09T22:14:08.624Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -13070,7 +13070,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -13453,7 +13454,7 @@ scandal-monger of those times delighted to detect <persName key="Isaac Bickersta
 the person of <persName key="Richard Steele" cert="high" ref="#steele" type="real">Captain Steele</persName>, idling before the Coffee-houses, and  
 jerking his leg and stick alternately against the pavement. We  
 have mentioned the birth of <persName key="Ben Jonson" cert="high" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName> near <placeName type="region" key="Charing Cross" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q216185">Charing-cross</placeName>. <persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>  
-died at an inn, where he put up on his arrival from <placeName type="country" key="Ireland" corresp="Republic of Ireland" ref="http://www.wikidata.org/entity/Q27">Ireland</placeName>, in  
+died at an inn, where he put up on his arrival from <placeName type="country" key="Ireland" corresp="Republic of Ireland" cert="high" ref="http://www.wikidata.org/entity/Q27">Ireland</placeName>, in  
 <placeName key="King-street, Westminster" corresp="England"><placeName type="street" key="King-street" corresp="England">King-street</placeName>, <placeName type="region" key="Westminster" corresp="England">Westminster</placeName></placeName>, — the same which runs at the back of  
 <placeName type="street" key="Parliament-street" corresp="England">Parliament-street</placeName> to <placeName type="building" key="Westminster Abbey" corresp="England">the Abbey</placeName>. <persName key="Sir Thomas More">Sir Thomas More</persName> lived at <placeName type="region" key="Chelsea" corresp="England">Chelsea</placeName>.  
 <persName key="Addison">Addison</persName> lived and died in <placeName key="Holland-House, Kensington" corresp="England"><placeName type="building" key="Holland-House" corresp="England">Holland-House</placeName>, <placeName type="region" key="Kensington" corresp="England">Kensington</placeName></placeName>, now the  
