@@ -14709,7 +14709,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109175612363",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T22:56:12.363Z",
-	"dcterms:modified": "2024-11-09T22:56:12.363Z",
+	"dcterms:modified": "2024-11-09T22:56:54.343Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -14750,7 +14750,88 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109175700418",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-09T22:57:00.418Z",
+	"dcterms:modified": "2024-11-09T22:57:20.592Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109175700418#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109175700418#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/placeName[48]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "#boarsHead",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -15144,8 +15225,8 @@ that <persName key="Daniel DeFoe" cert="high" ref="https://dbpedia.org/resource/
 of the present <placeName key="Southampton-buildings, Chancery-lane" corresp="England"><placeName type="building" key="Southampton Buildings" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q124888860">Southampton-buildings</placeName>, <placeName type="street" key="Chancery-lane" corresp="England">Chancery-lane</placeName></placeName>, stood the  
 mansion of the <persName key="Wriothesleys, Earls of Southampton" cert="high" ref="https://en.wikipedia.org/wiki/Earl_of_Southampton" type="real">Wriothesleys, Earls of Southampton</persName>, one of whom  
 was the celebrated friend of <persName key="William Shakspeare">Shakspeare</persName>. But what have we not  
-omitted also? No less an illustrious head that <placeName type="Pub" key="The Boar's Head Tavern" corresp="England" ref="http://www.wikidata.org/entity/Q26637027">the Boar's</placeName>, in  
-<placeName type="street" key="Eastcheap" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q1790942">East-cheap</placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
+omitted also? No less an illustrious head that <placeName type="Pub" key="The Boar's Head Tavern" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q26637027" xml:id="boarsHead">the Boar's</placeName>, in  
+<placeName type="street" key="Eastcheap" corresp="England" cert="high" ref="https://www.wikidata.org/wiki/Q1790942">East-cheap</placeName>,— <placeName type="Pub" key="the Boar's Head Tavern" corresp="England" cert="high" ref="#boarsHead">the Boar's Head Tavern</placeName>, the scene of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>'s revels. We  
 believe the place is still marked out by a similar sign. But who  
 knows not <placeName type="street" key="East-cheap" corresp="England">East-cheap</placeName> and <placeName type="Pub" key="the Boar's Head Tavern" corresp="England">the Boar's Head</placeName>? Have we not all been  
 there time out of mind? And is it not a more real as well as  
