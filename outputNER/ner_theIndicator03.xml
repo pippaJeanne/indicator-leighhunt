@@ -11750,7 +11750,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109164423614",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T21:44:23.614Z",
-	"dcterms:modified": "2024-11-09T21:45:28.543Z",
+	"dcterms:modified": "2024-11-09T21:48:59.591Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -11782,7 +11782,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/resource/Philip_Sidney,_5th_Earl_of_Leicester",
+		"@id": "https://dbpedia.org/resource/Philip_Sidney,_3rd_Earl_of_Leicester",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -11873,6 +11873,83 @@
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109164920322",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-09T21:49:20.322Z",
+	"dcterms:modified": "2024-11-09T21:49:20.322Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109164920322#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?person_annotation_20241109164920322#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[10]/persName[25]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -12245,7 +12322,7 @@ lived, perhaps died, in <placeName type="street" key="Rose Street" corresp="Engl
 Church-yard; where <persName key="Peter Pindar" cert="high" ref="https://dbpedia.org/resource/John_Wolcot" type="real">Peter Pindar</persName> the other day followed him. In  
 <placeName type="landmark" key="Leicester Square" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q848912">Leicester-square</placeName>, on the <choice><corr>site</corr><sic>scite</sic></choice> of <persName key="Mary Linwood" cert="high" ref="https://dbpedia.org/resource/Mary_Linwood" type="real">Miss Linwood</persName>'s exhibition and other  
 houses, was the town mansion of the <persName key="Sydneys, Earls of Leicester" ref="https://dbpedia.org/resource/Category:Earls_of_Leicester_(1618_creation)" type="real">Sydneys, Earls of Leicester</persName>,  
-the family of <persName key="Philip Sidney, 5th Earl of Leicester" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney,_5th_Earl_of_Leicester" type="real">Sir Philip</persName> and <persName key="Algernon Sydney" cert="high" ref="https://dbpedia.org/resource/Algernon_Sidney" type="real">Algernon Sydney</persName>. In the same square  
+the family of <persName key="Philip Sidney, 3th Earl of Leicester" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney,_3rd_Earl_of_Leicester" type="real">Sir Philip</persName> and <persName key="Algernon Sydney" cert="high" ref="https://dbpedia.org/resource/Algernon_Sidney" type="real">Algernon Sydney</persName>. In the same square  
 lived <persName key="Sir Joshua Reynolds">Sir Joshua Reynolds</persName>. <persName key="John Dryden">Dryden</persName> lived and died in <placeName type="street" key="Gerrard-street" corresp="England">Gerrard-street</placeName>,  
 in a house which looked backwards into the garden of <placeName type="building" key="Leicester House" corresp="England">Leicester  
 House</placeName>. <persName key="Newton">Newton</persName> lived in <placeName type="street" key="St. Martin's-street" corresp="England">St. Martin's-street</placeName>, on the south side of  
