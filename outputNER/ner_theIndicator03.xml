@@ -15696,7 +15696,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109185318588",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-09T23:53:18.588Z",
-	"dcterms:modified": "2024-11-09T23:54:27.062Z",
+	"dcterms:modified": "2024-11-10T00:01:22.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -15728,7 +15728,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q126699391",
+		"@id": "http://www.wikidata.org/entity/Q2038269",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15737,7 +15737,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -16169,7 +16170,7 @@ generosity of that amiable man : —</p>
 </cit>
 
 <p><persName key="John Gay" cert="high" ref="https://dbpedia.org/resource/John_Gay" type="real">Gay</persName>, in describing the inconvenience of the late narrow part of  
-<placeName type="street" key="the Strand" corresp="England" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, by <placeName type="building" key="St. Clement's" corresp="England" ref="http://www.wikidata.org/entity/Q126699391">St. Clement's</placeName>, took away a portion of it's unpleasantness  
+<placeName type="street" key="the Strand" corresp="England" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, by <placeName type="building" key="St Clement Danes" corresp="England" ref="http://www.wikidata.org/entity/Q2038269" cert="high">St. Clement's</placeName>, took away a portion of it's unpleasantness  
 to the next generation, by associating his memory with the  
 objects in it. We did not miss without regret even the <q type="written">combs</q>  
 that hung <q type="written">dangling in your face</q> at a shop which be describes,  
