@@ -16167,7 +16167,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator03.xml?place_annotation_20241109193632955",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-10T00:36:32.955Z",
-	"dcterms:modified": "2024-11-10T00:36:32.955Z",
+	"dcterms:modified": "2024-11-10T00:42:32.701Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -16198,7 +16198,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "#stratfordAtBow",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -16687,7 +16689,7 @@ that </p>
     <quote>
 <l>French she spake full faire and featously; </l>
 <p>adding with great gravity.</p>
-<lg><l>After the school of <placeName type="region" key="Stratford at Bow" corresp="England">Stratford atte Bowe</placeName>; </l> 
+<lg><l>After the school of <placeName type="building" key="Stratford at Bow" corresp="England" ref="#stratfordAtBow">Stratford atte Bowe</placeName>; </l> 
 <l>For French of <placeName type="city" key="Paris" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q90">Paris</placeName> was to her unknowe. </l></lg>
     </quote>
     <note type="source"> 
