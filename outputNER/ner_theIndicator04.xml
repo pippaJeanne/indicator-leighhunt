@@ -60,7 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?person_annotation_20241120144747223",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T19:47:47.223Z",
-	"dcterms:modified": "2024-11-20T19:47:47.223Z",
+	"dcterms:modified": "2024-11-20T19:55:48.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -91,7 +91,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Joe_Kennedy_III",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -99,7 +101,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:low"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -133,7 +136,7 @@
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header"> THE BEAU MISER, AND WHAT HAPPENED TO HIM AT BRIGHTON.</head>
 
-<p>There was a man of the name of <persName key="Charles Kennedy">Kennedy</persName>, who was well known  
+<p>There was a man of the name of <persName key="Joe Kennedy III" cert="low" ref="http://dbpedia.org/resource/Joe_Kennedy_III" type="real">Kennedy</persName>, who was well known  
 to people of fashion in our childhood, but with whose origin, preterisions  
 or way of living, nobody was acquainted. That he was rich  
 was certain, for he wore the most precious stones on his fingers, and  
