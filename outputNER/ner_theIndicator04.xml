@@ -685,10 +685,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163551279",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163617212",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-20T21:35:51.279Z",
-	"dcterms:modified": "2024-11-20T21:36:17.212Z",
+	"dcterms:created": "2024-11-20T21:36:17.212Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -699,7 +698,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163551279#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163617212#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml",
@@ -713,7 +712,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163551279#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163617212#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[11]/placeName"
 		}
@@ -765,10 +764,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163955332",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120165218722",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-20T21:39:55.332Z",
-	"dcterms:modified": "2024-11-20T21:52:18.722Z",
+	"dcterms:created": "2024-11-20T21:52:18.722Z",
+	"dcterms:modified": "2024-11-20T22:27:55.057Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -779,7 +778,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163955332#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120165218722#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml",
@@ -793,7 +792,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163955332#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120165218722#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/q/placeName"
 		}
@@ -1075,7 +1074,7 @@ a thump on the shoulder which made him jump — <q type="spoken">pray do not let
 me interrupt you. I only hope you are not lodging in — in — what's  
 the name of the street?</q> </p>
 
-<p><q type="spoken"><placeName type="building" key="North Street" corresp="England" cert="medium" ref="https://www.wikidata.org/wiki/Q26660808">North Street</placeName>? — I tried <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
+<p><q type="spoken"><placeName type="street" key="North Street" corresp="England" cert="medium" ref="https://www.wikidata.org/wiki/Q26660808">North Street</placeName>? — I tried <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
 
 <p><q type="spoken">Ah, <placeName type="street" key="North Street" corresp="England">North Street</placeName>.</q> </p>
 
