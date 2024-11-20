@@ -459,7 +459,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?person_annotation_20241120154733872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T20:47:33.872Z",
-	"dcterms:modified": "2024-11-20T20:47:33.872Z",
+	"dcterms:modified": "2024-11-20T20:57:34.927Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -490,7 +490,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Charles_Kennedy_(diplomat)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -498,7 +500,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -642,7 +645,7 @@ heir, I am told, is a good young man, and he is poor, with a number
 of poor relations. The watch was <persName key="Charles">Charles</persName>'s, when a boy. My father  
 gave it me, and I to him, and he used to say that he would  
 God in heaven bless you, my poor, sweet girl, prays your old  
-<hi rend="right"><hi rend="smallcaps"><persName key="Charles Kennedy">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
+<hi rend="right"><hi rend="smallcaps"><persName key="Charles Kennedy" cert="medium" ref="https://dbpedia.org/resource/Charles_Kennedy_(diplomat)" type="real">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
 
 <p>The consequence of the new heir's visiting <persName key="Miss Cameron">Miss Cameron</persName>, was his  
 falling in love with her; if such a miser as he turned out to be,  
