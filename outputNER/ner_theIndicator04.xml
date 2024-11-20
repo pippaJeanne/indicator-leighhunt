@@ -1167,7 +1167,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?person_annotation_20241120175647112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T22:56:47.112Z",
-	"dcterms:modified": "2024-11-20T22:56:47.112Z",
+	"dcterms:modified": "2024-11-20T22:57:14.127Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1198,7 +1198,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Venus_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1206,7 +1211,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1604,7 +1610,7 @@ hardly believe possible. </p>
 <l>Ye little household fairies, </l>
 <l>Called anciently the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" type="fictional">Lares</persName>, </l>
 <l>Who on my study shelf there, </l>
-<l>Though <persName key="Venus">Venus</persName> was herself there. </l>
+<l>Though <persName key="Venus (mythology)" cert="high" ref="http://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName> was herself there. </l>
 <l>Slept all the summer hours. </l>
 <l>Beneath your little bowers </l>
 <l>Of glassy-watered flowers; — </l>
