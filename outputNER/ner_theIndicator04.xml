@@ -768,7 +768,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120163955332",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T21:39:55.332Z",
-	"dcterms:modified": "2024-11-20T21:42:52.398Z",
+	"dcterms:modified": "2024-11-20T21:52:18.722Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -800,7 +800,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q85208832",
+		"@id": "https://www.wikidata.org/wiki/Q26660808",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1075,7 +1075,7 @@ a thump on the shoulder which made him jump — <q type="spoken">pray do not let
 me interrupt you. I only hope you are not lodging in — in — what's  
 the name of the street?</q> </p>
 
-<p><q type="spoken"><placeName type="street" key="North Street" corresp="England" cert="medium" ref="http://www.wikidata.org/entity/Q85208832">North Street</placeName>? — I tried <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
+<p><q type="spoken"><placeName type="building" key="North Street" corresp="England" cert="medium" ref="https://www.wikidata.org/wiki/Q26660808">North Street</placeName>? — I tried <placeName type="street" key="the Steyne" corresp="England">the Steyne</placeName>, but—</q> </p>
 
 <p><q type="spoken">Ah, <placeName type="street" key="North Street" corresp="England">North Street</placeName>.</q> </p>
 
