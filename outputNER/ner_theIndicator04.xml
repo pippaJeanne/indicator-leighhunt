@@ -220,7 +220,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?place_annotation_20241120151927917",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T20:19:27.917Z",
-	"dcterms:modified": "2024-11-20T20:19:27.917Z",
+	"dcterms:modified": "2024-11-20T20:24:50.200Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -251,7 +251,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q15263862",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -259,7 +261,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -348,7 +351,7 @@ that time, walking about the beach very thoughtfully, with an air
 of sorrow, owing, it was conjectured, to his having put himself to  
 the expense of travelling without obtaining his expected repayment,  
 for nobody invited him. But be this as it may, he was  
-seen, one morning, running in the most violent manner across <placeName type="street" key="the Steyne" corresp="England">the  
+seen, one morning, running in the most violent manner across <placeName type="street" key="Old Steine" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q15263862">the  
 Steyne</placeName>, and crying out <q type="spoken">Fire !</q> His face was as pale as death; he  
 seemed every now and then, in the midst of his haste, to be twitched  
 and writhed up with a sort of convulsion; and his hat having been  
