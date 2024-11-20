@@ -455,6 +455,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?person_annotation_20241120160949898",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T21:09:49.898Z",
+	"dcterms:modified": "2024-11-20T22:42:53.388Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -924,7 +925,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator04.xml?person_annotation_20241120174210397",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-20T22:42:10.397Z",
-	"dcterms:modified": "2024-11-20T22:42:10.397Z",
+	"dcterms:modified": "2024-11-20T22:42:34.111Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -955,7 +956,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#kennedy",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1107,7 +1110,7 @@ heir, I am told, is a good young man, and he is poor, with a number
 of poor relations. The watch was <persName key="Charles">Charles</persName>'s, when a boy. My father  
 gave it me, and I to him, and he used to say that he would  
 God in heaven bless you, my poor, sweet girl, prays your old  
-<hi rend="right"><hi rend="smallcaps"><persName key="Charles Kennedy" cert="medium" ref="https://dbpedia.org/resource/Charles_Kennedy_(diplomat)" type="real" rend="right">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
+<hi rend="right"><hi rend="smallcaps"><persName key="Charles Kennedy" cert="medium" ref="https://dbpedia.org/resource/Charles_Kennedy_(diplomat)" type="real" rend="right" xml:id="kennedy">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
 
 <p>The consequence of the new heir's visiting <persName key="Miss Cameron">Miss Cameron</persName>, was his  
 falling in love with her; if such a miser as he turned out to be,  
@@ -1307,7 +1310,7 @@ footman, upon being admitted to him, turned out to be the same
 person who was riding as a foot-boy behind the young gentleman,  
 when the latter came up to help him out of the water. <q type="spoken">Good God,  
 sir,</q> says the man, who had something of his master's look about him,  
-<q type="spoken">I beg your pardon, — but are you the <persName key="Charles Kennedy">Mr. Kennedy</persName> who has got  
+<q type="spoken">I beg your pardon, — but are you the <persName key="Charles Kennedy" ref="#kennedy">Mr. Kennedy</persName> who has got  
 my master's fortune?</q> The other had been agitated already ; but  
 the whole truth seemed now to come upon him as fast, as if it would  
 squeeze the breath out of his hody; and muttering a few indistinct  
