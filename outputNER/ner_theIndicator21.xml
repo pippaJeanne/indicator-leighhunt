@@ -184,7 +184,7 @@
 <speaker>Mol.</speaker>
 <l>I have observed it so: the heart, as 'twere, </l>
 <l>Takes pity on itself, and so turns fond </l>
-<l>On it's own gentle nature.</l>
+<l>On <choice><orig>it's</orig><reg>its</reg></choice> own gentle nature.</l>
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
@@ -228,7 +228,7 @@
 <speaker>Cont.</speaker>
 <l>He'll make it up to him with double praise.</l>
 <l>This jealousy in noble spirits runs forth </l>
-<l>For it's own self, only to turn again </l>
+<l>For <choice><orig>it's</orig><reg>its</reg></choice> own self, only to turn again </l>
 <l>With a new shape of ardour, and perform </l>
 <l>Another's messages to fame more quickly.</l>
     </sp>
@@ -254,8 +254,8 @@
 <l>And fall, like clamourous birds, upon foul play.</l>
 <l>Yet as to what concerns our anxious friend, </l>
 <l>Who is to wonder, that a spirit like his, </l>
-<l>Unused to keep constrained it's very thoughts, </l>
-<l>Should let his generous hand forget it's hold, </l>
+<l>Unused to keep constrained <choice><orig>it's</orig><reg>its</reg></choice> very thoughts, </l>
+<l>Should let his generous hand forget <choice><orig>it's</orig><reg>its</reg></choice> hold, </l>
 <l>And find it a bad jail.</l>
     </sp>
     <sp who="#Cont">
@@ -325,7 +325,7 @@
 <speaker>Greg.</speaker>
 <p>How these Venetians do talk! Guitars twinkling about like stars! and 
     a plunge into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName> there's a name for a canal! It's fine talking, 
-    and sometimes puts me in mind of <persName type="ficitonal" key="Walter Herbert">my master</persName>'s friends, <persName key="William Shakespeare">Master Shakespeare</persName> and the 
+    and sometimes puts me in mind of <persName type="fictional" key="Walter Herbert">my master</persName>'s friends, <persName key="William Shakespeare">Master Shakespeare</persName> and the 
     others at <placeName type="Pub" key="The Mermaid" corresp="England">the mermaid</placeName>; but what name comes home to me like the manly and 
     natural one of <placeName type="physical" key="The River Fleet" corresp="England">Fleet Ditch</placeName>!
 </p>
@@ -847,7 +847,7 @@ thing about her head.
     <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>—Price 2d.
     </p>
     <p>
-Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.
+Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.
     </p>
 </div2>
     </div1>

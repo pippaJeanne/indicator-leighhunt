@@ -205,7 +205,7 @@ fierce political partisans recorded by <persName key="Dante">Dante</persName>; a
 represented by the men of desperate fortunes, who make such a 
 figure, between the gloomy and the gallant, in <persName key="Ann Radcliffe">Mrs. Radcliffe</persName>'s 
 <title key="The Mysteries of Udolpho" level="m">Mysteries of Udolpho</title>. The breaking up of the late kingdom of 
-<placeName type="country" key="Italy" corresp="Italy">Italy</placeName> with it's dependencies, has again revived them in some degree; 
+<placeName type="country" key="Italy" corresp="Italy">Italy</placeName> with <choice><orig>it's</orig><reg>its</reg></choice> dependencies, has again revived them in some degree; 
 but not, we believe, in any shape above common robbery. The 
 regular modern thief seems to make his appearance for the first time, 
 in the imaginary character of <persName key="Brunello">Brunello</persName>, as described by <persName key="Boiardo">Boiardo</persName> and 
@@ -467,7 +467,7 @@ Platonical; a meeting of divineness with humanity. </p>
 <lg xml:id="verse2"><l>See the mountains kiss high heaven. </l>
 <l>And the waves clasp one another; </l>
 <l>No leaf or flower would be forgiven. </l>
-<l>If it disdained to kiss it's brother; </l>
+<l>If it disdained to kiss <choice><orig>it's</orig><reg>its</reg></choice> brother; </l>
 <l>And the sunlight clasps the earth, ' </l>
 <l>And the moonbeams kiss the sea : </l>
 <l>What are all these kissings worth, </l>
@@ -480,7 +480,7 @@ Platonical; a meeting of divineness with humanity. </p>
 </div2>
 <div2 type="colophon" rend="center">
                 <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>

@@ -1843,9 +1843,9 @@ pleasure. Every thing that is truly pleasurable or beautiful is as useful
 as the most scientific thing upon earth. <persName key="Jane Welsh Carlyle" cert="low" ref="http://dbpedia.org/resource/Jane_Welsh_Carlyle" type="real">Jane</persName>, when she smiles at us, or  
 takes a country walk with us, or reads an author with us, is at least as  
 good as a <rs key="spinning jenny" ref="http://www.wikidata.org/entity/Q49015" cert="medium">Spinning Jenny</rs>. If we have twenty pleasures from the sight of  
-a cherry, such as the admiration of it's bloom, it's figure, it's scent, it's  
-suitableness to the leaves, it's connexion with orchards and the country,  
-and it's association with all that we have read of it in the poets, it is surely  
+a cherry, such as the admiration of <choice><orig>it's</orig><reg>its</reg></choice> bloom, <choice><orig>it's</orig><reg>its</reg></choice> figure, <choice><orig>it's</orig><reg>its</reg></choice> scent, <choice><orig>it's</orig><reg>its</reg></choice>  
+suitableness to the leaves, <choice><orig>it's</orig><reg>its</reg></choice> connexion with orchards and the country,  
+and <choice><orig>it's</orig><reg>its</reg></choice> association with all that we have read of it in the poets, it is surely  
 better than if we only knew the taste of it, and could reckon how much a  
 dozen of them would come to at a farthing apiece. If we see nothing in  
 the moon but a light for old gentlewomen to go home by, or a satellite to the  
@@ -1950,7 +1950,7 @@ seeing her, he went over to that prince with all his troops. Unfortunately,
 he was slain in the first battle that he fought for his new friend; and  
 <persName key="Pantea Arteshbod" cert="medium" ref="http://www.wikidata.org/entity/Q2049876" type="fictional">Panthea</persName>, unable to bear the loss of so noble and affectionate a spirit, killed  
 herself on his dead body. The story was first told by <persName key="Xenophon" cert="high" ref="http://dbpedia.org/resource/Xenophon" type="real">Xenophon</persName>. Besides  
-it's own interest, it is curious as one of the few specimens afforded by the  
+<choice><orig>it's</orig><reg>its</reg></choice> own interest, it is curious as one of the few specimens afforded by the  
 ancient world, of chivalrous gallantry towards a woman.</p>
 
 </div2>
@@ -2111,9 +2111,9 @@ might have done in their painted skins.</p>
 
 <p>The present generation, in this respect, is too old and too foolish to  
 mend; but the rising one has new light; and how easily might it see, not  
-only from the sophistications of it's parents, but from their sufferings and  
+only from the sophistications of <choice><orig>it's</orig><reg>its</reg></choice> parents, but from their sufferings and  
 even their little unconscious hankerings after something better, the policy  
-of improving it's habits of thinking! How much better would it be to  
+of improving <choice><orig>it's</orig><reg>its</reg></choice> habits of thinking! How much better would it be to  
 have a third of the toil, and a twentieth part of the anxiety! How much  
 better to have air and exercise every day, instead of once a week! How  
 much better to have cheap luxuries, easy digestions, cool slumbers, and  
@@ -2188,7 +2188,7 @@ took him out of it at last.</p>
 </div2>
     <div2 type="colophon" rend="center">
                 <p>Orders received by the Newsmen, Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Two-pence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>

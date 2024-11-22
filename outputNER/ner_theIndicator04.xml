@@ -1635,7 +1635,7 @@
                 <div2 type="section" n="1"> <!-- Header and content -->
                     <head type="header"> THE BEAU MISER, AND WHAT HAPPENED TO HIM AT BRIGHTON.</head>
 
-<p>There was a man of the name of <persName key="Kennedy" cert="unknown" ref="#" type="real" xml:id="kennedy">Kennedy</persName>, who was well known  
+<p>There was a man of the name of <persName key="Kennedy" cert="unknown" type="real" xml:id="kennedy">Kennedy</persName>, who was well known  
 to people of fashion in our childhood, but with whose origin, preterisions  
 or way of living, nobody was acquainted. That he was rich  
 was certain, for he wore the most precious stones on his fingers, and  
@@ -1672,7 +1672,7 @@ His rings were all keepsakes -, he always had no money <hi rend="italics">just t
 
 <pb n="26"/>
 
-he referred for his lodgings to an hotel, where he occasionally put  
+he referred for his lodgings to <choice><sic>an hotel</sic><corr>a hotel</corr></choice>, where he occasionally put  
 up, perhaps for that very purpose; and a curious fellow, who  
 endeavoured to follow him home one night, was led such an enormous  
 round through street after street, and even suburb after suburb, that  
@@ -1709,7 +1709,7 @@ some boys who had followed him with shouts and nick-names. </p>
 
 <p>The mystery supplied the world with talk for more than a week,  
 when at length it was explained through the family we have just  
-mentioned. <persName key="Charles Kennedy">Kennedy</persName>, it seems, was really a miser, and had inherited  
+mentioned. <persName key="Kennedy" cert="unknown" type="real">Kennedy</persName>, it seems, was really a miser, and had inherited  
 the estates of a third or fourth cousin, whose name he took. He had  
 had little or no acquaintance with his kinsman, before he found  
 himself his heir. His father was a petty overseer somewhere or other,  
@@ -1728,26 +1728,26 @@ token of his own regard for her. A little note acconipanied them,
 
 <pb n="27"/>
 
-which she shewed one day with the tears in her eyes; though she was  
+which she <choice><orig>shewed</orig><reg>showed</reg></choice> one day with the tears in her eyes; though she was  
 then happy enough : — </p>
 
 <cit><quote><p>I leave you no money, my dear child; I am dying, and you are  
 wealthy enough, and money is not the thing wanted by either of us.  
 Just before I received the news of my poor boy's death, he sent me  
-this lock of his hair for you, to shew you how glossy and healthy ---
+this lock of his hair for you, to <choice><orig>shew</orig><reg>show</reg></choice> you how glossy and healthy ---
 
 Excuse me, my love; — the tears blot out what I was going to write;  
 and so they ought. But I know well enough that the kind-hearted  
 generous girl who was worthy of him, will think I pay her a greater  
-compliment in leaving her only what belonged to her <persName key="Charles">Charles</persName>, than  
+compliment in leaving her only what belonged to her <persName key="Charles" cert="unknown" type="real">Charles</persName>, than  
 if I had sent her all the money which he never possessed. The next  
 heir, I am told, is a good young man, and he is poor, with a number  
-of poor relations. The watch was <persName key="Charles">Charles</persName>'s, when a boy. My father  
+of poor relations. The watch was <persName key="Charles" cert="unknown" type="real">Charles</persName>'s, when a boy. My father  
 gave it me, and I to him, and he used to say that he would  
 God in heaven bless you, my poor, sweet girl, prays your old  
 <hi rend="right"><hi rend="smallcaps"><persName key="Charles Kennedy" ref="https://dbpedia.org/resource/Charles_Kennedy_(diplomat)" cert="medium" type="real">Charles Kennedy</persName>."</hi></hi> </p></quote></cit>
 
-<p>The consequence of the new heir's visiting <persName key="Miss Cameron">Miss Cameron</persName>, was his  
+<p>The consequence of the new heir's visiting <persName key="Miss Cameron" cert="unknown" type="real">Miss Cameron</persName>, was his  
 falling in love with her; if such a miser as he turned out to be,  
 could be said to fall in love. But though she could not help pitying  
 him at first, as she afterwards said, it was only on account of his  
@@ -1756,7 +1756,7 @@ make him ridiculous and unhappy wherever he went. He soon tired
 and disgusted her. After a very unequivocal repulse one day, which  
 seemed to make him prodigiously thoughtful and unhappy, he came  
 in the evening, with a mixture of odd triumph and uneasiness in his   
-aspect, at which <persName key="Miss Cameron">Miss Cameron</persName> said she could hardly forbear  
+aspect, at which <persName key="Miss Cameron" cert="unknown" type="real">Miss Cameron</persName> said she could hardly forbear  
 laughing, even from a feeling of bitterness. She saw that he  
 expected to make an impression on her of some sort; and so he did;  
 for taking an opportunity of speaking with her alone, he drew out of  
@@ -1788,7 +1788,7 @@ not very delicate, did not interfere as he ought, to prevent her being
 thus persecuted. But not only was the mystery explained to her  
 next day: it was the most important one of both their lives. </p>
 
-<p>On the morning when <persName key="Charles Kennedy">Kennedy</persName> was frightened by the fire, he was  
+<p>On the morning when <persName key="Kennedy" cert="unknown" type="real">Kennedy</persName> was frightened by the fire, he was  
 standing very thoughtfully by <placeName type="building" key="The Ship Inn" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q26563318">the Ship Inn</placeName>, near the sea-side, when  
 he was suddenly clapped by somebody on the shoulder. He turned  
 round with a start, and saw a face which he knew well enough. It  
@@ -1887,7 +1887,7 @@ dear Sir?</q> </p>
 <p><q type="spoken">Why, look there, my good friend — look there ;— there they are,  
 removing them — removing the goods : — a fire has broken out.</q> </p>
 
-<p><persName key="Charles Kennedy">Kennedy</persName> seemed petrified. There was a great crowd in the street  
+<p><persName key="Kennedy" cert="unknown" type="real">Kennedy</persName> seemed petrified. There was a great crowd in the street  
 to which the stranger pointed, occasioned by a scuffle with a puppet-show 
 man. The boys were shouting, and the little moveable Punch  
 theatre tumbled about in the top of the fray, looking in the distance,  
@@ -1926,18 +1926,18 @@ found just now that there is one here which will save me a journey
 to <placeName type="city" key="London" corresp="England">London</placeName> — the name is Cameron — can you tell me where they live?  
 There is a person of the name of <persName key="Kennedy">Kennedy</persName> also, who I understand is  
 here too; — but that doesn't signify at present; — pray tell me if you  
-know where the <persName key="Cameron">Camerons</persName> are.</q> </p>
+know where <persName key="the Cameron family" role="family" cert="unknown" type="real">the Camerons</persName> are.</q> </p>
 
 <p><q type="spoken">There, there, sir,</q> answered the other, almost frightened out of  
 his wits, and anxious to get away; — <q type="spoken">there, two or three doors off.</q> </p>
 
 <p>The stranger dropped his arm in an instant, and in an instant  
-knocked at the door. With almost as much speed poor <persName key="Charles Kennedy">Kennedy</persName>  
+knocked at the door. With almost as much speed poor <persName key="Kennedy" cert="unknown" type="real">Kennedy</persName>  
 returned to his lodging. We know not what he was thinking about;  
 but he surprised the landlord with his exceeding hurry to be  
 gone; and gone he would have been much sooner than he was, if it  
 had not been for a dispute about a bill, which he was in the midst of  
-contesting, when a footman came from the <persName key="Cameron">Camerons</persName>, requesting his  
+contesting, when a footman came from <persName key="the Cameron family" role="family" cert="unknown" type="real">the Camerons</persName>, requesting his  
 presence immediately upon important business. </p>
 
 <p>The poor miser's mortifications were not to cease by the way. The  
@@ -1962,7 +1962,7 @@ landlord; and begging him, in a respectful manner, to take care of the
 
 gentleman, to whom he would fetch his master, hastened back to  
 inform the latter, who, comparing the accounts of his old acquaintance  
-with the <persName key="Cameron">Camerons</persName>, had already guessed the secret, to the great  
+with <persName key="the Cameron family" role="family" cert="unknown" type="real">the Camerons</persName>, had already guessed the secret, to the great  
 wondering of all parties. </p>
 
 <p>You have doubtless been guessing with him ; and it is easy to fancy  
@@ -1974,7 +1974,7 @@ dead also, and had left his property to unknown heirs. The property
 would have been a very secondary thing, in his mind, for its own sake;  
 and he was aware he could regain it; but his father's death afflicted  
 him much, particularly under all the circumstances; and he felt so  
-much anguish at the thought of what <persName key="Miss Cameron">Miss Cameron</persName> must suffer, to  
+much anguish at the thought of what <persName key="Miss Cameron" cert="unknown" type="real">Miss Cameron</persName> must suffer, to  
 whom he had plighted his faith but two years before, that it was with  
 difficulty he held up against grief, and hurry, and a burning climate,  
 so as not to fall into an illness; the very fear of which, and the delay  
@@ -2045,7 +2045,7 @@ hardly believe possible. </p>
 
 
 <div3 type="subsection" n="2">
-<p>TOLERATION. </p>
+<head type="header" rend="center">TOLERATION.</head>
 
 
 <p>The world has afforded some melancholy examples of great and  
@@ -2056,8 +2056,8 @@ whatever cause arising, of the inability to bear an argument; whether
 from conscious tendency to doubt, and want of candour or courage to  
 acknowledge it; or from a fierce egotism too proud to be differed  
 with ; or from the callousness of mere worldly supereminence, ready  
-to trample down every thing that endangers it's authority, or shames  
-it with it's truth ; or lastly, from fright and imbecility, which  
+to trample down every thing that endangers <choice><orig>it's</orig><reg>its</reg></choice> authority, or shames  
+it with <choice><orig>it's</orig><reg>its</reg></choice> truth ; or lastly, from fright and imbecility, which  
 confound mere custom with every species of security and good. Ordinary  
 intolerance generally arises from the first or the last of these causes.  
 <persName key="Dr. Johnson" cert="high" ref="https://dbpedia.org/resource/Samuel_Johnson" type="real">Dr. Johnson</persName>, who longed to repose in the bosom of an infallible  
@@ -2074,20 +2074,18 @@ and was to be so served and made court to. But toleration has been
 gradually increasing with the strength of opinion and the press. It  
 is pressed upon with less hardness at every fresh use of the foot  
 of authority, however foolish and uncharitable even that pressure  
-may be. And the last and best proof of it's increase (a proof, which  
-ought to shame all it's enemies) is, that intolerance itself is treated  
+may be. And the last and best proof of <choice><orig>it's</orig><reg>its</reg></choice> increase (a proof, which  
+ought to shame all <choice><orig>it's</orig><reg>its</reg></choice> enemies) is, that intolerance itself is treated  
 with candour. </p></div3>
 
 
-<div3 type="subsection" n="3"><p><hi rend="smallcaps">Knowledge of the World.</hi> — What is called knowledge of the  
-world is in general nothing better than an ignorance of nine-tenths  
-of the creation.</p></div3>
+<div3 type="subsection" n="3"><head type="header" rend="center"><hi rend="smallcaps">Knowledge of the World.</hi></head> <p rend="inline">— What is called knowledge of the world is in general nothing better than an ignorance of nine-tenths of the creation.</p></div3>
 
 <div3 type="subsection" n="4">
-<p><hi rend="smallcaps">Art of Writing.</hi> — One of the arts of writing, at least as far  
+<head type="header" rend="center"><hi rend="smallcaps">Art of Writing.</hi></head> <p rend="inline">— One of the arts of writing, at least as far  
 as the communication of pleasure is concerned, is to write with  
-enjoyment. He whose task gives himself real pleasure for it's own sake,  
-unaccompanied with uneasy thoughts about it's success or with the  
+enjoyment. He whose task gives himself real pleasure for <choice><orig>it's</orig><reg>its</reg></choice> own sake,  
+unaccompanied with uneasy thoughts about <choice><orig>it's</orig><reg>its</reg></choice> success or with the  
 mere pride of authorship, can hardly fail in communicating some  
 portion of his pleasure to others, if it be only from their witnessing  
 his own gladdened face. </p></div3>
@@ -2100,7 +2098,7 @@ his own gladdened face. </p></div3>
                 </div2>
 
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard"><persName cert="medium" key="Joseph Appleyard" type="real">Joseph Appleyard</persName></persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
                 <p>Printed by <persName type="real" key="C. H. Reynell"><persName key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950" cert="high" type="real">C. H. Reynell</persName></persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
