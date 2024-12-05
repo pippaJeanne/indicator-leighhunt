@@ -1260,7 +1260,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204223459165",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:34:59.165Z",
-	"dcterms:modified": "2024-12-05T03:34:59.165Z",
+	"dcterms:modified": "2024-12-05T03:35:58.925Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1291,7 +1291,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1299,7 +1301,86 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?title_annotation_20241204223602632",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-05T03:36:02.632Z",
+	"dcterms:modified": "2024-12-05T03:36:02.632Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?title_annotation_20241204223602632#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?title_annotation_20241204223602632#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1483,7 +1564,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 <l>Who marries <persName key="Richmond's daughter" ref="https://dbpedia.org/resource/Elizabeth_of_York" cert="high" type="real">Richmond's daughter</persName>, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
 <note type="source"><bibl><author>Sir John Beaumont</author> <title level="m">Bosworth Field</title>.</bibl></note></cit> 
-<p rend="center"><persName key="Sir John Beaumont">Sir John Beaumont</persName>'s <title cert="high" corresp="England" generatedBy="human" level="a" xml:space="default" key="Bosworth Field" type="region">Bosworth Field</title></p>
+<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" generatedBy="human" level="a" xml:space="default" key="Bosworth Field" type="region">Bosworth Field</title></p>
 
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
