@@ -540,7 +540,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204214818400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T02:48:18.400Z",
-	"dcterms:modified": "2024-12-05T02:48:18.400Z",
+	"dcterms:modified": "2024-12-05T02:48:40.388Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -572,8 +572,86 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/Charles_Brandon,_1st_Duke_of_Suffolk",
+		"@id": "https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk",
 		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204214855747",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-05T02:48:55.747Z",
+	"dcterms:modified": "2024-12-05T02:48:55.747Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204214855747#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204214855747#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -745,7 +823,7 @@ objects, as histories, fables, and contemplations of nature.</q> <note type="sou
 <div2 type="section" n="2">
 <head type="header"><persName key="CHARLES BRANDON" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">CHARLES BRANDON</persName>, AND <persName key="MARY QUEEN OF FRANCE" cert="high" ref="https://dbpedia.org/resource/Mary_I_of_England" type="real">MARY QUEEN OF FRANCE</persName>. </head>
 
-<p>The fortune of <persName key="Charles Brandon" ref="https://dbpedia.org/page/Charles_Brandon,_1st_Duke_of_Suffolk">Charles Brandon</persName> was remarkable. He was an  
+<p>The fortune of <persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">Charles Brandon</persName> was remarkable. He was an  
 honest man, yet the favourite of a despot. He was brave, handsome,  
 accomplished, possessed even delicacy of sentiment; yet he  
 retained his favour to the last. He even had the perilous honour of  
