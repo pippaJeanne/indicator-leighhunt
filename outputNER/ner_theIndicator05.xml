@@ -1500,7 +1500,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204224432769",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:44:32.769Z",
-	"dcterms:modified": "2024-12-05T03:44:32.769Z",
+	"dcterms:modified": "2024-12-05T03:45:56.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1531,7 +1531,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Henry_VII_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1539,7 +1541,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1727,7 +1730,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
-fortunes of the son. <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Young Brandon</persName>, we believe, grew up with <persName key="King Henry VII">Henry 
+fortunes of the son. <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Young Brandon</persName>, we believe, grew up with <persName key="Henry VII of England" cert="high" ref="http://dbpedia.org/resource/Henry_VII_of_England" type="real">Henry 
 the Seventh </persName>'s children, and was the playmate of his <persName key="King Henry VIII">future king</persName> and  
 <persName key="Mary Tudor, Queen of France">bride</persName>. <persName key="King Henry VIII">The prince</persName>, as he increased in years, seems to have carried  
 the idea of <persName key="Charles Brandon, 1st Duke of Suffolk">Brandon</persName> with him like that of a second self; and <persName key="Mary Tudor, Queen of France">the  
