@@ -620,7 +620,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204214855747",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T02:48:55.747Z",
-	"dcterms:modified": "2024-12-05T02:51:34.611Z",
+	"dcterms:modified": "2024-12-05T03:22:40.705Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1074,7 +1074,7 @@ being beloved by the despot's sister, without having the least claim
 to it by birth; and yet instead of <choice><orig>it's</orig><reg>its</reg></choice> destroying them both, he was  
 allowed to be her husband. </p>
 
-<p><persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> was the son of <persName key="Sir William Brandon" cert="high" ref="https://dbpedia.org/resource/William_Brandon_(standard-bearer)" type="real">Sir William Brandon</persName>, whose skull  
+<p><persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> was the son of <persName key="Sir William Brandon" cert="high" ref="https://dbpedia.org/resource/William_Brandon_(standard-bearer)" type="real" xml:id="SirWilliam">Sir William Brandon</persName>, whose skull  
 was cleaved at <placeName type="region" key="Bosworth Field site" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q55876564">Bosworth</placeName> by <persName key="Richard the Third" cert="high" ref="https://dbpedia.org/resource/Richard_III_of_England" type="real" xml:id="richardIII">Richard the Third</persName>, while bearing the  
 standard of the <persName key="Duke of Richmond" cert="high" ref="https://dbpedia.org/resource/Henry_VII_of_England" type="real">Duke of Richmond</persName>. <persName key="King Richard III">Richard</persName> dashed at the standard,  
 and appears to have been thrown from his horse by <persName key="Sir William Brandon">Sir William</persName>,  
