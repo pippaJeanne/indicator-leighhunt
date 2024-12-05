@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <!-- File Description -->
         <fileDesc>
@@ -11,7 +9,7 @@
             </titleStmt>
 
             <publicationStmt>
-                <p />
+                <p/>
             </publicationStmt>
 
             <!-- Author information -->
@@ -27,7 +25,87 @@
         </fileDesc>
 
         <!-- Encoding Description -->
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204212600487",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-05T02:26:00.487Z",
+	"dcterms:modified": "2024-12-05T02:26:31.935Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204212600487#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204212600487#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Plato",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
                 Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -43,7 +121,7 @@
     <text>
         <body>
             <div1 type="issue" n="5">
-                <pb n="33" /> <!-- Page beginning -->
+                <pb n="33"/> <!-- Page beginning -->
                 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
@@ -51,8 +129,7 @@
                         <l>There he arriving round about doth flie,</l>
                         <l>And takes survey with busie, curious eye:</l>
                         <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                                cert="high" type="real">SPENSER</persName>.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. I. <date when="1819-11-10">—WEDNESDAY, NOVEMBER 10th, 1819</date>.</head>
                 </div2>
@@ -98,7 +175,7 @@ precaution and arms against it, — your boots, etc. against wet feet,
 and your great coat or umbrella against the rain. It is timidity and  
 flight, which are to be deprecated, not proper armour for the battle.  
 Tht first will lay you open to defeat, on the least attack. A proper  
-use of the latter will only keep you strong for it. <persName key="Plato">Plato</persName> had such  
+use of the latter will only keep you strong for it. <persName key="Plato" cert="high" ref="http://dbpedia.org/resource/Plato" type="real">Plato</persName> had such  
 a high opinion of exercise, that he said it was a cure even for a  
 
 <pb n="34"/>
@@ -565,4 +642,3 @@ of the name of <persName key="Erotion">Erotion</persName>. </p>
         </body>
     </text>
 </TEI>
- 
