@@ -1714,7 +1714,7 @@ the estates of a third or fourth cousin, whose name he took. He had
 had little or no acquaintance with his kinsman, before he found  
 himself his heir. His father was a petty overseer somewhere or other,  
 at a great distance from <placeName type="city" key="London" corresp="England" ref="http://www.wikidata.org/entity/Q84">London</placeName> and the cousin, whose estates he  
-succeeded to, was the son of a general officer in the <orgName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" corresp="India" key="East India Company" ref="https://dbpedia.org/resource/East_India_Company">East-India</orgName>  
+succeeded to, was the son of a general officer in the <orgName cert="high" corresp="India" key="East India Company" ref="https://dbpedia.org/resource/East_India_Company">East-India</orgName>  
 service. The cousin had had a son whom he sent abroad to follow  
 his grandfather's profession; but receiving the news of his death a  
 little before his own, he sickened the faster, and being in a state  
@@ -2015,7 +2015,7 @@ hardly believe possible. </p>
 <l>In case a friend should look in. </l>  
 <l>So may your shelf afford ye </l>
 
-<cb cert="high" generatedBy="human" n="2" xml:space="default"/>
+<cb cert="high" n="2"/>
 
 <l>Fit place to bed and board ye. </l>
 <l>With never dust or smoking </l>
@@ -2098,8 +2098,8 @@ his own gladdened face. </p></div3>
                 </div2>
 
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell"><persName key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950" cert="high" type="real">C. H. Reynell</persName></persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950" cert="high" type="real">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
