@@ -1020,7 +1020,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204222558411",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:25:58.411Z",
-	"dcterms:modified": "2024-12-05T03:25:58.411Z",
+	"dcterms:modified": "2024-12-05T03:26:22.426Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1051,7 +1051,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#SirWilliam",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1059,7 +1061,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1234,7 +1237,7 @@ allowed to be her husband. </p>
 <p><persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> was the son of <persName key="Sir William Brandon" cert="high" ref="https://dbpedia.org/resource/William_Brandon_(standard-bearer)" type="real" xml:id="SirWilliam">Sir William Brandon</persName>, whose skull  
 was cleaved at <placeName type="region" key="Bosworth Field site" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q55876564">Bosworth</placeName> by <persName key="Richard the Third" cert="high" ref="https://dbpedia.org/resource/Richard_III_of_England" type="real" xml:id="richardIII">Richard the Third</persName>, while bearing the  
 standard of the <persName key="Duke of Richmond" cert="high" ref="https://dbpedia.org/resource/Henry_VII_of_England" type="real">Duke of Richmond</persName>. <persName key="Richard the Third" cert="high" ref="#richardIII" type="real">Richard</persName> dashed at the standard,  
-and appears to have been thrown from his horse by <persName key="Sir William Brandon">Sir William</persName>,  
+and appears to have been thrown from his horse by <persName key="Sir William Brandon" cert="high" ref="#SirWilliam" type="real">Sir William</persName>,  
 whose strength and courage however could not save him from the  
 angry desperation of <persName key="King Richard III">the king</persName>.</p>
 
