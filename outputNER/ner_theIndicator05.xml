@@ -1340,7 +1340,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?title_annotation_20241204223602632",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:36:02.632Z",
-	"dcterms:modified": "2024-12-05T03:36:02.632Z",
+	"dcterms:modified": "2024-12-05T03:42:39.181Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1371,7 +1371,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1564,7 +1566,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 <l>Who marries <persName key="Richmond's daughter" ref="https://dbpedia.org/resource/Elizabeth_of_York" cert="high" type="real">Richmond's daughter</persName>, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
 <note type="source"><bibl><author>Sir John Beaumont</author> <title level="m">Bosworth Field</title>.</bibl></note></cit> 
-<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" generatedBy="human" level="a" xml:space="default" key="Bosworth Field" type="region">Bosworth Field</title></p>
+<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" generatedBy="human" level="a" xml:space="default" key="Bosworth Field" type="region" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title></p>
 
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
