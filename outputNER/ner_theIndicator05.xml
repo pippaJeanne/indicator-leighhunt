@@ -5656,7 +5656,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206173414451",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T22:34:14.451Z",
-	"dcterms:modified": "2024-12-06T22:34:14.451Z",
+	"dcterms:modified": "2024-12-06T22:36:20.948Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5687,7 +5687,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Mercury_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5695,7 +5700,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -6150,7 +6156,7 @@ told <persName key="Juno" cert="high" ref="https://dbpedia.org/resource/Juno_(my
 
 <pb n="40"/>
 
-by him, and courted by <persName key="Mercury">Mercury</persName> on the road ; the consequence of  
+by him, and courted by <persName key="Mercury" cert="high" ref="https://dbpedia.org/resource/Mercury_(mythology)" type="fictional">Mercury</persName> on the road ; the consequence of  
 which was the birth of the Lares. This seems to have a natural  
 reference enough to the gossiping over fire-places. </p>
 
