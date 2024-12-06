@@ -3319,7 +3319,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206162455855",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:24:55.855Z",
-	"dcterms:modified": "2024-12-06T21:24:55.855Z",
+	"dcterms:modified": "2024-12-06T21:27:41.880Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3350,7 +3350,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/William_Warner_(poet)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3359,7 +3361,7 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
 	},
-	"cwrc:hasCertainty": "cwrc:low"
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3592,7 +3594,7 @@ looks. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" 
 likely that her hand would be sought by many princely lovers; but  
 she was now resolved to reward herself for her late sacrifice, and in  
 less than two months she privately married her first love. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">The  
-queen</persName>, says a homely but not mean poet (<persName key="William Warner" cert="low">Warner</persName>, in his <title level="a">Albion's  
+queen</persName>, says a homely but not mean poet (<persName key="William Warner" cert="high" ref="https://dbpedia.org/resource/William_Warner_(poet)" type="real">Warner</persName>, in his <title level="a">Albion's  
 England</title>) thought that to cast too many doubts </p>
 
 <cit><quote>
