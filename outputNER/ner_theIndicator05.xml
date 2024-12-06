@@ -3079,7 +3079,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206161816419",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:18:16.419Z",
-	"dcterms:modified": "2024-12-06T21:18:16.419Z",
+	"dcterms:modified": "2024-12-06T21:18:59.297Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3110,7 +3110,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#LouisXII",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3118,7 +3120,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3343,7 +3346,7 @@ commendation of the Dauphin, and affecting not to know who the
 conquering knight was; — an ignorance not very probable; but the  
 knights sometimes disguised themselves purposely. </p>
 
-<p><persName key="King Louis XII">The old king</persName> did not long survive his festivities. He died in less  
+<p><persName key="King Louis XII" cert="high" ref="#LouisXII" type="real">The old king</persName> did not long survive his festivities. He died in less  
 than three months, on the first day of the year 1515 ; and <persName key="Charles Brandon, 1st Duke of Suffolk">Brandon</persName>,  
 who had been created Duke of Suffolk the year before, re-appeared  
 at the French court, with letters of condolence, and more persuasive  
