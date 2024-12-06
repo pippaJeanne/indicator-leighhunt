@@ -2116,7 +2116,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206160039230",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:00:39.230Z",
-	"dcterms:modified": "2024-12-06T21:00:39.230Z",
+	"dcterms:modified": "2024-12-06T21:01:54.909Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2147,7 +2147,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Louis_XII",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2155,7 +2157,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2358,7 +2361,7 @@ his wife. Royal females in most countries have certainly none of the
 advantages of their rank, whatever the males may have. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">Mary</persName> was  
 destined to taste the usual bitterness of their lot; but she was amply  
 repaid. At the conclusion of the war with <placeName type="country" key="France" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q142">France</placeName>, she was married  
-to the old <persName key="King Louis XII">king Louis the Twelfth</persName>, who witnessed from a couch the  
+to the old <persName key="Louis the XII" cert="high" ref="https://dbpedia.org/resource/Louis_XII" type="real">king Louis the Twelfth</persName>, who witnessed from a couch the  
 exploits of <persName key="Charles Brandon, 1st Duke of Suffolk">her future husband</persName> at the tournaments. The doings of  
 <persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> that time were long remembered. The love between  
 him and <persName key="Mary Tudor, Queen of France">the young queen</persName> was suspected by the French courts  
