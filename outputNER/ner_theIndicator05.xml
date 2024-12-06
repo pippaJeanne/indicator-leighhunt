@@ -4278,7 +4278,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206165920464",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:59:20.464Z",
-	"dcterms:modified": "2024-12-06T21:59:20.464Z",
+	"dcterms:modified": "2024-12-06T21:59:38.180Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4309,7 +4309,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/William_Shakespeare",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4317,7 +4319,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4638,7 +4641,7 @@ most comprehensive though not most poetical stanzas, as </p>
 <note type="source"><bibl><title>Faerie Queene</title>, <biblScope>Book 2, St. 47</biblScope>.</bibl></note></cit>
 
 <p>Of the belief in an Evil Genius, a celebrated example is furnished  
-in <persName key="Plutarch" cert="high" ref="http://dbpedia.org/resource/Plutarch" type="real">Plutarch</persName>'s account of <persName key="Marcus Junius Brutus" cert="medium" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus" type="real">Brutus</persName>'s vision, of which <persName key="William Shakspeare">Shakspeare</persName> has  
+in <persName key="Plutarch" cert="high" ref="http://dbpedia.org/resource/Plutarch" type="real">Plutarch</persName>'s account of <persName key="Marcus Junius Brutus" cert="medium" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus" type="real">Brutus</persName>'s vision, of which <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName> has  
 given so fine a version <note type="hunt">(Julius Caesar, Act 4, Sc. 3.)</note>.  Beliefs of this  
 
 <pb n="38"/>
