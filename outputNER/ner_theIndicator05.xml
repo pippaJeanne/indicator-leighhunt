@@ -5407,7 +5407,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206172936411",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T22:29:36.411Z",
-	"dcterms:modified": "2024-12-06T22:29:36.411Z",
+	"dcterms:modified": "2024-12-06T22:31:53.372Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5438,7 +5438,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Larunda",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5446,7 +5451,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5896,7 +5902,7 @@ Thus <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/Jo
 <note type="source"><bibl><author>John Milton</author><title level="a">On the Morning of Christ's Nativity</title><ref target="https://www.poetryfoundation.org/poems/44735/on-the-morning-of-christs-nativity"/></bibl></note>
 </cit>
 
-<p>But <persName key="Ovid" cert="high" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName> tells a story of a gossiping nymph <persName key="Lara">Lara</persName>, who having  
+<p>But <persName key="Ovid" cert="high" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName> tells a story of a gossiping nymph <persName key="Lara" cert="high" ref="https://dbpedia.org/resource/Larunda" type="fictional">Lara</persName>, who having  
 told <persName key="Juno">Juno</persName> of her husband's amour with <persName key="Juturna">Juturna</persName>, was <q>sent to hell</q>  
 
 <pb n="40"/>
