@@ -1562,6 +1562,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204224742233",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:47:42.233Z",
+	"dcterms:modified": "2024-12-06T21:47:28.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1593,7 +1594,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "#HenryVII",
+		"@id": "https://dbpedia.org/resource/Henry_VIII",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1799,6 +1800,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241204225702647",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-05T03:57:02.647Z",
+	"dcterms:modified": "2024-12-06T21:47:55.149Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1830,7 +1832,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/resource/Henry_VIII",
+		"@id": "#HenryVIII",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4027,8 +4029,8 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
 fortunes of the son. <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Young Brandon</persName>, we believe, grew up with <persName key="Henry VII of England" cert="high" ref="#HenryVII" type="real">Henry 
-the Seventh </persName>'s children, and was the playmate of his <persName key="King Henry VIII" cert="high" ref="#HenryVII" type="real">future king</persName> and  
-<persName key="Elizabeth of York" cert="high" ref="#ElizabethYork" type="real">bride</persName>. <persName key="Henry VIII" cert="high" ref="https://dbpedia.org/resource/Henry_VIII" type="real">The prince</persName>, as he increased in years, seems to have carried  
+the Seventh </persName>'s children, and was the playmate of his <persName key="King Henry VIII" cert="high" ref="https://dbpedia.org/resource/Henry_VIII" type="real" xml:id="HenryVIII">future king</persName> and  
+<persName key="Elizabeth of York" cert="high" ref="#ElizabethYork" type="real">bride</persName>. <persName key="Henry VIII" cert="high" ref="#HenryVIII" type="real">The prince</persName>, as he increased in years, seems to have carried  
 the idea of <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Brandon</persName> with him like that of a second self; and <persName key="Mary Tudor, Queen of France" cert="high" ref="http://dbpedia.org/resource/Mary_Tudor,_Queen_of_France" type="real" xml:id="MaryTudor">the  
 
 <pb n="36"/>
