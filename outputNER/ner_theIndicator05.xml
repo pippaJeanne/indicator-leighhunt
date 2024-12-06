@@ -2999,7 +2999,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206161627629",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:16:27.629Z",
-	"dcterms:modified": "2024-12-06T21:16:27.629Z",
+	"dcterms:modified": "2024-12-06T21:16:48.536Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3030,7 +3030,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#CharlesBrandon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3038,7 +3040,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3257,7 +3260,7 @@ of <persName key="Mary Tudor, Queen of France" cert="high" ref="#CharlesBrandon"
 shield. <persName key="Michael Drayton" cert="high" ref="http://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>, in his <title level="s">Heroical Epistles</title>, we know not on  
 what authority, tells us, that on one occasion during the combats,  
 perhaps this particular one, she could not help saying out loud,  
-"Hurt not my sweet <persName key="Charles Brandon, 1st Duke of Suffolk">Charles</persName>," or words to that effect. He then  
+"Hurt not my sweet <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Charles</persName>," or words to that effect. He then  
 pleasantly represents her as doing away suspicion by falling to  
 commendation of the Dauphin, and affecting not to know who the  
 conquering knight was; — an ignorance not very probable; but the  
