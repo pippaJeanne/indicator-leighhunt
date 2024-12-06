@@ -6502,7 +6502,7 @@ objects, as histories, fables, and contemplations of nature.</q> <note type="sou
 </div2>
 
 <div2 type="section" n="2">
-<head type="header"><persName key="CHARLES BRANDON" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real" xml:id="CharlesBrandon">CHARLES BRANDON</persName>, AND <persName key="MARY QUEEN OF FRANCE" cert="high" ref="https://dbpedia.org/resource/Mary_I_of_England" type="real">MARY QUEEN OF FRANCE</persName>. </head>
+<head type="header"><persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real" xml:id="CharlesBrandon">CHARLES BRANDON</persName>, AND <persName key="MARY QUEEN OF FRANCE" cert="high" ref="https://dbpedia.org/resource/Mary_I_of_England" type="real">MARY QUEEN OF FRANCE</persName>. </head>
 
 <p>The fortune of <persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">Charles Brandon</persName> was remarkable. He was an  
 honest man, yet the favourite of a despot. He was brave, handsome,  
@@ -6512,7 +6512,7 @@ being beloved by the despot's sister, without having the least claim
 to it by birth; and yet instead of <choice><orig>it's</orig><reg>its</reg></choice> destroying them both, he was  
 allowed to be her husband. </p>
 
-<p><persName key="Charles Brandon, 1st Duke of Suffolk">Charles Brandon</persName> was the son of <persName key="Sir William Brandon" cert="high" ref="https://dbpedia.org/resource/William_Brandon_(standard-bearer)" type="real" xml:id="SirWilliam">Sir William Brandon</persName>, whose skull  
+<p><persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">Charles Brandon</persName> was the son of <persName key="Sir William Brandon" cert="high" ref="https://dbpedia.org/resource/William_Brandon_(standard-bearer)" type="real" xml:id="SirWilliam">Sir William Brandon</persName>, whose skull  
 was cleaved at <placeName type="region" key="Bosworth Field site" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q55876564">Bosworth</placeName> by <persName key="Richard the Third" cert="high" ref="https://dbpedia.org/resource/Richard_III_of_England" type="real" xml:id="richardIII">Richard the Third</persName>, while bearing the  
 standard of the <persName key="Duke of Richmond" cert="high" ref="https://dbpedia.org/resource/Henry_VII_of_England" type="real" xml:id="HenryVII">Duke of Richmond</persName>. <persName key="Richard the Third" cert="high" ref="#richardIII" type="real">Richard</persName> dashed at the standard,  
 and appears to have been thrown from his horse by <persName key="Sir William Brandon" cert="high" ref="#SirWilliam" type="real">Sir William</persName>,  
@@ -6524,7 +6524,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 <l>Who marries <persName key="Elizabeth of York" ref="https://dbpedia.org/resource/Elizabeth_of_York" cert="high" type="real" xml:id="ElizabethYork">Richmond's daughter</persName>, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
 <note type="source"><bibl><author>Sir John Beaumont</author> <title level="m">Bosworth Field</title>.</bibl></note></cit> 
-<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" generatedBy="human" level="a" xml:space="default" key="Bosworth Field" type="region" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title></p>
+<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" level="a" key="Bosworth Field" type="region" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title></p>
 
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
@@ -6566,7 +6566,7 @@ conquering knight was; — an ignorance not very probable; but the
 knights sometimes disguised themselves purposely. </p>
 
 <p><persName key="King Louis XII" cert="high" ref="#LouisXII" type="real">The old king</persName> did not long survive his festivities. He died in less  
-than three months, on the first day of the year 1515 ; and <persName key="Charles Brandon, 1st Duke of Suffolk">Brandon</persName>,  
+than three months, on the first day of the year 1515 ; and <persName key="Charles Brandon, 1st Duke of Suffolk" type="real" ref="#CharlesBrandon">Brandon</persName>,  
 who had been created Duke of Suffolk the year before, re-appeared  
 at the French court, with letters of condolence, and more persuasive  
 looks. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">The royal widow</persName> was young, beautiful, and rich; and it was  
@@ -6587,10 +6587,10 @@ England</title>) thought that to cast too many doubts </p>
 <l>Then kisses revelled on their lips, </l>
 <l rend="indent">To either's equal good. </l></lg>
 </quote>
-<note cert="high" evaluate="all" generatedBy="human" place="top" type="source" xml:space="default"><bibl><author cert="low">William Warner</author><title level="m" cert="low">Albion's England</title></bibl></note>
+<note type="source"><bibl><author cert="low">William Warner</author><title level="m" cert="low">Albion's England</title></bibl></note>
 </cit>
 
-<p><persName key="King Henry VIII" ref="#HenryVIII" type="real">Henry</persName> shewed great anger at first, real or pretended; but he had  
+<p><persName key="King Henry VIII" ref="#HenryVIII" type="real">Henry</persName> <choice><orig>shewed</orig><reg>showed</reg></choice> great anger at first, real or pretended; but he had  
 not then been pampered into unbearable self-will by a long reign of  
 
 <pb n="37"/>
@@ -6621,7 +6621,7 @@ ran thus : — </p>
 <lg><l>Cloth of gold, do not despise, </l>
 <l>Though thou art match'd with cloth of frize. </l></lg>
 </quote>
-<note cert="high" evaluate="all" generatedBy="human" place="top" type="source" xml:space="default"><bibl><author>Edwin Caskoden</author><title level="m">When Knighthood was in Flower</title><ref target="https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"/></bibl></note>
+<note type="source"><bibl><author>Edwin Caskoden</author><title level="m">When Knighthood was in Flower</title><ref target="https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"/></bibl></note>
 </cit>
 
 <p>It is this beautiful piece of sentiment which puts a heart into his  
@@ -6631,7 +6631,7 @@ history, and makes it worthy remembering. </p>
 <head type="header">ON THE HOUSEHOLD GODS OF THE ANCIENTS.</head>
 
 <p>The Ancients had three kinds of household Gods, — the Daimon  
-(Daemon) or Genius, the Penates, and the Lares. The first was  
+(Daemon) or Genius, the <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName>, and the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>. The first was  
 supposed to be a spirit allotted to every man from his birth, some say  
 with a companion; and that one of them was a suggester of good  
 thoughts, and the other of evil. It seems, however, that the Genius;  
@@ -6661,7 +6661,7 @@ most comprehensive though not most poetical stanzas, as </p>
 <note type="source"><bibl><title>Faerie Queene</title>, <biblScope>Book 2, St. 47</biblScope>.</bibl></note></cit>
 
 <p>Of the belief in an Evil Genius, a celebrated example is furnished  
-in <persName key="Plutarch" cert="high" ref="http://dbpedia.org/resource/Plutarch" type="real">Plutarch</persName>'s account of <persName key="Marcus Junius Brutus" cert="medium" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus" type="real">Brutus</persName>'s vision, of which <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName> has  
+in <persName key="Plutarch" cert="high" ref="http://dbpedia.org/resource/Plutarch" type="real">Plutarch</persName>'s account of <persName key="Marcus Junius Brutus" cert="medium" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus" type="real">Brutus</persName>'s vision, of which <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName> has  
 given so fine a version<note type="hunt">(Julius Caesar, Act 4, Sc. 3.)</note>.  Beliefs of this  
 
 <pb n="38"/>
@@ -6704,11 +6704,11 @@ he could rescue her from her dreadful expectant. He armed himself,
 waited in the temple, and the Genius appeared. It was said  
 to have been of an appalling presence. <choice><orig>it's</orig><reg>its</reg></choice> shape was every way  
 formidable, <choice><orig>it's</orig><reg>its</reg></choice> colour of an intense black; and it was girded about  
-with a wolf-skin. But <persName key="Euthymus">Euthymus</persName> fought and conquered it; upon  
+with a wolf-skin. But <persName key="Euphemus" ref="http://dbpedia.org/resource/Euphemus" type="fictional">Euthymus</persName> fought and conquered it; upon  
 which it fled madly, not only beyond the walls, but the utmost  
-bounds of <placeName type="city" key="Temesa" corresp="Italy">Temesa</placeName>, and rushed into the sea. </p>
+bounds of <placeName type="city" key="Temesa" corresp="Italy" ref="http://www.wikidata.org/entity/Q3983093">Temesa</placeName>, and rushed into the sea. </p>
 
-<p>The Penates were Gods of the house and family. Collectively  
+<p>The <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName> were Gods of the house and family. Collectively  
 speaking, they also presided over cities, public roads, aad at last over  
 all places with which men were conversant. Their chief government  
 however was supposed to be over the most inner and secret part  
@@ -6720,7 +6720,7 @@ They were the personification of a particular Providence. The
 
 <pb n="39"/>
 
-most striking mention of the Penates which we can call to mind is  
+most striking mention of the <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName> which we can call to mind is  
 in one of <persName key="Virgil" cert="high" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>'s most poetical passages. It is where they appear  
 to <persName key="Aeneas" ref="http://dbpedia.org/resource/Aeneas" cert="high" type="fictional">Æneas</persName>, to warn him from <placeName type="region" key="Crete" corresp="Greece" cert="high" ref="http://www.wikidata.org/entity/Q34374">Crete</placeName>, and announce his destined  
 empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref="http://www.wikidata.org/entity/Q38">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
@@ -6739,7 +6739,7 @@ empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref=
 <lg xml:lang="en" type="hunt-translation"><l>'Twas night; and sleep was on all living things.</l>  
 <l>I lay, and saw before my very eyes</l>  
 <l>Dread shapes of gods, and Phrygian deities,</l>  
-<l>The great Penates; whom with reverent joy</l>  
+<l>The great <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName>; whom with reverent joy</l>  
 <l>I bore from out the heart of burning <placeName type="city" key="Troy" corresp="Turkey" cert="high" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>.</l>  
 <l>Plainly I saw there, standing in the light</l>  
 <l>Which the moon poured into the room that night.</l></lg>
@@ -6758,11 +6758,11 @@ empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref=
 <l>Their hooded hair; and felt them so before </l> 
 <l>My being, that I burst at every pore. </l></lg>
 
-<p>The Lares or Lars, were the lesser and most familiar household 
+<p>The <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName> or Lars, were the lesser and most familiar household 
 gods; and though their offices were afterwards extended a good deal,  
-in the same way as those of the Penates, with whom they are often  
+in the same way as those of the <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName>, with whom they are often  
 wrongly confounded, their principal sphere was the fire-place. This  
-was in the middle of the room; and the statues of the Lares generally  
+was in the middle of the room; and the statues of the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName> generally  
 stood about it in little niches. They are said to have been in the  
 shape of monkies; more likely mannikins, or rude little human  
 images. Some were made of wax, some of stone, and others doubtless  
@@ -6772,7 +6772,7 @@ dogs at their feet. Some writers make them the offspring of the
 goddess <persName key="Mania (deity)" cert="high" ref="http://dbpedia.org/resource/Mania_(deity)" type="fictional">Mania</persName>, who presided over the spirits of the dead; and  
 suppose that originally they were the same as those spirits; which is a  
 very probable as well as agreeable superstition, the old nations of  
-<placeName type="country" key="Italy" corresp="Italy">Italy</placeName> having been accustomed to bury their dead in their houses.  
+<placeName type="country" key="Italy" corresp="Italy" cert="high" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> having been accustomed to bury their dead in their houses.  
 Upon this supposition, the good or benevolent spirits were called  
 Familiar <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>, and the evil or malignant ones Larvæ and Lemures.  
 Thus <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, in his awful Hymn on the Nativity : — </p>
@@ -6796,7 +6796,7 @@ told <persName key="Juno" cert="high" ref="https://dbpedia.org/resource/Juno_(my
 <pb n="40"/>
 
 by him, and courted by <persName key="Mercury" cert="high" ref="https://dbpedia.org/resource/Mercury_(mythology)" type="fictional">Mercury</persName> on the road ; the consequence of  
-which was the birth of the Lares. This seems to have a natural  
+which was the birth of the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>. This seems to have a natural  
 reference enough to the gossiping over fire-places. </p>
 
 <p>It is impossible not to be struck with the resemblance between  
@@ -6811,13 +6811,13 @@ that the name was also given to houses. </p>
 to the reader, and who was visited perhaps more than any poet that  
 ever lived with a sense of the pleasantest parts of the cheerful  
 mythology of the ancients, has written some of his lively little odes upon  
-the Lares. We have not them by us at this moment, but we remember  
+the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>. We have not them by us at this moment, but we remember  
 one beginning, — </p>
 
 <cit>
     <quote>
 <lg><l>It was, and still my care is, </l>
-<l>To worship you, the Lares. </l></lg>
+<l>To worship you, the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>. </l></lg>
     </quote>
     <note type="source"> 
         <bibl><author>Robert Herrick</author><title level="a">A Hymn to the Lares</title><ref target="https://www.luminarium.org/sevenlit/herrick/lares.htm"/></bibl>
@@ -6837,7 +6837,7 @@ of the name of <persName key="Erotion">Erotion</persName>. </p>
 <l>Sic Lare perpetuo, sic turba sospite, solus </l>
 <l>Flebilis in terra sit lapis iste tua, </l></lg>
 </quote>
-<note cert="high" evaluate="all" generatedBy="human" place="top" type="source" xml:space="default"><bibl><author>Marcus Valerius Martialis</author><title>Liber X LXI</title><ref target="http://www.thelatinlibrary.com/martial/mart10.shtml"/></bibl></note>
+<note type="source"><bibl><author>Marcus Valerius Martialis</author><title>Liber X LXI</title><ref target="http://www.thelatinlibrary.com/martial/mart10.shtml"/></bibl></note>
 </cit>
 
 </div2>
@@ -6873,8 +6873,8 @@ of the name of <persName key="Erotion">Erotion</persName>. </p>
     be of little consequence with a work not containing any thing of merely temporary interest.</p> 
                 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. -Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. -Price Twopence.</p>
+                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>
