@@ -5084,7 +5084,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?place_annotation_20241206172411307",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T22:24:11.307Z",
-	"dcterms:modified": "2024-12-06T22:24:11.307Z",
+	"dcterms:modified": "2024-12-06T22:24:29.997Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5115,7 +5115,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q22647",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5123,7 +5125,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5523,7 +5526,7 @@ empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref=
 <l>I lay, and saw before my very eyes</l>  
 <l>Dread shapes of gods, and Phrygian deities,</l>  
 <l>The great Penates; whom with reverent joy</l>  
-<l>I bore from out the heart of burning <placeName type="city" key="Troy" corresp="Turkey">Troy</placeName>.</l>  
+<l>I bore from out the heart of burning <placeName type="city" key="Troy" corresp="Turkey" cert="high" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>.</l>  
 <l>Plainly I saw there, standing in the light</l>  
 <l>Which the moon poured into the room that night.</l></lg>
 
