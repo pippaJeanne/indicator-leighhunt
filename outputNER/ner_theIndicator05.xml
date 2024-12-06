@@ -2599,7 +2599,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206160848326",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T21:08:48.326Z",
-	"dcterms:modified": "2024-12-06T21:08:48.326Z",
+	"dcterms:modified": "2024-12-06T21:09:23.680Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2630,7 +2630,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Tithonus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2638,7 +2643,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2846,7 +2852,7 @@ exploits of <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref
 <persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">Charles Brandon</persName> that time were long remembered. The love between  
 him and <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">the young queen</persName> was suspected by the French courts  
 and he had just seen her enter <placeName type="city" key="Paris" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q90">Paris</placeName> in the midst of a gorgeous  
-procession, like <persName key="Aurora" cert="high" ref="https://dbpedia.org/resource/Aurora_(mythology)" type="fictional">Aurora</persName> come to marry <persName key="Tithonus">Tithonus</persName>. He dealt his  
+procession, like <persName key="Aurora" cert="high" ref="https://dbpedia.org/resource/Aurora_(mythology)" type="fictional">Aurora</persName> come to marry <persName key="Tithonus" cert="high" ref="http://dbpedia.org/resource/Tithonus" type="fictional">Tithonus</persName>. He dealt his  
 chivalry about him accordingly with such irresistible vigour, that  
 the Dauphin, in a fit of jealousy, secretly introduced into the contest  
 a huge German, who was thought to be of a strength incomparable.  
