@@ -5819,7 +5819,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator05.xml?person_annotation_20241206174305219",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-06T22:43:05.219Z",
-	"dcterms:modified": "2024-12-06T22:43:05.219Z",
+	"dcterms:modified": "2024-12-06T22:44:41.842Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5850,7 +5850,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Horace",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6320,7 +6322,7 @@ reference enough to the gossiping over fire-places. </p>
 <p>It is impossible not to be struck with the resemblance between  
 these lesser household gods and some of the offices of our old English  
 elves and fairies. But of them, more by and by. <persName key="André Dacier" cert="medium" ref="http://dbpedia.org/resource/André_Dacier" type="real">Dacier</persName>, in a note  
-upon <persName key="Horace">Horace</persName> <note type="hunt">(Book 1, Od. 12.)</note> informs us, that in some parts of  
+upon <persName key="Horace" ref="https://dbpedia.org/resource/Horace">Horace</persName> <note type="hunt">(Book 1, Od. 12.)</note> informs us, that in some parts of  
 <placeName type="region" key="Languedoc" corresp="France">Languedoc</placeName>, in his time, the fire-place was still called the Lar; and  
 that the name was also given to houses. </p>
 
