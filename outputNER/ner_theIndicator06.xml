@@ -3029,7 +3029,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213003150145",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T05:31:50.145Z",
-	"dcterms:modified": "2024-12-13T05:31:50.145Z",
+	"dcterms:modified": "2024-12-13T05:34:41.794Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3060,7 +3060,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/page/Fulke_Greville,_1st_Baron_Brooke",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3068,7 +3070,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -3227,7 +3230,7 @@ Thus have we a link of <q type="soCalled">beamy hands</q> from our own times up 
 or common friendships; but of those we shall give an  
 account by and by. It may be mentioned however, in order not to  
 omit <persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, that <persName key="Sir William Davenant">Davenant</persName> resided some time in the family of  
-<persName key="Sir Fulke Greville, Lord Brooke">Sir Fulke Greville Lord Brooke</persName>, the Friend of <persName key="Sir Philip Sidney" cert="high" ref="#sydney" type="real">Sir Philip Sydney</persName>.  
+<persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="https://dbpedia.org/page/Fulke_Greville,_1st_Baron_Brooke" type="real">Sir Fulke Greville Lord Brooke</persName>, the Friend of <persName key="Sir Philip Sidney" cert="high" ref="#sydney" type="real">Sir Philip Sydney</persName>.  
 <persName key="Edmund Spenser">Spenser</persName>'s intimacy with <persName key="Sir Philip Sidney">Sydney</persName> is mentioned by himself, in a letter,  
 still extant, to <persName key="Gabriel Harvey">Gabriel Harvey</persName>. </p>
 
