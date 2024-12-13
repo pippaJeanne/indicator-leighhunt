@@ -3747,7 +3747,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?place_annotation_20241213005340771",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T05:53:40.771Z",
-	"dcterms:modified": "2024-12-13T05:53:40.771Z",
+	"dcterms:modified": "2024-12-13T05:53:59.560Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3778,7 +3778,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2166146",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3786,7 +3788,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -3891,7 +3894,7 @@ him, and ready to go out. What was intended, and whither they
 were to go. <persName key="Richard Savage">Savage</persName> could not conjecture, and was not willing to  
 enquire; but immediately seated himself with <persName key="Sir Richard Steele">Sir Richard</persName>. The  
 coachman was ordered to drive, and they hurried with the utmost  
-expedition to <placeName type="landmark" key="Hyde-Park Corner" corresp="England">Hyde-Park Corner</placeName>, where they stopped at a petty  
+expedition to <placeName type="landmark" key="Hyde Park Corner" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2166146">Hyde-Park Corner</placeName>, where they stopped at a petty  
 tavern, and retired to a private room. <persName key="Sir Richard Steele">Sir Richard</persName> then informed  
 him that he intended to publish a pamphlet, and that he had desired  
 him to come thither that he might write for him. They soon sat  
