@@ -1474,6 +1474,86 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?organization_annotation_20241212235045781",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-13T04:50:45.781Z",
+	"dcterms:modified": "2024-12-13T04:50:45.781Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?organization_annotation_20241212235045781#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?organization_annotation_20241212235045781#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "https://dbpedia.org/resource/Commonwealth_of_England",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -1531,7 +1611,7 @@ was intimate with <persName key="William Congreve" cert="high" ref="http://dbped
 is said to have visited <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
 <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>; and to have been saved by him from the revenge of the  
 restored court, in return for having saved <persName key="Sir William Davenant">Davenant</persName> from the revenge  
-of the Commonwealth. But if the link between <persName key="John Dryden">Dryden</persName> and <persName key="Milton">Milton</persName>,  
+of the <orgName key="Commonwealth of England" ref="https://dbpedia.org/resource/Commonwealth_of_England" cert="medium">Commonwealth</orgName>. But if the link between <persName key="John Dryden">Dryden</persName> and <persName key="Milton">Milton</persName>,  
 and <persName key="Milton">Milton</persName> and <persName key="Sir William Davenant">Davenant</persName> is somewhat apocryphal, or rather dependent  
 on tradition (for <persName key="Richardson">Richardson</persName> the painter tells us the latter from  
 <persName key="Alexander Pope">Pope</persName>, who had it from <persName key="Betterton">Betterton</persName> the actor, one of <persName key="Sir William Davenant">Davenant</persName>'s  
