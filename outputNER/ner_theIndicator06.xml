@@ -1189,7 +1189,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212233529725",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T04:35:29.725Z",
-	"dcterms:modified": "2024-12-13T04:36:28.450Z",
+	"dcterms:modified": "2024-12-13T05:40:33.417Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3269,7 +3269,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213003925892",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T05:39:25.892Z",
-	"dcterms:modified": "2024-12-13T05:39:25.892Z",
+	"dcterms:modified": "2024-12-13T05:40:58.208Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3300,7 +3300,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#steele",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3363,7 +3365,7 @@ and of <persName type="fictional" key="Desdemona" cert="high" ref="https://dbped
 
 <p>With some living poets, it is certain. There is <persName key="Thomas Moore" cert="high" ref="https://dbpedia.org/resource/Thomas_Moore" type="real">Thomas Moore</persName>,  
 for instance, who knew <persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real">Johnson</persName>, who  
-was the friend of <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real" xml:id="savage">Savage</persName>, who knew <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real">Steele</persName>, who knew <persName key="Alexander Pope">Pope</persName>. <persName key="Alexander Pope">Pope</persName>  
+was the friend of <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real" xml:id="savage">Savage</persName>, who knew <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real" xml:id="steele">Steele</persName>, who knew <persName key="Alexander Pope">Pope</persName>. <persName key="Alexander Pope">Pope</persName>  
 was intimate with <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName>, and <persName key="Congreve">Congreve</persName> with <persName key="John Dryden">Dryden</persName>. <persName key="John Dryden">Dryden</persName>  
 is said to have visited <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
 <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>; and to have been saved by him from the revenge of the  
@@ -3405,7 +3407,7 @@ fear of offending him by offering a share of his own- But we
 do not- remember how this circumstance is related by <persName key="James Boswell">Boswell</persName>. </p>
 
 <p><persName key="Richard Savage">Savage</persName>'s intimacy with <persName key="Sir Richard Steele">Steele</persName> is recorded in a pleasant anecdote,  
-which he told <persName key="Samuel Johnson" cert="high">Johnson</persName>. <persName key="Sir Richard Steele">Sir Richard</persName> once desired him, <q type="written">with an  
+which he told <persName key="Samuel Johnson" cert="high">Johnson</persName>. <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> once desired him, <q type="written">with an  
 air of the utmost importance,</q> says <persName key="Samuel Johnson">his biographer</persName>, <q type="written">to come very  
 early to his house the next morning. <persName key="Richard Savage" cert="high" ref="#savage" type="real">Mr. Savage</persName> came as he had  
 promised, found the chariot at the door, and <persName key="Sir Richard Steele">Sir Richard</persName> waiting for  
