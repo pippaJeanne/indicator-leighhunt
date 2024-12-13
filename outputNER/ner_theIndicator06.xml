@@ -540,7 +540,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212231547021",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T04:15:47.021Z",
-	"dcterms:modified": "2024-12-13T04:15:47.021Z",
+	"dcterms:modified": "2024-12-13T04:16:01.706Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -571,7 +571,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/John_Dryden",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -579,7 +581,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -626,7 +629,7 @@ recording with fondness his intimacy with <persName key="Propertius" cert="high"
 regrets that he had only seen <persName key="Virgil" cert="high" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>. <note type="hunt">(<bibl><title cert="high" generatedBy="human" key="Tristia" level="m" xml:space="default" ref="https://www.google.com/search?q=tristia+by+ovid">Trist.</title> <biblScope>Book 4. v. 51.</biblScope></bibl>)</note> But  
 still he thinks the sight of him worth remembering. And <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>, when  
 a child, prevailed on some friends to take him to a coffee house which  
-<persName key="John Dryden">Dryden</persName> frequented, merely to look at him; which he did, to his  
+<persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> frequented, merely to look at him; which he did, to his  
 great satisfaction. Now such of us as have shaken hands with a  
 living poet, might be able perhaps to reckon up a series of connecting  
 shakes to the very hand that wrote of <persName type="fictional" key="Hamlet">Hamlet</persName>, and of <persName type="fictional" key="Sir John Falstaff">Falstaff</persName>,  
