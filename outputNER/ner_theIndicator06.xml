@@ -1429,7 +1429,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212233910931",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T04:39:10.931Z",
-	"dcterms:modified": "2024-12-13T04:39:10.931Z",
+	"dcterms:modified": "2024-12-13T04:40:18.511Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1460,7 +1460,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/William_Davenant",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1468,7 +1470,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1526,7 +1529,7 @@ for instance, who knew <persName key="Richard Brinsley Sheridan" cert="high" ref
 was the friend of <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName>, who knew <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real">Steele</persName>, who knew <persName key="Alexander Pope">Pope</persName>. <persName key="Alexander Pope">Pope</persName>  
 was intimate with <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName>, and <persName key="Congreve">Congreve</persName> with <persName key="John Dryden">Dryden</persName>. <persName key="John Dryden">Dryden</persName>  
 is said to have visited <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
-<persName key="Sir William Davenant">Davenant</persName>; and to have been saved by him from the revenge of the  
+<persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>; and to have been saved by him from the revenge of the  
 restored court, in return for having saved <persName key="Sir William Davenant">Davenant</persName> from the revenge  
 of the Commonwealth. But if the link between <persName key="John Dryden">Dryden</persName> and <persName key="Milton">Milton</persName>,  
 and <persName key="Milton">Milton</persName> and <persName key="Sir William Davenant">Davenant</persName> is somewhat apocryphal, or rather dependent  
