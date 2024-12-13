@@ -949,7 +949,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212232735277",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T04:27:35.277Z",
-	"dcterms:modified": "2024-12-13T04:27:35.277Z",
+	"dcterms:modified": "2024-12-13T04:31:14.957Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -980,6 +980,86 @@
 		}
 	},
 	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Richard_Brinsley_Sheridan",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212233134347",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-13T04:31:34.347Z",
+	"dcterms:modified": "2024-12-13T04:31:34.347Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212233134347#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212233134347#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/persName[4]"
+		}
+	},
+	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
@@ -988,7 +1068,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:low"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1042,7 +1123,7 @@ shakes to the very hand that wrote of <persName key="Hamlet" ref="https://dbpedi
 and of <persName type="fictional" key="Desdemona" cert="high" ref="https://dbpedia.org/resource/Desdemona">Desdemona</persName>. </p>
 
 <p>With some living poets, it is certain. There is <persName key="Thomas Moore" cert="high" ref="https://dbpedia.org/resource/Thomas_Moore" type="real">Thomas Moore</persName>,  
-for instance, who knew <persName key="Sheridan">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="Samuel Johnson" cert="low">Johnson</persName>, who  
+for instance, who knew <persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="Samuel Johnson" cert="low">Johnson</persName>, who  
 was the friend of <persName key="Richard Savage">Savage</persName>, who knew <persName key="Sir Richard Steele">Steele</persName>, who knew <persName key="Alexander Pope">Pope</persName>. <persName key="Alexander Pope">Pope</persName>  
 was intimate with <persName key="Congreve">Congreve</persName>, and <persName key="Congreve">Congreve</persName> with <persName key="John Dryden">Dryden</persName>. <persName key="John Dryden">Dryden</persName>  
 is said to have visited <persName key="Milton">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
