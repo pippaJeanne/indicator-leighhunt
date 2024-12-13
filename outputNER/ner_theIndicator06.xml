@@ -3987,7 +3987,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?title_annotation_20241213005934680",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T05:59:34.680Z",
-	"dcterms:modified": "2024-12-13T05:59:34.680Z",
+	"dcterms:modified": "2024-12-13T06:01:42.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4018,7 +4018,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/resource/Iliad",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4161,7 +4163,7 @@ pamphlet only to discharge his reckoning.</q><note type="source"><bibl><author>S
 time. <persName key="Samuel Johnson" cert="low">Johnson</persName> supposes that it was his friendly interference, which  
 attempted to bring <persName key="Alexander Pope">Pope</persName> and <persName key="Joseph Addison" cert="high" ref="http://dbpedia.org/resource/Joseph_Addison" type="real">Addison</persName> together after a jealous separation.  
 <persName key="Alexander Pope">Pope</persName>'s friendship with <persName key="Congreve">Congreve</persName> appears also in his letters.  
-He also dedicated the <title level="m">Iliad</title> to him, over the heads of peers and  
+He also dedicated the <title level="m" ref="https://dbpedia.org/resource/Iliad">Iliad</title> to him, over the heads of peers and  
 patrons. <persName key="Congreve">Congreve</persName>, whose conversation most likely partook of the  
 elegance and wit of his writings, and whose manners appear to have  
 rendered him an universal favourite, had the honour in his youth of  
