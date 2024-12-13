@@ -2629,7 +2629,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213002426791",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T05:24:26.791Z",
-	"dcterms:modified": "2024-12-13T05:26:21.699Z",
+	"dcterms:modified": "2024-12-13T05:31:45.938Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2994,6 +2994,83 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213003150145",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-13T05:31:50.145Z",
+	"dcterms:modified": "2024-12-13T05:31:50.145Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213003150145#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241213003150145#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -3059,7 +3136,7 @@ company), it may be carried at once from <persName key="John Dryden">Dryden</per
 whom he was unquestionably intimate. <persName key="Sir William Davenant">Davenant</persName> then knew <persName key="Thomas Hobbes" cert="high" ref="http://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName>,  
 who knew <persName key="Francis Bacon" cert="high" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Bacon</persName>, who knew <persName key="Ben Jonson" cert="high" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName>, who was intimate with  
 <persName key="Francis Beaumont" cert="high" ref="http://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="John Fletcher" cert="high" ref="https://dbpedia.org/resource/John_Fletcher_(playwright)" type="real">Fletcher</persName>, <persName key="George Chapman" cert="high" ref="https://dbpedia.org/resource/George_Chapman" type="real">Chapman</persName>, <persName key="John Donne" cert="high" ref="http://dbpedia.org/resource/John_Donne" type="real">Donne</persName>, <persName key="Michael Drayton" cert="high" ref="http://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>, <persName key="William Camden" cert="high" ref="http://dbpedia.org/resource/William_Camden" type="real">Camden</persName>, <persName key="John Selden" cert="high" ref="http://dbpedia.org/resource/John_Selden" type="real">Selden</persName>.  
-<persName key="Edward Hyde, 1st Earl of Clarendon" cert="high" ref="https://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon" type="real">Clarendon</persName>, <persName key="Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sydney</persName>, <persName key="Walter Raleigh" cert="high" ref="http://dbpedia.org/resource/Walter_Raleigh" type="real">Raleigh</persName>, and perhaps all the great men of  
+<persName key="Edward Hyde, 1st Earl of Clarendon" cert="high" ref="https://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon" type="real">Clarendon</persName>, <persName key="Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real" xml:id="sidney">Sydney</persName>, <persName key="Walter Raleigh" cert="high" ref="http://dbpedia.org/resource/Walter_Raleigh" type="real">Raleigh</persName>, and perhaps all the great men of  
 <persName key="Elizabeth I" cert="high" ref="https://dbpedia.org/page/Elizabeth_I" type="real">Elizabeth</persName>'s and <persName key="James VI and I" cert="high" ref="https://dbpedia.org/resource/James_VI_and_I" type="real">James</persName>'s time, the greatest of them all undoubtedly.  
 Thus have we a link of <q type="soCalled">beamy hands</q> from our own times up to  
 <persName key="William Shakespeare">Shakspeare</persName>. </p>
