@@ -786,7 +786,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241212232235171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-13T04:22:35.171Z",
-	"dcterms:modified": "2024-12-13T04:22:35.171Z",
+	"dcterms:modified": "2024-12-13T04:24:19.083Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -820,7 +820,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Desdemona",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -828,7 +830,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -879,7 +882,7 @@ a child, prevailed on some friends to take him to a coffee house which
 great satisfaction. Now such of us as have shaken hands with a  
 living poet, might be able perhaps to reckon up a series of connecting  
 shakes to the very hand that wrote of <persName key="Hamlet" ref="https://dbpedia.org/resource/Prince_Hamlet" cert="high" type="fictional">Hamlet</persName>, and of <persName type="fictional" key="John Falstaff" cert="high" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName>,  
-and of <persName type="fictional" key="Desdemona">Desdemona</persName>. </p>
+and of <persName type="fictional" key="Desdemona" cert="high" ref="https://dbpedia.org/resource/Desdemona">Desdemona</persName>. </p>
 
 <p>With some living poets, it is certain. There is <persName key="Thomas Moore">Thomas Moore</persName>,  
 for instance, who knew <persName key="Sheridan">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="Samuel Johnson" cert="low">Johnson</persName>, who  
