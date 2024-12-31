@@ -4329,7 +4329,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222643209",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:26:43.209Z",
-	"dcterms:modified": "2024-12-31T03:26:43.209Z",
+	"dcterms:modified": "2024-12-31T03:27:51.695Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4357,6 +4357,86 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222643209#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/persName[12]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Thomas_Hobbes",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-31T03:27:59.039Z",
+	"dcterms:modified": "2024-12-31T03:27:59.039Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -4535,7 +4615,7 @@ Be the connection, however, of <persName key="John Dryden">Dryden</persName> wit
 with <persName key="Sir William Davenant">Davenant</persName> as it may, <persName key="John Dryden">Dryden</persName> wrote the alteration of <persName key="William Shakespeare">Shakspeare</persName>'s  
 <title level="m" key="Tempest" ref="https://dbpedia.org/resource/The_Tempest">Tempest</title>, as it is now perpetrated, in conjunction with <persName key="Sir William Davenant">Davenant</persName>.  
 They were great hands, but they should not have touched the pure  
-grandeur of <persName key="William Shakespeare">Shakspeare</persName>. The intimacy of <persName key="Sir William Davenant">Davenant</persName> with <persName key="Hobbes">Hobbes</persName> is  
+grandeur of <persName key="William Shakespeare">Shakspeare</persName>. The intimacy of <persName key="Sir William Davenant">Davenant</persName> with <persName key="Thomas Hobbes" cert="high" ref="https://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName> is  
 to be seen by their correspondence prefixed to <persName key="Gondibert">Gondibert</persName>. <persName key="Hobbes">Hobbes</persName>  
 was at one time secretary to <persName key="Francis Bacon">Lord Bacon</persName>, a singularly illustrious  
 instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had  
