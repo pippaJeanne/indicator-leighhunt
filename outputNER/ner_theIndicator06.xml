@@ -6456,6 +6456,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241231011615925",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-31T06:16:15.925Z",
+	"dcterms:modified": "2024-12-31T06:16:15.925Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241231011615925#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241231011615925#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[4]/p/persName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/page/Giambologna",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -6884,8 +6963,7 @@ spirit of the original. The figures are from slight and hasty moulds;
 feeble abridgments,— yet not without their worth either, as resembling  
 the originals, however faintly. There is the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Venus de Medici" xml:space="default" ref="https://dbpedia.org/page/Venus_de'_Medici" type="sculpture">Venus de Medici</objectName>,  
 the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Gladiator Mosaic" xml:space="default" ref="https://dbpedia.org/resource/Gladiator_Mosaic" type="mosaic">Gladiator</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Quoit Player in Repose" ref="https://www.si.edu/es/object/quoit-player-repose-sculpture%3Asiris_ari_16025" type="sculpture">Quoit-Player</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Antinous Mondragone" ref="https://dbpedia.org/resource/Antinous_Mondragone" type="sculpture">Antinous</objectName>, the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Piping Faun" ref="https://www.nationaltrustcollections.org.uk/object/1180992" type="sculpture">Piping Faun</objectName>, the  
-Apollo Belvedere, all after the antique; and there is a Couching  
-Venus, after <persName key="John of Bologna">John of Bologna</persName>, the original of which must have been  
+Apollo Belvedere, all after the antique; and there is a <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Crouching Venus" xml:space="default" ref="https://dbpedia.org/page/Crouching_Venus" type="sculpture">Couching Venus</objectName>, after <persName key="John of Bologna" ref="https://dbpedia.org/page/Giambologna">John of Bologna</persName>, the original of which must have been  
 like <persName key="Venus">Venus</persName> re-appearing from the antique world. </p>
 
 <p>Fewer people are aware how cheaply these things are sold. The  
