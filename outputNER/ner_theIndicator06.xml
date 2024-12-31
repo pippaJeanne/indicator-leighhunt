@@ -6732,9 +6732,9 @@
                     
                     <p>It is a curious and pleasant thing to consider, that a link of personal  
 acquaintance can be traced up from the authors of our own  
-times to those of <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName>, and to <persName key="William Shakespeare">Shakspeare</persName> himself. <persName key="Ovid" cert="high" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, in  
+times to those of <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>, and to <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName> himself. <persName key="Ovid" cert="high" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, in  
 recording with fondness his intimacy with <persName key="Propertius" cert="high" ref="http://dbpedia.org/resource/Propertius" type="real">Propertius</persName> and <persName key="Horace" cert="high" ref="http://dbpedia.org/resource/Horace" type="real">Horace</persName>,  
-regrets that he had only seen <persName key="Virgil" cert="high" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>. <note type="hunt">(<bibl><title cert="high" generatedBy="human" key="Tristia" level="m" xml:space="default" ref="https://www.google.com/search?q=tristia+by+ovid">Trist.</title> <biblScope>Book 4. v. 51.</biblScope></bibl>)</note> But  
+regrets that he had only seen <persName key="Virgil" cert="high" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>. <note type="hunt">(<bibl><title cert="high"  key="Tristia" level="m"  ref="https://www.google.com/search?q=tristia+by+ovid">Trist.</title> <biblScope>Book 4. v. 51.</biblScope></bibl>)</note> But  
 still he thinks the sight of him worth remembering. And <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>, when  
 a child, prevailed on some friends to take him to a coffee house which  
 <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> frequented, merely to look at him; which he did, to his  
@@ -6744,94 +6744,94 @@ shakes to the very hand that wrote of <persName key="Hamlet" ref="https://dbpedi
 and of <persName type="fictional" key="Desdemona" cert="high" ref="https://dbpedia.org/resource/Desdemona">Desdemona</persName>. </p>
 
 <p>With some living poets, it is certain. There is <persName key="Thomas Moore" cert="high" ref="https://dbpedia.org/resource/Thomas_Moore" type="real">Thomas Moore</persName>,  
-for instance, who knew <persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName>. <persName key="Sheridan">Sheridan</persName> knew <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real" xml:id="johnson">Johnson</persName>, who  
-was the friend of <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real" xml:id="savage">Savage</persName>, who knew <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real" xml:id="steele">Steele</persName>, who knew <persName key="Alexander Pope">Pope</persName>. <persName key="Alexander Pope">Pope</persName>  
-was intimate with <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName>, and <persName key="Congreve">Congreve</persName> with <persName key="John Dryden">Dryden</persName>. <persName key="John Dryden">Dryden</persName>  
-is said to have visited <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. <persName key="Milton">Milton</persName> is said to have known  
+for instance, who knew <persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName>. <persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName> knew <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real" xml:id="johnson">Johnson</persName>, who  
+was the friend of <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real" xml:id="savage">Savage</persName>, who knew <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real" xml:id="steele">Steele</persName>, who knew <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>. <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>  
+was intimate with <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName>, and <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName> with <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName>. <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName>  
+is said to have visited <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName> is said to have known  
 <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>; and to have been saved by him from the revenge of the  
-restored court, in return for having saved <persName key="Sir William Davenant">Davenant</persName> from the revenge  
-of the <orgName key="Commonwealth of England" ref="https://dbpedia.org/resource/Commonwealth_of_England" cert="medium">Commonwealth</orgName>. But if the link between <persName key="John Dryden">Dryden</persName> and <persName key="Milton">Milton</persName>,  
-and <persName key="Milton">Milton</persName> and <persName key="Sir William Davenant">Davenant</persName> is somewhat apocryphal, or rather dependent  
+restored court, in return for having saved <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> from the revenge  
+of the <orgName key="Commonwealth of England" ref="https://dbpedia.org/resource/Commonwealth_of_England" cert="medium">Commonwealth</orgName>. But if the link between <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> and <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>,  
+and <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName> and <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> is somewhat apocryphal, or rather dependent  
 on tradition (for <persName key="Samuel Richardson" cert="high" ref="https://dbpedia.org/resource/Samuel_Richardson" type="real">Richardson</persName> the painter tells us the latter from  
-<persName key="Alexander Pope">Pope</persName>, who had it from <persName key="Thomas Betterton" cert="high" ref="https://dbpedia.org/resource/Thomas_Betterton" type="real">Betterton</persName> the actor, one of <persName key="Sir William Davenant">Davenant</persName>'s  
-company), it may be carried at once from <persName key="John Dryden">Dryden</persName> to <persName key="Sir William Davenant">Davenant</persName>, with  
-whom he was unquestionably intimate. <persName key="Sir William Davenant">Davenant</persName> then knew <persName key="Thomas Hobbes" cert="high" ref="http://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName>,  
+<persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>, who had it from <persName key="Thomas Betterton" cert="high" ref="https://dbpedia.org/resource/Thomas_Betterton" type="real">Betterton</persName> the actor, one of <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>'s  
+company), it may be carried at once from <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> to <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>, with  
+whom he was unquestionably intimate. <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> then knew <persName key="Thomas Hobbes" cert="high" ref="http://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName>,  
 who knew <persName key="Francis Bacon" cert="high" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Bacon</persName>, who knew <persName key="Ben Jonson" cert="high" ref="https://dbpedia.org/resource/Ben_Jonson" type="real" xml:id="jonson">Ben Jonson</persName>, who was intimate with  
 <persName key="Francis Beaumont" cert="high" ref="http://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> and <persName key="John Fletcher" cert="high" ref="https://dbpedia.org/resource/John_Fletcher_(playwright)" type="real">Fletcher</persName>, <persName key="George Chapman" cert="high" ref="https://dbpedia.org/resource/George_Chapman" type="real">Chapman</persName>, <persName key="John Donne" cert="high" ref="http://dbpedia.org/resource/John_Donne" type="real">Donne</persName>, <persName key="Michael Drayton" cert="high" ref="http://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>, <persName key="William Camden" cert="high" ref="http://dbpedia.org/resource/William_Camden" type="real">Camden</persName>, <persName key="John Selden" cert="high" ref="http://dbpedia.org/resource/John_Selden" type="real">Selden</persName>.  
-<persName key="Edward Hyde, 1st Earl of Clarendon" cert="high" ref="https://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon" type="real">Clarendon</persName>, <persName key="Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real" xml:id="sydney">Sydney</persName>, <persName key="Walter Raleigh" cert="high" ref="http://dbpedia.org/resource/Walter_Raleigh" type="real">Raleigh</persName>, and perhaps all the great men of  
+<persName key="Edward Hyde, 1st Earl of Clarendon" cert="high" ref="https://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon" type="real">Clarendon</persName>, <persName key="Sir Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real" xml:id="sydney">Sydney</persName>, <persName key="Walter Raleigh" cert="high" ref="http://dbpedia.org/resource/Walter_Raleigh" type="real">Raleigh</persName>, and perhaps all the great men of  
 <persName key="Elizabeth I" cert="high" ref="https://dbpedia.org/page/Elizabeth_I" type="real">Elizabeth</persName>'s and <persName key="James VI and I" cert="high" ref="https://dbpedia.org/resource/James_VI_and_I" type="real">James</persName>'s time, the greatest of them all undoubtedly.  
 Thus have we a link of <q type="soCalled">beamy hands</q> from our own times up to  
-<persName key="William Shakespeare">Shakspeare</persName>. </p>
+<persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>. </p>
 
 <pb n="42"/>
 
 <p>In this friendly genealogy we have omitted the numerous sidebranches,  
 or common friendships; but of those we shall give an  
 account by and by. It may be mentioned however, in order not to  
-omit <persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, that <persName key="Sir William Davenant">Davenant</persName> resided some time in the family of  
+omit <persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, that <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> resided some time in the family of  
 <persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="https://dbpedia.org/page/Fulke_Greville,_1st_Baron_Brooke" type="real">Sir Fulke Greville Lord Brooke</persName>, the Friend of <persName key="Sir Philip Sidney" cert="high" ref="#sydney" type="real">Sir Philip Sydney</persName>.  
-<persName key="Edmund Spenser">Spenser</persName>'s intimacy with <persName key="Sir Philip Sidney">Sydney</persName> is mentioned by himself, in a letter,  
+<persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>'s intimacy with <persName key="Sir Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sydney</persName> is mentioned by himself, in a letter,  
 still extant, to <persName key="Gabriel Harvey" cert="high" ref="https://dbpedia.org/resource/Gabriel_Harvey" type="real">Gabriel Harvey</persName>. </p>
 
 <p>We will now give the authorities for our intellectual pedigree.  
-<persName key="Sheridan">Sheridan</persName> is mentioned in <persName key="James Boswell" cert="high" ref="http://dbpedia.org/resource/James_Boswell" type="real">Boswell</persName> as being admitted to the  
-celebrated club, of which <persName key="Samuel Johnson" cert="low">Johnson</persName>, <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, and others were members.  
+<persName key="Richard Brinsley Sheridan" cert="high" ref="https://dbpedia.org/resource/Richard_Brinsley_Sheridan" type="real">Sheridan</persName> is mentioned in <persName key="James Boswell" cert="high" ref="http://dbpedia.org/resource/James_Boswell" type="real">Boswell</persName> as being admitted to the  
+celebrated club, of which <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real">Johnson</persName>, <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, and others were members.  
 He had then, if we remember, just written his <title level="a">School for Scandal</title>,  
-which made him the more welcome. Of <persName key="Samuel Johnson" cert="low">Johnson</persName>'s friendship with  
-<persName key="Richard Savage">Savage</persName> (we cannot help beginning the sentence with his favourite  
+which made him the more welcome. Of <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real">Johnson</persName>'s friendship with  
+<persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName> (we cannot help beginning the sentence with his favourite  
 leading preposition), the well-known Life is an interesting and  
 honourable record. It is said that in the commencement of their  
 friendship, they have sometimes wandered together about <placeName type="city" key="London" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q84">London</placeName> for  
-want of a lodging; — more likely, for <persName key="Richard Savage">Savage</persName>'s want of it, and <persName key="Samuel Johnson" cert="low">Johnson</persName>'s  
+want of a lodging; — more likely, for <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName>'s want of it, and <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real">Johnson</persName>'s  
 fear of offending him by offering a share of his own- But we  
-do not- remember how this circumstance is related by <persName key="James Boswell">Boswell</persName>. </p>
+do not- remember how this circumstance is related by <persName key="James Boswell" cert="high" ref="http://dbpedia.org/resource/James_Boswell" type="real">Boswell</persName>. </p>
 
-<p><persName key="Richard Savage">Savage</persName>'s intimacy with <persName key="Sir Richard Steele">Steele</persName> is recorded in a pleasant anecdote,  
+<p><persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName>'s intimacy with <persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real">Steele</persName> is recorded in a pleasant anecdote,  
 which he told <persName key="Samuel Johnson" cert="high">Johnson</persName>. <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> once desired him, <q type="written">with an  
 air of the utmost importance,</q> says <persName key="Samuel Johnson" ref="#johnson" type="real">his biographer</persName>, <q type="written">to come very  
 early to his house the next morning. <persName key="Richard Savage" cert="high" ref="#savage" type="real">Mr. Savage</persName> came as he had  
-promised, found the chariot at the door, and <persName key="Sir Richard Steele">Sir Richard</persName> waiting for  
+promised, found the chariot at the door, and <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> waiting for  
 him, and ready to go out. What was intended, and whither they  
-were to go. <persName key="Richard Savage">Savage</persName> could not conjecture, and was not willing to  
-enquire; but immediately seated himself with <persName key="Sir Richard Steele">Sir Richard</persName>. The  
+were to go. <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName> could not conjecture, and was not willing to  
+enquire; but immediately seated himself with <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName>. The  
 coachman was ordered to drive, and they hurried with the utmost  
 expedition to <placeName type="landmark" key="Hyde Park Corner" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q2166146">Hyde-Park Corner</placeName>, where they stopped at a petty  
-tavern, and retired to a private room. <persName key="Sir Richard Steele">Sir Richard</persName> then informed  
+tavern, and retired to a private room. <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> then informed  
 him that he intended to publish a pamphlet, and that he had desired  
 him to come thither that he might write for him. They soon sat  
-down to the work. <persName key="Sir Richard Steele">Sir Richard</persName> dictated, and <persName key="Richard Savage">Savage</persName> wrote, till the  
-dinner that had been ordered was put upon the table. <persName key="Richard Savage">Savage</persName> was  
+down to the work. <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> dictated, and <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName> wrote, till the  
+dinner that had been ordered was put upon the table. <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName> was  
 surprised at the meanness of the entertainment, and after some hesi-  
-tation ventured to ask for wine, which <persName key="Sir Richard Steele">Sir Richard</persName>, not without  
+tation ventured to ask for wine, which <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName>, not without  
 reluctance, ordered to be brought. They then finished their dinner,  
 and proceeded in their pamphlet, which they concluded in the  
 afternoon.</q> </p>
 
 <p><q type="written"><persName key="Richard Savage">Mr. Savage</persName> then imagined that his task was over, and expected  
-that <persName key="Sir Richard Steele">Sir Richard</persName> would call for the reckoning, and return home;  
-but his expectations deceived him, for <persName key="Sir Richard Steele">Sir Richard</persName> told him that he  
+that <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> would call for the reckoning, and return home;  
+but his expectations deceived him, for <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> told him that he  
 was without money, and that the pamphlet must be sold before the  
-dinner could be paid for, and <persName key="Richard Savage">Savage</persName> was therefore obliged to go and  
+dinner could be paid for, and <persName key="Richard Savage" cert="high" ref="https://dbpedia.org/page/Richard_Savage_(poet)" type="real">Savage</persName> was therefore obliged to go and  
 offer their new production for sale for two guineas, which with some  
-difficulty he obtained. <persName key="Sir Richard Steele">Sir Richard</persName> then returned home, having  
+difficulty he obtained. <persName key="Sir Richard Steele" ref="#steele" type="real">Sir Richard</persName> then returned home, having  
 retired that day only to avoid his creditors, and composed the  
 pamphlet only to discharge his reckoning.</q><note type="source"><bibl><author>Samuel Johnson</author><title level="m">The Life of Mr. Richard Savage, Son of the Earl Rivers</title></bibl></note></p> 
 
-<p><persName key="Sir Richard Steele">Steele</persName>'s acquaintance with <persName key="Alexander Pope">Pope</persName>, who wrote some papers for his  
+<p><persName key="Sir Richard Steele" cert="high" ref="https://dbpedia.org/resource/Richard_Steele" type="real">Steele</persName>'s acquaintance with <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>, who wrote some papers for his  
 
 <pb n="43"/>
 
 <title key="The Guardian" ref="http://dbpedia.org/resource/The_Guardian" cert="high" level="j">Guardian</title>, appears in the letters and other works of the wits of that  
-time. <persName key="Samuel Johnson" cert="low">Johnson</persName> supposes that it was his friendly interference, which  
-attempted to bring <persName key="Alexander Pope">Pope</persName> and <persName key="Joseph Addison" cert="high" ref="http://dbpedia.org/resource/Joseph_Addison" type="real">Addison</persName> together after a jealous separation.  
-<persName key="Alexander Pope">Pope</persName>'s friendship with <persName key="Congreve">Congreve</persName> appears also in his letters.  
+time. <persName key="Samuel Johnson" cert="high" ref="http://dbpedia.org/resource/Samuel_Johnson" type="real">Johnson</persName> supposes that it was his friendly interference, which  
+attempted to bring <persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName> and <persName key="Joseph Addison" cert="high" ref="http://dbpedia.org/resource/Joseph_Addison" type="real">Addison</persName> together after a jealous separation.  
+<persName key="Alexander Pope" cert="high" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName>'s friendship with <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName> appears also in his letters.  
 He also dedicated the <title level="m" ref="https://dbpedia.org/resource/Iliad">Iliad</title> to him, over the heads of peers and  
-patrons. <persName key="Congreve">Congreve</persName>, whose conversation most likely partook of the  
+patrons. <persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName>, whose conversation most likely partook of the  
 elegance and wit of his writings, and whose manners appear to have  
 rendered him an universal favourite, had the honour in his youth of  
-attracting singular respect and regard from <persName key="John Dryden">Dryden</persName>. He was publicly  
+attracting singular respect and regard from <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName>. He was publicly  
 hailed by him as his successor, and affectionately bequeathed the  
-care of his laurels. <persName key="John Dryden">Dryden</persName> did not know who had been looking at  
+care of his laurels. <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> did not know who had been looking at  
 him in the coffee-house. </p>
 
 <cit><quote><lg><l>Already I am worn with cares and age, </l>
@@ -6843,59 +6843,58 @@ him in the coffee-house. </p>
 <l>Be kind to my remains; and O defend, </l>
 <l>Against your judgment, your departed friend ! </l>
 <l>Let not th' insulting foe my fame pursue, </l>
-<l>But shade those laurels which descend to you.</l></lg> </quote><note type="source"><bibl><author>Dryden, John</author>: <title level="a">To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=To+my+dear+friend+Mr.+Congreve" xml:space="default"/>
+<l>But shade those laurels which descend to you.</l></lg> </quote><note type="source"><bibl><author>Dryden, John</author>: <title level="a">To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer</title><ref cert="high" evaluate="all"  target="https://www.google.com/search?q=To+my+dear+friend+Mr.+Congreve" />
 </bibl></note></cit>
 
-<p><persName key="Congreve">Congreve</persName> did so with great tenderness. </p>
+<p><persName key="William Congreve" cert="high" ref="http://dbpedia.org/resource/William_Congreve" type="real">Congreve</persName> did so with great tenderness. </p>
 
-<p><persName key="John Dryden">Dryden</persName> is reported to have asked <persName key="Milton">Milton</persName>'s permission to turn his  
+<p><persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> is reported to have asked <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>'s permission to turn his  
 <title level="m">Paradise Lost</title> into a rhyming tragedy, which he called <title level="u">the State of  
 Innocence</title>, or <title level="u">the Fall of Man</title>, a work, such as might be expected  
 from such a mode of alteration. The venerable poet is said to have  
 answered, <q>Ay, young man, you may tag my verses, if you will.</q>  
-Be the connection, however, of <persName key="John Dryden">Dryden</persName> with <persName key="Milton">Milton</persName>, or of <persName key="Milton">Milton</persName>  
-with <persName key="Sir William Davenant">Davenant</persName> as it may, <persName key="John Dryden">Dryden</persName> wrote the alteration of <persName key="William Shakespeare">Shakspeare</persName>'s  
-<title level="m" key="Tempest" ref="https://dbpedia.org/resource/The_Tempest">Tempest</title>, as it is now perpetrated, in conjunction with <persName key="Sir William Davenant">Davenant</persName>.  
+Be the connection, however, of <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> with <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, or of <persName key="John Milton" cert="high" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>  
+with <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> as it may, <persName key="John Dryden" cert="high" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> wrote the alteration of <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>'s  
+<title level="m" key="Tempest" ref="https://dbpedia.org/resource/The_Tempest">Tempest</title>, as it is now perpetrated, in conjunction with <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName>.  
 They were great hands, but they should not have touched the pure  
-grandeur of <persName key="William Shakespeare">Shakspeare</persName>. The intimacy of <persName key="Sir William Davenant">Davenant</persName> with <persName key="Thomas Hobbes" cert="high" ref="https://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName> is  
-to be seen by their correspondence prefixed to <title cert="high" generatedBy="human" key="Gondibert" level="m" xml:space="default" ref="http://dbpedia.org/resource/Gondibert">Gondibert</title>. <persName key="Hobbes">Hobbes</persName>  
+grandeur of <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>. The intimacy of <persName key="Sir William Davenant" cert="high" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName> with <persName key="Thomas Hobbes" cert="high" ref="https://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName> is  
+to be seen by their correspondence prefixed to <title cert="high"  key="Gondibert" level="m"  ref="http://dbpedia.org/resource/Gondibert">Gondibert</title>. <persName key="Thomas Hobbes" cert="high" ref="http://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName>  
 was at one time secretary to <persName key="Francis Bacon" cert="high" ref="https://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName>, a singularly illustrious  
-instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had  
-<persName key="Ben Jonson">Ben Jonson</persName> for a retainer in some capacity; but it is certain that  
+instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had <persName key="Ben Jonson" cert="high" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName> for a retainer in some capacity; but it is certain that  
 <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName> had his acquaintance, for he records it in his <title level="s" key="Discoveries" ref="https://www.google.com/search?q=ben+jonson+discoveries">Discoveries</title>.  
 And had it been otherwise, his link with the preceding writers could  
-be easily supplied through the medium of <persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke" type="real">Greville</persName> and <persName key="Sir Philip Sidney">Sydney</persName>, and  
+be easily supplied through the medium of <persName key="Fulke Greville, 1st Baron Brooke" cert="high" ref="http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke" type="real">Greville</persName> and <persName key="Sir Philip Sidney" cert="high" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sydney</persName>, and  
 indeed of many others of his contemporaries. Here then we arrive  
-at <persName key="William Shakespeare">Shakspeare</persName>, and feel the electric virtue of his hand. Their  
-intimacy, dashed a little, perhaps, with jealousy on the part of <persName key="Ben Jonson">Jonson</persName>,  
+at <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>, and feel the electric virtue of his hand. Their  
+intimacy, dashed a little, perhaps, with jealousy on the part of <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName>,  
 but maintained to the last by dint of the nobler part of him and of  
-<persName key="William Shakespeare">Shakspeare</persName>'s irresistible fineness of nature, is a thing as notorious as  
+<persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>'s irresistible fineness of nature, is a thing as notorious as  
 their fame. <persName key="Thomas Fuller (writer)" cert="high" ref="http://dbpedia.org/resource/Thomas_Fuller_(writer)" type="real">Fuller</persName> says, <q type="written"> Many were the wit-combates betwixt  
-(<persName key="William Shakespeare">Shakspeare</persName>) and <persName key="Ben Jonson">Ben <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName>, which two I behold like a Spanish  
+(<persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>) and <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Ben <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName>, which two I behold like a Spanish  
 great gallion and an English man of war : <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Master <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName> (like the  
 former) was built far higher in learning : solid, but slow in his   
-performances. <persName key="William Shakespeare">Shakspeare</persName> with the English man of war, lesser in bulk.  
+performances. <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName> with the English man of war, lesser in bulk.  
 
 <pb n="44"/>
 
 but lighter in sailing, could turn with all tides, tack about, and take  
-advantage of all winds, by the quickness of his wit and invention.</q><note type="source"><bibl><author>Thomas Fuller</author><title>The history of the worthies of England</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=the+history+of+the+worthies+of+england" xml:space="default"/></bibl></note> 
+advantage of all winds, by the quickness of his wit and invention.</q><note type="source"><bibl><author>Thomas Fuller</author><title>The history of the worthies of England</title><ref cert="high" evaluate="all"  target="https://www.google.com/search?q=the+history+of+the+worthies+of+england" /></bibl></note> 
 This is a happy simile, with the exception of what is insinuated about  
-<persName key="Ben Jonson">Jonson</persName>'s greater solidity. But let <persName key="Ben Jonson">Jonson</persName> shew for himself the  
+<persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName>'s greater solidity. But let <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName> <choice><orig>shew</orig><reg>show</reg></choice> for himself the  
 affection, with which he regarded one, who did not irritate or trample  
 down rivalry but rose above it like the quiet and all-gladdening sun,   
 and turned emulation to worship. </p>
 
 <cit><quote><lg><l>Soul of the age! </l>
 <l>Th' applause ! delight ! the wonder of our stage ! </l>
-<l>My <persName key="William Shakespeare">Shakspeare</persName>, rise ! I will not lodge thee by </l>
-<l><persName key="Geoffrey Chaucer" cert="high" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> or <persName key="Edmund Spenser">Spenser</persName>, or bid <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> lie </l>
+<l>My <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>, rise ! I will not lodge thee by </l>
+<l><persName key="Geoffrey Chaucer" cert="high" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> or <persName key="Edmund Spenser" cert="high" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, or bid <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> lie </l>
 <l>A little further, to make thee a room; </l>
 <l>Thou art a monument without a tomb; </l>
 <l>And art alive still, while thy book doth live. </l>
 <l>And we have wits to read, and praise to give. </l>
 <metamark function="multilineEllipsis"> - - - - - - - </metamark>
-<l>He was not of an age, but for all time. </l></lg></quote><note type="source"><bibl><author><persName key="Ben Jonson">Ben Jonson</persName></author> <title level="a">To the Memory of My Beloved the Author, Mr. William Shakespeare</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=to+the+memory+of+my+beloved+the+author+mr+william+shakespeare+by+ben+jonson" xml:space="default"/>
+<l>He was not of an age, but for all time. </l></lg></quote><note type="source"><bibl><author><persName key="Ben Jonson" cert="high" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName></author> <title level="a">To the Memory of My Beloved the Author, Mr. William Shakespeare</title><ref cert="high" evaluate="all"  target="https://www.google.com/search?q=to+the+memory+of+my+beloved+the+author+mr+william+shakespeare+by+ben+jonson" />
 </bibl></note></cit>
 
 </div2>
@@ -6957,7 +6956,7 @@ a ball or a concert, it is <q type="emph">to be lamented.</q> To put pleasure in
 the faces of half a dozen agreeable women, is a toy unworthy of the  
 manliness of a worm-sticker. But to put a hook into the gills of a  
 carp, — there you attain the end of a reasonable being; there you  
-shew yourself truly a lord of the creation. To plant your feet  
+<choice><orig>shew</orig><reg>show</reg></choice> yourself truly a lord of the creation. To plant your feet  
 occasionally in the mud, is also a pleasing step. So is cutting your  
 ancles with weeds and stones. </p>
 
@@ -6970,12 +6969,7 @@ ancles with weeds and stones. </p>
 </note>
 </cit>
 
-<p>The book of <persName key="Izaak Walton">Isaac Walton</persName> upon angling is undoubtedly a delightful  
-performance in some respects. It smells of the country air,   
-and of the flowers in cottage windows. Its pictures of rural scenery,  
-its simplicity, its snatches of old songs, are all good and refreshing;  
-and his prodigious rehshof a dressed fish would not be grudged him,  
-if he had killed it a little more decently. He really seems to have a  
+<p>The book of <persName key="Isaac Walton" cert="high" ref="https://dbpedia.org/resource/Izaak_Walton" type="real">Isaac Walton</persName> upon angling is undoubtedly a delightful performance in some respects. It smells of the country air, and of the flowers in cottage windows. Its pictures of rural scenery, its simplicity, its snatches of old songs, are all good and refreshing; and his prodigious rehshof a dressed fish would not be grudged him, if he had killed it a little more decently. He really seems to have a  
 respect for a piece of salmon; to approach it, like the grace, with  
 his hat off. But what are we to think of a man, who in the midst of  
 his tortui'es of other animals, is always valuing himself on his  
@@ -6994,20 +6988,20 @@ who is an admirer of <persName key="Izaak Walton" cert="high" ref="#walton" type
 likeness of the old angler's face to a fish. It is hard, angular, and of  
 no expression. It seems to have been <q type="spoken">subdued to what it worked  
 in ;</q> to have become native to the watery element. One might  
-have said to <persName key="Izaak Walton">Walton</persName>, <q type="thought">Oh flesh, how art thou fishified !</q> He looks  
+have said to <persName key="Izaak Walton" cert="high" ref="#walton" type="real">Walton</persName>, <q type="thought">Oh flesh, how art thou fishified !</q> He looks  
 like a pike, dressed in broad cloth instead of butter. </p>
 
 <p>The face of his pupil and follower, or as he fondly called himself,  
 son, <persName key="Charles Cotton" cert="high" ref="https://dbpedia.org/resource/Charles_Cotton" type="real" xml:id="cotton">Charles Cotton</persName>, a poet and a man of wit, is more good-natured  
-and uneasy. <note type="hunt" place="foot"> The reader may see both the portraits in the late editions of <persName key="Izaak Walton">Walton</persName>. </note>
+and uneasy. <note type="hunt" place="foot"> The reader may see both the portraits in the late editions of <persName key="Izaak Walton" cert="high" ref="#walton" type="real">Walton</persName>. </note>
 <persName key="Charles Cotton" cert="high" ref="#cotton" type="real">Cotton</persName>'s pleasures had not been confined to fishing.  
 His sympathies indeed had been a little superabundant, and left  
 him perhaps not so great a power of thinking as he pleased.  
 Accordingly, we find more symptoms of scrupulousness upon the  
 subject of angling in his writings, than in those of his father. </p>
 
-<p><persName key="Izaak Walton">Walton</persName> says, that an angler does no hurt but to fish; and this he  
-counts as nothing. <persName key="Charles Cotton">Cotton</persName> argues, that the slaughter of them is not  
+<p><persName key="Izaak Walton" cert="high" ref="#walton" type="real">Walton</persName> says, that an angler does no hurt but to fish; and this he  
+counts as nothing. <persName key="Charles Cotton" cert="high" ref="#cotton" type="real">Cotton</persName> argues, that the slaughter of them is not  
 to be <q type="soCalled">repented</q> and he says to his father (which looks as if the  
 old gentleman sometimes thought upon the subject too) </p>
 
@@ -7035,7 +7029,7 @@ killed by a man, may suffer no worse fate than from the jaws of a
 pike. It is the mode, the lingering cat-like cruelty of the angler's  
 sport, that renders it unworthy. If fish were made to be so treated,  
 then men were also made to be racked and throttled by Inquisitors.  
-Indeed among other advantages of angling. <persName key="Charles Cotton">Cotton</persName> reckons up a  
+Indeed among other advantages of angling. <persName key="Charles Cotton" cert="high" ref="#cotton" type="real">Cotton</persName> reckons up a  
 tame fish-like acquiescence to whatever the powerful chuse to inflict. </p>
 
 <cit><quote><lg><l>We scratch not our pates. </l>
@@ -7046,7 +7040,7 @@ tame fish-like acquiescence to whatever the powerful chuse to inflict. </p>
 <l>In demanding, than we have in giving. </l>
 <l>Whilst quiet we sit. </l>
 <l>We conclude all things fit, </l>
-<l>Acquiescing with hearty submission, etc. </l></lg></quote><note type="source"><bibl><author>Charles Cotton</author><title level="a">The Angler's Ballad</title><ref cert="high" evaluate="all" generatedBy="human" xml:space="default" target="https://www.google.com/search?q=The+Angler%27s+Ballad+Charles+Cotton"/></bibl></note></cit>
+<l>Acquiescing with hearty submission, etc. </l></lg></quote><note type="source"><bibl><author>Charles Cotton</author><title level="a">The Angler's Ballad</title><ref cert="high" evaluate="all"   target="https://www.google.com/search?q=The+Angler%27s+Ballad+Charles+Cotton"/></bibl></note></cit>
 
 <p>And this was no pastoral fiction. The anglers of those times, whose  
 pastimes became famous from the celebrity of their names, chiefly  
@@ -7064,7 +7058,7 @@ rarer fluid; and at present, in this November weather, a supernatural
 being who should look down upon us from a higher atmosphere,  
 would, have some reason to regard us as a kind of pedestrian carp.  
 Now fancy a Genius fishing for us. Fancy him baiting a' great hook  
-with pickled salmon, and twitching up old <persName key="Izaak Walton">Isaac Walton</persName> from the  
+with pickled salmon, and twitching up old <persName key="Isaac Walton" cert="high" ref="https://dbpedia.org/resource/Izaak_Walton" type="real">Isaac Walton</persName> from the  
 banks of the <placeName type="physical" key="River Lea" corresp="Ireland" cert="high" ref="http://www.wikidata.org/entity/Q10675">river Lee</placeName>, with the hook through his ear. How he  
 would go up roaring and screaming, and thinking the devil had got  
 him ! </p>
@@ -7094,7 +7088,7 @@ They have only never thought perhaps on that side of the
 question, or been accustomed from childhood to blink it. But once  
 thinking, their amiableness and their practice become incompatible;  
 and if they should wish, on that account, never to have thought  
-upon the subject, they would only shew, that they cared for their  
+upon the subject, they would only <choice><orig>shew</orig><reg>show</reg></choice>, that they cared for their  
 own exemption from suffering, and not for its diminution in general. </p>
 
 </div2>
@@ -7104,7 +7098,7 @@ own exemption from suffering, and not for its diminution in general. </p>
 <p>There is a set of Italians now going about the streets, who sell  
 busts, vases, and other casts in plaister. Every body may not be  
 aware, that some of these casts are after the antique. There is a  
-head, for instance, of the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Apollo Belvedere" xml:space="default" ref="https://dbpedia.org/resource/Apollo_Belvedere" type="sculpture">Apollo Belvedere</objectName> from the statue at <placeName type="city" key="Rome" corresp="Italy" ref="http://www.wikidata.org/entity/Q220">Rome</placeName>;  
+head, for instance, of the <objectName cert="high"  key="Apollo Belvedere"  ref="https://dbpedia.org/resource/Apollo_Belvedere" type="sculpture">Apollo Belvedere</objectName> from the statue at <placeName type="city" key="Rome" corresp="Italy" ref="http://www.wikidata.org/entity/Q220">Rome</placeName>;  
 another of <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>; another of <persName key="Antinous" cert="medium" ref="http://dbpedia.org/resource/Antinous" type="real">Antinous</persName>; another, we believe, of a  
 <persName key="Melpomene" ref="http://dbpedia.org/resource/Melpomene" type="fictional">Melpomene</persName>, crowned with vine-leaves in allusion to the origin of  
 tragedy, and a head of <persName key="Sappho" ref="http://dbpedia.org/resource/Sappho" type="real">Sappho</persName>, which, if we are not mistaken, is  
@@ -7119,15 +7113,15 @@ copied from the antique, are inferior to the busts. The latter are
 from good old casts; sometimes worn, but still retaining the general  
 spirit of the original. The figures are from slight and hasty moulds;  
 feeble abridgments,— yet not without their worth either, as resembling  
-the originals, however faintly. There is the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Venus de Medici" xml:space="default" ref="https://dbpedia.org/page/Venus_de'_Medici" type="sculpture">Venus de Medici</objectName>,  
-the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Gladiator Mosaic" xml:space="default" ref="https://dbpedia.org/resource/Gladiator_Mosaic" type="mosaic">Gladiator</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Quoit Player in Repose" ref="https://www.si.edu/es/object/quoit-player-repose-sculpture%3Asiris_ari_16025" type="sculpture">Quoit-Player</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Antinous Mondragone" ref="https://dbpedia.org/resource/Antinous_Mondragone" type="sculpture">Antinous</objectName>, the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Piping Faun" ref="https://www.nationaltrustcollections.org.uk/object/1180992" type="sculpture">Piping Faun</objectName>, the  
-Apollo Belvedere, all after the antique; and there is a <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Crouching Venus" xml:space="default" ref="https://dbpedia.org/page/Crouching_Venus" type="sculpture">Couching Venus</objectName>, after <persName key="John of Bologna" ref="https://dbpedia.org/resource/Giambologna" type="real">John of Bologna</persName>, the original of which must have been  
-like <persName key="Venus">Venus</persName> re-appearing from the antique world. </p>
+the originals, however faintly. There is the <objectName cert="high"  key="Venus de Medici"  ref="https://dbpedia.org/page/Venus_de'_Medici" type="sculpture">Venus de Medici</objectName>,  
+the <objectName cert="high"  key="Gladiator Mosaic"  ref="https://dbpedia.org/resource/Gladiator_Mosaic" type="mosaic">Gladiator</objectName>, the <objectName cert="medium"   key="Quoit Player in Repose" ref="https://www.si.edu/es/object/quoit-player-repose-sculpture%3Asiris_ari_16025" type="sculpture">Quoit-Player</objectName>, the <objectName cert="medium"   key="Antinous Mondragone" ref="https://dbpedia.org/resource/Antinous_Mondragone" type="sculpture">Antinous</objectName>, the <objectName cert="high"   key="Piping Faun" ref="https://www.nationaltrustcollections.org.uk/object/1180992" type="sculpture">Piping Faun</objectName>, the  
+<objectName cert="high"  key="Apollo Belvedere"  ref="https://dbpedia.org/resource/Apollo_Belvedere" type="sculpture">Apollo Belvedere</objectName>, all after the antique; and there is a <objectName cert="high"  key="Crouching Venus"  ref="https://dbpedia.org/page/Crouching_Venus" type="sculpture">Couching Venus</objectName>, after <persName key="John of Bologna" ref="https://dbpedia.org/resource/Giambologna" type="real">John of Bologna</persName>, the original of which must have been  
+like <persName key="Venus" ref="https://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName> re-appearing from the antique world. </p>
 
 <p>Fewer people are aware how cheaply these things are sold. The  
 little statues are three or four shillings apiece, perhaps less ; and a  
-profit is got upon the head of <persName key="Sappho">Sappho</persName> at eighteen-pence. You may  
-set a price upon <persName key="Paris">Paris</persName>'s head, and have the knave brought you at two  
+profit is got upon the head of <persName key="Sappho" ref="http://dbpedia.org/resource/Sappho" type="real">Sappho</persName> at eighteen-pence. You may  
+set a price upon <persName key="Paris" ref="https://dbpedia.org/resource/Paris_(mythology)" type="fictional">Paris</persName>'s head, and have the knave brought you at two  
 shillings. </p>
 
 <pb n="48"/>
@@ -7140,7 +7134,7 @@ resembling that of any gem you may select. This you may either
 have set for your watch-chain, or keep in your desk or pocket; for  
 the composition is very hard, and does not easily wear or chip off,  
 even at the edges. In a seal or a desk, it might last, we should  
-think, as long as the gem itself. <persName key="Mr. Tassie">Mr. Tassie</persName>'s collection of antiques  
+think, as long as the gem itself. <persName key="James Tassie" ref="https://dbpedia.org/resource/James_Tassie" type="real">Mr. Tassie</persName>'s collection of antiques  
 appears to be very extensive. You may have your choice among  
 all the gods and graces of the ancient world, — Jupiters, Apollos,  
 Venuses, the Graces, the Muses, Lyres, Loves, Festivals, Pastorals,  

@@ -12,6 +12,11 @@ This document is intended for reference purposes. It contains a list of various 
     - [Choice Elements](#choice-elements)
     - [Hi Elements](#hi-elements)
     _ [lg Elements](#lg-elements)
+    _ [title tags](#title-tag)
+    _ [Persons Name](#persname)
+    _ [Places Name](#placename)
+    _ [Objects Name](#objectname)
+    _ [Quote Elements](#quote-elements)
 - Examples
 
 ## Using the Undoubler
@@ -187,6 +192,19 @@ Prison
 
 Fictional
 ```
+### objectName 
+To indicate works of art like paintings, sculptures, engravings, and the like, or any kind of object
+
+The @type attribute will have the type of object as value, ex: *type="painting"*.
+
+**Examples**
+```xml
+<objectName cert="high"  key="Apollo Belvedere"  ref="https://dbpedia.org/resource/Apollo_Belvedere" type="sculpture">Apollo Belvedere</objectName>
+
+<!-- ####### -->
+
+<objectName key="spinning jenny" ref="https://dbpedia.org/resource/Spinning_jenny" cert="medium" type="machine">Spinning Jenny</objectName>
+```
 
 ### Quote elements
 To indicate something in quotation marks
@@ -216,4 +234,17 @@ A <note> tag with the the attribute @type="source" should follow with the comple
 <bibl>Vol. I , Sestina 2.</bibl>
 
 <bibl><title level="m">LOVE'S LABOUR LOST</title></bibl>
+
+<bibl>
+    <author>Michael Drayton</author>
+    <title cert="high" level="m">Polyolbion</title>
+    <ref cert="high"  target="https://poly-olbion.exeter.ac.uk/the-text/full-text/song-13/" />
+    <biblScope>Song 13</biblScope>
+</bibl>
+
+<bibl>
+    <title level="a">The Mermaid</title>
+    <author>Francis Beaumont</author>
+    <ref cert="high"  target="https://www.google.com/search?q=the+mermaid+by+francis+beaumont" />
+</bibl>
 ```
