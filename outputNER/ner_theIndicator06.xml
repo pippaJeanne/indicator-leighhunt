@@ -6491,7 +6491,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241231011615925",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T06:16:15.925Z",
-	"dcterms:modified": "2024-12-31T06:16:15.925Z",
+	"dcterms:modified": "2024-12-31T06:16:44.654Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6523,7 +6523,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/Giambologna",
+		"@id": "https://dbpedia.org/resource/Giambologna",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6963,7 +6963,7 @@ spirit of the original. The figures are from slight and hasty moulds;
 feeble abridgments,— yet not without their worth either, as resembling  
 the originals, however faintly. There is the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Venus de Medici" xml:space="default" ref="https://dbpedia.org/page/Venus_de'_Medici" type="sculpture">Venus de Medici</objectName>,  
 the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Gladiator Mosaic" xml:space="default" ref="https://dbpedia.org/resource/Gladiator_Mosaic" type="mosaic">Gladiator</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Quoit Player in Repose" ref="https://www.si.edu/es/object/quoit-player-repose-sculpture%3Asiris_ari_16025" type="sculpture">Quoit-Player</objectName>, the <objectName cert="medium" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Antinous Mondragone" ref="https://dbpedia.org/resource/Antinous_Mondragone" type="sculpture">Antinous</objectName>, the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Piping Faun" ref="https://www.nationaltrustcollections.org.uk/object/1180992" type="sculpture">Piping Faun</objectName>, the  
-Apollo Belvedere, all after the antique; and there is a <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Crouching Venus" xml:space="default" ref="https://dbpedia.org/page/Crouching_Venus" type="sculpture">Couching Venus</objectName>, after <persName key="John of Bologna" ref="https://dbpedia.org/page/Giambologna">John of Bologna</persName>, the original of which must have been  
+Apollo Belvedere, all after the antique; and there is a <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Crouching Venus" xml:space="default" ref="https://dbpedia.org/page/Crouching_Venus" type="sculpture">Couching Venus</objectName>, after <persName key="John of Bologna" ref="https://dbpedia.org/resource/Giambologna" type="real">John of Bologna</persName>, the original of which must have been  
 like <persName key="Venus">Venus</persName> re-appearing from the antique world. </p>
 
 <p>Fewer people are aware how cheaply these things are sold. The  
