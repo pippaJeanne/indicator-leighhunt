@@ -4889,7 +4889,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230224548616",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:45:48.616Z",
-	"dcterms:modified": "2024-12-31T03:45:48.616Z",
+	"dcterms:modified": "2024-12-31T03:46:10.709Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4920,7 +4920,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#jonson",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4928,7 +4930,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5110,7 +5113,7 @@ but maintained to the last by dint of the nobler part of him and of
 <persName key="William Shakespeare">Shakspeare</persName>'s irresistible fineness of nature, is a thing as notorious as  
 their fame. <persName key="Thomas Fuller (writer)" cert="high" ref="http://dbpedia.org/resource/Thomas_Fuller_(writer)" type="real">Fuller</persName> says, <q type="written"> Many were the wit-combates betwixt  
 (<persName key="William Shakespeare">Shakspeare</persName>) and <persName key="Ben Jonson">Ben <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName>, which two I behold like a Spanish  
-great gallion and an English man of war : <persName key="Ben Jonson">Master <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName> (like the  
+great gallion and an English man of war : <persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Master <choice><corr>Jonson</corr><sic>Johnson</sic></choice></persName> (like the  
 former) was built far higher in learning : solid, but slow in his   
 performances. <persName key="William Shakespeare">Shakspeare</persName> with the English man of war, lesser in bulk.  
 
