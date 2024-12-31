@@ -5209,7 +5209,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230225809045",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:58:09.045Z",
-	"dcterms:modified": "2024-12-31T03:58:09.045Z",
+	"dcterms:modified": "2024-12-31T03:59:28.267Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5240,7 +5240,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Izaak_Walton",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5248,7 +5250,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5476,7 +5479,7 @@ No; but in the course of the day, he had had <q>a glorious nibble.</q> </p>
 <p>But the anglers boast of the innocence of their pastime; yet it  
 puts fellow-creatures to the torture. They pique themselves on their  
 meditative faculties and yet their only excuse is a want of thought.  
-It is this that puzzles us. Old <persName key="Izaak Walton">Isaac Walton</persName>, their patriarch, speaking  
+It is this that puzzles us. Old <persName key="Isaac Walton" cert="high" ref="https://dbpedia.org/resource/Izaak_Walton" type="real">Isaac Walton</persName>, their patriarch, speaking  
 of his inquisitorial abstractions on the banks of a river, says. </p>
 
 <cit>
