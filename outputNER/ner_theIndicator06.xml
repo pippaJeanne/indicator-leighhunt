@@ -5289,7 +5289,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230230504036",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T04:05:04.036Z",
-	"dcterms:modified": "2024-12-31T04:05:04.036Z",
+	"dcterms:modified": "2024-12-31T04:05:49.128Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5320,7 +5320,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#walton",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5328,7 +5330,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5628,7 +5631,7 @@ opposite side of the question, so as to become almost, perhaps quite
 insensible to it. And angling does indeed seem the next thing to  
 dreaming. It dispenses with loco-motion, reconciles contradictions,  
 and renders the very countenance null and void. A friend of ours,  
-who is an admirer of <persName key="Izaak Walton">Walton</persName>, was struck, just as we were, with the  
+who is an admirer of <persName key="Izaak Walton" cert="high" ref="#walton" type="real">Walton</persName>, was struck, just as we were, with the  
 likeness of the old angler's face to a fish. It is hard, angular, and of  
 no expression. It seems to have been <q type="spoken">subdued to what it worked  
 in ;</q> to have become native to the watery element. One might  
