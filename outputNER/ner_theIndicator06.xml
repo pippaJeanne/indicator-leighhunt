@@ -6409,7 +6409,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230235312124",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T04:53:12.124Z",
-	"dcterms:modified": "2024-12-31T04:53:12.124Z",
+	"dcterms:modified": "2024-12-31T04:53:36.788Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6440,7 +6440,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Venus_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6867,7 +6872,7 @@ another of <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="r
 <persName key="Melpomene" ref="http://dbpedia.org/resource/Melpomene" type="fictional">Melpomene</persName>, crowned with vine-leaves in allusion to the origin of  
 tragedy, and a head of <persName key="Sappho" ref="http://dbpedia.org/resource/Sappho" type="real">Sappho</persName>, which, if we are not mistaken, is  
 from an ancient gem. They are more frequently seen with busts from  
-statues by <persName key="Canova" ref="https://dbpedia.org/resource/Antonio_Canova" type="real">Canova</persName>, such as a <persName key="Paris" ref="https://dbpedia.org/resource/Paris_(mythology)" type="fictional">Paris</persName> and a <persName key="Venus">Venus</persName>; which latter, we  
+statues by <persName key="Canova" ref="https://dbpedia.org/resource/Antonio_Canova" type="real">Canova</persName>, such as a <persName key="Paris" ref="https://dbpedia.org/resource/Paris_(mythology)" type="fictional">Paris</persName> and a <persName key="Venus" ref="https://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName>; which latter, we  
 confess, with its little scratches of curls in front, and its hair tied up  
 behind like a lump of sausages, we cannot admire. But they will  
 procure the antiques, if asked for. Some of the vases are from the  
