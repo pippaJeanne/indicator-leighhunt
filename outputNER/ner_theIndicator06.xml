@@ -4650,7 +4650,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?title_annotation_20241230223545617",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:35:45.617Z",
-	"dcterms:modified": "2024-12-31T03:35:45.617Z",
+	"dcterms:modified": "2024-12-31T03:38:58.977Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4681,7 +4681,86 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://www.google.com/search?q=ben+jonson+discoveries",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230223919555",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-31T03:39:19.555Z",
+	"dcterms:modified": "2024-12-31T03:39:19.555Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230223919555#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230223919555#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/persName[18]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4861,7 +4940,7 @@ to be seen by their correspondence prefixed to <title cert="high" generatedBy="h
 was at one time secretary to <persName key="Francis Bacon" cert="high" ref="https://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName>, a singularly illustrious  
 instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had  
 <persName key="Ben Jonson">Ben Jonson</persName> for a retainer in some capacity; but it is certain that  
-<persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName> had his acquaintance, for he records it in his <title level="s">Discoveries</title>.  
+<persName key="Ben Jonson" cert="high" ref="#jonson" type="real">Jonson</persName> had his acquaintance, for he records it in his <title level="s" key="Discoveries" ref="https://www.google.com/search?q=ben+jonson+discoveries">Discoveries</title>.  
 And had it been otherwise, his link with the preceding writers could  
 be easily supplied through the medium of <persName key="Greville">Greville</persName> and <persName key="Sir Philip Sidney">Sydney</persName>, and  
 indeed of many others of his contemporaries. Here then we arrive  
