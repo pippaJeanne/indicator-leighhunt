@@ -4489,7 +4489,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230223141952",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:31:41.952Z",
-	"dcterms:modified": "2024-12-31T03:31:41.952Z",
+	"dcterms:modified": "2024-12-31T03:32:35.196Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4520,7 +4520,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Francis_Bacon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4528,7 +4530,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4697,7 +4700,7 @@ with <persName key="Sir William Davenant">Davenant</persName> as it may, <persNa
 They were great hands, but they should not have touched the pure  
 grandeur of <persName key="William Shakespeare">Shakspeare</persName>. The intimacy of <persName key="Sir William Davenant">Davenant</persName> with <persName key="Thomas Hobbes" cert="high" ref="https://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName> is  
 to be seen by their correspondence prefixed to <title cert="high" generatedBy="human" key="Gondibert" level="m" xml:space="default" ref="http://dbpedia.org/resource/Gondibert">Gondibert</title>. <persName key="Hobbes">Hobbes</persName>  
-was at one time secretary to <persName key="Francis Bacon">Lord Bacon</persName>, a singularly illustrious  
+was at one time secretary to <persName key="Francis Bacon" cert="high" ref="https://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName>, a singularly illustrious  
 instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had  
 <persName key="Ben Jonson">Ben Jonson</persName> for a retainer in some capacity; but it is certain that  
 <persName key="Ben Jonson">Jonson</persName> had his acquaintance, for he records it in his <title level="s">Discoveries</title>.  
