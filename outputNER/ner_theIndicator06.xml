@@ -5049,7 +5049,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230225039539",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:50:39.539Z",
-	"dcterms:modified": "2024-12-31T03:50:39.539Z",
+	"dcterms:modified": "2024-12-31T03:52:07.134Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5080,7 +5080,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Francis_Beaumont",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5088,7 +5090,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5287,7 +5290,7 @@ and turned emulation to worship. </p>
 <cit><quote><lg><l>Soul of the age! </l>
 <l>Th' applause ! delight ! the wonder of our stage ! </l>
 <l>My <persName key="William Shakespeare">Shakspeare</persName>, rise ! I will not lodge thee by </l>
-<l><persName key="Geoffrey Chaucer" cert="high" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> or <persName key="Edmund Spenser">Spenser</persName>, or bid <persName key="Francis Beaumont">Beaumont</persName> lie </l>
+<l><persName key="Geoffrey Chaucer" cert="high" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> or <persName key="Edmund Spenser">Spenser</persName>, or bid <persName key="Francis Beaumont" cert="high" ref="https://dbpedia.org/resource/Francis_Beaumont" type="real">Beaumont</persName> lie </l>
 <l>A little further, to make thee a room; </l>
 <l>Thou art a monument without a tomb; </l>
 <l>And art alive still, while thy book doth live. </l>
