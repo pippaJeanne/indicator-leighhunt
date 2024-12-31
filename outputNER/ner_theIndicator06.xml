@@ -5129,7 +5129,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230225514349",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T03:55:14.349Z",
-	"dcterms:modified": "2024-12-31T03:55:14.349Z",
+	"dcterms:modified": "2024-12-31T03:56:49.659Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5160,7 +5160,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Jonathan_Swift",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5168,7 +5170,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -5385,7 +5388,7 @@ and turned emulation to worship. </p>
 <p>The anglers are a race of men who puzzle us. We do not  
 mean for their patience, which is laudable; nor for the infinite non-  
 success of some of them, which is desirable. Neither do we agree  
-with the good joke attributed to <persName key="Jonathan Swift">Swift</persName>, that angling is always to be  
+with the good joke attributed to <persName key="Jonathan Swift" cert="high" ref="https://dbpedia.org/resource/Jonathan_Swift" type="real">Swift</persName>, that angling is always to be  
 considered as <q type="written">a stick and a string, with a fly at one end and a fool   
 at the other.</q><note type="editorial">A version of this "a stick and a string, with a worm at one end and a fool at the other" is attributed in Instructions to Young Sportsmen (1824) by Colonel Peter Hawker. <ref target="https://en.wikiquote.org/wiki/Samuel_Johnson"/></note> Nay, if he had books with him and a pleasant day,  
 we can even account for the joyousness of that prince of all punters,  
