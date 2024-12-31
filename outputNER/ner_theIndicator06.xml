@@ -6169,7 +6169,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230234354946",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-31T04:43:54.946Z",
-	"dcterms:modified": "2024-12-31T04:43:54.946Z",
+	"dcterms:modified": "2024-12-31T04:44:21.136Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6200,7 +6200,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Sappho",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6625,7 +6627,7 @@ aware, that some of these casts are after the antique. There is a
 head, for instance, of the <objectName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="Apollo Belvedere" xml:space="default" ref="https://dbpedia.org/resource/Apollo_Belvedere" type="sculpture">Apollo Belvedere</objectName> from the statue at <placeName type="city" key="Rome" corresp="Italy" ref="http://www.wikidata.org/entity/Q220">Rome</placeName>;  
 another of <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>; another of <persName key="Antinous" cert="medium" ref="http://dbpedia.org/resource/Antinous" type="real">Antinous</persName>; another, we believe, of a  
 <persName key="Melpomene" ref="http://dbpedia.org/resource/Melpomene" type="fictional">Melpomene</persName>, crowned with vine-leaves in allusion to the origin of  
-tragedy, and a head of <persName key="Sappho">Sappho</persName>, which, if we are not mistaken, is  
+tragedy, and a head of <persName key="Sappho" ref="http://dbpedia.org/resource/Sappho" type="real">Sappho</persName>, which, if we are not mistaken, is  
 from an ancient gem. They are more frequently seen with busts from  
 statues by <persName key="Canova">Canova</persName>, such as a <persName key="Paris">Paris</persName> and a <persName key="Venus">Venus</persName>; which latter, we  
 confess, with its little scratches of curls in front, and its hair tied up  
