@@ -4406,10 +4406,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?title_annotation_20241230223101989",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-12-31T03:27:59.039Z",
-	"dcterms:modified": "2024-12-31T03:28:46.613Z",
+	"dcterms:created": "2024-12-31T03:31:01.989Z",
+	"dcterms:modified": "2024-12-31T03:31:01.989Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4420,7 +4420,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?title_annotation_20241230223101989#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml",
@@ -4434,13 +4434,13 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?person_annotation_20241230222759039#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator06.xml?title_annotation_20241230223101989#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/persName[13]"
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/title[5]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": "bf:Title",
 		"@id": "http://dbpedia.org/resource/Gondibert",
 		"dc:format": "text/plain"
 	},
@@ -4450,7 +4450,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4618,7 +4619,7 @@ with <persName key="Sir William Davenant">Davenant</persName> as it may, <persNa
 <title level="m" key="Tempest" ref="https://dbpedia.org/resource/The_Tempest">Tempest</title>, as it is now perpetrated, in conjunction with <persName key="Sir William Davenant">Davenant</persName>.  
 They were great hands, but they should not have touched the pure  
 grandeur of <persName key="William Shakespeare">Shakspeare</persName>. The intimacy of <persName key="Sir William Davenant">Davenant</persName> with <persName key="Thomas Hobbes" cert="high" ref="https://dbpedia.org/resource/Thomas_Hobbes" type="real">Hobbes</persName> is  
-to be seen by their correspondence prefixed to <persName key="Gondibert" ref="http://dbpedia.org/resource/Gondibert">Gondibert</persName>. <persName key="Hobbes">Hobbes</persName>  
+to be seen by their correspondence prefixed to <title cert="high" generatedBy="human" key="Gondibert" level="m" xml:space="default" ref="http://dbpedia.org/resource/Gondibert">Gondibert</title>. <persName key="Hobbes">Hobbes</persName>  
 was at one time secretary to <persName key="Francis Bacon">Lord Bacon</persName>, a singularly illustrious  
 instance of servant and master. <persName key="Francis Bacon">Bacon</persName> is also supposed to have had  
 <persName key="Ben Jonson">Ben Jonson</persName> for a retainer in some capacity; but it is certain that  
