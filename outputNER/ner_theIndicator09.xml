@@ -60,7 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109152353272",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T20:23:53.272Z",
-	"dcterms:modified": "2025-01-09T20:23:53.272Z",
+	"dcterms:modified": "2025-01-09T20:25:30.057Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -91,7 +91,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Dante_Alighieri",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -132,7 +134,7 @@
     <div2 type="section" n="1"> <!-- Header and content -->
 <head type="header">MORE NEWS OF ULYSSES. </head>
 
-<p>Talking the other day with a friend about <persName key="Dante">Dante</persName>, he observed, 
+<p>Talking the other day with a friend about <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>, he observed, 
 that whenever so great a poet told us any thing in addition or 
 continuation of an ancient story, he had a right to be regarded as classical 
 authority. For instance, said he, when he tells us of that characteristic 
