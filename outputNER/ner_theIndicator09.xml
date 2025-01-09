@@ -139,7 +139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109152604909",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T20:26:04.909Z",
-	"dcterms:modified": "2025-01-09T20:26:04.909Z",
+	"dcterms:modified": "2025-01-09T20:39:22.902Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -173,7 +173,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Odysseus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -218,9 +220,9 @@
 that whenever so great a poet told us any thing in addition or 
 continuation of an ancient story, he had a right to be regarded as classical 
 authority. For instance, said he, when he tells us of that characteristic 
-death of <persName key="Ulysses" type="fictional">Ulysses</persName> in one of the books of his <title level="a">Inferno</title>, we ought 
+death of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> in one of the books of his <title level="a">Inferno</title>, we ought 
 to receive the information as authentic, and be glad that we have 
-more news of <persName key="Ulysses" type="fictional">Ulysse</persName>s than we looked for. </p>
+more news of <persName key="Ulysses" type="fictional">Ulysses</persName> than we looked for. </p>
 
 <p>We thought this a happy remark, and instantly turned with him 
 to the passage in question; for not having read <persName key="Dante">Dante</persName> regularly, we 
