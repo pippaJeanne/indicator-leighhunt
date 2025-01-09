@@ -1011,7 +1011,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109120348427",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:03:48.427Z",
-	"dcterms:modified": "2025-01-09T17:03:48.427Z",
+	"dcterms:modified": "2025-01-09T17:04:42.674Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1042,7 +1042,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Andrew_Marvell",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1187,7 +1189,7 @@
 
     <p>We do not know, and perhaps it would be impossible to discover,  
     whether <persName key="Samuel Butler">Butler</persName> wrote his minor pieces before those of the great  
-    patriot <persName key="Andrew Marvell">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
+    patriot <persName key="Andrew Marvell" ref="https://dbpedia.org/resource/Andrew_Marvell" type="real">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
     poetry. <persName key="Andrew Marvell">Marvell</persName>, though born later, seems to have been known earlier  
     as an author. He was certainly known publicly before him. But in  
     the political poems of <persName key="Andrew Marvell">Marvell</persName> there is a ludicrous Character of  
