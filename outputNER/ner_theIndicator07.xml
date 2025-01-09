@@ -536,7 +536,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225118679",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:51:18.679Z",
-	"dcterms:modified": "2025-01-09T16:54:26.636Z",
+	"dcterms:modified": "2025-01-09T16:56:44.934Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -804,7 +804,7 @@
 
     <pb n="50"/>
 
-    the old blunder attributed to <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName> about a dish of green peas.  
+    the old blunder attributed to <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real" xml:id="#goldsmith">Goldsmith</persName> about a dish of green peas.  
     Somebody had been applauded in company for advising his cook to  
     take some ill-drest peas to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>, <q type="spoken">because that was the  
     way to turn'em Green;</q> upon which <persName key="Goldsmith">Goldsmith</persName> is said to have gone  
