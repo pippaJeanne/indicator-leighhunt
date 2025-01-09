@@ -139,7 +139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221711469",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:17:11.469Z",
-	"dcterms:modified": "2025-01-09T03:17:11.469Z",
+	"dcterms:modified": "2025-01-09T03:19:07.678Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -170,7 +170,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://dbpedia.org/resource/Tower_of_Babel",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -218,7 +220,7 @@
     enjoyment of it is doubled by <choice><orig>it's</orig><reg>its</reg></choice> becoming more visible to the eyes  
     of others. It is for this reason that jests in company are sometimes  
     built up by one hand after another, — <q type="emph">three-piled hyperboles,</q> — :  
-    till the over-done <placeName type="fictional" key="Babel" corresp="Babylon">Babel</placeName> topples and tumbles down amidst a merry  
+    till the over-done <placeName type="fictional" key="Tower of Babel" corresp="Babylon" ref="http://dbpedia.org/resource/Tower_of_Babel">Babel</placeName> topples and tumbles down amidst a merry  
     confusion of tongues. </p>
 
     <p><persName type="fictional" key="Sir John Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
