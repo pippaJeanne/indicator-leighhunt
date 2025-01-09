@@ -742,6 +742,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109155027165",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-09T20:50:27.165Z",
+	"dcterms:modified": "2025-01-09T20:56:46.469Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109155027165#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109155027165#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/title[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://en.wikipedia.org/wiki/The_History_of_Tom_Jones,_a_Foundling",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
    <!-- Add any encoding information or guidelines here if applicable -->
    <p>
@@ -800,7 +882,7 @@ specimens in modern times of this propensity never to have done with a
 good story; which is natural enough, though not very wise; nor 
 are the best writers likely to meddle with it. Thus <persName key="Miguel de Cervantes" ref="http://dbpedia.org/resource/Miguel_de_Cervantes" type="real">Cervantes</persName> was 
 plagued with a spurious <title level="m" key="Don Quixote" ref="https://dbpedia.org/resource/Don_Quixote">Quixote</title>; and our circulating libraries have 
-<title key="The History of Tom Jones the Foundling, in his Married State" level="a" ref="https://www.google.com/search?q=The+History+of+Tom+Jones+the+Foundling%2C+in+his+Married+State">the adventures of <persName type="fictional" key="Tom Jones">Tom Jones</persName> in his Married State</title>. The ancient 
+<title key="The History of Tom Jones the Foundling, in his Married State" level="a" ref="https://www.google.com/search?q=The+History+of+Tom+Jones+the+Foundling%2C+in+his+Married+State">the adventures of Tom Jones in his Married State</title>. The ancient 
 writers on the present subject, availing themselves of an obscure 
 prophecy of <persName key="Tiresias">Tiresias</persName>, who tells <persName key="Ulysses">Ulysses</persName> on his visit to hell, that 
 his old enemy the sea would be the death of him at last, bring 
