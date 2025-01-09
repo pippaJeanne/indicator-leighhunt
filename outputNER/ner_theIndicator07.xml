@@ -459,10 +459,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224936152",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:49:36.152Z",
-	"dcterms:modified": "2025-01-09T03:50:03.162Z",
+	"dcterms:created": "2025-01-09T03:53:39.629Z",
+	"dcterms:modified": "2025-01-09T03:53:39.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -473,7 +473,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224936152#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -487,15 +487,13 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224936152#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://dbpedia.org/resource/William_Shakespeare",
-		"dc:format": "text/plain"
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -642,7 +640,7 @@
     shoulders like a herald's coat without sleeves.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> part1, Act4 Scene2</bibl></note> </p>
 
     <p>An old schoolfellow of ours, (who by the way, was more fond of  
-    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName>'s chararacters) used to  
+    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakspeare">Shakspeare</persName>'s chararacters) used to  
     be called upon for a story, with a view to a joke of this sort; it  
     being an understood thing that he had a privilege of exaggeration,  
     without committing his abstract love of truth. The reader knows  
