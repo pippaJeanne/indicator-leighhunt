@@ -57,10 +57,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221603603",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221622069",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:16:03.603Z",
-	"dcterms:modified": "2025-01-09T03:16:22.069Z",
+	"dcterms:created": "2025-01-09T03:16:22.069Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -71,7 +70,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221603603#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221622069#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -85,7 +84,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221603603#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221622069#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/epigraph/p/placeName"
 		}
@@ -136,10 +135,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221711469",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221907678",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:17:11.469Z",
-	"dcterms:modified": "2025-01-09T03:19:07.678Z",
+	"dcterms:created": "2025-01-09T03:19:07.678Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -150,7 +148,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221711469#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221907678#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -164,7 +162,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221711469#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108221907678#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/placeName"
 		}
@@ -215,10 +213,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108222902244",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223139826",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:29:02.244Z",
-	"dcterms:modified": "2025-01-09T03:31:39.826Z",
+	"dcterms:created": "2025-01-09T03:31:39.826Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -229,7 +226,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108222902244#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223139826#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -243,7 +240,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108222902244#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223139826#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/persName"
 		}
@@ -377,10 +374,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224533067",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224746536",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:45:33.067Z",
-	"dcterms:modified": "2025-01-09T03:47:46.536Z",
+	"dcterms:created": "2025-01-09T03:47:46.536Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -391,7 +387,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224533067#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224746536#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -405,7 +401,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224533067#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224746536#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/persName[3]"
 		}
@@ -462,7 +458,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:53:39.629Z",
-	"dcterms:modified": "2025-01-09T03:53:39.629Z",
+	"dcterms:modified": "2025-01-09T03:54:30.609Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -493,7 +489,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/William_Shakespeare",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -640,7 +638,7 @@
     shoulders like a herald's coat without sleeves.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> part1, Act4 Scene2</bibl></note> </p>
 
     <p>An old schoolfellow of ours, (who by the way, was more fond of  
-    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakspeare">Shakspeare</persName>'s chararacters) used to  
+    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName>'s chararacters) used to  
     be called upon for a story, with a view to a joke of this sort; it  
     being an understood thing that he had a privilege of exaggeration,  
     without committing his abstract love of truth. The reader knows  
