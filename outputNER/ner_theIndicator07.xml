@@ -455,10 +455,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225430609",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:53:39.629Z",
-	"dcterms:modified": "2025-01-09T03:54:30.609Z",
+	"dcterms:created": "2025-01-09T03:54:30.609Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -469,7 +468,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225430609#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -483,7 +482,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225339629#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225430609#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName[2]"
 		}
@@ -611,10 +610,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232252336",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232329019",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T04:22:52.336Z",
-	"dcterms:modified": "2025-01-09T04:23:29.019Z",
+	"dcterms:created": "2025-01-09T04:23:29.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -625,7 +623,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232252336#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232329019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -639,7 +637,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232252336#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232329019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName"
 		}
@@ -732,7 +730,7 @@
     take those peas, I think, to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">Why so. Doctor?</q>  
     <q type="spoken">Because that is the way to make 'em green.</q> Now our friend  
     would give the blunder with this sort of additional dressing. At  
-    sight of the dishes of vegetables.<persName key="Goldsmith">Goldsmith</persName>, who was at his own  
+    sight of the dishes of vegetables. <persName key="Goldsmith">Goldsmith</persName>, who was at his own  
     house, took off the covers, one after another, with great anxiety, till  
     he found that peas were among them; upon which he rubbed his  
     hands with an air of infinite and prospective satisfaction. <q type="spoken">You are  
