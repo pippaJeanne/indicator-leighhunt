@@ -218,7 +218,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108222902244",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:29:02.244Z",
-	"dcterms:modified": "2025-01-09T03:29:02.244Z",
+	"dcterms:modified": "2025-01-09T03:31:39.826Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -252,7 +252,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "http://dbpedia.org/resource/John_Falstaff",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -303,7 +305,7 @@
     till the over-done <placeName type="fictional" key="Tower of Babel" corresp="Babylon" ref="http://dbpedia.org/resource/Tower_of_Babel">Babel</placeName> topples and tumbles down amidst a merry  
     confusion of tongues. </p>
 
-    <p><persName type="fictional" key="Sir John Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
+    <p><persName type="fictional" key="John Falstaff" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
     himself; witness his famous account of the men in <placeName type="fictional" key="buckram">buckram</placeName>. Thus he  
     tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice <q type="spoken">with singing  
     of anthems;</q><note type="source"><bibl><author><persName key="William Shakespeare">Shakespeare</persName></author>, <title level="m">Henry IV</title> part 2, Act1 Scene2 </bibl></note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
