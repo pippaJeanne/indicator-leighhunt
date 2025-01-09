@@ -2276,7 +2276,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122819378",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:28:19.378Z",
-	"dcterms:modified": "2025-01-09T17:28:19.378Z",
+	"dcterms:modified": "2025-01-09T17:28:38.131Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2304,6 +2304,85 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122819378#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[4]/p[8]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Torquato_Tasso",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122845265",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-09T17:28:45.265Z",
+	"dcterms:modified": "2025-01-09T17:28:45.265Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122845265#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122845265#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[4]/p[8]/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -2725,7 +2804,7 @@
     few instances of insane poets, or of insane great understandings  
     of any sort. <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Bacon</persName>, <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, <persName key="Isaac Newton" ref="http://dbpedia.org/resource/Isaac_Newton" type="real">Newton</persName>, <persName key="William Shakspeare">Shakspeare</persName>, <persName key="Miguel de Cervantes" ref="http://dbpedia.org/resource/Miguel_de_Cervantes" type="real">Cervantes</persName>, etc.  
     were all of minds as sound as they were great. So it has been with  
-    the infinite majority of literary men of all countries. If <persName key="Torquato Tasso">Tasso</persName> and a  
+    the infinite majority of literary men of all countries. If <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" type="real">Tasso</persName> and a  
     few others were exceptions, they were but exceptions; and the  
     derangement in these eminent men has very doubtful characters about  
     it, and is sometimes made a question.  It may be pretty safely  
