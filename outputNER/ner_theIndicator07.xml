@@ -2355,7 +2355,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109122845265",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:28:45.265Z",
-	"dcterms:modified": "2025-01-09T17:28:45.265Z",
+	"dcterms:modified": "2025-01-09T17:30:36.987Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2386,7 +2386,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2623883",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2813,7 +2815,7 @@
 
     affirmed, at least, upon an examination of it, that had they not been  
     the clever men they were, it would have been much worse and less  
-    equivocal. <persName key="Collins">Collins</persName>, whose case was after all one of inanition rather  
+    equivocal. <persName key="William Collins" ref="http://www.wikidata.org/entity/Q2623883" type="real">Collins</persName>, whose case was after all one of inanition rather  
     than insanity, had been a free liver; and seems to have been hurt by  
     having a fortune left him. <persName key="Cowper">Cowper</persName> was weak-bodied, and beset  
     by Methodists. <persName key="Jonathan Swift">Swift</persName>'s body was full of bad humours. He  
