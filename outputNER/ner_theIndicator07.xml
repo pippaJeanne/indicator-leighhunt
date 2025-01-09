@@ -536,7 +536,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108225118679",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:51:18.679Z",
-	"dcterms:modified": "2025-01-09T16:56:44.934Z",
+	"dcterms:modified": "2025-01-09T17:05:28.755Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1011,7 +1011,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109120348427",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:03:48.427Z",
-	"dcterms:modified": "2025-01-09T17:04:42.674Z",
+	"dcterms:modified": "2025-01-09T17:05:13.365Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1045,6 +1045,83 @@
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://dbpedia.org/resource/Andrew_Marvell",
 		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109120551829",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-09T17:05:51.829Z",
+	"dcterms:modified": "2025-01-09T17:05:51.829Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109120551829#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109120551829#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1121,7 +1198,7 @@
 
     <pb n="50"/>
 
-    the old blunder attributed to <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real" xml:id="#goldsmith">Goldsmith</persName> about a dish of green peas.  
+    the old blunder attributed to <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real" xml:id="goldsmith">Goldsmith</persName> about a dish of green peas.  
     Somebody had been applauded in company for advising his cook to  
     take some ill-drest peas to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>, <q type="spoken">because that was the  
     way to turn'em Green;</q> upon which <persName key="Goldsmith">Goldsmith</persName> is said to have gone  
@@ -1189,7 +1266,7 @@
 
     <p>We do not know, and perhaps it would be impossible to discover,  
     whether <persName key="Samuel Butler">Butler</persName> wrote his minor pieces before those of the great  
-    patriot <persName key="Andrew Marvell" ref="https://dbpedia.org/resource/Andrew_Marvell" type="real">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
+    patriot <persName key="Andrew Marvell" ref="https://dbpedia.org/resource/Andrew_Marvell" type="real" xml:id="marvell">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
     poetry. <persName key="Andrew Marvell">Marvell</persName>, though born later, seems to have been known earlier  
     as an author. He was certainly known publicly before him. But in  
     the political poems of <persName key="Andrew Marvell">Marvell</persName> there is a ludicrous Character of  
