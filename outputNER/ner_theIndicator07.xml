@@ -1328,7 +1328,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109121140257",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:11:40.257Z",
-	"dcterms:modified": "2025-01-09T17:11:40.257Z",
+	"dcterms:modified": "2025-01-09T17:13:27.689Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1359,7 +1359,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Henry_II_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1602,7 +1604,7 @@
     pleasantness to all ranks, that he was called the Delight of the  
     Western World. </p>
 
-    <p>All on a sudden, to every body's surprise, <persName key="King Henry II">Henry the 2nd</persName>, from  
+    <p>All on a sudden, to every body's surprise, <persName key="Henry II of England" ref="https://dbpedia.org/resource/Henry_II_of_England" type="real">Henry the 2nd</persName>, from  
     Chancellor made him Archbishop; and with equal suddenness, though  
     retaining his affability, <persName key="Thomas Becket">the new head of the English church</persName> put off  
     all his worldly graces and pleasures (save and except a rich gown  
