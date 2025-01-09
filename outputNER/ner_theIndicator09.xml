@@ -1023,7 +1023,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109160150732",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T21:01:50.732Z",
-	"dcterms:modified": "2025-01-09T21:01:50.732Z",
+	"dcterms:modified": "2025-01-09T21:02:04.069Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1054,7 +1054,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Circe",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1127,7 +1132,7 @@ plagued with a spurious <title level="m" key="Don Quixote" ref="https://dbpedia.
 writers on the present subject, availing themselves of an obscure 
 prophecy of <persName key="Tiresias" ref="http://dbpedia.org/resource/Tiresias" type="fictional">Tiresias</persName>, who tells <persName key="Ulysses">Ulysses</persName> on his visit to hell, that 
 his old enemy the sea would be the death of him at last, bring 
-over the sea <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional">Telegonus</persName>, his son by the goddess <persName key="Circe">Circe</persName>, who gets into 
+over the sea <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional">Telegonus</persName>, his son by the goddess <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>, who gets into 
 a scuffle with the Ithacans, and kills his father unknowingly. It is 
 added, that <persName key="Telegonus">Telegonus</persName> afterwards returned to his mother's island, 
 taking <persName key="Penelope">Penelope</persName> and his half-brother <persName key="Telemachus">Telemachus</persName> with him; and 
