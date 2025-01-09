@@ -2750,7 +2750,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250109124007960",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T17:40:07.960Z",
-	"dcterms:modified": "2025-01-09T17:40:07.960Z",
+	"dcterms:modified": "2025-01-09T17:40:24.464Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2781,7 +2781,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#kingAlfred",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3239,7 +3241,7 @@
     by some to have been an internal cancer; by others, with more  
     probability, the black bile, or melancholy. The physicians of those  
     times knew nothing about it; and the people shewed at once their  
-    ignorance, and their admiration of <persName key="King Alfred the Great">the king</persName>, by saying that the devil  
+    ignorance, and their admiration of <persName key="King Alfred the Great" ref="#kingAlfred" type="real">the king</persName>, by saying that the devil  
     had caused it out of jealousy. It was probably produced by anxiety  
     for the state of his country; but the same thing which wounded him  
     might have helped to keep him up; for he had plenty of business to.  
