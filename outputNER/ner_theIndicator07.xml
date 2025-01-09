@@ -297,10 +297,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108223614862",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223740890",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-09T03:36:14.862Z",
-	"dcterms:modified": "2025-01-09T03:36:14.862Z",
+	"dcterms:created": "2025-01-09T03:37:40.890Z",
+	"dcterms:modified": "2025-01-09T03:37:40.890Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -311,7 +311,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108223614862#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223740890#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml",
@@ -325,13 +325,16 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?place_annotation_20250108223614862#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108223740890#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/placeName"
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		]
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -383,7 +386,7 @@
     confusion of tongues. </p>
 
     <p><persName type="fictional" key="John Falstaff" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
-    himself; witness his famous account of the men in <placeName type="fictional" key="buckram">buckram</placeName>. Thus he  
+    himself; witness his famous account of the men in buckram. Thus he  
     tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice <q type="spoken">with singing  
     of anthems;</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> part 2, Act1 Scene2 </bibl></note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
     an everlasting bonfire light</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV part 1</title>, Act3 Scene3</bibl></note> and says it has saved him <q type="spoken">a thousand  
