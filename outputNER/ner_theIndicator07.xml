@@ -614,7 +614,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108232252336",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T04:22:52.336Z",
-	"dcterms:modified": "2025-01-09T04:22:52.336Z",
+	"dcterms:modified": "2025-01-09T04:23:29.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -645,7 +645,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Samuel_Butler_(poet)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -761,7 +763,7 @@
     <q type="spoken">Because, Sir,</q> and here <persName key="Goldsmith">Goldsmith</persName> looked round with triumphant  
     anticipation, <q type="spoken">that is the way to render those peas green.</q> </p>
 
-    <p>There is a very humourous piece of exaggeration in <persName key="Samuel Butler">Butler</persName>'s  
+    <p>There is a very humourous piece of exaggeration in <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName>'s  
     remains,— a collection, by the bye, well worthy of <title level="a">Hudibras</title> and  
     indeed of more interest to the general reader. <persName key="Samuel Butler">Butler</persName> is defrauded of  
     his fame with readers of taste who happen to be no politicians, when  
