@@ -380,7 +380,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator07.xml?person_annotation_20250108224533067",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T03:45:33.067Z",
-	"dcterms:modified": "2025-01-09T03:45:33.067Z",
+	"dcterms:modified": "2025-01-09T03:47:46.536Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -414,7 +414,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Bardolph_(Shakespeare_character)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -468,7 +470,7 @@
     <p><persName type="fictional" key="John Falstaff" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
     himself; witness his famous account of the men in buckram. Thus he  
     tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice <q type="spoken">with singing  
-    of anthems;</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 2, Act1 Scene2</biblScope> </bibl></note> and he calls <persName type="fictional" key="Bardolph">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
+    of anthems;</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 2, Act1 Scene2</biblScope> </bibl></note> and he calls <persName type="fictional" key="Bardolph" ref="https://dbpedia.org/resource/Bardolph_(Shakespeare_character)">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
     an everlasting bonfire light</q><note type="source"><bibl><author>Shakespeare</author>, <title cert="high" generatedBy="human" level="m" xml:space="default">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> and says it has saved him <q type="spoken">a thousand  
     marks in links and torches,</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> walking with it <q type="spoken">in the night betwixt  
     tavern and tavern.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> See how he goes heightening the account of  
