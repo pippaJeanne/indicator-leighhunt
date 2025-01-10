@@ -4135,7 +4135,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109233340931",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T04:33:40.931Z",
-	"dcterms:modified": "2025-01-10T04:33:40.931Z",
+	"dcterms:modified": "2025-01-10T04:34:06.475Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4166,7 +4166,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Anacharsis",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4493,7 +4495,7 @@ and philosophy. The philosopher travelled into <placeName type="country" key="Eg
 son to see his father. The merchant heard in <placeName type="region" key="Phoenicia" corresp="Lebanon" ref="http://www.wikidata.org/entity/Q41642">Phoenicia</placeName> the far- 
 brought stories of other realms, which he told to his delighted 
 countrymen. It is supposed, that the mortal part of Mentor in <title level="m">the 
-Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis">Anacharsis</persName> 
+Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis" ref="http://dbpedia.org/resource/Anacharsis" type="real">Anacharsis</persName> 
 the Scythian was reproached with his native place by an unworthy 
 Greek, he said, <q type="spoken">My country may be a shame to me, but you are a 
 shame to your country.</q><note type="source"><bibl>Translation <author>Diogenes Laërtius</author><title level="a">Life of Anacharsis, the Scythian</title><ref target="https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"/></bibl></note> <placeName type="country" key="Greece" corresp="Greece">Greece</placeName> had a lofty notion of the Persians 
