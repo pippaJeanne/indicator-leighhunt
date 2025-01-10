@@ -5645,7 +5645,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110180859614",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:08:59.614Z",
-	"dcterms:modified": "2025-01-10T23:08:59.614Z",
+	"dcterms:modified": "2025-01-10T23:10:45.320Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5676,7 +5676,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_Milton",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6076,7 +6078,7 @@ for their great respect for strangers. The peculiarity of their position,
 amid the absence of so many things which are common-places to other 
 countries, such as streets, horses, and coaches, add, no doubt, to 
 this feeling. But a foolish or vain people would only feel a contempt 
-for what they did not possess. <persName key="Milton">Milton</persName>, in one those favourite 
+for what they did not possess. <persName key="John Milton" ref="https://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, in one those favourite 
 passages of his, in which he turns a mere vocabulary into such grand 
 meaning and music, shews us whose old footing he had delighted to 
 follow. How he enjoys the distance; emphatically using the words, 
