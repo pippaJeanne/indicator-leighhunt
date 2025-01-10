@@ -6771,7 +6771,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?title_annotation_20250110184134969",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:41:34.969Z",
-	"dcterms:modified": "2025-01-10T23:41:34.969Z",
+	"dcterms:modified": "2025-01-10T23:48:06.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6802,7 +6802,88 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://books.google.ca/books/about/Recollections_of_Christ_s_Hospital_by_th.html?id=od-ILOv5p_cC&amp;redir_esc=y",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110184822876",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T23:48:22.876Z",
+	"dcterms:modified": "2025-01-10T23:48:33.339Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110184822876#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110184822876#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[14]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q25610",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7251,11 +7332,11 @@ country, has that delicious line, full of a dreary yet lulling pleasure : — </
 <p>In childhood, the total ignorance of the world, especially when we 
 are brought up in some confined spot, renders every thing beyond 
 the bounds of our dwelling a distance and a romance. <persName key="Charles Lamb" ref="http://dbpedia.org/resource/Charles_Lamb" type="real">Mr. Lamb</persName>, in 
-his <title level="s">Recollections of Christ's Hospital</title>, says that he remembers when some 
+his <title level="s" ref="https://books.google.ca/books/about/Recollections_of_Christ_s_Hospital_by_th.html?id=od-ILOv5p_cC&amp;redir_esc=y">Recollections of Christ's Hospital</title>, says that he remembers when some 
 half-dozen of his schoolfellows set off, <q>without map, card, or 
 compass, on a serious expedition to find out <hi rend="italic"><persName type="fictional" key="Philip Quarll">Philip Quarll</persName>'s Island.</hi></q><note type="source"><bibl><author>Charles Lamb</author><title level="m">Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt</title><ref target="https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up"/></bibl></note> We 
 once encountered a set of boys as romantic. It was at no greater 
-distance than at the foot of a hill near <placeName type="region" key="Hampstead" corresp="England">Hampstead</placeName>; yet the spot was 
+distance than at the foot of a hill near <placeName type="region" key="Hampstead" corresp="England" ref="http://www.wikidata.org/entity/Q25610">Hampstead</placeName>; yet the spot was 
 so perfectly <placeName type="region" key="Cisalpine" corresp="Italy">Cisalpine</placeName> to them, that two of them came up to us with 
 looks of hushing eagerness, and asked, <q type="spoken">whether, on the other side 
 of that hill there were not robbers:</q> to which, the minor 
