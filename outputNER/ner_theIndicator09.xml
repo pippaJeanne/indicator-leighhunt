@@ -4770,7 +4770,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110170533581",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T22:05:33.581Z",
-	"dcterms:modified": "2025-01-10T22:05:33.581Z",
+	"dcterms:modified": "2025-01-10T22:15:22.045Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4801,7 +4801,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://books.google.ca/books?id=mwEyAQAAMAAJ&amp;pg=PA469&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5143,7 +5148,7 @@ wonderful place is the island of <placeName type="region" key="Sri Lanka" corres
 could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq" ref="http://www.wikidata.org/entity/Q1530"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of  <placeName type="city" key="Cairo" corresp="Egypt" ref="http://www.wikidata.org/entity/Q85">Grand Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
 modern city! <persName key="Sinbad the Sailor" ref="http://dbpedia.org/resource/Sinbad_the_Sailor" type="fictional">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
-seen so many adventures and nations. So was <persName key="Aboulfaouris">Aboulfaouris</persName> the 
+seen so many adventures and nations. So was <persName key="Aboulfaouris" ref="https://books.google.ca/books?id=mwEyAQAAMAAJ&amp;pg=PA469&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false" type="fictional">Aboulfaouris</persName> the 
 Great Voyager, in the Persian Tales. His very name sounds like a 
 wonder. </p>
 
