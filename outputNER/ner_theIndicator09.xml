@@ -2936,7 +2936,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109224518981",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:45:18.981Z",
-	"dcterms:modified": "2025-01-10T03:45:18.981Z",
+	"dcterms:modified": "2025-01-10T03:45:36.669Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2967,7 +2967,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5823",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3135,7 +3137,7 @@ and <placeName type="country" key="Morocco" corresp="Morocco" ref="http://www.wi
 the sea there bathes round about. Slowly we went, my companions and 
 I, for we were old; till at last we came to that narrow outlet, where 
 <persName key="Hercules" ref="https://dbpedia.org/page/Hercules" type="fictional">Hercules</persName> set up his pillars, that no man might go further. I left <placeName type="city" key="Seville" corresp="Spain" ref="http://www.wikidata.org/entity/Q8717">Seville</placeName> 
-on the right hand : on the other I had left <placeName type="region" key="Ceuta" corresp="Spain">Ceuta</placeName>. O brothers, said 
+on the right hand : on the other I had left <placeName type="region" key="Ceuta" corresp="Spain" ref="http://www.wikidata.org/entity/Q5823">Ceuta</placeName>. O brothers, said 
 I, who through a hundred thousand perils are at length arrived at 
 the west, deny not to the short waking day that yet remains to our 
 senses, an insight into the unpeopled world, setting your backs upon 
