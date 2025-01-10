@@ -3655,7 +3655,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109232306166",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T04:23:06.166Z",
-	"dcterms:modified": "2025-01-10T04:23:06.166Z",
+	"dcterms:modified": "2025-01-10T04:24:52.927Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3687,9 +3687,89 @@
 	},
 	"oa:hasBody": {
 		"@type": [
+			"cwrc:NaturalPerson",
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "http://dbpedia.org/resource/Eve",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109232507432",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T04:25:07.432Z",
+	"dcterms:modified": "2025-01-10T04:25:07.432Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109232507432#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109232507432#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p[5]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3972,7 +4052,7 @@ cage. Instead of going to Nature in their poetry, they would make
 her come to them, and dress herself at their last new <choice><orig>toilet</orig><reg>toilette</reg></choice>. In 
 practical philosophy and metaphysics, they divest themselves of gross 
 prejudices, and then think they are in as graceful a state of nakedness 
-as <persName type="both" key="Adam" ref="https://dbpedia.org/resource/Adam">Adam</persName> and <persName type="fictional" key="Eve">Eve</persName>. </p>
+as <persName type="both" key="Adam" ref="https://dbpedia.org/resource/Adam">Adam</persName> and <persName type="both" key="Eve" ref="http://dbpedia.org/resource/Eve">Eve</persName>. </p>
 
 <p>At the time when the French had this fit upon them of praising 
 the English (which was nevertheless the honester one of the two), 
