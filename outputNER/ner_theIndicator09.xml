@@ -3094,7 +3094,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109224919268",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:49:19.268Z",
-	"dcterms:modified": "2025-01-10T03:49:19.268Z",
+	"dcterms:modified": "2025-01-10T03:50:25.980Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3125,7 +3125,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Jesus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3329,7 +3331,7 @@ and be condemned to a swathing of eternal fire, while <persName key="St. Dominic
 who deluged Christianity with fire and blood, is called a Cherubic 
 light, the papist, not the poet, must explain. He puts all the Pagans 
 in hell, because however good some of them may have been, they 
-lived before <persName key="Jesus Christ">Christ</persName>, and could not worship <persName key="God">God</persName> properly — (debitamente). 
+lived before <persName key="Jesus" ref="http://dbpedia.org/resource/Jesus" type="real">Christ</persName>, and could not worship <persName key="God">God</persName> properly — (debitamente). 
 But he laments their state, and represents them as suffering 
 a mitigated punishment: they only live in a state of perpetual 
 desire without hope <hi xml:lang="italian">(sol di tanto offesi)</hi> ! A sufficing misery, it must 
