@@ -2132,7 +2132,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109221841100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:18:41.100Z",
-	"dcterms:modified": "2025-01-10T03:18:41.100Z",
+	"dcterms:modified": "2025-01-10T03:21:19.259Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2163,7 +2163,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Virgil",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2285,7 +2287,7 @@ a death of his own. </p>
 impatient of staying at home, after a life of such adventure and 
 excitement. But we will relate the story in his own order. He begins 
 it with one of his most romantic pieces of wildness. The poet and 
-his guide <persName key="Virgil">Virgil</persName> are making the best of their difiicult path along a 
+his guide <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> are making the best of their difiicult path along a 
 ridge of the craggy rock, that overhangs the eighth gulph of hell: 
 when <persName key="Dante">Dante</persName>, looking down, sees the abyss before him full of flickering 
 lights; as numerous, he says, as the fire-flies, which a peasant, 
