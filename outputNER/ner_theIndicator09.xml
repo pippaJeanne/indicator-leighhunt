@@ -1892,7 +1892,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109221240909",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:12:40.909Z",
-	"dcterms:modified": "2025-01-10T03:12:40.909Z",
+	"dcterms:modified": "2025-01-10T03:15:36.768Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1923,7 +1923,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Icarius_of_Sparta",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2023,7 +2028,7 @@ Nature; a fiction, as <persName key="Francis Bacon" ref="http://dbpedia.org/reso
 indiscreetly.</q><note type="source"><bibl><author>Francis Bacon</author><title level="m">The Wisdom of the Ancients</title><ref target="https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"/></bibl></note> There are different stories respecting her lovers; but it is 
 reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>, he divorced her for 
 incontinence; and that she fled, and passed her latter days in 
-<placeName type="city" key="Mantineia" corresp="Greece" ref="http://www.wikidata.org/entity/Q1160195">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
+<placeName type="city" key="Mantineia" corresp="Greece" ref="http://www.wikidata.org/entity/Q1160195">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta" ref="http://dbpedia.org/resource/Icarius_of_Sparta" type="fictional">Icarius</persName> had 
 attempted to destroy her when young, because the oracle had told him 
 that she would be the most dissolute of the family. This was probably 
 invented by the comic writers out of a buffoon malignity; for 
