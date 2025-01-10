@@ -3493,7 +3493,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109230826936",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T04:08:26.936Z",
-	"dcterms:modified": "2025-01-10T04:08:26.936Z",
+	"dcterms:modified": "2025-01-10T04:08:39.148Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3524,7 +3524,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q142",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3801,7 +3803,7 @@ own despots and bigots. When they again became the greatest
 power in <placeName type="continent" key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, they had a relapse of their old egotism. The 
 French, though an amiable and intelligent people, are not an imaginative 
 one. The greatest height they go is in a balloon. They get 
-no farther than <placeName type="country" key="France" corresp="France">France</placeName>, let them go where they will. They <q type="soCalled">run 
+no farther than <placeName type="country" key="France" corresp="France" ref="http://www.wikidata.org/entity/Q142">France</placeName>, let them go where they will. They <q type="soCalled">run 
 the great circle and are still at home,</q> like the squirrel in his rolling 
 cage. Instead of going to Nature in their poetry, they would make 
 her come to them, and dress herself at their last new <choice><orig>toilet</orig><reg>toilette</reg></choice>. In 
