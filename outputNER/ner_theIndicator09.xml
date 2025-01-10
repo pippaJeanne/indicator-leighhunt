@@ -6297,7 +6297,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110182958681",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:29:58.681Z",
-	"dcterms:modified": "2025-01-10T23:29:58.681Z",
+	"dcterms:modified": "2025-01-10T23:31:54.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6328,7 +6328,88 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5579267",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110183203129",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T23:32:03.129Z",
+	"dcterms:modified": "2025-01-10T23:32:03.129Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110183203129#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110183203129#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/cit[3]/quote/lg/l[9]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2002951",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6742,8 +6823,8 @@ far, farthest, and utmost ! </p>
 <l><placeName type="city" key="Meroë" corresp="Ethiopia" ref="http://www.wikidata.org/entity/Q5780">Meroe, Nilotick isle</placeName><note type="editorial"><ref target="https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml"/>Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
 <l><placeName type="region" key="Morocco" corresp="Morocco" ref="http://www.wikidata.org/entity/Q1028">The realm of <persName key="Bocchus I" ref="http://dbpedia.org/resource/Bocchus_I" type="real">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName type="physical" key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
 <l>From the Asian kings, and Parthian among these; </l>
-<l>From <placeName type="country" key="India" corresp="India" ref="http://www.wikidata.org/entity/Q668">India</placeName> and <placeName type="region" key="the Golden Chersonese" corresp="Malaysia">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
-<l>And utmost Indian isle <placeName type="region" key="Taprobane" corresp="Sri Lanka">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
+<l>From <placeName type="country" key="India" corresp="India" ref="http://www.wikidata.org/entity/Q668">India</placeName> and <placeName type="region" key="Golden Chersonese" corresp="Malaysia" ref="http://www.wikidata.org/entity/Q5579267">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
+<l>And utmost Indian isle <placeName type="region" key="Taprobana" corresp="Sri Lanka" ref="http://www.wikidata.org/entity/Q2002951">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
 </quote></cit><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Regained</title><ref target="https://www.gutenberg.org/cache/epub/58/pg58-images.html"/></bibl></note>
 
 <p>One of the main helps to our love of remoteness in general, is the 
