@@ -1105,7 +1105,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109160239047",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T21:02:39.047Z",
-	"dcterms:modified": "2025-01-09T21:03:06.581Z",
+	"dcterms:modified": "2025-01-10T03:02:52.822Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1269,7 +1269,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220129026",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:01:29.026Z",
-	"dcterms:modified": "2025-01-10T03:01:29.026Z",
+	"dcterms:modified": "2025-01-10T03:02:02.686Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1300,7 +1300,94 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Minerva",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220257049",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T03:02:57.049Z",
+	"dcterms:modified": "2025-01-10T03:03:14.971Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220257049#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220257049#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName[13]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#penelope",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1376,16 +1463,16 @@ his old enemy the sea would be the death of him at last, bring
 over the sea <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional">Telegonus</persName>, his son by the goddess <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>, who gets into 
 a scuffle with the Ithacans, and kills his father unknowingly. It is 
 added, that <persName key="Telegonus">Telegonus</persName> afterwards returned to his mother's island, 
-taking <persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional">Penelope</persName> and his half-brother <persName key="Telemachus" ref="http://dbpedia.org/resource/Telemachus" type="fictional">Telemachus</persName> with him; and 
+taking <persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional" xml:id="penelope">Penelope</persName> and his half-brother <persName key="Telemachus" ref="http://dbpedia.org/resource/Telemachus" type="fictional">Telemachus</persName> with him; and 
 
 <pb n="66"/>
 
 here a singular arrangement takes place, more after the fashion of 
 a modern Catholic dynasty, than an ancient heathen one: for while 
 <choice><orig>Ædipus</orig><reg>Oedipus</reg></choice> was fated to undergo such dreadful misfortunes for marrying 
-his mother without the knowledge of either party, <persName key="Minerva">Minerva</persName> herself 
+his mother without the knowledge of either party, <persName key="Minerva" ref="http://dbpedia.org/resource/Minerva" type="fictional">Minerva</persName> herself 
 comes down from heaven, on the present occasion, to order <persName key="Telegonus">Telegonus</persName> 
-the son of <persName key="Ulysses">Ulysses</persName>, to marry <persName key="Penelope">his father's wife</persName>; <persName key="Telemachus">the other son</persName>, 
+the son of <persName key="Ulysses">Ulysses</persName>, to marry <persName key="Penelope" ref="#penelope" type="fictional">his father's wife</persName>; <persName key="Telemachus">the other son</persName>, 
 at the same time, making a suitable match with his father's mistress, 
 <persName key="Circe">Circe</persName>, <persName key="Telemachus">Telemachus</persName> seems to have had the best of this extraordinary 
 bargain, for <persName key="Circe">Circe</persName> was a goddess, consequently always young; and 
