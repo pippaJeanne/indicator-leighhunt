@@ -6689,10 +6689,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110183846313",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110184047957",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-10T23:38:46.313Z",
-	"dcterms:modified": "2025-01-10T23:38:46.313Z",
+	"dcterms:created": "2025-01-10T23:40:47.957Z",
+	"dcterms:modified": "2025-01-10T23:40:47.957Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6703,7 +6703,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110183846313#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110184047957#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
@@ -6717,13 +6717,15 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110183846313#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110184047957#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[14]/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Charles_Lamb",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7159,7 +7161,7 @@ country, has that delicious line, full of a dreary yet lulling pleasure : — </
 <cit>
     <quote>
 <lg xml:lang="en" rend="center">
-<l>As when a shepherd of the <placeName type="region" key="Hebrides" corresp="Scotland" ref="http://www.wikidata.org/entity/Q123377"><choice><orig>Hebrid isles</orig><reg>Hebrides</reg></choice></placeName>,</l>
+<l>As when a shepherd of the <placeName type="region" key="Hebrides" corresp="Scotland"><choice><orig>Hebrid isles</orig><reg>Hebrides</reg></choice></placeName>,</l>
 <l><hi rend="italic">Placed far amid the melancholy main</hi>. </l></lg>
     </quote>
     <note type="source"> 
@@ -7171,7 +7173,7 @@ country, has that delicious line, full of a dreary yet lulling pleasure : — </
 
 <p>In childhood, the total ignorance of the world, especially when we 
 are brought up in some confined spot, renders every thing beyond 
-the bounds of our dwelling a distance and a romance. <persName key="Charles Lamb">Mr. Lamb</persName>, in 
+the bounds of our dwelling a distance and a romance. <persName key="Charles Lamb" ref="http://dbpedia.org/resource/Charles_Lamb">Mr. Lamb</persName>, in 
 his <title level="s">Recollections of Christ's Hospital</title>, says that he remembers when some 
 half-dozen of his schoolfellows set off, <q>without map, card, or 
 compass, on a serious expedition to find out <hi rend="italic"><persName type="fictional" key="Philip Quarll">Philip Quarll</persName>'s Island.</hi></q><note type="source"><bibl><author>Charles Lamb</author><title level="m">Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt</title><ref target="https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up"/></bibl></note> We 
