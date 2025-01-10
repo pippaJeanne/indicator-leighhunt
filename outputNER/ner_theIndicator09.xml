@@ -4451,7 +4451,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110164830113",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T21:48:30.113Z",
-	"dcterms:modified": "2025-01-10T21:48:30.113Z",
+	"dcterms:modified": "2025-01-10T22:02:48.147Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4482,7 +4482,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q854",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4820,7 +4822,7 @@ betrayed the softness of their skulls. </p>
 chief accomplishments of the world to themselves; as we see by their 
 delightful tales. Every thing shines with them in the distance, like 
 a sunset. What an amiable people are their Persians! What a 
-wonderful place is the island of <placeName type="region" key="Serendib" corresp="Sri Lanka">Serendib</placeName>! You would think nothing 
+wonderful place is the island of <placeName type="region" key="Sri Lanka" corresp="Sri Lanka" ref="http://www.wikidata.org/entity/Q854">Serendib</placeName>! You would think nothing 
 could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of  <placeName type="city" key="Cairo" corresp="Egypt">Grand Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
 modern city! <persName key="Sindbad">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
