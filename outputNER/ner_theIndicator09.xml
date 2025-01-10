@@ -5531,83 +5531,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110173904876",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-10T22:39:04.876Z",
-	"dcterms:modified": "2025-01-10T22:39:04.876Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/pippaJeanne",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Yanet Hernandez"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110173904876#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110173904876#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[3]/p[11]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
    <!-- Add any encoding information or guidelines here if applicable -->
    <p>
@@ -5988,7 +5911,7 @@ been </p>
 <p>How like a return from the moon must have been the re-appearance 
 of such travellers as <persName key="John Mandeville" ref="https://dbpedia.org/page/John_Mandeville" type="real">Sir John Mandevile</persName>, <persName key="Marco Polo" ref="http://dbpedia.org/resource/Marco_Polo" type="real">Marco Polo</persName>, and 
 <persName key="William de Rubruquis" ref="https://dbpedia.org/resource/William_of_Rubruck" type="real">William de Rubruquis</persName>, with their news of <persName key="Prester John" ref="https://dbpedia.org/resource/Prester_John" type="fictional">Prester John</persName>, the Great 
-Mogul, and the <placeName type="region" key="Great Cham of Tartary" corresp="Asia">Great Cham of Tartary</placeName>! The long-lost voyager 
+Mogul, and the Great Cham of Tartary! The long-lost voyager 
 must have been like a person consecrated in all the quarters of 
 heaven. His staff and his beard must have looked like relics of his 
 former self. The Venetians, who were some of the earliest European 
