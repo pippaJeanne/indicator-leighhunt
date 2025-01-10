@@ -7008,7 +7008,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110185458342",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:54:58.342Z",
-	"dcterms:modified": "2025-01-10T23:54:58.342Z",
+	"dcterms:modified": "2025-01-10T23:56:04.037Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -7039,10 +7039,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": [
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		]
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Ossian",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7521,7 +7520,7 @@ sylvans and fairies. </p>
 
 <div2 type="section" n="3">
 
-<head cert="high" generatedBy="human" place="top" rend="center uppercase" xml:space="default" type="header">Passages from <persName type="fictional" key="Ossian">Ossian</persName>, alluded to in our last.</head>
+<head cert="high" generatedBy="human" place="top" rend="center uppercase" xml:space="default" type="header">Passages from <persName type="real" key="Ossian" ref="http://dbpedia.org/resource/Ossian">Ossian</persName>, alluded to in our last.</head>
 
 <p>On renewing our acquaintance with <persName type="fictional" key="Ossian">Ossian</persName>, we felt tempted to 
 go to some length about him; but we must reserve our criticism for 
