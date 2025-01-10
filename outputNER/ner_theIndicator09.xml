@@ -3896,7 +3896,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109232737632",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T04:27:37.632Z",
-	"dcterms:modified": "2025-01-10T04:27:37.632Z",
+	"dcterms:modified": "2025-01-10T04:32:08.972Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3927,7 +3927,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q36288",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3935,7 +3937,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4237,7 +4240,7 @@ pay strangers even this equivocal compliment; for under a prodigious
 mask of politeness, they are not slow to evince their contempt 
 of other nations, whenever any comparison is insinuated with the 
 subjects of the Brother of the Sun and Moon. The knowledge they 
-respect in us most, is that of gun-making, and of <placeName type="Road" key="East India passage" corresp="India">the East Indian 
+respect in us most, is that of gun-making, and of <placeName type="Road" key="Silk Road" corresp="India" cert="medium" ref="http://www.wikidata.org/entity/Q36288">the East Indian 
 passage</placeName>. When our countrymen shewed them a map of the earth, they 
 enquired for <placeName type="country" key="China" corresp="China">China</placeName>; and on finding that it only made a little piece 
 in a corner, could not contain their derision. They thought that it 
