@@ -5010,7 +5010,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110172031181",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T22:20:31.181Z",
-	"dcterms:modified": "2025-01-10T22:20:31.181Z",
+	"dcterms:modified": "2025-01-10T22:20:52.861Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5041,7 +5041,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q219060",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5410,7 +5412,7 @@ and Italian romance, shaking hands in person ! </p>
 <p>The Crusades pierced into a new world of remoteness. We do not 
 know whether those were much benefited, who took, part in them; 
 but for the imaginative persons remaining at home, the idea of going 
-to <placeName type="country" key="Palestine" corresp="Palestine">Palestine</placeName> must have been like travelling into a supernatural world. 
+to <placeName type="country" key="State of Palestine" corresp="Palestine" ref="http://www.wikidata.org/entity/Q219060">Palestine</placeName> must have been like travelling into a supernatural world. 
 When the compaign itself had a good effect, it must have been of a 
 very fine and highly-tempered description. <persName key="Geoffrey Chaucer">Chaucer</persName>'s Knight, had 
 been </p>
