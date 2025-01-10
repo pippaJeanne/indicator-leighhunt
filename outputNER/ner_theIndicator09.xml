@@ -139,7 +139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109152604909",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T20:26:04.909Z",
-	"dcterms:modified": "2025-01-09T20:39:22.902Z",
+	"dcterms:modified": "2025-01-10T03:05:21.341Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1480,6 +1480,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220525014",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T03:05:25.014Z",
+	"dcterms:modified": "2025-01-10T03:05:35.018Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220525014#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109220525014#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName[21]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#ulysses",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
    <!-- Add any encoding information or guidelines here if applicable -->
    <p>
@@ -1514,7 +1596,7 @@
 that whenever so great a poet told us any thing in addition or 
 continuation of an ancient story, he had a right to be regarded as classical 
 authority. For instance, said he, when he tells us of that characteristic 
-death of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> in one of the books of his <title level="a" ref="https://dbpedia.org/page/Inferno_(Dante)">Inferno</title>, we ought 
+death of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus" xml:id="ulysses">Ulysses</persName> in one of the books of his <title level="a" ref="https://dbpedia.org/page/Inferno_(Dante)">Inferno</title>, we ought 
 to receive the information as authentic, and be glad that we have 
 more news of <persName key="Ulysses" type="fictional">Ulysses</persName> than we looked for. </p>
 
@@ -1561,7 +1643,7 @@ bargain, for <persName key="Circe">Circe</persName> was a goddess, consequently 
 yet to perplex these windings-up still more, <persName key="Telemachus">Telemachus</persName> is represented 
 by some as marrying <persName key="Circe">Circe</persName>'s daughter, and killing his immortal 
 mother-in-law. Nor does the character of the chaste and enduring 
-<persName key="Penelope">Penelope</persName> escape in the confusion. Instead of waiting <persName key="Ulysses">her husband</persName>'s 
+<persName key="Penelope">Penelope</persName> escape in the confusion. Instead of waiting <persName key="Ulysses" ref="#ulysses" type="fictional">her husband</persName>'s 
 return in that patient manner, she is reported to have been 
 over-hospitable to all the suitors; the consequence of which was a son 
 called <persName key="Pan">Pan</persName>, being no less a personage than the god <persName key="Pan">Pan</persName> himself, or 
