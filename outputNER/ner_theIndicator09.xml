@@ -4372,7 +4372,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109233638258",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T04:36:38.258Z",
-	"dcterms:modified": "2025-01-10T04:36:38.258Z",
+	"dcterms:modified": "2025-01-10T04:37:03.513Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4736,7 +4736,7 @@ Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacha
 the Scythian was reproached with his native place by an unworthy 
 Greek, he said, <q type="spoken">My country may be a shame to me, but you are a 
 shame to your country.</q><note type="source"><bibl>Translation <author>Diogenes Laërtius</author><title level="a">Life of Anacharsis, the Scythian</title><ref target="https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"/></bibl></note> <placeName type="country" key="Greece" corresp="Greece" ref="http://www.wikidata.org/entity/Q41">Greece</placeName> had a lofty notion of the Persians 
-and <persName key="Cyrus the Great" ref="https://dbpedia.org/resource/Cyrus_the_Great" type="real">the Great King</persName>, till <persName key="Xerxes I" ref="http://dbpedia.org/resource/Xerxes_I">Xerxes</persName> came over to teach it better, and 
+and <persName key="Cyrus the Great" ref="https://dbpedia.org/resource/Cyrus_the_Great" type="real">the Great King</persName>, till <persName key="Xerxes I" ref="http://dbpedia.org/resource/Xerxes_I" type="real">Xerxes</persName> came over to teach it better, and 
 betrayed the softness of their skulls. </p>
 
 <p>It was the same with the Arabians, at the time when they had the 
@@ -4744,8 +4744,7 @@ chief accomplishments of the world to themselves; as we see by their
 delightful tales. Every thing shines with them in the distance, like 
 a sunset. What an amiable people are their Persians! What a 
 wonderful place is the island of <placeName type="region" key="Serendib" corresp="Sri Lanka">Serendib</placeName>! You would think nothing 
-could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of Grand 
-<placeName type="city" key="Cairo" corresp="Egypt">Cairo</placeName>; and how has that epithet and that name towered in the 
+could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of  <placeName type="city" key="Cairo" corresp="Egypt">Grand Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
 modern city! <persName key="Sindbad">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
 seen so many adventures and nations. So was <persName key="Aboulfaouris">Aboulfaouris</persName> the 
