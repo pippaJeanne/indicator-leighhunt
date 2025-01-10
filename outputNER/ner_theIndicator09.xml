@@ -1734,7 +1734,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109221009369",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:10:09.369Z",
-	"dcterms:modified": "2025-01-10T03:10:09.369Z",
+	"dcterms:modified": "2025-01-10T03:10:46.126Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1765,7 +1765,88 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q22647",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109221050716",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T03:10:50.716Z",
+	"dcterms:modified": "2025-01-10T03:11:04.821Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109221050716#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250109221050716#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1160195",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1863,9 +1944,9 @@ over-hospitable to all the suitors; the consequence of which was a son
 called <persName key="Pan">Pan</persName>, being no less a personage than the god <persName key="Pan" ref="https://dbpedia.org/resource/Pan_(god)" type="fictional">Pan</persName> himself, or 
 Nature; a fiction, as <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName> says, <q type="written">applied very absurdly and 
 indiscreetly.</q><note type="source"><bibl><author>Francis Bacon</author><title level="m">The Wisdom of the Ancients</title><ref target="https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"/></bibl></note> There are different stories respecting her lovers; but it is 
-reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey">Troy</placeName>, he divorced her for 
+reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>, he divorced her for 
 incontinence; and that she fled, and passed her latter days in 
-<placeName type="city" key="Mantinea" corresp="Greece">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
+<placeName type="city" key="Mantineia" corresp="Greece" ref="http://www.wikidata.org/entity/Q1160195">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta">Icarius</persName> had 
 attempted to destroy her when young, because the oracle had told him 
 that she would be the most dissolute of the family. This was probably 
 invented by the comic writers out of a buffoon malignity; for 
