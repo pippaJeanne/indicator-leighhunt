@@ -5089,7 +5089,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250110172819007",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T22:28:19.007Z",
-	"dcterms:modified": "2025-01-10T22:28:19.007Z",
+	"dcterms:modified": "2025-01-10T22:29:43.097Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5120,7 +5120,88 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110172947209",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T22:29:47.209Z",
+	"dcterms:modified": "2025-01-10T22:30:06.779Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110172947209#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110172947209#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/cit[2]/quote/lg/l[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q43",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5491,14 +5572,14 @@ know whether those were much benefited, who took, part in them;
 but for the imaginative persons remaining at home, the idea of going 
 to <placeName type="country" key="State of Palestine" corresp="Palestine" ref="http://www.wikidata.org/entity/Q219060">Palestine</placeName> must have been like travelling into a supernatural world. 
 When the compaign itself had a good effect, it must have been of a 
-very fine and highly-tempered description. <persName key="Geoffrey Chaucer">Chaucer</persName>'s Knight, had 
+very fine and highly-tempered description. <persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s Knight, had 
 been </p>
 
 <cit>
     <quote>
 <lg xml:lang="en" type="original-quotation" xml:id="the-canterbury-tales" rend="center">
 <l>Sometime with the lord of Palatiee </l>
-<l>Agen another hethen in <placeName type="country" key="Turkey" corresp="Turkey">Turkie</placeName> : </l>
+<l>Agen another hethen in <placeName type="country" key="Turkey" corresp="Turkey" ref="http://www.wikidata.org/entity/Q43">Turkie</placeName> : </l>
 <l>And evermore he had a sovereign price; </l>
 <l>And though that he was worthy, he was wise. </l>
 <l>And of his port as meek as is a mayde. </l></lg>
