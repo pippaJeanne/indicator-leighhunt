@@ -6119,7 +6119,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181801721",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:18:01.721Z",
-	"dcterms:modified": "2025-01-10T23:18:01.721Z",
+	"dcterms:modified": "2025-01-10T23:19:09.142Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -6150,7 +6150,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1028",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6562,7 +6564,7 @@ far, farthest, and utmost ! </p>
 <l>Or on <placeName type="region" key="Emilia" corresp="Italy" ref="http://www.wikidata.org/entity/Q1135779">the Emilian</placeName>; some from farthest south, </l>
 <l><placeName type="city" key="Aswan" corresp="Egypt" ref="http://www.wikidata.org/entity/Q29888">Syene</placeName><note type="editorial">Now Aswan, a city on the lower Nile.</note>, and where the shadow both way falls, </l>
 <l><placeName type="city" key="Meroë" corresp="Ethiopia" ref="http://www.wikidata.org/entity/Q5780">Meroe, Nilotick isle</placeName><note type="editorial"><ref target="https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml"/>Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
-<l><placeName type="region" key="the Realm of Bocchus" corresp="Morocco">The realm of <persName key="Bocchus I" ref="http://dbpedia.org/resource/Bocchus_I" type="real">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName type="physical" key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
+<l><placeName type="region" key="Morocco" corresp="Morocco" ref="http://www.wikidata.org/entity/Q1028">The realm of <persName key="Bocchus I" ref="http://dbpedia.org/resource/Bocchus_I" type="real">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName type="physical" key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
 <l>From the Asian kings, and Parthian among these; </l>
 <l>From <placeName type="country" key="India" corresp="India">India</placeName> and <placeName type="region" key="the Golden Chersonese" corresp="Malaysia">the golden Chersonese</placeName><note type="editorial">Chersonese, a peninsula; in this case the Malay peninsula or Cherosnesus Aurea, allegedly the source of Solomon's gold.</note>, </l>
 <l>And utmost Indian isle <placeName type="region" key="Taprobane" corresp="Sri Lanka">Taprobane</placeName><note type="editorial">Ceylon (Sri Lanka) or Sumatra, thought to be the easternmost island on the globe.</note>. <note type="hunt">— Parad. Reg. B. 4.</note> </l></lg>
