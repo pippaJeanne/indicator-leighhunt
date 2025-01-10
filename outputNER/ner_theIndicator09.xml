@@ -849,7 +849,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109160130216",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T21:01:30.216Z",
-	"dcterms:modified": "2025-01-10T03:35:18.422Z",
+	"dcterms:modified": "2025-01-10T03:40:25.600Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2373,7 +2373,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109223932676",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:39:32.676Z",
-	"dcterms:modified": "2025-01-10T03:39:32.676Z",
+	"dcterms:modified": "2025-01-10T03:40:03.392Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2404,7 +2404,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#telamachus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2412,7 +2417,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2562,7 +2568,7 @@ wind. The top then, yearning to and fro, like a tongue trying to
 speak, threw out a voice, and said : <q type="spoken">When I departed from <persName key="Circe">Circe</persName>, 
 who withdrew me to her for more than a year in the neighbourhood 
 of <placeName type="city" key="Gaeta" corresp="Italy" ref="http://www.wikidata.org/entity/Q128089"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Aeneas" ref="http://dbpedia.org/resource/Aeneas" type="fictional">Eneas</persName> had so named it; neither the sweet company 
-of <persName key="Telemachus">my son</persName>, nor pious affection for <persName key="Laertes">my old father</persName>, nor the long-owed 
+of <persName key="Telemachus" cert="medium" ref="#telamachus" type="fictional">my son</persName>, nor pious affection for <persName key="Laertes">my old father</persName>, nor the long-owed 
 love with which I ought to have gladdened <persName key="Penelope">Penelope</persName>, could conquer 
 the ardour that was in me to become wise in knowledge of the world, 
 of man's vices and his virtue. I put forth into the great open deep 
