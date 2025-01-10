@@ -5803,7 +5803,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181235607",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T23:12:35.607Z",
-	"dcterms:modified": "2025-01-10T23:12:35.607Z",
+	"dcterms:modified": "2025-01-10T23:14:56.204Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5831,6 +5831,85 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181235607#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/cit[3]/quote/lg/l[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1135779",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181503594",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-10T23:15:03.594Z",
+	"dcterms:modified": "2025-01-10T23:15:03.594Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernandez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181503594#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?place_annotation_20250110181503594#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/cit[3]/quote/lg/l[4]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -6243,7 +6322,7 @@ far, farthest, and utmost ! </p>
 <lg xml:lang="en" type="original-quotation" xml:id="paradise-regained" rend="center">
 <l> — Embassies from regions far remote, </l>
 <l>In various habits, on <placeName type="Road" key="Appian Way" corresp="Italy" ref="http://www.wikidata.org/entity/Q189417"><choice><orig>the Appian road</orig><reg>the Appian Way</reg></choice></placeName>. </l>
-<l>Or on <placeName type="region" key="the Emilian" corresp="Italy">the Emilian</placeName>; some from farthest south, </l>
+<l>Or on <placeName type="region" key="Emilia" corresp="Italy" ref="http://www.wikidata.org/entity/Q1135779">the Emilian</placeName>; some from farthest south, </l>
 <l><placeName type="city" key="Syene" corresp="Egypt">Syene</placeName><note type="editorial">Now Aswan, a city on the lower Nile.</note>, and where the shadow both way falls, </l>
 <l><placeName type="city" key="Meroë Nilotic Isle" corresp="Ethiopia">Meroe, Nilotick isle</placeName><note type="editorial"><ref target="https://milton.host.dartmouth.edu/reading_room/pr/book_4/text.shtml"/>Capital of ancient Ethiopia, a city surrounded by the lower reaches of the White and Blue Nile; "Nilotic" means simply "of the Nile".</note>; and more to west. </l>
 <l><placeName type="region" key="the Realm of Bocchus" corresp="Morocco">The realm of <persName key="Bocchus I">Bocchus</persName></placeName><note type="editorial">Modern day Morocco.</note> to the <placeName type="physical" key="Black-moor sea" corresp="Morocco">Black-moor sea</placeName><note type="editorial">The Blackmoor Sea denotes the Mediterranean off Morocco's coast.</note>; </l>
