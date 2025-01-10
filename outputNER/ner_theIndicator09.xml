@@ -2290,7 +2290,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator09.xml?person_annotation_20250109222542342",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-10T03:25:42.342Z",
-	"dcterms:modified": "2025-01-10T03:25:42.342Z",
+	"dcterms:modified": "2025-01-10T03:33:34.895Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2321,7 +2321,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Aeneas",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2478,7 +2483,7 @@ hither and thither, murmuring; like a flame struggling with the
 wind. The top then, yearning to and fro, like a tongue trying to 
 speak, threw out a voice, and said : <q type="spoken">When I departed from <persName key="Circe">Circe</persName>, 
 who withdrew me to her for more than a year in the neighbourhood 
-of <placeName type="city" key="Gaeta" corresp="Italy" ref="http://www.wikidata.org/entity/Q128089"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Eneas">Eneas</persName> had so named it; neither the sweet company 
+of <placeName type="city" key="Gaeta" corresp="Italy" ref="http://www.wikidata.org/entity/Q128089"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Aeneas" ref="http://dbpedia.org/resource/Aeneas" type="fictional">Eneas</persName> had so named it; neither the sweet company 
 of <persName key="Telemachus">my son</persName>, nor pious affection for <persName key="Laertes">my old father</persName>, nor the long-owed 
 love with which I ought to have gladdened <persName key="Penelope">Penelope</persName>, could conquer 
 the ardour that was in me to become wise in knowledge of the world, 
