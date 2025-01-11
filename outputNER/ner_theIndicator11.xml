@@ -57,7 +57,7 @@
  </div2>
  <div2 type="section" n="1"> <!-- Header and content -->
 
- <head type="header">THIEVES, ANCIENT AND MODERN. </head>
+ <head type="header" rend="center uppercase">Thieves, Ancient and Modern. </head>
 
 <p>Having met in <title level="s">the Harleian Miscellany</title> with an account of a pet 
 thief of ours, the famous <persName key="Du Vail">Du Vail</persName>, who flourished in the time of <persName key="King Charles II">Charles 
@@ -479,8 +479,8 @@ Platonical; a meeting of divineness with humanity. </p>
 
 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>

@@ -73,7 +73,7 @@ cert="high" type="real">SPENSER</persName>.</l>
 <head type="catalogue">No. XXV.—<date when="1820-03-29">WEDNESDAY, March 29th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center"><persName key="John Hoole">Hoole</persName>'s and <persName key="Edward Farifax">Farifax</persName>'s <persName key="Torquato Tasso">Tasso</persName></head>
+<head type="header" rend="center uppercase"><persName key="John Hoole">Hoole</persName>'s and <persName key="Edward Farifax">Farifax</persName>'s <persName key="Torquato Tasso">Tasso</persName></head>
 <note type="editorial"> Hunt's essay would prove influentially convincing enough
 as to become the introduction to a subsequent 1851 edition of Thomas
 Fairfax's translation, Godfrey of Bulloigne: Or, The Recovery of
@@ -628,7 +628,7 @@ excellently with the spirit of his little work.</p>
 <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
 <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
-<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>,——Price 2d.</p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>,——Price 2d.</p>
 </div2>
 </div1>
 </body>

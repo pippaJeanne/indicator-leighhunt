@@ -7080,28 +7080,20 @@
      <head type="catalogue">No. IX. <date when="1819-12-08">—WEDNESDAY, DECEMBER 8th, 1819</date>.</head>
     </div2>
     <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header">MORE NEWS OF ULYSSES. </head>
+<head type="header" rend="center uppercase">More News of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus" xml:id="ulysses">Ulysses</persName>. </head>
 
 <p>Talking the other day with a friend about <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>, he observed, 
 that whenever so great a poet told us any thing in addition or 
 continuation of an ancient story, he had a right to be regarded as classical 
 authority. For instance, said he, when he tells us of that characteristic 
-death of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus" xml:id="ulysses">Ulysses</persName> in one of the books of his <title level="a" ref="https://dbpedia.org/page/Inferno_(Dante)">Inferno</title>, we ought 
+death of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> in one of the books of his <title level="a" ref="https://dbpedia.org/page/Inferno_(Dante)">Inferno</title>, we ought 
 to receive the information as authentic, and be glad that we have 
-more news of <persName key="Ulysses" type="fictional">Ulysses</persName> than we looked for. </p>
+more news of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> than we looked for. </p>
 
 <p>We thought this a happy remark, and instantly turned with him 
-to the passage in question; for not having read <persName key="Dante">Dante</persName> regularly, we 
+to the passage in question; for not having read <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> regularly, we 
 had passed it over so slightly as not to remember it. Yet it is 
-a striking one, as the reader will see. The last account of Ulysses 
-upon which we may fairly reckon, in the ancient poets, is his sudden 
-re-appearance before the suitors at <placeName type="real" key="Ithaca" ref="https://dbpedia.org/resource/Ithaca_(island)">Ithaca</placeName>, and his consummate and 
-godlike victory over their crest-fallen insolence. There is something 
-more told of him, it is true, before <title level="m" ref="https://dbpedia.org/resource/Odyssey">the Odyssey</title> concludes; but with 
-the exception of his visit to his aged father, our memory scarcely 
-wishes to retain it; nor does it controvert the general impression 
-left upon us, that the wandering hero is victorious over his domestic 
-enemies; and reposes at last, and for life, in the bosom of his family. </p>
+a striking one, as the reader will see. The last account of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> upon which we may fairly reckon, in the ancient poets, is his sudden re-appearance before the suitors at <placeName type="real" key="Ithaca" ref="https://dbpedia.org/resource/Ithaca_(island)">Ithaca</placeName>, and his consummate and godlike victory over their crest-fallen insolence. There is something more told of him, it is true, before <title level="m" ref="https://dbpedia.org/resource/Odyssey">the Odyssey</title> concludes; but with the exception of his visit to his aged father, our memory scarcely wishes to retain it; nor does it controvert the general impression left upon us, that the wandering hero is victorious over his domestic enemies; and reposes at last, and for life, in the bosom of his family. </p>
 
 <p>The lesser poets however could not let him alone. <persName key="Homer" ref="https://dbpedia.org/resource/Homer" type="fictional">Homer</persName> leaves 
 the general impression upon one's mind, as to the close of his life;
@@ -7112,34 +7104,33 @@ are the best writers likely to meddle with it. Thus <persName key="Miguel de Cer
 plagued with a spurious <title level="m" key="Don Quixote" ref="https://dbpedia.org/resource/Don_Quixote">Quixote</title>; and our circulating libraries have 
 <title key="The History of Tom Jones the Foundling, in his Married State" level="a" ref="https://www.google.com/search?q=The+History+of+Tom+Jones+the+Foundling%2C+in+his+Married+State">the adventures of Tom Jones in his Married State</title>. The ancient 
 writers on the present subject, availing themselves of an obscure 
-prophecy of <persName key="Tiresias" ref="http://dbpedia.org/resource/Tiresias" type="fictional">Tiresias</persName>, who tells <persName key="Ulysses">Ulysses</persName> on his visit to hell, that 
+prophecy of <persName key="Tiresias" ref="http://dbpedia.org/resource/Tiresias" type="fictional">Tiresias</persName>, who tells <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> on his visit to hell, that 
 his old enemy the sea would be the death of him at last, bring 
 over the sea <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional" xml:id="telegonus">Telegonus</persName>, his son by the goddess <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>, who gets into 
 a scuffle with the Ithacans, and kills his father unknowingly. It is 
-added, that <persName key="Telegonus">Telegonus</persName> afterwards returned to his mother's island, 
+added, that <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional">Telegonus</persName> afterwards returned to his mother's island, 
 taking <persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional" xml:id="penelope">Penelope</persName> and his half-brother <persName key="Telemachus" ref="http://dbpedia.org/resource/Telemachus" type="fictional" xml:id="telemachus">Telemachus</persName> with him; and 
 
 <pb n="66"/>
 
 here a singular arrangement takes place, more after the fashion of 
 a modern Catholic dynasty, than an ancient heathen one: for while 
-<choice><orig>Ædipus</orig><reg>Oedipus</reg></choice> was fated to undergo such dreadful misfortunes for marrying 
-his mother without the knowledge of either party, <persName key="Minerva" ref="http://dbpedia.org/resource/Minerva" type="fictional">Minerva</persName> herself 
-comes down from heaven, on the present occasion, to order <persName key="Telegonus">Telegonus</persName> 
-the son of <persName key="Ulysses">Ulysses</persName>, to marry <persName key="Penelope" ref="#penelope" type="fictional">his father's wife</persName>; <persName key="Telemachus" ref="#telemachus" type="fictional">the other son</persName>, 
+<persName key="Oedipus" ref="https://dbpedia.org/resource/Oedipus" type="fictional"><choice><orig>Ædipus</orig><reg>Oedipus</reg></choice></persName> was fated to undergo such dreadful misfortunes for marrying 
+his mother without the knowledge of either party, <persName key="Minerva" ref="http://dbpedia.org/resource/Minerva" type="fictional">Minerva</persName> herself comes down from heaven, on the present occasion, to order <persName key="Telegonus" ref="https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)" type="fictional">Telegonus</persName> 
+the son of <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName>, to marry <persName key="Penelope" ref="#penelope" type="fictional">his father's wife</persName>; <persName key="Telemachus" ref="#telemachus" type="fictional">the other son</persName>, 
 at the same time, making a suitable match with his father's mistress, 
-<persName key="Circe">Circe</persName>, <persName key="Telemachus">Telemachus</persName> seems to have had the best of this extraordinary 
-bargain, for <persName key="Circe">Circe</persName> was a goddess, consequently always young; and 
-yet to perplex these windings-up still more, <persName key="Telemachus">Telemachus</persName> is represented 
-by some as marrying <persName key="Circe">Circe</persName>'s daughter, and killing his immortal 
+<persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>, <persName key="Telemachus" ref="http://dbpedia.org/resource/Telemachus" type="fictional">Telemachus</persName> seems to have had the best of this extraordinary 
+bargain, for <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName> was a goddess, consequently always young; and 
+yet to perplex these windings-up still more, <persName key="Telemachus" ref="http://dbpedia.org/resource/Telemachus" type="fictional">Telemachus</persName> is represented 
+by some as marrying <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>'s daughter, and killing his immortal 
 mother-in-law. Nor does the character of the chaste and enduring 
-<persName key="Penelope">Penelope</persName> escape in the confusion. Instead of waiting <persName key="Ulysses" ref="#ulysses" type="fictional">her husband</persName>'s 
+<persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional">Penelope</persName> escape in the confusion. Instead of waiting <persName key="Ulysses" ref="#ulysses" type="fictional">her husband</persName>'s 
 return in that patient manner, she is reported to have been 
 over-hospitable to all the suitors; the consequence of which was a son 
 called <persName key="Pan">Pan</persName>, being no less a personage than the god <persName key="Pan" ref="https://dbpedia.org/resource/Pan_(god)" type="fictional">Pan</persName> himself, or 
 Nature; a fiction, as <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Lord Bacon</persName> says, <q type="written">applied very absurdly and 
 indiscreetly.</q><note type="source"><bibl><author>Francis Bacon</author><title level="m">The Wisdom of the Ancients</title><ref target="https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"/></bibl></note> There are different stories respecting her lovers; but it is 
-reported that when <persName key="Ulysses">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>, he divorced her for 
+reported that when <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> returned from <placeName type="city" key="Troy" corresp="Turkey" ref="http://www.wikidata.org/entity/Q22647">Troy</placeName>, he divorced her for 
 incontinence; and that she fled, and passed her latter days in 
 <placeName type="city" key="Mantineia" corresp="Greece" ref="http://www.wikidata.org/entity/Q1160195">Mantinea</placeName>. Some even go so far as to say, that her father <persName key="Icarius of Sparta" ref="http://dbpedia.org/resource/Icarius_of_Sparta" type="fictional">Icarius</persName> had 
 attempted to destroy her when young, because the oracle had told him 
@@ -7148,14 +7139,14 @@ invented by the comic writers out of a buffoon malignity; for
 there are men, so foolishly incredulous with regard to principle, that 
 the reputation of it, even in a fiction, makes them impatient. </p>
 
-<p>Now it is impossible to say whether <persName key="Dante">Dante</persName> would have left <persName key="Ulysses">Ulysses</persName> 
-quietly with <persName key="Penelope">Penelope</persName> after all his sufferings, had he known them 
+<p>Now it is impossible to say whether <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> would have left <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> 
+quietly with <persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional">Penelope</persName> after all his sufferings, had he known them 
 as described in <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>. The old Florentine, though wilful enough 
 when he wanted to dispose of a modern's fate, had great veneration 
 for his ancient predecessors. At all events, he was not acquainted 
-with <persName key="Homer">Homer</persName>'s works. They did not make their way again into <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> 
+with <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>'s works. They did not make their way again into <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> 
 till a little later. But there were Latin writers extant, who might 
-have informed him of the other stories relative to <persName key="Ulysses">Ulysses</persName>; and he 
+have informed him of the other stories relative to <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName>; and he 
 saw nothing in them, to hinder him from giving the great wanderer 
 a death of his own. </p>
 
@@ -7165,7 +7156,7 @@ excitement. But we will relate the story in his own order. He begins
 it with one of his most romantic pieces of wildness. The poet and 
 his guide <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> are making the best of their difiicult path along a 
 ridge of the craggy rock, that overhangs the eighth gulph of hell: 
-when <persName key="Dante">Dante</persName>, looking down, sees the abyss before him full of flickering 
+when <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>, looking down, sees the abyss before him full of flickering 
 lights; as numerous, he says, as the fire-flies, which a peasant, 
 reposing on a hill, sees filling the valley, of a hot evening. Every 
 flame shot about separately; and he knew that some terrible mystery 
@@ -7175,32 +7166,32 @@ earnestness, said, <q type="written">Within those fires are spirits; every one s
 
 <pb n="67"/>
 
-in what is burning him.</q><note type="source">Translation of Dante's Inferno, Canto 26</note> <persName key="Dante">Dante</persName> told him, that he had already 
+in what is burning him.</q><note type="source">Translation of Dante's Inferno, Canto 26</note> <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> told him, that he had already 
 guessed as much; and pointing to one of them in particular, asked 
 who was in that fire, which was divided at top, as though it had  
 ascended from the funeral-pile of the hating Theban brothers. 
-<q type="written">Within that,</q> answered <persName key="Virgil">Virgil</persName>, <q type="written">are <persName>Diomed</persName> and <persName key="Ulysses">Ulysses</persName>; who 
+<q type="written">Within that,</q> answered <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>, <q type="written">are <persName>Diomed</persName> and <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName>; who 
 speed together now to their own misery, as they used to do to that of 
 others.</q><note type="source"><bibl><author>Dante Alighieri</author><title level="a">Inferno: Canto XXVI</title><ref target="https://www.gutenberg.org/files/1001/1001-h/1001-h.htm"/></bibl></note> They were suffering the penalty of the various frauds they 
 had perpetrated in concert; such as the contrivance of the Trojan 
-horse, and the plunder of the Palladium. <persName key="Dante">Dante</persName> entreats with the 
+horse, and the plunder of the Palladium. <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> entreats with the 
 greatest earnestness, that if those who are within the sparkling horror 
-can speak, it may be made to come near. <persName key="Virgil">Virgil</persName> says it shall; but 
+can speak, it may be made to come near. <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> says it shall; but 
 begs the Florentine not to question it himself; as the spirits, being 
 Greek, might be shy of holding discourse with him. When the flame 
-has come near enough to be spoken to, <persName key="Virgil">Virgil</persName> addresses the <q type="spoken">two 
+has come near enough to be spoken to, <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> addresses the <q type="spoken">two 
 within one fire;</q><note type="source"><bibl><author>Dante Alighieri</author><title level="a">Inferno: Canto XXVI</title><ref target="https://www.gutenberg.org/files/1001/1001-h/1001-h.htm"/></bibl></note> and requests them, if he ever deserved anything of 
 them as a poet, great or little, that they would not go away, till one 
 of them had told him how he came into that extremity. </p>
 
-<p>At this, says <persName key="Dante">Dante</persName>, the greater horn of the old fire began to lap 
+<p>At this, says <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>, the greater horn of the old fire began to lap 
 hither and thither, murmuring; like a flame struggling with the 
 wind. The top then, yearning to and fro, like a tongue trying to 
-speak, threw out a voice, and said : <q type="spoken">When I departed from <persName key="Circe">Circe</persName>, 
+speak, threw out a voice, and said : <q type="spoken">When I departed from <persName key="Circe" ref="http://dbpedia.org/resource/Circe" type="fictional">Circe</persName>, 
 who withdrew me to her for more than a year in the neighbourhood 
 of <placeName type="city" key="Gaeta" corresp="Italy" ref="http://www.wikidata.org/entity/Q128089"><choice><orig>Gaieta</orig><reg>Gaeta</reg></choice></placeName>, before <persName key="Aeneas" ref="http://dbpedia.org/resource/Aeneas" type="fictional">Eneas</persName> had so named it; neither the sweet company 
 of <persName key="Telemachus" cert="medium" ref="#telamachus" type="fictional">my son</persName>, nor pious affection for <persName key="laertes" ref="https://dbpedia.org/resource/Laertes" type="fictional">my old father</persName>, nor the long-owed 
-love with which I ought to have gladdened <persName key="Penelope">Penelope</persName>, could conquer 
+love with which I ought to have gladdened <persName key="Penelope" ref="http://dbpedia.org/resource/Penelope" type="fictional">Penelope</persName>, could conquer 
 the ardour that was in me to become wise in knowledge of the world, 
 of man's vices and his virtue. I put forth into the great open deep 
 with only one bark, and the small remaining crew by whom I had 
@@ -7240,7 +7231,7 @@ seemed fit to others, the ocean closed above our heads.</q><note type="source"><
 <l>Infin ch'l mar fu sopra noi richiuso. </l></lg>
 </quote><bibl><author>Dante Alighieri</author><title level="a">Inferno: Canto XXVI</title><ref target="https://www.gutenberg.org/files/1001/1001-h/1001-h.htm"/></bibl></cit>
 
-<p>Why poor <persName key="Ulysses">Ulysses</persName> should find himself in hell after his immersion, 
+<p>Why poor <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName> should find himself in hell after his immersion, 
 and be condemned to a swathing of eternal fire, while <persName key="St. Dominic" ref="https://dbpedia.org/resource/Saint_Dominic" type="real">St. Dominic</persName>, 
 who deluged Christianity with fire and blood, is called a Cherubic 
 light, the papist, not the poet, must explain. He puts all the Pagans 
@@ -7250,7 +7241,7 @@ But he laments their state, and represents them as suffering
 a mitigated punishment: they only live in a state of perpetual 
 desire without hope <hi xml:lang="italian">(sol di tanto offesi)</hi> ! A sufficing misery, it must 
 be allowed; but compared with the horrors he fancies for heretics 
-and others, undoubtedly a great relief. <persName key="Dante">Dante</persName>, throughout his 
+and others, undoubtedly a great relief. <persName key="Dante Alighieri" ref="https://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>, throughout his 
 extraordinary work, gives many evidences of great natural sensibility;
 and his countenance, as handed down to us, as well as the shadestruck 
 gravity of his poetry in general, shews the cuts and disquietudes 
@@ -7278,7 +7269,7 @@ disturb humanity, and degrade the Divine Spirit. </p>
 </div2>
 
 <div2 type="section" n="2">
-<head type="header">FAR COUNTRIES.</head>
+<head type="header" rend="center uppercase">Far countries.</head>
 
 
 <p>Imagination, though no mean thing, is not a proud one. If it 
@@ -7353,7 +7344,7 @@ of other nations, whenever any comparison is insinuated with the
 subjects of the Brother of the Sun and Moon. The knowledge they 
 respect in us most, is that of gun-making, and of <placeName type="Road" key="Silk Road" corresp="India" cert="medium" ref="http://www.wikidata.org/entity/Q36288">the East Indian 
 passage</placeName>. When our countrymen shewed them a map of the earth, they 
-enquired for <placeName type="country" key="China" corresp="China">China</placeName>; and on finding that it only made a little piece 
+enquired for <placeName type="country" key="China" corresp="China" ref="http://www.wikidata.org/entity/Q29520">China</placeName>; and on finding that it only made a little piece 
 in a corner, could not contain their derision. They thought that it 
 was the main territory in the middle, the apple of the world's eye. </p>
 
@@ -7367,8 +7358,7 @@ the countries from which they brought the elements of their mythology
 and philosophy. The philosopher travelled into <placeName type="country" key="Egypt" corresp="Egypt" cert="high" ref="http://www.wikidata.org/entity/Q79">Egypt</placeName>, like a 
 son to see his father. The merchant heard in <placeName type="region" key="Phoenicia" corresp="Lebanon" ref="http://www.wikidata.org/entity/Q41642">Phoenicia</placeName> the far- 
 brought stories of other realms, which he told to his delighted 
-countrymen. It is supposed, that the mortal part of Mentor in <title level="m">the 
-Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis" ref="http://dbpedia.org/resource/Anacharsis" type="real">Anacharsis</persName> 
+countrymen. It is supposed, that the mortal part of Mentor in <title level="m" ref="https://dbpedia.org/resource/Odyssey">the Odyssey</title> was drawn from one of these voyagers. When <persName key="Anacharsis" ref="http://dbpedia.org/resource/Anacharsis" type="real">Anacharsis</persName> 
 the Scythian was reproached with his native place by an unworthy 
 Greek, he said, <q type="spoken">My country may be a shame to me, but you are a 
 shame to your country.</q><note type="source"><bibl>Translation <author>Diogenes Laërtius</author><title level="a">Life of Anacharsis, the Scythian</title><ref target="https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"/></bibl></note> <placeName type="country" key="Greece" corresp="Greece" ref="http://www.wikidata.org/entity/Q41">Greece</placeName> had a lofty notion of the Persians 
@@ -7382,7 +7372,7 @@ a sunset. What an amiable people are their Persians! What a
 wonderful place is the island of <placeName type="region" key="Sri Lanka" corresp="Sri Lanka" ref="http://www.wikidata.org/entity/Q854">Serendib</placeName>! You would think nothing 
 could be finer than the Caliph's city of <placeName type="city" key="Baghdad" corresp="Iraq" ref="http://www.wikidata.org/entity/Q1530"><choice><orig>Bagdat</orig><reg>Baghdad</reg></choice></placeName>, till you hear of  <placeName type="city" key="Cairo" corresp="Egypt" ref="http://www.wikidata.org/entity/Q85">Grand Cairo</placeName>; and how has that epithet and that name towered in the 
 imagination of all those, who have not had the misfortune to see the 
-modern city! <persName key="Sinbad the Sailor" ref="http://dbpedia.org/resource/Sinbad_the_Sailor" type="fictional">Sindbad</persName> was respected, like <persName key="Ulysses">Ulysses</persName>, because he had 
+modern city! <persName key="Sinbad the Sailor" ref="http://dbpedia.org/resource/Sinbad_the_Sailor" type="fictional">Sindbad</persName> was respected, like <persName key="Ulysses" type="fictional" ref="https://dbpedia.org/resource/Odysseus">Ulysses</persName>, because he had 
 seen so many adventures and nations. So was <persName key="Aboulfaouris" ref="https://books.google.ca/books?id=mwEyAQAAMAAJ&amp;pg=PA469&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false" type="fictional">Aboulfaouris</persName> the 
 Great Voyager, in the Persian Tales. His very name sounds like a 
 wonder. </p>
@@ -7392,7 +7382,7 @@ wonder. </p>
         <p>With many a tempest had his beard been shaken. </p>
     </quote>
     <note type="source"> 
-        <bibl><author><persName key="Geoffrey Chaucer">Chaucer, Geoffrey</persName></author>: <title level="m">The Canterbury Tales</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=canterbury+tales" xml:space="default"/> </bibl>
+        <bibl><author><persName key="Geoffrey Chaucer">Chaucer, Geoffrey</persName></author>: <title level="m">The Canterbury Tales</title><ref cert="high" target="https://www.google.com/search?q=canterbury+tales"/> </bibl>
     </note>
 </cit>
 
@@ -7515,37 +7505,35 @@ sylvans and fairies. </p>
 <l>And I could wish my days to be </l>
 <l>Bound each to each by natural piety."</l> </lg></quote>
 <note type="source">
-<bibl><author>William Wordsworth</author> <title level="a">My Heart Leaps Up</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=my+heart+leaps+up+poem+by+william+wordsworth" xml:space="default"/></bibl></note></cit>
+<bibl><author>William Wordsworth</author> <title level="a">My Heart Leaps Up</title><ref cert="high" target="https://www.google.com/search?q=my+heart+leaps+up+poem+by+william+wordsworth"/></bibl></note></cit>
 </div2>
 
 <div2 type="section" n="3">
+<head rend="center uppercase" type="header">Passages from <persName type="real" key="Ossian" ref="http://dbpedia.org/resource/Ossian">Ossian</persName>, alluded to in our last.</head>
 
-<head cert="high" generatedBy="human" place="top" rend="center uppercase" xml:space="default" type="header">Passages from <persName type="real" key="Ossian" ref="http://dbpedia.org/resource/Ossian">Ossian</persName>, alluded to in our last.</head>
-
-<p>On renewing our acquaintance with <persName type="fictional" key="Ossian">Ossian</persName>, we felt tempted to 
-go to some length about him; but we must reserve our criticism for 
+<p>On renewing our acquaintance with <persName type="real" key="Ossian" ref="http://dbpedia.org/resource/Ossian">Ossian</persName>, we felt tempted to go to some length about him; but we must reserve our criticism for 
 another time. The following are as many specimens of his uses of 
 mist, as we have room for. The first is very grand; the second as 
-happy in <choice><orig>it's</orig><reg>its</reg></choice> analogy; the third is ghastly, but of more doubtful 
-merit. </p>
+happy in <choice><orig>it's</orig><reg>its</reg></choice> analogy; the third is ghastly, but of more doubtful merit. </p>
 
-<p>TWO CHIEFS PARTED BY THEIR KING.—<cit><quote>"They sunk from the king on either 
-side, like two columns of morning mist, when the sun rises between them on his 
-glittering rocks. Dark is their rolling on either side, each toward its reedy pool." </quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora (Book 4)</title></bibl></note></cit></p>
+<div3 type="subsection" n="1">
+<head type="header" rend="center"><hi rend="smallcaps">Two Chiefs Parted By Their King.</hi></head> <p rend="inline">—<cit><quote>"They sunk from the king on either side, like two columns of morning mist, when the sun rises between them on his glittering rocks. Dark is their rolling on either side, each toward its reedy pool."</quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora (Book 4)</title></bibl></note></cit></p>
+</div3>
 
-<p>A GREAT ENEMY.—<cit><quote>"I love a foe like <persName key="Cathmor">Cathmor</persName>: his soul is great; his arm is 
-strong; his battles are full of fame. But the little soul is like a vapour, that 
-hovers round the marshy lake. It never rises on the green hill, lest the winds 
-meet it there." </quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora</title></bibl></note> </cit></p>
+<div3 type="subsection" n="2">
+<head type="header" rend="center"><hi rend="smallcaps">A Great Enemy.</hi></head> <p rend="inline">—<cit><quote>"I love a foe like <persName key="Cathmor">Cathmor</persName>: his soul is great; his arm is 
+strong; his battles are full of fame. But the little soul is like a vapour, that hovers round the marshy lake. It never rises on the green hill, lest the winds meet it there." </quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Temora</title></bibl></note> </cit></p>
+</div3>
 
-<p>A TERRIBLE OMEN.—<cit><quote>"A mist rose slowly from the lake. It came, in the 
-figure of an aged man, along the silent plain. <choice><orig>It's</orig><reg>Its</reg></choice> large limbs did not move in 
+<div3 type="subsection" n="3">
+<head type="header" rend="center"><hi rend="smallcaps">A Terrible Omen</hi></head> <p rend="inline">.—<cit><quote>"A mist rose slowly from the lake. It came, in the figure of an aged man, along the silent plain <choice><orig>It's</orig><reg>Its</reg></choice> large limbs did not move in 
 steps; for a ghost supported it in mid air. It came towards Selma's hall, and 
-dissolved in a shower of blood."</quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Carthon: A Poem</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.eighteenthcenturypoetry.org/works/o5164-w0070.shtml" xml:space="default"/></bibl></note></cit></p>
+dissolved in a shower of blood."</quote><note type="source"><bibl><author><persName key="James Macpherson">Macpherson, James</persName></author>: <title level="a">Carthon: A Poem</title><ref cert="high" target="https://www.eighteenthcenturypoetry.org/works/o5164-w0070.shtml"/></bibl></note></cit></p>
+</div3>
 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="real" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>

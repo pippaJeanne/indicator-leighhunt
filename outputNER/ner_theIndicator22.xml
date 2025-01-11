@@ -57,7 +57,7 @@ cert="high" type="real">SPENSER</persName>.</l>
 </div2> 
 <div2 type="section" n="1">
 
-    <head type="header" rend="center">HATS, NEW AND ANCIENT.</head>
+    <head type="header" rend="center uppercase">Hats, New and Ancient.</head>
 
     <p> We know not what will be thought of our taste in so important a 
 matter, but we must confess we are not fond of a new hat. There 
@@ -364,7 +364,7 @@ thing than a grandee's. </p>
 </div2>
 
 <div2 type="section" n="2">
-<head type="header" rend="center">THE INFANT HERCULES AND THE SERPENTS.</head>
+<head type="header" rend="center uppercase">The Infant Hercules and the Serpents.</head>
 <head type="subheader" rend="italic center">Translated from the <title level="a">24th Idyll of <persName key="Theocritus">Theocritus</persName></title>.</head>
 <p><hi rend="smallcaps"><persName key="Jupiter">Jupiter</persName></hi> having taken <persName key="Amphitryon">Amphitryon</persName>'s shape during the absence of 
 <persName key="Amphitryon">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmena">Alcmena</persName>. <persName key="Amphitryon">The 
@@ -526,20 +526,17 @@ power;—a part of wisdom which our modern psychosophists are so apt to forget.
 </lg></lg>
 </div2>
 <div2 type="correspondents">
-<head type="header" rend="center">TO CORRESPONDENTS.</head>
-<p>In removing a quantity of papers, we have unfortunately mislaid some letters 
-from correspondents. We hope to recover them; but should we still be disappointed, 
-the writers will perhaps have the goodness to oblige us with other 
-copies. We have not forgotten the substance however of some of them; and 
+<head type="header" rend="center uppercase">To Correspondents.</head>
+<p>In removing a quantity of papers, we have unfortunately mislaid some letters from correspondents. We hope to recover them; but should we still be disappointed,the writers will perhaps have the goodness to oblige us with other copies. We have not forgotten the substance however of some of them; and 
 least of all, what was so good-naturedly said upon the article on the Heathen 
 Mythology.
 </p>
 </div2>
 <div2 type="colophon">
 <p rend="center">
-<persName key="Orders">Orders</persName> received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d.
+<persName key="Orders">Orders</persName> received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>.——Price 2d.
 </p>
-<p rend="center">Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 46, Broad-street, Golden-square</placeName>. </p>
+<p rend="center">Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square</placeName>. </p>
 </div2>
 </div1>
 </body>

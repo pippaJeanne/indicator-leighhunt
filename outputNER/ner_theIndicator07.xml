@@ -2823,7 +2823,7 @@
                             <head type="catalogue">No. I. <date when="1819-11-24">—WEDNESDAY, NOVEMBER 24th, 1819</date>.</head>
                         </div2>
                         <div2 type="section" n="1"> <!-- Header and content -->
-                            <head type="header">LUDICROUS EXAGGERATION. </head>
+                            <head type="header" rend="center uppercase">Ludicrous Exaggeration. </head>
 
     <p>Men of wit sometimes like to pamper a favourite joke into exaggeration  
     — into a certain corpulence of facetiousness. Their relish  
@@ -2837,23 +2837,23 @@
     <p><persName type="fictional" key="John Falstaff" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName> was a great master of this art. He loved a joke as large as  
     himself; witness his famous account of the men in buckram. Thus he  
     tells <persName type="fictional" key="the Lord Chief Justice">the Lord Chief Justice</persName>, that he had lost his voice <q type="spoken">with singing  
-    of anthems;</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 2, Act1 Scene2</biblScope> </bibl></note> and he calls <persName type="fictional" key="Bardolph" ref="https://dbpedia.org/resource/Bardolph_(Shakespeare_character)">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
-    an everlasting bonfire light</q><note type="source"><bibl><author>Shakespeare</author>, <title cert="high" generatedBy="human" level="m" xml:space="default">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> and says it has saved him <q type="spoken">a thousand  
-    marks in links and torches,</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> walking with it <q type="spoken">in the night betwixt  
-    tavern and tavern.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope></bibl></note> See how he goes heightening the account of  
+    of anthems;</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 2, Act1 Scene2</biblScope><ref target="https://www.google.com/search?q=henry+iv+part+2+by+william+shakespeare"/></bibl></note> and he calls <persName type="fictional" key="Bardolph" ref="https://dbpedia.org/resource/Bardolph_(Shakespeare_character)">Bardolph</persName>'s red nose <q type="spoken">a perpetual triumph,  
+    an everlasting bonfire light</q><note type="source"><bibl><author>Shakespeare</author>, <title cert="high" level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope><ref target="https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"/></bibl></note> and says it has saved him <q type="spoken">a thousand  
+    marks in links and torches,</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope><ref target="https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"/></bibl></note> walking with it <q type="spoken">in the night <choice><orig>betwixt</orig><reg>between</reg></choice>  
+    tavern and tavern.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part 1, Act3 Scene3</biblScope><ref target="https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"/></bibl></note> See how he goes heightening the account of  
     his recruits at every step : — <q type="spoken">You would think I had a hundred and  
     fifty tattered prodigals, lately come from swine-keeping, from eating  
     draff and husks. — A mad fellow met me on the way, and told me, I  
     had unloaded all the gibbets, and pressed the dead bodies. — No eye  
     hath seen such scare-crows. — I'll not march through <placeName type="region" key="Coventry" corresp="England">Coventry</placeName> with  
-    them, that's flat.— Nay, and the villains march wide betwixt the  
+    them, that's flat.— Nay, and the villains march wide <choice><orig>betwixt</orig><reg>between</reg></choice> the  
     legs, as if they had gyves on; for indeed I had most of them out of  
     prison.— There's but a shirt and a half in all my company; — and the  
     half-shirt is two napkins, tacked together, and thrown over the  
-    shoulders like a herald's coat without sleeves.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> part1, Act4 Scene2</bibl></note> </p>
+    shoulders like a herald's coat without sleeves.</q><note type="source"><bibl><author>Shakespeare</author>, <title level="m">Henry IV</title> <biblScope>part1, Act4 Scene2</biblScope><ref target="https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"/></bibl></note> </p>
 
     <p>An old schoolfellow of ours, (who by the way, was more fond of  
-    quoting <persName type="fictional" key="Sir John Falstaff">Falstaff</persName> than any other of <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName>'s chararacters) used to  
+    quoting <persName type="fictional" key="John Falstaff" ref="http://dbpedia.org/resource/John_Falstaff">Falstaff</persName> than any other of <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>'s chararacters) used to  
     be called upon for a story, with a view to a joke of this sort; it  
     being an understood thing that he had a privilege of exaggeration,  
     without committing his abstract love of truth. The reader knows  
@@ -2863,45 +2863,45 @@
     the old blunder attributed to <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real" xml:id="goldsmith">Goldsmith</persName> about a dish of green peas.  
     Somebody had been applauded in company for advising his cook to  
     take some ill-drest peas to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>, <q type="spoken">because that was the  
-    way to turn'em Green;</q> upon which <persName key="Goldsmith">Goldsmith</persName> is said to have gone  
+    way to turn'em Green;</q> upon which <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName> is said to have gone  
     and repeated the pun at another table in this fashion; — <q type="spoken">John should  
-    take those peas, I think, to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">Why so. Doctor?</q>  
+    take those peas, I think, to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>.</q> <q type="spoken">Why so. Doctor?</q>  
     <q type="spoken">Because that is the way to make 'em green.</q> Now our friend  
     would give the blunder with this sort of additional dressing. At  
-    sight of the dishes of vegetables. <persName key="Goldsmith">Goldsmith</persName>, who was at his own  
+    sight of the dishes of vegetables. <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, who was at his own  
     house, took off the covers, one after another, with great anxiety, till  
     he found that peas were among them; upon which he rubbed his  
     hands with an air of infinite and prospective satisfaction. <q type="spoken">You are  
     fond of peas. Sir?</q> said one of the company. <q type="spoken">Yes, Sir,</q> said  
-    <persName key="Goldsmith">Goldsmith</persName>, <q type="spoken">particularly so: — I eat them all the year round; — I  
+    <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, <q type="spoken">particularly so: — I eat them all the year round; — I  
     mean. Sir, every day in the season. I do not think there is any body  
     so fond of peas as I am!</q> <q type="spoken">Is there any particular reason, <persName key="Oliver Goldsmith" ref="#goldsmith" cert="medium" type="real">Doctor</persName>,</q>  
     asked a gentleman present, <q type="spoken">why you like peas so much, beyond the  
     usual one of their agreeable taste?</q> — <q type="spoken">No, Sir, none whatsoever : —  
-    none I assure you</q> (here <persName key="Goldsmith">Goldsmith</persName> shewed a great wish to impress  
+    none I assure you</q> (here <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName> <choice><orig>shewed</orig><reg>showed</reg></choice> a great wish to impress  
     this fact on his guests): <q type="spoken">I never heard any particular, encomium  
     or speech about them from any one else : but they carry their own  
     eloquence with them: they are things, Sir, of infinite taste.</q> (Here  
-    a laugh, which put <persName key="Goldsmith">Goldsmith</persName> in additional spirits.) <q type="spoken">But, bless  
+    a laugh, which put <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName> in additional spirits.) <q type="spoken">But, bless  
     me!</q> he exclaimed, looking narrowly into the peas: — <q type="spoken">I fear they are  
     very ill-done: they are absolutely yellow instead of green</q> (here he  
     put a strong emphasis on green); <q type="spoken">and you know, peas should be  
     emphatically green: — greenness in a pea is a quality as essential, as  
     whiteness in a lily. The cook has quite spoilt them : — but I'll give  
-    the rogue a lecture, gentlemen, with your permission.</q> <persName key="Goldsmith">Goldsmith</persName>  
+    the rogue a lecture, gentlemen, with your permission.</q> <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>  
     then rose and rang the bell violently for the cook, who came in, ready  
-    booted and spurred. <q type="spoken">Ha!</q> exclaimed <persName key="Goldsmith">Goldsmith</persName>, <q type="spoken">those boots and  
+    booted and spurred. <q type="spoken">Ha!</q> exclaimed <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, <q type="spoken">those boots and  
     spurs are your salvation, you knave. Do you know. Sir, what you  
     have done?</q> — <q type="spoken">No, Sir.</q> — <q type="spoken">Why, you have made the peas yellow.  
-    Sir. Go instantly, and take 'em to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>.</q> <q type="spoken">To <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>,  
+    Sir. Go instantly, and take 'em to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>.</q> <q type="spoken">To <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>,  
     Sir?</q> cried the man, all in astonishment, the guests being no  
-    less so : — <q type="spoken">please Sir, why am I to take 'em to <placeName type="region" key="Hammermsith" corresp="England">Hammersmith</placeName>?</q> —  
-    <q type="spoken">Because, Sir,</q> and here <persName key="Goldsmith">Goldsmith</persName> looked round with triumphant  
+    less so : — <q type="spoken">please Sir, why am I to take 'em to <placeName type="region" key="Hammersmith" corresp="England" ref="http://www.wikidata.org/entity/Q277162">Hammersmith</placeName>?</q> —  
+    <q type="spoken">Because, Sir,</q> and here <persName key="Oliver Goldsmith" cert="medium" ref="http://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName> looked round with triumphant  
     anticipation, <q type="spoken">that is the way to render those peas green.</q> </p>
 
     <p>There is a very humourous piece of exaggeration in <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName>'s  
     remains,— a collection, by the bye, well worthy of <title level="a">Hudibras</title> and  
-    indeed of more interest to the general reader. <persName key="Samuel Butler">Butler</persName> is defrauded of  
+    indeed of more interest to the general reader. <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName> is defrauded of  
     his fame with readers of taste who happen to be no politicians, when  
     <title level="a" ref="https://dbpedia.org/page/Hudibras">Hudibras</title> is printed without this appendage. The piece we allude  
     to is a short Description of <placeName type="country" key="Netherlands" corresp="The Netherlands" ref="http://dbpedia.org/resource/Netherlands">Holland</placeName> : — </p>
@@ -2927,17 +2927,17 @@
     </cit>
 
     <p>We do not know, and perhaps it would be impossible to discover,  
-    whether <persName key="Samuel Butler">Butler</persName> wrote his minor pieces before those of the great  
+    whether <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName> wrote his minor pieces before those of the great  
     patriot <persName key="Andrew Marvell" ref="https://dbpedia.org/resource/Andrew_Marvell" type="real" xml:id="marvell">Andrew Marvell</persName>, who rivalled him in wit and excelled him in  
     poetry. <persName key="Andrew Marvell" cert="high" ref="#marvell" type="real">Marvell</persName>, though born later, seems to have been known earlier  
     as an author. He was certainly known publicly before him. But in  
-    the political poems of <persName key="Andrew Marvell">Marvell</persName> there is a ludicrous Character of  
-    <placeName type="country" key="Holland" corresp="The Netherlands">Holland</placeName>, which might be pronounced to be either the copy or the original  
-    of <persName key="Samuel Butler">Butler</persName>'s, if in those Anti-Batavian times the Hollander had  
+    the political poems of <persName key="Andrew Marvell" cert="high" ref="#marvell" type="real">Marvell</persName> there is a ludicrous Character of  
+    <placeName type="country" key="Netherlands" corresp="The Netherlands" ref="http://dbpedia.org/resource/Netherlands">Holland</placeName>, which might be pronounced to be either the copy or the original  
+    of <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName>'s, if in those Anti-Batavian times the Hollander had  
     not been baited by all the wits; and were it not probable, that the  
     unwieldy monotony of his character gave rise to much the same  
-    ludicrous imagery in many of their fancies. <persName key="Andrew Marvell">Marvell</persName>'s wit has the  
-    advantage of <persName key="Samuel Butler">Butler</persName>'s, not in learning or multiplicity of contrasts (for  
+    ludicrous imagery in many of their fancies. <persName key="Andrew Marvell" cert="high" ref="#marvell" type="real">Marvell</persName>'s wit has the  
+    advantage of <persName key="Samuel Butler" ref="https://dbpedia.org/resource/Samuel_Butler_(poet)" type="real">Butler</persName>'s, not in learning or multiplicity of contrasts (for  
     nobody ever beat him there), but in a greater variety of them, and  
     in being able, from the more poetical turn of his mind, to bring graver   
     and more imaginative things to wait upon his levity. </p>
@@ -2946,7 +2946,7 @@
     
     <cit>
         <quote>
-    <lg xml:id="verse1"><l><placeName type="country" key="Holland" corresp="The Netherlands">Holland</placeName>, that scarce deserves the name of land, </l>
+    <lg xml:id="verse1"><l><placeName type="country" key="Netherlands" corresp="The Netherlands" ref="http://dbpedia.org/resource/Netherlands">Holland</placeName>, that scarce deserves the name of land, </l>
     <l>As but the off-scouring of the British sand;  </l>
     <l>And so much earth as was contributed  </l>
     <l>By English pilots, when they heaved the lead; </l> 
@@ -2973,7 +2973,7 @@
     <l>Thorough the centre <hi rend="italic">their new-catched miles;</hi> </l> 
     <l>And to the stake a <hi rend="italic">struggling country</hi> bound.  </l>
     <l>Where barking waves still bait the forced ground;  </l>
-    <l>Building their wat'ry <persName type="fictional" key="Babel">Babel</persName> far more high </l>
+    <l>Building their wat'ry <placeName type="fictional" key="Tower of Babel" corresp="Babylon" ref="http://dbpedia.org/resource/Tower_of_Babel">Babel</placeName> far more high </l>
     <l>To catch the waves, than those to scale the sky. </l> 
     <l>Yet still his claim the injured ocean layed.  </l>
     <l>And oft at leap frog o'er their steeples played; </l>
@@ -3010,12 +3010,12 @@
 </note>
 </cit>
 
-    <p>We can never read these or some other ludicrous verses of <persName key="Andrew Marvell">Marvell</persName>,  
+    <p>We can never read these or some other ludicrous verses of <persName key="Andrew Marvell" cert="high" ref="#marvell" type="real">Marvell</persName>,  
     even when by ourselves, without laughter; but we must curtail our  
     self-indulgence for the present. </p>
 </div2>
 <div2 type="section" n="2">
-    <head type="header">GILBERT! GILBERT! </head>
+    <head type="header" rend="center uppercase">Gilbert! Gilbert! </head>
 
     <p>The idea generally conveyed to us by historians of <persName key="Thomas Becket" ref="https://dbpedia.org/resource/Thomas_Becket" type="real" xml:id="becket">Thomas à Becket</persName>  
     is that of a mere haughty priest, who tried to elevate the religious  
@@ -3040,7 +3040,7 @@
     change natural to a man of the world whose heart had been struck  
     with reflection. Others see in it nothing but ambition. We certainly  
     think that three parts of the truth are with the latter; and  
-    that <persName key="Thomas Becket">Becket</persName>, suddenly enabled to dispute a kind of sovereignty with  
+    that <persName key="Thomas Becket" ref="#becket" type="real">Becket</persName>, suddenly enabled to dispute a kind of sovereignty with  
     his prince and friend, gave way to the new temptation, just as he had  
     done to his falconry, and fine living. But the complete alteration of  
     his way of life — the enthusiasm which enabled him to set up so  
@@ -3057,9 +3057,8 @@
     of his religious office, had a zest given to <choice><orig>it's</orig><reg>its</reg></choice> possession, of which the  
     incredulousness of mere insincerity could know nothing. </p>
 
-    <p><persName key="Thomas Becket">Thomas à Becket</persName> may have inherited his portion of the romantic  
-    from his mother, whose story is a singular one. His father, <persName key="Gilbert Becket" ref="https://thebecketstory.org.uk/london/themes/becket-birth" type="real" xml:id="gilbert">Gilbert  
-    Becket</persName>, who was afterwards a flourishing citizen, was in his youth  
+    <p><persName key="Thomas Becket" ref="https://dbpedia.org/resource/Thomas_Becket" type="real">Thomas à Becket</persName> may have inherited his portion of the romantic  
+    from his mother, whose story is a singular one. His father, <persName key="Gilbert Becket" ref="https://thebecketstory.org.uk/london/themes/becket-birth" type="real" xml:id="gilbert">Gilbert Becket</persName>, who was afterwards a flourishing citizen, was in his youth  
     a soldier in the crusades; and being taken prisoner, became slave to  
     an Emir or Saracen prince. By degrees he obtained the confidence  
     of his master, and was admitted to his company, where he met a  
@@ -3070,20 +3069,19 @@
     <placeName type="city" key="London" corresp="England" ref="http://www.wikidata.org/entity/Q84">London</placeName> and <persName key="Gilbert Becket" ref="#gilbert" type="real">Gilbert</persName>; and by repeating the former, she obtained a  
     passage in a vessel, arrived in <placeName type="country" key="England" corresp="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>, and found her trusting way  
     to the metropolis. She then took to her other talisman, and went  
-    from street to street pronouncing <persName key="Gilbert Becket">Gilbert</persName>. A crowd collected about  
+    from street to street pronouncing <persName key="Gilbert Becket" ref="#gilbert" type="real">Gilbert</persName>. A crowd collected about  
     her wherever she went, asking of course a thousand questions, and  
-    to all she had but one answer — <persName key="Gilbert Becket">Gilbert</persName>! <persName key="Gilbert Becket">Gilbert</persName>! She found her  
-    faith in it sufficient. Chance, or her determination to go through  
+    to all she had but one answer — <persName key="Gilbert Becket" ref="#gilbert" type="real">Gilbert</persName>! <persName key="Gilbert Becket" ref="#gilbert" type="real">Gilbert</persName>! She found her faith in it sufficient. Chance, or her determination to go through  
     every street, brought her at last to the one, in which he who had  
     won her heart in slavery, was living in prosperous condition. The  
     crowd drew the family to the window; his servant recognized her;  
-    and <persName key="Gilbert Becket">Gilbert Becket</persName> took to his arms, and his bridal bed, his far-come  
+    and <persName key="Gilbert Becket" ref="https://thebecketstory.org.uk/london/themes/becket-birth" type="real">Gilbert Becket</persName> took to his arms, and his bridal bed, his far-come  
     princess, with her solitary fond word. </p>
 
     <p>These are better histories than the quarrels of kings and archbishops. </p>
 </div2>
 <div2 type="section" n="3">
-    <head type="header">FATAL MISTAKE OF NERVOUS DISORDERS FOR INSANITY. </head>
+    <head type="header" rend="center uppercase">Fatal Mistake of Nervous Disorders for Insanity. </head>
 
     <p>Some affecting catastrophes in the public papers induce us to say  
     a few words on the mistaken notions, which are so often, in our  
@@ -3187,7 +3185,7 @@
     <p>It has been said. </p>
     <l>Great wits to madness nearly are allied.</l>
 
-    <p>It is curious that he who wrote the saying (<persName key="John Dryden">Dryden</persName>) was a very  
+    <p>It is curious that he who wrote the saying (<persName key="John Dryden" ref="http://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName>) was a very  
     sound wit to the end of his life; while his wife, who was of a weak  
     understanding, became insane. An excellent writer (<persName key="William Wordsworth" ref="http://dbpedia.org/resource/William_Wordsworth" type="real">Wordsworth</persName>) has  
     written an idle couplet about the insanity of poets : </p>
@@ -3199,7 +3197,7 @@
     have written this line; if he did, he ought not to have fallen, in the  
     teeth of his information, into so vulgar an error. There are very  
     few instances of insane poets, or of insane great understandings  
-    of any sort. <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Bacon</persName>, <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, <persName key="Isaac Newton" ref="http://dbpedia.org/resource/Isaac_Newton" type="real">Newton</persName>, <persName key="William Shakspeare">Shakspeare</persName>, <persName key="Miguel de Cervantes" ref="http://dbpedia.org/resource/Miguel_de_Cervantes" type="real">Cervantes</persName>, etc.  
+    of any sort. <persName key="Francis Bacon" ref="http://dbpedia.org/resource/Francis_Bacon" type="real">Bacon</persName>, <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, <persName key="Isaac Newton" ref="http://dbpedia.org/resource/Isaac_Newton" type="real">Newton</persName>, <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>, <persName key="Miguel de Cervantes" ref="http://dbpedia.org/resource/Miguel_de_Cervantes" type="real">Cervantes</persName>, etc.  
     were all of minds as sound as they were great. So it has been with  
     the infinite majority of literary men of all countries. If <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" type="real">Tasso</persName> and a  
     few others were exceptions, they were but exceptions; and the  
@@ -3240,7 +3238,7 @@
     what he dreaded would come the next. His disorder is conjectured  
     by some to have been an internal cancer; by others, with more  
     probability, the black bile, or melancholy. The physicians of those  
-    times knew nothing about it; and the people shewed at once their  
+    times knew nothing about it; and the people <choice><orig>shewed</orig><reg>showed</reg></choice> at once their  
     ignorance, and their admiration of <persName key="King Alfred the Great" ref="#kingAlfred" type="real">the king</persName>, by saying that the devil  
     had caused it out of jealousy. It was probably produced by anxiety  
     for the state of his country; but the same thing which wounded him  
@@ -3261,8 +3259,8 @@
                     any thing of merely temporary interest. ] </p> 
                     </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Two-pence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. –Price Two-pence.</p>
+                <p>Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
             </div2>
                 </div1>
             </body>

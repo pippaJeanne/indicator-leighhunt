@@ -57,7 +57,7 @@
   </div2>
   <div2 type="section" n="1"> <!-- Header and content -->
   
-<head type="header">A TALE FOR A CHIMNEY CORNER.</head>
+<head type="header" rend="center uppercase">A Tale for a Chimney Corner.</head>
 
 <p>A MAN who does not contribute his quota of grim stories now-a-days, 
 seems hardly to be free of the republic of letters. He is bound to; 
@@ -426,7 +426,7 @@ believed it, whatever the old might. </p>
 
 <div2 type="section" n="2">
 
-<head type="header" rend="center">THE OLD SKIFF.</head>
+<head type="header" rend="center uppercase">The Old Skiff.</head>
 
 <p>From the style of this animated little poem of <persName key="Catullus">Catullus</persName>, as well as 
 from <choice><orig>it's</orig><reg>its</reg></choice> general spirit, the commentators have naturally supposed 
@@ -499,8 +499,8 @@ old skiff laid up in port, like a battered pensioner. </p>
                 any thing of merely temporary interest. ] </p> 
                 </div2>
 <div2 type="colophon" rend="center">
-                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
-                <p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
+                <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>. –Price Twopence.</p>
+                <p>Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square, London</placeName>.</p>
                 </div2>
             </div1>
         </body>

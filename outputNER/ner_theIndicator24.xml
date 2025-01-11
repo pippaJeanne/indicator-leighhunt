@@ -64,7 +64,7 @@ issue ({Month} {Day}, {Year}) -->
 <head type="catalogue">No. XXIV.—<date when="1820-03-22">WEDNESDAY, MARCH 22d, 1820</date>.</head>
  </div2>
  <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header">ON THE REALITIES OF IMAGINATION</head>
+<head type="header" rend="center uppercase">On the Realities of Imagination</head>
 <p><hi rend="smallcaps">There</hi> is not a more unthinking way of talking, than to say such 
     and such pains and pleasures are only imaginary, and therefore to be got rid of 
     or undervalued accordingly. There is nothing imaginary, 
@@ -585,7 +585,7 @@ issue ({Month} {Day}, {Year}) -->
     when the wind sets gently towards some quiet suburb. </p>
  </div2>
  <div2 type="correspondents"> <!-- Appended notes to correspondents -->
-<head type="header">TO CORRESPONDENTS.</head>
+<head type="header" rend="center uppercase">To Correspondents.</head>
 <p>We will consider the suggestion respecting a List of Books; though our Correspondent
     will see in our present Number, one reason among others, which must at
     least prevent us from being in a hurry on the subject. </p>
@@ -602,7 +602,7 @@ issue ({Month} {Day}, {Year}) -->
  <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
     <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>. </p>
-<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d. </p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>.——Price 2d. </p>
  </div2>
   </div1>
    </body>

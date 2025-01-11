@@ -69,7 +69,7 @@ cert="high" type="real">SPENSER</persName>.</l>
 <head type="catalogue">No. XXVI.—<date when="1820-04-05">WEDNESDAY, April 5th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header">Deaths of Little Children.</head>
+<head type="header" rend="center uppercase">Deaths of Little Children.</head>
 <p><hi rend="smallcaps">A Grecian</hi> philosopher being asked why he wept for the death of 
 his son, since the sorrow was in vain, replied, <q type="spoken">I weep on that very
 account.</q> And his answer became his wisdom. It is only for sophists
@@ -225,7 +225,7 @@ and not being ashamed of what is kindly and innocent.
 </p>
 </div2>
 <div2 type="section" n="2">
-<head type="header">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome">Hylonome</persName>.</head>
+<head type="header" rend="center uppercase">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome">Hylonome</persName>.</head>
 
 <p>It is not one of the least instances of the force of habit, to see how 
 poetry and mythology can reconcile us to shapes, or rather combinations 
@@ -492,7 +492,7 @@ affections.</p>
 <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
 <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
-<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d.</p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>.——Price 2d.</p>
 </div2>
 </div1>
 </body>

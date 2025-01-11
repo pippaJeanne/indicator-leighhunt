@@ -66,7 +66,7 @@ preservation.
 <head type="catalogue">No. XXIX.—<date when="1820-04-26">WEDNESDAY, April 26th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header">MAY-DAY.</head>
+<head type="header" rend="center uppercase">May-Day.</head>
 
 <p>On Monday next Is May-Morning;—a word, which used to awaken 
 in the minds of our ancestors all the ideas of youth, and verdure, and 
@@ -593,7 +593,7 @@ turtle,</q><note type="source"><bibl>Song of Solomon 2:12</bibl></note> because 
 <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
 <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
-<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England">No. 19, Catherine-street, Strand</placeName>.——Price 2d.</p>
+<p>Printed by <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>.——Price 2d.</p>
 </div2>
 </div1>
 </body>

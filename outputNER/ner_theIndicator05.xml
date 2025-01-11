@@ -6372,7 +6372,7 @@
                     <head type="catalogue">No. I. <date when="1819-11-10">—WEDNESDAY, NOVEMBER 10th, 1819</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header">TO ANY ONE WHOM BAD WEATHER DEPRESSES. </head>
+                    <head type="header" rend="center uppercase">To Any Ane Whom Bad Weather Depresses. </head>
                     
                     <p>If you are melancholy for the first time, you will find upon a little  
 enquiry, that others have been melancholy many times, and yet are  
@@ -6502,7 +6502,7 @@ objects, as histories, fables, and contemplations of nature.</q> <note type="sou
 </div2>
 
 <div2 type="section" n="2">
-<head type="header"><persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real" xml:id="CharlesBrandon">CHARLES BRANDON</persName>, AND <persName key="MARY QUEEN OF FRANCE" cert="high" ref="https://dbpedia.org/resource/Mary_I_of_England" type="real">MARY QUEEN OF FRANCE</persName>. </head>
+<head type="header" rend="center uppercase"><persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real" xml:id="CharlesBrandon">Charles Brandon</persName>, and <persName key="Mary Queen of France" ref="http://dbpedia.org/resource/Mary_Tudor,_Queen_of_France" type="real" xml:id="MaryTudor">Mary Queen of France</persName>. </head>
 
 <p>The fortune of <persName key="Charles Brandon" cert="high" ref="https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk" type="real">Charles Brandon</persName> was remarkable. He was an  
 honest man, yet the favourite of a despot. He was brave, handsome,  
@@ -6531,7 +6531,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 fortunes of the son. <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Young Brandon</persName>, we believe, grew up with <persName key="Henry VII of England" cert="high" ref="#HenryVII" type="real">Henry 
 the Seventh </persName>'s children, and was the playmate of his <persName key="King Henry VIII" cert="high" ref="https://dbpedia.org/resource/Henry_VIII" type="real" xml:id="HenryVIII">future king</persName> and  
 <persName key="Elizabeth of York" cert="high" ref="#ElizabethYork" type="real">bride</persName>. <persName key="Henry VIII" cert="high" ref="#HenryVIII" type="real">The prince</persName>, as he increased in years, seems to have carried  
-the idea of <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Brandon</persName> with him like that of a second self; and <persName key="Mary Tudor, Queen of France" cert="high" ref="http://dbpedia.org/resource/Mary_Tudor,_Queen_of_France" type="real" xml:id="MaryTudor">the  
+the idea of <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Brandon</persName> with him like that of a second self; and <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">the  
 
 <pb n="36"/>
 
@@ -6628,7 +6628,7 @@ ran thus : — </p>
 history, and makes it worthy remembering. </p>
 </div2>
 <div2 type="section" n="3">
-<head type="header">ON THE HOUSEHOLD GODS OF THE ANCIENTS.</head>
+<head type="header" rend="center uppercase">On the Household Gods of the Ancients.</head>
 
 <p>The Ancients had three kinds of household Gods, — the Daimon  
 (Daemon) or Genius, the <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName>, and the <persName key="Lares" ref="http://dbpedia.org/resource/Lares" cert="high" type="fictional">Lares</persName>. The first was  
@@ -6842,10 +6842,10 @@ of the name of <persName key="Erotion">Erotion</persName>. </p>
 
 </div2>
 <div2 type="section" n="4">
-<head type="header" rend="center">THE EPITAPH OF <persName key="Erotion">EROTION</persName>.</head>
+<head type="header" rend="center uppercase">The epitaph of <persName key="Erotion" type="fictional">Erotion</persName>.</head>
 
 <lg xml:lang="en" type="hunt-translation"><l>Underneath this greedy stone. </l>
-<l>Lies little sweet <persName key="Erotion">Erotion</persName>; </l>
+<l>Lies little sweet <persName key="Erotion" type="fictional">Erotion</persName>; </l>
 <l>Whom the fates, with hearts as cold. </l>
 <l>Nipt away at six years old. </l>
 <l>Thou, whoever thou mayst be, </l>

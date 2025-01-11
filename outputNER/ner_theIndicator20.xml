@@ -53,7 +53,7 @@ cert="high" type="real">SPENSER</persName>.</l>
 </div2>
 
 <div2 type="section" n="1">
-<head type="header">RONALD OF THE PERFECT HAND.</head>
+<head type="header" rend="center uppercase">Ronald of the Perfect Hand.</head>
 
 
 <p>[The following tale is founded upon a tradition in <persName key="Anne Grant" ref="http://www.wikidata.org/entity/Q4768392" cert="high" type="real">Mrs. Grant</persName>'s <title key="Essays on the Superstitions of the Highlanders of Scotland" ref="https://archive.org/details/essaysonsuperst00grangoog/page/n12/mode/2up" level="s">Superstitions 
@@ -480,8 +480,8 @@ upon the fortunes of <persName type="fictional" key="Ronald of the Perfect Hand"
 Voice</persName>. Nor were those forgotten, who forgot not others.</p>
 </div2>
 <div2 type="colophon">
-<p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">J. Appleyard</persName>, <placeName type="address" key="19, Catherin-street, Strand" corresp="England">19, Catherin-street, Strand</placeName>.–Price 2d.</p>
-<p>Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
+<p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">J. Appleyard</persName>, <placeName type="address" key="19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">19, Catherine-street, Strand</placeName>.–Price 2d.</p>
+<p>Printed by <persName type="real" ref="https://www.britishmuseum.org/collection/term/BIOG179950" key="C. H. Reynell">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square, London" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square</placeName>.</p>
 </div2>
 </div1>
 </body>
