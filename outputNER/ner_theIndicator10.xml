@@ -2550,7 +2550,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?place_annotation_20250115010731371",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T06:07:31.371Z",
-	"dcterms:modified": "2025-01-15T06:07:31.371Z",
+	"dcterms:modified": "2025-01-15T06:09:09.105Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2581,7 +2581,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q112019",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2997,7 +2999,7 @@ spirat,"</hi> says <persName key="Matthias Döring" ref="http://dbpedia.org/reso
 metaphorarum audaciam."</hi> The probability is, that <persName key="Catullus">Catullus</persName>, who was 
 a traveller, wrote it upon some favourite vessel, which after long 
 service he had thus consecrated to the twin stars of <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional">Castor</persName> and <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional">Pollux</persName>, 
-and laid up near his beloved house on the <placeName type="region" key="Sirmio peninsula" corresp="Italy">peninsula of Sirmio</placeName>. The 
+and laid up near his beloved house on the <placeName type="region" key="Sirmione" corresp="Italy" ref="http://www.wikidata.org/entity/Q112019">peninsula of Sirmio</placeName>. The 
 reader is to imagine, that the poet, during a visit of some friends, 
 takes them down to a retired bay of the water, and shews them his 
 old skiff laid up in port, like a battered pensioner. </p>
