@@ -380,7 +380,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114234815040",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T04:48:15.040Z",
-	"dcterms:modified": "2025-01-15T04:48:15.040Z",
+	"dcterms:modified": "2025-01-15T04:51:57.177Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -408,6 +408,89 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114234815040#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Ghost_(Hamlet)",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114235201821",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-15T04:52:01.821Z",
+	"dcterms:modified": "2025-01-15T04:52:01.821Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114235201821#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114235201821#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -521,7 +604,7 @@ moral utility,— they should imply some great sentiment, — something
 that comes out of the next world to remind us of our duties in this; 
 or something that helps to carry on the idea of our humanity into 
 after-life, even when we least think we shall take it with us. When 
-"<persName type="fictional" key="Ghost, King Hamlet">the buried majesty of Denmark</persName>" revisits earth to speak to his son 
+"<persName type="fictional" key="Ghost, King Hamlet" cert="high" ref="https://dbpedia.org/resource/Ghost_(Hamlet)">the buried majesty of Denmark</persName>" revisits earth to speak to his son 
 <persName type="fictional" key="Hamlet">Hamlet</persName>, he comes armed, as he used to be, in his complete steel. 
 His visor is raised; and the same fine face is there; only, in spite of 
 his punishing errand and his own sufferings, with </p>
