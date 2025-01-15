@@ -1097,7 +1097,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001346436",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T05:13:46.436Z",
-	"dcterms:modified": "2025-01-15T05:13:46.436Z",
+	"dcterms:modified": "2025-01-15T05:18:52.027Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1128,7 +1128,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Solomon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1292,7 +1297,7 @@ things, <title level="a" key="The Rime of the Ancient Mariner" ref="https://dbpe
 does not set mere ghosts or hobgbblins to man the ship again, 
 when <choice><orig>it's</orig><reg>its</reg></choice> crew are dead; but re-animates, for a while, the crew 
 themselves. There is a striking fiction of this sort in <persName key="George Sale" ref="http://dbpedia.org/resource/George_Sale" type="real">Sale</persName>'s Notes 
-upon the <choice><orig>Koran</orig><reg>Qur'an</reg></choice>. <persName key="Solomon">Solomon</persName> dies during the building of the temple, 
+upon the <choice><orig>Koran</orig><reg>Qur'an</reg></choice>. <persName key="Solomon" ref="https://dbpedia.org/resource/Solomon" type="fictional">Solomon</persName> dies during the building of the temple, 
 but his body remains leaning on a staff and overlooking the workmen, 
 as if it were alive; till a worm gnawing through the prop, 
 he falls down. — The contrast of the appearance of humanity with 
