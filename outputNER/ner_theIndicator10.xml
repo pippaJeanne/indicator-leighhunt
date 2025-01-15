@@ -1018,7 +1018,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001322698",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T05:13:22.698Z",
-	"dcterms:modified": "2025-01-15T05:13:22.698Z",
+	"dcterms:modified": "2025-01-15T05:13:41.877Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1046,6 +1046,85 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001322698#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[8]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/George_Sale",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001346436",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-15T05:13:46.436Z",
+	"dcterms:modified": "2025-01-15T05:13:46.436Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001346436#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115001346436#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[8]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1212,7 +1291,7 @@ of Maleger: <bibl>(<title level="m">Fairy Queen</title>, <biblScope>b. 2. c. 11.
 things, <title level="a" key="The Rime of the Ancient Mariner" ref="https://dbpedia.org/resource/The_Rime_of_the_Ancient_Mariner">the Ancient Mariner</title> (which works out however a fine sentiment) 
 does not set mere ghosts or hobgbblins to man the ship again, 
 when <choice><orig>it's</orig><reg>its</reg></choice> crew are dead; but re-animates, for a while, the crew 
-themselves. There is a striking fiction of this sort in <persName key="George Sale">Sale</persName>'s Notes 
+themselves. There is a striking fiction of this sort in <persName key="George Sale" ref="http://dbpedia.org/resource/George_Sale" type="real">Sale</persName>'s Notes 
 upon the <choice><orig>Koran</orig><reg>Qur'an</reg></choice>. <persName key="Solomon">Solomon</persName> dies during the building of the temple, 
 but his body remains leaning on a staff and overlooking the workmen, 
 as if it were alive; till a worm gnawing through the prop, 
