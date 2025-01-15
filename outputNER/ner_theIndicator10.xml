@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <teiHeader>
  <!-- File Description -->
  <fileDesc>
@@ -11,7 +9,7 @@
   </titleStmt>
 
   <publicationStmt>
-  <p />
+  <p/>
   </publicationStmt>
 
   <!-- Author information -->
@@ -27,7 +25,7 @@
  </fileDesc>
 
  <!-- Encoding Description -->
- <encodingDesc>
+ <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
   <!-- Add any encoding information or guidelines here if applicable -->
   <p>
   Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -50,8 +48,7 @@
    <l>There he arriving round about doth flie,</l>
    <l>And takes survey with busie, curious eye:</l>
    <l>Now this, now that, he tasteth tenderly.</l>
-   <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-    cert="high" type="real">SPENSER</persName>.</l>
+   <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
    </epigraph>
    <head type="catalogue">No. X. <date when="1819-12-15">—WEDNESDAY, DECEMBER 15th, 1819</date>.</head>
   </div2>
@@ -60,9 +57,8 @@
 <head type="header" rend="center uppercase">A Tale for a Chimney Corner.</head>
 
 <p>A MAN who does not contribute his quota of grim stories now-a-days, 
-seems hardly to be free of the republic of letters. He is bound to; 
-wear a death's head, as part of his insignia. If he does not frighten 
-every body, he is nobody. If he does not shoclsithe ladies, what can 
+seems hardly to be free of the republic of letters. He is bound to wear a death's head, as part of his insignia. If he does not frighten 
+every body, he is nobody. If he does not shock the ladies, what can 
 be expected of him? </p>
 
 <p>We confess we think very cheaply of these stories in general. 
@@ -469,7 +465,7 @@ old skiff laid up in port, like a battered pensioner. </p>
 <l>And used, on the Cytorian rocks, </l>
 <l>To hiss and talk, with windy hair. </l>
 <l>And thou, <persName key="Amastris (ruler of Heraclea)">Amastris</persName>, and thou, there, </l>
-<l><persName type="fictional" key='Cytorus'>Cytorus</persName>, with whose box it grew, </l>
+<l><persName type="fictional" key="Cytorus">Cytorus</persName>, with whose box it grew, </l>
 <l>All this, it says, was known to you; </l>
 <l>And that from its remotest birth, </l>
 <l>It held the summit of your earth; </l>
@@ -506,4 +502,3 @@ old skiff laid up in port, like a battered pensioner. </p>
         </body>
     </text>
 </TEI>
- 
