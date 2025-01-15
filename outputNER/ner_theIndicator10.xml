@@ -2468,7 +2468,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115010711780",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T06:07:11.780Z",
-	"dcterms:modified": "2025-01-15T06:07:24.777Z",
+	"dcterms:modified": "2025-01-15T06:28:52.672Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3716,7 +3716,7 @@ that it was written in imitation or emulation of the Greeks.  <hi xml:lang="lati
 spirat,"</hi> says <persName key="Matthias Döring" ref="http://dbpedia.org/resource/Matthias_Döring" type="real" cert="medium">Doering</persName>,  <hi xml:lang="latin">"Graecorum indolem, leporem, et in usu 
 metaphorarum audaciam."</hi> The probability is, that <persName key="Catullus">Catullus</persName>, who was 
 a traveller, wrote it upon some favourite vessel, which after long 
-service he had thus consecrated to the twin stars of <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional">Castor</persName> and <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional">Pollux</persName>, 
+service he had thus consecrated to the twin stars of <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional">Castor</persName> and <persName key="Castor and Pollux" ref="http://dbpedia.org/resource/Castor_and_Pollux" type="fictional" xml:id="pollux">Pollux</persName>, 
 and laid up near his beloved house on the <placeName type="region" key="Sirmione" corresp="Italy" ref="http://www.wikidata.org/entity/Q112019">peninsula of Sirmio</placeName>. The 
 reader is to imagine, that the poet, during a visit of some friends, 
 takes them down to a retired bay of the water, and shews them his 
