@@ -218,7 +218,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250115110415466",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T16:04:15.466Z",
-	"dcterms:modified": "2025-01-15T16:04:15.466Z",
+	"dcterms:modified": "2025-01-15T16:06:04.551Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -249,7 +249,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Charles_II_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -292,7 +294,7 @@
  <head type="header" rend="center uppercase">Thieves, Ancient and Modern. </head>
 
 <p>Having met in <title level="s" key="the Harleian Miscellany" ref="https://dbpedia.org/resource/The_Harleian_Miscellany">the Harleian Miscellany</title> with an account of a pet 
-thief of ours, the famous <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" type="real">Du Vail</persName>, who flourished in the time of <persName key="King Charles II">Charles 
+thief of ours, the famous <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" type="real">Du Vail</persName>, who flourished in the time of <persName key="Charles II" ref="https://dbpedia.org/resource/Charles_II_of_England" type="real">Charles 
 the Second</persName>, and wishing to introduce him worthily to the readers, 
 it has brought to mind such a number of the light-fingered gentry, 
 his predecessors, that we almost feel hustled by the thoughts of 
