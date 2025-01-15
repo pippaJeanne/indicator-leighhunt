@@ -60,7 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114230944298",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T04:09:44.298Z",
-	"dcterms:modified": "2025-01-15T04:09:44.298Z",
+	"dcterms:modified": "2025-01-15T04:12:52.862Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -91,7 +91,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Philoctetes",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -163,7 +168,7 @@ merit in proportion as they lean to Newgate-like offences, particularly
 of blood and wounds. A child has a reasonable respect for a 
 Raw-head-and-bloody-bones, because all images whatsoever of pain 
 and terror are new and fearful to his inexperienced age: but 
-sufferings merely physical (unless sublimated like those of <persName type="ficitonal" key="Philoctetes">Philoctetes</persName>) 
+sufferings merely physical (unless sublimated like those of <persName type="fictional" key="Philoctetes" ref="http://dbpedia.org/resource/Philoctetes">Philoctetes</persName>) 
 are common-places to a grown man. Images, to become awful to him, 
 flaust be removed from the grossness of the shambles. A death's head was 
 a respectable thing in the hands of a poring monk, or of a nun 
