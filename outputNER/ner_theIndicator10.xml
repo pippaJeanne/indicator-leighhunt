@@ -1817,7 +1817,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115004949197",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T05:49:49.197Z",
-	"dcterms:modified": "2025-01-15T05:49:49.197Z",
+	"dcterms:modified": "2025-01-15T05:50:03.132Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1851,7 +1851,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "#bertha",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2140,7 +2142,7 @@ me sitting in the public walk, praying for you; praying, that you
 may never more give way to those gusts of passion, and those curses 
 against others, which divided us. </p>
 
-<p>This, with a warm hand, from the living <persName type="fictional" key="Bertha">Bertha</persName>. </p>
+<p>This, with a warm hand, from the living <persName type="fictional" key="Bertha" ref="#bertha">Bertha</persName>. </p>
 
 <p><persName type="fictional" key="Otto">Otto</persName> (for such, it seems, was the gentleman's name) went instantly, 
 calmly, quickly, yet with a sort of benumbed being, to the public 
