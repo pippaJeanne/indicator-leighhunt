@@ -3183,7 +3183,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115012653309",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T06:26:53.309Z",
-	"dcterms:modified": "2025-01-15T06:26:53.309Z",
+	"dcterms:modified": "2025-01-15T06:27:27.698Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3214,7 +3214,10 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "http://dbpedia.org/resource/Jupiter_(mythology)",
 		"dc:format": "text/plain"
 	},
@@ -3674,7 +3677,7 @@ old skiff laid up in port, like a battered pensioner. </p>
 <l>And so by all the harmless shores, </l>
 <l>Carried <choice><orig>it's</orig><reg>its</reg></choice> master in <choice><orig>it's</orig><reg>its</reg></choice> breast, </l>
 <l>Whether the wind was east or west; </l>
-<l>Or whether <persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)">Jove</persName>, upon the sail, </l>
+<l>Or whether <persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)" type="fictional">Jove</persName>, upon the sail, </l>
 <l>Sent, steady and blithe, a forward gale : </l>
 <l>Nor ever had it vows to pay </l>
 <l>To gods that watch the billowy way, </l>
