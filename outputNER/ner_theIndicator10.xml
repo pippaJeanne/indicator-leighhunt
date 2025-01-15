@@ -1417,7 +1417,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115004009324",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T05:40:09.324Z",
-	"dcterms:modified": "2025-01-15T05:40:09.324Z",
+	"dcterms:modified": "2025-01-15T05:41:07.062Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1448,7 +1448,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Georg_Sabinus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1668,7 +1670,7 @@ descried in the distance. </p>
 <p>But we must come to <persName key="Samuel Taylor Coleridge">Mr. Coleridge</persName>'s story, with all our imagination 
 upon us. Now let us put our knees a little nearer the fire, 
 and tell a homelier one about Life in Death. The groundwork of it 
-is in <persName key="George Sandys" ref="http://dbpedia.org/resource/George_Sandys" type="real">Sandys</persName>'s Commentary upon <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, and quoted from <persName key="Georg Sabinus">Sabinus</persName>. <note type="hunt" place="foot">The Saxon Latin poet, we presume. Professor of Belles-Lettres at <placeName type="city" key="Frankfurt" corresp="Germany"><choice><orig>Frankfort</orig><reg>Frankfurt</reg></choice></placeName>. 
+is in <persName key="George Sandys" ref="http://dbpedia.org/resource/George_Sandys" type="real">Sandys</persName>'s Commentary upon <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, and quoted from <persName key="Georg Sabinus" ref="http://dbpedia.org/resource/Georg_Sabinus" type="real">Sabinus</persName>. <note type="hunt" place="foot">The Saxon Latin poet, we presume. Professor of Belles-Lettres at <placeName type="city" key="Frankfurt" corresp="Germany"><choice><orig>Frankfort</orig><reg>Frankfurt</reg></choice></placeName>. 
 We know nothing of him except from a biographical dictionary. </note>
 </p>
 
