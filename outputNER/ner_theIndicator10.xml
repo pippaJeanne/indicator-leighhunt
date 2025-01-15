@@ -142,7 +142,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114231851910",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T04:18:51.910Z",
-	"dcterms:modified": "2025-01-15T04:19:45.346Z",
+	"dcterms:modified": "2025-01-15T04:23:08.083Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -174,7 +174,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://dbpedia.org/resource/Hans_Holbein_the_Elder",
+		"@id": "http://dbpedia.org/resource/Hans_Holbein_the_Younger",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -255,7 +255,7 @@ a respectable thing in the hands of a poring monk, or of a nun
 <pb n="74"/>
 
 compelled to avoid the idea of life and society, or of a hermit already 
-buried in the desart, <persName key="Hans Holbein the Elder" ref="http://dbpedia.org/resource/Hans_Holbein_the_Elder" type="real">Holbein</persName>'s Dance of Death, in which every 
+buried in the desart, <persName key="Hans Holbein the Younger" ref="http://dbpedia.org/resource/Hans_Holbein_the_Younger" type="real">Holbein</persName>'s Dance of Death, in which every 
 grinning Skeleton leads along a man of rank, from <persName key="the Pope">the Pope</persName> to the 
 gentleman, is a good Memento Mori; but there the skeletons have 
 an air of the ludicrous and satirical. If we were threatened with 
