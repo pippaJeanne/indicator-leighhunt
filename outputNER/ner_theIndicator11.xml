@@ -60,7 +60,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?title_annotation_20250115105507055",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T15:55:07.055Z",
-	"dcterms:modified": "2025-01-15T15:55:07.055Z",
+	"dcterms:modified": "2025-01-15T15:56:26.645Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -91,7 +91,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/resource/The_Harleian_Miscellany",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -133,7 +135,7 @@
 
  <head type="header" rend="center uppercase">Thieves, Ancient and Modern. </head>
 
-<p>Having met in <title level="s">the Harleian Miscellany</title> with an account of a pet 
+<p>Having met in <title level="s" key="the Harleian Miscellany" ref="https://dbpedia.org/resource/The_Harleian_Miscellany">the Harleian Miscellany</title> with an account of a pet 
 thief of ours, the famous <persName key="Du Vail">Du Vail</persName>, who flourished in the time of <persName key="King Charles II">Charles 
 the Second</persName>, and wishing to introduce him worthily to the readers, 
 it has brought to mind such a number of the light-fingered gentry, 
