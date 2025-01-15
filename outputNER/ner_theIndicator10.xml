@@ -463,7 +463,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250114235201821",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T04:52:01.821Z",
-	"dcterms:modified": "2025-01-15T04:52:01.821Z",
+	"dcterms:modified": "2025-01-15T04:52:32.692Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -497,7 +497,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "http://dbpedia.org/resource/Prince_Hamlet",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -605,7 +607,7 @@ that comes out of the next world to remind us of our duties in this;
 or something that helps to carry on the idea of our humanity into 
 after-life, even when we least think we shall take it with us. When 
 "<persName type="fictional" key="Ghost, King Hamlet" cert="high" ref="https://dbpedia.org/resource/Ghost_(Hamlet)">the buried majesty of Denmark</persName>" revisits earth to speak to his son 
-<persName type="fictional" key="Hamlet">Hamlet</persName>, he comes armed, as he used to be, in his complete steel. 
+<persName type="fictional" key="Prince Hamlet" ref="http://dbpedia.org/resource/Prince_Hamlet">Hamlet</persName>, he comes armed, as he used to be, in his complete steel. 
 His visor is raised; and the same fine face is there; only, in spite of 
 his punishing errand and his own sufferings, with </p>
 
