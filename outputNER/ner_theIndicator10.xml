@@ -2145,7 +2145,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator10.xml?person_annotation_20250115005650012",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-15T05:56:50.012Z",
-	"dcterms:modified": "2025-01-15T05:56:50.012Z",
+	"dcterms:modified": "2025-01-15T05:59:53.036Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2176,7 +2176,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Catullus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2585,7 +2587,7 @@ believed it, whatever the old might. </p>
 
 <head type="header" rend="center uppercase">The Old Skiff.</head>
 
-<p>From the style of this animated little poem of <persName key="Catullus">Catullus</persName>, as well as 
+<p>From the style of this animated little poem of <persName key="Catullus" ref="https://dbpedia.org/resource/Catullus" type="real">Catullus</persName>, as well as 
 from <choice><orig>it's</orig><reg>its</reg></choice> general spirit, the commentators have naturally supposed 
 that it was written in imitation or emulation of the Greeks.  <hi xml:lang="latin">"Adeo 
 spirat,"</hi> says <persName key="Doering">Doering</persName>,  <hi xml:lang="latin">"Graecorum indolem, leporem, et in usu 
