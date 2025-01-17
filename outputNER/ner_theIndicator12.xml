@@ -373,7 +373,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117184933911",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T23:49:33.911Z",
-	"dcterms:modified": "2025-01-17T23:49:33.911Z",
+	"dcterms:modified": "2025-01-17T23:51:44.860Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -404,7 +404,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/El_Cid",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -456,7 +458,7 @@ Who can forget the lofty-named <persName key="Captain Rolando">Captain Rolando</
 height and his whiskers, shewing with a lifted torch his treasure 
 to the timid stripling <persName key="Gil Blas de Santillana" type="fictional">Gil Blas</persName>? The most illustrious theft in 
 Spanish story is one recorded of no less a person than the fine old 
-national hero, <persName key="El Cid">the Cid</persName>. As the sufferers were Jews, it might be 
+national hero, <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">the Cid</persName>. As the sufferers were Jews, it might be 
 thought that his conscience would not have hurt him in those days; 
 but <q type="term">My <persName key="El Cid">Cid</persName></q> was a kind of early soldier in behalf of sentiment; 
 and though he went to work roughly, he meant nobly and kindly. 
