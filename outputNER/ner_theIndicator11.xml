@@ -3512,7 +3512,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117014356489",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T06:43:56.489Z",
-	"dcterms:modified": "2025-01-17T06:43:56.489Z",
+	"dcterms:modified": "2025-01-17T06:44:18.891Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3543,7 +3543,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Dante_Alighieri",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3727,7 +3729,7 @@ unchivalrous outrages. These are the giants of modern romance; and the
 Veglios, Malengins, and Pinabellos, of <persName key="Luigi Pulci" ref="http://dbpedia.org/resource/Luigi_Pulci" type="real">Pulci</persName>, <persName key="Edmund Spenser" ref="http://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, and <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" type="real">Ariosto</persName>. 
 They survived in the petty states of <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName> a long while; gradually 
 took a less solitary though hardly less ferocious shape among the 
-fierce political partisans recorded by <persName key="Dante">Dante</persName>; and at length became 
+fierce political partisans recorded by <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>; and at length became 
 represented by the men of desperate fortunes, who make such a 
 figure, between the gloomy and the gallant, in <persName key="Ann Radcliffe">Mrs. Radcliffe</persName>'s 
 <title key="The Mysteries of Udolpho" level="m">Mysteries of Udolpho</title>. The breaking up of the late kingdom of 
