@@ -4662,7 +4662,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022809870",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T07:28:09.870Z",
-	"dcterms:modified": "2025-01-17T07:28:09.870Z",
+	"dcterms:modified": "2025-01-17T07:28:26.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4693,7 +4693,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#castellani",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4956,7 +4961,7 @@ said he, <q type="spoken">bade me come and tell you that it was but a joke of yo
 old friend What's-his-name.</q> <q type="spoken"><persName key="Castellani" type="fictional" xml:id="castellani">Castellani</persName>, I warrant me,</q> said the 
 wife, with a face broad with delight. <q type="spoken">The same,</q> returned he:— 
 <q type="spoken">master doctor says that <persName key="Castellani" ref="#castellani" type="fictional">Signor Castellani</persName>, and the other gentlemen 
-he spoke of, are waiting for you at <persName key="Castellani">the Signor</persName>'s house, 
+he spoke of, are waiting for you at <persName key="Castellani" ref="#castellani" type="fictional">the Signor</persName>'s house, 
 where they purpose to laugh away the choler they so merrily raised 
 with a good dinner and wine; and to that end they have sent me 
 for the lamprey.</q> <q type="spoken">Take it in God's name,</q> said the good woman; 
