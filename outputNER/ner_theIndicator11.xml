@@ -1017,7 +1017,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?title_annotation_20250116192311311",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T00:23:11.311Z",
-	"dcterms:modified": "2025-01-17T00:23:11.311Z",
+	"dcterms:modified": "2025-01-17T00:28:35.043Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1048,7 +1048,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://dbpedia.org/resource/The_Pilgrim's_Progress",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1118,13 +1120,13 @@ calls the dire aspect of half-human <persName key="Cacus" ref="http://dbpedia.or
 dira</hi>. <note type="hunt">(<title level="m" key="Aeneid" ref="http://dbpedia.org/resource/Aeneid">Æneid</title>, B. 8, v. 194.)</note> He was the Raw-head-and-bloody- 
 bones of ancient fable. He lived in a cave by <placeName type="Physical" key="Aventine Hill" corresp="Italy" ref="http://www.wikidata.org/entity/Q194103">Mount Aventine</placeName>, 
 breathing out fiery smoke, and haunting <placeName type="Road" key="King's Highway" corresp="Jordan" ref="http://www.wikidata.org/entity/Q545941">king Evander's highway</placeName> 
-like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/entity/Q276765">Apollyon</placeName> of <title level="m">Pilgrim's Progress</title>. </p>
+like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/entity/Q276765">Apollyon</placeName> of <title level="m" key="The Pilgrim's Progress" ref="http://dbpedia.org/resource/The_Pilgrim's_Progress">Pilgrim's Progress</title>. </p>
 
 <cit><quote><lg xml:lang="latin" xml:id="aeneid" rend="center">
 <l>Semperque recenti </l>
 <l>Caede tepebat humus; foribusque adfixa superbis </l>
 <l>Ora virum tristi pendebant pallida trabo. </l></lg></quote>
-<note type="source"><bibl><author><persName key="Virgil">Virgil</persName></author>: <title level="m">Aeneid</title></bibl>
+<note type="source"><bibl><author>Virgil</author>: <title level="m">Aeneid</title></bibl>
 </note></cit>
 
 <cit><quote><lg xml:lang="en" type="hunt-translation" xml:id="aeneid-en" rend="center">
