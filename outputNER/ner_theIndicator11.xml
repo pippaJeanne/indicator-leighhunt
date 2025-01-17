@@ -4153,7 +4153,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117021034301",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T07:10:34.301Z",
-	"dcterms:modified": "2025-01-17T07:12:24.795Z",
+	"dcterms:modified": "2025-01-17T07:14:04.648Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4184,7 +4184,10 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "http://dbpedia.org/resource/Dapple",
 		"dc:format": "text/plain"
 	},
@@ -4386,7 +4389,7 @@ way. The way in which he robs <persName key="Sacripante" ref="http://dbpedia.org
 horse, has been ridiculed by <persName key="Miguel de Cervantes" ref="http://dbpedia.org/resource/Miguel_de_Cervantes" type="real">Cervantes</persName>; if indeed he did not rather 
 repeat it with great zest; for his use of the theft is really not such 
 a caricature as in <persName key="Boiardo">Boiardo</persName> and his great follower. While <persName key="Sancho Panza" ref="https://dbpedia.org/resource/Sancho_Panza" type="fictional">Sancho</persName> is 
-sitting lumpishly asleep upon the back of his friend <persName key="Dapple" ref="http://dbpedia.org/resource/Dapple">Dapple</persName>, <persName key="Gines de Passamonte">Gines de 
+sitting lumpishly asleep upon the back of his friend <persName key="Dapple" ref="http://dbpedia.org/resource/Dapple" type="fictional">Dapple</persName>, <persName key="Gines de Passamonte">Gines de 
 Passamonte</persName>, the famous thief, comes and gently withdraws the 
 donkey from under him, leaving <persName key="Sancho">the somniculous squire</persName> propped up 
 on the saddle with four sticks. His consternation on waking may be 
