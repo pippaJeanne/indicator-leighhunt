@@ -2074,7 +2074,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?place_annotation_20250116195940717",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T00:59:40.717Z",
-	"dcterms:modified": "2025-01-17T00:59:40.717Z",
+	"dcterms:modified": "2025-01-17T01:01:10.571Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2105,7 +2105,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q8843276",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2228,7 +2230,7 @@ to roll a stone up a hill to all eternity, and seeing it always go
 down again, is attributed by some to a characteristic trait, which he 
 could not help playing off upon <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)" type="fictional">Pluto</persName>. It was supposed by the 
 ancients, that a man's ghost would wander in a melancholy manner 
-upon the banks of <placeName type="fictional" key="the River Styx">the Styx</placeName>, as long as his corpse remained without 
+upon the banks of <placeName type="fictional" key="Styx" ref="http://www.wikidata.org/entity/Q8843276">the Styx</placeName>, as long as his corpse remained without 
 burial. <persName key="Sisyphus">Sisyphus</persName> on his death-bed purposely charged <persName key="Merope">his wife</persName> to 
 leave him unburied; and then begged <persName key="Pluto">Pluto</persName>'s permission to go back 
 to earth, on his parole, merely to punish her for so scandalous, a 
