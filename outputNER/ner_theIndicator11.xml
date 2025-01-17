@@ -1260,7 +1260,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250116193630281",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T00:36:30.281Z",
-	"dcterms:modified": "2025-01-17T00:36:30.281Z",
+	"dcterms:modified": "2025-01-17T00:38:03.673Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1291,7 +1291,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Mercury_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1384,7 +1389,7 @@ the cows answered them; and the demigod, detecting the miscreant
 in his cave, strangled him after a hard encounter. This is one of 
 the earliest sharping tricks upon record. </p>
 
-<p><persName key="Autolycus" ref="http://dbpedia.org/resource/Autolycus" type="fictional">Autolycus</persName>, the son of <persName key="Mercury">Mercury</persName> (after whom <persName key="William Shakspeare">Shakspeare</persName> christened 
+<p><persName key="Autolycus" ref="http://dbpedia.org/resource/Autolycus" type="fictional">Autolycus</persName>, the son of <persName key="Mercury (mythology)" ref="http://dbpedia.org/resource/Mercury_(mythology)" type="fictional">Mercury</persName> (after whom <persName key="William Shakspeare">Shakspeare</persName> christened 
 his merry rogue in <title level="m">the Winter's Tale</title>) was a thief suitable to the 
 greater airiness of his origin. He is said to have performed tricks, 
 which must awake the envy even of horse-dealers; for in pretending 
