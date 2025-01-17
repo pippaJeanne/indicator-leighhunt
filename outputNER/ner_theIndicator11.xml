@@ -5218,7 +5218,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117023910124",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T07:39:10.124Z",
-	"dcterms:modified": "2025-01-17T07:39:10.124Z",
+	"dcterms:modified": "2025-01-17T07:40:40.616Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5249,7 +5249,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Bernardino_of_Siena",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5569,7 +5571,7 @@ what might happen in the intervals. </p>
 
 <p>Two Neapolitan sharpers, having robbed a Genoese merchant of 
 his purse, make the best of their way to <placeName type="region" key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751"><choice><corr>Siena</corr><sic>Sienna</sic></choice></placeName>, where they arrive 
-during the preaching of <persName key="St. Bernardin">St. Bernardin</persName>. One of them attends a sermon 
+during the preaching of <persName key="Bernardino of Siena" ref="http://dbpedia.org/resource/Bernardino_of_Siena" type="real">St. Bernardin</persName>. One of them attends a sermon 
 with an air of conspicuous modesty and devotion, and afterwards 
 waits upon the preacher, and addresses him thus: <q type="spoken">Reverend father, 
 you see before you a man, poor indeed, but honest. I do not mean 
