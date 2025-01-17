@@ -5297,7 +5297,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117024126009",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T07:41:26.009Z",
-	"dcterms:modified": "2025-01-17T07:42:06.182Z",
+	"dcterms:modified": "2025-01-17T07:43:06.857Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5376,7 +5376,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117024223232",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T07:42:23.232Z",
-	"dcterms:modified": "2025-01-17T07:42:23.232Z",
+	"dcterms:modified": "2025-01-17T07:42:42.098Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -5407,7 +5407,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#bernardino",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5735,7 +5737,7 @@ to boast, God knows, I have no reason. Who upon earth has reason
 unless it be one who will be the last to boast, like yourself, holy 
 father?</q> Here the saintly orator shook his head, <q type="spoken">I do not mean,</q> 
 resumed the stranger, <q type="spoken">to speak even of the reverend and illustrious 
-<persName key="St. Bernardin" ref="#bernardino" type="real">Bernardin</persName>, but as a man among men. For my part, I am, as it 
+<persName key="Bernardino of Siena" ref="#bernardino" type="real">Bernardin</persName>, but as a man among men. For my part, I am, as it 
 were, a creeping thing among them; and yet I am honest. If I 
 have any virtue, it is that. I crawl right onward in my path, looking 
 neither to the fight nor to the left; and yet I have my temptations. 
@@ -5748,7 +5750,7 @@ some looks — I did, I say, just open the purse, and cast a wistful eye
 at one of those shining pieces, that lay one over the other inside, 
 with something like a wish that I could procure myself a meal with 
 it, unknown to the lawful proprietor. But my conscience, thank 
-Heaven, prevailed. I have to make two requests to you, <persName key="St. Bernardin">reverend 
+Heaven, prevailed. I have to make two requests to you, <persName key="Bernardino de Siena" ref="#bernardino" type="real">reverend 
 father</persName>. First, that you will absolve me for this my offence; and 
 second, that you will be pleased to mention in one of your discourses, 
 that a poor sinner from <placeName type="city" key="Milan" corresp="Italy">Milan</placeName>, on his road to hear them, has found 
