@@ -4554,10 +4554,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022148874",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022222306",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-17T07:21:48.874Z",
-	"dcterms:modified": "2025-01-17T07:21:48.874Z",
+	"dcterms:created": "2025-01-17T07:22:22.306Z",
+	"dcterms:modified": "2025-01-17T07:22:22.306Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4568,7 +4568,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022148874#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022222306#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml",
@@ -4582,7 +4582,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022148874#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250117022222306#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/q[9]/persName"
 		}
@@ -4802,7 +4802,7 @@ horse was stolen from him. <note type="hunt">(<bibl><title key="Orlando Furioso"
 <p>In the Italian Novels and the old French Tales, are a variety of 
 extremely amusing stories of thieves, till most probably founded on 
 fact. We will give a specimen as we go, by way of making this 
-article the completer. A doctor of laws in <placeName type="city" key="Bologna" corresp="Italy" ref="http://www.wikidata.org/entity/Q1891">Bologna</placeName> had become rich 
+article the completer. A doctor of laws in <placeName type="city" key="Bologna" corresp="Italy">Bologna</placeName> had become rich 
 enough, by scraping money together, to indulge himself in a grand 
 silver cup, which he sent home one day to his wife from the <choice><orig>gold-smith's</orig><reg>goldsmith's</reg></choice>.  
 There were two sharping fellows prowling about that day in 
