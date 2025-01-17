@@ -3038,7 +3038,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?title_annotation_20250117013627700",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T06:36:27.700Z",
-	"dcterms:modified": "2025-01-17T06:36:27.700Z",
+	"dcterms:modified": "2025-01-17T06:37:07.761Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3069,7 +3069,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://dbpedia.org/resource/Gil_Blas",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3229,7 +3231,7 @@ of the thieving architect in <persName key="Herodotus" ref="https://dbpedia.org/
 call to mind no other thieves in the Greek and Latin writers, (always 
 excepting political ones) except some paltry fellows who stole napkins 
 at dinner; and the robbers in <persName key="Apuleius" ref="http://dbpedia.org/resource/Apuleius" type="real">Apuleius</persName>, the precursors of those in 
-<title level="m">Gil Blas</title>. When we come however to the times of the Arabians and 
+<title level="m" key="Gil Blas" ref="http://dbpedia.org/resource/Gil_Blas">Gil Blas</title>. When we come however to the times of the Arabians and 
 of chivalry, they abound in all their glory, both great and small. 
 Who among us does not know by heart the story of the never-to-be- 
 forgotten <title level="a" key="Ali Baba and the Forty Thieves">Forty Thieves</title>, with their treasure in the green wood, their 
