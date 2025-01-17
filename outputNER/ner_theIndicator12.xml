@@ -139,7 +139,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?title_annotation_20250117181725917",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T23:17:25.917Z",
-	"dcterms:modified": "2025-01-17T23:17:25.917Z",
+	"dcterms:modified": "2025-01-17T23:20:07.516Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -170,7 +170,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://dbpedia.org/resource/Gil_Blas",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -216,7 +218,7 @@
 <p>We now come to a very unromantic set of rogues; the Spanish 
 ones. In a poetical sense at least they are unromantic; though 
 doubtless the mountains of <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName> have seen as picturesque vagabonds 
-in their time, as any. There are the robbers in <title level="m">Gil Blas</title>, who have 
+in their time, as any. There are the robbers in <title level="m" key="Gil Blas" ref="http://dbpedia.org/resource/Gil_Blas">Gil Blas</title>, who have 
 at least a very respectable cavern, and loads of polite superfluities. 
 Who can forget the lofty-named <persName key="Captain Rolando">Captain Rolando</persName>, with his sturdy 
 height and his whiskers, shewing with a lifted torch his treasure 
