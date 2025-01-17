@@ -2557,7 +2557,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250116200714603",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T01:07:14.603Z",
-	"dcterms:modified": "2025-01-17T01:07:14.603Z",
+	"dcterms:modified": "2025-01-17T01:08:39.025Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2588,7 +2588,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Admetus_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2732,7 +2737,7 @@ caressing him for his conquest, he returned the embrace by filching
 
 away her girdle. He would also have stolen <persName key="Jupiter">Jupiter</persName>'s thunder-bolts 
 but was afraid of burning his fingers. On the evening of his 
-birthday, he drove off the cattle of <persName key="Admetus">Admetus</persName>, which Apollo was tending. 
+birthday, he drove off the cattle of <persName key="Admetus (mythology)" ref="http://dbpedia.org/resource/Admetus_(mythology)" type="fictional">Admetus</persName>, which Apollo was tending. 
 The good-humoured god of wit endeavoured to frighten him into 
 restoring them; but could not help laughing, when in the midst of 
 his threatenings he found himself without his quiver. </p>
