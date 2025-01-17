@@ -1421,7 +1421,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?title_annotation_20250116193934278",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T00:39:34.278Z",
-	"dcterms:modified": "2025-01-17T00:39:34.278Z",
+	"dcterms:modified": "2025-01-17T00:41:38.695Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1452,7 +1452,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/page/The_Winter's_Tale",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1546,7 +1548,7 @@ in his cave, strangled him after a hard encounter. This is one of
 the earliest sharping tricks upon record. </p>
 
 <p><persName key="Autolycus" ref="http://dbpedia.org/resource/Autolycus" type="fictional">Autolycus</persName>, the son of <persName key="Mercury (mythology)" ref="http://dbpedia.org/resource/Mercury_(mythology)" type="fictional">Mercury</persName> (after whom <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName> christened 
-his merry rogue in <title level="m">the Winter's Tale</title>) was a thief suitable to the 
+his merry rogue in <title level="m" key="The Winter's Tale" ref="https://dbpedia.org/page/The_Winter's_Tale">the Winter's Tale</title>) was a thief suitable to the 
 greater airiness of his origin. He is said to have performed tricks, 
 which must awake the envy even of horse-dealers; for in pretending 
 to return a capital horse which he had stolen, he palmed upon the 
