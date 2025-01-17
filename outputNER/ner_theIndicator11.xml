@@ -619,7 +619,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator11.xml?person_annotation_20250116190025341",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T00:00:25.341Z",
-	"dcterms:modified": "2025-01-17T00:00:25.341Z",
+	"dcterms:modified": "2025-01-17T00:03:24.677Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -650,7 +650,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Cacus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -716,7 +721,7 @@ but they can hardly be looked upon as progenitors of our gentle <persName key="D
 Vail</persName>; and besides, with all their ferocity, some of them assume a  
 grandeur, from standing in the remote shadows of antiquity. There was 
 the famous son, for instance, of <persName key="Vulcan (mythology)" ref="http://dbpedia.org/resource/Vulcan_(mythology)" type="fictional">Vulcan</persName> and <persName key="Medusa" ref="http://dbpedia.org/resource/Medusa" type="fictional">Medusa</persName>, whom <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> 
-calls the dire aspect of half-human <persName key="Cacus">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
+calls the dire aspect of half-human <persName key="Cacus" ref="http://dbpedia.org/resource/Cacus" type="fictional">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
 dira</hi>. <note type="hunt">(<title level="m">Æneid</title>, B. 8, v. 194.)</note> He was the Raw-head-and-bloody- 
 bones of ancient fable. He lived in a cave by <placeName type="Physical" key="Mount Aventine" corresp="Italy">Mount Aventine</placeName>, 
 breathing out fiery smoke, and haunting <placeName type="Road" key="King's Highway" corresp="Jordan">king Evander's highway</placeName> 
