@@ -1327,7 +1327,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201140330",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T01:11:40.330Z",
-	"dcterms:modified": "2025-01-18T01:11:40.330Z",
+	"dcterms:modified": "2025-01-18T01:12:09.093Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1358,9 +1358,89 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "http://dbpedia.org/resource/Don_Quixote",
 		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201216487",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-18T01:12:16.487Z",
+	"dcterms:modified": "2025-01-18T01:12:16.487Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201216487#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201216487#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1466,7 +1546,7 @@ here and there happens not to be in so destitute a state as the rest,
 he thinks himself bound to maintain the popular character for an 
 appetite; and manifests the most prodigious sense of punctuality and 
 anticipation in all matters relating to meals. Who ever thinks of 
-<persName key="Sancho Panza" ref="https://dbpedia.org/resource/Sancho_Panza" type="fictional">Sancho</persName>, and does not think of ten minutes before luncheon? <persName key="Don Quixote" ref="http://dbpedia.org/resource/Don_Quixote">Don 
+<persName key="Sancho Panza" ref="https://dbpedia.org/resource/Sancho_Panza" type="fictional">Sancho</persName>, and does not think of ten minutes before luncheon? <persName key="Don Quixote" ref="http://dbpedia.org/resource/Don_Quixote" type="fictional">Don 
 Quixote</persName> on the other hand counts it ungenteel and undignified to be 
 hungry. The cheat, who flatters <title level="m">Gil Blas</title> reckons himself entitled 
 to be insultingly triumphant, merely because he has got a dinner 
