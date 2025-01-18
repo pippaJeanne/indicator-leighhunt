@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -10,7 +7,7 @@
 <author>Leigh Hunt</author>
     </titleStmt>
     <publicationStmt>
-<p />
+<p/>
     </publicationStmt>
     <sourceDesc> 
  <bibl>
@@ -22,7 +19,84 @@
  </bibl>
     </sourceDesc>
 </fileDesc>
-<profileDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118171551056",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-18T22:15:51.056Z",
+	"dcterms:modified": "2025-01-18T22:15:51.056Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118171551056#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118171551056#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
     <particDesc>
 <listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
     <person xml:id="Cont">
@@ -72,7 +146,7 @@
     <text>
 <body>
     <div1 type="issue" n="21">
-<pb n="161" />
+<pb n="161"/>
 <div2 type="forematter"> 
 <head type="title" rend="center">THE INDICATOR.</head>
 <epigraph rend="center">
@@ -115,7 +189,7 @@
 </p>
 <q type="written" rend="center">For <hi rend="italic">valour</hi>, <hi rend="italic">is</hi> not Love a Hercules?</q><note type="source"><bibl><author>William Shakespeare</author><title level="m">Love's Labor's Lost</title>Act 4 Scene 3<ref target="https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/"/></bibl></note>
 </div2>
-<pb n="162" />
+<pb n="162"/>
 <div2 type="scene" n="1">
     <sp who="#Cont">
 <speaker>Contarini.</speaker>
@@ -136,14 +210,14 @@
     </sp>
     <sp who="#Cont">
 <speaker>Cont.</speaker>
-<l><gap></gap>It marred so too </l>
+<l><gap/>It marred so too </l>
 <l>The stately self-possesion of the day, </l>
 <l>Especially before our naval emulators. </l>
 <l>How <persName type="fictional" key="Malipiero">Malipiero</persName>'s vexed!</l>
     </sp>
     <sp who="#Mol">
 <speaker>Mol.</speaker>
-<l><gap></gap>He seized directly </l>
+<l><gap/>He seized directly </l>
 <l><persName type="fictional" key="Piero">Piero</persName>, the gondolier, who is supposed </l>
 <l>To have meant this mischief out of some revenge </l>
 <l>Towards his good master; and conveyed him off </l>
@@ -161,7 +235,7 @@
     </sp>
     <sp who="#Seb">
 <speaker><persName key="Sebastian">Sebastian</persName>.</speaker>
-<l><gap></gap>Quite well again.</l>
+<l><gap/>Quite well again.</l>
 <l>'Twas but a fright at last, though a severe one.</l>
 <l><persName type="fictional" key="Fiammetta">Fiammetta</persName> sparkles like a flower new washed, </l>
 <l>And turns it all, as she is wont to do, </l>
@@ -169,12 +243,12 @@
     </sp>
     <sp who="#Cont">
 <speaker>Cont.</speaker>
-<l><gap></gap>A charming lady.</l>
+<l><gap/>A charming lady.</l>
 <l>But how's <persName type="fictional" key="Vittoria">your mother</persName>?</l>
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
-<l><gap></gap>She's recovered too;</l>
+<l><gap/>She's recovered too;</l>
 <l>Yet though she had no drowning, takes on still, </l>
 <l>Kissing <persName type="fictional" key="Fiammetta">my sister</persName>'s hand, and cheek, and pressing her, </l>
 <l>And then again turning to plenteous tears, </l>
@@ -188,7 +262,7 @@
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
-<l><gap></gap>Yes, when tears </l>
+<l><gap/>Yes, when tears </l>
 <l>Come, as these do, seldom, and out of sweetness.</l>
 <l><persName type="fictional" key="Vittoria">My dearest mother</persName> is of a true clay, </l>
 <l>Much like <persName type="fictional" key="Fiammetta">her daughter</persName>; only former trouble—</l>
@@ -218,9 +292,9 @@
     </sp>
     <sp who="#Mol">
 <speaker>Mol.</speaker>
-<l><gap></gap>'Tis his vehemence.</l>
+<l><gap/>'Tis his vehemence.</l>
 <l>He's vexed at the escape; and to speak truly, </l>
-<pb n="163" />
+<pb n="163"/>
 <l>I think his natural emulation chides him </l>
 <l>For not being quicker than <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
     </sp>
@@ -260,7 +334,7 @@
     </sp>
     <sp who="#Cont">
 <speaker>Cont.</speaker>
-<l><gap></gap>Who, <persName type="ficitonal" key="Candian">Sir</persName>, indeed?</l>
+<l><gap/>Who, <persName type="ficitonal" key="Candian">Sir</persName>, indeed?</l>
 <l>But we'll detain you, gentlemen, no longer </l>
 <l>From our fair friends; pray tell them of our joy, </l>
 <l>And willing envy of <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
@@ -305,7 +379,7 @@
 <speaker>Vanni.</speaker>
 <p>Well, <persName key="Gregory">Gregory</persName>, this is a strange unaccountable circumstance, isn't it!</p>
     </sp>
-    <pb n="164" />
+    <pb n="164"/>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
 <p>What, a fall in the water! not half so strange to me, <persName type="ficitonal" key="Vanni">Vanni</persName>, as that 
@@ -405,7 +479,7 @@ thing about her head.
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap>Be so, child,—be so, dear child.</l>
+<l><gap/>Be so, child,—be so, dear child.</l>
     </sp>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
@@ -428,14 +502,14 @@ thing about her head.
 <l>Some pain to pinch away these foolish tears, </l>
 <l>And make me, as before, give smile for smile.</l>
     </sp>
-    <pb n="165" />
+    <pb n="165"/>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
 <l>Shall I read to you, <persName type="ficitonal" key="Vittoria">mother</persName>?</l>
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap>No, my child.</l>
+<l><gap/>No, my child.</l>
     </sp>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
@@ -527,7 +601,7 @@ thing about her head.
 <l>That all this smiling surface of your talk </l>
 <l>Has not grave ground beneath?</l>
     </sp>
-    <pb n="166" />
+    <pb n="166"/>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
 <l>. . . . Nay, <persName type="ficitonal" key="Vittoria">mother</persName>, now </l>
@@ -606,13 +680,13 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>If, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
+<l><gap/>If, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
 <l>Winning their ready kindness be obliging them. </l>
 <l>'Tis counted so by some.</l>
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap><persName type="ficitonal" key="Walter Herbert">Sir</persName>, the best thanks  </l>
+<l><gap/><persName type="ficitonal" key="Walter Herbert">Sir</persName>, the best thanks  </l>
 <l>A mother can pay to you, who has been </l>
 <l>Made breathless with two rushing visitations, </l>
 <l>Terror and joy, is to shew what you saved for her:—</l>
@@ -620,16 +694,16 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>A pearl indeed, whose sight </l>
+<l><gap/>A pearl indeed, whose sight </l>
 <l>Would pay a fathomless plunge.</l>
     </sp>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
-<l><gap></gap><hi rend="italic">I</hi> cannot, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l><gap/><hi rend="italic">I</hi> cannot, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
 <l>Pay compliments; I fear, I had expected—</l>
 <l>I thank you, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, from bottom of my heart.</l>
     </sp>
-    <pb n="167" />
+    <pb n="167"/>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
 <l>I am paid, <persName type="ficitonal" key="Fiammetta">Madam</persName>, beyond compliment,—</l>
@@ -645,13 +719,13 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>You make me vain, <persName type="ficitonal" key="Vittoria">Madam</persName>; </l>
+<l><gap/>You make me vain, <persName type="ficitonal" key="Vittoria">Madam</persName>; </l>
 <l>And vanity assumes the right to praise, </l>
 <l>Where silence is best worship.</l>
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap>Nay, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, I neither </l>
+<l><gap/>Nay, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, I neither </l>
 <l>Deny your right, nor, to say truth, our pleasure. </l>
 <l>We feel but doubly flattered to conjecture </l>
 <l>That you are driven by your sympathy </l>
@@ -659,7 +733,7 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb</speaker>
-<l><gap></gap>You judge me, <persName type="ficitonal" key="Vittoria">Madam</persName>, </l>
+<l><gap/>You judge me, <persName type="ficitonal" key="Vittoria">Madam</persName>, </l>
 <l>Truly and nobly.</l>
     </sp>
     <sp who="#Cand">
@@ -669,7 +743,7 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>Oh yes, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
+<l><gap/>Oh yes, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
 <l>Where 'tis th' escape of pleased sincerity, </l>
 <l>And not so needlessly alone, as shews it </l>
 <l>Vanity and a superfluous common-place.</l>
@@ -698,7 +772,7 @@ thing about her head.
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
-<l><gap></gap>The right proposition.</l>
+<l><gap/>The right proposition.</l>
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
@@ -726,7 +800,7 @@ thing about her head.
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap>And your heart; </l>
+<l><gap/>And your heart; </l>
 <stage type="delivery" rend="italic">(aside).</stage>
 <l>She blushes, and I fear I do so too:—</l>
 <l>I have most cause.</l>
@@ -739,7 +813,7 @@ thing about her head.
     </sp>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
-<l><gap></gap>Yes, just as many as friends </l>
+<l><gap/>Yes, just as many as friends </l>
 <l>Would wish to have just now;—at least I think so.</l>
     </sp>
     <sp who="#Herb">
@@ -749,7 +823,7 @@ thing about her head.
     </sp>
     <sp who="#Mal">
 <speaker>Mal.</speaker>
-<l><gap></gap>'Tis an answer, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
+<l><gap/>'Tis an answer, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, </l>
 <l>Befitting the coy oracle that sits </l>
 <l>Within a maid's sincerity: but suffer </l>
 <l>Us to give louder grace to your achievement, </l>
@@ -758,10 +832,10 @@ thing about her head.
 <l>And might have made us watery champions jealous, </l>
 <l>Did it not ev'n outbenefit envy.</l>
     </sp>
-    <pb n="168" />
+    <pb n="168"/>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>That </l>
+<l><gap/>That </l>
 <l>Were to outdo the deeds of <persName key="Hercules">Hercules</persName>, </l>
 <l>And make old <persName key="Atlas">Atlas</persName> turn to kiss his burden, </l>
 <l>Like a borne lass. Your generous spirit, <persName type="ficitonal" key="Malipiero">Sir</persName>, </l>
@@ -800,7 +874,7 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap></gap>Not the least, <persName type="ficitonal" key="Fiammetta">Madam</persName>; no more </l>
+<l><gap/>Not the least, <persName type="ficitonal" key="Fiammetta">Madam</persName>; no more </l>
 <l>Than if I had put my hand into a brook, </l>
 <l>To bring away a lily. I had heard </l>
 <l>Of your own welfare: and if I had not, </l>
@@ -812,7 +886,7 @@ thing about her head.
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap></gap>Oh quite, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, thank you, </l>
+<l><gap/>Oh quite, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, thank you, </l>
 <l>I feel the ebbing of these waters yet </l>
 <l>At intervals. Quite well, child,—quite indeed. </l>
 <l><persName key="Candian">Uncle</persName>, we're getting at our compliments </l>
