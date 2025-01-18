@@ -3085,7 +3085,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118180954799",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T23:09:54.799Z",
-	"dcterms:modified": "2025-01-18T23:09:54.799Z",
+	"dcterms:modified": "2025-01-18T23:10:13.445Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3828,7 +3828,7 @@ thing about her head.
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
 <stage type="delivery" rend="italic">(aside).</stage>
-<l>I told you how 'twould be, <persName type="ficitonal" key="Vittoria">Mother</persName>.</l>
+<l>I told you how 'twould be, Mother.</l>
 <l>My cheek's gone off already.</l>
     </sp>
     <sp who="#Vit">
@@ -3841,7 +3841,7 @@ thing about her head.
     <sp who="#Seb">
 <speaker>Seb.</speaker>
 <stage type="delivery">(to Fiam.)</stage>
-<l>Well, <persName type="ficitonal" key="Fiammetta">Sister</persName> gravity, and have you no praises </l>
+<l>Well, Sister gravity, and have you no praises </l>
 <l>AS well as cheeks?</l>
     </sp>
     <sp who="#Fiam">
@@ -3851,7 +3851,7 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><persName type="ficitonal" key="Sebastian">Your brother</persName> could not be more gladly answered, </l>
+<l>Your brother could not be more gladly answered, </l>
 <l>Nor I more honoured.</l>
     </sp>
     <sp who="#Mal">
