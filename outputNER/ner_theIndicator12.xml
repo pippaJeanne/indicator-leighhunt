@@ -2282,7 +2282,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117232053630",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T04:20:53.630Z",
-	"dcterms:modified": "2025-01-18T04:20:53.630Z",
+	"dcterms:modified": "2025-01-18T04:21:18.853Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2313,7 +2313,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Dante_Alighieri",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2707,7 +2709,7 @@ appeared a little while ago. We have read it; and if we
 remember rightly, were pleased; but want of memory on these occasions 
 is not a good symptom. <persName key="Francisco de Quevedo">Quevedo</persName>, no ordinary person, is very 
 amusing. His Visions of Hell in particular, though of a very different 
-kind from <persName key="Dante">Dante</persName>'s, are more edifying. But our business at present 
+kind from <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>'s, are more edifying. But our business at present 
 is with his <title level="m">"History of <persName type="fictional" key="Don Pablo">Paul the Spanish Sharper</persName>, the Pattern of 
 Rogues and Mirror of Vagabonds."</title> We do not know that he deserves 
 these appellations so much as some others; but they are to be looked 
