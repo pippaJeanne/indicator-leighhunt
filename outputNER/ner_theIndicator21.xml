@@ -1972,7 +1972,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118173739529",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:37:39.529Z",
-	"dcterms:modified": "2025-01-18T22:37:39.529Z",
+	"dcterms:modified": "2025-01-18T22:38:39.004Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2003,7 +2003,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q7561041",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2310,7 +2312,7 @@
     to fall in. Our shews and our shews-off by day, our gondolas, and our serenades, 
     what should we do without them? And the water causes or sweetens them all. 
     You'll hear guitars to night twinkling about like stars. I won my mistress's 
-    heart by a plunge higher than was known before into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName>
+    heart by a plunge higher than was known before into the <placeName type="physical" key="Song River" corresp="Italy" ref="http://www.wikidata.org/entity/Q7561041">River of Song!</placeName>
 </p>
     </sp>
     <sp who="#Greg">
