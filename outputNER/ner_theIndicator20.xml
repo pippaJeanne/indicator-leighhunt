@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -11,7 +8,7 @@
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <sourceDesc>
@@ -24,7 +21,87 @@
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?person_annotation_20250118162822104",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-18T21:28:22.104Z",
+	"dcterms:modified": "2025-01-18T21:28:22.104Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?person_annotation_20250118162822104#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?person_annotation_20250118162822104#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q4768392",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers are
 included for reference to the source only and are not intended to indicate precise
@@ -38,15 +115,14 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="20">
-<pb n="153" />
+<pb n="153"/>
 <div2 type="forematter"> 
 <head type="title">THE INDICATOR.</head>
 <epigraph>
 <l>There he arriving round about doth flie</l>
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.</l>
-<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 
 </epigraph>
 <head type="catalogue">No. XX.—<date when="1820-02-23" cert="high">WEDNESDAY, FEBRUARY 23rd, 1820</date>.</head>
@@ -73,7 +149,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>That gather up as drearily,</l>
 <l>And watch with solemn-visaged eyes</l>
 <l>Those mightier movers in the skies.</l></lg>
-<lb />
+<lb/>
 <lg>
 <l>Tis evening quick;—tis night:—the rain</l>
 <l>Is sowing wide the fruitless main,</l>
@@ -94,7 +170,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>Made by moring's eye divine.</l>
 <l>Stately came they, one by one,</l>
 <l>Every sail beneath the sun,</l>
-<pb n="154" />
+<pb n="154"/>
 <l>As if he their admiral were</l>
 <l>Looking down from the lofty air,</l>
 <l>Stately, stately through the gold.–</l>
@@ -106,7 +182,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>Was drenched and driving, far from home,</l>
 <l>dead and swift, through the Northern foam.</l>
 </lg>
-<lb />
+<lb/>
 <lg>
 <l>Four are they, who wearily</l>
 <l>Have drunk of toil two days at sea;</l>
@@ -117,7 +193,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>And he, the greatest of that great band,</l>
 <l><persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>.</l>
 </lg>
-<lb />
+<lb/>
 <lg>
 <l>Dumbly strain they for the shore,</l>
 <l>Foot to board, and grasp on oar,</l>
@@ -132,7 +208,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>Like ghostly things that could not cease</l>
 <l>To row among those savages.</l>
 </lg>
-<lb />
+<lb/>
 <lg>
 <l><persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName></l>
 <l>Has rowed the most of all that band;</l>
@@ -155,7 +231,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>Which upon this very night</l>
 <l>Should have blushed with bridal light,</l>
 
-<pb n="155" />
+<pb n="155"/>
 
 <l>And of her downward eyelids meek,</l>
 <l>And of her voice, just heard to speak,</l>
@@ -176,7 +252,7 @@ account for <choice><orig>it's</orig><reg>its</reg></choice> present appearance.
 <l>Thrilled with a fierce and forward motion,</l>
 <l>As though 'twould shoot it through the ocean.</l>
 </lg>
-<lb />
+<lb/>
 
 <p><q type="spoken">Some spirit,</q> exclaimed <persName key="Duth Maruno">Duth Maruno</persName>, <q type="spoken">must pursue us, and 
 perpetually urge the boat out of <choice><orig>it's</orig><reg>its</reg></choice> way, or we must have arrived 
@@ -211,7 +287,7 @@ of seal-hunters.</p>
 
 <p>The chiefs, on their arrival at home, related how <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the 
 
-<pb n="156" />
+<pb n="156"/>
 
 Perfect Hand</persName> had been summoned away by a loud-voiced spirit, and 
 disappeared. Great was the mourning in <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName> for the Perfect 
@@ -267,7 +343,7 @@ out of a new and noble one to <persName type="fictional" key="Odin">the King of 
 twilight of heaven may come late. We bring an acceptable present: 
 we bring <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of the Perfect Hand</persName>.</q> Thus they sang in the boat, 
 
-<pb n="157" /> 
+<pb n="157"/> 
 
 labouring all the while with the winds and waves, but surer now
 than ever of reaching the shore. And they did so, by the first light 
@@ -321,7 +397,7 @@ of <persName type="fictional" key="Ronald of the Perfect Hand">the warrior</pers
 of appropriating this mystical stone, carved full of strange figures; 
 but half in courage, and half in the very despair of fear, he suddenly 
 
-<pb n="158" /> 
+<pb n="158"/> 
 
 twisted it from <choice><orig>it's</orig><reg>its</reg></choice> place. No one appeared. The fire altered not. 
 The noise of the fowl and other creatures was no louder on the shore. 
@@ -377,7 +453,7 @@ that hope, and partly from a courageous patience, he produced as
 many pleasant thoughts and objects about him as he could. He 
 adorned his cavern with shells and feathers; he made himself a cap 
 
-<pb n="159" /> 
+<pb n="159"/> 
 
 and cloak of the latter, and boots and a vest of seal-skin, girding it 
 about with the glossy sea-weed; he cleared away a circle before the 
@@ -432,7 +508,7 @@ been able to do; and he found himself unable either to rise or to
 speak. The voice called again and again, but it was now more distant; 
 and <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>'s heart sickened as he heard it retreating. His 
 
-<pb n="160" /> 
+<pb n="160"/> 
 strength seemed to fail him in proportion as it became necessary. 
 Suddenly the voice came back again. It advances. Other voices are 
 heard, all advancing. In a short time, figures come hastily down 
