@@ -3246,7 +3246,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118181226256",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T23:12:26.256Z",
-	"dcterms:modified": "2025-01-18T23:12:26.256Z",
+	"dcterms:modified": "2025-01-18T23:13:23.033Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3277,7 +3277,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Atlas_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4029,8 +4034,8 @@ thing about her head.
 <speaker>Herb.</speaker>
 <l><gap/>That </l>
 <l>Were to outdo the deeds of <persName key="Hercules" ref="http://dbpedia.org/resource/Hercules" type="fictional">Hercules</persName>, </l>
-<l>And make old <persName key="Atlas">Atlas</persName> turn to kiss his burden, </l>
-<l>Like a borne lass. Your generous spirit, <persName type="ficitonal" key="Malipiero">Sir</persName>, </l>
+<l>And make old <persName key="Atlas (mythology)" ref="http://dbpedia.org/resource/Atlas_(mythology)" type="fictional">Atlas</persName> turn to kiss his burden, </l>
+<l>Like a borne lass. Your generous spirit, Sir, </l>
 <l>Sees, like an eye, ore infinite things outside it, </l>
 <l>Than ever it would boast to hold itself. </l>
 <l>You measure my desert by your great joy.</l>
@@ -4043,7 +4048,7 @@ thing about her head.
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l>Well, <persName type="ficitonal" key="Malipiero">Sir</persName>, to shew you I can claim my due, </l>
+<l>Well, Sir, to shew you I can claim my due, </l>
 <l>And have my benefits returned, I'll ask </l>
 <l><persName type="ficitonal" key="Fiammetta">This lady</persName> to speak for me, and to own </l>
 <l>That what would have been done by any gentleman </l>
