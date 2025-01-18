@@ -2204,7 +2204,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174820422",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:48:20.422Z",
-	"dcterms:modified": "2025-01-18T22:49:38.353Z",
+	"dcterms:modified": "2025-01-18T22:50:40.480Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2284,7 +2284,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174952338",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:49:52.338Z",
-	"dcterms:modified": "2025-01-18T22:49:52.338Z",
+	"dcterms:modified": "2025-01-18T22:50:09.996Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2315,7 +2315,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "https://dbpedia.org/resource/St_Mark's_Basilica",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2689,7 +2691,7 @@
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
-<p>Never mind, then, <placeName type="building" key="St. Mark's Barsilica" corresp="Italy" cert="low">Bartolo</placeName>, this time.</p>
+<p>Never mind, then, <placeName type="building" key="St. Mark's Barsilica" corresp="Italy" cert="low" ref="https://dbpedia.org/resource/St_Mark's_Basilica">Bartolo</placeName>, this time.</p>
     </sp>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
