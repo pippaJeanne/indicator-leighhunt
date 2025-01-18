@@ -3304,7 +3304,7 @@ doubtless the mountains of <placeName type="country" key="Spain" corresp="Spain"
 in their time, as any. There are the robbers in <title level="m" key="Gil Blas" ref="http://dbpedia.org/resource/Gil_Blas">Gil Blas</title>, who have 
 at least a very respectable cavern, and loads of polite superfluities. 
 Who can forget the lofty-named <persName key="Captain Rolando">Captain Rolando</persName>, with his sturdy 
-height and his whiskers, shewing with a lifted torch his treasure 
+height and his whiskers, <choice><orig>shewing</orig><reg>showing</reg></choice> with a lifted torch his treasure 
 to the timid stripling <persName key="Gil Blas de Santillana" type="fictional">Gil Blas</persName>? The most illustrious theft in 
 Spanish story is one recorded of no less a person than the fine old 
 national hero, <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real" xml:id="cid">the Cid</persName>. As the sufferers were Jews, it might be 
@@ -3317,17 +3317,13 @@ redeem all.</q> The case was this. <persName key="El Cid" ref="http://dbpedia.or
 to please his master <persName key="Alfonso VI of León and Castile" ref="https://dbpedia.org/resorce/Alfonso_VI_of_León_and_Castile" type="real">the king</persName>, had quarrelled with him, or rather 
 had been banished; and nobody was to give him house-room or food. 
 A number of friends however followed him; and by the help of his 
-nephew <persName key="Martin Antolinez" type="fictional">Martin Antolinez</persName>, he proposed to raise some money. <persName key="Martin Antolinez" ref="#martin" type="fictional">Martin</persName> 
+nephew <persName key="Martin Antolinez" type="fictional" xml:id="martin">Martin Antolinez</persName>, he proposed to raise some money. <persName key="Martin Antolinez" ref="#martin" type="fictional">Martin</persName> 
 accordingly negociated the business with a couple of rich Jews, who 
 for a deposit of two chests full of spoil, which they were not to open 
 for a year, on account of political circumstances, agreed to advance 
-six hundred marks. <q type="spoken">Well then, said <persName key="Martin Antolinez">Martin Antolinez</persName>, ye see that 
-the night is advancing; <persName key="El Cid">the Cid</persName> is in haste, give us the marks. This 
-is not the way of business, said they; we must take first, and then 
-give.</q> — <persName key="Martin Antolinez">Martin</persName> accordingly goes with them to <persName key="El Cid">the Cid</persName>, who in the 
-mean time has filled a couple of heavy chests with sand. <persName key="El Cid">The Cid</persName> 
+six hundred marks. <q type="spoken">Well then, said <persName key="Martin Antolinez" type="fictional">Martin Antolinez</persName>, ye see that the night is advancing; <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">The Cid</persName> is in haste, give us the marks. This is not the way of business, said they; we must take first, and then give.</q> — <persName key="Martin Antolinez">Martin</persName> accordingly goes with them to <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">The Cid</persName>, who in the mean time has filled a couple of heavy chests with sand. <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">The Cid</persName> 
 smiled as they kissed his hand, and said, <q type="spoken">Ye see I am going out of 
-the land because of <persName key="King Alfonso VI">the king</persName>'s displeasure; but I shall leave something 
+the land because of <persName key="Alfonso VI of León and Castile" ref="https://dbpedia.org/resorce/Alfonso_VI_of_León_and_Castile" type="real">the king</persName>'s displeasure; but I shall leave something 
 with ye.</q> The Jews made a suitable answer, and were then 
 desired to take the chests; but though strong men, they could not 
 raise them from the ground. This put them in such spirits that 
@@ -3335,27 +3331,25 @@ raise them from the ground. This put them in such spirits that
 <pb n="90"/>
 
 after telling out the six hundred marks, (which <persName key="Martin Antolinez" ref="#martin" type="fictional">Don Martin</persName> took 
-without weighing) they offered <persName key="El Cid">the Cid</persName> a present of a fine red skin;
-and upon <persName key="Don Martin">Don Martin</persName>'s suggesting that he thought his own services 
+without weighing) they offered <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">The Cid</persName> a present of a fine red skin;
+and upon <persName key="Martin Antolinez" ref="#martin" type="fictional">Don Martin</persName>'s suggesting that he thought his own services 
 in the business merited a pair of hose, they consulted a minute with 
 each other, in order to do every thing judiciously; and then gave 
 him money enough to buy, not only the hose, but a rich doublet and 
-good cloak into the bargain. <note cert="high" evaluate="all" generatedBy="human" place="top" xml:space="default" type="hunt"> See <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName>'s excellent compilation entitled the <bibl><title key="Chronicle of the Cid" ref="https://www.gutenberg.org/ebooks/8491" level="m">Chronicle of the Cid</title>. <biblScope>Book 3, Sec. 21</biblScope></bibl>. If Mr. Southey — but we must recollect we are not at our 
-politics. The version at the end of the book, attributed to <persName key="John Hookham Frere" ref="http://dbpedia.org/resource/John_Hookham_Frere" type="real">Mr. Hookhara Frere</persName>, 
+good cloak into the bargain. <note type="hunt"> See <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName>'s excellent compilation entitled the <bibl><title key="Chronicle of the Cid" ref="https://www.gutenberg.org/ebooks/8491" level="m">Chronicle of the Cid</title>. <biblScope>Book 3, Sec. 21</biblScope></bibl>. If <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName> — but we must recollect we are not at our politics. The version at the end of the book, attributed to <persName key="John Hookham Frere" ref="http://dbpedia.org/resource/John_Hookham_Frere" type="real">Mr. Hookhara Frere</persName>, 
 of a passage out of the <title key="Cantar de mio Cid" ref="https://dbpedia.org/page/Cantar_de_mio_Cid" level="m">Poema del Cid</title>, is the most native and terse bit of 
-translation we ever met with. It rides along, like  <persName key="El Cid">the Cid</persName> himself on horseback, with 
-an infinite mixture of ardour and self-possessipn; bending, when it chuses, with 
-grace; or bearing down every thing with mastery.</note></p>
+translation we ever met with. It rides along, like  <persName key="El Cid" ref="http://dbpedia.org/resource/El_Cid" type="real">The Cid</persName> himself on horseback, with 
+an infinite mixture of ardour and self-possessipn; bending, when it <choice><orig>chuses</orig><reg>choses</reg></choice>, with grace; or bearing down every thing with mastery.</note></p>
 
 <p>The regular sharping rogues however, that abound in Spanish 
 books of adventure, have one species of romance about them, of a 
-very peculiar nature. It may be called, we fear, as far as <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> is 
+very peculiar nature. It may be called, we fear, as far as <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName> is 
 concerned, a <q type="soCalled">romance of real life.</q> We allude to the absolute 
 want and hunger, which is so often the original of their sin. A vein 
 of this craving nature runs throughout most of the Spanish novels. 
 In other countries, theft is generally represented as the result of an 
 abuse of plenty, or some other kind of profligacy, or absolute ruin. 
-But it seems to be an understood thing, that to be poor in <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> is 
+But it seems to be an understood thing, that to be poor in <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName> is 
 to be in want of the commonest necessaries of life. If a poor man 
 here and there happens not to be in so destitute a state as the rest, 
 he thinks himself bound to maintain the popular character for an 
@@ -3363,7 +3357,7 @@ appetite; and manifests the most prodigious sense of punctuality and
 anticipation in all matters relating to meals. Who ever thinks of 
 <persName key="Sancho Panza" ref="https://dbpedia.org/resource/Sancho_Panza" type="fictional">Sancho</persName>, and does not think of ten minutes before luncheon? <persName key="Don Quixote" ref="http://dbpedia.org/resource/Don_Quixote" type="fictional">Don 
 Quixote</persName> on the other hand counts it ungenteel and undignified to be 
-hungry. The cheat, who flatters <title level="m">Gil Blas</title> reckons himself entitled 
+hungry. The cheat, who flatters <title level="m" key="Gil Blas" ref="http://dbpedia.org/resource/Gil_Blas">Gil Blas</title> reckons himself entitled 
 to be insultingly triumphant, merely because he has got a dinner 
 out of him. </p>
 
@@ -3398,9 +3392,9 @@ gentleman; and here he is worse off than ever. The reader wonders, as
 he himself did, how he can possibly ascend to this climax of starvation. 
 To overreach a blind beggar, might be thought easy. The reader 
 will judge by a specimen or two. The old fellow used to keep his 
-mug of liquor between his legs, that <persName key="Lazarillo de Tormes">Lazarillo</persName> might not touch it 
+mug of liquor between his legs, that <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> might not touch it 
 without his knowledge. He did however; and the beggar discovering 
-it, took to holding the mug in future by the handle. <persName key="Lazarillo de Tormes">Lazarillo</persName> then 
+it, took to holding the mug in future by the handle. <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> then 
 contrives to suck some of the liquor off with a reed; till the beggar 
 defeats this contrivance by keeping one hand upon the vessel's mouth. 
 His antagonist, upon this, makes a hole near the bottom of the mug, 
@@ -3410,7 +3404,7 @@ threw the blind man into despair. He <q>used to swear and domineer,</q>
 and wish both the pot and <choice><orig>it's</orig><reg>its</reg></choice> contents at the devil. The following 
 account of the result is a specimen of the English translation of the 
 work, which is done with great tact and spirit, we know not by 
-whom. But it is worthy of <persName key="Daniel Defoe" ref="https://dbpedia.org/resource/Daniel_Defoe" type="real">De Foe</persName>. <persName key="Lazarillo de Tormes">Lazarillo</persName> is supposed to tell 
+whom. But it is worthy of <persName key="Daniel Defoe" ref="https://dbpedia.org/resource/Daniel_Defoe" type="real">De Foe</persName>. <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> is supposed to tell 
 his adventures himself. <q type="spoken">You won't accuse me any more, I hope,</q> 
 cried I, <q type="spoken">of drinking your wine, <note type="hunt" place="foot">The reader is to understand a common southern wine, more like a washy 
 cyder than any thing else. </note> after all the fine precautions you 
@@ -3430,48 +3424,44 @@ full of broken teeth, and broken pieces of the can. From that time
 forward, I ever abominated the monstrous old churl, and in spite of 
 all his flattering stories, could easily observe, how my punishment 
 tickled the old rogue's fancy. He washed my sores with wine; and 
-with a smile, <q type="spoken">What say'st thou,</q> quoth he, <q type="spoken"><persName key="Lazarillo de Tormes">Lazarillo</persName>; the thing 
+with a smile, <q type="spoken">What say'st thou,</q> quoth he, <q type="spoken"><persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>; the thing 
 that hurt thee, now restores thee to health. Courage, my boy."
 But all his raillery could not make me change my mind.</q> </p>
 
 <p>At another time, a countryman giving them a cluster of grapes, 
-the old man, says <persName key="Lazarillo de Tormes">Lazarillo</persName>, <q type="spoken">would needs take that opportunity to 
+the old man, says <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, <q type="spoken">would needs take that opportunity to 
 
 <pb n="92"/>
 
 shew me a little kindness, after he had been chiding and beating me 
 the whole day before.</q> So setting ourselves down by a hedge,
-<q type="spoken">Come hither, <persName key="Lazarillo de Tormes">Lazarillo</persName>,</q> quoth he, <q type="spoken">and let us enjoy ourselves a 
-little, and eat these raisins together; which that we may share like 
-brothers, do you take but one at a time, and be sure not to cheat me, 
-and I promise you for my part, I shall take no move.</q> That I 
-readily agreed to, and so we began our banquet; but at the very 
+<q type="spoken">Come hither, <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>,</q> quoth he, <q type="spoken">and let us enjoy ourselves a little, and eat these raisins together; which that we may share like brothers, do you take but one at a time, and be sure not to cheat me, and I promise you for my part, I shall take no move.</q> That I readily agreed to, and so we began our banquet; but at the very 
 second time he took a couple, believing, I suppose, that I would do 
 the same. And finding he had shewed me the way, I made no 
 scruple all the while to take two, three, or four at a time; sometimes 
 more and sometimes less, as conveniently I could. When we had 
 done, the old man shook his head, and holding the stalk in his hand, 
-<q type="spoken">Thou hast cheated me, <persName key="Lazarillo de Tormes">Lazarillo</persName>,</q> quoth he, <q type="spoken">for I could take my 
+<q type="spoken">Thou hast cheated me, <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>,</q> quoth he, <q type="spoken">for I could take my 
 oath, that thou hast taken three at a time.</q> <q type="spoken">Who I! I beg your 
 pardon,</q> quoth I, <q type="spoken">my conscience is as dear to me as another.</q> 
 <q type="spoken">Pass that jest upon another,</q> answered the old fox; <q type="spoken">you saw me 
 take two at a time without complaining of it, and therefore you took 
 three.</q> At that I could hardly forbear laughing; and at the same 
-time admired- the justness of his reasoning." <persName key="Lazarillo de Tormes">Lazarillo</persName> at length 
+time admired- the justness of his reasoning." <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> at length 
 quitted the service of the old hard-hearted miser, and revenged 
 himself upon him at the same time, in a very summary manner. They 
 were returning home one day on account of bad weather, when they 
 had to cross a kennel which the rain had swelled to a little torrent. 
 The beggar was about to jump over it as well as he could, when 
-<persName key="Lazarillo de Tormes">Lazarillo</persName> persuaded him to go a little lower down the stream, because 
+<persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> persuaded him to go a little lower down the stream, because 
 there was a better crossing; that is, there was a stone pillar on the 
 other side, against which he knew the blind old fellow would 
 nearly dash his brains out. "He was mightily pleased with my advice, 
 <q type="spoken">Thou art in the right on it, good boy,</q> quoth he, <q type="spoken">and I love 
-thee with all my heart, <persName key="Lazarillo de Tormes">Lazarillo</persName>. Lead me to the place thou 
+thee with all my heart, <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>. Lead me to the place thou 
 speakest of; the water is very dangerous in winter, and especially to 
 have one's feet wet.</q> And again : — <q type="spoken">Be sure to set me in the right 
-place, <persName key="Lazarillo de Tormes">Lazarillo</persName>,</q> quoth he; <q type="spoken">and then do thou go over first.</q> I 
+place, <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>,</q> quoth he; <q type="spoken">and then do thou go over first.</q> I 
 obeyed his orders, and set him exactly before the pillar, and so 
 leaping over, posted myself behind it, looking upon him as a man would 
 do upon a mad bull. <q type="spoken">Now your jump,</q> quoth I, <q type="spoken">and you may 
@@ -3479,7 +3469,7 @@ get over to rights, without ever touching the water.</q> I had scarce
 done speaking, when the old man, like a ram that's fighting, ran 
 three steps backwards, to take his start with the greater vigour, and 
 so his head came with a vengeance against the stone-pillar, which 
-made him fall back into the kennel half dead." <persName key="Lazarillo de Tormes">Lazarillo</persName> stops a 
+made him fall back into the kennel half dead." <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> stops a 
 moment to triumph over him with insulting language; and then, 
 says he, <q type="spoken">resigning my blind, bruised, wet, old, cross, cunning 
 master, to the care of the mob that was gathered about him, I made 
@@ -3487,7 +3477,7 @@ the best of my heels, without ever looking about, till I had got the
 town-gate upon my back; and thence, marching on a merry pace, I 
 arrived before night at Torrigo.</q> </p>
 
-<p>At the house of the priest, poor <persName key="Lazarillo de Tormes">Lazarillo</persName> gets worse off than 
+<p>At the house of the priest, poor <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> gets worse off than 
 before, and is obliged to resort to the most extraordinary shifts to 
 arrive at a morsel of bread. At one time, he gets a key of a tinker 
 
@@ -3501,13 +3491,13 @@ liberal of the bread than usual. He lets him have in particular <q type="written
 parings about the parts where he thought the mice had been.</q> 
 Another of his contrivances is to palm off his pickings upon a serpent, 
 with which animal a neighbour told the priest that his house had 
-been once haunted. <persName key="Lazarillo de Tormes">Lazarillo</persName>, who had been used when he lived 
+been once haunted. <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, who had been used when he lived 
 with the beggar to husband pieces of money in his mouth, (substituting 
 some lesser coin in the blind man's hand, when people gave 
 him any thing) now employs the same hiding-place for his key; but 
 whistling through it unfortunately, one night, as he lay breathing 
 hard in his sleep, the priest concludes he has now caught the serpent, 
-and going to <persName key="Lazarillo de Tormes">Lazarillo</persName>'s bed with a broomstick, gives him at a venture 
+and going to <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>'s bed with a broomstick, gives him at a venture 
 such a tremendous blow on the head, as half murders him". The key 
 is then discovered, and the poor fellow turned out of doors. </p>
 
@@ -3521,16 +3511,16 @@ the dust from a stone seat, lays it neatly down, and so makes a
 cushion of it to sit upon. There is no other furniture in the room, 
 nor even in the neighbouring rooms, except a bed <q>composed of the 
 anatomy of an old hamper.</q> The truth is, the squire is as poor as 
-<persName key="Lazarillo de Tormes">Lazarillo</persName>, only too proud to own it; and so he starves both himself 
+<persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, only too proud to own it; and so he starves both himself 
 and his servant at home, and then issues gallantly forth of a morning, 
 with his <placeName type="city" key="Toledo" corresp="Spain" ref="http://www.wikidata.org/entity/Q5836">Toledo</placeName> by his side, and a countenance of stately satisfaction , 
 returning home every day about noon with <q>a starched body, 
-reaching out his neck like a grey-hound.</q> <persName key="Lazarillo de Tormes">Lazarillo</persName> had not been a 
+reaching out his neck like a grey-hound.</q> <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> had not been a 
 day in the house, before he found out how matters went. He was 
 beginning, in his despair of a dinner, to eat some scraps of bread 
 which had been given him in the morning, when the squire observing 
 him, asked what he was about. <q type="spoken">Come hither, boy,</q> said he, <q type="spoken">what's 
-that thou art eating?</q> <q type="spoken">I went,</q> says <persName key="Lazarillo de Tormes">Lazarillo</persName>, <q type="spoken">and shewed him 
+that thou art eating?</q> <q type="spoken">I went,</q> says <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, <q type="spoken">and shewed him 
 three pieces of bread, of which taking away the best, "upon my 
 faith,</q> quoth he, <q type="spoken">this bread seems to be very good.</q> <q type="spoken">Tis too 
 stale and hard. Sir,</q> said I, <q type="spoken">to be good.</q> <q type="spoken">I swear 'tis very 
@@ -3541,7 +3531,7 @@ may be so,</q> answered the miserable squire; and so putting the
 bread to his mouth, he eat it with no less appetite than I did mine; 
 adding at every mouthful, <q type="spoken">Gadzooks, this bread is excellent.</q> </p>
 
-<p><persName key="Lazarillo de Tormes">Lazarillo</persName> in short here finds the bare table so completely turned 
+<p><persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> in short here finds the bare table so completely turned 
 upon him, that he is forced to become provider for his master as well 
 as himself; which he does by fairly going out every day and begging, 
 the poor squire winking at the indignity, though not without a hint 
@@ -3550,12 +3540,12 @@ the poor squire winking at the indignity, though not without a hint
 
 at keeping the connexion secret. The following extract shall be our 
 climax, which it may well be, the hunger having thus ascended into 
-the ribs of Spanish aristocracy. <persName key="Lazarillo de Tormes">Lazarillo</persName>, one lucky day, has an 
+the ribs of Spanish aristocracy. <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, one lucky day, has an 
 ox-foot and some tripe given him by a butcher-woman. On coming 
 home with his treasure, he finds the hidalgo impatiently walking up 
 and down, and feais he shall have a scolding for staying so long: but 
 the squire merely asks where he has been, and receives the account 
-with an irrepressible air of delight. <q type="spoken">I sate down,</q> says <persName key="Lazarillo de Tormes">Lazarillo</persName>, 
+with an irrepressible air of delight. <q type="spoken">I sate down,</q> says <persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>, 
 "upon the end of the stone seat, and began to eat that he might 
 fency I was feasting; and observed without seeming to take notice, 
 that his eye was fixed upon my skirt, which was all the plate and 
@@ -3569,7 +3559,7 @@ short, being very desirous to supply his necessity, as I had done the
 day before, and which I was then much better in a condition to do, 
 having already sufficiently stuffed my own guts : it was not long 
 before an opportunity fairly offered itself; for he taking occasion to 
-come near me in his walks, <q type="spoken"><persName key="Lazarillo de Tormes">Lazarillo</persName>,</q> quoth he, (as soon as he 
+come near me in his walks, <q type="spoken"><persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName>,</q> quoth he, (as soon as he 
 observed me begin to eat) <q type="spoken">I never saw any body eat so handsomely 
 as thee; a body can scarce see thee fall to work without desiring to 
 bear thee company: let their stomachs be never so full, or their 
@@ -3612,8 +3602,7 @@ the subject as ourselves, for we are led on insensibly by these amusing
 thieves, and find we shall have yet another paper to write upon them, 
 before we have done. We will therefore conclude the present one 
 by giving another specimen or two of the sharping Spaniard out of 
-<persName key="Francisco de Quevedo" ref="http://dbpedia.org/resource/Francisco_de_Quevedo" type="real">Quevedo</persName>. The Adventures, by the way, of <persName key="Lazrillo de Torres">Lazarillo de Tormes</persName> 
-were written in the sixteenth century by a Spanish gentleman, 
+<persName key="Francisco de Quevedo" ref="http://dbpedia.org/resource/Francisco_de_Quevedo" type="real">Quevedo</persName>. The Adventures, by the way, of <persName key="Lazarillo de Tormes" ref="https://dbpedia.org/resource/Lazarillo_de_Tormes" type="fictional">Lazarillo de Tormes</persName> were written in the sixteenth century by a Spanish gentleman, 
 apparently of illustrious family, <persName key="Diego de Mendoza" ref="https://dbpedia.org/resource/Diego_de_Mendoza" type="real">Don Diego de Mendoza</persName>, who was 
 sometime ambassador at <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641">Venice</placeName>. This renders the story of the hidalgo 
 still more curious. Not that the author perhaps ever felt the proud 
@@ -3625,7 +3614,7 @@ humble, was too national a thing, not to be entered into by his
 statistic apprehension. </p>
 
 <p>The most popular work connected with sharping adventures in 
-<title level="m">Gil Blas</title> which though known to us as a French production, seems 
+<title level="m" key="Gil Blas" ref="http://dbpedia.org/resource/Gil_Blas">Gil Blas</title> which though known to us as a French production, seems 
 unquestionably to have originated in the country where the scene is 
 laid. It is a work exquisitely easy and true; but somehow we have 
 no fancy for the knaves in it. They are of too smooth, sneaking, 
@@ -3635,7 +3624,7 @@ before-mentioned, who are a picturesque patch in the work, like a
 piece of rough poetry. </p>
 
 <p>Of the illustrious <title key="Guzman d'Alfarache" ref="https://dbpedia.org/resource/Guzmán_de_Alfarache" level="m">Guzman d'Alfarache</title>, the most popular book of 
-the kind, we believe, in <placeName type="country" key="Spain" corresp="Spain">Spain</placeName>, and admired, we know, in this 
+the kind, we believe, in <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName>, and admired, we know, in this 
 country by some excellent judges, we cannot with propriety speak, 
 for we have only read a few pages at the beginning; though we read 
 those twice over, at two different times, and each time with the same 
@@ -3647,16 +3636,14 @@ They say however he has excellent stuff in him. </p>
 <p>We can speak as little of <title key="Marcos de Obregón" ref="http://www.wikidata.org/entity/Q30899339" level="m">Marcos de Obregon</title>, of which a translation 
 appeared a little while ago. We have read it; and if we 
 remember rightly, were pleased; but want of memory on these occasions 
-is not a good symptom. <persName key="Francisco de Quevedo">Quevedo</persName>, no ordinary person, is very 
+is not a good symptom. <persName key="Francisco de Quevedo" ref="http://dbpedia.org/resource/Francisco_de_Quevedo" type="real">Quevedo</persName>, no ordinary person, is very 
 amusing. His <title key="Visions of Hell" ref="https://dbpedia.org/resource/Los_Sueños" level="m" cert="medium">Visions of Hell</title> in particular, though of a very different 
 kind from <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>'s, are more edifying. But our business at present 
 is with his <title level="m" key="&amp;quot;History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds.&amp;quot;" ref="https://dbpedia.org/resource/El_Buscón">"History of Paul the Spanish Sharper, the Pattern of 
 Rogues and Mirror of Vagabonds."</title> We do not know that he deserves 
 these appellations so much as some others; but they are to be looked 
 upon as titular ornaments, common to the Spanish Kleptocracy. He 
-is extremely pleasant, especially in his younger days. <persName type="fictional" key="Aldonza Saturno de Rebollo">His mother</persName>, 
-who is no better than the progenitor of such a personage ought to 
-be, happens to have the misfortune one day of being carted. <persName type="fictional" key="Don Pablo">Paul</persName>, 
+is extremely pleasant, especially in his younger days. <persName type="fictional" key="Aldonza Saturno de Rebollo" xml:id="aldonza">His mother</persName>, who is no better than the progenitor of such a personage ought to be, happens to have the misfortune one day of being carted. <persName type="fictional" key="Don Pablo" xml:id="pablo">Paul</persName>, 
 who was then school-boy, was elected king on some boyish holiday 
 and riding out upon a half-starved horse, it picked up a small cabbage, 
 as they went through the market. The market-women began pelting 
@@ -3670,22 +3657,19 @@ tricked out in the same manner when she was carted, he halloed out,
 <q type="spoken">Good women, though I wear feathers in my cap, I am none of 
 <persName type="fictional" key="Aldonza Saturno de Rebollo" ref="#aldonza">Alonza Saturno de Rebillo</persName>. She is <persName type="fictional" key="Aldonza Saturno de Rebollo" ref="#aldonza">my mother</persName>.</q> </p>
 
-<p><persName key="Don Pablo">Paul</persName> used to be set upon unlucky tricks by the son of a man of 
+<p><persName type="fictional" key="Don Pablo">Paul</persName> used to be set upon unlucky tricks by the son of a man of 
 rank, who preferred enjoying a joke to getting punished for it. 
 Among others, one Christmas, a counsellor happening to go by of the 
-name of <persName key="Pontio de Auguirre">Pontio de Auguirre</persName>, the little <persName key="Don Diego">Don</persName> told his companion to 
+name of <persName key="Pontio de Auguirre" type="fictional">Pontio de Auguirre</persName>, the little <persName key="Don Diego" type="fictional" xml:id="diego">Don</persName> told his companion to 
 call <persName key="Pontius Pilate" ref="http://dbpedia.org/resource/Pontius_Pilate" type="real">Pontius Pilate</persName>, and then to run away. He did so, and the angry 
 counsellor followed after him with a knife in his hand, so that he 
 was forced to take refuge in the house of the schoohnaster. The 
-lawyer laid his indictment, and <persName key="Don Pablo">Paul</persName> got a hearty flogging, during 
+lawyer laid his indictment, and <persName type="fictional" key="Don Pablo">Paul</persName> got a hearty flogging, during 
 which he was enjoined never to call <persName key="Pontius Pilate" ref="http://dbpedia.org/resource/Pontius_Pilate" type="real">Pontius Pilate</persName> again; to which 
 he heartily agreed. The consequence was, that next day, when 
-the boys were at prayers, <persName key="Don Pablo">Paul</persName>, coming to the belief, and thinking 
-that he was never again to name Pontius Pilate, gravely said,  
-<q type="spoken">Suffered under <persName key="Pontio de Auguirre">Pontio de Auguirre</persName>;</q> which evidence of his horror of 
-the scourge so interested the pedagogue, that by a Catholic mode of 
-dispensation, he absolved hira from the next two whippings he should 
-incur. </p>
+the boys were at prayers, <persName type="fictional" key="Don Pablo">Paul</persName>, coming to the belief, and thinking 
+that he was never again to name <persName key="Pontius Pilate" ref="http://dbpedia.org/resource/Pontius_Pilate" type="real">Pontius Pilate</persName>, gravely said,  
+<q type="spoken">Suffered under <persName key="Pontio de Auguirre" type="fictional">Pontio de Auguirre</persName>;</q> which evidence of his horror of the scourge so interested the pedagogue, that by a Catholic mode of dispensation, he absolved him from the next two whippings he should incur.</p>
 
 <p>But we forget, that <persName key="Don Pablo" ref="#pablo" type="fictional">our little picaro</persName> was a thief. One specimen 
 of his talents this way, and we have done with the Spaniards. He 
@@ -3698,20 +3682,20 @@ violently into the shop; and exclaiming <q type="spoken">You're a dead man,</q>
 makes a fierce lunge at the confectioner between the body and arm. 
 Down drops the man, half dead with fear: the others rush out. 
 But what of the box of comfits? <q type="spoken">Where are the box of comfits, 
-<persName key="Don Pablo">Paul</persName>?</q> said the rogues: <q type="spoken">we do not see what you have done after 
+<persName type="fictional" key="Don Pablo">Paul</persName>?</q> said the rogues: <q type="spoken">we do not see what you have done after 
 all, except frighten the fellow.</q> <q type="spoken">Look here, my boys,</q> answered 
-<persName key="Don Pablo">Paul</persName>. They looked, and at the end of his rapier beheld, with shouts 
+<persName type="fictional" key="Don Pablo">Paul</persName>. They looked, and at the end of his rapier beheld, with shouts 
 of laughter, the vanquished box. He had marked it out on the 
 shelf; and under pretense; of lunging at the confectioner, pinked it 
 away like a muffin. </p>
 
-<p>Upon turning to <persName key="Francisco de Quevedo">Quevedo</persName>, we find that the story has grown a little 
+<p>Upon turning to <persName key="Francisco de Quevedo" ref="http://dbpedia.org/resource/Francisco_de_Quevedo" type="real">Quevedo</persName>, we find that the story has grown a little 
 upon our memory, as to detail; but this is the spirit of it. The 
 prize here, it is to be observed, is something eatable; and the same 
-yearning is a predominant property of <persName key="Francisco de Quevedo">Quevedo</persName>'s sharpers, as well as 
+yearning is a predominant property of <persName key="Francisco de Quevedo" ref="http://dbpedia.org/resource/Francisco_de_Quevedo" type="real">Quevedo</persName>'s sharpers, as well as 
 the others. </p>
 
-<p>Adieu, ye pleasant rogues of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName>! ye surmounters of bad 
+<p>Adieu, ye pleasant rogues of <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName>! ye surmounters of bad 
 government, hunger, and misery, by the mere force of a light climate 
 and fingers! The dinner calls;— and to talk about you before it, is 
 as good as taking a ride on horseback. </p>
