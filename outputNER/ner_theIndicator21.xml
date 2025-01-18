@@ -2924,7 +2924,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118180645677",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T23:06:45.677Z",
-	"dcterms:modified": "2025-01-18T23:06:45.677Z",
+	"dcterms:modified": "2025-01-18T23:07:01.823Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2955,7 +2955,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#herbert",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3530,37 +3535,37 @@ thing about her head.
     </sp>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Servant.</stage>
     <sp>
-<l><persName key="Sebastian" ref="#sebastian">Signor Sebastian</persName>, and <persName type="ficitonal" key="Walter Herbert">his noble friend</persName>, Sir.</l>
+<l><persName key="Sebastian" ref="#sebastian">Signor Sebastian</persName>, and <persName type="fictional" key="Walter Herbert" ref="#herbert">his noble friend</persName>, Sir.</l>
     </sp>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Sebastian <hi rend="italic">and</hi> Walter Herbert.</stage>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
-<l>Dear <persName type="ficitonal" key="Vittoria">mother</persName>, <persName type="ficitonal" key="Candian">uncle</persName>, <persName type="ficitonal" key="Fiammetta">sister</persName> sweet, and gentlemen, </l>
+<l>Dear mother, uncle, sister sweet, and gentlemen, </l>
 <l>I need not introduce my noble friend </l>
 <l>And your's—the Signor <persName type="ficitonal" key="Walter Herbert">Walter Herbert</persName>, Englishman.</l>
-<l><persName key="Walter Herbert">Dear Walter</persName>, this is the affectionate circle </l>
+<l>Dear Walter, this is the affectionate circle </l>
 <l>I've told you of so often. Heaven be praised </l>
 <l>You're in the midst of it, and have been so.</l>
     </sp>
     <sp who="#Cand">
 <speaker>Cand.</speaker>
-<l>Our silence, <persName type="ficitonal" key="Walter Herbert">Sir</persName>, must shew you what we feel, </l>
+<l>Our silence, Sir, must shew you what we feel, </l>
 <l>This ready swiftness to oblige your friends, </l>
 <l>Is, I perceive, a habit with you.</l>
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
-<l><gap/>If, <persName type="ficitonal" key="Candian">Sir</persName>, </l>
+<l><gap/>If, Sir, </l>
 <l>Winning their ready kindness be obliging them. </l>
 <l>'Tis counted so by some.</l>
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l><gap/><persName type="ficitonal" key="Walter Herbert">Sir</persName>, the best thanks  </l>
+<l><gap/>Sir, the best thanks  </l>
 <l>A mother can pay to you, who has been </l>
 <l>Made breathless with two rushing visitations, </l>
 <l>Terror and joy, is to shew what you saved for her:—</l>
-<l><persName type="ficitonal" key="Fiammetta">My daughter</persName>, <persName type="ficitonal" key="Walter Herbert">Sir</persName>.</l>
+<l>My daughter, <persName type="ficitonal" key="Walter Herbert">Sir</persName>.</l>
     </sp>
     <sp who="#Herb">
 <speaker>Herb.</speaker>
