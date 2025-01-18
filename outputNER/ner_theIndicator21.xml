@@ -2123,7 +2123,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174237726",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:42:37.726Z",
-	"dcterms:modified": "2025-01-18T22:42:37.726Z",
+	"dcterms:modified": "2025-01-18T22:44:43.372Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2151,6 +2151,85 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174237726#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[4]/sp[5]/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://dbpedia.org/resource/Mermaid_Tavern",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174500929",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-18T22:45:00.929Z",
+	"dcterms:modified": "2025-01-18T22:45:00.929Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174500929#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118174500929#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[4]/sp[5]/p/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2469,7 +2548,7 @@
 <p>How these Venetians do talk! Guitars twinkling about like stars! and 
     a plunge into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName> there's a name for a canal! It's fine talking, 
     and sometimes puts me in mind of <persName type="fictional" key="Walter Herbert">my master</persName>'s friends, <persName key="William Shakespeare" ref="https://dbpedia.org/resource/William_Shakespeare" type="real">Master Shakespeare</persName> and the 
-    others at <placeName type="Pub" key="The Mermaid" corresp="England">the mermaid</placeName>; but what name comes home to me like the manly and 
+    others at <placeName type="Pub" key="The Mermaid Tavern" corresp="England" ref="https://dbpedia.org/resource/Mermaid_Tavern">the mermaid</placeName>; but what name comes home to me like the manly and 
     natural one of <placeName type="physical" key="The River Fleet" corresp="England">Fleet Ditch</placeName>!
 </p>
     </sp>
