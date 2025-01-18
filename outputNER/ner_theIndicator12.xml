@@ -929,7 +929,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117193323264",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T00:33:23.264Z",
-	"dcterms:modified": "2025-01-18T00:33:23.264Z",
+	"dcterms:modified": "2025-01-18T00:46:20.716Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -960,7 +960,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Robert_Southey",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1045,8 +1047,8 @@ and upon <persName key="Don Martin">Don Martin</persName>'s suggesting that he t
 in the business merited a pair of hose, they consulted a minute with 
 each other, in order to do every thing judiciously; and then gave 
 him money enough to buy, not only the hose, but a rich doublet and 
-good cloak into the bargain. <note place="foot"> See <persName key="Robert Southey">Mr. Southey</persName>'s excellent compilation entitled the Chronicle of the <persName key="El Cid">Cid</persName>. 
-Book 3, Sec. 21. If <persName key="Robert Southey">Mr. Southey</persName> — but we must recollect we are not at our 
+good cloak into the bargain. <note place="foot"> See <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName>'s excellent compilation entitled the Chronicle of the <persName key="El Cid">Cid</persName>. 
+Book 3, Sec. 21. If Mr. Southey — but we must recollect we are not at our 
 politics. The version at the end of the book, attributed to <persName key="Mr. Hookhara Frere">Mr. Hookhara Frere</persName>, 
 of a passage out of the Poema del <persName key="El Cid">Cid</persName>, is the most native and terse bit of 
 translation we ever met with. It rides along, like  <persName key="El Cid">the Cid</persName> himself on horseback, with 
