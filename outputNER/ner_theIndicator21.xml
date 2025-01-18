@@ -2766,7 +2766,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118180424099",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T23:04:24.099Z",
-	"dcterms:modified": "2025-01-18T23:04:24.099Z",
+	"dcterms:modified": "2025-01-18T23:04:43.191Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2797,7 +2797,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#malipiero",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3358,7 +3360,7 @@ thing about her head.
     </sp>
     <sp who="Fiam">
 <speaker>Fiam.</speaker>
-<l>If you mean my eyes, <persName type="ficitonal" key="Malipiero">Signor Malipiero</persName>, </l>
+<l>If you mean my eyes, <persName key="Malipiero" ref="#malipiero">Signor Malipiero</persName>, </l>
 <l>Which heaven forbid should look down on tall gentlemen, </l>
 <l>I think no evil of our other friends here, </l>
 <l>And why should I of you?</l>
