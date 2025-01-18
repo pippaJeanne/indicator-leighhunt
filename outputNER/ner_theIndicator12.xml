@@ -1491,7 +1491,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201324483",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T01:13:24.483Z",
-	"dcterms:modified": "2025-01-18T01:13:24.483Z",
+	"dcterms:modified": "2025-01-18T01:13:37.566Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1522,7 +1522,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#lazarillo",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1647,7 +1652,7 @@ made up of dry bread and scraps, and the other of meditating how to
 get at them. Every thought of his mind, and every feeling of his 
 affection, coalesces, and tends to one point, with a ventripetal force. It 
 was said of a contriving lady, that she took her very tea by stratagem. 
-<persName key="Lazarillo de Tormes">Lazarillo</persName> is not so lucky. It is enough for him, if by a train of the 
+<persName key="Lazarillo de Tormes" ref="#lazarillo" type="fictional">Lazarillo</persName> is not so lucky. It is enough for him, if by a train of the 
 most ingenious contrivances, he can lay successful siege to a crust. 
 To rout some broken victuals; to circumvent an onion or so extraordinary 
 is the utmost aim of his ambition. An ox-foot is his beau 
