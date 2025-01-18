@@ -956,7 +956,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117193323264#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[2]/p/note/persName"
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -1047,13 +1047,13 @@ and upon <persName key="Don Martin">Don Martin</persName>'s suggesting that he t
 in the business merited a pair of hose, they consulted a minute with 
 each other, in order to do every thing judiciously; and then gave 
 him money enough to buy, not only the hose, but a rich doublet and 
-good cloak into the bargain. <note place="foot"> See <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName>'s excellent compilation entitled the Chronicle of the <persName key="El Cid">Cid</persName>. 
+good cloak into the bargain.  See <persName key="Robert Southey" ref="https://dbpedia.org/resource/Robert_Southey" type="real">Mr. Southey</persName>'s excellent compilation entitled the Chronicle of the <persName key="El Cid">Cid</persName>. 
 Book 3, Sec. 21. If Mr. Southey — but we must recollect we are not at our 
 politics. The version at the end of the book, attributed to <persName key="Mr. Hookhara Frere">Mr. Hookhara Frere</persName>, 
 of a passage out of the Poema del <persName key="El Cid">Cid</persName>, is the most native and terse bit of 
 translation we ever met with. It rides along, like  <persName key="El Cid">the Cid</persName> himself on horseback, with 
 an infinite mixture of ardour and self-possessipn; bending, when it chuses, with 
-grace; or bearing down every thing with mastery.</note></p>
+grace; or bearing down every thing with mastery.</p>
 
 <p>The regular sharping rogues however, that abound in Spanish 
 books of adventure, have one species of romance about them, of a 
