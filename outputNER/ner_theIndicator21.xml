@@ -1487,7 +1487,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118173206093",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:32:06.093Z",
-	"dcterms:modified": "2025-01-18T22:32:06.093Z",
+	"dcterms:modified": "2025-01-18T22:32:34.491Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1521,7 +1521,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "#fiammetta",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1686,7 +1688,7 @@
 <speaker>Seb.</speaker>
 <l><gap/>She's recovered too;</l>
 <l>Yet though she had no drowning, takes on still, </l>
-<l>Kissing <persName type="fictional" key="Fiammetta">my sister</persName>'s hand, and cheek, and pressing her, </l>
+<l>Kissing <persName type="fictional" key="Fiammetta" ref="#fiammetta">my sister</persName>'s hand, and cheek, and pressing her, </l>
 <l>And then again turning to plenteous tears, </l>
 <l>As if she wept for all that might have happened.</l>
     </sp>
