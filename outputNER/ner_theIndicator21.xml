@@ -3475,7 +3475,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?place_annotation_20250118182110140",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T23:21:10.140Z",
-	"dcterms:modified": "2025-01-18T23:21:10.140Z",
+	"dcterms:modified": "2025-01-18T23:21:21.845Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3506,7 +3506,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q641",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4335,7 +4337,7 @@ thing about her head.
 <l>And smiling ferment of our starry hour, </l>
 <l>Whose ear is kissed with waters gently spooned, </l>
 <l>Whose nightingale is Love, shall give you a taste </l>
-<l>Of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName> to the core.</l>
+<l>Of <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641">Venice</placeName> to the core.</l>
     </sp>
 </div2>
 <div2 type="colophon">
