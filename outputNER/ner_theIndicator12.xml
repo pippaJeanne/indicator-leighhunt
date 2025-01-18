@@ -2203,7 +2203,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117230913945",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T04:09:13.945Z",
-	"dcterms:modified": "2025-01-18T04:09:13.945Z",
+	"dcterms:modified": "2025-01-18T04:16:53.965Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2234,7 +2234,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q30899339",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2623,7 +2625,7 @@ eminence the Spanish Rogue, we must say for him, as far as our
 slight acquaintance warrants it, that he is also <q type="soCalled">as tedious as a king.</q> 
 They say however he has excellent stuff in him. </p>
 
-<p>We can speak as little of <persName key="Marcos de Obregon">Marcos de Obregon</persName>, of which a translation 
+<p>We can speak as little of <persName key="Marcos de Obregón" ref="http://www.wikidata.org/entity/Q30899339">Marcos de Obregon</persName>, of which a translation 
 appeared a little while ago. We have read it; and if we 
 remember rightly, were pleased; but want of memory on these occasions 
 is not a good symptom. <persName key="Francisco de Quevedo">Quevedo</persName>, no ordinary person, is very 
