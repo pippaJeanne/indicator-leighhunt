@@ -1573,7 +1573,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117201528612",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T01:15:28.612Z",
-	"dcterms:modified": "2025-01-18T01:15:28.612Z",
+	"dcterms:modified": "2025-01-18T01:18:37.848Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1604,7 +1604,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Daniel_Defoe",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1759,7 +1761,7 @@ threw the blind man into despair. He <q>used to swear and domineer,</q>
 and wish both the pot and <choice><orig>it's</orig><reg>its</reg></choice> contents at the devil. The following 
 account of the result is a specimen of the English translation of the 
 work, which is done with great tact and spirit, we know not by 
-whom. But it is worthy of <persName key="Daniel Defoe">De Foe</persName>. <persName key="Lazarillo de Tormes">Lazarillo</persName> is supposed to tell 
+whom. But it is worthy of <persName key="Daniel Defoe" ref="https://dbpedia.org/resource/Daniel_Defoe" type="real">De Foe</persName>. <persName key="Lazarillo de Tormes">Lazarillo</persName> is supposed to tell 
 his adventures himself. <q type="spoken">You won't accuse me any more, I hope,</q> 
 cried I, <q type="spoken">of drinking your wine, <note type="hunt" place="foot">The reader is to understand a common southern wine, more like a washy 
 cyder than any thing else. </note> after all the fine precautions you 
