@@ -765,7 +765,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?place_annotation_20250118164926930",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T21:49:26.930Z",
-	"dcterms:modified": "2025-01-18T21:49:26.930Z",
+	"dcterms:modified": "2025-01-18T21:52:13.196Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -796,7 +796,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q100166",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -980,7 +982,7 @@ The wind is louder and louder: it is louder and many-voiced. Is it
 his voice which has roused up the others? Is he calling upon us, as 
 he did in the battle, when his followers shouted after his call?</q></p>
 
-<p>It was the rocks of an isle beyond <placeName type="region" key="Orkney" corresp="Scotland">Inistore</placeName>, which made that multitudinous 
+<p>It was the rocks of an isle beyond <placeName type="region" key="Orkney Islands" corresp="Scotland" ref="http://www.wikidata.org/entity/Q100166">Inistore</placeName>, which made that multitudinous 
 roaring of the wind. The chieftains found that they were
 not destined to perish in the mid ocean; but it was fortunate for
 them that the wind did not set in directly upon the island, or they
