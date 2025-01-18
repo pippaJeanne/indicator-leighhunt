@@ -3137,7 +3137,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250118000125785",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T05:01:25.785Z",
-	"dcterms:modified": "2025-01-18T05:01:25.785Z",
+	"dcterms:modified": "2025-01-18T05:02:59.949Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3168,7 +3168,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#pablo",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3600,7 +3605,7 @@ the scourge so interested the pedagogue, that by a Catholic mode of
 dispensation, he absolved hira from the next two whippings he should 
 incur. </p>
 
-<p>But we forget, that <persName key="Don Pablo">our little picaro</persName> was a thief. One specimen 
+<p>But we forget, that <persName key="Don Pablo" ref="#pablo" type="fictional">our little picaro</persName> was a thief. One specimen 
 of his talents this way, and we have done with the Spaniards. He 
 went with young <persName key="Don Diego">Don Diego</persName> to the university : and here getting 
 applause for some tricks he played people, and dandling, as it were, 
