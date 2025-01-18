@@ -1252,7 +1252,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?person_annotation_20250118165720556",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T21:57:20.556Z",
-	"dcterms:modified": "2025-01-18T21:57:20.556Z",
+	"dcterms:modified": "2025-01-18T21:57:30.623Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1286,7 +1286,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "#moilena",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1494,7 +1496,7 @@ was he called <persName type="fictional" key="Ronald of the Perfect Hand" ref="#
 mourning was he mourned; yet with non half as great as by his 
 love, his betrothed bride <persName type="fictional" key="Moilena of the Perfect Voice">Moilena</persName>; by her of the Beautiful Voice, who 
 had latterly begun to be called <persName type="fictional" key="Moilena of the Perfect Voice" ref="#moilena">the Perfect Voice</persName>, because she was to 
-be matched with <persName type="fictional" key="Ronald of the Perfect Hand">him of the Perfect Hand</persName>. <persName type="fictional" key="Ronald of the Perfect Hand" ref="#ronald">Perfect Hand</persName> and <persName type="fictional" key="Moilena of the Perfect Voice">Perfect 
+be matched with <persName type="fictional" key="Ronald of the Perfect Hand">him of the Perfect Hand</persName>. <persName type="fictional" key="Ronald of the Perfect Hand" ref="#ronald">Perfect Hand</persName> and <persName type="fictional" key="Moilena of the Perfect Voice" ref="#moilena">Perfect 
 Voice</persName> were they called; but the Hand was now gone, and <persName type="fictional" key="Moilena of the Perfect Voice" ref="#moilena">the 
 Voice</persName> sang brokenly for tears.</p>
 
