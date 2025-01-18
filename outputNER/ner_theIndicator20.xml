@@ -1416,7 +1416,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?place_annotation_20250118165936185",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T21:59:36.185Z",
-	"dcterms:modified": "2025-01-18T22:00:11.021Z",
+	"dcterms:modified": "2025-01-18T22:04:56.767Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1901,7 +1901,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator20.xml?place_annotation_20250118170405040",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T22:04:05.040Z",
-	"dcterms:modified": "2025-01-18T22:04:05.040Z",
+	"dcterms:modified": "2025-01-18T22:04:43.154Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1932,7 +1932,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "#stromness",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2172,7 +2174,7 @@ much there as in <placeName type="region" key="Orkney" corresp="Scotland">Inisto
 </p>
 
 <p>Meantime, <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName> was not drowned. A Scandinavian boat, bound 
-for an island called the <placeName type="region" key="Stromness" corresp="Scotland" cert="low" ref="http://www.wikidata.org/entity/Q839556">Island of the Circle</placeName>, had picked him up. 
+for an island called the <placeName type="region" key="Stromness" corresp="Scotland" cert="low" ref="http://www.wikidata.org/entity/Q839556" xml:id="stromness">Island of the Circle</placeName>, had picked him up. 
 The crew, which consisted chiefly of priests, were going thither to 
 propitiate the deities, on account of the late defeat of their countrymen. 
 They recognized the victorious chieftain, who on coming to 
@@ -2191,7 +2193,7 @@ we bring <persName type="fictional" key="Ronald of the Perfect Hand">Ronald of t
 labouring all the while with the winds and waves, but surer now
 than ever of reaching the shore. And they did so, by the first light 
 of the morning. When they came to <placeName type="Landmark" key="Ring of Brodgar" corresp="Scotland" cert="low" ref="http://www.wikidata.org/entity/Q643631">the circle of sacred stones</placeName>, 
-from which <placeName type="region" key="Stromness" corresp="Scotland" cert="low">the island</placeName> took <choice><orig>it's</orig><reg>its</reg></choice> name, they placed their late conquer- 
+from which <placeName type="region" key="Stromness" corresp="Scotland" cert="low" ref="#stromness">the island</placeName> took <choice><orig>it's</orig><reg>its</reg></choice> name, they placed their late conquer- 
 or by the largest, and kindled a fire in the middle. The warm smoke 
 rose thickly against the cold white morning. <q type="spoken">Let me be offered 
 up to your gods,</q> said <persName type="fictional" key="Ronald of the Perfect Hand">Ronald</persName>, <q type="spoken">like a man, by the sword; and not 
