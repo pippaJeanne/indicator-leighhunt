@@ -2246,83 +2246,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118174546093",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-18T22:45:46.093Z",
-	"dcterms:modified": "2025-01-18T22:45:46.093Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/pippaJeanne",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Yanet Hernández Pedraza"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118174546093#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator21.xml?person_annotation_20250118174546093#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div1/div2[4]/sp[7]/p/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
     <particDesc>
 <listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
@@ -2640,7 +2563,7 @@
     </sp>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
-<p>No, <persName type="ficitonal" key="Vanni">Sir</persName>,—no, Sir,—you haven't my wife and <persName key="Bunhill-fields" corresp="England">Bunhill-fields</persName>.</p>
+<p>No, Sir,—no, Sir,—you haven't my wife and <persName key="Bunhill-fields" corresp="England">Bunhill-fields</persName>.</p>
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
@@ -2651,11 +2574,11 @@
     </sp>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
-<p>Ah, <persName type="ficitonal" key="Vanni">Sir</persName>, and then you pretend that the English women are not so chear-
+<p>Ah, Sir, and then you pretend that the English women are not so chear-
     ful as your's. Oh, I never loved my wife more than now I am in the thick of 'em. 
     Oh, how I loved her during the squall at sea! and how prodigiously I did love 
     her, when I thought I should have broken my neck on the top of the Alps! I hope, 
-    <persName type="ficitonal" key="Vanni">Sir</persName>, you found your intended as well as could be expected after your absence.
+    Sir, you found your intended as well as could be expected after your absence.
 </p>
     </sp>
     <sp who="#Van">
