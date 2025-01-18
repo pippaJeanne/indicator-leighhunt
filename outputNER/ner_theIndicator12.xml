@@ -765,7 +765,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator12.xml?person_annotation_20250117191539616",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-18T00:15:39.616Z",
-	"dcterms:modified": "2025-01-18T00:15:39.616Z",
+	"dcterms:modified": "2025-01-18T00:27:06.531Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -796,7 +796,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#martin",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -858,7 +863,7 @@ redeem all.</q> The case was this. <persName key="El Cid" ref="http://dbpedia.or
 to please his master <persName key="Alfonso VI of León and Castile" ref="https://dbpedia.org/resorce/Alfonso_VI_of_León_and_Castile" type="real">the king</persName>, had quarrelled with him, or rather 
 had been banished; and nobody was to give him house-room or food. 
 A number of friends however followed him; and by the help of his 
-nephew <persName key="Martin Antolinez" type="fictional">Martin Antolinez</persName>, he proposed to raise some money. <persName key="Martin Antolinez">Martin</persName> 
+nephew <persName key="Martin Antolinez" type="fictional">Martin Antolinez</persName>, he proposed to raise some money. <persName key="Martin Antolinez" ref="#martin" type="fictional">Martin</persName> 
 accordingly negociated the business with a couple of rich Jews, who 
 for a deposit of two chests full of spoil, which they were not to open 
 for a year, on account of political circumstances, agreed to advance 
