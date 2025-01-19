@@ -3739,7 +3739,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119022659088",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:26:59.088Z",
-	"dcterms:modified": "2025-01-19T07:26:59.088Z",
+	"dcterms:modified": "2025-01-19T07:27:08.659Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3770,7 +3770,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Amphitryon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4149,7 +4154,7 @@ admirable propriety in this respect.</p>
 <pb n="175"/>
 
 <l>Their cradle was a noble shield of brass </l>
-<l>Won by <persName key="Amphitryon">her lord</persName> from slaughtered <persName type="fictional" key="Pterelas">Pterelas</persName>. </l>
+<l>Won by <persName key="Amphitryon" ref="#Amphitryon" type="fictional">her lord</persName> from slaughtered <persName type="fictional" key="Pterelas">Pterelas</persName>. </l>
 <l>Gently she laid them down, and gently laid </l>
 <l>Her hand on both their heads, and yearned, and said, </l>
 <l>"Sleep, sleep, my boys, a light and pleasant sleep: </l>
