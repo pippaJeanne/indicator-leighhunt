@@ -1121,7 +1121,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#herbert",
+		"@id": "#Herb",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1682,7 +1682,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#herbert",
+		"@id": "#Herb",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1763,7 +1763,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#herbert",
+		"@id": "#Herb",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2709,7 +2709,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#malipiero",
+		"@id": "#Mal",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2787,7 +2787,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "#malipiero",
+		"@id": "#Mal",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2946,7 +2946,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#herbert",
+		"@id": "#Herb",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3024,7 +3024,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "#herbert",
+		"@id": "#Herb",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3428,7 +3428,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#contarini",
+		"@id": "#Cont",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3523,50 +3523,50 @@
     <particDesc>
 <listPerson> <!-- This format is borrowed from the Folger Shakespeare TEIs -->
     <person xml:id="Cont">
-<persName type="standard"><persName key="Contarini">Contarini</persName></persName>
+<persName type="standard"><persName type="fictional" key="Contarini">Contarini</persName></persName>
 <persName type="form">Cont.</persName>
     </person>
     <person xml:id="Mol">
-<persName type="standard"><persName key="Molilo">Molilo</persName></persName>
+<persName type="standard"><persName type="fictional" key="Molilo">Molilo</persName></persName>
 <persName type="form">Mol.</persName>
     </person>
     <person xml:id="Seb">
-<persName type="standard"><persName key="Sebastian">Sebastian</persName></persName>
+<persName type="standard"><persName type="fictional" key="Sebastian">Sebastian</persName></persName>
 <persName type="form">Seb.</persName>
     </person>
     <person xml:id="Cand">
-<persName type="standard"><persName key="Candian">Candian</persName></persName>
+<persName type="standard"><persName type="fictional" key="Candian" ref="#Cand">Candian</persName></persName>
 <persName type="form">Cand.</persName>
     </person>
     <person xml:id="Greg">
-<persName type="standard"><persName key="Gregory">Gregory</persName></persName>
+<persName type="standard"><persName type="fictional" key="Gregory" ref="#Greg">Gregory</persName></persName>
 <persName type="form">Greg.</persName>
     </person>
     <person xml:id="Van">
-<persName type="standard"><persName key="Vanni">Vanni</persName></persName>
+<persName type="standard"><persName type="fictional" key="Vanni">Vanni</persName></persName>
 <persName type="form">Van.</persName>
     </person>
     <person xml:id="Fiam">
-<persName type="stadard">Fiammetta</persName>
+<persName type="stadard"><persName type="fictional" key="Fiammetta">Fiammetta</persName></persName>
 <persName type="form">Fiam.</persName>
     </person>
     <person xml:id="Vit">
-<persName type="standard"><persName key="Vittoria">Vittoria</persName></persName>
+<persName type="standard"><persName type="fictional" key="Vittoria" ref="#Vit">Vittoria</persName></persName>
 <persName type="form">Vit.</persName>
     </person>
     <person xml:id="Mal">
-<persName type="standard"><persName key="Malipiero">Malipiero</persName></persName>
+<persName type="standard"><persName type="fictional" key="Malipiero">Malipiero</persName></persName>
 <persName type="form">Mal.</persName>
     </person>
     <person xml:id="Herb">
-<persName type="standard"><persName key="Walter Herbert">Walter Herbert</persName></persName>
+<persName type="standard"><persName type="fictional" key="Walter Herbert">Walter Herbert</persName></persName>
 <persName type="form">Herb.</persName>
     </person>
 </listPerson>
     </particDesc>
 </profileDesc>
-    </teiHeader>
-    <text>
+</teiHeader>
+<text>
 <body>
     <div1 type="issue" n="21">
 <pb n="161"/>
@@ -3591,20 +3591,17 @@
     passion she conceived for our countryman, who had saved her daughter 
     from drowning. The accident, like the scheme of <persName type="fictional" key="Pollexfen">Pollexfen</persName> in <title key="The History of Sir Charles Grandison" level="m" ref="https://dbpedia.org/resource/The_History_of_Sir_Charles_Grandison">Sir 
     Charles Grandison</title>, had been purposely contrived by a Venetian of
-    darker character, <persName type="fictional" key="Malipiero">Malipiero</persName>, as the only means of gaining the young
-    lady's affection; but the Englishman was quicker to rescue her, and 
-    so threw him doubly aback. The incidents, or rather the dialogues, 
+    darker character, <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName>, as the only means of gaining the young lady's affection; but <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName> was quicker to rescue her, and so threw him doubly aback. The incidents, or rather the dialogues, 
     which took place imediately after this circumstance, occupy the 
-    scenes now laid before the reader. <persName type="fictional" key="Vittoria">Vittoria</persName> and <persName type="fictional" key="Flammetta">Fiammetta</persName>, the mother 
+    scenes now laid before the reader. <persName type="fictional" key="Vittoria" ref="#Vit">Vittoria</persName> and <persName type="fictional" key="Fiammetta" ref="#Fiam">Fiammetta</persName>, the mother 
     and daughter, are of a similar character for goodness and frankness; 
-    but the one is the more stately minded, the other sparkling and full 
-    <persName key="Contarini">Contarini</persName>, and <persName type="fictional" key="Malipiero">Malipiero</persName>, are Venetian gentlement, the four first 
-    of spirits. <persName type="fictional" key="Candian">Candian</persName>, her <choice><orig>grand-uncle</orig><reg>great uncle</reg></choice>, <persName type="fictional" key="Sebastian">Sebastian</persName>, her brother, <persName type="fictional" key="Molino">Molino</persName>, 
-    <persName type="fictional" key="Contarini">Contarini</persName>, and <persName type="fictional" key="Malipiero">Malipiero</persName>, are Venetian gentlement, the four first 
+    but the one is the more stately minded, the other sparkling and full <persName type="fictional" key="Contarini" ref="#Cont">Contarini</persName>, and <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName>, are Venetian gentlement, the four first 
+    of spirits. <persName type="fictional" key="Candian" ref="#Cand">Candian</persName>, her <choice><orig>grand-uncle</orig><reg>great uncle</reg></choice>, <persName type="fictional" key="Sebastian" ref="#Seb">Sebastian</persName>, her brother, <persName type="fictional" key="Molino">Molino</persName>, 
+    <persName type="fictional" key="Contarini" ref="#Cont">Contarini</persName>, and <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName>, are Venetian gentlement, the four first 
     of different characters of sprightliness or warmth; the last an inteligent 
     man like the rest, but of a violent and envious disposition. 
-    <persName type="fictional" key="Vanni">Vanni</persName> and <persName type="fictional" key="Gregory">Gregory</persName> are the servants of <persName type="fictional" key="Candian">Candian</persName> and <persName type="fictional" key="Walter Herbert">the Englishman</persName>. 
-    With <persName type="fictional" key="Walter Herbert" ref="#herbert">Walter Herbert</persName> the Englishman, and indeed with most of the 
+    <persName type="fictional" key="Vanni" ref="#Van">Vanni</persName> and <persName type="fictional" key="Gregory" ref="#Greg">Gregory</persName> are the servants of <persName type="fictional" key="Candian" ref="#Cand">Candian</persName> and <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName>. 
+    With <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName> the Englishman, and indeed with most of the 
     others, it is lucky perhaps that the author had nothing farther to 
     do; for he intended him as one of those high and graceful spirits, in 
     the best age of this country, who were admitted to the society of its 
@@ -3618,13 +3615,13 @@
 <speaker>Contarini.</speaker>
 <l>The Englishmen indeed, Sir, have graced us, </l>
 <l>Not we the Englishmen. How instantly </l>
-<l><persName type="fictional" key="Sebastian">Sebastian</persName>'s friend laid himself out o' the boat, </l>
+<l><persName type="fictional" key="Sebastian" ref="#Seb">Sebastian</persName>'s friend laid himself out o' the boat, </l>
 <l>Before our thoughts had time to find themselves, </l>
 <l>And gave us back our pale one.</l>
     </sp>
     <sp who="#Mol">
 <speaker>Molilo.</speaker>
-<l><gap><desc><!-- How can this be formatted to show it completes <persName key="Contarini">Contarini</persName>'s previous line? https://www.teibyexample.org/exist/tutorials/TBED01v00.htm --></desc></gap>Like a god </l> 
+<l><gap><desc>Meant to show it completes <persName type="fictional" key="Contarini" ref="#Cont">Contarini</persName>'s previous line.</desc></gap>Like a god </l> 
 <l>In his own element. 'Twas a strange thing,—</l>
 <l>That sudden shock. I never knew the like </l>
 <l>Happen before in <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641">Venice</placeName>, though our gondolas </l>
@@ -3636,7 +3633,7 @@
 <l><gap/>It marred so too </l>
 <l>The stately self-possesion of the day, </l>
 <l>Especially before our naval emulators. </l>
-<l>How <persName type="fictional" key="Malipiero">Malipiero</persName>'s vexed!</l>
+<l>How <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName>'s vexed!</l>
     </sp>
     <sp who="#Mol">
 <speaker>Mol.</speaker>
@@ -3649,7 +3646,7 @@
     <sp who="#Cont">
 <speaker>Cont.</speaker>
 <l>That's settled then. Some singular punishment </l>
-<l>Will mark this singular disgrace of <placeName type="city" key="Venice" corresp="Italy">Venice</placeName>.</l>
+<l>Will mark this singular disgrace of <placeName type="city" key="Venice" corresp="Italy" ref="http://www.wikidata.org/entity/Q641">Venice</placeName>.</l>
     </sp>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Sebastian.</stage>
     <sp who="#Mol">
@@ -3660,20 +3657,20 @@
 <speaker>Sebastian.</speaker>
 <l><gap/>Quite well again.</l>
 <l>'Twas but a fright at last, though a severe one.</l>
-<l><persName type="fictional" key="Fiammetta">Fiammetta</persName> sparkles like a flower new washed, </l>
+<l><persName type="fictional" key="Fiammetta" ref="#Fiam">Fiammetta</persName> sparkles like a flower new washed, </l>
 <l>And turns it all, as she is wont to do, </l>
 <l>To chearfulness and grace.</l>
     </sp>
     <sp who="#Cont">
 <speaker>Cont.</speaker>
 <l><gap/>A charming lady.</l>
-<l>But how's <persName type="fictional" key="Vittoria">your mother</persName>?</l>
+<l>But how's <persName type="fictional" key="Vittoria" ref="#Vit">your mother</persName>?</l>
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
 <l><gap/>She's recovered too;</l>
 <l>Yet though she had no drowning, takes on still, </l>
-<l>Kissing <persName type="fictional" key="Fiammetta" ref="#fiammetta">my sister</persName>'s hand, and cheek, and pressing her, </l>
+<l>Kissing <persName type="fictional" key="Fiammetta" ref="#Fiam">my sister</persName>'s hand, and cheek, and pressing her, </l>
 <l>And then again turning to plenteous tears, </l>
 <l>As if she wept for all that might have happened.</l>
     </sp>
@@ -3687,8 +3684,8 @@
 <speaker>Seb.</speaker>
 <l><gap/>Yes, when tears </l>
 <l>Come, as these do, seldom, and out of sweetness.</l>
-<l><persName type="fictional" key="Vittoria">My dearest mother</persName> is of a true clay, </l>
-<l>Much like <persName type="fictional" key="Fiammetta" ref="#fiammetta">her daughter</persName>; only former trouble—</l>
+<l><persName type="fictional" key="Vittoria" ref="#Vit">My dearest mother</persName> is of a true clay, </l>
+<l>Much like <persName type="fictional" key="Fiammetta" ref="#Fiam">her daughter</persName>; only former trouble—</l>
 <l>The loss of a loved partner,—made her quit </l>
 <l>The dance, and sit her down in a still patience, </l>
 <l>Happy to see us nevertheless enjoy it.</l>
@@ -3708,7 +3705,7 @@
     <sp who="#Cand">
 <speaker>Cand.</speaker>
 <l>Escaped,—in an unguarded moment.</l>
-<l>Poor <persName type="fictional" key="Malipiero">Malipiero</persName> reddens for mere rage, </l>
+<l>Poor <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName> reddens for mere rage, </l>
 <l>And will not patiently endure to hear </l>
 <l>Even the English praised:—he says their coming </l>
 <l>Is a bad omen.</l>
@@ -3719,7 +3716,7 @@
 <l>He's vexed at the escape; and to speak truly, </l>
 <pb n="163"/>
 <l>I think his natural emulation chides him </l>
-<l>For not being quicker than <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
+<l>For not being quicker than <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName>.</l>
     </sp>
     <sp who="#Cont">
 <speaker>Cont.</speaker>
@@ -3760,7 +3757,7 @@
 <l><gap/>Who, Sir, indeed?</l>
 <l>But we'll detain you, gentlemen, no longer </l>
 <l>From our fair friends; pray tell them of our joy, </l>
-<l>And willing envy of <persName type="fictional" key="Walter Herbert">the Englishman</persName>.</l>
+<l>And willing envy of <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName>.</l>
     </sp>
     <sp who="#Cand">
 <speaker>Cand.</speaker>
@@ -3773,12 +3770,12 @@
     </sp>
 </div2>
 <div2 type="scene" n="2">
-    <stage type="setting" rend="center">SCENE.—The front of the <persName type="fictional" key="Candian">Candian</persName> Palace.</stage>
+    <stage type="setting" rend="center">SCENE.—The front of the <persName type="fictional" key="Candian" ref="#Cand">Candian</persName> Palace.</stage>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Gregory.</stage>
     <sp who="#Greg">
 <speaker>Gregory.</speaker>
 <p>This comes of travelling. It seems all a dream. I'm not sure that 
-    I sha'n't wake and find myself in the arms of the dear old chair at the Bull. <persName type="fictional" key="Walter Herbert" ref="#herbert">My 
+    I sha'n't wake and find myself in the arms of the dear old chair at the Bull. <persName type="fictional" key="Walter Herbert" ref="#Herb">My 
     master</persName>, whom it is impossible to resist, offers me to go with him; I consent; and 
     so he ties me in a manner to his coat like a witch, and off I go; first scouring over 
     the road to the seaside; then rocking up and down, up and down, till I'm sick; 
@@ -3789,11 +3786,11 @@
     taken to the cunning custom of flogging myself for penance; or winced, and 
     tumbled, and beaten myself and the very air about me, like a shirt hung out to 
     dry in a high wind:—then comes some more sea-rocking, and then says my 
-    master, <q type="spoken">Now, <persName type="fictional" key="Gregory">Gregory</persName>, we land for good:</q>—thinks I, looking about me, and 
+    master, <q type="spoken">Now, <persName type="fictional" key="Gregory" ref="#Greg">Gregory</persName>, we land for good:</q>—thinks I, looking about me, and 
     seeing nothing but canals for streets, and houses standing out of them like so 
     many cows in a pond,——I hope we don't land for evil: and I had scarcely 
     thought the word, when we took to boating it again, and hey! presto! down 
-    goes that Will-o'-the-wisp, <persName type="fictional" key="Walter Herbert" ref="#herbert">my master</persName>, souse over head and ears after a fish in 
+    goes that Will-o'-the-wisp, <persName type="fictional" key="Walter Herbert" ref="#Herb">my master</persName>, souse over head and ears after a fish in 
     petticoats.
 </p>
     </sp>
@@ -3805,7 +3802,7 @@
     <pb n="164"/>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
-<p>What, a fall in the water! not half so strange to me, <persName type="ficitonal" key="Vanni">Vanni</persName>, as that 
+<p>What, a fall in the water! not half so strange to me, <persName type="fictional" key="Vanni" ref="#Van">Vanni</persName>, as that 
     you Venetians will have so much water to fall in.
 </p>
     </sp>
@@ -3821,15 +3818,15 @@
     <sp who="#Greg">
 <speaker>Greg.</speaker>
 <p>How these Venetians do talk! Guitars twinkling about like stars! and 
-    a plunge into the <placeName type="physical" key="River of Song" corresp="Italy">River of Song!</placeName> there's a name for a canal! It's fine talking, 
-    and sometimes puts me in mind of <persName type="fictional" key="Walter Herbert">my master</persName>'s friends, <persName key="William Shakespeare" ref="https://dbpedia.org/resource/William_Shakespeare" type="real">Master Shakespeare</persName> and the 
+    a plunge into the <placeName type="physical" key="Song River" corresp="Italy" ref="http://www.wikidata.org/entity/Q7561041" cert="low">River of Song!</placeName> there's a name for a canal! It's fine talking, 
+    and sometimes puts me in mind of <persName type="fictional" key="Walter Herbert" ref="#Herb">my master</persName>'s friends, <persName key="William Shakespeare" ref="https://dbpedia.org/resource/William_Shakespeare" type="real">Master Shakespeare</persName> and the 
     others at <placeName type="Pub" key="The Mermaid Tavern" corresp="England" ref="https://dbpedia.org/resource/Mermaid_Tavern">the mermaid</placeName>; but what name comes home to me like the manly and 
     natural one of <placeName type="physical" key="River Fleet" corresp="England" ref="http://www.wikidata.org/entity/Q24643298">Fleet Ditch</placeName>!
 </p>
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
-<p>You seem sad, <persName type="ficitonal" key="Gregory">Gregory</persName>. We shall cheer you up before long. We have 
+<p>You seem sad, <persName type="fictional" key="Gregory">Gregory</persName>. We shall cheer you up before long. We have 
     everything here to make a man merry,—rowing, laughing, sunshine, music, women, 
     every thing.
 </p>
@@ -3840,7 +3837,7 @@
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
-<p>There's plenty of fields over the water, and as to your wife, my dear <persName type="ficitonal" key="Gregory">Gregory</persName>, 
+<p>There's plenty of fields over the water, and as to your wife, my dear <persName type="fictional" key="Gregory">Gregory</persName>, 
     I never heard you talk much about her before. Besides, she told you she 
     should be quite happy, you know; and she looked so.
 </p>
@@ -3856,12 +3853,12 @@
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
-<p>Better than ever: as hearty as you'll find your wife, <persName type="ficitonal" key="Gregory">Gregory</persName>:—but how 
+<p>Better than ever: as hearty as you'll find your wife, <persName type="fictional" key="Gregory">Gregory</persName>:—but how 
     formal and ceremonious you seem to think it necessary to be in your pathetics. 
     Come, man, I'll shew you the lions, as you used to say, and keep my word for better 
-    too, as far as stone lions can go; and then I'll introduce you to <persName type="ficitonal" key="Momola">Momola</persName>. She'll 
+    too, as far as stone lions can go; and then I'll introduce you to <persName type="fictional" key="Momola">Momola</persName>. She'll 
     rouse your spirits for you. We'll cross the way to <placeName type="building" key="St. Mark's Basilica" corresp="Italy" cert="low" ref="https://dbpedia.org/resource/St_Mark's_Basilica" xml:id="basilica">St. Mark's Bartolo</placeName>, there! 
-    Hallo! Mind the canal, <persName type="ficitonal" key="Gregory">Gregory</persName>, you'll run over the parapet.
+    Hallo! Mind the canal, <persName type="fictional" key="Gregory">Gregory</persName>, you'll run over the parapet.
 </p>
     </sp>
     <sp who="#Greg">
@@ -3873,7 +3870,7 @@
     </sp>
     <sp who="#Van">
 <speaker>Van.</speaker>
-<p>We'll go round by the bridge if you prefer it, <persName type="ficitonal" key="Gregory">Gregory</persName>.</p>
+<p>We'll go round by the bridge if you prefer it, <persName type="fictional" key="Gregory">Gregory</persName>.</p>
     </sp>
     <sp who="#Greg">
 <speaker>Greg.</speaker>
@@ -3890,9 +3887,9 @@
     <stage type="exit" rend="italic rightJustified">[Exeunt.</stage>
 </div2>
 <div2 type="scene" n="3">
-    <stage type="setting" rend="center">SCENE.—An apartment in the Palace <persName key="Candian">Candian</persName>. <persName key="Vittoria" ref="#vittoria">Vittoria</persName> and <persName key="Fiammetta">Fiammetta</persName> 
+    <stage type="setting" rend="center">SCENE.—An apartment in the Palace <persName type="fictional" key="Candian" ref="#Cand">Candian</persName>. <persName key="Vittoria" ref="#Vit">Vittoria</persName> and <persName key="Fiammetta">Fiammetta</persName> 
 sitting together, with books, music, and flowers about them; 
-<persName type="ficitonal" key="Vittoria">the former</persName> with her face towards a looking-glass, adjusting some-
+<persName type="fictional" key="Vittoria" ref="#Vit">the former</persName> with her face towards a looking-glass, adjusting some-
 thing about her head.
     </stage>
     <sp who="#Fiam">
@@ -3919,7 +3916,7 @@ thing about her head.
     <sp who="#Vit">
 <speaker>Vit.</speaker>
 <l>No more of that, my love, I have you fast;</l>
-<l><persName type="ficitonal" key="Sebastian">Your brother</persName> is come home, our noble bird, </l>
+<l><persName type="fictional" key="Sebastian" ref="#Seb">Your brother</persName> is come home, our noble bird, </l>
 <l>Nobler than ever! What can I want more </l>
 <l>To make me happy? I believe I want </l>
 <l>Some pain to pinch away these foolish tears, </l>
@@ -3928,7 +3925,7 @@ thing about her head.
     <pb n="165"/>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
-<l>Shall I read to you, <persName type="ficitonal" key="Vittoria">mother</persName>?</l>
+<l>Shall I read to you, <persName type="fictional" key="Vittoria" ref="#Vit">mother</persName>?</l>
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
@@ -3966,14 +3963,14 @@ thing about her head.
     </sp>
     <sp who="#Vit">
 <speaker>Vit.</speaker>
-<l>Why you dash on this morning like <persName type="ficitonal" key="Sebastian">Sebastian</persName>, </l>
+<l>Why you dash on this morning like <persName type="fictional" key="Sebastian" ref="#Seb">Sebastian</persName>, </l>
 <l>Along your gay reflections in wit's gondola.</l>
     </sp>
     <sp who="#Fiam">
 <speaker>Fiam.</speaker>
 <l>And you must think of gondolas again, </l>
 <l>And sigh, dear mother. Well, if you will think of 'em, </l>
-<l>Pray tell me now what think you of <persName type="ficitonal" key="Walter Herbert">the Englishman</persName>; </l>
+<l>Pray tell me now what think you of <persName type="fictional" key="Walter Herbert" ref="#Herb">the Englishman</persName>; </l>
 <l>Taking him in the common light, you know,—</l>
 <l>His look, his figure; for to say the truth, </l>
 <l>Only don't tell, I've hardly seen him yet; </l>
@@ -4002,12 +3999,12 @@ thing about her head.
 <l>You mean, I know, you dare not trust yourself </l>
 <l>Just now, upon that watery subject, mother;—</l>
 <l>But this, believe me, is the very way </l>
-<l>To speak of such good chances giv'n <persName type="ficitonal" key="Walter Herbert">the gentlemen</persName>. </l>
+<l>To speak of such good chances giv'n <persName type="fictional" key="Walter Herbert">the gentlemen</persName>. </l>
 <l>From what I've read, there are some ladies who </l>
 <l>Think one such plunge renders a man invulnerable </l>
 <l>To all objection. By their rule, one ought </l>
 <l>To save one's life, only to lose one's freedom; </l>
-<l>Begging <persName type="ficitonal" key="Walter Herbert">the gentleman</persName>, that since a shark </l>
+<l>Begging <persName type="fictional" key="Walter Herbert">the gentleman</persName>, that since a shark </l>
 <l>Was not to have you, or since he had kindly </l>
 <l>Taken the trouble to pick you up, he'd have you. </l>
 <l>Tis lucky, mother, the same principle </l>
@@ -4041,7 +4038,7 @@ thing about her head.
     <sp who="#Cand">
 <speaker>Cand.</speaker>
 <l>And what did uncle say? Ladies, allow me—</l>
-<l><persName type="fictional" key="Malipiero" ref="#malipiero">The Signor Malipiero</persName>, a sad gentleman, </l>
+<l><persName type="fictional" key="Malipiero" ref="#Mal">The Signor Malipiero</persName>, a sad gentleman, </l>
 <l>Who thinks it necessary to apologize </l>
 <l>For not being a king-fisher.—We found him </l>
 <l>Eyeing his would-be element at the door.</l>
@@ -4069,28 +4066,28 @@ thing about her head.
     </sp>
     <sp who="Fiam">
 <speaker>Fiam.</speaker>
-<l>If you mean my eyes, <persName key="Malipiero" ref="#malipiero">Signor Malipiero</persName>, </l>
+<l>If you mean my eyes, <persName key="Malipiero" ref="#Mal">Signor Malipiero</persName>, </l>
 <l>Which heaven forbid should look down on tall gentlemen, </l>
 <l>I think no evil of our other friends here, </l>
 <l>And why should I of you?</l>
     </sp>
     <sp who="Cand">
 <speaker>Cand.</speaker>
-<l>Come, <persName type="ficitonal" key="Malipiero">Malipiero</persName>, </l>
+<l>Come, <persName type="fictional" key="Malipiero" ref="#Mal">Malipiero</persName>, </l>
 <l>Settle these grave state questions by and bye, </l>
-<l>For here's <persName type="ficitonal" key="Sebastian">Sebastian</persName> and <persName type="ficitonal" key="Walter Herbert">the Englishman</persName>: </l>
+<l>For here's <persName type="fictional" key="Sebastian" ref="#Seb">Sebastian</persName> and <persName type="fictional" key="Walter Herbert" ref="#Herb">the Englishman</persName>: </l>
 <l>I saw them from the window, coming in.</l>
     </sp>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Servant.</stage>
     <sp>
-<l><persName key="Sebastian" ref="#sebastian">Signor Sebastian</persName>, and <persName type="fictional" key="Walter Herbert" ref="#herbert">his noble friend</persName>, Sir.</l>
+<l><persName key="Sebastian" ref="#sebastian">Signor Sebastian</persName>, and <persName type="fictional" key="Walter Herbert" ref="#Herb">his noble friend</persName>, Sir.</l>
     </sp>
     <stage type="entrance" rend="center"><hi rend="italic">Enter</hi> Sebastian <hi rend="italic">and</hi> Walter Herbert.</stage>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
 <l>Dear mother, uncle, sister sweet, and gentlemen, </l>
 <l>I need not introduce my noble friend </l>
-<l>And your's—the Signor <persName type="ficitonal" key="Walter Herbert">Walter Herbert</persName>, Englishman.</l>
+<l>And your's—the Signor <persName type="fictional" key="Walter Herbert" ref="#Herb">Walter Herbert</persName>, Englishman.</l>
 <l>Dear Walter, this is the affectionate circle </l>
 <l>I've told you of so often. Heaven be praised </l>
 <l>You're in the midst of it, and have been so.</l>
@@ -4203,7 +4200,7 @@ thing about her head.
     </sp>
     <sp who="#Seb">
 <speaker>Seb.</speaker>
-<l>Yes, <persName key="Walter Herbert" ref="#herbert">Walter</persName>, we but fancy we're new friends here;</l>
+<l>Yes, <persName key="Walter Herbert" ref="#Herb">Walter</persName>, we but fancy we're new friends here;</l>
 <l>We are as old ones the tastes we love.</l>
     </sp>
     <sp who="#Herb">
@@ -4276,7 +4273,7 @@ thing about her head.
 <speaker>Herb.</speaker>
 <l>Well, Sir, to shew you I can claim my due, </l>
 <l>And have my benefits returned, I'll ask </l>
-<l><persName type="fictional" key="Fiammetta" ref="#fiammetta">This lady</persName> to speak for me, and to own </l>
+<l><persName type="fictional" key="Fiammetta" ref="#Fiam">This lady</persName> to speak for me, and to own </l>
 <l>That what would have been done by any gentleman </l>
 <l>Should not be charged so brightly on my scutcheon.</l>
     </sp>
@@ -4286,10 +4283,10 @@ thing about her head.
 <l>And that without the fear of being tossed back </l>
 <l>Into the sea for my ingratitude, </l>
 <l>that I insinuated as much just now </l>
-<l>To <persName type="ficitonal" key="Malipiero">Signor Malipiero</persName> here himself. </l>
+<l>To <persName type="fictional" key="Malipiero" ref="#Mal">Signor Malipiero</persName> here himself. </l>
 <l>Did I not, gentlemen? And did I rate </l>
-<l>You, <persName type="fictional" key="Contarini" ref="#contarini">Signor Contarini</persName>, or you, Sir, </l>
-<l>For not being quicker than <persName type="ficitonal" key="Walter Herbert">our other friend</persName>, </l>
+<l>You, <persName type="fictional" key="Contarini" ref="#Cont">Signor Contarini</persName>, or you, Sir, </l>
+<l>For not being quicker than <persName type="fictional" key="Walter Herbert">our other friend</persName>, </l>
 <l>And catching me no agues!—Pardon me, </l>
 <l>But I should have asked, Sir, whether you suffered </l>
 <l>The least - - no clinging chilliness, I trust, </l>
@@ -4316,7 +4313,8 @@ thing about her head.
 <l>Again.</l>
     </sp>
     <sp who="#Cand">
-<speaker>Indeed! I fear I've scarcely given our friend </speaker>
+<speaker>Cand.</speaker>
+<l>Indeed! I fear I've scarcely given our friend</l>
 <l>A proper English welcome. Well; I hope </l>
 <l>You'll spend the day with us, and teach us how </l>
 <l>To interchange each other's cordial customs. </l>
@@ -4344,7 +4342,7 @@ thing about her head.
     <p>Orders received by the Booksellers, by the Newsmen, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>, <placeName type="address" key="No. 19, Catherine-street, Strand" corresp="England" ref="https://www.wikidata.org/wiki/Q48698947">No. 19, Catherine-street, Strand</placeName>—Price 2d.
     </p>
     <p>
-Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" corresp="England">No. 45, Broad-street, Golden-square</placeName>.
+Printed by <persName type="real" key="C. H. Reynell" ref="https://www.britishmuseum.org/collection/term/BIOG179950">C. H. Reynell</persName>, <placeName type="address" key="No. 45, Broad-street, Golden-square" ref="https://www.wikidata.org/wiki/Q4972570" corresp="England">No. 45, Broad-street, Golden-square</placeName>.
     </p>
 </div2>
     </div1>
