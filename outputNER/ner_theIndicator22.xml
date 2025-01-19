@@ -1485,7 +1485,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013137744",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T06:31:37.744Z",
-	"dcterms:modified": "2025-01-19T06:31:37.744Z",
+	"dcterms:modified": "2025-01-19T06:33:24.374Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1513,6 +1513,85 @@
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013137744#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[11]/persName[11]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Philip_II_of_Spain",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013331150",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-19T06:33:31.150Z",
+	"dcterms:modified": "2025-01-19T06:33:31.150Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013331150#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013331150#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[11]/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -1767,7 +1846,7 @@ old <persName key="Plantagenets" ref="https://dbpedia.org/page/House_of_Plantage
 appears also to have come from <placeName type="country" key="Italy" corresp="Italy" ref="http://www.wikidata.org/entity/Q38">Italy</placeName>, as in the portraits of 
 <persName key="Raphael" ref="http://dbpedia.org/resource/Raphael" type="real">Raphael</persName> and <persName key="Titian" ref="http://dbpedia.org/resource/Titian" type="real">Titian</persName>: and it would probably have continued till the 
 French times of <persName key="Charles II of England" ref="https://dbpedia.org/resource/Charles_II_of_England" type="real">Charles the Second</persName>, for our ancestors up to that 
-period were always great admirers of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, had not <persName key="King Philip II of Spain">Philip the Second 
+period were always great admirers of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, had not <persName key="Philip II of Spain" ref="https://dbpedia.org/resource/Philip_II_of_Spain" type="real">Philip the Second 
 of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName></persName> come over to marry our <persName key="Queen Mary I">Queen Mary</persName>. The extreme 
 heats of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> had forced the natives upon taking to that ingenious 
 union of the hat and umbrella, still known by the name of the Spanish 
