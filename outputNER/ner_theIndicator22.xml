@@ -2357,7 +2357,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119015440171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T06:54:40.171Z",
-	"dcterms:modified": "2025-01-19T06:54:40.171Z",
+	"dcterms:modified": "2025-01-19T07:01:17.798Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2388,7 +2388,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Courceys",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2720,7 +2722,7 @@ is a well-known story of a picture, in which <persName key="Mary de Nazareth " r
 with a label coming out of her mouth, saying to a Spanish 
 gentleman, who has politely taken off his hat, <q type="spoken">"Cousin, be covered."</q> 
 But the most interesting anecdote connected with a hat, 
-belongs to the family of the <persName role="family" key="De Courcys">De Courcys</persName>, <persName key="John de Courcy, 35th Baron Kingsale" cert="medium" ref="https://dbpedia.org/resource/John_de_Courcy,_35th_Baron_Kingsale" type="real">Lord <choice><orig>Kinsale</orig><reg>Kingsale</reg></choice></persName>. One of their
+belongs to the family of the <persName key="De Courcys" ref="https://dbpedia.org/resource/Courceys" type="real">De Courcys</persName>, <persName key="John de Courcy, 35th Baron Kingsale" cert="medium" ref="https://dbpedia.org/resource/John_de_Courcy,_35th_Baron_Kingsale" type="real">Lord <choice><orig>Kinsale</orig><reg>Kingsale</reg></choice></persName>. One of their
 ancestors, at an old period of our history, having overthrown a huge 
 and insolent champion, who had challenged the whole court, was 
 desired by the king to ask him some special favour. He requested 
