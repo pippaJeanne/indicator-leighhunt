@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -10,7 +7,7 @@
 <author>Leigh Hunt</author>
 </titleStmt>
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 <sourceDesc>
 <bibl>
@@ -24,7 +21,7 @@
 </fileDesc>
  
 <!-- Encoding Description -->
- <encodingDesc>
+ <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
     <!-- Add any encoding information or guidelines here if applicable -->
     <p>
     Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -39,7 +36,7 @@
 <text>
 <body>
 <div1 type="issue" n="22">
-<pb n="169" />
+<pb n="169"/>
 <div2 type="forematter"> 
 <head type="title" rend="center">THE INDICATOR.</head>
 <epigraph rend="center">
@@ -47,11 +44,10 @@
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.<note type="citation">
 <bibl>
-<ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon" />
+<ref target="http://dbpedia.org/resource/Elizabeth_Spencer,_Baroness_Hunsdon"/>
 </bibl>
 </note></l>
-<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue" rend="center">No. XXII.—<date when="1820-03-08" cert="high">WEDNESDAY, MARCH 8th, 1820</date>.</head>
 </div2> 
@@ -67,7 +63,7 @@ acquainted with it. In the first place, it comes home more like a
 marmot or some other living creature, than a manufacture. It is 
 boxed up, and wrapt in silver paper, and brought delicately. It is 
 as sleek as a lap-dog. Then we are to take it out as nicely, and 
-people are to wonder how we shall, look in it. <persName type="fictional" key="Maria">Maria</persName> twitches one 
+people are to wonder how we shall look in it. <persName type="fictional" key="Maria">Maria</persName> twitches one 
 this way, and <persName type="fictional" key="Sophia">Sophia</persName> that, and <persName type="fictional" key="Caroline">Caroline</persName> that, and <persName type="fictional" key="Catharine">Catharine</persName> t'other. 
 We have the difficult task, all the while, of looking easy, till the approving 
 votes are pronounced: our only resource (which is also difficult)
@@ -91,7 +87,7 @@ toils and scoldings next day! Ye, who have received your new hat and
 boots but an hour before ye set out; and then issue forth triumphantly, 
 the charmer by your side! She, with arm in yours, and 
 
-<pb n="170" /> 
+<pb n="170"/> 
 
 handkerchief in hand, blushing, or eating gingerbread, trips on: 
 ye, admiring, trudge: we ask ye, whether love itself has prevented 
@@ -147,7 +143,7 @@ there. There also takes place <choice><orig>it's</orig><reg>its</reg></choice> o
 the useful, if so it is to be called:— we allude to the preparatory ejaculation 
 whispered into it by the genteel worshipper, before he turns 
 
-<pb n="171" />
+<pb n="171"/>
 
 round and makes a bow to Mr. and Mrs. Jones and the Miss Thompsons. 
 There is a formula for this occasion; and doubtless it is often 
@@ -202,7 +198,7 @@ be a substitute. <choice><orig>It's</orig><reg>Its</reg></choice> only use is to
 who wonder how so small a thing can be kept on; and to this end, 
 it used to be rubbed into the back or side of the head, where it hung 
 
-<pb n="172" />
+<pb n="172"/>
 
 like a worsted wonder. It is after the fashion of <persName type="fictional" key="Katharine"><choice><corr>Katharine</corr><sic>Catherine</sic></choice></persName>'s cap in 
 the play: it seems as if </p> 
@@ -273,7 +269,7 @@ hat. We know not whether <persName key="King Philip II of Spain">Philip</persNam
 delighting in a little humble-looking cap. But we conceive it was 
 either from <persName key="King Philip II of Spain">Philip</persName>, or some gentleman in his train, that the hat and 
 
-<pb n="173" />
+<pb n="173"/>
 
 feather succeeded among us to the cap and jewels of <persName key="King Henry VIII">Henry the 8th</persName>. 
 The ascendancy of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> in these times carried it into other parts of 
@@ -336,7 +332,7 @@ The Spanish grandees have the privilege of wearing their hats in the
 royal presence, probably in commemoration of the free spirit in 
 which the <persName key="Hernán Cortés" cert="low">Cortes</persName> used to crown the sovereign; telling him (we suppose
 
-<pb n="174" />
+<pb n="174"/>
 
 in their corporate capacity) that they were better men than he, 
 but chose him of their own free will for their master. The grandees 
@@ -382,14 +378,14 @@ of this story by one of <persName role="family" key="The Caracci">the Caracci</p
 though his <persName key="Hercules">Hercules</persName> seems to retain too little of the unconscious 
 baby. His look is too full of intention. The poet has preserved an 
 admirable propriety in this respect.</p>
-<lg xml:lang="en" type="hunt-translation" xml:id="The-Infant-Hercules-and-the-Serpents" rend="center" >
+<lg xml:lang="en" type="hunt-translation" xml:id="The-Infant-Hercules-and-the-Serpents" rend="center">
 <lg xml:id="verse1">
 <l>Young <persName key="Hercules">Hercules</persName> had now beheld the light </l>
 <l>Only ten months, when once, upon a night, </l>
 <l><persName key="Alcmena">Alcmena</persName> having washed, and giv'n the breast </l>
 <l>To both her heavy boys, laid them to rest. </l>
 
-<pb n="175" />
+<pb n="175"/>
 
 <l>Their cradle was a noble shield of brass </l>
 <l>Won by <persName key="Amphitryon">her lord</persName> from slaughtered <persName type="fictional" key="Pterelas">Pterelas</persName>. </l>
@@ -400,7 +396,7 @@ admirable propriety in this respect.</p>
 <l>Sleep happy, and wake happy!" And she kept </l>
 <l>Rocking the mighty buckler, and they slept. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse2">
 <l>At midnight,—when the Bear went down, and broad </l>
 <l>Orion's shoulder lit the starry road, </l>
@@ -413,7 +409,7 @@ admirable propriety in this respect.</p>
 <l>An evil fire out of their eyes came lamping: </l>
 <l>A heavy poison dropt about their champing. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse3">
 <l>And now they have arrived, and think to fall </l>
 <l>To their dread meal, when lo! (for <persName key="Jupiter">Jove</persName> sees all) </l>
@@ -429,15 +425,15 @@ admirable propriety in this respect.</p>
 <l>And held, like iron, in <choice><orig>it's</orig><reg>its</reg></choice> little fists. </l>
 <l>Buckled and bound he held them, struggling wild; </l>
 <l>And so they wound about <persName key="Hercules">the boy</persName>, <persName key="Hercules">the child</persName>, </l>
-<l><persName key="Hercules">The long-begetting boy</persName>, <persName key="Hercules"></persName>the suckling dear, </l>
+<l><persName key="Hercules">The long-begetting boy</persName>, <persName key="Hercules"/>the suckling dear, </l>
 <l>That never teazed his nurses with a tear. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse4">
 <l>Tired out at length, they trail their spires, and gasp, </l>
 <l>Locked in that young indissoluble grasp. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse5">
 <l><persName key="Alcmena">Alcmena</persName> heard the noise, and <q type="spoken">Wake,</q> she cried, </l>
 <l>"<persName key="Amphitryon">Amphitryon</persName>, wake; for terror holds me tied! </l>
@@ -452,33 +448,33 @@ admirable propriety in this respect.</p>
 <l>The hilt he grasped in one hand, and the sheath </l>
 <l>In t'other, and drew forth the blade of death. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse6">
 <l>All in an instant, like a stroke of doom, </l>
 <l>Returning midnight smote upon the room. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse7">
 <l><persName key="Amphitryon">Amphitryon</persName> called; and woke from heavy sleep </l>
 <l>His household, who lay breathing hard and deep. </l>
 <l>"Bring lights here from the hearth; lights, lights; and guard </l>
 <l>The doorways. Rise, ye ready labourers hard!" </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse8">
 <l>He said; and lights came pouring in; and all </l>
 <l>The busy house was up in bower and hall. </l>
 <l>But when they saw <persName key="Hercules">the little suckler</persName>, how </l>
 <l>He grasped the monsters, and with earnest brow </l>
 
-<pb n="176" />
+<pb n="176"/>
 
 <l>Kept beating them together, plaything-wise, </l>
 <l>They shrieked aloud; but he, with laughing eyes, </l>
 <l>Soon as he saw <persName key="Amphitryon">Amphitryon</persName>, leaped and sprung. </l>
 <l>Childlike, and at his feet the dead disturbers flung. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse9">
 <l>Then did <persName key="Alcmena">Alcmena</persName> to her bosom take </l>
 <l><persName key="Iphiclus">Her feebler boy</persName>,<note type="hunt">
@@ -491,7 +487,7 @@ power;—a part of wisdom which our modern psychosophists are so apt to forget.
 <l><persName key="Hercules">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
 <l>Beneath a fleece; and so returned to bed. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse10">
 <l>Soon as the cock, with his thrice-echoing <choice><corr>cheer</corr><sic>chear</sic></choice>, </l>
 <l>Proclaimed the gladness of the day was near, </l>
@@ -504,7 +500,7 @@ power;—a part of wisdom which our modern psychosophists are so apt to forget.
 <l>And thus thou seest" (and here her smiling eyes </l>
 <l>Looked through a blush) <q type="spoken">how well I teach the wise.</q> </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse11">
 <l>So spoke the queen. Then he, with glad old tone:— </l>
 <l>"Be of good heart, thou blessed bearing one, </l>
