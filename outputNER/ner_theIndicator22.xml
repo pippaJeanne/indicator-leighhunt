@@ -214,7 +214,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?title_annotation_20250119004945786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T05:49:45.786Z",
-	"dcterms:modified": "2025-01-19T05:49:45.786Z",
+	"dcterms:modified": "2025-01-19T05:57:30.488Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -245,7 +245,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://catalog.hathitrust.org/Record/008700386",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -357,7 +359,7 @@ laughed at our chimney-tops with a border; though upon the whole
 we do think them the more graceful of the two. The best modern 
 covering for the head was the imitation of the broad Spanish hat in 
 use about thirty years back, when <persName key="Thomas Stothard" ref="https://dbpedia.org/resource/Thomas_Stothard" type="real">Mr. Stothard</persName> made his designs for 
-<title level="j">the Novelist's Magazine</title>. But in proportion as society has been put 
+<title level="j" ref="https://catalog.hathitrust.org/Record/008700386">the Novelist's Magazine</title>. But in proportion as society has been put 
 into a bustle, our hats seem to have narrowed their dimensions: the 
 flaps were clipped off more and more till they became a rim; and 
 now the rim has contracted to a mere nothing; so that what with our 
