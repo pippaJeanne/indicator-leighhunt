@@ -2887,6 +2887,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021341777",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-19T07:13:41.777Z",
+	"dcterms:modified": "2025-01-19T07:14:04.225Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021341777#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021341777#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Alcmene",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
     <!-- Add any encoding information or guidelines here if applicable -->
     <p>
@@ -3230,7 +3312,7 @@ thing than a grandee's. </p>
 <head type="header" rend="center uppercase">The Infant <persName key="Hercules" ref="http://dbpedia.org/resource/Hercules" type="fictional">Hercules</persName> and the Serpents.</head>
 <head type="subheader" rend="italic center">Translated from the <title level="a" ref="https://dbpedia.org/resource/Idyll">24th Idyll of <persName key="Theocritus" ref="https://dbpedia.org/resource/Theocritus" type="real">Theocritus</persName></title>.</head>
 <p><hi rend="smallcaps"><persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)" type="fictional">Jupiter</persName></hi> having taken <persName key="Amphitryon" ref="http://dbpedia.org/resource/Amphitryon" type="fictional" xml:id="Amphitryon">Amphitryon</persName>'s shape during the absence of 
-<persName key="Amphitryon" ref="#Amphitryon" type="fictional">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmena">Alcmena</persName>. <persName key="Amphitryon">The 
+<persName key="Amphitryon" ref="#Amphitryon" type="fictional">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmene" ref="http://dbpedia.org/resource/Alcmene" type="fictional">Alcmena</persName>. <persName key="Amphitryon">The 
 husband</persName>, when the circumstance came to his knowledge, felt nothing 
 but a generous pride at <persName key="Jupiter">the deity</persName>'s admiration of <persName key="Alcmena">his beloved wife</persName>; 
 and with all care and tenderness brought up <persName key="Hercules">the infant demi-god</persName> 
