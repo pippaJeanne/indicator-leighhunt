@@ -3578,7 +3578,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021845484",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:18:45.484Z",
-	"dcterms:modified": "2025-01-19T07:18:45.484Z",
+	"dcterms:modified": "2025-01-19T07:18:57.147Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3609,7 +3609,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Jupiter",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3969,7 +3974,7 @@ but a generous pride at <persName key="Jupiter" ref="#Jupiter" type="fictional">
 and with all care and tenderness brought up <persName key="Hercules" ref="#Hercules" type="fictional">the infant demi-god</persName> 
 with his own twin son <persName key="Iphiclus (mythology)" ref="http://dbpedia.org/resource/Iphiclus_(mythology)" type="fictional">Iphiclus</persName>. But, <persName key="Juno (mythology)" ref="http://dbpedia.org/resource/Juno_(mythology)" type="fictional">Juno</persName>'s feelings were not so 
 godlike as <persName key="Amphitryon" ref="#Amphitryon" type="fictional">the mortal</persName>'s. She laid various plans for the destruction of 
-this new child of <persName key="Jupiter">her husband</persName>'s; and among others, sent two dreadful 
+this new child of <persName key="Jupiter" ref="#Jupiter" type="fictional">her husband</persName>'s; and among others, sent two dreadful 
 serpents at midnight to devour it. This is the subject of the present 
 idyll, which in the original is exceedingly fine and real, and shews 
 that <persName key="Theocritus">Theocritus</persName> had a perception of grandeur becoming his deep 
