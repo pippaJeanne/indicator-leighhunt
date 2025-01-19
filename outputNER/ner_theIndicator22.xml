@@ -4262,7 +4262,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119023627165",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:36:27.165Z",
-	"dcterms:modified": "2025-01-19T07:37:05.036Z",
+	"dcterms:modified": "2025-01-19T07:38:18.614Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4297,7 +4297,89 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#Pterelas",
+		"@id": "#Hercules",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119023738207",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-19T07:37:38.207Z",
+	"dcterms:modified": "2025-01-19T07:38:04.534Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119023738207#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119023738207#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/lg/lg[9]/l[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Iphiclus",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4766,14 +4848,14 @@ admirable propriety in this respect.</p>
 <lb/>
 <lg xml:id="verse9">
 <l>Then did <persName key="Alcmena">Alcmena</persName> to her bosom take </l>
-<l><persName key="Iphiclus">Her feebler boy</persName>,<note type="hunt">
+<l><persName key="Iphiclus" ref="#Iphiclus" type="fictional">Her feebler boy</persName>,<note type="hunt">
 Literally, the <hi rend="italic">extremely bilious</hi> Iphiclus,—ἀκράχολον Ἰφικλῆα. The ancients
 are accused of being too bodily and superficial in their philosophy. It was one of the 
 advantages however of their attention to these exoterical matters, that they never lost
 sight of the connexion between mind and body, and their mutual healthiness, beauty, and
 power;—a part of wisdom which our modern psychosophists are so apt to forget.
 </note> who could not cease to shake. </l>
-<l><persName key="Pterelas" ref="#Pterelas" type="fictional">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
+<l><persName key="Hercules" ref="#Hercules" type="fictional">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
 <l>Beneath a fleece; and so returned to bed. </l>
 </lg>
 <lb/>
