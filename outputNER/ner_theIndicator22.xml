@@ -3293,6 +3293,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021801852",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:18:01.852Z",
+	"dcterms:modified": "2025-01-19T07:38:44.122Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4738,7 +4739,7 @@ thing than a grandee's. </p>
 husband</persName>, when the circumstance came to his knowledge, felt nothing 
 but a generous pride at <persName key="Jupiter" ref="#Jupiter" type="fictional">the deity</persName>'s admiration of <persName key="Alcmena" ref="#Alcmene" type="fictional">his beloved wife</persName>; 
 and with all care and tenderness brought up <persName key="Hercules" ref="#Hercules" type="fictional">the infant demi-god</persName> 
-with his own twin son <persName key="Iphiclus (mythology)" ref="http://dbpedia.org/resource/Iphiclus_(mythology)" type="fictional">Iphiclus</persName>. But, <persName key="Juno (mythology)" ref="http://dbpedia.org/resource/Juno_(mythology)" type="fictional">Juno</persName>'s feelings were not so 
+with his own twin son <persName key="Iphiclus (mythology)" ref="http://dbpedia.org/resource/Iphiclus_(mythology)" type="fictional" xml:id="Iphiclus">Iphiclus</persName>. But, <persName key="Juno (mythology)" ref="http://dbpedia.org/resource/Juno_(mythology)" type="fictional">Juno</persName>'s feelings were not so 
 godlike as <persName key="Amphitryon" ref="#Amphitryon" type="fictional">the mortal</persName>'s. She laid various plans for the destruction of 
 this new child of <persName key="Jupiter" ref="#Jupiter" type="fictional">her husband</persName>'s; and among others, sent two dreadful 
 serpents at midnight to devour it. This is the subject of the present 
