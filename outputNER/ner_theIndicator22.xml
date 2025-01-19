@@ -2758,7 +2758,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021058437",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:10:58.437Z",
-	"dcterms:modified": "2025-01-19T07:12:27.726Z",
+	"dcterms:modified": "2025-01-19T07:13:17.439Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2840,7 +2840,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119021238121",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:12:38.121Z",
-	"dcterms:modified": "2025-01-19T07:12:38.121Z",
+	"dcterms:modified": "2025-01-19T07:13:02.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2871,7 +2871,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Amphitryon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3224,8 +3229,8 @@ thing than a grandee's. </p>
 <div2 type="section" n="2">
 <head type="header" rend="center uppercase">The Infant <persName key="Hercules" ref="http://dbpedia.org/resource/Hercules" type="fictional">Hercules</persName> and the Serpents.</head>
 <head type="subheader" rend="italic center">Translated from the <title level="a" ref="https://dbpedia.org/resource/Idyll">24th Idyll of <persName key="Theocritus" ref="https://dbpedia.org/resource/Theocritus" type="real">Theocritus</persName></title>.</head>
-<p><hi rend="smallcaps"><persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)" type="fictional">Jupiter</persName></hi> having taken <persName key="Amphitryon" ref="http://dbpedia.org/resource/Amphitryon" type="fictional">Amphitryon</persName>'s shape during the absence of 
-<persName key="Amphitryon">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmena">Alcmena</persName>. <persName key="Amphitryon">The 
+<p><hi rend="smallcaps"><persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)" type="fictional">Jupiter</persName></hi> having taken <persName key="Amphitryon" ref="http://dbpedia.org/resource/Amphitryon" type="fictional" xml:id="Amphitryon">Amphitryon</persName>'s shape during the absence of 
+<persName key="Amphitryon" ref="#Amphitryon" type="fictional">that hero</persName> in the wars, begot <persName key="Hercules">Hercules</persName> of his wife <persName key="Alcmena">Alcmena</persName>. <persName key="Amphitryon">The 
 husband</persName>, when the circumstance came to his knowledge, felt nothing 
 but a generous pride at <persName key="Jupiter">the deity</persName>'s admiration of <persName key="Alcmena">his beloved wife</persName>; 
 and with all care and tenderness brought up <persName key="Hercules">the infant demi-god</persName> 
