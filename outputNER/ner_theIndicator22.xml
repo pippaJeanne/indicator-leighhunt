@@ -1564,7 +1564,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119013331150",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T06:33:31.150Z",
-	"dcterms:modified": "2025-01-19T06:33:31.150Z",
+	"dcterms:modified": "2025-01-19T06:35:18.955Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1595,7 +1595,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/page/Mary_I_of_England",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1847,7 +1849,7 @@ appears also to have come from <placeName type="country" key="Italy" corresp="It
 <persName key="Raphael" ref="http://dbpedia.org/resource/Raphael" type="real">Raphael</persName> and <persName key="Titian" ref="http://dbpedia.org/resource/Titian" type="real">Titian</persName>: and it would probably have continued till the 
 French times of <persName key="Charles II of England" ref="https://dbpedia.org/resource/Charles_II_of_England" type="real">Charles the Second</persName>, for our ancestors up to that 
 period were always great admirers of <placeName type="country" key="Italy" corresp="Italy">Italy</placeName>, had not <persName key="Philip II of Spain" ref="https://dbpedia.org/resource/Philip_II_of_Spain" type="real">Philip the Second 
-of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName></persName> come over to marry our <persName key="Queen Mary I">Queen Mary</persName>. The extreme 
+of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName></persName> come over to marry our <persName key="Mary I of England" ref="https://dbpedia.org/page/Mary_I_of_England" type="real">Queen Mary</persName>. The extreme 
 heats of <placeName type="country" key="Spain" corresp="Spain">Spain</placeName> had forced the natives upon taking to that ingenious 
 union of the hat and umbrella, still known by the name of the Spanish 
 hat. We know not whether <persName key="King Philip II of Spain">Philip</persName> himself wore it. His father, 
