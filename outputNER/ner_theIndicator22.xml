@@ -2198,7 +2198,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119015129539",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T06:51:29.539Z",
-	"dcterms:modified": "2025-01-19T06:51:29.539Z",
+	"dcterms:modified": "2025-01-19T06:53:04.824Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2229,7 +2229,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Mary,_mother_of_Jesus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2557,7 +2559,7 @@ which the <persName key="Hernán Cortés" cert="low" ref="http://dbpedia.org/res
 in their corporate capacity) that they were better men than he, 
 but chose him of their own free will for their master. The grandees 
 only claim to be as good men, unless their families are older. There 
-is a well-known story of a picture, in which <persName key="the Virgin Mary">the Virgin Mary</persName> is represented 
+is a well-known story of a picture, in which <persName key="Mary de Nazareth " ref="https://dbpedia.org/resource/Mary,_mother_of_Jesus" type="real">the Virgin Mary</persName> is represented 
 with a label coming out of her mouth, saying to a Spanish 
 gentleman, who has politely taken off his hat, <q type="spoken">"Cousin, be covered."</q> 
 But the most interesting anecdote connected with a hat, 
