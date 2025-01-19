@@ -1959,7 +1959,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119014708580",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T06:47:08.580Z",
-	"dcterms:modified": "2025-01-19T06:47:08.580Z",
+	"dcterms:modified": "2025-01-19T06:49:41.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1990,7 +1990,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Paul_I_of_Russia",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2000,6 +2002,85 @@
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?place_annotation_20250119015000152",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-19T06:50:00.152Z",
+	"dcterms:modified": "2025-01-19T06:50:09.611Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?place_annotation_20250119015000152#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?place_annotation_20250119015000152#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[11]/placeName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q5428",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2300,11 +2381,11 @@ was there, informing the new hat. He
 </note>
 </cit>
 
-The late <persName key="Paul I of Russia" cert="medium">Emperor Paul</persName> had conceived such a sense of the dignity of 
+The late <persName key="Paul I of Russia" cert="medium" ref="https://dbpedia.org/resource/Paul_I_of_Russia" type="real">Emperor Paul</persName> had conceived such a sense of the dignity of 
 the cocked hat, aggravated by <choice><orig>it's</orig><reg>its</reg></choice> having given way to the round one 
 of the French republicans, that he ordered all persons in his dominions 
 never to dare be seen in public with round hats, upon pain of 
-being knouted<note type="editorial">knouted: punished by whipping</note> and sent to <placeName type="region" key="Siberia" corresp="Russia">Siberia</placeName>.</p>
+being knouted<note type="editorial">knouted: punished by whipping</note> and sent to <placeName type="region" key="Siberia" corresp="Russia" ref="http://www.wikidata.org/entity/Q5428">Siberia</placeName>.</p>
 
 <p>Hats, being the easiest part of the European dress to be taken off, 
 are doffed among us out of reverence. The Orientals, on the same 
