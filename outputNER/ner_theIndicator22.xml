@@ -3985,7 +3985,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119022936097",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:29:36.097Z",
-	"dcterms:modified": "2025-01-19T07:29:36.097Z",
+	"dcterms:modified": "2025-01-19T07:30:03.583Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4016,7 +4016,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Hercules",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4410,7 +4415,7 @@ admirable propriety in this respect.</p>
 <l>There came, careering through the opening halls, </l>
 <l>On livid spires, two dreadful animals, </l>
 <l>Serpents; whom <persName key="Juno">Juno</persName>, threatening as she drove, </l>
-<l>Had sent there to devour <persName key="Hercules">the boy of <persName key="Jupiter" ref="#Jupiter" type="fictional">Jove</persName></persName>. </l>
+<l>Had sent there to devour <persName key="Hercules" ref="#Hercules" type="fictional">the boy of <persName key="Jupiter" ref="#Jupiter" type="fictional">Jove</persName></persName>. </l>
 <l>Orbing their blood-fed bellies in and out, </l>
 <l>They towered along; and as they looked about, </l>
 <l>An evil fire out of their eyes came lamping: </l>
