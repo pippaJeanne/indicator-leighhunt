@@ -4262,7 +4262,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator22.xml?person_annotation_20250119023627165",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-19T07:36:27.165Z",
-	"dcterms:modified": "2025-01-19T07:36:27.165Z",
+	"dcterms:modified": "2025-01-19T07:37:05.036Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4293,7 +4293,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Pterelas",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4768,7 +4773,7 @@ advantages however of their attention to these exoterical matters, that they nev
 sight of the connexion between mind and body, and their mutual healthiness, beauty, and
 power;—a part of wisdom which our modern psychosophists are so apt to forget.
 </note> who could not cease to shake. </l>
-<l><persName key="Hercules">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
+<l><persName key="Pterelas" ref="#Pterelas" type="fictional">The other son</persName> <persName key="Amphytrion">Amphytrion</persName> took, and laid </l>
 <l>Beneath a fleece; and so returned to bed. </l>
 </lg>
 <lb/>
