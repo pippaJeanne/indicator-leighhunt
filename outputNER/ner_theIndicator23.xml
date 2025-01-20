@@ -1084,7 +1084,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?place_annotation_20250120022712488",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-20T07:27:12.488Z",
-	"dcterms:modified": "2025-01-20T07:27:12.488Z",
+	"dcterms:modified": "2025-01-20T07:27:25.325Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1115,7 +1115,88 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q664",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?place_annotation_20250120022729159",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-20T07:27:29.159Z",
+	"dcterms:modified": "2025-01-20T07:27:40.750Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?place_annotation_20250120022729159#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?place_annotation_20250120022729159#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q668",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1435,7 +1516,7 @@ than the window-locker. He tells his mother that she would be a
 Duchess in <placeName type="fictional" key="Paranaboo">Paranaboo</placeName>; at which the good old portly dame laughs and 
 looks proud. When his sisters complain of his romping, he says that 
 they are only sorry it is not the baker. He frightens them with a 
-mask made after the <placeName type="country" key="New Zealand" corresp="New Zealand">New Zealand</placeName> fashion, and is forgiven for his 
+mask made after the <placeName type="country" key="New Zealand" corresp="New Zealand" ref="http://www.wikidata.org/entity/Q664">New Zealand</placeName> fashion, and is forgiven for his 
 learning. Their mantle-piece is filled by him with shells and shark's 
 teeth; and when he goes to sea again, there is no end of tears, and 
 God-bless yous, and home-made gingerbread.</p>
@@ -1451,7 +1532,7 @@ moonlight hinders the effect of the colour. A man, with a bundle
 beneath his arm, accosts him in an under-tone; and, with a look in 
 which respect for his knowledge is mixed with an avowed zeal for his 
 own interest, asks if his Honour will just step under the gangway 
-here, and inspect some real <placeName type="country" key="India" corresp="India">India</placeName> shawls. The gallant Lieutenant 
+here, and inspect some real <placeName type="country" key="India" corresp="India" ref="http://www.wikidata.org/entity/Q668">India</placeName> shawls. The gallant Lieutenant 
 
 <pb n="181"/> 
 
