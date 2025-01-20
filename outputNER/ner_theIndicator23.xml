@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <!-- File Description -->
 <fileDesc>
@@ -11,7 +9,7 @@
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <!-- Author information -->
@@ -28,7 +26,7 @@ issue ({Month} {Day}, {Year}) -->
 </fileDesc>
 
 <!-- Encoding Description -->
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -63,22 +61,20 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="23">
-<pb n="177" />
+<pb n="177"/>
 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
 <l>There he arriving round about doth flie,</l>
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.</l>
-<l><persName key="Edmund Spenser"
-ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue">No. XXIII.<date when="1820-03-15">—WEDNESDAY, MARCH 15th, 1820.</date></head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
 <head type="header" rend="center uppercase">Lady's Maid<note type="Hunt">The great changes produced in people's fortunes by the nature of the times, 
-have unfortunately rendered this title but too common to a great variety of females; many of whome will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops">Mrs. Slipslops</persName>of the last century.
+have unfortunately rendered this title but too common to a great variety of females; many of whom will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops">Mrs. Slipslops</persName>of the last century.
 </note>.—Seamen on Shore.</head>
 
 <p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to go to sea again, 
@@ -163,7 +159,7 @@ fingers, on a hot summer's day, under the great elm-tree there, at the
 door of <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
 </sp>
 
-<pb n="178" />
+<pb n="178"/>
 
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
@@ -208,7 +204,7 @@ since I recollected how good-natured you looked at <placeName type="Pub" key="th
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
-<p>Oh, <persName key="Inidcator"></persName>Mr. Intricater, you're such another man! </p>
+<p>Oh, <persName key="Inidcator"/>Mr. Intricater, you're such another man! </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
@@ -217,7 +213,7 @@ than you were then. </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
-<p>Nay, now, <persName key="Indicator"></persName>Mr. Hingy-grater, I'm sure you flatter. </p>
+<p>Nay, now, <persName key="Indicator"/>Mr. Hingy-grater, I'm sure you flatter. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
@@ -247,7 +243,7 @@ where I was; and never writes Miss on my letters; and yet
 whenever she goes home to her father's, who is nothing but a little 
 petty green-grocer in an alley, she insists, forsooth, on my Missing and 
 
-<pb n="179" />
+<pb n="179"/>
 
 Missing her, or she wont send me any news of the private theatre; and 
 and she knows that vexes me, because I really have a taste for the stage, 
@@ -304,7 +300,7 @@ which the landlord of the Ship makes him pay twice what he gave for
 the whole;—in short, all that money can be spent upon, which is 
 every thing but medicine gratis; and this he would insist on paying 
 
-<pb n="180" />
+<pb n="180"/>
 
 for. He would buy all the painted parrots on an Italian's head, 
 on purpose to break them, rather than not spend his money. He has 
@@ -358,7 +354,7 @@ which respect for his knowledge is mixed with an avowed zeal for his
 own interest, asks if his Honour will just step under the gangway 
 here, and inspect some real <placeName type="country" key="India" corresp="India">India</placeName> shawls. The gallant Lieutenant 
 
-<pb n="181" /> 
+<pb n="181"/> 
 
 says to himself, <q type="thought">This fellow knows what's what, by his face;</q> and 
 so he proves it by being taken in on the spot. When he brings the 
@@ -411,7 +407,7 @@ treats talents unlike his own with great respect. He often perceives
 his own so little felt that it teaches him this feeling for that of others. 
 Besides, he admires the quantity of information which people can get, 
 
-<pb n="182" /> 
+<pb n="182"/> 
 
 without travelling like himself; especially when he sees how interesting 
 his own becomes, to them as well as to every body else. When he 
@@ -469,7 +465,7 @@ modern.
 <l>All in a gown of falding to the knee. </l>
 <l>A dagger hanging by a lace had he, </l>
 
-<pb n="183" />
+<pb n="183"/>
 
 <l>About his neck, under his arm adown. </l>
 <l>The hot summer had made his hew all brown. </l>
@@ -523,9 +519,9 @@ deferred to the lady; who thus finds her mercenary behaviour outwitted. </p>
 <div2 type="section" n="2">
 <head type="header" rend="center">
 <hi rend="smallcaps">Translation of Tasso's Celebrated</hi>
-<lb />
+<lb/>
 <hi rend="uppercase">Ode to the Golden Age,</hi>
-<lb />
+<lb/>
 <hi rend="small italics">Beginning, "O bella eta dell' oro."</hi>
 </head>
 <p>[We should not have ended our present number with this translation,
@@ -552,7 +548,7 @@ has already appeared in this work. A translation of the whole of the
 <l>No, nor that ev'n the insolent ships from far </l>
 <l>Brought war to no new lands, nor riches worse than war: </l></lg>
 
-<pb n="184" />
+<pb n="184"/>
 
 <lg xml:id="verse2">
 <l>But solely that that vain </l>
@@ -569,7 +565,7 @@ has already appeared in this work. A translation of the whole of the
 <l>That glad and golden law, all free, all fitted, </l>
 <l>Which Nature's own hand wrote,—What pleases, is permitted. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse3">
 <l>Then among streams and flowers </l>
 <l>The little winged Powers </l>
@@ -585,7 +581,7 @@ has already appeared in this work. A translation of the whole of the
 <l>And oftentimes, in river or in lake, </l>
 <l>The lover and his love their merry bath would take. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse4">
 <l>'Twas thou, thou, Honour, first </l>
 <l>That didst deny our thirst </l>
@@ -601,7 +597,7 @@ has already appeared in this work. A translation of the whole of the
 <l>Thy work it is,—thou shade that wilt not move. </l>
 <l>That what was once the gift, is now the theft of Love. </l>
 </lg>
-<lb />
+<lb/>
 <lg xml:id="verse5">
 <l>Our sorrows and our pains, </l>
 <l>These are thy noble gains! </l>
@@ -629,4 +625,3 @@ has already appeared in this work. A translation of the whole of the
 </body>
 </text>
 </TEI>
-  
