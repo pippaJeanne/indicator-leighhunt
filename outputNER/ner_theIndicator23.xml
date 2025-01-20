@@ -297,7 +297,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?person_annotation_20250120013917356",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-20T06:39:17.356Z",
-	"dcterms:modified": "2025-01-20T06:39:17.356Z",
+	"dcterms:modified": "2025-01-20T06:39:34.261Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -328,7 +328,12 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#ElizabethMonson",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -430,7 +435,7 @@ lands, he goes to see the watchmaker, or the old boy at the Ship. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indicator. </speaker>
-<p>Excuse me. <persName key="Mrs. Jane">Madam</persName>. His mistress, christened <persName key="Elizabeth Monson">Elizabeth Monson</persName>, but more familiarly known by the appellation of <persName key="Elizabeth Monson">Bet
+<p>Excuse me. <persName key="Mrs. Jane">Madam</persName>. His mistress, christened <persName key="Elizabeth Monson">Elizabeth Monson</persName>, but more familiarly known by the appellation of <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet
 Monson</persName>, has been with him already. You remember the ballad—</p>
 
 <cit>
