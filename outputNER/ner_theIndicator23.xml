@@ -2534,9 +2534,7 @@ modern.
 <l>From <placeName type="region" key="Gotland" corresp="Sweden" cert="medium" ref="http://www.wikidata.org/entity/Q1027830">Gothland</placeName> to the <placeName type="region" key="Cape Finisterre" corresp="Spain" cert="medium" ref="http://www.wikidata.org/entity/Q1136198">Cape de Finisterre</placeName>, </l>
 <l>And every creek in <placeName type="country" key="United Kingdom" corresp="Great Britain" ref="http://www.wikidata.org/entity/Q145">Britain</placeName> and in <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName>. </l>
 <l>His barge ycleped was the Magdelain.</l> </lg>
-<note type="source">
-<bibl>
-<author><persName key="Geoffrey Chaucer">Chaucer</persName></author>, <title level="s">The Canterbury Tales</title><ref cert="high" evaluate="all" generatedBy="human" target="https://dbpedia.org/resource/The_Canterbury_Tales" xml:space="default"/>
+<note type="source"><bibl> <author>Chaucer</author>, <title level="s">The Canterbury Tales</title><ref cert="high" evaluate="all" generatedBy="human" target="https://dbpedia.org/resource/The_Canterbury_Tales" xml:space="default"/>
 </bibl>
 </note>
 </quote>
@@ -2554,7 +2552,7 @@ chink them so merry a bell,
 <note type="source">
 <bibl>
 <author><persName key="Geoffrey Chaucer">Chaucer</persName></author>, <title level="s">The Canterbury Tales</title>
-</bibl>
+<ref cert="high" evaluate="all" generatedBy="human" target="https://dbpedia.org/resource/The_Canterbury_Tales" xml:space="default"/></bibl>
 </note>
 </quote>
 </cit>
