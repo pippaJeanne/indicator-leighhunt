@@ -1398,7 +1398,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?title_annotation_20250120023310604",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-20T07:33:10.604Z",
-	"dcterms:modified": "2025-01-20T07:33:10.604Z",
+	"dcterms:modified": "2025-01-20T07:33:49.744Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1429,7 +1429,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/page/The_Canterbury_Tales",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1858,7 +1860,7 @@ the Britannia or the Lovely Nancy, for a statue in the garden; where
 it stares eternally with red cheeks and round black eyes, as if in
 astonishment at <choice><orig>it's</orig><reg>its</reg></choice> situation. </p>
 
-<p><persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, who wrote his <title key="The Canterbury Tales" level="s">Canterbury Tales</title> about four hundred and 
+<p><persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, who wrote his <title key="The Canterbury Tales" level="s" ref="https://dbpedia.org/page/The_Canterbury_Tales">Canterbury Tales</title> about four hundred and 
 thirty years ago, has among his other characters in that work a <persName type="fictional" key="The Shipman">Shipman</persName>, 
 who is exactly of the same cast as the modern sailor,—the same 
 robustness, courage, and rough drawn virtue, doing <choice><orig>it's</orig><reg>its</reg></choice> duty, without 
