@@ -1556,7 +1556,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?place_annotation_20250120023558826",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-20T07:35:58.826Z",
-	"dcterms:modified": "2025-01-20T07:35:58.826Z",
+	"dcterms:modified": "2025-01-20T07:36:14.488Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1587,7 +1587,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q383079",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2042,7 +2044,7 @@ modern.
 <l>The hot summer had made his hew all brown. </l>
 <l>And certainly he was a good felaw. </l>
 <l>Full many a draught of wine he haddë draw </l>
-<l>From <placeName type="city" key="Bourdeaux" corresp="France">Bourdeaux</placeName> ward, while that the chapman slep. </l>
+<l>From <placeName type="city" key="Bourdeaux" corresp="France" ref="http://www.wikidata.org/entity/Q383079">Bourdeaux</placeName> ward, while that the chapman slep. </l>
 <l>Of nice conscience took he no keep. </l>
 <l>If that he fought and had the higher hand, </l>
 <l>By water he sent 'em home to every land. </l>
