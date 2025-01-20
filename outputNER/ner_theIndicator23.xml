@@ -61,7 +61,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator23.xml?person_annotation_20250120010126112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-20T06:01:26.112Z",
-	"dcterms:modified": "2025-01-20T06:01:26.112Z",
+	"dcterms:modified": "2025-01-20T06:05:31.039Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -95,7 +95,9 @@ issue ({Month} {Day}, {Year}) -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://www.cliffsnotes.com/literature/j/joseph-andrews/character-analysis/mrs-slipslop",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -154,7 +156,7 @@ preservation.
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
 <head type="header" rend="center uppercase">Lady's Maid<note type="Hunt">The great changes produced in people's fortunes by the nature of the times, 
-have unfortunately rendered this title but too common to a great variety of females; many of whom will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops">Mrs. Slipslops</persName> of the last century.
+have unfortunately rendered this title but too common to a great variety of females; many of whom will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops" ref="https://www.cliffsnotes.com/literature/j/joseph-andrews/character-analysis/mrs-slipslop">Mrs. Slipslops</persName> of the last century.
 </note>.—Seamen on Shore.</head>
 
 <p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to go to sea again, 
