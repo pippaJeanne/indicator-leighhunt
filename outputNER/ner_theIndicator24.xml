@@ -381,7 +381,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120212556123",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T02:25:56.123Z",
-	"dcterms:modified": "2025-01-21T02:30:21.590Z",
+	"dcterms:modified": "2025-01-21T03:07:55.658Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1984,7 +1984,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120220713984",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T03:07:13.984Z",
-	"dcterms:modified": "2025-01-21T03:07:13.984Z",
+	"dcterms:modified": "2025-01-21T03:07:26.913Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2015,7 +2015,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Dante_Alighieri",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2247,7 +2249,7 @@ issue ({Month} {Day}, {Year}) -->
     But not to go on quoting lines which are ever in people's mouths like 
     a popular tune, take a passage from the same poet less familiar to 
     one's every-day recollections. It is in his <title key="Arcades (Milton)" level="m" ref="http://dbpedia.org/resource/Arcades_(Milton)">Arcadian Mask</title>, which was 
-    performed by some of <persName key="Earl of Derby" ref="http://dbpedia.org/resource/Earl_of_Derby" type="real">the Derby family</persName> at their seat at <placeName type="city" key="Harefield" corresp="England" ref="http://www.wikidata.org/entity/Q2243312">Harefield</placeName>, near 
+    performed by some of <persName key="Earl of Derby" ref="http://dbpedia.org/resource/Earl_of_Derby" type="real" xml:id="Derbys">the Derby family</persName> at their seat at <placeName type="city" key="Harefield" corresp="England" ref="http://www.wikidata.org/entity/Q2243312">Harefield</placeName>, near 
     <placeName type="city" key="Uxbridge" corresp="England" ref="http://www.wikidata.org/entity/Q3552816">Uxbridge</placeName>. The Genius of the place, meeting the noble shepherds and 
     shepherdesses, accosts them:— 
     
@@ -2450,7 +2452,7 @@ issue ({Month} {Day}, {Year}) -->
     to be richer for us the other day, when <persName key="Alexander von Humboldt" cert="medium" ref="https://dbpedia.org/resource/Alexander_von_Humboldt" type="real">Humboldt</persName> came back and told 
     us of its luxuriant and gigantic vegetation; of the myriads of shooting 
     lights, which revel at evening in the southern sky: and of that grand 
-    constellation, at which <persName key="Dante">Dante</persName> seems to have made so remarkable a 
+    constellation, at which <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> seems to have made so remarkable a 
     guess. <note type="hunt">(Purgatorio, Cant. .1, v. 22.)</note> The natural warmth of the Mexican 
     and Peruvian genius, set free from despotism, will soon do all the 
     rest for it; awaken the sleeping riches of its eyesight, and call forth 
