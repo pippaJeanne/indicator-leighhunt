@@ -1180,7 +1180,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120215049872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T02:50:49.872Z",
-	"dcterms:modified": "2025-01-21T02:50:49.872Z",
+	"dcterms:modified": "2025-01-21T02:51:22.161Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1211,7 +1211,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/William_Shakespeare",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1539,7 +1541,7 @@ issue ({Month} {Day}, {Year}) -->
     remained for <persName key="Milton">Milton</persName> to 
     render it a particular midnight recreation to <q type="written">purged ears,</q><!--struggle to find credible source--> after the 
     earthly toils of the day. And we partake of it with the Genius. We 
-    may say of the Love of Nature, what <persName key="William Shakespeare">Shakspeare</persName> says of another Love, 
+    may say of the Love of Nature, what <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName> says of another Love, 
     that it 
     <cit>
    <quote>
