@@ -3693,7 +3693,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105003699",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:50:03.699Z",
-	"dcterms:modified": "2025-01-21T15:50:03.699Z",
+	"dcterms:modified": "2025-01-21T15:50:46.522Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3724,7 +3724,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Giambattista_Marino",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3734,6 +3736,85 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105050192",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:50:50.192Z",
+	"dcterms:modified": "2025-01-21T15:51:30.355Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105050192#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105050192#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_Milton",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4215,9 +4296,9 @@ his followers sometimes heap a line with descriptive nouns or adjectives;
 and that delightful wild fellow <persName key="Luigi Pulci" cert="medium" ref="http://dbpedia.org/resource/Luigi_Pulci" type="real">Pulci</persName> seems to take a pleasure 
 even in repeating a multitude of notes of interrogation, and beginning 
 a whole stanza or more with the same word. The over-tendency to 
-contrast may also be traced to the Italians, especially as <persName key="Giambattista Marino" cert="medium">Marino</persName> was 
+contrast may also be traced to the Italians, especially as <persName key="Giambattista Marino" cert="medium" ref="https://dbpedia.org/resource/Giambattista_Marino" type="real">Marino</persName> was 
 now becoming admired in England, and every body had not strength 
-to resist his crowding syrens like <persName key="Milton">Milton</persName>. The other faults are perhaps 
+to resist his crowding syrens like <persName key="John Milton" ref="https://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. The other faults are perhaps 
 owing to <persName key="Edward Fairfax">Fairfax</persName>'s having chosen to abide by the stanza of the 
 original; for not being so great a master of his native language as 
 <persName key="Edmund Spenser">Spenser</persName>, who with his additional line seemed to defy difficulty in this 
