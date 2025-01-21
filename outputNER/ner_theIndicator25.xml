@@ -3610,10 +3610,10 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104614574",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104945381",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-21T15:46:14.574Z",
-	"dcterms:modified": "2025-01-21T15:46:35.688Z",
+	"dcterms:created": "2025-01-21T15:49:45.381Z",
+	"dcterms:modified": "2025-01-21T15:50:00.017Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3624,7 +3624,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104614574#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104945381#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
@@ -3638,7 +3638,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104614574#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104945381#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/persName[4]"
 		}
@@ -3690,10 +3690,10 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104701424",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105003699",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-21T15:47:01.424Z",
-	"dcterms:modified": "2025-01-21T15:48:50.604Z",
+	"dcterms:created": "2025-01-21T15:50:03.699Z",
+	"dcterms:modified": "2025-01-21T15:50:03.699Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3704,7 +3704,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104701424#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105003699#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
@@ -3718,15 +3718,13 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121104701424#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105003699#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://dbpedia.org/resource/San_Marino",
-		"dc:format": "text/plain"
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4214,7 +4212,7 @@ sometimes with a certain gentle and continuous beauty. It is clear,
 at any rate, that the Italians, from a feeling of that sort, gave rise to it
 themselves, though <persName key="Edward Fairfax">Fairfax</persName> has carried it to an excess. <persName key="Francesco Petrarca" ref="https://dbpedia.org/resource/Petrarch" type="real">Petrarch</persName> and 
 his followers sometimes heap a line with descriptive nouns or adjectives; 
-and that delightful wild fellow <persName key="Luigi Pulci" cert="medium">Pulci</persName> seems to take a pleasure 
+and that delightful wild fellow <persName key="Luigi Pulci" cert="medium" ref="http://dbpedia.org/resource/Luigi_Pulci" type="real">Pulci</persName> seems to take a pleasure 
 even in repeating a multitude of notes of interrogation, and beginning 
 a whole stanza or more with the same word. The over-tendency to 
 contrast may also be traced to the Italians, especially as <persName key="Giambattista Marino" cert="medium">Marino</persName> was 
