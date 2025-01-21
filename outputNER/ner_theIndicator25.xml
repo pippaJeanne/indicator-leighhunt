@@ -226,6 +226,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231353400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T04:13:53.400Z",
+	"dcterms:modified": "2025-01-21T15:56:06.449Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4248,7 +4249,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105535190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:55:35.190Z",
-	"dcterms:modified": "2025-01-21T15:55:35.190Z",
+	"dcterms:modified": "2025-01-21T15:55:53.523Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4276,6 +4277,86 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105535190#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[21]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#Tasso",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105615541",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:56:15.541Z",
+	"dcterms:modified": "2025-01-21T15:56:15.541Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105615541#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105615541#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[21]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -4320,7 +4401,7 @@ preservation.
 <head type="catalogue">No. XXV.—<date when="1820-03-29">WEDNESDAY, March 29th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center uppercase"><persName key="John Hoole" ref="https://dbpedia.org/resource/John_Hoole" type="real" xml:id="Hoole">Hoole</persName>'s and <persName key="Edward Fairfax" ref="https://dbpedia.org/page/Edward_Fairfaxhttps://dbpedia.org/resource/Edward_Fairfax" type="real" xml:id="Fairfax">Fairfax</persName>'s <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" type="real">Tasso</persName></head>
+<head type="header" rend="center uppercase"><persName key="John Hoole" ref="https://dbpedia.org/resource/John_Hoole" type="real" xml:id="Hoole">Hoole</persName>'s and <persName key="Edward Fairfax" ref="https://dbpedia.org/page/Edward_Fairfaxhttps://dbpedia.org/resource/Edward_Fairfax" type="real" xml:id="Fairfax">Fairfax</persName>'s <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" type="real" xml:id="Tasso">Tasso</persName></head>
 <note type="editorial"> Hunt's essay would prove influentially convincing enough
 as to become the introduction to a subsequent 1851 edition of Thomas
 Fairfax's translation, Godfrey of Bulloigne: Or, The Recovery of
@@ -4818,7 +4899,7 @@ some cold looking places, and scratch through a few of <persName key="Edward Fai
 and obscurities, and you come upon a noble territory, full of 
 the romantic and the sweet, of stately and of lovely shapes, of woods, 
 waters, and sunny pleasures,—with drearier seclusions apart, and fields 
-of sonorous battle. We do not wonder that <persName key="William Collins">Collins</persName> was fond of <persName key="Torquato Tasso" cert="medium">this 
+of sonorous battle. We do not wonder that <persName key="William Collins">Collins</persName> was fond of <persName key="Torquato Tasso" cert="medium" ref="#Tasso" type="real">this 
 author</persName> and <persName key="Edward Fairfax" cert="medium">his translator</persName>, since <persName key="Samuel Johnson">Johnson</persName> has told us, in that piece of 
 prose music of his, that <q type="written">he loved fairies, genii, and monsters,</q> —that
 <q type="written">he delighted to rove through the meanders of enchantment, to gaze 
