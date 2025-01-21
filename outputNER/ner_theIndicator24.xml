@@ -3111,7 +3111,7 @@ issue ({Month} {Day}, {Year}) -->
   <lg rend="center"><l>For oft we still must weep, since we are human: </l></lg>
    </quote>
    <note type="source" cert="high">
-  <bibl><author>Percy Bysshe Shelley</author><title level="a">The Revolt of Islam</title> <biblScope cert="high" unit="chapter" xml:space="default">Canto V</biblScope></bibl>
+  <bibl><author>Percy Bysshe Shelley</author><title level="a">The Revolt of Islam</title> <biblScope cert="high" unit="chapter" >Canto V</biblScope></bibl>
    </note>
     </cit> 
     
@@ -3154,7 +3154,7 @@ issue ({Month} {Day}, {Year}) -->
     put figures in the landscape if there are none there, flocks and herds, 
     or a solitary spectator, or <persName key="Venus (mythology)" ref="http://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName> lying with her white body among the 
     violets and primroses. Let a musician go through, and he will hear 
-    <q type="written">differences discreet</q><note type="source"><bibl><author>Edmund Spenser</author><title level="m">The Faerie Queen</title><biblScope cert="high" unit="volume" xml:space="default">Book 2</biblScope> <biblScope cert="high" unit="chapter" xml:space="default">Canto 12</biblScope></bibl></note> in the notes of the birds and the lapsing of the 
+    <q type="written">differences discreet</q><note type="source"><bibl><author>Edmund Spenser</author><title level="m">The Faerie Queen</title><biblScope cert="high" unit="volume" >Book 2</biblScope> <biblScope cert="high" unit="chapter" >Canto 12</biblScope></bibl></note> in the notes of the birds and the lapsing of the 
     water-fall. He will fancy a serenade of wind instruments in the open 
     air at the lady's window, with a voice rising through it; or the horn 
     of the hunter; or the musical cry of the hounds,
@@ -3198,7 +3198,7 @@ issue ({Month} {Day}, {Year}) -->
    <note type="source">
   <bibl>
  <author>John Milton</author>
-  <title level="a">L'Allegro</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=L%27Allegro+by+John+Milton" xml:space="default"/>
+  <title level="a">L'Allegro</title><ref target="https://www.google.com/search?q=L%27Allegro+by+John+Milton"/>
   </bibl>
    </note>
     </cit>
@@ -3269,12 +3269,12 @@ issue ({Month} {Day}, {Year}) -->
    <note type="source">
   <bibl>
  <author>John Milton</author>
-   <title level="m">Arcades</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=Arcades+by+John+Milton" xml:space="default"/>
+   <title level="m">Arcades</title><ref target="https://www.google.com/search?q=Arcades+by+John+Milton"/>
   </bibl></note>
     </cit>
 
 <q type="written"><persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>'s Genius of the Grove,</q> says <persName key="Thomas Warton" ref="http://dbpedia.org/resource/Thomas_Warton" type="real">Warton</persName>, <q type="written">being a spirit sent
-    from <persName key="Jupiter">Jove</persName>, and commissioned from heaven to exercise a preternatural
+    from <persName key="Jupiter (mythology)" ref="http://dbpedia.org/resource/Jupiter_(mythology)" type="fictional">Jove</persName>, and commissioned from heaven to exercise a preternatural
     guardianship over the <q type="written">saplings tall,</q> to avert every noxious influence, 
     and <q type="written">to visit every sprout with puissant words, and murmurs made to 
     bless,</q> had the privilege, not indulged to gross mortals, of hearing the 
@@ -3285,24 +3285,24 @@ issue ({Month} {Day}, {Year}) -->
     is locked up in sleep and silence.</q>
 <note type="source" cert="high">
   <bibl>
- <editor>Thomas Warton</editor>,<title level="s">Poems Upon Several Occasions, English, Italian, and Latin, with Translations</title><author>John Milton</author><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=Poems+Upon+Several+Occasions%2C+English%2C+Italian%2C+and+Latin%2C+with+Translations+by+John+Milton%2C+ed.+Thomas+Warton" xml:space="default"/>
+ <editor>Thomas Warton</editor>,<title level="s">Poems Upon Several Occasions, English, Italian, and Latin, with Translations</title><author>John Milton</author><ref target="https://www.google.com/search?q=Poems+Upon+Several+Occasions%2C+English%2C+Italian%2C+and+Latin%2C+with+Translations+by+John+Milton%2C+ed.+Thomas+Warton"/>
   </bibl>
 </note>
     <note type="hunt">
    If the reader wishes to indulge himself in a volume full of sheer poetry with a
    pleasant companion, familiar with the finest haunts of the Muses, he cannot do
-   better than get <persName key="Thomas Warton">Warton</persName>'s Edition of the Minor Poems of <persName key="Milton">Milton</persName>. The principal
+   better than get <persName key="Thomas Warton" ref="http://dbpedia.org/resource/Thomas_Warton" type="real">Warton</persName>'s Edition of the Minor Poems of <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>. The principal
    notes have been transferred by <persName key="Henry John Todd" ref="https://dbpedia.org/resource/Henry_Todd_(priest)" type="real">Mr. Todd</persName> to the sixth volume of his own valuable
-   Edition of <title level="s" key="The Poetical Works of John Milton" ref="https://www.google.com/search?q=the+poetical+works+of+john+milton+Henry+John+Todd"><persName key="Milton">Milton</persName>'s Poetical Works</title>; but it is better to have a good thing entire.
+   Edition of <title level="s" key="The Poetical Works of John Milton" ref="https://www.google.com/search?q=the+poetical+works+of+john+milton+Henry+John+Todd"><persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>'s Poetical Works</title>; but it is better to have a good thing entire.
    The two together might be still better; but a work complete now-a-days, in one
    volume, is—a work complete.
 </note>
     The music of the spheres is the 
     old Platonic or Pythagorean doctrine; but it
-    remained for <persName key="Milton">Milton</persName> to 
+    remained for <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName> to 
     render it a particular midnight recreation to <q type="written">purged ears,</q><!--struggle to find credible source--> after the 
     earthly toils of the day. And we partake of it with the Genius. We 
-    may say of the Love of Nature, what <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real">Shakspeare</persName> says of another Love, 
+    may say of the Love of Nature, what <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName> says of another Love, 
     that it 
     <cit>
    <quote>
@@ -3330,13 +3330,13 @@ issue ({Month} {Day}, {Year}) -->
  <l rend="indent">The gentle gales, </l>
  <l>Fanning their odoriferous wings, dispense </l>
  <l>Native perfumes; and whisper whence they stole </l>
- <l>Those balmy spoils.-------------<note type="hunt"><bibl><title level="m"><hi rend="italic">Paradise Lost</hi></title><biblScope cert="high" unit="volume" xml:space="default">B.4</biblScope></bibl></note></l>
+ <l>Those balmy spoils.-------------<note type="hunt"><bibl><title level="m"><hi rend="italic">Paradise Lost</hi></title>, <biblScope unit="volume">B.4</biblScope></bibl></note></l>
   </lg>
    </quote>
    <note type="source">
   <bibl>
  <author>John Milton</author>
-    <title level="m">Paradise Lost</title><biblScope cert="high" unit="volume" xml:space="default">Book IV</biblScope>
+    <title level="m">Paradise Lost</title><biblScope cert="high" unit="volume" >Book IV</biblScope>
   </bibl>
 </note>
     </cit>
@@ -3360,9 +3360,9 @@ issue ({Month} {Day}, {Year}) -->
     objects therefore, inasmuch as they come home to us, are as true 
     a part of the population of nature, as visible ones; and they are infinitely 
     more abundant. Between the tree of a country clown, and the 
-    tree of a <persName key="Milton">Milton</persName> or <persName key="Edmund Spenser" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, what a difference in point of productiveness! 
+    tree of a <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName> or <persName key="Edmund Spenser" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, what a difference in point of productiveness! 
     Between the plodding of a sexton through a church-yard, and 
-    the walk of a Gray, what a difference! What a difference between the Bermudas of a ship-builder, and the Bermoothes of <persName key="William Shakespeare">Shakspeare</persName>; 
+    the walk of a Gray, what a difference! What a difference between the Bermudas of a ship-builder, and the Bermoothes of <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>; 
     the isle 
     <cit>
    <quote>
@@ -3416,8 +3416,8 @@ issue ({Month} {Day}, {Year}) -->
     the glad music of its affections. </p>
 
     <p> To return to our parks or landscapes, and what the poets can make 
-    of them. It is not improbable that <persName key="Milton">Milton</persName>, by his Genius of the 
-    Grove at <placeName type="city" key="Harefield" corresp="England">Harefield</placeName>, covertly intended himself. He had been applied 
+    of them. It is not improbable that <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, by his Genius of the 
+    Grove at <placeName type="city" key="Harefield" corresp="England" ref="http://www.wikidata.org/entity/Q2243312">Harefield</placeName>, covertly intended himself. He had been applied 
     to by the <persName key="The Derbys" ref="#Derbys">Derbys</persName> to write some holiday poetry for them. He puts 
     his consent in the mouth of the Genius, whose band, he says, curls the 
     
@@ -3435,7 +3435,7 @@ issue ({Month} {Day}, {Year}) -->
 <cit>
       <quote>
   <lg rend="center">
- <l>Thou art not, <placeName type="city" key="Penshurst" corresp="England">Penshurst</placeName>, built to envious show, </l>
+ <l>Thou art not, <placeName type="city" key="Penhurst" corresp="England" ref="https://www.wikidata.org/wiki/Q20081045">Penshurst</placeName>, built to envious show, </l>
  <l>Or touch, of marble; nor canst boast a row </l>
  <l>Of polished pillars, or a roof of gold; </l>
  <l>Thou hast no lantern, whereof tales are told; </l>
@@ -3491,7 +3491,7 @@ issue ({Month} {Day}, {Year}) -->
    <note type="source">
   <bibl>
  <author>Ben Jonson</author>
-    <title level="a">To Penshurst</title>. <ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson" xml:space="default"/></bibl>
+    <title level="a">To Penshurst</title>. <ref target="https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson"/></bibl>
    </note>
     </cit>
     
@@ -3507,26 +3507,18 @@ issue ({Month} {Day}, {Year}) -->
  <author>William Davenant
  </author>
     <title>Gondibert: An Heroick Poem</title>, <biblScope>Canto V, verse xxxvii</biblScope>
-<ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant" xml:space="default"/>  </bibl> </note>
+<ref target="https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant"/>  </bibl> </note>
     </cit>
 
     <pb n="192"/> 
 
-    The moon is <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>'s and <persName key="William Shakespeare">Shakspeare</persName>'s moon, as well as the one we 
+    The moon is <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>'s and <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>'s moon, as well as the one we 
     look at. The sun comes out of his chamber in the east, with a sparkling
     eye,<q type="written">rejoicing like a bridegroom.</q><note type="source"> Seemingly a conflated paraphrase of <bibl><title>Psalms</title> 19:5</bibl>.</note> The commonest thing becomes 
     like <persName type="fictional" key="Aaron">Aaron</persName>'s rod, that budded. <persName key="Alexander Pope" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName> called up the spirits of 
     the Cabala<note type="editorial">Kabbalah (also spelled Kabalah, Cabala, Qabala) is a part of Jewish mysticism tradition which refers to the received wisdom from the essence of God.</note> to wait upon a lock of hair, and justly gave it the honours 
-    of a constellation; for he has hung it, sparkling for ever, in the eyes 
-    of posterity. A common meadow is a sorry thing to a ditcher or a 
-    coxcomb; but by the help of <choice><orig>it's</orig><reg>its</reg></choice> dues from imagination and the love 
-    of nature, the grass brightens for us, the air soothes us, we feel as we 
-    did in the daisied hours of childhood. <choice><orig>it's</orig><reg>its</reg></choice> verdures, <choice><orig>it's</orig><reg>its</reg></choice> sheep, <choice><orig>it's</orig><reg>its</reg></choice> 
-    hedge row elms,—all these, and all else which sight, and sound, and 
-    association can give it, are made to furnish a treasure of pleasant 
-    thoughts. Even brick and mortar are vivified, as of old at the harp of 
-    <persName key="Orpheus" ref="http://dbpedia.org/resource/Orpheus" type="fictional">Orpheus</persName>. A metropolis becomes no longer a mere collection of houses 
-    or of trades. It puts on all the grandeur of <choice><orig>it's</orig><reg>its</reg></choice> history, and <choice><orig>it's</orig><reg>its</reg></choice> literature; 
+    of a constellation; for he has hung it, sparkling for ever, in the eyes of posterity. A common meadow is a sorry thing to a ditcher or a coxcomb; but by the help of <choice><orig>it's</orig><reg>its</reg></choice> dues from imagination and the love 
+    of nature, the grass brightens for us, the air soothes us, we feel as we did in the daisied hours of childhood. <choice><orig>it's</orig><reg>its</reg></choice> verdures, <choice><orig>it's</orig><reg>its</reg></choice> sheep, <choice><orig>it's</orig><reg>its</reg></choice> hedge row elms, —all these, and all else which sight, and sound, and association can give it, are made to furnish a treasure of pleasant thoughts. Even brick and mortar are vivified, as of old at the harp of <persName key="Orpheus" ref="http://dbpedia.org/resource/Orpheus" type="fictional">Orpheus</persName>. A metropolis becomes no longer a mere collection of houses or of trades. It puts on all the grandeur of <choice><orig>it's</orig><reg>its</reg></choice> history, and <choice><orig>it's</orig><reg>its</reg></choice> literature; 
     <choice><orig>it's</orig><reg>its</reg></choice> towers, and rivers; <choice><orig>it's</orig><reg>its</reg></choice> art, and jewelry, and foreign 
     wealth; its multitude of human beings all intent upon excitement, 
     wise or yet to learn; the huge and sullen dignity of <choice><orig>it's</orig><reg>its</reg></choice> canopy of 
