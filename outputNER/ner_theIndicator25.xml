@@ -2863,6 +2863,83 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102210907",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:22:10.907Z",
+	"dcterms:modified": "2025-01-21T15:22:10.907Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102210907#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102210907#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[10]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -3101,7 +3178,7 @@ devils. It is <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource
 <l>When vapours, pent within, <hi rend="italic">contend for birth</hi>.</l>
 <l rend="right"><note type="hunt"><hi rend="smallcaps">Hoole</hi>, Book 4, v.17.</note></l></lg>
 </quote>
-<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>John Hoole</editor><ref target="https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg"/>Book 4</bibl></note>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>John Hoole</editor><ref target="https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope></bibl></note>
 </cit> 
 
 <p><persName key="Edward Fairfax">Fairfax</persName>, though he translates the concluding couplet rather from 
