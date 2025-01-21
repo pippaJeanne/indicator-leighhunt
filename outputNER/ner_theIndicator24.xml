@@ -393,7 +393,7 @@ issue ({Month} {Day}, {Year}) -->
   <lg rend="center"><l>For oft we still must weep, since we are human: </l></lg>
    </quote>
    <note type="source" cert="high">
-  <bibl><author>Percy Bysshe Shelley</author><title level="a">The Revolt of Islam</title> <biblScope>Canto V</biblScope></bibl>
+  <bibl><author>Percy Bysshe Shelley</author><title level="a">The Revolt of Islam</title> <biblScope cert="high" unit="volume" xml:space="default">Canto V</biblScope></bibl>
    </note>
     </cit> 
     
