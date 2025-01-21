@@ -2414,9 +2414,7 @@ preservation.
 <person xml:id="lady-m">
 <persName type="standard">Lady's Maid</persName>
 <persName type="form">Lady's M.</persName>
-</person>
-<person xml:id="lady">
-<persName type="standard">Lady</persName>
+<persName type="form">Lady</persName>
 </person>
 </listPerson>
 </particDesc>
@@ -2437,12 +2435,9 @@ preservation.
 <head type="catalogue">No. XXIII.<date when="1820-03-15">—WEDNESDAY, MARCH 15th, 1820.</date></head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center uppercase">Lady's Maid<note type="Hunt">The great changes produced in people's fortunes by the nature of the times, 
-have unfortunately rendered this title but too common to a great variety of females; many of whom will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops" ref="https://www.cliffsnotes.com/literature/j/joseph-andrews/character-analysis/mrs-slipslop">Mrs. Slipslops</persName> of the last century.
-</note>.—Seamen on Shore.</head>
+<head type="header" rend="center uppercase">Lady's Maid<note type="Hunt">The great changes produced in people's fortunes by the nature of the times, have unfortunately rendered this title but too common to a great variety of females; many of whom will not at all come under our present description. The Lady's Maid in the text is heiress to the Honours and <persName type="fictional" key="Mrs. Slipslops" ref="https://www.cliffsnotes.com/literature/j/joseph-andrews/character-analysis/mrs-slipslop">Mrs. Slipslops</persName> of the last century.</note>.—Seamen on Shore.</head>
 
-<p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to go to sea again, 
-is to take as much pleasure as he can. The moment he sets his foot 
+<p><hi rend="smallcaps">The</hi> sole business of a seaman on shore, who has to go to sea again, is to take as much pleasure as he can. The moment he sets his foot 
 on dry-ground, he turns his back on all salt-beef and other salt-water 
 restrictions. His long absence, and the impossibility of getting land 
 pleasures at sea, put him upon a sort of desperate appetite. He lands,
@@ -2480,14 +2475,13 @@ lands, he goes to see the watchmaker, or the old boy at the Ship. </p>
 <p>What, Sir? Before his mistress?</p>
 </sp>
 <sp who="#indi">
-<speaker>Indicator. </speaker>
-<p>Excuse me. <persName key="Mrs. Jane">Madam</persName>. His mistress, christened <persName key="Elizabeth Monson">Elizabeth Monson</persName>, but more familiarly known by the appellation of <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet
-Monson</persName>, has been with him already. You remember the ballad—</p>
+<speaker>Indicator.</speaker>
+<p>Excuse me. <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Madam</persName>. His mistress, christened <persName key="Elizabeth Monson" type="fictional" xml:id="ElizabethMonson">Elizabeth Monson</persName>, but more familiarly known by the appellation of <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet Monson</persName>, has been with him already. You remember the ballad—</p>
 
 <cit>
     <quote>
         <lg rend="center">
-<l>When black-eyed Susan came on board. </l>
+<l>When black-eyed <persName key="Susan" type="fictional">Susan</persName> came on board. </l>
 </lg>
 </quote>
     <note type="source"> 
@@ -2496,13 +2490,13 @@ Monson</persName>, has been with him already. You remember the ballad—</p>
 </cit>
 </sp>
 <sp who="#lady-m">
-<speaker>Lady's Maid. </speaker>
+<speaker>Lady's Maid.</speaker>
 <p>I hope,  Sir, you are not going to be vulgar in your
 remarks. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>Good God, <persName key="Mrs. Jane">Mrs. Jane</persName>, why should you think so! I am
+<p>Good God, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, why should you think so! I am
 sure your lady does not expect it, or I should have had none but men
 for listeners on this subject. </p>
 </sp>
@@ -2516,54 +2510,27 @@ and you know they are rather vulgar. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>I'm sure, <persName key="Mrs. Jane">Mrs. Jane</persName>, I didn't think so, three years back,
-when you handed me that frothed glass of porter, with your pretty
-fingers, on a hot summer's day, under the great elm-tree there, at the
-door of <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
+<p>I'm sure, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, I didn't think so, three years back, when you handed me that frothed glass of porter, with your pretty fingers, on a hot summer's day, under the great elm-tree there, at the door of <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>.</p>
 </sp>
 
 <pb n="178"/>
 
 <sp who="#lady-m">
-<speaker>Lady's M. </speaker>
-<p><choice><corr>Lord</corr><sic>Lard</sic></choice> in heaven, <persName key="Mr. Hindergaiter">Mr. Hindergaiter</persName>, why I vow you're
-a witch! Who'd have thought you'd have ever known that I kept my
-father-in-law's house for him, while my poor mother was laid up with
-the rheumatiz, all along of that vixen (God forgive me!) my own
-great aunt, who wouldn't let her come home one night in the shay,
-because she had married <persName key="Tom Butts">Tom Butts</persName> after being the wife of a Serjeant
-of Dragoons. And yet I must say for <persName key="Tom Butts">Mr. Butts</persName>, that for a landlord,
-and a man in a vulgarish situation, he was as well-behaved a man
-though a bold one, and might hold up his head as high, and was as
-kind and good-natured, and was as free from pride, and said as civil
-things to a body—— </p>
+<speaker>Lady's M.</speaker>
+<p><choice><corr>Lord</corr><sic>Lard</sic></choice> in heaven, <persName key="Mr. Hindergaiter" type="fictional" ref="#indi" cert="low">Mr. Hindergaiter</persName>, why I vow you're a witch! Who'd have thought you'd have ever known that I kept my father-in-law's house for him, while my poor mother was laid up with the rheumatiz, all along of that vixen (God forgive me!) my own great aunt, who wouldn't let her come home one night in the shay, because she had married <persName key="Tom Butts" type="fictional" xml:id="Butts">Tom Butts</persName> after being the wife of a Serjeant of Dragoons. And yet I must say for <persName key="Tom Butts" type="fictional" ref="#Butts">Mr. Butts</persName>, that for a landlord, and a man in a vulgarish situation, he was as well-behaved a man though a bold one, and might hold up his head as high, and was as kind and good-natured, and was as free from pride, and said as civil things to a body—— </p>
 </sp>
-<sp who="#lady">
+<sp who="#lady-m">
 <speaker>Lady. </speaker>
-<p>In short, <persName key="Mrs. Jane">Jane</persName>, he was not vulgar, and your dear old vixen
-of a great aunt was. There is no vulgarity, child, but impertinence
-and common cant; or being gross and ignorant, and proud of both;
-or having a feeling for all, and being ashamed of it. Remember the
-ragged sailor whom you kissed. </p>
+<p>In short, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Jane</persName>, he was not vulgar, and your dear old vixen of a great aunt was. There is no vulgarity, child, but impertinence and common cant; or being gross and ignorant, and proud of both; or having a feeling for all, and being ashamed of it. Remember the ragged sailor whom you kissed. </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
 <p>Lord, Ma'am, and did you see me kiss my poor brother
-<persName key="William">William</persName>? For it was my own brother. Ma'am, who you've
-heard me speak of—in the navy; and he was so ragged then, because
-he had to cross the whole country to his home, and had spent all his
-money at <placeName type="city" key="Portsmouth" corresp="England" ref="http://www.wikidata.org/entity/Q72259">Portsmouth</placeName>; and so I gave him my box of half-crowns, and
-he's now captain's clerk's man, and it was he as sent me that live tortoise
-that made me scream so, and the cocoa-cup, and the shawl, and
-the purse made of grass, and the Hoty-hity feathers; and I do think, if
-he was here, I could kiss him again, if he was as ragged as a rag-or-a-muffin,
-before all the world, aye, even before <persName key="Sally Jones">Sally Jones</persName>. </p>
+<persName key="William" type="fictional">William</persName>? For it was my own brother. Ma'am, who you've heard me speak of––in the navy; and he was so ragged then, because he had to cross the whole country to his home, and had spent all his money at <placeName type="city" key="Portsmouth" corresp="England" ref="http://www.wikidata.org/entity/Q72259">Portsmouth</placeName>; and so I gave him my box of half-crowns, and he's now captain's clerk's man, and it was he as sent me that live tortoise that made me scream so, and the cocoa-cup, and the shawl, and the purse made of grass, and the Hoty-hity feathers; and I do think, if he was here, I could kiss him again, if he was as ragged as a rag-or-a-muffin, before all the world, aye, even before <persName key="Sally Jones" type="fictional">Sally Jones</persName>.</p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>Good. Now there you come round, <persName key="Mrs. Jane">Mrs. Jane</persName>, to the true
-point of politeness. I thought you better bred than you supposed,
-since I recollected how good-natured you looked at <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
+<p>Good. Now there you come round, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, to the true point of politeness. I thought you better bred than you supposed, since I recollected how good-natured you looked at <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
@@ -2571,61 +2538,44 @@ since I recollected how good-natured you looked at <placeName type="Pub" key="th
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>Nay, I assure you I do not think you even more genteel
-than you were then. </p>
+<p>Nay, I assure you I do not think you even more genteel than you were then. </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
-<p>Nay, now, <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="Mr. Hingy-grater" type="fictional">Mr. Hingy-grater</persName>, I'm sure you flatter. </p>
+<p>Nay, now, <persName key="Mr. Hingy-grater" type="fictional" ref="#indi" cert="low">Mr. Hingy-grater</persName>, I'm sure you flatter. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>But pray, <persName key="Mrs. Jane">Mrs. Jane</persName>, who is the awful presence of <persName key="Sally Jones">Sally
-Jones</persName>? </p>
+<p>But pray, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, who is the awful presence of <persName key="Sally Jones" type="fictional">Sally Jones</persName>? </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
 <p>Presents, Sir? She never gives no presents, lawful or
 unlawful, not she: not for that matter never gets none, as I know of;
 except mayhap a brass-thimble at Christmas, or a two-penny song-book,
-or a Trifle, as they very properly calls it, from <placeName type="city" key="Margate" corresp="England">Margate</placeName>, with
-a piece of looking-glass in the inside, to see her proud, affected,
-niminy-piminy face in. </p>
+or a Trifle, as they very properly calls it, from <placeName type="city" key="Margate" corresp="England" ref="https://www.wikidata.org/wiki/Q618045">Margate</placeName>, with a piece of looking-glass in the inside, to see her proud, affected, niminy-piminy face in. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>But why should she object to your kissing your brother <persName key="William">William</persName>? </p>
+<p>But why should she object to your kissing your brother <persName key="William" type="fictional">William</persName>? </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
-<p>Oh, forsooth, <choice><orig>it's</orig><reg>its</reg></choice> vulgar, Sir! So she said, when I kissed 
+<p>Oh, forsooth, it's vulgar, Sir! So she said, when I kissed 
 him before her once; as if one's brother was'nt one's brother; and as 
-for that, she'd kiss her cousin fast enough before twenty people, if he'd 
-make any thing like an advantage. She is but a maid at boarding-school, 
-where I was; and never writes Miss on my letters; and yet 
-whenever she goes home to her father's, who is nothing but a little 
+for that, she'd kiss her cousin fast enough before twenty people, if he'd make any thing like an advantage. She is but a maid at boarding-school, where I was; and never writes Miss on my letters; and yet whenever she goes home to her father's, who is nothing but a little 
 petty green-grocer in an alley, she insists, forsooth, on my Missing and 
 
 <pb n="179"/>
 
 Missing her, or she wont send me any news of the private theatre; and 
-and she knows that vexes me, because I really have a taste for the stage, 
-and once played second part at school to Miss Gollogher. She 
-was the Fair Penitent, Sir; a tall brown girl, <hi rend="smallcaps">horn-bone pine</hi><note type="editorial">un bon point?</note>, as the 
-French say; and a great fortune, though her father did keep a dog-shop. 
-But she called it a Managearee. So, Sir, <hi rend="smallcaps"><persName key="Miss Sarah Jones">Miss Sarah Jones</persName></hi> 
-never condescends to write Miss to me, though she daredn't wear her 
-hair without a cap at boarding-school, to save her head; and my lady 
-always permits me to wear my hair in a comb, to distinguish me from 
-common helpers and such like. And besides that, though I have worn 
-a cap, I never wore black worsted stockings as she does; nor never 
-set mop upon floor. As to sailors, she cannot abide <choice><corr>'em</corr><sic>'en</sic></choice>. </p>
+and she knows that vexes me, because I really have a taste for the stage, and once played second part at school to <persName key="Miss Gollogher" type="fictional">Miss Gollogher</persName>. She 
+was the Fair Penitent, Sir; a tall brown girl, <hi rend="smallcaps">horn-bone pine</hi><note type="editorial">un bon point?</note>, as the French say; and a great fortune, though her father did keep a dog-shop. But she called it a Managearee. So, Sir, <hi rend="smallcaps"><persName key="Miss Sarah Jones" type="fictional" xml:id="Sarah">Miss Sarah Jones</persName></hi> never condescends to write Miss to me, though she daredn't wear her hair without a cap at boarding-school, to save her head; and my lady always permits me to wear my hair in a comb, to distinguish me from common helpers and such like. And besides that, though I have worn a cap, I never wore black worsted stockings as she does; nor never set mop upon floor. As to sailors, she cannot abide <choice><corr>'em</corr><sic>'en</sic></choice>.</p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>But you, <persName key="Mrs. Jane">Mrs. Jane</persName>, can: and let me tell you, that that is not
-the least advantage which you have over <persName key="Miss Sarah Jones">Miss Sarah Jones</persName>. So we will
-go on with our picture. </p>
+<p>But you, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, can: and let me tell you, that that is not
+the least advantage which you have over <persName key="Miss Sarah Jones" type="fictional">Miss Sarah Jones</persName>. So we will go on with our picture. </p>
 </sp>
 <p>The first object of the seaman on landing is to spend his money: but 
 his first sensation is the strange firmness of the earth, which he goes 
@@ -2647,21 +2597,11 @@ his pocket. Thus equipped, with pinchbeck buckles in his shoes
 (which he bought for gold) he puts some tobacco in his mouth, not as if 
 he were going to use it directly, but as if he stuffed it in a pouch on
 one side, as a pelican does fish, to employ it hereafter: and so, with 
-<persName key="Elizabeth Monson">Bet Monson</persName> at his side, and perhaps a cane or whanghee twisted under 
+<persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet Monson</persName> at his side, and perhaps a cane or whanghee twisted under 
 his other arm, sallies forth to take possession of all Lubberland. He 
 buys every thing that he comes athwart,—nuts, gingerbread, apples, 
 shoe-strings, beer, brandy, gin, buckles, knives, a watch, (two, if he 
-has money enough), gowns and handkerchiefs for <persName key="Elizabeth Monson">Bet</persName>, and his mother 
-and sisters, dozens of <q type="soCalled">Superfine Best Men's Cotton Stockings,</q> 
-dozens of <q type="soCalled">Superfine Best Women's Cotton Ditto,</q> best good Check 
-for Shirts (though he has too much already), infinite needles and thread 
-(to sew his trowsers with some day), a footman's laced hat, Bear's 
-Grease to make his hair grow (by way of joke,) several sticks, all sorts 
-of Jew articles, a flute (which he can't play, and never intends), a leg 
-of mutton which he carries somewhere to roast, and for a piece of 
-which the landlord of the Ship makes him pay twice what he gave for 
-the whole;—in short, all that money can be spent upon, which is 
-every thing but medicine gratis; and this he would insist on paying 
+has money enough), gowns and handkerchiefs for <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet</persName>, and his mother and sisters, dozens of <q type="soCalled">Superfine Best Men's Cotton Stockings,</q> dozens of <q type="soCalled">Superfine Best Women's Cotton Ditto,</q> best good Check for Shirts (though he has too much already), infinite needles and thread (to sew his trowsers with some day), a footman's laced hat, Bear's Grease to make his hair grow (by way of joke,) several sticks, all sorts of Jew articles, a flute (which he can't play, and never intends), a leg of mutton which he carries somewhere to roast, and for a piece of which the landlord of the Ship makes him pay twice what he gave for the whole;—in short, all that money can be spent upon, which is every thing but medicine gratis; and this he would insist on paying 
 
 <pb n="180"/>
 
@@ -2670,15 +2610,13 @@ on purpose to break them, rather than not spend his money. He has
 fiddles and a dance at the Ship, with oceans of flip and grog; and gives 
 the blind fiddler tobacco for sweetmeats, and half a crown for treading 
 on his toe. He asks the landlady, with a sigh, after her daughter
-<persName key="Nance">Nance</persName> who first fired his heart with her silk-stockings; and finding 
+<persName key="Nance" type="fictional">Nance</persName> who first fired his heart with her silk-stockings; and finding 
 that she is married and in trouble, leaves five crowns for her; which 
 the old lady appropriates as part payment for a shilling in advance. 
-He goes to the port playhouse with <persName key="Elizabeth Monson">Bet Monson</persName>, and a great red handkerchief 
-full of apples, gingerbread nuts, and fresh beef; calls out for 
-the fiddlers and Rule Britannia; pelts <persName key="Tom Sikes">Tom Sikes</persName> in the pit; and compares 
+He goes to the port playhouse with <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet Monson</persName>, and a great red handkerchief full of apples, gingerbread nuts, and fresh beef; calls out for the fiddlers and Rule Britannia; pelts <persName key="Tom Sikes" type="fictional">Tom Sikes</persName> in the pit; and compares 
 <persName key="Othello" ref="https://dbpedia.org/resource/Othello" type="fictional">Othello</persName> to the black ship's cook in his white night-cap. When 
 he comes to <placeName type="city" key="London" corresp="England" ref="http://www.wikidata.org/entity/Q84">London</placeName>, he and some messmates take a hackney-coach, full 
-of <persName key="Elizabeth Monson">Bet Monson</persName>s and tobacco-pipes, and go through the streets smoking 
+of <persName key="Elizabeth Monson" ref="#ElizabethMonson" type="fictional">Bet Monson</persName>s and tobacco-pipes, and go through the streets smoking 
 and lolling out of window. He has ever been cautious of venturing 
 on horseback; and among his other sights in foreign parts, 
 relates with unfeigned astonishment how he has seen the Turks 
@@ -2686,9 +2624,7 @@ ride,—<q type="spoken">Only,</q> says he, guarding against the hearer's incred
 <q type="spoken">they have saddle-boxes to hold 'em in, fore and aft; 
 and shovels like for stirrups.</q> He will tell you how the Chinese
 drink, and the <hi rend="smallcaps">Negurs</hi> dance, and the <choice><corr>monkeys</corr><sic>monkies</sic></choice> pelt you 
-with cocoa-nuts; and how <persName key="King Domy">King Domy</persName> would have built him a mud hut 
-and made him a Peer of the Realm, if he would have stopped with 
-him and taught him to make <choice><corr>trousers</corr><sic>trowsers</sic></choice>. He has a sister at a <q type="soCalled">School
+with cocoa-nuts; and how <persName key="King Domy" type="fictional">King Domy</persName> would have built him a mud hut and made him a Peer of the Realm, if he would have stopped with him and taught him to make <choice><corr>trousers</corr><sic>trowsers</sic></choice>. He has a sister at a <q type="soCalled">School
 for Young Ladies,</q> who blushes with a mixture of pleasure and shame 
 at his appearance; and whose confusion he completes, by slipping
 four-pence into her hand, and saying out loud that he has <q type="distinct">no more
@@ -2721,18 +2657,12 @@ here, and inspect some real <placeName type="country" key="India" corresp="India
 
 says to himself, <q type="thought">This fellow knows what's what, by his face;</q> and 
 so he proves it by being taken in on the spot. When he brings the 
-shawls home, he says to his sister with an air of triumph, <q type="spoken">There,
-<persName key="Poll">Poll</persName>, there's something for you; only cost me twelve, and is worth
-twenty, if it's worth a dollar.</q> She turns pale—<q type="spoken">Twenty what, my
-dear <persName key="George">George</persName>? Why, you haven't given twelve dollars for it, I hope?</q> 
+shawls home, he says to his sister with an air of triumph, <q type="spoken">There, <persName key="Poll" type="fictional">Poll</persName>, there's something for you; only cost me twelve, and is worth
+twenty, if it's worth a dollar.</q> She turns pale—<q type="spoken">Twenty what, my dear <persName key="George" type="fictional">George</persName>? Why, you haven't given twelve dollars for it, I hope?</q> 
 <q type="spoken">Not I, by the Lord.</q>—<q type="spoken">That's lucky; because you see, my dear 
-<persName key="George">George</persName>, that all together is not worth more than fourteen or fifteen
-shillings.</q> <q type="spoken">Fourteen or fifteen what! Why, it's real <placeName type="country" key="India" corresp="India">India</placeName>, en't it?
-Why the fellow told me so; or I'm sure I'd as soon</q>—(here he tries 
-to hide his blushes with a bluster) <q type="spoken">I'd as soon have given him twelve
-douses on the chaps as twelve guineas.</q> <q type="spoken">Twelve <hi rend="smallcaps">guineas</hi>,</q> exclaims 
-the sister; and then drawling forth <q type="spoken">Why—my—<hi rend="smallcaps">dear</hi>
-—<persName key="George">George</persName>,</q> is proceeding to shew him what the articles would have cost 
+<persName key="George" type="fictional">George</persName>, that all together is not worth more than fourteen or fifteen
+shillings.</q> <q type="spoken">Fourteen or fifteen what! Why, it's real <placeName type="country" key="India" corresp="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>, en't it? Why the fellow told me so; or I'm sure I'd as soon</q>—(here he tries to hide his blushes with a bluster) <q type="spoken">I'd as soon have given him twelve douses on the chaps as twelve guineas.</q> <q type="spoken">Twelve <hi rend="smallcaps">guineas</hi>,</q> exclaims 
+the sister; and then drawling forth <q type="spoken">Why—my—<hi rend="smallcaps">dear</hi> —<persName key="George" type="fictional">George</persName>,</q> is proceeding to <choice><orig>shew</orig><reg>show</reg></choice> him what the articles would have cost 
 at <placeName type="commerce" key="Condell's" corresp="England">Condell's</placeName>, when he interrupts her by requesting her to go and 
 <choice><corr>choose</corr><sic>chuse</sic></choice> for herself a tea-table service. He then makes his escape to 
 some messmates at a coffee-house, and drowns his recollection of the 
@@ -2798,8 +2728,7 @@ and enquiring, one of the most agreeable old men in the world,
 equally welcome to the silent for his card-playing, and to the conversational
 for his recollections. He is fond of astronomy and books of
 voyages, and is immortal with all who know him for having been round
-the world, or seen the Transit of Venus, or had one of his fingers carried
-off by a <placeName type="country" key="New Zealand" corresp="New Zealand">New Zealand</placeName> hatchet, or a present of feathers from an
+the world, or seen the Transit of Venus, or had one of his fingers carried off by a <placeName type="country" key="New Zealand" corresp="New Zealand" ref="http://www.wikidata.org/entity/Q664">New Zealand</placeName> hatchet, or a present of feathers from an
 Otaheitean beauty. If not elevated by his acquirements above some
 of his humbler tastes, he delights in a corner-cupboard holding his
 cocoa-nuts and punchbowl; has his summer-house castellated and
@@ -2848,7 +2777,7 @@ modern.
 <l>From <placeName type="region" key="Gotland" corresp="Sweden" cert="medium" ref="http://www.wikidata.org/entity/Q1027830">Gothland</placeName> to the <placeName type="region" key="Cape Finisterre" corresp="Spain" cert="medium" ref="http://www.wikidata.org/entity/Q1136198">Cape de Finisterre</placeName>, </l>
 <l>And every creek in <placeName type="country" key="United Kingdom" corresp="Great Britain" ref="http://www.wikidata.org/entity/Q145">Britain</placeName> and in <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName>. </l>
 <l>His barge ycleped was the Magdelain.</l> </lg>
-<note type="source"><bibl> <author>Geoffrey Chaucer</author>, <title level="s">The Canterbury Tales</title><ref cert="high" evaluate="all" generatedBy="human" target="https://dbpedia.org/resource/The_Canterbury_Tales" xml:space="default"/>
+<note type="source"><bibl> <author>Geoffrey Chaucer</author>, <title level="s">The Canterbury Tales</title><ref target="https://dbpedia.org/resource/The_Canterbury_Tales"/>
 </bibl>
 </note>
 </quote>
@@ -2866,7 +2795,7 @@ chink them so merry a bell,
 <note type="source">
 <bibl>
 <author>Geoffrey Chaucer</author>, <title level="s">The Canterbury Tales</title>
-<ref cert="high" evaluate="all" generatedBy="human" target="https://dbpedia.org/resource/The_Canterbury_Tales" xml:space="default"/></bibl>
+<ref target="https://dbpedia.org/resource/The_Canterbury_Tales"/></bibl>
 </note>
 </quote>
 </cit>
