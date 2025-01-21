@@ -229,7 +229,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162520656",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T21:25:20.656Z",
-	"dcterms:modified": "2025-01-21T21:25:20.656Z",
+	"dcterms:modified": "2025-01-21T21:27:02.232Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -263,7 +263,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Hylonome",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -459,7 +461,7 @@ and not being ashamed of what is kindly and innocent.
 </p>
 </div2>
 <div2 type="section" n="2">
-<head type="header" rend="center uppercase">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome">Hylonome</persName>.</head>
+<head type="header" rend="center uppercase">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>.</head>
 
 <p>It is not one of the least instances of the force of habit, to see how 
 poetry and mythology can reconcile us to shapes, or rather combinations 
