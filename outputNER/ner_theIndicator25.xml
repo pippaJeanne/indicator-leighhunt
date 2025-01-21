@@ -1092,7 +1092,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121001547431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T05:15:47.431Z",
-	"dcterms:modified": "2025-01-21T05:15:47.431Z",
+	"dcterms:modified": "2025-01-21T05:16:23.066Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1123,7 +1123,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Alexander_Pope",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1219,7 +1221,7 @@ and their mistresses, in their pretty transparent Acrostic masks, walked
 forth by hundreds to meet each other in <placeName type="landmark" key="Poet's corner, Westminster Abbey" corresp="England" ref="https://dbpedia.org/resource/Poets'_Corner">Poet's Corner</placeName> in the
 magazines; and as nobody knew any thing about poetry, except that 
 it had to repeat <q type="soCalled">ingenious</q> common-places, to rhyme upon heart,
-impart, love, prove, &amp;c., and to pause, as <persName key="Alexander Pope">Pope</persName> did, upon the fourth 
+impart, love, prove, &amp;c., and to pause, as <persName key="Alexander Pope" ref="http://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName> did, upon the fourth 
 and fifth syllables, every body could write poetry, and admit it in 
 others: <persName key="Alexander Pope">Pope</persName>, whose real merits they did not understand after all, 
 was the greatest poet that ever lived; next to him were <persName key="Oliver Goldsmith" cert="medium">Goldsmith</persName>, 
