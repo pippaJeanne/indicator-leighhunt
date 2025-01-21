@@ -2520,7 +2520,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121004709984",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T05:47:09.984Z",
-	"dcterms:modified": "2025-01-21T05:47:09.984Z",
+	"dcterms:modified": "2025-01-21T05:47:53.364Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2551,7 +2551,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q63149480",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2738,7 +2740,7 @@ ourselves with a few more words upon <persName key="Edward Fairfax">Fairfax</per
 was of a distinguished family, the same as that of <persName key="Edward Fairfax">Fairfax</persName> the Parliament 
 General; and having an estate of his own, and the greater estates 
 of leisure and genius, he passed the whole of his days at a seat in the 
-<placeName type="physical" key="Forest of Knaresborough" corresp="England">Forest of Knaresborough</placeName>, in the bosom of his family, and in the cultivation 
+<placeName type="physical" key="Forest of Knaresborough" corresp="England" ref="http://www.wikidata.org/entity/Q63149480">Forest of Knaresborough</placeName>, in the bosom of his family, and in the cultivation 
 of poetry. He appears to have had all, and more than a poet 
 wants,—tranquillity, a fortune beyond competence, books, rural 
 scenes, and an age that could understand him. He flourished just at 
