@@ -1904,7 +1904,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120220623180",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T03:06:23.180Z",
-	"dcterms:modified": "2025-01-21T03:06:23.180Z",
+	"dcterms:modified": "2025-01-21T03:07:07.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1935,7 +1935,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Alexander_von_Humboldt",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1945,6 +1947,83 @@ issue ({Month} {Day}, {Year}) -->
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120220713984",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T03:07:13.984Z",
+	"dcterms:modified": "2025-01-21T03:07:13.984Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120220713984#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120220713984#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName[16]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2368,7 +2447,7 @@ issue ({Month} {Day}, {Year}) -->
     
     Such are the discoveries which the poets make for us;—worlds, to 
     which that of <persName key="Christopher Columbus" cert="medium" ref="https://dbpedia.org/resource/Christopher_Columbus" type="real">Columbus</persName> was but a handful of brute matter. It began 
-    to be richer for us the other day, when <persName key="Alexander von Humboldt" cert="medium">Humboldt</persName> came back and told 
+    to be richer for us the other day, when <persName key="Alexander von Humboldt" cert="medium" ref="https://dbpedia.org/resource/Alexander_von_Humboldt" type="real">Humboldt</persName> came back and told 
     us of its luxuriant and gigantic vegetation; of the myriads of shooting 
     lights, which revel at evening in the southern sky: and of that grand 
     constellation, at which <persName key="Dante">Dante</persName> seems to have made so remarkable a 
