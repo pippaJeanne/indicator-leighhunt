@@ -4329,7 +4329,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121105615541",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:56:15.541Z",
-	"dcterms:modified": "2025-01-21T15:56:15.541Z",
+	"dcterms:modified": "2025-01-21T15:56:39.689Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -4360,7 +4360,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#Fairfax",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4370,6 +4372,85 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121105727726",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:57:27.726Z",
+	"dcterms:modified": "2025-01-21T15:57:40.547Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121105727726#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121105727726#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[21]/title/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q106652",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4900,17 +4981,17 @@ and obscurities, and you come upon a noble territory, full of
 the romantic and the sweet, of stately and of lovely shapes, of woods, 
 waters, and sunny pleasures,—with drearier seclusions apart, and fields 
 of sonorous battle. We do not wonder that <persName key="William Collins">Collins</persName> was fond of <persName key="Torquato Tasso" cert="medium" ref="#Tasso" type="real">this 
-author</persName> and <persName key="Edward Fairfax" cert="medium">his translator</persName>, since <persName key="Samuel Johnson">Johnson</persName> has told us, in that piece of 
+author</persName> and <persName key="Edward Fairfax" cert="medium" ref="#Fairfax" type="real">his translator</persName>, since <persName key="Samuel Johnson">Johnson</persName> has told us, in that piece of 
 prose music of his, that <q type="written">he loved fairies, genii, and monsters,</q> —that
 <q type="written">he delighted to rove through the meanders of enchantment, to gaze 
 on the magnificence of golden palaces, and to repose by the waterfalls 
 of Elysium.</q>
 <note type="source"><bibl>
 <author>Samuel Johnson</author><title level="m"> Lives of the English
-Poets</title> in the chapter on Collins.<ref target="https://www.gutenberg.org/cache/epub/4678/pg4678-images.html"/></bibl></note>
+Poets</title> <biblScope>in the chapter on Collins</biblScope>.<ref target="https://www.gutenberg.org/cache/epub/4678/pg4678-images.html"/></bibl></note>
 
 <persName key="William Collins">Collins</persName> has given <persName key="Edward Fairfax">Fairfax</persName> a high and proud eulogy in 
-his <title key="An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry" level="a">ode on the Popular Superstitions of the <placeName type="region" key="Highlands" corresp="Scotland">Highlands</placeName></title>.—Speaking of 
+his <title key="An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry" level="a">ode on the Popular Superstitions of the <placeName type="region" key="Scottish Highlands" corresp="Scotland" ref="http://www.wikidata.org/entity/Q106652">Highlands</placeName></title>.—Speaking of 
 <persName key="Torquato Tasso">Tasso</persName> he says, 
 
 <cit>
