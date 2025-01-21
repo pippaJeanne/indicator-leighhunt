@@ -141,7 +141,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?title_annotation_20250120211300711",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T02:13:00.711Z",
-	"dcterms:modified": "2025-01-21T02:13:00.711Z",
+	"dcterms:modified": "2025-01-21T02:13:53.312Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -173,7 +173,7 @@ issue ({Month} {Day}, {Year}) -->
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://dbpedia.org/page/The_Vicar_of_Wakefield",
+		"@id": "https://dbpedia.org/resource/The_Vicar_of_Wakefield",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -218,7 +218,7 @@ issue ({Month} {Day}, {Year}) -->
 <p><hi rend="smallcaps">There</hi> is not a more unthinking way of talking, than to say such 
     and such pains and pleasures are only imaginary, and therefore to be got rid of 
     or undervalued accordingly. There is nothing imaginary, 
-    in the common acceptation of the word. The logic of <persName type="fictional" key="Moses">Moses</persName> in <title level="m" ref="https://dbpedia.org/page/The_Vicar_of_Wakefield" key="the Vicar of Wakefield">the 
+    in the common acceptation of the word. The logic of <persName type="fictional" key="Moses">Moses</persName> in <title level="m" key="The Vicar of Wakefield" ref="https://dbpedia.org/resource/The_Vicar_of_Wakefield">the 
     Vicar of Wakefield</title> is good argument here:— <q type="spoken">Whatever is, is.</q><note type="source" cert="high"><bibl><author>Oliver Goldsmith</author>, <title level="m">The Vicar of Wakefield</title><ref target="https://www.gutenberg.org/files/2667/2667-h/2667-h.htm"/></bibl></note>
     Whatever touches us, whatever moves us, does touch and does move 
     us. We recognize the reality of it, as we do that of a hand in the 
