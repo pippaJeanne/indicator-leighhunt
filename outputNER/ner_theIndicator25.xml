@@ -70,7 +70,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231130057",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T04:11:30.057Z",
-	"dcterms:modified": "2025-01-21T04:12:17.184Z",
+	"dcterms:modified": "2025-01-21T04:13:22.800Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -102,7 +102,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/John_Hoole",
+		"@id": "https://dbpedia.org/resource/John_Hoole",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -149,7 +149,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231220535",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T04:12:20.535Z",
-	"dcterms:modified": "2025-01-21T04:12:20.535Z",
+	"dcterms:modified": "2025-01-21T04:13:02.883Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -177,6 +177,85 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231220535#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/page/Edward_Fairfaxhttps://dbpedia.org/resource/Edward_Fairfax",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231328470",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T04:13:28.470Z",
+	"dcterms:modified": "2025-01-21T04:13:28.470Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231328470#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250120231328470#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -220,7 +299,7 @@ preservation.
 <head type="catalogue">No. XXV.—<date when="1820-03-29">WEDNESDAY, March 29th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center uppercase"><persName key="John Hoole" ref="https://dbpedia.org/page/John_Hoole" type="real">Hoole</persName>'s and <persName key="Edward Farifax">Fairfax</persName>'s <persName key="Torquato Tasso">Tasso</persName></head>
+<head type="header" rend="center uppercase"><persName key="John Hoole" ref="https://dbpedia.org/resource/John_Hoole" type="real" xml:id="Hoole">Hoole</persName>'s and <persName key="Edward Fairfax" ref="https://dbpedia.org/page/Edward_Fairfaxhttps://dbpedia.org/resource/Edward_Fairfax" type="real">Fairfax</persName>'s <persName key="Torquato Tasso">Tasso</persName></head>
 <note type="editorial"> Hunt's essay would prove influentially convincing enough
 as to become the introduction to a subsequent 1851 edition of Thomas
 Fairfax's translation, Godfrey of Bulloigne: Or, The Recovery of
