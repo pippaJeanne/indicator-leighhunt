@@ -2736,7 +2736,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121101907927",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:19:07.927Z",
-	"dcterms:modified": "2025-01-21T15:19:07.927Z",
+	"dcterms:modified": "2025-01-21T15:20:01.589Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2767,7 +2767,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Nicolas_Boileau-Despréaux",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2777,6 +2779,85 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102007582",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:20:07.582Z",
+	"dcterms:modified": "2025-01-21T15:20:07.582Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102007582#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102007582#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[9]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Pluto_(mythology)",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2999,10 +3080,10 @@ to <choice><corr>show</corr><sic>shew</sic></choice> what the Italian language c
 <note type="source"><bibl><author>Torquato Tasso</author><title level="m">Gerusalemme liberata</title><ref target="https://archive.org/details/gerusalemmeliberatatorquatotasso"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope> <biblScope cert="high" unit="part" xml:space="default">stanza 3</biblScope></bibl> </note>
 </cit>
 
-<p>This is certainly nothing like the <q type="term">tinsel</q> which <persName key="Nicolas Boileau" cert="medium">Boileau</persName> ventured to
+<p>This is certainly nothing like the <q type="term">tinsel</q> which <persName key="Nicolas Boileau-Despréaux" cert="medium" ref="http://dbpedia.org/resource/Nicolas_Boileau-Despréaux" type="real">Boileau</persName> ventured to
 talk about; but <persName key="John Hoole">Mr. Hoole</persName> would have made it so if he could. This 
 is his translation. He begins with making the trumpet convene the 
-devils. It is <persName key="Pluto">Pluto</persName> at Home,—or sending a court circular. </p>
+devils. It is <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)">Pluto</persName> at Home,—or sending a court circular. </p>
 
 <cit>
 <quote>
