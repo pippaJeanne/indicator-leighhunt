@@ -3135,7 +3135,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121102612182",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:26:12.182Z",
-	"dcterms:modified": "2025-01-21T15:26:12.182Z",
+	"dcterms:modified": "2025-01-21T15:26:33.707Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3166,7 +3166,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q822",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3479,7 +3481,7 @@ he renders the passage: </p>
 <l>And over seas and earth himselfe doth lift: </l>
 <l>Thus clad he cut the spheares and circles faire, </l>
 <l>And the pure skies with sacred feathers clift. </l>
-<l rend="indent">On <placeName type="country" key="Lebanon" corresp="Lebanon">Libanon</placeName> at first his foot he set, </l>
+<l rend="indent">On <placeName type="country" key="Lebanon" corresp="Lebanon" ref="http://www.wikidata.org/entity/Q822">Libanon</placeName> at first his foot he set, </l>
 <l rend="indent">And shooke his wings with roarie May-dewes wet. </l>
 <l rend="right"><note type="hunt"><hi rend="smallcaps">Fairfax</hi>, B.1.st.14.</note></l></lg>
 </quote>
