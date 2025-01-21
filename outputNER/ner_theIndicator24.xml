@@ -106,6 +106,85 @@ issue ({Month} {Day}, {Year}) -->
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?title_annotation_20250120211300711",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T02:13:00.711Z",
+	"dcterms:modified": "2025-01-21T02:13:00.711Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?title_annotation_20250120211300711#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?title_annotation_20250120211300711#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/page/The_Vicar_of_Wakefield",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
   <!-- Add any encoding information or guidelines here if applicable -->
   <p>
@@ -139,7 +218,7 @@ issue ({Month} {Day}, {Year}) -->
 <p><hi rend="smallcaps">There</hi> is not a more unthinking way of talking, than to say such 
     and such pains and pleasures are only imaginary, and therefore to be got rid of 
     or undervalued accordingly. There is nothing imaginary, 
-    in the common acceptation of the word. The logic of <persName type="fictional" key="Moses">Moses</persName> in <title level="m">the 
+    in the common acceptation of the word. The logic of <persName type="fictional" key="Moses">Moses</persName> in <title level="m" ref="https://dbpedia.org/page/The_Vicar_of_Wakefield" key="the Vicar of Wakefield">the 
     Vicar of Wakefield</title> is good argument here:— <q type="spoken">Whatever is, is.</q><note type="source" cert="high"><bibl><author>Oliver Goldsmith</author>, <title level="m">The Vicar of Wakefield</title><ref target="https://www.gutenberg.org/files/2667/2667-h/2667-h.htm"/></bibl></note>
     Whatever touches us, whatever moves us, does touch and does move 
     us. We recognize the reality of it, as we do that of a hand in the 
