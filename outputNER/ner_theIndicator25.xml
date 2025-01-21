@@ -3214,7 +3214,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121103019883",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:30:19.883Z",
-	"dcterms:modified": "2025-01-21T15:30:19.883Z",
+	"dcterms:modified": "2025-01-21T15:31:53.245Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3245,10 +3245,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": [
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		]
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Jesus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3595,10 +3594,10 @@ think. </p>
 <l>It seem'd some quire (that sung with art and skill) </l>
 <l>Dwelt on those savage dennes and shadie ground; </l>
 <l rend="indent">For oft resounded from the banks they heare </l>
-<l rend="indent">The name of <persName type="fictional" key="Jesus Christ">Christ</persName> and of his mother deare. </l>
+<l rend="indent">The name of <persName type="real" key="Jesus" ref="https://dbpedia.org/resource/Jesus">Christ</persName> and of his mother deare. </l>
 <l rend="right"><note type="hunt"><hi rend="smallcaps">Fairfax</hi>, B.11. st.11</note></l></lg>
 </quote>
-<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/>Book 11 stanza 11.</bibl></note>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 11</biblScope> <biblScope cert="high" unit="part" xml:space="default">stanza 11</biblScope>.</bibl></note>
 </cit>
 
 <p>Another specimen of <persName key="John Hoole">Mr. Hoole</persName>, and we have done with him. It is 
