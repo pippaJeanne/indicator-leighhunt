@@ -3340,6 +3340,86 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121103657116",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T15:36:57.116Z",
+	"dcterms:modified": "2025-01-21T15:36:57.116Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121103657116#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121103657116#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		]
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -3745,7 +3825,7 @@ but we must restrain ourselves. In further illustration of what we
 have said about the lines which he has inserted of his own, or altered 
 to his own ideas, and the sympathy which he still keeps up with his 
 author's feelings, we will just refer to his calling <persName type="fictional" key="Armida" ref="https://dbpedia.org/resource/Armida">Armida</persName>, when she 
-sets off, <note type="hunt">(4. v. 27.)</note> the Syrians' <q type="written">night-ambling dame,</q><note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope> stanza 27.</bibl></note>—to the two 
+sets off, <note type="hunt">(4. v. 27.)</note> the Syrians' <q type="written">night-ambling dame,</q><note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope> <biblScope cert="high" unit="part" xml:space="default">stanza 27</biblScope>.</bibl></note>—to the two 
 lines <note type="hunt">(2. v. 26.)</note> in which he calls <persName type="fictional" key="Sophronia">Sophronia</persName> in the hands of the malefactors 
 a <q type="written">dumb</q> and <q type="written">silver dove;</q><note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/>Book 2 stanza 26.</bibl></note>—to the neighing of the horses, 
 and clattering of arms, <note type="hunt">(1. v.73)</note> which, he says, 
