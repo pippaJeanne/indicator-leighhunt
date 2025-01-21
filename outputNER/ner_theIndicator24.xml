@@ -1403,7 +1403,7 @@ issue ({Month} {Day}, {Year}) -->
   <l rend="indent">Matched in mouth like bells, </l>
   <l>Each under each; </l></lg>
    </quote>
-   <note type="source" cert="high"><bibl><author>William Shakespeare</author><title>A Midsummer Night's Dream</title><biblScope cert="high" unit="part" xml:space="default">Act IV, scene i</biblScope></bibl> </note>
+   <note type="source" cert="high"><bibl><author>William Shakespeare</author><title>A Midsummer Night's Dream</title><biblScope>Act IV, scene i</biblScope></bibl> </note>
     </cit>
 
     <pb n="188"/> 
