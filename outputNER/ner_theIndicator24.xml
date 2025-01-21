@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.0 -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-   It is not intended as a fixed structure, but rather collects some of the most common
-   structural elements for convenience and uniformity. Please add/remove elements as
-   necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
    <!-- File Description -->
    <fileDesc>
@@ -16,7 +9,7 @@
   </titleStmt>
 
   <publicationStmt>
- <p />
+ <p/>
   </publicationStmt>
 
   <!-- Author information -->
@@ -33,7 +26,87 @@ issue ({Month} {Day}, {Year}) -->
    </fileDesc>
 
    <!-- Encoding Description -->
-   <encodingDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120211120671",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T02:11:20.671Z",
+	"dcterms:modified": "2025-01-21T02:11:20.671Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120211120671#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120211120671#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		]
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
   <!-- Add any encoding information or guidelines here if applicable -->
   <p>
  Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -50,16 +123,14 @@ issue ({Month} {Day}, {Year}) -->
     <text>
    <body>
   <div1 type="issue" n="24">
- <pb n="185" /> <!-- Page beginning -->
+ <pb n="185"/> <!-- Page beginning -->
  <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
     <l>There he arriving round about doth flie,</l>
     <l>And takes survey with busie, curious eye:</l>
     <l>Now this, now that, he tasteth tenderly.</l>
-    <l><persName key="Edmund Spenser"
-  ref="http://www.wikidata.org/entity/Q4352055"
-  cert="high" type="real">SPENSER</persName>.</l>
+    <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue">No. XXIV.—<date when="1820-03-22">WEDNESDAY, MARCH 22d, 1820</date>.</head>
  </div2>
@@ -96,7 +167,7 @@ issue ({Month} {Day}, {Year}) -->
     this differ in effect from the impression left by any other touch, however 
     mysterious? An ox knocked down by a butcher, and a man 
     
-    <pb n="186" /> 
+    <pb n="186"/> 
     
     knocked down by a fit of the apoplexy, equally feel themselves compelled 
     to drop. The tickling of a straw and of a comedy equally 
@@ -151,7 +222,7 @@ issue ({Month} {Day}, {Year}) -->
     And yet those who see farther, may not all see so well. We do not 
     blind our eyes with looking upon the sun in the heavens. We believe 
     
-    <pb n="187" />
+    <pb n="187"/>
     
     it to be there, but we find <choice><orig>it's</orig><reg>its</reg></choice> light upon earth also; and we would 
     lead humanity, if we could, out of misery and coldness into the shine 
@@ -217,7 +288,7 @@ issue ({Month} {Day}, {Year}) -->
    <note type="source" cert="high"><bibl><author>William Shakespeare</author><title>A Midsummer Night's Dream</title>Act IV, scene i</bibl> </note>
     </cit>
 
-    <pb n="188" /> 
+    <pb n="188"/> 
     
     or a solitary voice in a bower, singing for an expected lover; or the 
     chapel organ, waking up like the fountain of the winds. Let a poet 
@@ -294,7 +365,7 @@ issue ({Month} {Day}, {Year}) -->
  <l>When evening gray doth rise, I fetch my round </l>
  <l>Over the mount, and all thie hallowed ground;</l>
  
- <pb n="189" />
+ <pb n="189"/>
  
  <l>And early, ere the odorous breath of morn </l>
  <l>Awakes the slumbering leaves, or tassel'd horn </l>
@@ -391,7 +462,7 @@ issue ({Month} {Day}, {Year}) -->
 </note>
     </cit>
 
-    <pb n="190" /> 
+    <pb n="190"/> 
     
     The poets are called creators (<!-- rend Greek Ποἰῃταἰ -->, Makers), because with their 
     magical words, they bring forth to our eyesight the abundant images 
@@ -471,7 +542,7 @@ issue ({Month} {Day}, {Year}) -->
     to by the <persName role="family" key="The Derbys">Derbys</persName> to write some holiday poetry for them. He puts 
     his consent in the mouth of the Genius, whose band, he says, curls the 
     
-    <pb n="191" /> 
+    <pb n="191"/> 
     
     ringlets of the grove, and who refreshes himself at midnight with listening 
     to the music of the spheres: that is to say, whose hand confers 
@@ -560,7 +631,7 @@ issue ({Month} {Day}, {Year}) -->
   </bibl> </note>
     </cit>
 
-    <pb n="192" /> 
+    <pb n="192"/> 
 
     The moon is <persName key="Homer">Homer</persName>'s and <persName key="William Shakespeare">Shakspeare</persName>'s moon, as well as the one we 
     look at. The sun comes out of his chamber in the east, with a sparkling
@@ -589,11 +660,11 @@ issue ({Month} {Day}, {Year}) -->
 <p>We will consider the suggestion respecting a List of Books; though our Correspondent
     will see in our present Number, one reason among others, which must at
     least prevent us from being in a hurry on the subject. </p>
-<lb />
+<lb/>
 <p>
     <hi rend="smallcaps">Mottoes</hi>.—Are the Mottoes in question heraldic ones; or any others already 
     existing? </p>
-<lb />
+<lb/>
 <p>
     The Verses of B. and of <persName key="W. B. W.">W. B. W.</persName> have their graces and other merits; but we
     are obliged to be so chary in this Department, that they must think as kindly as
