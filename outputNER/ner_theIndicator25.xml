@@ -1331,7 +1331,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121002014256",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T05:20:14.256Z",
-	"dcterms:modified": "2025-01-21T05:20:48.207Z",
+	"dcterms:modified": "2025-01-21T05:23:08.303Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1693,6 +1693,85 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121002312020",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T05:23:12.020Z",
+	"dcterms:modified": "2025-01-21T05:23:29.741Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121002312020#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121002312020#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#Johnson",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -1783,7 +1862,7 @@ and fifth syllables, every body could write poetry, and admit it in
 others: <persName key="Alexander Pope">Pope</persName>, whose real merits they did not understand after all, 
 was the greatest poet that ever lived; next to him were <persName key="Oliver Goldsmith" cert="medium" ref="https://dbpedia.org/resource/Oliver_Goldsmith" type="real">Goldsmith</persName>, 
 and <persName key="william Collins" cert="medium">Collins</persName>, and <persName key="Thomas Gray" cert="medium">Gray</persName>, the two latter however very little understood; 
-then, or perhaps before them, was <persName key="Samuel Johnson" ref="https://dbpedia.org/resource/Samuel_Johnson" type="real">Dr. Johnson</persName>, whom our master at 
+then, or perhaps before them, was <persName key="Samuel Johnson" ref="https://dbpedia.org/resource/Samuel_Johnson" type="real" xml:id="Johnson">Dr. Johnson</persName>, whom our master at 
 school gave us as a poetical model: then came, in their respective 
 circles, though at due distance, <persName type="fictional" key="Mr.Jenkins">Mr. Jenkins</persName>, <persName type="fictional" key="Mr. Tomkins">Mr. Tomkins</persName>, or <persName type="fictional" key="Mr. Hipkins">Mr. 
 Hipkins</persName>, who wrote lines on the beautiful Miss Y. of <placeName type="city" key="Bristol" corresp="England" ref="http://www.wikidata.org/entity/Q23154">Bristol</placeName>, or the 
@@ -1794,7 +1873,7 @@ of verses; which he accordingly did.</p>
 
 <p>That <persName key="Samuel Johnson">Dr. Johnson</persName> should speak a good word for <persName key="John Hoole">Mr. Hoole</persName>, much 
 less write a dedication for him, is not surprising; though what a poet 
-must he be, who goes to another to write a dedication for him! <persName key="Samuel Johnson">Johnson</persName> 
+must he be, who goes to another to write a dedication for him! <persName key="Samuel Johnson" ref="#Johnson" type="real">Johnson</persName> 
 was in the habit of writing dedications for those who were conscious 
 of not being good turners of a prose paragraph, and who wished 
 to approach the great with a proper one; and <persName key="John Hoole">Mr. Hoole</persName>, it seems, 
