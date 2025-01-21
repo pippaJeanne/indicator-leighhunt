@@ -2816,7 +2816,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102007582",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:20:07.582Z",
-	"dcterms:modified": "2025-01-21T15:20:07.582Z",
+	"dcterms:modified": "2025-01-21T15:20:58.374Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2847,7 +2847,10 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "http://dbpedia.org/resource/Pluto_(mythology)",
 		"dc:format": "text/plain"
 	},
@@ -3083,7 +3086,7 @@ to <choice><corr>show</corr><sic>shew</sic></choice> what the Italian language c
 <p>This is certainly nothing like the <q type="term">tinsel</q> which <persName key="Nicolas Boileau-Despréaux" cert="medium" ref="http://dbpedia.org/resource/Nicolas_Boileau-Despréaux" type="real">Boileau</persName> ventured to
 talk about; but <persName key="John Hoole">Mr. Hoole</persName> would have made it so if he could. This 
 is his translation. He begins with making the trumpet convene the 
-devils. It is <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)">Pluto</persName> at Home,—or sending a court circular. </p>
+devils. It is <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)" type="fictional">Pluto</persName> at Home,—or sending a court circular. </p>
 
 <cit>
 <quote>
