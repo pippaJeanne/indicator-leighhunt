@@ -3455,7 +3455,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?place_annotation_20250121104105471",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:41:05.471Z",
-	"dcterms:modified": "2025-01-21T15:41:05.471Z",
+	"dcterms:modified": "2025-01-21T15:41:32.314Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3486,7 +3486,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q690575",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3919,11 +3921,11 @@ of conceit, yet beautiful, he tells us,
 <cit>
 <quote>
 <lg rend="center">
-<l>The marble goddesse, set at <placeName type="city" key="Knidos" corresp="Turkey">Gnidos</placeName> naked. </l>
+<l>The marble goddesse, set at <placeName type="city" key="Knidos" corresp="Turkey" ref="http://www.wikidata.org/entity/Q690575">Gnidos</placeName> naked. </l>
 <l>She seem'd, were she uncloath'd, or that awaked; — </l>
 </lg>
 </quote>
-<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/>Book 4 stanza 29.</bibl></note>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope> stanza 29.</bibl></note>
 </cit>
 
 and to the issuing forth of the devils <note type="hunt">(4. v. 18.)</note> which as the stanza is
