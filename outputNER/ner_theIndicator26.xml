@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-It is not intended as a fixed structure, but rather collects some of the most common
-structural elements for convenience and uniformity. Please add/remove elements as
-necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <!-- File Description -->
 <fileDesc>
@@ -18,7 +11,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <!-- Author information -->
@@ -38,7 +31,88 @@ Appleyard</publisher> <!-- Publisher details if available -->
 </fileDesc>
 
 <!-- Encoding Description -->
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162054681",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T21:20:54.681Z",
+	"dcterms:modified": "2025-01-21T21:20:54.681Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162054681#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162054681#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[6]/note/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		]
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -55,16 +129,14 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="26">
-<pb n="201" /> <!-- Page beginning -->
+<pb n="201"/> <!-- Page beginning -->
 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
 <l>There he arriving round about doth flie,</l>
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.</l>
-<l><persName key="Edmund Spenser"
-ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue">No. XXVI.—<date when="1820-04-05">WEDNESDAY, April 5th, 1820</date>.</head>
 </div2>
@@ -100,7 +172,7 @@ towards a child surviving, or to indulge in any other sympathy. It is
 an appeal to the same gentle tenderness; and such appeals are never 
 made in vain. The end of them is an acquittal from the harsher bonds 
 
-<pb n="202" />
+<pb n="202"/>
 
 of affliction,—from the tying down of the spirit to one melancholy 
 idea. </p>
@@ -155,7 +227,7 @@ to quarrel with pains of every sort. This would be idle and
 effeminate. They do not pretend indeed, that humanity might not 
 wish, if it could, to be entirely free from pain; for it endeavours at all 
 
-<pb n="203" />
+<pb n="203"/>
 
 times to turn pain into pleasure, or at least to set off the one with the 
 other; to make the former a zest, and the latter a refreshment. The 
@@ -202,14 +274,14 @@ neighbours with the same idea.<note type="hunt">
 <q type="spoken">I sighed,</q> says old <persName type="fictional" key="Captain Stawarth Bolton" cert="medium">Captain Bolton</persName>, <q type="spoken">when
 I envied you the two bonnie children, but I sigh not now to call either the
 monk or the soldier mine own.</q>--Monastery, Vol. III, p. 341
-<note type="source"><bibl><author>Walter Scott</author><title level="m">Monastery</title>Vol. III<ref target="https://archive.org/details/scottmonastery03/page/n8/mode/1up"/></bibl></note></note> 
+<note type="source"><bibl><author>Walter Scott</author><title level="m">Monastery</title><biblScope cert="high" unit="volume" xml:space="default">Vol. III</biblScope><ref target="https://archive.org/details/scottmonastery03/page/n8/mode/1up"/></bibl></note></note> 
 The other children grow up to 
 manhood and womanhood, and suffer all the changes of mortality. 
 This one alone is rendered an immortal child. Death has arrested it 
 with his kindly harshness, and blessed it into an eternal image of 
 youth and innocence.</p>
 
-<pb n="204" />
+<pb n="204"/>
 
 <p>Of such as these are the pleasantest shapes that visit our fancy and 
 our hopes. They are the ever-smiling emblems of joy; the prettiest 
@@ -248,7 +320,7 @@ of flight, we can easily fancy ourselves reconciled to them. And yet
 again, on the other hand, the Flying Women, described in the <title key="The Life and Adventures Of Peter Wilkins" level="m">Adventures 
 of Peter Wilkins</title><note type="editorial">Hunt here refers to The Life and Adventures of Peter Wilkins by Robert Paltock published in 1751</note>, do not shock us, though their wings partake 
 of the ribbed and webbed nature, and not at all of the feathered. We 
-admire <persName type="fictional" key="Peter Wilkins">Peter</persName>'s gentle and beautiful <persName type="fictional" key="Youwarkee"></persName>bride, notwithstanding the phenomenon 
+admire <persName type="fictional" key="Peter Wilkins">Peter</persName>'s gentle and beautiful <persName type="fictional" key="Youwarkee"/>bride, notwithstanding the phenomenon 
 of the Graundee, <choice><orig>it's</orig><reg>its</reg></choice> light whalebone-like intersections, and <choice><orig>it's</orig><reg>its</reg></choice> power of dropping about her like drapery. It even becomes a 
 matter of pleasant curiosity. We find it not at all in the way. We 
 can readily apprehend the delight he felt at possessing a creature so 
@@ -257,7 +329,7 @@ bridal evening, equally removed from prudery and grossness, which
 he describes with a mixture of sentiment and voluptuousness beyond 
 all the bridals we ever read. </p>
 
-<pb n="205" />
+<pb n="205"/>
 
 <p>To imagine any thing like a sympathy of this kind, it is of course 
 necessary that the difference of form should consist in addition, and 
@@ -317,7 +389,7 @@ wonder with which men on horse-back were first regarded. When the Mexicans
 first beheld Cortes and his cavalry, they were struck with the same
 idea. </note> But <persName key="Ovid">Ovid</persName> is as powerful in his way, as the 
 
-<pb n="206" />
+<pb n="206"/>
 
 English reader may see in the versions of <persName key="John Dryden">Dryden</persName> and <persName key="George Sandys">Sandys</persName>. <persName key="Phidias">Phidias</persName> 
 has relieved the ferocity of his story with some exquisite figures 
@@ -368,7 +440,7 @@ affections.</p>
 <l rend="indent">After a human way. </l>
 </lg>
 
-<pb n="207" />
+<pb n="207"/>
 
 <lg type="stanza" xml:id="verse2">
 <l>His beard was in the flowery bud </l>
@@ -437,7 +509,7 @@ affections.</p>
 <l rend="indent">Beside her and before. </l>
 </lg>
 
-<pb n="208" />
+<pb n="208"/>
 
 <lg type="stanza" xml:id="verse13">
 <l>And twice a day, in lapsing wells </l>
