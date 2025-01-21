@@ -3485,7 +3485,7 @@ he renders the passage: </p>
 <l rend="indent">And shooke his wings with roarie May-dewes wet. </l>
 <l rend="right"><note type="hunt"><hi rend="smallcaps">Fairfax</hi>, B.1.st.14.</note></l></lg>
 </quote>
-<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/>Book 1 stanza 14.</bibl></note>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 1</biblScope> <biblScope cert="high" unit="part" xml:space="default">stanza 14</biblScope>.</bibl></note>
 </cit>
 <p>The most striking part of the beautiful choral stanza describing the <choice>
 <corr>chanting</corr><sic>chaunting</sic></choice> of the army is totally omitted in <persName key="John Hoole">Hoole</persName>'s version. We suppose 
