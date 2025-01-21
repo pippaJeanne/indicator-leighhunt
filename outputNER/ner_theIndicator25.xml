@@ -2898,7 +2898,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator25.xml?person_annotation_20250121102210907",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T15:22:10.907Z",
-	"dcterms:modified": "2025-01-21T15:22:10.907Z",
+	"dcterms:modified": "2025-01-21T15:24:02.564Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2929,7 +2929,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Virgil",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3182,7 +3184,7 @@ devils. It is <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource
 </cit> 
 
 <p><persName key="Edward Fairfax">Fairfax</persName>, though he translates the concluding couplet rather from 
-<persName key="Virgil">Virgil</persName> than <persName key="Torquato Tasso">Tasso</persName>, lets loose a spirit worthy of both poets. Observe 
+<persName key="Virgil" ref="https://dbpedia.org/resource/Virgil" type="real">Virgil</persName> than <persName key="Torquato Tasso">Tasso</persName>, lets loose a spirit worthy of both poets. Observe 
 the fine taste with which he has managed to preserve the double 
 rhymes, that make the original so resounding.</p> 
 
@@ -3202,7 +3204,7 @@ rhymes, that make the original so resounding.</p>
 <l rend="indent">Broke from the earthen prisons of their king. </l>
 <l rend="right"><note type="hunt"><hi rend="smallcaps">Fairfax</hi>, B.4.st.3</note></l></lg>
 </quote>
-<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/>Book 4 stanza 3.</bibl></note>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Jerusalem Delivered</title><editor>Edward Fairfax</editor><ref target="https://www.gutenberg.org/cache/epub/392/pg392-images.html"/><biblScope cert="high" unit="volume" xml:space="default">Book 4</biblScope> stanza 3.</bibl></note>
 </cit> 
 
 <p>We must not, however, take tip our room with the original Italian. 
