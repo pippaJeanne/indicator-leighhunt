@@ -2622,7 +2622,7 @@ issue ({Month} {Day}, {Year}) -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator24.xml?person_annotation_20250120222807341",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-21T03:28:07.341Z",
-	"dcterms:modified": "2025-01-21T03:28:07.341Z",
+	"dcterms:modified": "2025-01-21T03:28:53.424Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2653,7 +2653,9 @@ issue ({Month} {Day}, {Year}) -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resouce/Philip_Sidney",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3128,7 +3130,7 @@ issue ({Month} {Day}, {Year}) -->
  <l>Beneath the broad beech, and the chesnut shade; </l>
  <l>That taller tree, which of a nut was set </l>
  <l>At his great birth, where all the muses met. </l>
- <note type="hunt" place="foot"><persName key="Sir Philip Sidney">Sir Philip Sidney</persName>.</note>
+ <note type="hunt" place="foot"><persName key="Sir Philip Sidney" ref="https://dbpedia.org/resouce/Philip_Sidney" type="real">Sir Philip Sidney</persName>.</note>
  <l>There, in the writhed bark, are cut the names </l>
  <l>Of many a Sylvan, taken with his flames: </l>
  <l>And thence the ruddy Satyrs oft provoke </l>
