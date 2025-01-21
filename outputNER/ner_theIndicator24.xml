@@ -436,7 +436,7 @@ issue ({Month} {Day}, {Year}) -->
     put figures in the landscape if there are none there, flocks and herds, 
     or a solitary spectator, or <persName key="Venus (mythology)" ref="http://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName> lying with her white body among the 
     violets and primroses. Let a musician go through, and he will hear 
-    <q type="written">differences discreet</q><note type="source"><bibl><author>Edmund Spenser</author><title level="m">The Faerie Queen</title>Book 2 Canto 12</bibl></note> in the notes of the birds and the lapsing of the 
+    <q type="written">differences discreet</q><note type="source"><bibl><author>Edmund Spenser</author><title level="m">The Faerie Queen</title><biblScope cert="high" unit="volume" xml:space="default">Book 2</biblScope> <biblScope cert="high" unit="chapter" xml:space="default">Canto 12</biblScope></bibl></note> in the notes of the birds and the lapsing of the 
     water-fall. He will fancy a serenade of wind instruments in the open 
     air at the lady's window, with a voice rising through it; or the horn 
     of the hunter; or the musical cry of the hounds,
