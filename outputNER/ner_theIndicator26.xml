@@ -1736,7 +1736,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250122180940117",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:09:40.117Z",
-	"dcterms:modified": "2025-01-22T23:10:09.391Z",
+	"dcterms:modified": "2025-01-22T23:11:43.843Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1818,7 +1818,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250122181024382",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:10:24.382Z",
-	"dcterms:modified": "2025-01-22T23:10:24.382Z",
+	"dcterms:modified": "2025-01-22T23:11:34.747Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1852,7 +1852,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "#Hylonome",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2227,7 +2229,7 @@ affections.</p>
 <l>Many fair creatures of his kind </l>
 <l rend="indent">Besought his love; but he </l>
 <l>Was borne away by only one, </l>
-<l rend="indent">The sole <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>. </l>
+<l rend="indent">The sole <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome" xml:id="Hylonome">Hylonome</persName>. </l>
 </lg>
 <lg type="stanza" xml:id="verse8">
 <l>No gentle woman-hearted thing </l>
@@ -2276,7 +2278,7 @@ affections.</p>
 </lg>
 <lg type="stanza" xml:id="verse15">
 <l>And thus did they attend that day </l>
-<l rend="indent"><persName type="fictional" key="Hylonome">The Lapithean bride</persName>; </l>
+<l rend="indent"><persName type="fictional" key="Hylonome" ref="#Hylonome">The Lapithean bride</persName>; </l>
 <l>Thus came together, and thus fought, </l>
 <l rend="indent">Together, side by side. </l>
 </lg>
