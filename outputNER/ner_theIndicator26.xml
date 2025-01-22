@@ -1030,7 +1030,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201901654",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T01:19:01.654Z",
-	"dcterms:modified": "2025-01-22T01:19:01.654Z",
+	"dcterms:modified": "2025-01-22T01:19:46.881Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1061,7 +1061,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/resource/Metamorphoses",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1329,7 +1331,7 @@ differing in form. If indeed there can be any thing in the starry endlessness
 of existence, nobler than what we can conceive of love and
 generosity. </p>
 
-<p>But to our story. <persName key="Ovid">Ovid</persName>, in one of the finest parts of his <title level="m">Metamorphoses</title>, 
+<p>But to our story. <persName key="Ovid">Ovid</persName>, in one of the finest parts of his <title level="m" ref="https://dbpedia.org/resource/Metamorphoses" key="Metamorphoses">Metamorphoses</title>, 
 has recounted the famous battle of the Centaurs and Lapithæ. 
 Our countrymen have the happiness of possessing, in another 
 shape, another fine poem on the same subject; we mean the divine 
