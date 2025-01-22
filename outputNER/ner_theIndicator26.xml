@@ -1671,7 +1671,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202739021",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T01:27:39.021Z",
-	"dcterms:modified": "2025-01-22T01:27:39.021Z",
+	"dcterms:modified": "2025-01-22T03:52:51.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1705,7 +1705,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Castor_and_Pollux",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1713,7 +1715,8 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:low"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2065,7 +2068,7 @@ affections.</p>
 <l rend="indent">Dishonoured he the man. </l>
 </lg>
 <lg type="stanza" xml:id="verse5">
-<l>Ev'n <persName type="fictional" key="Castor">Castor</persName> might have ridden him, </l>
+<l>Ev'n <persName type="fictional" key="Castor" cert="low" ref="https://dbpedia.org/resource/Castor_and_Pollux">Castor</persName> might have ridden him, </l>
 <l rend="indent">But for his double make; </l>
 <l>So built with muscle was his chest, </l>
 <l rend="indent">So rideable his back. </l>
