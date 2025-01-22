@@ -150,7 +150,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122184657584",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:46:57.584Z",
-	"dcterms:modified": "2025-01-22T23:48:41.648Z",
+	"dcterms:modified": "2025-01-22T23:57:40.887Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -711,7 +711,7 @@ preservation.
 <head type="catalogue">No. XXVII.—<date when="1820-04-12">WEDNESDAY, April 12th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center uppercase">The Adventures of <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)">Cephalus</persName> and <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName>.</head>
+<head type="header" rend="center uppercase">The Adventures of <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)">Cephalus</persName> and <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris" xml:id="Procris">Procris</persName>.</head>
 <p><hi rend="smallcaps"><persName type="fictional" key="Cephalus">Cephalus</persName></hi>, the son of <persName type="fictional" key="Deioneus" ref="http://dbpedia.org/resource/Deioneus">Deioneus</persName>, king of <placeName type="region" key="Thessaly" corresp="Greece" ref="http://www.wikidata.org/entity/Q166919">Thessaly</placeName>, married <persName type="fictional" key="Procris">Procris</persName>,
 daughter of <persName type="fictional" key="Pandion (mythology)" ref="http://dbpedia.org/resource/Pandion_(mythology)">Pandion</persName>, king of <placeName type="city" key="Athens" corresp="Greece" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName>. They bound each other by a
 vow never to love any one else. <persName type="fictional" key="Cephalus">Cephalus</persName>, who was fond of hunting,
