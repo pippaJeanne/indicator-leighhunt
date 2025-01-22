@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-It is not intended as a fixed structure, but rather collects some of the most common
-structural elements for convenience and uniformity. Please add/remove elements as
-necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <!-- File Description -->
 <fileDesc>
@@ -20,7 +13,7 @@ necessary for your use case. -->
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <!-- Author information -->
@@ -40,7 +33,87 @@ necessary for your use case. -->
 </fileDesc>
 
 <!-- Encoding Description -->
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122181850126",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-22T23:18:50.126Z",
+	"dcterms:modified": "2025-01-22T23:18:50.126Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122181850126#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122181850126#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/head/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		]
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -56,15 +129,14 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="27">
-<pb n="209" /> <!-- Page beginning -->
+<pb n="209"/> <!-- Page beginning -->
 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
 <l>There he arriving round about doth flie,</l>
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.</l>
-<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue">No. XXVII.—<date when="1820-04-12">WEDNESDAY, April 12th, 1820</date>.</head>
 </div2>
@@ -106,7 +178,7 @@ see, as he woke, a nymph suddenly departing from the spot, whose
 hair shook out a kind of sunshine, He knew that this was <persName key="Aurora">Aurora</persName>,
 and could not help being touched by so delicate an aflection. </p>
 
-<pb n="210" />
+<pb n="210"/>
 
 <p>By degrees, <persName type="fictional" key="Cephalus">Cephalus</persName> began to think that <persName type="fictional" key="Procris">Procris</persName> might spare a little
 of so great a love; and as these wicked thoughts stole upon him, he
@@ -161,7 +233,7 @@ A little obstacle presented itself. On giving her the peacock, the
 handsome stranger stooped his face with an air of confident but respectful
 pleasure, and was about to kiss her. <q type="spoken">How is this?</q> said
 
-<pb n="211" />
+<pb n="211"/>
 
 <persName type="fictional" key="Procris">Procris</persName>. <q type="spoken">We always do so in <placeName type="region" key="Phoenicia" corresp="Lebanon">Phoenicia</placeName>,</q> said he, <q type="spoken">when presents
 are received;</q> and without more ado, he kissed her in a sort of formal
@@ -215,7 +287,7 @@ thought herself half faithless to the strictness of her vow, scarcely
 knew whether to feel more angry at the warmth, or piqued at the
 ceremonious indiiference, of the stranger. A sense however of gratified 
 
-<pb n="212" />
+<pb n="212"/>
 
 pride, and of his extraordinary generosity, was the uppermost
 feeling in her mind; and this led her to be piqued rather than angry.
@@ -269,7 +341,7 @@ darted off into the woods. </p>
 vain. He was at once angry and sorry: and <persName key="Aurora">Aurora</persName> found that her
 artifice had been of no use. She hoped however that time, and the
 
-<pb n="213" />
+<pb n="213"/>
 
 absence of <persName type="fictional" key="Procris">his wife</persName>, would mollify him; and in the mean while, seeing
 how sullenly he turned aside whenever she ventured to become manifest,
@@ -323,7 +395,7 @@ towards the dog, as if snapping them; but it was done faintly, and evidently
 only to do something. <persName type="fictional" key="Cephalus">Cephalus</persName> thought she had a look of
 <persName type="fictional" key="Procris">Procris</persName>; and he did not pity her the less for that. <q type="spoken">But what
 
-<pb n="214" />
+<pb n="214"/>
 
 are you to do with this dog?</q> This, it seemed, was a very perplexing
 question. It was a long time before <persName type="fictional" key="Cephalus">Cephalus</persName> could get an answer;
@@ -386,7 +458,7 @@ him great pleasure, now that he was sure of her loving him unrestrictedly. </p>
 <p>What a pity that such a happy state of things was not to last! But
 <persName type="fictional" key="Procris">Procris</persName> had early been taught jealousy. She had even identified it
 
-<pb n="215" />
+<pb n="215"/>
 
 with a virtue; and by degrees, as little fits of ill temper were exchanged,
 and she began to think less kindly of herself, she began to
@@ -460,7 +532,7 @@ described by <persName key="Ovid">Ovid</persName>. </p>
 <l>The pine with <choice><orig>it's</orig><reg>its</reg></choice> proud locks. </l>
 </lg>
 
-<pb n="216" />
+<pb n="216"/>
 
 <lg type="stanza" xml:id="verse4">
 <l>Touched by the zephyrs and sweet airs, </l>
