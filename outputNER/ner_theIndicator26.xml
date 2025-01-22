@@ -144,10 +144,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162413253",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162515440",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-21T21:24:13.253Z",
-	"dcterms:modified": "2025-01-21T21:25:15.440Z",
+	"dcterms:created": "2025-01-21T21:25:15.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -158,7 +157,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162413253#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162515440#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -172,7 +171,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162413253#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162515440#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/head/persName"
 		}
@@ -226,10 +225,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162520656",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162702232",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-21T21:25:20.656Z",
-	"dcterms:modified": "2025-01-21T21:27:02.232Z",
+	"dcterms:created": "2025-01-21T21:27:02.232Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -240,7 +238,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162520656#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162702232#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -254,7 +252,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162520656#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121162702232#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/head/persName[2]"
 		}
@@ -308,10 +306,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200511015",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200557090",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:05:11.015Z",
-	"dcterms:modified": "2025-01-22T01:05:57.090Z",
+	"dcterms:created": "2025-01-22T01:05:57.090Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -322,7 +319,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200511015#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200557090#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -336,7 +333,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200511015#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121200557090#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p/title"
 		}
@@ -547,10 +544,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201007651",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201027394",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:10:07.651Z",
-	"dcterms:modified": "2025-01-22T01:10:27.394Z",
+	"dcterms:created": "2025-01-22T01:10:27.394Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -561,7 +557,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201007651#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201027394#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -575,7 +571,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201007651#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201027394#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[2]"
 		}
@@ -626,10 +622,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201034814",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201058554",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:10:34.814Z",
-	"dcterms:modified": "2025-01-22T01:10:58.554Z",
+	"dcterms:created": "2025-01-22T01:10:58.554Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -640,7 +635,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201034814#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201058554#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -654,7 +649,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201034814#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201058554#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[3]"
 		}
@@ -708,10 +703,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201123977",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201139346",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:11:23.977Z",
-	"dcterms:modified": "2025-01-22T01:11:39.346Z",
+	"dcterms:created": "2025-01-22T01:11:39.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -722,7 +716,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201123977#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201139346#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -736,7 +730,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201123977#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201139346#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[4]"
 		}
@@ -787,10 +781,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201143430",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201349999",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:11:43.430Z",
-	"dcterms:modified": "2025-01-22T01:13:49.999Z",
+	"dcterms:created": "2025-01-22T01:13:49.999Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -801,7 +794,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201143430#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201349999#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -815,7 +808,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201143430#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201349999#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[5]"
 		}
@@ -866,10 +859,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201353908",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201525584",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:13:53.908Z",
-	"dcterms:modified": "2025-01-22T01:15:25.584Z",
+	"dcterms:created": "2025-01-22T01:15:25.584Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -880,7 +872,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201353908#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201525584#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -894,7 +886,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201353908#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201525584#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[2]/persName[6]"
 		}
@@ -948,10 +940,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201549569",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201847053",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:15:49.569Z",
-	"dcterms:modified": "2025-01-22T01:18:47.053Z",
+	"dcterms:created": "2025-01-22T01:18:47.053Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -962,7 +953,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201549569#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201847053#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -976,7 +967,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201549569#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201847053#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[3]/persName"
 		}
@@ -1027,10 +1018,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201901654",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201946881",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:19:01.654Z",
-	"dcterms:modified": "2025-01-22T01:19:46.881Z",
+	"dcterms:created": "2025-01-22T01:19:46.881Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1041,7 +1031,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201901654#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201946881#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1055,7 +1045,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201901654#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?title_annotation_20250121201946881#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/title"
 		}
@@ -1106,10 +1096,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201956247",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202026076",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:19:56.247Z",
-	"dcterms:modified": "2025-01-22T01:20:26.076Z",
+	"dcterms:created": "2025-01-22T01:20:26.076Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1120,7 +1109,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201956247#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202026076#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1134,7 +1123,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121201956247#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202026076#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[2]"
 		}
@@ -1185,10 +1174,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202145621",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202213640",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:21:45.621Z",
-	"dcterms:modified": "2025-01-22T01:22:13.640Z",
+	"dcterms:created": "2025-01-22T01:22:13.640Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1199,7 +1187,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202145621#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202213640#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1213,7 +1201,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202145621#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202213640#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/note/persName"
 		}
@@ -1264,10 +1252,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202242066",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202335098",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:22:42.066Z",
-	"dcterms:modified": "2025-01-22T01:23:35.098Z",
+	"dcterms:created": "2025-01-22T01:23:35.098Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1278,7 +1265,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202242066#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202335098#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1292,7 +1279,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202242066#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202335098#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[4]"
 		}
@@ -1343,10 +1330,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202339022",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202407974",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:23:39.022Z",
-	"dcterms:modified": "2025-01-22T01:24:07.974Z",
+	"dcterms:created": "2025-01-22T01:24:07.974Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1357,7 +1343,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202339022#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202407974#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1371,7 +1357,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202339022#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202407974#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[5]"
 		}
@@ -1422,10 +1408,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202416290",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202454258",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:24:16.290Z",
-	"dcterms:modified": "2025-01-22T01:24:54.258Z",
+	"dcterms:created": "2025-01-22T01:24:54.258Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1436,7 +1421,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202416290#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202454258#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1450,7 +1435,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202416290#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202454258#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[8]"
 		}
@@ -1504,10 +1489,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202500151",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202535333",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:25:00.151Z",
-	"dcterms:modified": "2025-01-22T01:25:35.333Z",
+	"dcterms:created": "2025-01-22T01:25:35.333Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1518,7 +1502,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202500151#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202535333#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1532,7 +1516,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202500151#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202535333#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[9]"
 		}
@@ -1586,10 +1570,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202546239",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202626247",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:25:46.239Z",
-	"dcterms:modified": "2025-01-22T01:26:26.247Z",
+	"dcterms:created": "2025-01-22T01:26:26.247Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1600,7 +1583,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202546239#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202626247#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1614,7 +1597,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202546239#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202626247#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/p[4]/persName[10]"
 		}
@@ -1668,10 +1651,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202739021",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121225251363",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-22T01:27:39.021Z",
-	"dcterms:modified": "2025-01-22T03:52:51.363Z",
+	"dcterms:created": "2025-01-22T03:52:51.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1682,7 +1664,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202739021#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121225251363#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
@@ -1696,7 +1678,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121202739021#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250121225251363#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[3]/lg/lg[5]/l/persName"
 		}
@@ -1717,6 +1699,88 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:low"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250122180940117",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-22T23:09:40.117Z",
+	"dcterms:modified": "2025-01-22T23:10:09.391Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250122180940117#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator26.xml?person_annotation_20250122180940117#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[3]/lg/lg[7]/l[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Hylonome",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2083,7 +2147,7 @@ affections.</p>
 <l>Many fair creatures of his kind </l>
 <l rend="indent">Besought his love; but he </l>
 <l>Was borne away by only one, </l>
-<l rend="indent">The sole <persName type="fictional" key="Hylonome">Hylonome</persName>. </l>
+<l rend="indent">The sole <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>. </l>
 </lg>
 <lg type="stanza" xml:id="verse8">
 <l>No gentle woman-hearted thing </l>
