@@ -554,7 +554,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122185418543",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:54:18.543Z",
-	"dcterms:modified": "2025-01-22T23:54:18.543Z",
+	"dcterms:modified": "2025-01-22T23:56:09.533Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -585,7 +585,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Aurora_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -633,7 +638,7 @@ waiting his return every day from the <choice><corr>chase</corr><sic>chace</sic>
 for the most agreeable of the Wood-Gods. </p>
 
 <p>Their security in each others exclusive attachment was increased, if
-possible, by a passion which was conceived for <persName type="fictional" key="Cephalus">Cephalus</persName> by <persName key="Aurora">Aurora</persName>,
+possible, by a passion which was conceived for <persName type="fictional" key="Cephalus">Cephalus</persName> by <persName key="Aurora" ref="https://dbpedia.org/resource/Aurora_(mythology)" type="fictional">Aurora</persName>,
 the Goddess of Morning. To think that the beaming eyes and rosy
 blushes of so charming a deity were upon him every morning to no
 purpose, was a high exaltation to the proud confidence which each
