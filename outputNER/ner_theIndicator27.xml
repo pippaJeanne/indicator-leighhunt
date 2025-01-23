@@ -2018,7 +2018,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194208466",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:42:08.466Z",
-	"dcterms:modified": "2025-01-23T00:42:08.466Z",
+	"dcterms:modified": "2025-01-23T00:43:17.838Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2049,7 +2049,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Aurora",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2057,7 +2062,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2390,7 +2396,7 @@ of her own pack, sent her to practise artifice for artifice. She regretted
 afterwards the having consented to interfere at all in such
 matters; but the impulse had engaged her to commit herself; and she
 was too proud and stately to recall what she had done. <persName type="fictional" key="Procris">Procris</persName> told
-all to <persName type="fictional" key="Cephalus" ref="#Cephalus">her husband</persName>; and <persName key="Diana">the goddess</persName> was little aware how they enjoyed
+all to <persName type="fictional" key="Cephalus" ref="#Cephalus">her husband</persName>; and <persName key="Aurora" cert="medium" ref="#Aurora" type="fictional">the goddess</persName> was little aware how they enjoyed
 the kind result of her anger, at the expense of her dignity. </p>
 
 <p>It is on record, that our married couple were never so fond of each
