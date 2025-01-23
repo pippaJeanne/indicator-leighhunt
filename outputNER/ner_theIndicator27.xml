@@ -68,7 +68,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122181850126",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:18:50.126Z",
-	"dcterms:modified": "2025-01-22T23:46:54.148Z",
+	"dcterms:modified": "2025-01-23T00:00:58.483Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -683,6 +683,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122190032854",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T00:00:32.854Z",
+	"dcterms:modified": "2025-01-23T00:00:49.389Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122190032854#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122190032854#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Cephalus",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -711,7 +793,7 @@ preservation.
 <head type="catalogue">No. XXVII.—<date when="1820-04-12">WEDNESDAY, April 12th, 1820</date>.</head>
 </div2>
 <div2 type="section" n="1"> <!-- Header and content -->
-<head type="header" rend="center uppercase">The Adventures of <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)">Cephalus</persName> and <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris" xml:id="Procris">Procris</persName>.</head>
+<head type="header" rend="center uppercase">The Adventures of <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)" xml:id="Cephalus">Cephalus</persName> and <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris" xml:id="Procris">Procris</persName>.</head>
 <p><hi rend="smallcaps"><persName type="fictional" key="Cephalus">Cephalus</persName></hi>, the son of <persName type="fictional" key="Deioneus" ref="http://dbpedia.org/resource/Deioneus">Deioneus</persName>, king of <placeName type="region" key="Thessaly" corresp="Greece" ref="http://www.wikidata.org/entity/Q166919">Thessaly</placeName>, married <persName type="fictional" key="Procris">Procris</persName>,
 daughter of <persName type="fictional" key="Pandion (mythology)" ref="http://dbpedia.org/resource/Pandion_(mythology)">Pandion</persName>, king of <placeName type="city" key="Athens" corresp="Greece" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName>. They bound each other by a
 vow never to love any one else. <persName type="fictional" key="Cephalus">Cephalus</persName>, who was fond of hunting,
@@ -767,7 +849,7 @@ however as it may, <persName key="Aurora">Aurora</persName>, one morning, did ce
 finish a conversation with saying, that she would not look to have her
 love returned, unless <persName type="fictional" key="Procris">Procris</persName> should first be found unfaithful. </p>
 
-<p><persName type="fictional" key="Cephalus">The husband</persName>, in whose mind this suggestion seemed to awaken all
+<p><persName type="fictional" key="Cephalus" ref="#Cephalus">The husband</persName>, in whose mind this suggestion seemed to awaken all
 his exclusive tenderness for <persName type="fictional" key="Procris">his wife</persName>, readily accepted the alternative.
 But how was <persName type="fictional" key="Procris">Procris</persName> to be tried? <persName key="Aurora">Aurora</persName> soon found an expedient.
 She changed the appearance of <persName type="fictional" key="Cephalus">Cephalus</persName> to that of a young Phoenician
