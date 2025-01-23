@@ -393,7 +393,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122185200933",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-22T23:52:00.933Z",
-	"dcterms:modified": "2025-01-22T23:53:55.942Z",
+	"dcterms:modified": "2025-01-23T00:48:24.216Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2148,6 +2148,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194800078",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T00:48:00.078Z",
+	"dcterms:modified": "2025-01-23T00:48:12.453Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194800078#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194800078#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Pandion",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -2178,7 +2260,7 @@ preservation.
 <div2 type="section" n="1"> <!-- Header and content -->
 <head type="header" rend="center uppercase">The Adventures of <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)" xml:id="Cephalus">Cephalus</persName> and <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris" xml:id="Procris">Procris</persName>.</head>
 <p><hi rend="smallcaps"><persName type="fictional" key="Cephalus">Cephalus</persName></hi>, the son of <persName type="fictional" key="Deioneus" ref="http://dbpedia.org/resource/Deioneus">Deioneus</persName>, king of <placeName type="region" key="Thessaly" corresp="Greece" ref="http://www.wikidata.org/entity/Q166919">Thessaly</placeName>, married <persName type="fictional" key="Procris">Procris</persName>,
-daughter of <persName type="fictional" key="Pandion (mythology)" ref="http://dbpedia.org/resource/Pandion_(mythology)">Pandion</persName>, king of <placeName type="city" key="Athens" corresp="Greece" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName>. They bound each other by a
+daughter of <persName type="fictional" key="Pandion (mythology)" ref="http://dbpedia.org/resource/Pandion_(mythology)" xml:id="Pandion">Pandion</persName>, king of <placeName type="city" key="Athens" corresp="Greece" ref="http://www.wikidata.org/entity/Q1524">Athens</placeName>. They bound each other by a
 vow never to love any one else. <persName type="fictional" key="Cephalus">Cephalus</persName>, who was fond of hunting,
 suffered the wood-nymphs to be charming to no purpose; and <persName type="fictional" key="Procris">Procris</persName>,
 waiting his return every day from the <choice><corr>chase</corr><sic>chace</sic></choice>, scarcely had a civil answer
@@ -2515,7 +2597,7 @@ But my maxim is, Be decent enough, at least, to appear virtuous.</q>
 of it, if you could hold your tongue.</q> But the blow was
 struck. She despised the scandal, while she became <choice><orig>it's</orig><reg>its</reg></choice> victim. </p>
 
-<p><persName type="fictional" key="Procris">Procris</persName>, who was on a visit with <persName type="fictional" key="Cephalus">Cephalus</persName> to <persName key="Pandion">her father</persName>, had heard of a
+<p><persName type="fictional" key="Procris">Procris</persName>, who was on a visit with <persName type="fictional" key="Cephalus">Cephalus</persName> to <persName key="Pandion" ref="#Pandion" type="fictional">her father</persName>, had heard of a
 spot, in which he reposed himself every day after the <choice><corr>chase</corr><sic>chace</sic></choice>. Here, it was
 added, the lady as regularly met him. He was even so impatient for
 her sight, that if she delayed a minute beyond the usual time, he
