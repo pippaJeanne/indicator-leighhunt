@@ -313,7 +313,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123002648885",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T05:26:48.885Z",
-	"dcterms:modified": "2025-01-23T05:26:48.885Z",
+	"dcterms:modified": "2025-01-23T05:27:18.544Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -344,7 +344,12 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Saturn_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -469,7 +474,7 @@ and strength in almost every one of the lines.
 <l>From you have I been absent in the spring. </l>
 <l>When proud-pied April, dressed in all his trim, </l>
 <l>Hath put a spirit of youth in every thing; </l>
-<l>That heavy <persName key="Saturn">Saturn</persName> laughed and leaped with him. </l>
+<l>That heavy <persName key="Saturn (mythology)" ref="http://dbpedia.org/resource/Saturn_(mythology)" type="fictional">Saturn</persName> laughed and leaped with him. </l>
 <l>Yet nor the lays of birds, nor the sweet smell </l>
 <l>Of different flowers in odour and in hue. </l>
 <l>Could make me any summer's story tell. </l>
