@@ -714,7 +714,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123010101126",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T06:01:01.126Z",
-	"dcterms:modified": "2025-01-23T06:01:01.126Z",
+	"dcterms:modified": "2025-01-23T06:01:42.013Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -746,7 +746,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/Ben_Jonson",
+		"@id": "https://dbpedia.org/resource/Ben_Jonson",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1056,7 +1056,7 @@ the grass,
 </cit>
 
 This etymology, which we have no doubt is the real one, is repeated 
-by <persName key="Ben Jonson" ref="https://dbpedia.org/page/Ben_Jonson">Ben Jonson</persName>, who takes occasion to spell the word days-eyes; 
+by <persName key="Ben Jonson" ref="https://dbpedia.org/resource/Ben_Jonson" type="real">Ben Jonson</persName>, who takes occasion to spell the word days-eyes; 
 adding, with his usual tendency to overdo a matter of learning, 
 
 <cit><quote>
@@ -1066,7 +1066,7 @@ adding, with his usual tendency to overdo a matter of learning,
 <note type="source">
 <bibl>
 <author>Ben Jonson</author>
-<title level="m">Pan's Anniversary, or the <persName key="Shepherd">Shepherd</persName>'s Holiday</title>, l.12
+<title level="m">Pan's Anniversary, or the Shepherd's Holiday</title>, l.12
 </bibl>. </note>
 </cit>
 
