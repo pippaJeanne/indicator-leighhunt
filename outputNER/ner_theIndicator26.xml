@@ -2215,7 +2215,7 @@ and not being ashamed of what is kindly and innocent.
 </p>
 </div2>
 <div2 type="section" n="2">
-<head type="header" rend="center uppercase">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus" xml:id="Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>.</head>
+<head type="header" rend="center uppercase">Anomalies of Shape. The Story of <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus" xml:id="Cyllarus">Cyllarus</persName> and <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome" xml:id="Hylonome">Hylonome</persName>.</head>
 
 <p>It is not one of the least instances of the force of habit, to see how 
 poetry and mythology can reconcile us to shapes, or rather combinations 
@@ -2253,12 +2253,12 @@ all the bridals we ever read. </p>
 necessary that the difference of form should consist in addition, and 
 not in alteration. But the un-angel-like texture of the flying apparatus 
 of fair <persName type="fictional" key="Youwarkee">Youwarkee</persName> (such, if we remember, is her name) helps to 
-<choice><corr>show</corr><sic>shew</sic></choice> us the main reason why we are able to receive pleasure from the 
+<choice><reg>show</reg><orig>shew</orig></choice> us the main reason why we are able to receive pleasure from the 
 histories of creatures only half-human. The habit of reading prevents 
 the first shock; but we are reconciled in proportion to their possession 
 of what we are pleased to call human qualities. Kindness is 
 the great elevator. The Centaurs may have killed all the Lapithæ, 
-and <choice><corr>shown</corr><sic>shewn</sic></choice> considerable generalship to boot, without reconciling us to 
+and <choice><reg>shown</reg><orig>shewn</orig></choice> considerable generalship to boot, without reconciling us to 
 the brute part of them; but the brutality melts away before the story 
 of their two lovers in <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>. Drunkenness and rapine make beasts of 
 them;—sentiment makes human beings. <persName type="fictional" key="Polyphemus" ref="http://dbpedia.org/resource/Polyphemus">Polyphemus</persName> in <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName> 
@@ -2269,7 +2269,7 @@ pity him. His deformity even increases our pity. We blink the question
 of beauty, and become one-eyed for his sake. Nature seems to 
 do him an injustice in gifting him with sympathies so human, and at 
 the same time preventing them from being answered: and we feel impatient 
-with the all-beautiful <persName type="fictional" key="Galatea">Galatea</persName>, if we think she ever <choice><corr>showed</corr><sic>shewed</sic></choice> 
+with the all-beautiful <persName type="fictional" key="Galatea" ref="https://dbpedia.org/resource/Galatea_(Greek_myth)">Galatea</persName>, if we think she ever <choice><reg>showed</reg><orig>shewed</orig></choice> 
 him scorn as well as unwillingness. We insist upon her avoiding him 
 with the greatest possible respect. </p>
 
@@ -2287,7 +2287,7 @@ differing in form. If indeed there can be any thing in the starry endlessness
 of existence, nobler than what we can conceive of love and
 generosity. </p>
 
-<p>But to our story. <persName key="Ovid">Ovid</persName>, in one of the finest parts of his <title level="m" ref="https://dbpedia.org/resource/Metamorphoses" key="Metamorphoses">Metamorphoses</title>, 
+<p>But to our story. <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, in one of the finest parts of his <title level="m" ref="https://dbpedia.org/resource/Metamorphoses" key="Metamorphoses">Metamorphoses</title>, 
 has recounted the famous battle of the Centaurs and Lapithæ. 
 Our countrymen have the happiness of possessing, in another 
 shape, another fine poem on the same subject; we mean the divine 
@@ -2305,14 +2305,11 @@ days to provoke the comparison. The notion of the <q type="distinct">half-horsie
 in a true spirit of poetical composition, ventures to call them), originated in the 
 wonder with which men on horse-back were first regarded. When the Mexicans 
 first beheld Cortes and his cavalry, they were struck with the same
-idea. </note> But <persName key="Ovid">Ovid</persName> is as powerful in his way, as the 
+idea. </note> But <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName> is as powerful in his way, as the 
 
 <pb n="206"/>
 
-English reader may see in the versions of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> and <persName key="George Sandys" ref="https://dbpedia.org/resource/George_Sandys" type="real">Sandys</persName>. <persName key="Phidias">Phidias</persName> 
-has relieved the ferocity of his story with some exquisite figures 
-of women. One in particular, who seems fainting, is the very gentle 
-essence of womanhood personified. <persName key="Ovid">Ovid</persName>, more exuberant, though 
+English reader may see in the versions of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> and <persName key="George Sandys" ref="https://dbpedia.org/resource/George_Sandys" type="real">Sandys</persName>. <persName key="Phidias" ref="https://dbpedia.org/resource/Phidias" type="real">Phidias</persName> has relieved the ferocity of his story with some exquisite figures of women. One in particular, who seems fainting, is the very gentle essence of womanhood personified. <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>, more exuberant, though 
 not more touching in his imagination, has carried the refinement farther; 
 and contradicting, or rather varying, with a solitary and striking 
 exception, the general character given of Centaurs, has introduced 
@@ -2321,7 +2318,7 @@ and dying side by side. The story is, that <persName type="fictional" key="Pirit
 <q type="distinct">the half-horsie people</q> to his wedding-feast, when he married <persName type="fictional" key="Hippodamia" ref="https://dbpedia.org/resource/Hippodamia_(daughter_of_Oenomaus)">Hippodamia</persName>, 
 one of them was so inflamed with the beauty of the bride, 
 that he started up in the midst of the drinking and carousing, and attempted 
-to carry her off. <persName type="fictional" key="Theseus" ref="https://dbpedia.org/resource/Theseus">Theseus</persName>, the friend of <persName type="fictional" key="Pirithous">Pirithous</persName>, seized a 
+to carry her off. <persName type="fictional" key="Theseus" ref="https://dbpedia.org/resource/Theseus">Theseus</persName>, the friend of <persName type="fictional" key="Pirithous" ref="https://dbpedia.org/resource/Pirithous">Pirithous</persName>, seized a 
 great antique goblet, craggy with sculpture, and dashed his face to
 shatters with it, so that he died. The other Centaurs, seeing their 
 brother killed, grew frantic with revenge; and a tremendous battle 
@@ -2333,26 +2330,26 @@ of men and half-men. One of the Lapithæ makes nothing of
 rending away a door-post that would load a waggon: and a Centaur 
 tears up an altar with fire upon it, and sends it blazing among the 
 enemy. The difterent modes in which the deaths are inflicted are as 
-various any in <persName key="Homer">Homer</persName>; and the poet, with admirable propriety, has 
+various any in <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>; and the poet, with admirable propriety, has 
 given his battle all the additional interest, which the novelty of the 
 figures engaged in it could suggest. </p>
 
 <p>The episode of the two lovers comes but of all this hideous turbulence,
 like the dropping of rain from the eaves after a thunder-storm.
-If we are asked why we translate it after <persName key="John Dryden">Dryden</persName> and <persName key="George Sandys">Sandys</persName>, it will
+If we are asked why we translate it after <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> and <persName key="George Sandys" ref="https://dbpedia.org/resource/George_Sandys" type="real">Sandys</persName>, it will
 be sufficient to answer that it gave us some pleasant moments to do so;
 and that we would rather, on these occasions, furnish something original
 to the reader than translated. But our readers and we are not
 quarrelsome parties. With regard to the measure, we have chosen it
 as the most capable of expressing the alternate laxity and compression,
-for which <persName key="Ovid">Ovid</persName>'s style is remarkable. We found the heroic couplet
+for which <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="real">Ovid</persName>'s style is remarkable. We found the heroic couplet
 hamper us, tending either to too great length or the reverse of
 it. With the old ballad measure before us, one may do as one
 pleases; and there is something in it that suits the simplicity of the
 affections.</p>
 <lg xml:lang="en" type="translation-hunt" xml:id="The-Story-of-Cyllarus-and-Hylonome" rend="center">
 <lg type="stanza" xml:id="verse1">
-<l>Nor could thy beauty, <persName key="Cyllarus">Cyllarus</persName>, </l>
+<l>Nor could thy beauty, <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus">Cyllarus</persName>, </l>
 <l rend="indent">Protect thee in the fray; </l>
 <l>If we may speak of shapes like thine </l>
 <l rend="indent">After a human way. </l>
@@ -2394,7 +2391,7 @@ affections.</p>
 <l>Many fair creatures of his kind </l>
 <l rend="indent">Besought his love; but he </l>
 <l>Was borne away by only one, </l>
-<l rend="indent">The sole <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome" xml:id="Hylonome">Hylonome</persName>. </l>
+<l rend="indent">The sole <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>. </l>
 </lg>
 <lg type="stanza" xml:id="verse8">
 <l>No gentle woman-hearted thing </l>
@@ -2450,13 +2447,13 @@ affections.</p>
 <lg type="stanza" xml:id="verse16">
 <l>A javelin from an unknown hand </l>
 <l rend="indent">Came with too sure a dart, </l>
-<l>And pierced in thee, poor <persName type="fictional" key="Cyllarus">Cyllarus</persName>, </l>
+<l>And pierced in thee, poor <persName type="fictional" key="Cyllarus" ref="https://dbpedia.org/resource/Cyllarus">Cyllarus</persName>, </l>
 <l rend="indent">Right to the very heart. </l>
 </lg>
 <lg type="stanza" xml:id="verse17">
 <l>He drew the bitter weapon out, </l>
 <l rend="indent">And shuddering all over, </l>
-<l>Fell against pale <persName type="fictional" key="Hylonome">Hylonome</persName>, </l>
+<l>Fell against pale <persName type="fictional" key="Hylonome" ref="https://dbpedia.org/resource/Hylonome">Hylonome</persName>, </l>
 <l rend="indent">Whose arms received <persName type="fictional" key="Cyllarus" ref="#Cyllarus">her lover</persName>. </l>
 </lg>
 <lg type="stanza" xml:id="verse18">
