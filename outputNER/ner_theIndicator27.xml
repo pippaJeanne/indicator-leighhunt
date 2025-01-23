@@ -1040,7 +1040,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122190555148",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:05:55.148Z",
-	"dcterms:modified": "2025-01-23T00:05:55.148Z",
+	"dcterms:modified": "2025-01-23T00:06:29.822Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1071,7 +1071,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Aurora",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1176,7 +1181,7 @@ a Sidonian ear, drawn by white fawns, with a peacock standing beside
 him on the edge, sent him to offer all these bribes to <persName type="fictional" key="Procris">Procris</persName> for her
 love. <persName type="fictional" key="Cephalus">Cephalus</persName> turned a little pale at sight of the fawns; but his
 colour and even his gaiety returned in a minute; and taking a respectful
-farewell of <persName key="Aurora">the Goddess</persName>, he shook the reins, and set off down the
+farewell of <persName key="Aurora" ref="#Aurora" type="fictional">the Goddess</persName>, he shook the reins, and set off down the
 grassy valley that led to his home. </p>
 
 <p>The fawns, with a yearning yet easy swiftness, wound along down
