@@ -847,6 +847,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?place_annotation_20250122190314941",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T00:03:14.941Z",
+	"dcterms:modified": "2025-01-23T00:03:38.855Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?place_annotation_20250122190314941#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?place_annotation_20250122190314941#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2478280",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -936,7 +1015,7 @@ his exclusive tenderness for <persName type="fictional" key="Procris" ref="#Proc
 But how was <persName type="fictional" key="Procris">Procris</persName> to be tried? <persName key="Aurora">Aurora</persName> soon found an expedient.
 She changed the appearance of <persName type="fictional" key="Cephalus">Cephalus</persName> to that of a young Phoenician
 merchant; filled his pockets with gold and jewels; hung the rarest
-gems from <placeName type="region" key="Ormus" corresp="Hurmuz Island">Ormus<note type="editorial"> Ormus/ Hormuz is an island within the Persian gulf, now possessed by Portugal. The Kingdom of Ormus was established in the 11th century and extended along the eastern side of the Persian Gulf.</note></placeName> and the <placeName type="physical" key="Red Sea" corresp="Red Sea">Red Sea</placeName> in his turban; and seating him in
+gems from <placeName type="region" key="Ormus" corresp="Hurmuz Island" ref="http://www.wikidata.org/entity/Q2478280">Ormus<note type="editorial"> Ormus/ Hormuz is an island within the Persian gulf, now possessed by Portugal. The Kingdom of Ormus was established in the 11th century and extended along the eastern side of the Persian Gulf.</note></placeName> and the <placeName type="physical" key="Red Sea" corresp="Red Sea">Red Sea</placeName> in his turban; and seating him in
 a Sidonian ear, drawn by white fawns, with a peacock standing beside
 him on the edge, sent him to offer all these bribes to <persName type="fictional" key="Procris">Procris</persName> for her
 love. <persName type="fictional" key="Cephalus">Cephalus</persName> turned a little pale at sight of the fawns; but his
