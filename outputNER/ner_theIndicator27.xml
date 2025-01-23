@@ -1248,6 +1248,88 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122191856681",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T00:18:56.681Z",
+	"dcterms:modified": "2025-01-23T00:19:06.289Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122191856681#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122191856681#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[7]/q[13]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Cephalus",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
@@ -1452,7 +1534,7 @@ do not conceive it actually impossible.</q> <persName type="fictional" key="Proc
 <persName key="Aurora">Aurora</persName>'s unsuccessful passion for <persName type="fictional" key="Cephalus">Cephalus</persName>. She asked how long it
 was, since he had seen <persName key="Aurora">the Goddess</persName>. <q type="spoken">I saw her but now,</q> said the
 stranger: <q type="spoken">she was conversing in the forest here.</q> <q type="spoken">Do you know
-with whom?</q> asked <persName type="fictional" key="Procris">Procris</persName>, <q type="spoken">Oh yes; it was <persName type="fictional" key="Cephalus">your husband</persName>: and
+with whom?</q> asked <persName type="fictional" key="Procris">Procris</persName>, <q type="spoken">Oh yes; it was <persName type="fictional" key="Cephalus" ref="#Cephalus">your husband</persName>: and
 this reminds me, that he told me to beg you not to be alarmed, but
 he should not return till night-fall.</q> <q type="spoken">Not till night-fall?</q> half
 murmured and half enquired <persName type="fictional" key="Procris">the fair conqueror of <persName key="Aurora">Aurora</persName></persName>.—Now this
