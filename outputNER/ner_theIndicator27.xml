@@ -1772,7 +1772,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122193157563",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:31:57.563Z",
-	"dcterms:modified": "2025-01-23T00:31:57.563Z",
+	"dcterms:modified": "2025-01-23T00:32:11.788Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1803,7 +1803,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Venus_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2084,7 +2089,7 @@ there was a something in her face more touching than all the shapeliness
 in the world. It was a mixture of the pensive and the pleasurable,
 which seemed to say that if she had no cause for trouble, she would
 have been all tender vivacity. <q type="spoken">And whither are you going, fairest?</q>
-asked <persName type="fictional" key="Cephalus">Cephalus</persName>. <q type="spoken">To <placeName type="country" key="Cyprus" corresp="Cyprus" ref="http://www.wikidata.org/entity/Q229">Cyprus</placeName>.</q>—<q type="spoken">To the temple of <persName key="Venus">Venus</persName>?</q>—
+asked <persName type="fictional" key="Cephalus">Cephalus</persName>. <q type="spoken">To <placeName type="country" key="Cyprus" corresp="Cyprus" ref="http://www.wikidata.org/entity/Q229">Cyprus</placeName>.</q>—<q type="spoken">To the temple of <persName key="Venus (mythology)" ref="http://dbpedia.org/resource/Venus_(mythology)" type="fictional">Venus</persName>?</q>—
 <q type="spoken">To the temple of <persName key="Venus">Venus</persName>:</q> replied the beautiful stranger, dropping
 her words and face as she spoke. <q type="spoken">I have made a new vow, which—
 a new vow.</q> And blushing more deeply, she was again silent.—
