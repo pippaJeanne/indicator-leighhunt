@@ -1529,7 +1529,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122192301618",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:23:01.618Z",
-	"dcterms:modified": "2025-01-23T00:23:01.618Z",
+	"dcterms:modified": "2025-01-23T00:23:47.593Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1563,7 +1563,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "http://dbpedia.org/resource/Phalerus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1811,7 +1813,7 @@ in the <choice><corr>chase</corr><sic>chace</sic></choice>. Other dogs ran faste
 lances took truer aim. The gloom of the forest was still enlightened
 for him, because she did not wish to let him know how she was trying
 him; but the name of <persName type="fictional" key="Cephalus">Cephalus</persName> suffered in <choice><orig>it's</orig><reg>its</reg></choice> reputation. People
-began to say that <persName type="fictional" key="Phalerus">Phalerus</persName> was as good as he. </p>
+began to say that <persName type="fictional" key="Phalerus" ref="http://dbpedia.org/resource/Phalerus">Phalerus</persName> was as good as he. </p>
 
 <p>He was sitting at home one evening in a melancholy manner, after
 an unsuccessful day's sport, when a beautiful female with a dog appeared
