@@ -2703,7 +2703,7 @@ described by <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="r
 <note type="source">
 <bibl>
 <author>Ovid</author>,
-<title>Ars Amatoria</title>Liber III, lines 687-94.
+<title>Ars Amatoria</title><biblScope cert="high" unit="volume" xml:space="default">Liber III</biblScope>, <biblScope cert="high" unit="line" xml:space="default">lines 687-94</biblScope>.
 </bibl>
 </note>
 </lg>
