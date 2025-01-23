@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-It is not intended as a fixed structure, but rather collects some of the most common
-structural elements for convenience and uniformity. Please add/remove elements as
-necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <!-- File Description -->
 <fileDesc>
@@ -20,7 +13,7 @@ Hunt, <date from="1784" to="1859">1784-1859</date>
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <!-- Author information -->
@@ -42,7 +35,89 @@ Appleyard</publisher> <!-- Publisher details if available -->
 </fileDesc>
 
 <!-- Encoding Description -->
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123001852656",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T05:18:52.656Z",
+	"dcterms:modified": "2025-01-23T05:19:51.789Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123001852656#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123001852656#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Diana_(mythology)",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -59,16 +134,14 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="28">
-<pb n="217" /> <!-- Page beginning -->
+<pb n="217"/> <!-- Page beginning -->
 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
 <l>There he arriving round about doth flie,</l>
 <l>And takes survey with busie, curious eye:</l>
 <l>Now this, now that, he tasteth tenderly.</l>
-<l><persName key="Edmund Spenser"
-ref="http://www.wikidata.org/entity/Q4352055"
-cert="high" type="real">SPENSER</persName>.</l>
+<l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
 </epigraph>
 <head type="catalogue">No. XXVIII.—<date when="1820-04-19">WEDNESDAY, APRIL 19th, 1820</date>.</head>
 </div2>
@@ -81,7 +154,7 @@ beyond the power of the sun to dry it up again. There are clear
 chrystal mornings; noons of blue sky and white cloud; nights, in
 which the growing moon seems to lie looking at the stars, like a
 young shepherdess at her flock. A few days ago she lay gazing in
-this manner at the solitary evening star, like <persName key="Diana">Diana</persName>, on the slope of a
+this manner at the solitary evening star, like <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional">Diana</persName>, on the slope of a
 valley, looking up at <persName key="Endymion">Endymion</persName>. His young eye seemed to sparkle
 out upon the world; while she, bending inwards, her hands behind
 her head, watched him with an enamoured dumbness. </p>
@@ -109,7 +182,7 @@ like fairies from their subterraneous palaces. </p>
 <p>Who is to wonder that the idea of love mingles itself with that of 
 this cheerful and kind time of the year, setting aside even common 
 
-<pb n="218" />
+<pb n="218"/>
 
 associations? It is not only <choice><orig>it's</orig><reg>its</reg></choice> youth, and beauty, and budding life, 
 and <q type="soCalled">the passion of the groves,</q> that exclaim with the poet, 
@@ -195,7 +268,7 @@ flowers, in <title level="m">the Winter's Tale</title>, is beautifully compared 
 </note>
 </cit>
 
-<pb n="219" /> 
+<pb n="219"/> 
 
 There is a line in one of his sonnets, which, agreeably to the image he 
 had in his mind, seems to strike up in one's face, hot and odorous, like 
@@ -279,7 +352,7 @@ poem, is undervalued in comparison with the laurel; yet <persName key="Chaucer">
 perhaps was partly induced to translate it on account of <choice><orig>it's</orig><reg>its</reg></choice> making 
 the figure that it does; for he has informed us more than once, in a 
 
-<pb n="220" /> 
+<pb n="220"/> 
 
 very particular manner, that it was his favourite flower. There is a 
 very interesting passage to this effect in his <title key="The Legend of Good Women" level="m">Legend of Good Women</title>; 
@@ -370,7 +443,7 @@ from <persName key="George Wither">George Wither</persName>; which as it is an o
 applicable both to this article and our whole work, we cannot 
 deny ourselves the pleasure of repeating. It is the more interesting, 
 
-<pb n="221" /> 
+<pb n="221"/> 
 
 inasmuch as it was written in prison, where the freedom of his opinions 
 had thrown him.<note type="hunt">It is not generally known, that <persName key="Chaucer">Chaucer</persName> was four years in prison, in his old
@@ -463,7 +536,7 @@ becomes loyal to the daisy. </p>
 <l>Not quite so fair as many are </l>
 <l rend="indent">In heaven above thee! </l>
 
-<pb n="222" />
+<pb n="222"/>
 
 <l>Yet like a star, with glittering crest, </l>
 <l>Self-poised in air, thou seem'st to rest;— </l>
@@ -561,7 +634,7 @@ immense collection of sonnets and canzone, some of which have been lost, and
 others are still in M.S.</q> — We should be exceedingly gratified by the sight of any of 
 his poems that may happen to be in print. </note></p>
 
-<pb n="223" />
+<pb n="223"/>
 
 <cit>
 <quote>
@@ -608,7 +681,7 @@ his poems that may happen to be in print. </note></p>
 <l>Quella di fango lorda ne diviene, </l>
 <l>Quelladi di piu calpeste: </l>
 
-<pb n="224" />
+<pb n="224"/>
 
 <l>Cio ch' an colto ir si lassa, </l>
 <l>Ne pui s' apprtezza, e per bosco si spande. </l>
@@ -685,4 +758,3 @@ his poems that may happen to be in print. </note></p>
 </body>
 </text>
 </TEI>
-  
