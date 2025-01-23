@@ -152,7 +152,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123001958884",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T05:19:58.884Z",
-	"dcterms:modified": "2025-01-23T05:19:58.884Z",
+	"dcterms:modified": "2025-01-23T05:20:39.639Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -183,7 +183,12 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Endymion_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -232,7 +237,7 @@ chrystal mornings; noons of blue sky and white cloud; nights, in
 which the growing moon seems to lie looking at the stars, like a
 young shepherdess at her flock. A few days ago she lay gazing in
 this manner at the solitary evening star, like <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional">Diana</persName>, on the slope of a
-valley, looking up at <persName key="Endymion">Endymion</persName>. His young eye seemed to sparkle
+valley, looking up at <persName key="Endymion (mythology)" ref="http://dbpedia.org/resource/Endymion_(mythology)" type="fictional">Endymion</persName>. His young eye seemed to sparkle
 out upon the world; while she, bending inwards, her hands behind
 her head, watched him with an enamoured dumbness. </p>
 
