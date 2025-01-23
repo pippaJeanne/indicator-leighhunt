@@ -1611,7 +1611,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122192512672",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:25:12.672Z",
-	"dcterms:modified": "2025-01-23T00:26:58.243Z",
+	"dcterms:modified": "2025-01-23T00:41:14.272Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1808,6 +1808,88 @@
 			"cwrc:FictionalPerson"
 		],
 		"@id": "http://dbpedia.org/resource/Venus_(mythology)",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194050042",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-23T00:40:50.042Z",
+	"dcterms:modified": "2025-01-23T00:41:00.128Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194050042#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122194050042#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[10]/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "#Diana",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2072,7 +2154,7 @@ and looking eagerly towards the door. <persName type="fictional" key="Cephalus">
 in <placeName type="region" key="Thessaly" corresp="Greece">Thessaly</placeName>, yet he doubted whether this was not finer than any of
 them. He looked at the female, and now saw that she was buskined
 up like a nymph of the <choice><corr>chase</corr><sic>chace</sic></choice>. <q type="thought">The truth flashes upon me,</q> thought
-he; <q type="thought">this is a fugitive nymph of <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional">Diana</persName>. Her buskins and her blushes
+he; <q type="thought">this is a fugitive nymph of <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional" xml:id="Diana">Diana</persName>. Her buskins and her blushes
 tell her whole story.</q> The fair stranger seemed first oppressed, and
 then relieved by his gaze. <q type="spoken">You guess,</q> said she, <q type="spoken">but too well, I
 fear, what has put me upon your kind hospitality. But the other
@@ -2141,7 +2223,7 @@ but she had really gone to the haunts of <persName key="Diana">Diana</persName>,
 of her, though a huntress, was what might have been expected.
 She begged her, in very explicit terms, to withdraw. <persName type="fictional" key="Procris">Procris</persName>,
 however, though she could obtain no sympathy purely on her
-own account, contrived to waken an interest in the bosom of <persName key="Diana">the
+own account, contrived to waken an interest in the bosom of <persName key="Diana" ref="#Diana" type="fictional">the
 divine virgin</persName> by telling her of the trick played by <persName type="fictional" key="Cephalus">Cephalus</persName> and <persName key="Aurora">Aurora</persName>.
 This she thought abominable. She therefore wrought a counter-change
 in the appearance of <persName type="fictional" key="Procris">Procris</persName>; and giving her a hound out
