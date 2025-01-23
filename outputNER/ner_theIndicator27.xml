@@ -1611,7 +1611,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator27.xml?person_annotation_20250122192512672",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T00:25:12.672Z",
-	"dcterms:modified": "2025-01-23T00:25:12.672Z",
+	"dcterms:modified": "2025-01-23T00:26:58.243Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1642,7 +1642,12 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://dbpedia.org/resource/Diana_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1906,7 +1911,7 @@ and looking eagerly towards the door. <persName type="fictional" key="Cephalus">
 in <placeName type="region" key="Thessaly" corresp="Greece">Thessaly</placeName>, yet he doubted whether this was not finer than any of
 them. He looked at the female, and now saw that she was buskined
 up like a nymph of the <choice><corr>chase</corr><sic>chace</sic></choice>. <q type="thought">The truth flashes upon me,</q> thought
-he; <q type="thought">this is a fugitive nymph of <persName key="Diana">Diana</persName>. Her buskins and her blushes
+he; <q type="thought">this is a fugitive nymph of <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional">Diana</persName>. Her buskins and her blushes
 tell her whole story.</q> The fair stranger seemed first oppressed, and
 then relieved by his gaze. <q type="spoken">You guess,</q> said she, <q type="spoken">but too well, I
 fear, what has put me upon your kind hospitality. But the other
