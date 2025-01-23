@@ -556,7 +556,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123004809769",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T05:48:09.769Z",
-	"dcterms:modified": "2025-01-23T05:48:09.769Z",
+	"dcterms:modified": "2025-01-23T05:48:36.548Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -812,7 +812,7 @@ brought it from <placeName type="city" key="Constantinople" corresp="Turkey" ref
 also. </note> The 
 same word was the name of a woman, and occasioned infinite intermixtures 
 of compliment about pearls, daisies, and fair mistresses. 
-<persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer">Chaucer</persName>, <choice><corr>in</corr><sic>is</sic></choice> his beautiful poem of the Flower and the Leaf, which is 
+<persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, <choice><corr>in</corr><sic>is</sic></choice> his beautiful poem of the Flower and the Leaf, which is 
 evidently imitated from some French poetess, says, 
 
 <cit><quote><lg rend="center">
@@ -825,7 +825,7 @@ evidently imitated from some French poetess, says,
 <note type="source">
 <bibl>
 <author>Geoffrey Chaucer</author>
-<title level="a">The Flower and the Leaf</title>. </bibl>
+<title level="a">The Flower and the Leaf</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer" xml:space="default"/>. </bibl>
 </note>
 </cit>
 </p>
