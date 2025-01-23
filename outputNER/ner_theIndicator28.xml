@@ -395,7 +395,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123003042721",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-23T05:30:42.721Z",
-	"dcterms:modified": "2025-01-23T05:30:42.721Z",
+	"dcterms:modified": "2025-01-23T05:35:15.034Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -429,7 +429,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Perdita_(The_Winter's_Tale)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -575,7 +577,7 @@ and strength in almost every one of the lines.
 </note>
 </cit>
 <persName key="William Shakespeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> was fond of alluding to April. He did not allow May to 
-have all his regard, because she was richer. <persName type="fictional" key="Perdita">Perdita</persName>, crowned with 
+have all his regard, because she was richer. <persName type="fictional" key="Perdita" ref="https://dbpedia.org/resource/Perdita_(The_Winter's_Tale)">Perdita</persName>, crowned with 
 flowers, in <title level="m">the Winter's Tale</title>, is beautifully compared to 
 
 <cit><quote>
