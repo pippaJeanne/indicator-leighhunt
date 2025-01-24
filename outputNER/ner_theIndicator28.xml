@@ -862,7 +862,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123220258668",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T03:02:58.668Z",
-	"dcterms:modified": "2025-01-24T03:02:58.668Z",
+	"dcterms:modified": "2025-01-24T03:04:32.637Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -893,7 +893,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/George_Wither",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1226,7 +1228,7 @@ style of our pleasant parodists:
 </p>
 
 <p><persName key="William Wordsworth" ref="https://dbpedia.org/resource/William_Wordsworth" type="real">Mr. Wordsworth</persName> introduces his homage to the daisy with a passage 
-from <persName key="George Wither">George Wither</persName>; which as it is an old favourite of ours, and extremely 
+from <persName key="George Wither" ref="https://dbpedia.org/resource/George_Wither" type="real">George Wither</persName>; which as it is an old favourite of ours, and extremely 
 applicable both to this article and our whole work, we cannot 
 deny ourselves the pleasure of repeating. It is the more interesting, 
 
@@ -1256,7 +1258,7 @@ Reformation. His prison, doubtless, was no diminisher of his love the daisy.</no
 <note type="source">
 <bibl>
 <author>George Wither</author>
-<title level="m">The Shepherd's Hunting</title>, from the Prelude
+<title level="m">The Shepherd's Hunting</title>, <biblScope>from the Prelude</biblScope>
 </bibl>
 </note>
 </cit> 
