@@ -2132,7 +2132,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000422372",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:04:22.372Z",
-	"dcterms:modified": "2025-01-24T05:04:51.140Z",
+	"dcterms:modified": "2025-01-24T05:06:19.850Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2244,6 +2244,85 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://dbpedia.org/resource/John_Dryden",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000625478",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-24T05:06:25.478Z",
+	"dcterms:modified": "2025-01-24T05:06:45.370Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000625478#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000625478#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "#SirWalter",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2589,7 +2668,7 @@ rises up from this full stop at the first!]
 </note>
 </cit>
 
-<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage 
+<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real" xml:id="SirWalter">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage 
 before us, and <persName key="John Dryden">Dryden</persName>'s version of it, that <cit><q type="written">the modern must yield
 the palm to the ancient, in spite of the beauty of his versification.</q>
 <note type="source">
@@ -2604,7 +2683,7 @@ of the palm, but not as to the exception about the versification.
 With some allowance as to our present mode of accentuation, it appears 
 to us to be touched with a finer sense of music even than <persName key="John Dryden">Dryden</persName>'s. 
 It is more delicate, without any inferiority in strength; and still more 
-various. At the same time, we do not quote <persName key="Sir Walter Scott">Sir Walter</persName> for the 
+various. At the same time, we do not quote <persName key="Sir Walter Scott" ref="#SirWalter" type="real">Sir Walter</persName> for the 
 purpose of differing with him. We would only shew the more
 fashionable part of our readers, what their favourite writer thinks 
 of <persName key="Chaucer">Chaucer</persName>; and we would also take another opportunity of contrasting 
