@@ -2130,7 +2130,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?title_annotation_20250123225543361",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T03:55:43.361Z",
-	"dcterms:modified": "2025-01-24T03:55:43.361Z",
+	"dcterms:modified": "2025-01-24T03:57:26.652Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2161,7 +2161,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "Gathering Flowers",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2693,7 +2695,7 @@ his poems that may happen to be in print. </note></p>
 
 <cit>
 <quote>
-<title rend="center capitalise">Gathering Flowers.</title>
+<title rend="center capitalise" key="Gathering Flowers" level="m" ref="Gathering Flowers">Gathering Flowers.</title>
 <lg xml:lang="it" rend="center">
 <l>Passando con pensier per un boschetto, </l>
 <l>Donne per quello givan fior cogliendo, </l>
