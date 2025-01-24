@@ -3247,7 +3247,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001505810",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:15:05.810Z",
-	"dcterms:modified": "2025-01-24T05:15:05.810Z",
+	"dcterms:modified": "2025-01-24T05:15:55.984Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3275,6 +3275,88 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001505810#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[10]/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Academus",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001600414",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-24T05:16:00.414Z",
+	"dcterms:modified": "2025-01-24T05:16:00.414Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001600414#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001600414#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[10]/q/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3836,7 +3918,7 @@ greatest of all the active spirits of <placeName type="country" key="Greece" cor
 dancer. <persName key="Alfred the Great" ref="https://dbpedia.org/resource/Alfred_the_Great" type="real">Alfred the Great</persName> could act the whole part of a ministrel. 
 <persName key="Epicurus" ref="http://dbpedia.org/resource/Epicurus" type="real">Epicurus</persName> taught the riches of temperance and intellectual pleasure in 
 a gardern. The other philosophers of his country walked between 
-heaven, and earth in the colloquial bowers of <persName key="Academus">Academus</persName>; and, <q type="written">the
+heaven, and earth in the colloquial bowers of <persName key="Academus" ref="https://dbpedia.org/resource/Academus" type="fictional">Academus</persName>; and, <q type="written">the
 wisest heart of <persName key="Solomon">Solomon</persName>,</q><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Lost</title></bibl></note> who found every thing vain because he was 
 a king, has left us panegyrics on the Spring and <q type="written">the voice of the
 turtle,</q><note type="source"><bibl>Song of Solomon 2:12</bibl></note> because he was a poet, a lover, and a wise man.</p>
