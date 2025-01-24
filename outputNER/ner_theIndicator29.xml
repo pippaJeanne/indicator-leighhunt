@@ -624,7 +624,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123233202539",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:32:02.539Z",
-	"dcterms:modified": "2025-01-24T04:32:02.539Z",
+	"dcterms:modified": "2025-01-24T04:33:38.561Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -655,7 +655,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/resource/The_Shepheardes_Calender",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -756,7 +758,7 @@ part of the day was chiefly spent in dancing round a May-pole, which
 being placed in a convenient part of the village, stood there, as it
 were, consecrated to the <persName type="fictional" key="Flora" ref="#Flora">Goddess of Flowers</persName> without the least violation
 offered to it, in the whole circle of the year.</q> <persName key="Edmund Spenser" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName>, in his
-<title level="m" key="The Shepheardes Calender"><choice><corr>Shepherd's</corr><sic>Shepheard's</sic></choice> Calendar</title>, has detailed the circumstances, in a style like a
+<title level="m" key="The Shepheardes Calender" ref="https://dbpedia.org/resource/The_Shepheardes_Calender"><choice><corr>Shepherd's</corr><sic>Shepheard's</sic></choice> Calendar</title>, has detailed the circumstances, in a style like a
 rustic dance. 
 
 <cit><quote><lg rend="center">
