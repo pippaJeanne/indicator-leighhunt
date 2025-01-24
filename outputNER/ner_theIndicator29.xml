@@ -3329,7 +3329,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001600414",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:16:00.414Z",
-	"dcterms:modified": "2025-01-24T05:16:00.414Z",
+	"dcterms:modified": "2025-01-24T05:17:41.007Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -3360,7 +3360,12 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Solomon",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3919,7 +3924,7 @@ dancer. <persName key="Alfred the Great" ref="https://dbpedia.org/resource/Alfre
 <persName key="Epicurus" ref="http://dbpedia.org/resource/Epicurus" type="real">Epicurus</persName> taught the riches of temperance and intellectual pleasure in 
 a gardern. The other philosophers of his country walked between 
 heaven, and earth in the colloquial bowers of <persName key="Academus" ref="https://dbpedia.org/resource/Academus" type="fictional">Academus</persName>; and, <q type="written">the
-wisest heart of <persName key="Solomon">Solomon</persName>,</q><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Lost</title></bibl></note> who found every thing vain because he was 
+wisest heart of <persName key="Solomon" ref="https://dbpedia.org/resource/Solomon" type="fictional">Solomon</persName>,</q><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Lost</title></bibl></note> who found every thing vain because he was 
 a king, has left us panegyrics on the Spring and <q type="written">the voice of the
 turtle,</q><note type="source"><bibl>Song of Solomon 2:12</bibl></note> because he was a poet, a lover, and a wise man.</p>
 </div2>
