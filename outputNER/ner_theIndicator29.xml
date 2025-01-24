@@ -2211,7 +2211,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000454798",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:04:54.798Z",
-	"dcterms:modified": "2025-01-24T05:04:54.798Z",
+	"dcterms:modified": "2025-01-24T05:05:27.765Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2242,7 +2242,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/John_Dryden",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2587,7 +2589,7 @@ rises up from this full stop at the first!]
 </note>
 </cit>
 
-<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real">Sir Walter Scott</persName> in his edition of <persName key="John Dryden">Dryden</persName> says upon the passage 
+<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage 
 before us, and <persName key="John Dryden">Dryden</persName>'s version of it, that <cit><q type="written">the modern must yield
 the palm to the ancient, in spite of the beauty of his versification.</q>
 <note type="source">
