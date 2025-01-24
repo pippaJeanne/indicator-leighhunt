@@ -2449,7 +2449,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000726950",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:07:26.950Z",
-	"dcterms:modified": "2025-01-24T05:07:26.950Z",
+	"dcterms:modified": "2025-01-24T05:08:23.706Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2483,7 +2483,91 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Apollo",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000829348",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-24T05:08:29.348Z",
+	"dcterms:modified": "2025-01-24T05:08:48.670Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000829348#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000829348#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[6]/cit/quote/lg/l[8]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/resource/Theseus",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2877,12 +2961,12 @@ and happy ease in the conclusion!
 <lg rend="center">
 <l>The busy lark, the messenger of day, </l>
 <l>Saleweth<note type="hunt">Saluteth.</note> in her song the morrow gray; </l>
-<l>And fiery <persName type="fictional" key="Phoebus">Phœbus</persName> riseth up so bright, </l>
+<l>And fiery <persName type="fictional" key="Apollo" ref="https://dbpedia.org/resource/Apollo">Phœbus</persName> riseth up so bright, </l>
 <l>That all the orient laugheth of the sight; </l>
 <l>And with his stremès drieth in the greves<note type="hunt">Groves.</note></l>
 <l>The silver droppès hanging in the leaves; </l>
 <l>And <persName type="fictional" key="Arcite">Arcite</persName>, that is in the court real<note type="hunt">Royal. </note></l>
-<l>With <persName type="fictional" key="Theseus">Theseus</persName> the squier principal, </l>
+<l>With <persName type="fictional" key="Theseus" ref="https://dbpedia.org/resource/Theseus">Theseus</persName> the squier principal, </l>
 <l>Is risen, and looketh on the merry day; </l>
 <l>And for to do his observance to May, </l>
 <l>Remembring on the point of his desire, </l>
