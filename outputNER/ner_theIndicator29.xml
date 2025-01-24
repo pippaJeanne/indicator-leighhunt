@@ -144,7 +144,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?place_annotation_20250123231546131",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:15:46.131Z",
-	"dcterms:modified": "2025-01-24T04:15:46.131Z",
+	"dcterms:modified": "2025-01-24T04:16:08.806Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -175,7 +175,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q46",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -248,7 +250,7 @@ coming, and sent up hundreds of songs of joy.
 These songs were stopped by <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>'s own friends the Puritans, whom 
 in his old age he again differed with, most likely on these very points 
 among others. But till then, they appear to have been as old, all over 
-<placeName type="continent" key="Europe" corresp="Europe">Europe</placeName>, as the existence of society. The Druids are said to have had 
+<placeName type="continent" key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, as the existence of society. The Druids are said to have had 
 festivals in honour of May. Our Teutonic ancestors had undoubtedly; 
 and in the countries which had constituted the Western Roman Empire, 
 <persName type="fictional" key="Flora">Flora</persName> still saw thanks paid for her flowers, though her worship 
