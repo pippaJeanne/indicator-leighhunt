@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-It is not intended as a fixed structure, but rather collects some of the most common
-structural elements for convenience and uniformity. Please add/remove elements as
-necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
 <!-- File Description -->
 <fileDesc>
@@ -18,7 +11,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 </titleStmt>
 
 <publicationStmt>
-<p />
+<p/>
 </publicationStmt>
 
 <!-- Author information -->
@@ -37,7 +30,84 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 </fileDesc>
 
 <!-- Encoding Description -->
-<encodingDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123231445396",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-24T04:14:45.396Z",
+	"dcterms:modified": "2025-01-24T04:14:45.396Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123231445396#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123231445396#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
 <!-- Add any encoding information or guidelines here if applicable -->
 <p>
 Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -54,7 +124,7 @@ preservation.
 <text>
 <body>
 <div1 type="issue" n="29">
-<pb n="225" /> <!-- Page beginning -->
+<pb n="225"/> <!-- Page beginning -->
 <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
 <head type="title">THE INDICATOR.</head>
 <epigraph>
@@ -111,7 +181,7 @@ we have been surprised to miss among them that of Bel-temps, the Fine Time or
 Season. Thus Printemps, the First Time or Prime Season, is the Spring.</note>
 </p>
 
-<pb n="226" />
+<pb n="226"/>
 
 <p>The homage, which was paid to the Month of Love and Flowers, 
 may be divided into two sorts, the general and the individual. The 
@@ -184,7 +254,7 @@ prizes.
 <l>When envious night commands them to be gone, </l>
 <l>Call for the merry youngsters one by one, </l>
 
-<pb n="227" />
+<pb n="227"/>
 
 <l>And for their well performance soon disposes, </l>
 <l>To this a garland interwove with roses, </l>
@@ -269,7 +339,7 @@ Eclog. 4, Cassamen and Dowsabell
 </bibl></note>
 </cit>
 
-<pb n="228" /> 
+<pb n="228"/> 
 
 But when morning pleasures are to be spoken of, the lovers of poetry 
 who do not know <persName key="Chaucer">Chaucer</persName>, are like those who do not know what it is 
@@ -340,7 +410,7 @@ the look of <persName key="Chaucer">Chaucer</persName>'s words to prevent his en
 <l>And in the garden, at the sun uprist, </l>
 <l>She walketh up and down, where as her list; </l>
 
-<pb n="229" />
+<pb n="229"/>
 
 <l>She gathereth flowers, party white and red, </l>
 <l>To make a subtle garland for her head; </l>
@@ -415,7 +485,7 @@ radiant joy is in the second couplet: what a vital quickness in the
 comparison of the horse, <q type="written">starting as the fire;</q><note type="source"><bibl><author>Geoffrey Chaucer</author><title level="s">The Canterbury Tales</title>The Knight's Tale</bibl></note> and what a native 
 and happy ease in the conclusion! 
 
-<pb n="230" />
+<pb n="230"/>
 <cit>
 <quote>
 <lg rend="center">
@@ -486,7 +556,7 @@ pen; perhaps for mounting.
 <l>So may thy tender blossoms fear no blight, </l>
 <l>Nor goats with venom'd teeth, thy tendrils bite, </l>
 
-<pb n="231" />
+<pb n="231"/>
 
 <l>As thou shalt guide my wandering steeps to find </l>
 <l>The fragrant greens I seek, my brows to bind." </l>
@@ -566,7 +636,7 @@ and we have ever since been mistaking the means for the end. </p>
 <p>Fortunately it does not follow, that we shall continue to do so. 
 Commerce, while it thinks it is only exchanging commodities, is helping 
 
-<pb n="232" />
+<pb n="232"/>
 
 to diffuse knowledge. All other gains,—all selfish and extravagant 
 systems of acquisition,—tend to over-do themselves, and to topple 
@@ -599,4 +669,3 @@ turtle,</q><note type="source"><bibl>Song of Solomon 2:12</bibl></note> because 
 </body>
 </text>
 </TEI>
-  
