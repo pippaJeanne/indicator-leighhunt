@@ -1814,7 +1814,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124000001487",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:00:01.487Z",
-	"dcterms:modified": "2025-01-24T05:00:01.487Z",
+	"dcterms:modified": "2025-01-24T05:00:48.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1845,7 +1845,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Matteo_Maria_Boiardo",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2098,7 +2100,7 @@ a knight. How far they owe any of their beauty to his original, <title level="a"
 Theseide</title> of <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>, we cannot say; for we never had the happiness 
 of meeting with that very rare work. The Italians have so 
 neglected it, that they have not only never given it a rifacimento or 
-re-modelling, as in the instance of <persName key="Matteo Maria Boiardo">Boiardo</persName>'s poem, but are almost as 
+re-modelling, as in the instance of <persName key="Matteo Maria Boiardo" ref="https://dbpedia.org/resource/Matteo_Maria_Boiardo" type="real">Boiardo</persName>'s poem, but are almost as 
 much unacquainted with it, we believe, as foreign countries. <persName key="Chaucer">Chaucer</persName> 
 thought it worth his while to be both acquainted with it, and to make 
 others so; and we may venture, to say, that we know of no Italian 
