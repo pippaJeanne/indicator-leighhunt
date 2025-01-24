@@ -1022,7 +1022,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123234139449",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:41:39.449Z",
-	"dcterms:modified": "2025-01-24T04:42:27.193Z",
+	"dcterms:modified": "2025-01-24T04:43:40.900Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1054,7 +1054,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/resource/William_Browne_(poet)",
+		"@id": "#Browne",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1101,7 +1101,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123234251245",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:42:51.245Z",
-	"dcterms:modified": "2025-01-24T04:43:20.826Z",
+	"dcterms:modified": "2025-01-24T04:43:53.854Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1302,7 +1302,7 @@ prizes.
 <l>And none returneth empty, that hath spent </l>
 <l>His pains to fill their rural merriment.
 <note type="hunt" place="foot">
-<title level="m"><hi rend="italic">Britannia's Pastorals</hi></title>, by <persName key="William Browne" ref="https://dbpedia.org/resource/William_Browne_(poet)" type="real">William Browne</persName>. Song the 4th. <persName key="William Browne" ref="https://dbpedia.org/resource/William_Browne_(poet)" type="real">Browne</persName>, like his 
+<title level="m">Britannia's Pastorals</title>, by <persName key="William Browne" ref="https://dbpedia.org/resource/William_Browne_(poet)" type="real" xml:id="Browne">William Browne</persName>. Song the 4th. <persName key="William Browne" ref="#Browne" type="real">Browne</persName>, like his 
 friend <persName key="George Wither" ref="https://dbpedia.org/resource/George_Wither" type="real">Wither</persName>, from whom we quoted a passage last week, wanted strength and 
 the power of selection; though not to such an extent. He is however well worth 
 reading by those who can expatiate over a pastoral subject, like a meadowy tract 
