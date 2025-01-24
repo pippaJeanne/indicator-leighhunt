@@ -782,7 +782,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123233802131",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:38:02.131Z",
-	"dcterms:modified": "2025-01-24T04:38:02.131Z",
+	"dcterms:modified": "2025-01-24T04:38:11.952Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -816,7 +816,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "#Flora",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -945,7 +947,7 @@ rustic dance.
 <l>To fetchen home May with their musicall, </l>
 <l>And home they bringen, in a royall throne, </l>
 <l>Crowned as king; and his queen attone<note type="hunt" place="foot"><hi rend="italic">Attone</hi>, At once—With him.</note></l>
-<l>Was <persName type="fictional" key="Flora">Lady Flora</persName>, on whom did attend </l>
+<l>Was <persName type="fictional" key="Flora" ref="#Flora">Lady Flora</persName>, on whom did attend </l>
 <l>A fayre flocke of faeries, and a fresh bend </l>
 <l>Of lovely nymphs. O that I were there </l>
 <l>To helpen the ladies their May-bush beare. </l>
@@ -953,8 +955,7 @@ rustic dance.
 </lg></quote>
 <note type="source">
 <bibl>
-<author>Edmund Spenser</author><title>The Shepheardes Calender</title>May, Aegloga Quinta
-</bibl>
+<author>Edmund Spenser</author><title>The Shepheardes Calender</title> <biblScope>May, Aegloga Quinta </biblScope></bibl>
 </note>
 </cit> 
 
