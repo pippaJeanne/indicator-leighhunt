@@ -1498,7 +1498,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123235416406",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:54:16.406Z",
-	"dcterms:modified": "2025-01-24T04:54:16.406Z",
+	"dcterms:modified": "2025-01-24T04:55:05.406Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1530,7 +1530,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/Geoffrey_Chaucer",
+		"@id": "https://dbpedia.org/resource/Geoffrey_Chaucer",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1776,9 +1776,9 @@ Eclog. 4, Cassamen and Dowsabell
 <pb n="228"/> 
 
 But when morning pleasures are to be spoken of, the lovers of poetry 
-who do not know <persName key="Chaucer" ref="https://dbpedia.org/page/Geoffrey_Chaucer">Chaucer</persName>, are like those who do not know what it is 
+who do not know <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, are like those who do not know what it is 
 to be up in the morning. He has left us two exquisite pictures of the 
-solitary observance of May, in his <title level="a"><persName key="Palamon">Palamon</persName> and <persName key="Arcite">Arcite</persName></title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
+solitary observance of May, in his <title level="a">Palamon and <persName key="Arcite">Arcite</persName></title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
 more curious inasmuch as the actor in one is a lady, and in the other 
 a knight. How far they owe any of their beauty to his original, <title level="a">the 
 Theseide</title> of <persName key="Giovanni Boccaccio">Boccaccio</persName>, we cannot say; for we never had the happiness 
