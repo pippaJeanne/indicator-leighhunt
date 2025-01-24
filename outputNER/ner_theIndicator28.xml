@@ -1020,7 +1020,7 @@ Appleyard</publisher> <!-- Publisher details if available -->
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator28.xml?person_annotation_20250123223150699",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T03:31:50.699Z",
-	"dcterms:modified": "2025-01-24T03:31:50.699Z",
+	"dcterms:modified": "2025-01-24T03:32:41.296Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1054,7 +1054,9 @@ Appleyard</publisher> <!-- Publisher details if available -->
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "https://dbpedia.org/resource/Leda_(mythology)",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1520,7 +1522,7 @@ this of la belle Marquerite. In the first place, <choice><orig>it's</orig><reg>i
 and slender, but not too much so. Then it has a boss of gold, set 
 round and irradiated with silver points. <choice><orig>it's</orig><reg>its</reg></choice> yellow and fair white are 
 in so high a taste of contrast, that <persName key="Edmund Spenser" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName> has chosen the same colours
-for a picture of <persName type="fictional" key="Leda">Leda</persName> reposing:— 
+for a picture of <persName type="fictional" key="Leda" ref="https://dbpedia.org/resource/Leda_(mythology)">Leda</persName> reposing:— 
 
 <cit><quote>
 <lg rend="center">
@@ -1531,7 +1533,7 @@ for a picture of <persName type="fictional" key="Leda">Leda</persName> reposing:
 <note type="source">
 <bibl>
 <author>Edmund Spenser</author>
-<title level="m">The Faerie Queene</title>, Book III, Canto XI. </bibl>
+<title level="m">The Faerie Queene</title>, <biblScope cert="high" unit="volume" xml:space="default">Book III</biblScope>, <biblScope cert="high" unit="chapter" xml:space="default">Canto XI</biblScope>. </bibl>
 </note>
 </cit>
 </p>
