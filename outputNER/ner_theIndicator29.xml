@@ -1577,7 +1577,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123235605868",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:56:05.868Z",
-	"dcterms:modified": "2025-01-24T04:56:05.868Z",
+	"dcterms:modified": "2025-01-24T04:56:55.362Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1605,6 +1605,85 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123235605868#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://dbpedia.org/resource/Palamon_and_Arcite",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123235713911",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-24T04:57:13.911Z",
+	"dcterms:modified": "2025-01-24T04:57:13.911Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/pippaJeanne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yanet Hernández Pedraza"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123235713911#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123235713911#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div1/div2[2]/p[4]/title[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1855,7 +1934,7 @@ Eclog. 4, Cassamen and Dowsabell
 But when morning pleasures are to be spoken of, the lovers of poetry 
 who do not know <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, are like those who do not know what it is 
 to be up in the morning. He has left us two exquisite pictures of the 
-solitary observance of May, in his <title level="a">Palamon and Arcite</title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
+solitary observance of May, in his <title level="a" key="Palamon and Arcite" ref="https://dbpedia.org/resource/Palamon_and_Arcite">Palamon and Arcite</title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
 more curious inasmuch as the actor in one is a lady, and in the other 
 a knight. How far they owe any of their beauty to his original, <title level="a">the 
 Theseide</title> of <persName key="Giovanni Boccaccio">Boccaccio</persName>, we cannot say; for we never had the happiness 
