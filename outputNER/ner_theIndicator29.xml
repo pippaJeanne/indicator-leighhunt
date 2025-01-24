@@ -2692,7 +2692,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250124001004553",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T05:10:04.553Z",
-	"dcterms:modified": "2025-01-24T05:10:04.553Z",
+	"dcterms:modified": "2025-01-24T05:10:36.409Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -2723,7 +2723,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://dbpedia.org/resource/Jacopo_Sannazaro",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -3230,7 +3232,7 @@ of nature, in grove or glade.
 <l>O Satiri e Silvani, o Fauni e Driadi, </l>
 <l>Naiadi ed Amadriadi, o Semidee, </l>
 <l>Oreadi e Napee,—or siete sole. </l>
-<note type="hunt"><l rend="right"><hi rend="italic"><persName key="Jacopo Sannazzaro">Sannazzaro</persName></hi></l></note></lg>
+<note type="hunt"><l rend="right"><hi rend="italic"><persName key="Jacopo Sannazzaro" ref="https://dbpedia.org/resource/Jacopo_Sannazaro" type="real">Sannazzaro</persName></hi></l></note></lg>
 </quote>
 <note type="source">
 <bibl>
