@@ -1735,7 +1735,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?person_annotation_20250123235903881",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:59:03.881Z",
-	"dcterms:modified": "2025-01-24T04:59:03.881Z",
+	"dcterms:modified": "2025-01-24T04:59:46.108Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -1767,7 +1767,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://dbpedia.org/page/Giovanni_Boccaccio",
+		"@id": "https://dbpedia.org/resource/Giovanni_Boccaccio",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2018,7 +2018,7 @@ to be up in the morning. He has left us two exquisite pictures of the
 solitary observance of May, in his <title level="a" key="Palamon and Arcite" ref="https://dbpedia.org/resource/Palamon_and_Arcite">Palamon and Arcite</title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
 more curious inasmuch as the actor in one is a lady, and in the other 
 a knight. How far they owe any of their beauty to his original, <title level="a" key="Theseide" ref="https://dbpedia.org/resource/Teseida">the 
-Theseide</title> of <persName key="Boccaccio" ref="https://dbpedia.org/page/Giovanni_Boccaccio">Boccaccio</persName>, we cannot say; for we never had the happiness 
+Theseide</title> of <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>, we cannot say; for we never had the happiness 
 of meeting with that very rare work. The Italians have so 
 neglected it, that they have not only never given it a rifacimento or 
 re-modelling, as in the instance of <persName key="Matteo Maria Boiardo">Boiardo</persName>'s poem, but are almost as 
