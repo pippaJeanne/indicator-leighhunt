@@ -384,7 +384,7 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/outputNER/ner_theIndicator29.xml?title_annotation_20250123232155146",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-24T04:21:55.146Z",
-	"dcterms:modified": "2025-01-24T04:21:55.146Z",
+	"dcterms:modified": "2025-01-24T04:28:44.654Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -415,7 +415,9 @@ James Henry Leigh Hunt, <date from="1784" to="1859">1784-1859</date>
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "https://books.google.ca/books/about/Antiquitates_Vulgares.html?id=Pqk_AAAAYAAJ&amp;redir_esc=y",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -506,7 +508,7 @@ Season. Thus Printemps, the First Time or Prime Season, is the Spring.</note>
 may be divided into two sorts, the general and the individual. The 
 first consisted in going with others to gather May, and in joining in 
 sports and games afterwards. On the first of the month, <q type="written">the juvenile
-part of both sexes,</q> says <persName key="Henry Bourne" ref="https://dbpedia.org/resource/Henry_Bourne" type="real">Bourne</persName>, in his <title level="a" key="Antiquitates Vulgares">Popular Antiquities</title>, <q type="written">were
+part of both sexes,</q> says <persName key="Henry Bourne" ref="https://dbpedia.org/resource/Henry_Bourne" type="real">Bourne</persName>, in his <title level="a" key="Antiquitates Vulgares" ref="https://books.google.ca/books/about/Antiquitates_Vulgares.html?id=Pqk_AAAAYAAJ&amp;redir_esc=y">Popular Antiquities</title>, <q type="written">were
 wont to rise a little after midnight and walk to some neighbouring
 wood, where they broke down branches from the trees, and adorned
 them with nosegays and crowns of flowers. When this was done,
