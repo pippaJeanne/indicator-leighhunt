@@ -2251,7 +2251,7 @@ and <q type="soCalled">the passion of the groves,</q> that exclaim with the poet
 <note type="source">
 <bibl>
 <author>Anon.</author>, <title>Pervigilium Veneris</title><editor>Thomas Parnell</editor>
-<biblScope cert="high" unit="line" xml:space="default">ll. 1-2</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9" xml:space="default"/></bibl>
+<biblScope cert="high" unit="line">ll. 1-2</biblScope><ref target="https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9"/></bibl>
 </note>
 </cit>
 All our kindly impulses are apt to have more sentiment in them, than 
@@ -2269,13 +2269,13 @@ talents, whose persons or address have not been much calculated to
 inspire it. In spring-time, joy awakens the heart: with joy, awakes 
 gratitude and nature; and in our gratitude, we
 return, on <choice><orig>it's</orig><reg>its</reg></choice> own 
-principle of participation, the love that has been shewn us. </p>
+principle of participation, the love that has been <choice><reg>show</reg><orig>shew</orig></choice>n us. </p>
 
 <p>This association of ideas renders solitude in spring, and solitude in 
 winter, two very different things. In the latter, we are better content 
 to bear the feelings of the season by ourselves:—in the former 
 they are so sweet as well as so overflowing, that we long to share them. 
-<persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName>, in one of his sonnets, describes himself as so identifying 
+<persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><reg>Shakespeare</reg><orig>Shakspeare</orig></choice></persName>, in one of his sonnets, describes himself as so identifying 
 the beauties of the spring with the thought of his absent mistress, that 
 he says he forgot them in their own character, and played with them 
 only as with her shadow. See how exquisitely he turns a commonplace 
@@ -2305,11 +2305,10 @@ and strength in almost every one of the lines.
 <bibl>
 <author>William Shakespeare
 </author>
-<title level="a">Sonnet XCVIII</title><ref cert="high" evaluate="all" generatedBy="human" target="https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html" xml:space="default"/>. </bibl>
+<title level="a">Sonnet XCVIII</title><ref target="https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html" />. </bibl>
 </note>
 </cit>
-<persName key="William Shakespeare"><choice><corr>Shakespeare</corr><sic>Shakspeare</sic></choice></persName> was fond of alluding to April. He did not allow May to 
-have all his regard, because she was richer. <persName type="fictional" key="Perdita" ref="https://dbpedia.org/resource/Perdita_(The_Winter's_Tale)">Perdita</persName>, crowned with 
+<persName key="William Shakespeare"><choice><reg>Shakespeare</reg><orig>Shakspeare</orig></choice></persName> was fond of alluding to April. He did not allow May to have all his regard, because she was richer. <persName type="fictional" key="Perdita" ref="https://dbpedia.org/resource/Perdita_(The_Winter's_Tale)">Perdita</persName>, crowned with 
 flowers, in <title level="m">the Winter's Tale</title>, is beautifully compared to 
 
 <cit><quote>
@@ -2321,7 +2320,7 @@ flowers, in <title level="m">the Winter's Tale</title>, is beautifully compared 
 <note type="source">
 <bibl>
 <author>William Shakespeare</author>
-<title level="m">The Winter's Tale</title>, <biblScope cert="high" unit="part" xml:space="default">Act IV scene iv</biblScope>, <biblScope cert="high" unit="line" xml:space="default">ll. 2-3</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=the+winter%27s+tale+by+william+shakespeare" xml:space="default"/>. </bibl>
+<title level="m">The Winter's Tale</title>, <biblScope cert="high" unit="part" >Act IV scene iv</biblScope>, <biblScope cert="high" unit="line" >ll. 2-3</biblScope><ref target="https://www.google.com/search?q=the+winter%27s+tale+by+william+shakespeare" />. </bibl>
 </note>
 </cit>
 
@@ -2339,7 +2338,7 @@ perfume in a censer.
 <note type="source">
 <bibl>
 <author>William Shakespeare</author>
-<title level="a">Sonnet CIV</title><ref cert="high" evaluate="all" generatedBy="human" target="https://shakespeares-sonnets.com/sonnet/104" xml:space="default"/><biblScope cert="high" unit="line" xml:space="default">ll. 6-7</biblScope>. </bibl>
+<title level="a">Sonnet CIV</title><ref target="https://shakespeares-sonnets.com/sonnet/104" /><biblScope cert="high" unit="line" >ll. 6-7</biblScope>. </bibl>
 </note>
 </cit>
 His allusions ta spring are numerous in proportion. We all know 
@@ -2356,7 +2355,7 @@ pallets:—
 <note type="source">
 <bibl>
 <author>William Shakespeare</author>
-<title level="m">Love's Labour's Lost</title>, <biblScope cert="high" unit="part" xml:space="default">Act V scene ii</biblScope>, <biblScope cert="high" unit="line" xml:space="default">ll. 881-84</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://shakespeare.mit.edu/lll/full.html" xml:space="default"/>. </bibl>
+<title level="m">Love's Labour's Lost</title>, <biblScope cert="high" unit="part" >Act V scene ii</biblScope>, <biblScope cert="high" unit="line" >ll. 881-84</biblScope><ref target="https://shakespeare.mit.edu/lll/full.html" />. </bibl>
 </note>
 </cit>
 </p>
@@ -2399,13 +2398,13 @@ evidently imitated from some French poetess, says,
 <note type="source">
 <bibl>
 <author>Geoffrey Chaucer</author>
-<title level="a">The Flower and the Leaf</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer" xml:space="default"/>. </bibl>
+<title level="a">The Flower and the Leaf</title><ref target="https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer" />. </bibl>
 </note>
 </cit>
 </p>
 
 <p><q type="spoken">The Margaret is so sweet.</q> Our Margaret however, in this allegorical 
-poem, is undervalued in comparison with the laurel; yet <persName key="Chaucer">Chaucer</persName> 
+poem, is undervalued in comparison with the laurel; yet <persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> 
 perhaps was partly induced to translate it on account of <choice><orig>it's</orig><reg>its</reg></choice> making 
 the figure that it does; for he has informed us more than once, in a 
 
@@ -2447,7 +2446,7 @@ him from his books.
 <bibl>
 <author>Geoffrey Chaucer
 </author>
-<title level="a">The Legend of Good Women</title><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=legend+of+good+women" xml:space="default"/>. </bibl>
+<title level="a">The Legend of Good Women</title><ref target="https://www.google.com/search?q=legend+of+good+women"/>.</bibl>
 </note>
 </cit>
 
@@ -2467,7 +2466,7 @@ the grass,
 <note type="source">
 <bibl>
 <author>Geoffrey Chaucer</author>
-<title level="a">The Legend of Good Women</title>. </bibl>
+<title level="a">The Legend of Good Women</title><ref target="https://www.google.com/search?q=legend+of+good+women"/>.</bibl>
 </note>
 </cit>
 
@@ -2482,7 +2481,7 @@ adding, with his usual tendency to overdo a matter of learning,
 <note type="source">
 <bibl>
 <author>Ben Jonson</author>
-<title level="m">Pan's Anniversary, or the Shepherd's Holiday</title>, <biblScope cert="high" unit="line" xml:space="default">l.12</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=Pan%27s+Anniversary+by+Ben+Jonson" xml:space="default"/>
+<title level="m">Pan's Anniversary, or the Shepherd's Holiday</title>, <biblScope cert="high" unit="line" >l.12</biblScope><ref target="https://www.google.com/search?q=Pan%27s+Anniversary+by+Ben+Jonson" />
 </bibl>. </note>
 </cit>
 
@@ -2503,7 +2502,7 @@ deny ourselves the pleasure of repeating. It is the more interesting,
 <pb n="221"/> 
 
 inasmuch as it was written in prison, where the freedom of his opinions 
-had thrown him.<note type="hunt">It is not generally known, that <persName key="Chaucer">Chaucer</persName> was four years in prison, in his old
+had thrown him.<note type="hunt">It is not generally known, that <persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> was four years in prison, in his old
 age, on the same account. He was a Wickliffite,—one of the precursors of the 
 Reformation. His prison, doubtless, was no diminisher of his love the daisy.</note> He is speaking of his Muse, or Imagination. 
 
@@ -2526,13 +2525,13 @@ Reformation. His prison, doubtless, was no diminisher of his love the daisy.</no
 <note type="source">
 <bibl>
 <author>George Wither</author>
-<title level="m">The Shepherd's Hunting</title>, <biblScope>from the Prelude</biblScope><ref cert="high" evaluate="all" generatedBy="human" xml:space="default" target="https://www.simple-poetry.com/poems/prelude-from-the-shepherd-s-hunting-1166563409"/>
+<title level="m">The Shepherd's Hunting</title>, <biblScope>from the Prelude</biblScope><ref  target="https://www.simple-poetry.com/poems/prelude-from-the-shepherd-s-hunting-1166563409"/>
 </bibl>
 </note>
 </cit> 
 </p>
 
-<p><persName key="William Wordsworth">Mr. Wordsworth</persName> undertakes to patronize the Celandine, because nobody 
+<p><persName key="William Wordsworth" ref="https://dbpedia.org/resource/William_Wordsworth" type="real">Mr. Wordsworth</persName> undertakes to patronize the Celandine, because nobody 
 else will notice it: which is a good reason. But though he tells 
 us, in a startling piece of information, that 
 
@@ -2544,7 +2543,7 @@ us, in a startling piece of information, that
 <note type="source">
 <bibl>
 <author>William Wordsworth</author>
-<title level="a">To the Small Celandine</title>, <biblScope cert="high" unit="line" xml:space="default">ll. 33-34</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine" xml:space="default"/>
+<title level="a">To the Small Celandine</title>, <biblScope cert="high" unit="line" >ll. 33-34</biblScope><ref target="https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine" />
 </bibl>
 </note>
 </cit> 
@@ -2614,15 +2613,15 @@ becomes loyal to the daisy. </p>
 <note type="source">
 <bibl>
 <author>William Wordsworth</author>
-taken from <title level="a">To the Daisy ("In youth from rock to rock I went")</title>, <biblScope cert="high" unit="line" xml:space="default">ll. 25-32</biblScope>, and <title level="a">To the Daisy ("With little here to do or see")</title>, <biblScope cert="high" unit="line" xml:space="default">ll. 17-36</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?q=to+the+daisy+william+wordsworth" xml:space="default"/>
+taken from <title level="a">To the Daisy ("In youth from rock to rock I went")</title>, <biblScope cert="high" unit="line" >ll. 25-32</biblScope>, and <title level="a">To the Daisy ("With little here to do or see")</title>, <biblScope cert="high" unit="line" >ll. 17-36</biblScope><ref target="https://www.google.com/search?q=to+the+daisy+william+wordsworth" />
 </bibl>
 </note>
 </cit>
 
-<p><persName key="William Wordsworth">Mr. Wordsworth</persName> calls the daisy <q type="written">an unassuming common-place of
+<p><persName key="William Wordsworth" ref="https://dbpedia.org/resource/William_Wordsworth" type="real">Mr. Wordsworth</persName> calls the daisy <q type="written">an unassuming common-place of
 Nature,</q> which it is; and he praises it very becomingly for discharging 
 <choice><orig>it's</orig><reg>its</reg></choice> duties so chearfully, in that universal character. But we 
-cannot agree with him in thinking that it has a <q type="written">homely face.</q><note type="source"><bibl><author>William Wordsworth</author><title level="a">To The Same Flower (Second Poem)</title><ref cert="high" evaluate="all" generatedBy="human" target="https://allpoetry.com/poem/14326798-To-The-Same-Flower--Second-Poem--by-William-Wordsworth" xml:space="default"/></bibl></note> Not 
+cannot agree with him in thinking that it has a <q type="written">homely face.</q><note type="source"><bibl><author>William Wordsworth</author><title level="a">To The Same Flower (Second Poem)</title><ref target="https://allpoetry.com/poem/14326798-To-The-Same-Flower--Second-Poem--by-William-Wordsworth" /></bibl></note> Not 
 that we should care, if it really had; for homeliness does not make 
 ugliness; but we appeal to every body, whether it is proper to say 
 this of la belle Marquerite. In the first place, <choice><orig>it's</orig><reg>its</reg></choice> shape is very pretty
@@ -2640,13 +2639,13 @@ for a picture of <persName type="fictional" key="Leda" ref="https://dbpedia.org/
 <note type="source">
 <bibl>
 <author>Edmund Spenser</author>
-<title level="m">The Faerie Queene</title>, <biblScope cert="high" unit="volume" xml:space="default">Book III</biblScope>, <biblScope cert="high" unit="chapter" xml:space="default">Canto XI</biblScope><ref cert="high" evaluate="all" generatedBy="human" target="https://www.google.com/search?&amp;q=The+fairy+queene" xml:space="default"/>. </bibl>
+<title level="m">The Faerie Queene</title>, <biblScope cert="high" unit="volume" >Book III</biblScope>, <biblScope cert="high" unit="chapter" >Canto XI</biblScope><ref target="https://www.google.com/search?&amp;q=The+fairy+queene" />. </bibl>
 </note>
 </cit>
 </p>
 
 <p>It is for the same reason, that the daisy, being chiefly white, makes
-such a beautiful shew in company with the butter cup. But this is
+such a beautiful <choice><reg>show</reg><orig>shew</orig></choice> in company with the butter cup. But this is
 not all; for look at the back, and you find it's fair petals blushing
 with a most delightful red. And how compactly and delicately is the
 neck set in green! Belle et douce Marquerite, aimable soeur du roi
@@ -2663,7 +2662,7 @@ fields; and if we should, are there not hats, bonnets, barns, cottages,
 elm-trees, and good wills? We may make these things zests, if we 
 please, instead of drawbacks. There is a pleasant, off-hand, picturesque 
 little poem, full of sprightly simplicity, written by <persName key="Franco Sacchetti" ref="https://dbpedia.org/resource/Franco_Sacchetti" type="real" xml:id="Sacchetti">Franco 
-Sacchetti</persName>, the earliest follower of <persName key="Giovanni Boccaccio" ref="http://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>; which will <choice><corr>show</corr><sic>shew</sic></choice> us,
+Sacchetti</persName>, the earliest follower of <persName key="Giovanni Boccaccio" ref="http://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>; which will <choice><corr>show</corr><sic><choice><reg>show</reg><orig>shew</orig></choice></sic></choice> us,
 that the Italians are not prevented from gathering flowers by the fear of
 rain, nor even of snakes. Eccolo.<note type="hunt"> With respect to giving the originals of what we translate, we are guided by 
 this principle:—if they are easily referred to, we shall always content ourselves 
@@ -2672,7 +2671,7 @@ some other special reason; if they are not so readily to be found, it will add a
 to our little work to lay them before the reader. A volume of <title level="j" key="The Indicator" ref="https://www.google.com/search?q=indicator+leigh+hunt" rend="italic">the
 Indicator</title> will 
 thus contain some of the best morsels of literature. In the <title level="s" key="Parnaso Italiano" ref="https://www.google.com/search?q=parnaso+italiano+by+francesco+zanotto`">Parnaso Italiano</title> it is 
-doubted whether the present poem is to be assigned to <persName key="Franco Sacchetti">Franco Sacchetti</persName>, or to 
+doubted whether the present poem is to be assigned to <persName key="Franco Sacchetti" type="real" ref="https://dbpedia.org/page/Franco_Sacchetti" xml:id="Sacchetti">Franco Sacchetti</persName>, or to 
 <persName key="Ugolino della Gherardesca" cert="low" ref="https://dbpedia.org/resource/Ugolino_della_Gherardesca" type="real">Ugolin Ubaldini</persName>, who according to the editor is the same as the Ubaldin de la Pila 
 mentioned among the gluttons in the 24th Book of <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName>'s <title level="m" key="Purgatorio" ref="http://dbpedia.org/resource/Purgatorio">Purgatory</title>. If so, he 
 was not so likely to forget himself among the fields, as <persName key="Franco Sacchetti" ref="#Sacchetti" type="real">Sacchetti</persName>; but whether he 
@@ -2680,7 +2679,7 @@ be the same person or not, the poem answers so well to the latter's character, t
 it was most probably his production. He is another instance, to be added to some 
 of the most illustrious names, of the triumph of a genial imagination, and a rich indifference 
 to riches, over a life of business, politics, and even honours. <persName key="Franco Sacchetti">Franco 
-Sacchetti</persName>, a Florentine, says <persName key="John Colin Dunlop" ref="https://dbpedia.org/resource/John_Colin_Dunlop" type="real">Mr. Dunlop</persName>, <note type="hunt">(<title level="m">History of Fiction</title>, Vol. 2. p. 305)</note> <q type="written">was
+Sacchetti</persName>, a Florentine, says <persName key="John Colin Dunlop" ref="https://dbpedia.org/resource/John_Colin_Dunlop" type="real">Mr. Dunlop</persName>, <note type="hunt"><bibl>(<title level="m">History of Fiction</title>, <biblScope unit="volume">Vol. 2</biblScope>. <biblScope unit="page">p. 305</biblScope>)</bibl></note> <q type="written">was
 born in 1335, and died about the year 1410. He was a poet in his youth, and travelled
 to <placeName type="region" key="Slavonia" corresp="Croatia" ref="http://www.wikidata.org/entity/Q681964">Sclavonia</placeName> and other countries, to attend to some mercantile concerns. As
 he advanced in years, he was raised to a distinguished rank in the Magistracy of
@@ -2695,8 +2694,8 @@ his poems that may happen to be in print. </note></p>
 
 <cit>
 <quote>
-<title rend="center uppercase" key="Gathering Flowers" level="m" ref="Gathering Flowers">Gathering Flowers.</title>
-<lg xml:lang="it" rend="center">
+<title rend="center uppercase" key="Gathering Flowers" level="m">Gathering Flowers.</title>
+<lg xml:lang="it" rend="center" xml:id="Flowers" corresp="#Flowers_trans">
 <l>Passando con pensier per un boschetto, </l>
 <l>Donne per quello givan fior cogliendo, </l>
 <l>Con diletto, co' quel, co' quel dicendo, </l>
@@ -2753,12 +2752,12 @@ his poems that may happen to be in print. </note></p>
 <note type="source">
 <bibl>
 <author>Franco Sacchetti</author>
-<title level="a">Passando con pensier per un boschetto</title><ref cert="high" evaluate="all" generatedBy="human" target="https://it.wikisource.org/wiki/Passando_con_pensier_per_un_boschetto" xml:space="default"/>
+<title level="a">Passando con pensier per un boschetto</title><ref target="https://it.wikisource.org/wiki/Passando_con_pensier_per_un_boschetto"/>
 </bibl>
 </note>
 </cit>
 
-<lg type="translation-hunt" xml:id="eng" rend="center">
+<lg type="translation-hunt" xml:lang="en" rend="center" xml:id="Flowers_trans" corresp="#Flowers">
 <l>Walking and musing in a wood, I saw </l>
 <l>Some ladies gathering flowers, now this, now t'other, </l>
 <l>And crying in delight to one another, </l>

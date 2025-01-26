@@ -3431,6 +3431,7 @@ coming, and sent up hundreds of songs of joy.
 <bibl>
 <author>John Milton</author>
 <title>Song on May Morning</title>
+<ref target="https://www.google.com/search?q=song+on+may+morning+by+john+milton"/>
 </bibl>
 </note>
 </cit> 
@@ -3443,7 +3444,7 @@ festivals in honour of May. Our Teutonic ancestors had undoubtedly;
 and in the countries which had constituted the Western Roman Empire, 
 <persName type="fictional" key="Flora" ref="https://dbpedia.org/resource/Flora_(mythology)" xml:id="Flora">Flora</persName> still saw thanks paid for her flowers, though her worship 
 had gone away.
-<note type="hunt">The great May holiday abserved over the West of <placeName type="continent" key="Europe" corresp="Europe">Europe</placeName> was known for centuries,
+<note type="hunt">The great May holiday abserved over the West of <placeName type="continent" key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> was known for centuries,
 up to a late period, under the name of the Beltein or Beltane. Such a number
 of etymologies, all perplexingly probable, have been found for this word, that
 we have been surprised to miss among them that of Bel-temps, the Fine Time or
@@ -3502,7 +3503,7 @@ rustic dance.
 </lg></quote>
 <note type="source">
 <bibl>
-<author>Edmund Spenser</author><title>The Shepheardes Calender</title> <biblScope>May, Aegloga Quinta </biblScope></bibl>
+<author>Edmund Spenser</author><title>The Shepheardes Calender</title> <biblScope>May, Aegloga Quinta</biblScope> <ref target="https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may"/></bibl>
 </note>
 </cit> 
 
@@ -3544,7 +3545,7 @@ his native county <placeName type="region" key="Devon" corresp="England" ref="ht
 </l>
 </lg>
 </quote>
-<note type="source"><bibl><author>William Browne</author><title level="s">Britannia's Pastorals</title>Song IV</bibl></note>
+<note type="source"><bibl><author>William Browne</author> <title level="s">Britannia's Pastorals</title> <biblScope unit="part">Song IV</biblScope> <ref target="https://books.google.ca/books?id=Gx4TAAAAIAAJ"/></bibl></note>
 </cit></p>
 
 <p>Among the gentry and at court the spirit of the same enjoyments 
@@ -3558,7 +3559,7 @@ grace was sprinkled over all; and the finest spirits of the time thought
 they shewed both their manliness and wisdom, in knowing how to raise 
 the pleasures of the season to their height. <persName key="Sir Philip Sidney" ref="https://dbpedia.org/resource/Philip_Sidney" type="real">Sir Philip Sydney</persName>, the 
 idea of whom has come down to us as a personification of all the refinement 
-of that age,—is fondly recollected by <persName key="Edmund Spenser">Spenser</persName> in this character, 
+of that age,—is fondly recollected by <persName key="Edmund Spenser" ref="https://dbpedia.org/resource/Edmund_Spenser" type="real">Spenser</persName> in this character, 
 
 <cit><quote><lg rend="center">
 <lg xml:id="verse1">
@@ -3581,7 +3582,7 @@ of that age,—is fondly recollected by <persName key="Edmund Spenser">Spenser</
 <note type="source">
 <bibl>
 <author>Edmund Spenser</author>
-<title>Astrophel</title>, stanzas 5-6
+<title>Astrophel</title>, <biblScope>stanzas 5-6</biblScope> <ref target="https://books.google.ca/books?id=nrLSEAAAQBAJ"/>
 </bibl> </note>
 </cit></p>
 
@@ -3602,8 +3603,7 @@ adorn apartments with.
 </quote>
 <note type="source">
 <bibl>
-<author>Michael Drayton</author><title>Drayton's Pastorals</title>
-Eclog. 4, Cassamen and Dowsabell
+<author>Michael Drayton</author>, <title level="a">Cassamen and Dowsabell</title>, in <title level="m">English Pastorals</title> compiled and published by <editor>Edmund Kerchever Chambers</editor> in <date when="1895">1895</date>. <ref target="https://books.google.ci/books?id=-F0oSCMT-tMC"/><biblScope unit="page">p. 121</biblScope>.
 </bibl></note>
 </cit>
 
@@ -3612,20 +3612,17 @@ Eclog. 4, Cassamen and Dowsabell
 But when morning pleasures are to be spoken of, the lovers of poetry 
 who do not know <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, are like those who do not know what it is 
 to be up in the morning. He has left us two exquisite pictures of the 
-solitary observance of May, in his <title level="a" key="Palamon and Arcite" ref="https://dbpedia.org/resource/Palamon_and_Arcite">Palamon and Arcite</title><note type="editorial">"Palamon and Arcite" is the title of the translated version by John Dryden of Chaucer's "The Knight's Tale" from "The Canterbury Tales".</note>. They are the 
-more curious inasmuch as the actor in one is a lady, and in the other 
-a knight. How far they owe any of their beauty to his original, <title level="a" key="Theseide" ref="https://dbpedia.org/resource/Teseida">the 
-Theseide</title> of <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>, we cannot say; for we never had the happiness 
+solitary observance of May, in his <title level="a" key="Palamon and Arcite" ref="https://dbpedia.org/resource/Palamon_and_Arcite">Palamon and Arcite</title><note type="editorial">"Palamon and Arcite" is the title of the translated version by <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">John Dryden</persName> of <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s "<title level="a" ref="https://dbpedia.org/page/The_Knight's_Tale">The Knight's Tale</title>" from "<title level="m" ref="https://dbpedia.org/page/The_Canterbury_Tales">The Canterbury Tales</title>".</note>. They are the more curious inasmuch as the actor in one is a lady, and in the other a knight. How far they owe any of their beauty to his original, <title level="a" key="Theseide" ref="https://dbpedia.org/resource/Teseida">the Theseide</title> of <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>, we cannot say; for we never had the happiness 
 of meeting with that very rare work. The Italians have so 
 neglected it, that they have not only never given it a rifacimento or 
 re-modelling, as in the instance of <persName key="Matteo Maria Boiardo" ref="https://dbpedia.org/resource/Matteo_Maria_Boiardo" type="real">Boiardo</persName>'s poem, but are almost as 
-much unacquainted with it, we believe, as foreign countries. <persName key="Chaucer">Chaucer</persName> 
+much unacquainted with it, we believe, as foreign countries. <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> 
 thought it worth his while to be both acquainted with it, and to make 
 others so; and we may venture, to say, that we know of no Italian 
-after <persName key="Giovanni Boccaccio">Boccaccio</persName>'s age who was so likely to understand him to the core, 
+after <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>'s age who was so likely to understand him to the core, 
 as his English admirer, <persName key="Ludovico Ariosto" ref="https://dbpedia.org/resource/Ludovico_Ariosto" type="real">Ariosto</persName> not excepted. Still, from what we 
-have seen of <persName key="Giovanni Boccaccio">Boccaccio</persName>'s poetry, we can imagine <title level="a">the Theseide</title> to have 
-been too lax and long. If <persName key="Chaucer">Chaucer</persName>'s <title level="a">Palamon and Arcite</title> be all that 
+have seen of <persName key="Giovanni Boccaccio" ref="https://dbpedia.org/resource/Giovanni_Boccaccio" type="real">Boccaccio</persName>'s poetry, we can imagine <title level="a">the Theseide</title> to have 
+been too lax and long. If <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s <title level="a" key="Palamon and Arcite" ref="https://dbpedia.org/resource/Palamon_and_Arcite">Palamon and Arcite</title> be all that 
 he thought proper to distil from it, it must have been greatly so; for 
 it was a large epic. But at all events the essence is an exquisite one. 
 The tree must have been a fine old enormity, from which such a honey 
@@ -3645,14 +3642,13 @@ hood!
 <author>
 Geoffrey Chaucer
 </author>
-<title level="s">The Canterbury Tales</title>The Knight's Tale,
-ll. 1033-1035
+<title level="s">The Canterbury Tales</title> <biblScope unit="chapter">The Knight's Tale</biblScope>, <biblScope unit="line">ll. 1033-1035</biblScope> <ref target="https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"/>
 </bibl></note>
 </cit>
 
 But we will alter the spelling where we can, as in a former instance, 
 merely to let the reader see what a notion is in his way, if he suffers 
-the look of <persName key="Chaucer">Chaucer</persName>'s words to prevent his enjoying him. 
+the look of <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s words to prevent his enjoying him. 
 
 <cit>
 <quote>
@@ -3706,17 +3702,14 @@ rises up from this full stop at the first!]
 <l>Was in her walk, and roamed up and down. </l>
 </lg>
 </quote>
-<note type="source"><bibl><author>John Dryden</author><title level="a">Palamon and Arcite</title></bibl> 
+<note type="source"><bibl><author>John Dryden</author><title>Palamon and Arcite</title><ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/></bibl> 
 </note>
 </cit>
 
-<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real" xml:id="SirWalter">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage 
-before us, and <persName key="John Dryden">Dryden</persName>'s version of it, that <cit><q type="written">the modern must yield
-the palm to the ancient, in spite of the beauty of his versification.</q>
+<persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real" xml:id="SirWalter">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage before us, and <persName key="John Dryden">Dryden</persName>'s version of it, that <cit><q type="written">the modern must yield the palm to the ancient, in spite of the beauty of his versification.</q>
 <note type="source">
 <bibl> A paraphrasing of sentiment from <author>Sir Walter Scott
-</author>Advertisement to <title level="m">The Works of John Dryden</title>
-</bibl>. </note>
+</author>'s Advertisement to <title level="m">The Works of John Dryden</title> <ref target="https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"/></bibl>. </note>
 </cit> 
 
 We quote from memory; but this is the substance of his 
@@ -3728,9 +3721,9 @@ It is more delicate, without any inferiority in strength; and still more
 various. At the same time, we do not quote <persName key="Sir Walter Scott" ref="#SirWalter" type="real">Sir Walter</persName> for the 
 purpose of differing with him. We would only shew the more
 fashionable part of our readers, what their favourite writer thinks 
-of <persName key="Chaucer">Chaucer</persName>; and we would also take another opportunity of contrasting 
+of <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>; and we would also take another opportunity of contrasting 
 some opinions of ours, exaggerated by party feeling and a young 
-thoughtlessness, when <persName key="Sir Walter Scott">Sir Walter</persName> wrote nothing but criticism and 
+thoughtlessness, when <persName key="Sir Walter Scott" ref="#SirWalter" type="real">Sir Walter</persName> wrote nothing but criticism and 
 poetry, with our sense of his extraordinary merits as a novelist. But 
 more of these in another place. Of politics also we say nothing here. 
 There ought to be some places in the world of letters, where men's 
@@ -3743,14 +3736,14 @@ thoughts of each other, like the knights of old, may
 <bibl>
 <author>John Milton</author>
 <title level="a">L'Allegro</title>
+<ref target="https://www.google.com/search?q=L%27Allegro+by+John+Milton"/>
 </bibl>
 </note>
 </cit></p>
 
-<p>But now to our other portrait. It is as sparkling with young manhood, 
-as the former is with a gentler freshness. What a burst of 
+<p>But now to our other portrait. It is as sparkling with young manhood, as the former is with a gentler freshness. What a burst of 
 radiant joy is in the second couplet: what a vital quickness in the 
-comparison of the horse, <q type="written">starting as the fire;</q><note type="source"><bibl><author>Geoffrey Chaucer</author><title level="s">The Canterbury Tales</title>The Knight's Tale</bibl></note> and what a native 
+comparison of the horse, <q type="written">starting as the fire;</q><note type="source"><bibl><author>Geoffrey Chaucer</author><title level="s">The Canterbury Tales</title><biblScope unit="chapter">The Knight's Tale</biblScope>, <ref target="https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"/></bibl></note> and what a native 
 and happy ease in the conclusion! 
 
 <pb n="230"/>
@@ -3785,7 +3778,7 @@ and happy ease in the conclusion!
 </lg>
 </quote>
 <note type="source">
-<bibl><author>Geoffrey Chaucer</author><title level="s">The Cantebury Tales</title>The Knight's Tale </bibl>
+<bibl><author>Geoffrey Chaucer</author><title level="s">The Cantebury Tales</title><biblScope unit="chapter">The Knight's Tale</biblScope> <ref target="https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"/></bibl>
 </note>
 </cit>
 
@@ -3833,12 +3826,10 @@ pen; perhaps for mounting.
 </quote>
 <note type="source">
 <bibl>
-<author>John Dryden</author>
-<title>Palamon and Arcite</title>Book 2, ll. 37-63
-</bibl></note>
+<author>John Dryden</author> <title>Palamon and Arcite</title> <ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/> <biblScope unit="volume">Book 2</biblScope>, <biblScope unit="line">ll. 37-63</biblScope></bibl></note>
 </cit></p>
 
-<p>How poor is this to <persName key="Arcite">Arcite</persName>'s leaping from his courser <q type="written">with a lusty
+<p>How poor is this to <persName type="fictional" key="Arcite">Arcite</persName>'s leaping from his courser <q type="written">with a lusty
 heart.</q> How inferior the common-place of the <q type="written">fiery steed,</q> which 
 need not involve any actual notion in the writer's mind, to the courser 
 <q type="written">starting as the fire;</q>—how inferior the turning his face to <q type="written">the
@@ -3847,11 +3838,11 @@ sunny sheen;</q> and lastly, the whole learned invocation and adjuration
 of May, about guiding his <q type="written">wandering steps</q> and <q type="written">so may thy
 tender blossoms</q> &amp;c. to the call upon the fair fresh May, ending with 
 that simple, quick-hearted line, in which he hopes he shall get <q type="written">some
-green here;</q> a touch in the happiest taste of the Italian vivacity.<note type="source"><bibl><author>Geoffrey Chaucer</author><title level="s">The Canterbury Tales</title></bibl></note>
+green here;</q> a touch in the happiest taste of the Italian vivacity.<note type="source"><bibl><author>Geoffrey Chaucer</author><title level="s">The Canterbury Tales</title><ref target="https://www.gutenberg.org/files/22120/22120-h/22120-h.htm"/></bibl></note>
 <persName key="John Dryden">Dryden</persName>'s genius, for the most part, wanted faith in nature. It was 
 too gross and sophisticate. There was as much difference between 
 him and his original, as between a hot noon in perukes<note type="editorial">A judge or barrister's wig. </note> at <placeName type="region" key="St James's" corresp="England" ref="http://www.wikidata.org/entity/Q124234">St. James's</placeName>, 
-and one of <persName key="Chaucer">Chaucer</persName>'s lounges on the grass, of a May-morning. </p>
+and one of <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>'s lounges on the grass, of a May-morning. </p>
 
 <p>All this worship of May is over now. There is no issuing forth, in 
 glad companies to gather boughs; no adorning of houses with <q>the
@@ -3860,7 +3851,7 @@ no courtly poetries, no sense and acknowledgment of the quiet presence
 of nature, in grove or glade. 
 <cit>
 <quote>
-<lg xml:lang="it" rend="center">
+<lg xml:lang="it" rend="center" xml:id="ecloga10" corresp="#ecloga10_trans">
 <l>O dolce primavera, o fior novelli, </l>
 <l>O aura o arboscelli o fresche erbette, </l>
 <l>O piagge benedette, o colli o monti, </l>
@@ -3877,12 +3868,14 @@ of nature, in grove or glade.
 <note type="source">
 <bibl>
 <author>Jacopo Sannazzaro</author>
-<title>Egloga Decima</title>
+<title>L'Arcadia di messer</title>
+<ref target="https://books.google.ca/books?id=PMEsAAAAMAAJ"/>
+<biblScope unit="page">p. 141</biblScope>
 </bibl>
 </note>
 </cit>
 
-<lg type="translation-hunt" xml:lang="en">
+<lg type="translation-hunt" xml:lang="en" xml:id="ecloga10_trans" corresp="#ecloga10">
 <l>O thou delicious spring, O ye new flowers, </l>
 <l>O airs, O youngling bowers; fresli thickening grass, </l>
 <l>And plains beneath heaven's face; O hills and mountains, </l>
@@ -3916,7 +3909,7 @@ of excitement as a fundholder or a partizan; and healthy and
 spirits, and manliness to boot. Knowledge may go on; must do so, 
 from necessity; and should do so, for the ends we speak of: but 
 knowledge, so far from being incompatible with simplicity of pleasures, 
-is the quickest to perceive its wealth. <persName key="Chaucer">Chaucer</persName> would lie for hours, 
+is the quickest to perceive its wealth. <persName key="Geoffrey Chaucer" ref="https://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName> would lie for hours, 
 looking at the daisies. <persName key="Scipio Africanus" cert="medium" ref="https://dbpedia.org/resource/Scipio_Africanus" type="real">Scipio</persName> and <persName key="Gaius Laelius" cert="medium" ref="https://dbpedia.org/resource/Gaius_Laelius" type="real">Laelius</persName> could amuse themselves 
 with making ducks and drakes on the water. <persName key="Epaminondas" ref="https://dbpedia.org/resource/Epaminondas" type="real">Epaminondas</persName>, the
 greatest of all the active spirits of <placeName type="country" key="Greece" corresp="Greece" ref="http://www.wikidata.org/entity/Q41">Greece</placeName>, was a flute-player and 
@@ -3924,9 +3917,8 @@ dancer. <persName key="Alfred the Great" ref="https://dbpedia.org/resource/Alfre
 <persName key="Epicurus" ref="http://dbpedia.org/resource/Epicurus" type="real">Epicurus</persName> taught the riches of temperance and intellectual pleasure in 
 a gardern. The other philosophers of his country walked between 
 heaven, and earth in the colloquial bowers of <persName key="Academus" ref="https://dbpedia.org/resource/Academus" type="fictional">Academus</persName>; and, <q type="written">the
-wisest heart of <persName key="Solomon" ref="https://dbpedia.org/resource/Solomon" type="fictional">Solomon</persName>,</q><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Lost</title></bibl></note> who found every thing vain because he was 
-a king, has left us panegyrics on the Spring and <q type="written">the voice of the
-turtle,</q><note type="source"><bibl>Song of Solomon 2:12</bibl></note> because he was a poet, a lover, and a wise man.</p>
+wisest heart of <persName key="Solomon" ref="https://dbpedia.org/resource/Solomon" type="fictional">Solomon</persName>,</q><note type="source"><bibl><author>John Milton</author><title level="m">Paradise Lost</title><ref target="https://www.gutenberg.org/ebooks/26"/></bibl></note> who found every thing vain because he was 
+a king, has left us panegyrics on the Spring and <q type="written">the voice of the turtle,</q><note type="source"><bibl>Bible. Song of Solomon 2:12</bibl></note> because he was a poet, a lover, and a wise man.</p>
 </div2>
 <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,

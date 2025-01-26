@@ -2822,7 +2822,7 @@ quote precedent even for this abruptness, in the arrival of <persName key="Vasco
 Gama</persName>'s Sailors at <placeName type="fictional" key="The Island of Love">the Island of Love</placeName> in <persName key="Luís de Camões" ref="http://dbpedia.org/resource/Luís_de_Camões" type="real">Camoens</persName>. One of the stanzas
 has already appeared in this work. A translation of the whole of the
 <title level="m" ref="https://dbpedia.org/resource/Aminta">Aminta</title> by the Editor is now going through the press.] </p>
-<lg type="translation-hunt" rend="center">
+<lg type="translation-hunt" rend="center" xml:lang="en">
 <lg xml:id="verse1">
 <l>O lovely age of gold! </l>
 <l>Not that the rivers rolled </l>
