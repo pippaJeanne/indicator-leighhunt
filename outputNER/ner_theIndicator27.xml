@@ -2939,11 +2939,7 @@ well as forgiven; and neither of them ever passed a happier day in
 their lives. </p>
 <p><persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName>'s account of herself was partly true. Our informant<note type="hunt">
 <bibl>
-<author>
-<forename>Gaius</forename>
-<forename>Julius</forename>]
-<surname>Hyginus</surname>
-</author>,
+<author>Gaius Julius Hyginus</author>,
 <title>Fabularum Liber,</title>
 <biblScope>Capitulum 189</biblScope>.
 </bibl>
@@ -3024,8 +3020,7 @@ described by <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="r
 <l rend="indent">Tot generum frondes, herbaque summa tremunt. </l>
 <note type="source">
 <bibl>
-<author>Ovid</author>,
-<title>Ars Amatoria</title><biblScope cert="high" unit="volume" xml:space="default">Liber III</biblScope>, <biblScope cert="high" unit="line" xml:space="default">lines 687-94</biblScope>.
+<author>Ovid</author>, <title>Ars Amatoria</title><biblScope>Liber III</biblScope>, <biblScope cert="high" unit="line" xml:space="default">lines 687-94</biblScope>.
 </bibl>
 </note>
 </lg>

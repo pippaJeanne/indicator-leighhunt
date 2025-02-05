@@ -1,0 +1,3488 @@
+{
+       "outputNER/ner_theIndicator01.xml": {
+              "title": [
+                     "Love's Labour Lost",
+                     "the Adviser",
+                     "Helps for Composing",
+                     "the Cheap Reflector",
+                     "Every Man His Own  Looking- Glass",
+                     "the Retailer",
+                     "Every Man His Own Other Man's Wit",
+                     "Nonsense",
+                     "the Crocodile",
+                     "Pleasing Companion",
+                     "Chaos",
+                     "the  Agreeable Miscellany",
+                     "the Fugitive Guide",
+                     "the Foot-Soldier",
+                     "Flowers  of Wit",
+                     "Bigotry",
+                     "the Cheerful Instructor",
+                     "the Polite Repository of  Abuse",
+                     "Blood, being a Collection of Light Essays",
+                     "the Pleasing Ancestor",
+                     "the Silent  Remarker",
+                     "the Tart",
+                     "the Leg of Beef by a Layman",
+                     "the Ingenious  Hatband",
+                     "the Booths of Bliss",
+                     "the Occasional Diner",
+                     "the Tooth-ache",
+                     "Recollections of a Very Unpleasant Nature",
+                     "Thoughts on Taking up a Pair of  Snuffers",
+                     "Thoughts on a Barouche-Box",
+                     "Thoughts on a Hill of Considerable  Eminence",
+                     "Meditations on a Pleasing Idea",
+                     "Materials for Drinking",
+                     "the  Knocker, No. I",
+                     "the Hippopotamus Entered at Stationers' Hall",
+                     "the  Piano-forte",
+                     "the Seven Sleepers at Cards",
+                     "the Arabian  Nights on Horseback",
+                     "Euclid's Elements",
+                     "The Merchant of Venice",
+                     "To the Earl of Peterborough",
+                     "Odyssey",
+                     "Anacreon's Portrait of his Mistress"
+              ],
+              "bibl": {
+                     "title": {
+                            "Love's Labour Lost": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=paradise+lost&rlz=1C5GCCM_en&oq=paradise+lo&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBggCEEUYOTIHCAMQABiABDITCAQQLhivARjHARiABBiYBRiZBTIKCAUQLhjUAhiABDIKCAYQLhjUAhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8"
+                            },
+                            "The Merchant of Venice": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=the+merchant+of+venice"
+                            },
+                            "To the Earl of Peterborough": {
+                                   "author": "Jonathan Swift",
+                                   "ref": "https://www.google.com/search?q=to+the+earl+of+peterborough+jonathan+swift&sca_esv=f34a7ccbd9a4492c&ei=gwO1ZryYAfat5NoPrd7B-Qw&ved=0ahUKEwj85dfm-OWHAxX2FlkFHS1vMM8Q4dUDCBA&uact=5&oq=to+the+earl+of+peterborough+jonathan+swift"
+                            },
+                            "Anacreon's Portrait of his Mistress": {
+                                   "author": "Leigh Hunt"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "François Rabelais": "http://www.wikidata.org/entity/Q131018",
+                            "William Shakespeare": "http://www.wikidata.org/entity/Q692",
+                            "Paulus Aemilius": "http://www.wikidata.org/entity/Q7155382",
+                            "Thomas Paine": "https://dbpedia.org/resource/Thomas_Paine",
+                            "Jane Welsh Carlyle": "http://dbpedia.org/resource/Jane_Welsh_Carlyle",
+                            "Homer": "http://www.wikidata.org/entity/Q6691",
+                            "Alexander Pope": "https://dbpedia.org/resource/Alexander_Pope",
+                            "Horace": "http://www.wikidata.org/entity/Q6197",
+                            "Ludovico Ariosto": "http://www.wikidata.org/entity/Q48900",
+                            "Euripides": "http://www.wikidata.org/entity/Q48305",
+                            "Aeschylus": "http://www.wikidata.org/entity/Q40939",
+                            "Sophocles": "http://www.wikidata.org/entity/Q7235",
+                            "Theocritus": "http://www.wikidata.org/entity/Q219484",
+                            "Petrarch": "http://www.wikidata.org/entity/Q1401",
+                            "Abaris the Hyperborean": "http://dbpedia.org/resource/Abaris_the_Hyperborean",
+                            "Pythagoras": "https://dbpedia.org/resource/Pythagoras",
+                            "Jonathan Swift": "https://dbpedia.org/resource/Jonathan_Swift",
+                            "Charles Mordaunt, 3rd Earl of Peterborough": "https://dbpedia.org/resource/Charles_Mordaunt,_3rd_Earl_of_Peterborough",
+                            "Cyrus the Great": "https://dbpedia.org/resource/Cyrus_the_Great",
+                            "Artaxerxes I of Persia": "http://www.wikidata.org/entity/Q189689",
+                            "Xenophon": "http://dbpedia.org/resource/Xenophon",
+                            "Uriel da Costa": "http://dbpedia.org/resource/Uriel_da_Costa",
+                            "Virgil": "http://www.wikidata.org/entity/Q1398",
+                            "Ovid": "http://www.wikidata.org/entity/Q7198",
+                            "Raphael": "http://www.wikidata.org/entity/Q5597",
+                            "George Frideric Handel": "http://www.wikidata.org/entity/Q7302",
+                            "John Gay": "http://www.wikidata.org/entity/Q321660",
+                            "Anacreon": "http://www.wikidata.org/entity/Q213484",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Apollo": "http://dbpedia.org/resource/Apollo",
+                            "Abradatas": "http://dbpedia.org/resource/Abradatas",
+                            "Pantea Arteshbod": "http://www.wikidata.org/entity/Q2049876",
+                            "Polyphemus": "http://www.wikidata.org/entity/Q193567",
+                            "Acis": "http://www.wikidata.org/entity/Q419156",
+                            "Galatea": "http://www.wikidata.org/entity/Q241070",
+                            "Faunus": "http://www.wikidata.org/entity/Q3089703",
+                            "Neptune": "http://www.wikidata.org/entity/Q3954",
+                            "Jupiter": "http://www.wikidata.org/entity/Q4649",
+                            "Minerva": "http://www.wikidata.org/entity/Q126916"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "Athens": {
+                            "type": "city",
+                            "country": "Greece"
+                     },
+                     "Susa": {
+                            "type": "city",
+                            "country": "Iran"
+                     },
+                     "Amsterdam": {
+                            "type": "city",
+                            "country": "The Netherlands"
+                     },
+                     "Sicily": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Kythira": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-10-13": "—WEDNESDAY, OCTOBER 13th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator02.xml": {
+              "title": [
+                     "Il Penseroso",
+                     "Elder Brother",
+                     "The Elder Brother",
+                     "Love-Melancholy and Religious Melancholy",
+                     "Arcadia",
+                     "The Countess of Pembroke's Arcadia",
+                     "Orlando Furioso",
+                     "Aminta",
+                     "Jerusalem Delivered",
+                     "Introduction to Harmony",
+                     "Orlando"
+              ],
+              "bibl": {
+                     "title": {
+                            "Il Penseroso": {
+                                   "author": "John Milton"
+                            },
+                            "Elder Brother": {},
+                            "The Elder Brother": {
+                                   "author": "John Fletcher",
+                                   "ref": "https://www.google.com/search?q=elder+brother+fletcher+Act.+1.+Scene+2"
+                            },
+                            "Love-Melancholy and Religious Melancholy": {
+                                   "author": "Thomas Burton",
+                                   "ref": "https://www.exclassics.com/anatomy/anatomy3.txt"
+                            },
+                            "The Countess of Pembroke's Arcadia": {
+                                   "author": "Sir Philip Sidney"
+                            },
+                            "Orlando Furioso": {
+                                   "author": "Ludovico Ariosto"
+                            },
+                            "Aminta": {
+                                   "author": "Torquato Tasso"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Theocritus": "https://dbpedia.org/resource/Theocritus",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "Ludovico Ariosto": "http://www.wikidata.org/entity/Q48900",
+                            "Michel de Montaigne": "http://www.wikidata.org/entity/Q41568",
+                            "Marcus Aurelius": "http://dbpedia.org/resource/Marcus_Aurelius",
+                            "Nicolas Poussin": "http://www.wikidata.org/entity/Q41554",
+                            "Raphael": "http://www.wikidata.org/entity/Q5597",
+                            "The Marquis Marialva": "http://dbpedia.org:8891/resource/Marquis_of_Marialva",
+                            "John Milton": "http://www.wikidata.org/entity/Q79759",
+                            "Plato": "http://www.wikidata.org/entity/Q859",
+                            "John Fletcher": "http://www.wikidata.org/entity/Q312444",
+                            "Aristaenetus": "http://www.wikidata.org/entity/Q664196",
+                            "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
+                            "Torquato Tasso": "https://dbpedia.org/resource/Torquato_Tasso",
+                            "Titian": "https://dbpedia.org/resource/Titian",
+                            "Andrea Palladio": "https://dbpedia.org/resource/Andrea_Palladio",
+                            "Marcello Venusti": "https://dbpedia.org/resource/Marcello_Venusti",
+                            "Pietro Bembo": "https://dbpedia.org/resource/Pietro_Bembo",
+                            "Paolo Sarpi": "http://dbpedia.org/resource/Paolo_Sarpi",
+                            "Jean-Jacques Rousseau": "http://www.wikidata.org/entity/Q6527",
+                            "William Shield": "https://dbpedia.org/resource/William_Shield",
+                            "Giuseppe Marc'Antonio Baretti": "http://www.wikidata.org/entity/Q741900",
+                            "Antonio": "https://dbpedia.org/resource/Antonio_da_Ponte",
+                            "Carlo Goldoni": "http://www.wikidata.org/entity/Q165534",
+                            "Attila": "http://www.wikidata.org/entity/Q36724",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Gil Blas": "https://dbpedia.org/resource/Gil_Blas",
+                            "Hermes": "http://www.wikidata.org/entity/Q41484",
+                            "Acontius": "http://www.wikidata.org/entity/Q420533",
+                            "Cydippe": "http://www.wikidata.org/entity/Q5796486",
+                            "Diana": "Diana",
+                            "Alcina": "Alcina",
+                            "Erminia": "http://www.wikidata.org/entity/Q17324876",
+                            "Calypso": "http://www.wikidata.org/entity/Q48961"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "England"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Ware": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Hounslow Heath": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Toledo Province": {
+                            "type": "region",
+                            "country": "Spain"
+                     },
+                     "Zia": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Kea": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Venice": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Rome": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Europe": {
+                            "type": "continent",
+                            "country": "Europe"
+                     },
+                     "Portland-place": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "High Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Oxford": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Jerusalem": {
+                            "type": "city",
+                            "country": "Isreal"
+                     },
+                     "Palace Zenobio": {
+                            "type": "landmark",
+                            "country": "Italy"
+                     },
+                     "Zane": {
+                            "type": "building",
+                            "country": "Italy"
+                     },
+                     "Ponte di Rialto": {
+                            "type": "landmark",
+                            "country": "Italy"
+                     },
+                     "London bridge": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Bridge of Sighs": {
+                            "type": "landmark",
+                            "country": "Italy"
+                     },
+                     "the River of Song": {
+                            "type": "physical",
+                            "country": "Italy"
+                     },
+                     "Italian peninsula": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Vienna": {
+                            "type": "city",
+                            "country": "Austria"
+                     },
+                     "France": {
+                            "type": "country",
+                            "country": "France"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "English people": "http://www.wikidata.org/entity/Q42406",
+                     "Italians": "http://www.wikidata.org/entity/Q50001"
+              },
+              "dates": {
+                     "1819-10-20": "—WEDNESDAY, OCTOBER 20th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator03.xml": {
+              "title": [
+                     "Flores Historiarum",
+                     "Polyolbion",
+                     "Song 13",
+                     "The Mermaid",
+                     "The Curse upon Edward",
+                     "Resolution and Independence",
+                     "the Tatler",
+                     "Beggar's Opera",
+                     "The Dispensary a poem",
+                     "Trivia",
+                     "The Canterbury Tales"
+              ],
+              "bibl": {
+                     "title": {
+                            "Flores Historiarum": {},
+                            "Polyolbion": {
+                                   "author": "Michael Drayton",
+                                   "ref": "https://poly-olbion.exeter.ac.uk/the-text/full-text/song-13/"
+                            },
+                            "The Mermaid": {
+                                   "author": "Francis Beaumont",
+                                   "ref": "https://www.google.com/search?q=the+mermaid+by+francis+beaumont"
+                            },
+                            "The Curse upon Edward": {
+                                   "author": "Thomas Gray",
+                                   "ref": "https://www.google.com/search?q=The+Curse+upon+Edward%2C+by+Thomas+Gray"
+                            },
+                            "Resolution and Independence": {
+                                   "author": "William Wordsworth",
+                                   "ref": "https://www.poetryfoundation.org/poems/45545/resolution-and-independence"
+                            },
+                            "The Dispensary a poem": {
+                                   "author": "Sir Samuel Garth",
+                                   "ref": "https://quod.lib.umich.edu/e/eebo/A42418.0001.001?rgn=main;view=fulltext"
+                            },
+                            "Trivia": {
+                                   "author": "John Gay",
+                                   "ref": "https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3"
+                            },
+                            "The Canterbury Tales": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/cache/epub/2383/pg2383-images.html#chap20"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://dbpedia.org/resource/Edmund_Spenser",
+                            "Lady Godiva": "http://dbpedia.org/resource/Lady_Godiva",
+                            "John Selden": "http://dbpedia.org/resource/John_Selden",
+                            "Matthew Paris": "http://www.wikidata.org/entity/Q369366",
+                            "Henry Richards Luard": "http://www.wikidata.org/entity/Q2373372",
+                            "Leofric, Earl of Mercia": "http://dbpedia.org/resource/Leofric,_Earl_of_Mercia",
+                            "David Hume": "http://dbpedia.org/resource/David_Hume",
+                            "John Milton": "http://www.wikidata.org/entity/Q79759",
+                            "Samuel Johnson": "https://dbpedia.org/resource/Samuel_Johnson",
+                            "Edward the Confessor": "https://dbpedia.org/resource/Edward_the_Confessor",
+                            "Æthelbald, King of Wessex": "http://dbpedia.org/resource/Æthelbald,_King_of_Wessex",
+                            "Godwin, Earl of Wessex": "https://dbpedia.org/resource/Godwin,_Earl_of_Wessex",
+                            "Michael Drayton": "https://dbpedia.org/resource/Michael_Drayton",
+                            "Godiva": "#godiva",
+                            "George Chapman": "https://dbpedia.org/resource/George_Chapman",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Andrew Marvell": "https://dbpedia.org/resource/Andrew_Marvell",
+                            "Charles II of England": "https://dbpedia.org/resource/Charles_II_of_England",
+                            "William Shakespeare": "http://www.wikidata.org/entity/Q692",
+                            "Francis Beaumont": "https://dbpedia.org/resource/Francis_Beaumont",
+                            "John Fletcher": "https://dbpedia.org/resource/John_Fletcher_(playwright)",
+                            "Philip Massinger": "https://dbpedia.org/resource/Philip_Massinger",
+                            "Geoffrey Chaucer": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "John Gower": "http://dbpedia.org/resource/John_Gower",
+                            "Alexander Pope": "http://dbpedia.org/resource/Alexander_Pope",
+                            "Thomas Gray": "https://dbpedia.org/resource/Thomas_Gray",
+                            "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
+                            "John I, Duke of Bourbon": "https://dbpedia.org/resource/John_I,_Duke_of_Bourbon",
+                            "Thomas Burdet": "http://www.wikidata.org/entity/Q18917505",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "king Edward the Fourth": "https://dbpedia.org/resource/Edward_IV_of_England",
+                            "Isabella": "https://dbpedia.org/resource/Isabella_of_France",
+                            "Edward the Second": "https://dbpedia.org/resource/Edward_II_of_England",
+                            "Isabella of France": "#isabella_of_france",
+                            "William Camden": "https://dbpedia.org/resource/William_Camden",
+                            "John of Gaunt": "https://dbpedia.org/resource/John_of_Gaunt",
+                            "Fulke Greville, 1st Baron Brooke": "http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke",
+                            "Philip Sydney": "https://dbpedia.org/resource/Philip_Sidney",
+                            "Thomas  Chatterton": "https://dbpedia.org/resource/Thomas_Chatterton",
+                            "William Wordsworth": "http://dbpedia.org/resource/William_Wordsworth",
+                            "Horace Walpole": "http://dbpedia.org/resource/Horace_Walpole",
+                            "William Cowper": "http://dbpedia.org/resource/William_Cowper",
+                            "Chancellor Thurlow": "https://dbpedia.org/resource/Edward_Thurlow,_1st_Baron_Thurlow",
+                            "Henry Wellesley, 1st Baron Cowley": "http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley",
+                            "Thomas Sackville": "https://dbpedia.org/resource/Thomas_Sackville,_1st_Earl_of_Dorset",
+                            "Thomas Betterton": "http://dbpedia.org/resource/Thomas_Betterton",
+                            "William Davenant": "https://dbpedia.org/resource/William_Davenant",
+                            "Jonathan Richardson": "https://dbpedia.org/resource/Jonathan_Richardson",
+                            "James Boswell": "http://dbpedia.org/resource/James_Boswell",
+                            "William Congreve": "http://dbpedia.org/resource/William_Congreve",
+                            "Voltaire": "https://dbpedia.org/resource/Voltaire",
+                            "Anne, Queen of Great Britain": "https://dbpedia.org/page/Anne,_Queen_of_Great_Britain",
+                            "John Dryden": "http://dbpedia.org/resource/John_Dryden",
+                            "Samuel Butler (novelist)": "http://dbpedia.org/resource/Samuel_Butler_(novelist)",
+                            "Peter Pindar": "https://dbpedia.org/resource/John_Wolcot",
+                            "Mary Linwood": "https://dbpedia.org/resource/Mary_Linwood",
+                            "Sydneys, Earls of Leicester": "https://dbpedia.org/resource/Category:Earls_of_Leicester_(1618_creation)",
+                            "Philip Sidney, 3th Earl of Leicester": "https://dbpedia.org/resource/Philip_Sidney,_3rd_Earl_of_Leicester",
+                            "Algernon Sydney": "https://dbpedia.org/resource/Algernon_Sidney",
+                            "Sir Joshua Reynolds": "https://dbpedia.org/resource/Joshua_Reynolds",
+                            "Isaac Newton": "http://dbpedia.org/resource/Isaac_Newton",
+                            "Richard Steele": "#steele",
+                            "Isaac Bickerstaff": "https://dbpedia.org/resource/Isaac_Bickerstaff",
+                            "Sir Thomas More": "https://dbpedia.org/resource/Thomas_More",
+                            "Joseph Addison": "http://dbpedia.org/resource/Joseph_Addison",
+                            "Handel": "https://dbpedia.org/resource/George_Frideric_Handel",
+                            "Grinling Gibbons": "https://dbpedia.org/reosurce/Grinling_Gibbons",
+                            "Daniel DeFoe": "https://dbpedia.org/resource/Daniel_Defoe",
+                            "Wriothesleys, Earls of Southampton": "https://en.wikipedia.org/wiki/Earl_of_Southampton",
+                            "Samuel Garth": "http://dbpedia.org/resource/Samuel_Garth",
+                            "John Gay": "https://dbpedia.org/resource/John_Gay",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Sir John Falstaff": "https://dbpedia.org/resource/John_Falstaff",
+                            "Theseus": "http://dbpedia.org/resource/Theseus"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "Coventry": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "St Albans Abbey": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Westminster Abbey": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "England": {
+                            "type": "country",
+                            "country": "England"
+                     },
+                     "St. Giles": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St. Giles church": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Southwark": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Globe Theatre": {
+                            "type": "Theatre",
+                            "country": "England"
+                     },
+                     "New Globe Walk": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bankside": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St. Saviour's": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Canterbury": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "East Smithfield": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Bow": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Lombard Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Cornhill": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bread Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Cheapside": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "St. Bride's Church": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Fleet Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Aldersgate Street": {
+                            "type": null,
+                            "country": "England"
+                     },
+                     "Jewin street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Barbican": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Bartholomew Close": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Holborn": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Lincoln's Inn Fields": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Red Lion Square": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "New Scotland Yard": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St. James's Park": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Artillery Lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bunhill Fields Burial Ground": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St. Giles's, Cripplegate": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Hartshorne lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Charing Cross": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "the Sun and Moon": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Aldersgate-street": {
+                            "type": "street",
+                            "country": null
+                     },
+                     "The Mermaid": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "the Mermaid": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "The Devil Tavern, Fleet-Street": {
+                            "type": null,
+                            "country": "England"
+                     },
+                     "Devil Tavern": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Temple Bar": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Christ's Hospital": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "St Bartholomew's Hospital": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Lincoln's Inn": {
+                            "type": "commerce",
+                            "country": "England"
+                     },
+                     "Chancery Lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Azincourt": {
+                            "type": "region",
+                            "country": "France"
+                     },
+                     "France": {
+                            "type": "country",
+                            "country": "France"
+                     },
+                     "Hatton Garden": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Brook House": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Shoe Lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Gray's Inn": {
+                            "type": "commerce",
+                            "country": "England"
+                     },
+                     "Southampton Row, Holborn": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Salisbury Court Theatre": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Bolt Court": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Temple": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Surrey Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "the Strand": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Beaufort-buildings": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Maiden Lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Covent Garden": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "London": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Tavistock Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bond Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bow Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Button's Coffee House": {
+                            "type": "commerce",
+                            "country": "England"
+                     },
+                     "Russell Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Hummums": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Rose Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Leicester Square": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Gerrard Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Leicester House": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "St Martin's Lane": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Bury Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "St James's": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St James's Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Ireland": {
+                            "type": "country",
+                            "country": "Republic of Ireland"
+                     },
+                     "King Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Westminster": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Parliament Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Chelsea": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Holland-House, Kensington": {
+                            "type": null,
+                            "country": "England"
+                     },
+                     "Holland House": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Kensington": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Brook-street, Grosvenor-square": {
+                            "type": null,
+                            "country": "England"
+                     },
+                     "Brook Street": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Grosvenor Square": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Bentinck-street, Manchester-square": {
+                            "type": null,
+                            "country": "England"
+                     },
+                     "Bentinck Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Manchester Square": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Southampton Buildings": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "The Boar's Head Tavern": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Eastcheap": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "the Boar's Head Tavern": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "London Tavern": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Crown and Anchor": {
+                            "type": "Pub",
+                            "country": null
+                     },
+                     "White's": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Royal College of Physicians, London": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Central Criminal Court": {
+                            "type": "prison",
+                            "country": "England"
+                     },
+                     "St. Clement Danes": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Seven Dials": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Labyrinth": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "Stratford-at-bow Manor": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Stratford at Bow": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Paris": {
+                            "type": "city",
+                            "country": "France"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-10-27": "—WEDNESDAY, OCTOBER 27th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator04.xml": {
+              "title": [
+                     "To the Lares, on the Commencement of Fires"
+              ],
+              "bibl": {
+                     "title": {
+                            "To the Lares, on the Commencement of Fires": {
+                                   "author": "Leigh Hunt",
+                                   "ref": "https://www.poetrynook.com/poem/lares-commencement-fires"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Kennedy": "#kennedy",
+                            "Charles": "Charles",
+                            "Charles Kennedy": "https://dbpedia.org/resource/Charles_Kennedy_(diplomat)",
+                            "Miss Cameron": "Miss Cameron",
+                            "the Cameron family": "the Cameron family",
+                            "Dr. Johnson": "https://dbpedia.org/resource/Samuel_Johnson",
+                            "Henry the VIII": "https://dbpedia.org/resource/Henry_VIII",
+                            "Edmund Bonner": "http://dbpedia.org/resource/Edmund_Bonner",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Lares": "http://dbpedia.org/resource/Lares",
+                            "Venus (mythology)": "http://dbpedia.org/resource/Venus_(mythology)"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "Brighton": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Old Steine": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "London": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "The Ship Inn": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "North Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "the Steyne": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "India": {
+                            "type": "country",
+                            "country": "India"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "East India Company": "https://dbpedia.org/resource/East_India_Company"
+              },
+              "dates": {
+                     "1819-11-03": "—WEDNESDAY, NOVEMBER 3d, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator05.xml": {
+              "title": [
+                     "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland",
+                     "XXX of Regiment of Health",
+                     "XXVII. Of Friendship",
+                     "Bosworth Field",
+                     "Heroical Epistles",
+                     "Albion's  England",
+                     "Albion's England",
+                     "When Knighthood was in Flower",
+                     "Faerie Queene",
+                     "Aenid",
+                     "On the Morning of Christ's Nativity",
+                     "A Hymn to the Lares",
+                     "Liber X LXI",
+                     "the Decameron"
+              ],
+              "bibl": {
+                     "title": {
+                            "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland": {
+                                   "author": "Aaron Hill",
+                                   "ref": "https://www.poetrynook.com/poem/verses-written-windows-several-parts-kingdom-journey-scotland"
+                            },
+                            "XXX of Regiment of Health": {
+                                   "author": "Francis Bacon",
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Regiment_of_Health"
+                            },
+                            "XXVII. Of Friendship": {
+                                   "author": "Francis Bacon",
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Friendship"
+                            },
+                            "Bosworth Field": {
+                                   "author": "Sir John Beaumont"
+                            },
+                            "Albion's England": {
+                                   "author": "William Warner"
+                            },
+                            "When Knighthood was in Flower": {
+                                   "author": "Edwin Caskoden",
+                                   "ref": "https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"
+                            },
+                            "Faerie Queene": {},
+                            "Aenid": {
+                                   "author": "Virgil",
+                                   "ref": "//www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3"
+                            },
+                            "On the Morning of Christ's Nativity": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.poetryfoundation.org/poems/44735/on-the-morning-of-christs-nativity"
+                            },
+                            "A Hymn to the Lares": {
+                                   "author": "Robert Herrick",
+                                   "ref": "https://www.luminarium.org/sevenlit/herrick/lares.htm"
+                            },
+                            "Liber X LXI": {
+                                   "author": "Marcus Valerius Martialis",
+                                   "ref": "http://www.thelatinlibrary.com/martial/mart10.shtml"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://dbpedia.org/resource/Edmund_Spenser",
+                            "Plato": "http://dbpedia.org/resource/Plato",
+                            "Dr. Cheyne": "https://dbpedia.org/resource/George_Cheyne_(physician)",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "Celsus": "http://dbpedia.org/resource/Celsus",
+                            "Charles Brandon": "https://dbpedia.org/resource/Charles_Brandon,_1st_Duke_of_Suffolk",
+                            "Mary Queen of France": "http://dbpedia.org/resource/Mary_Tudor,_Queen_of_France",
+                            "Sir William Brandon": "#SirWilliam",
+                            "Richard the Third": "#richardIII",
+                            "Duke of Richmond": "https://dbpedia.org/resource/Henry_VII_of_England",
+                            "King Richard III": "#richardIII",
+                            "Elizabeth of York": "#ElizabethYork",
+                            "Sir John Beaumont": "https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet",
+                            "Charles Brandon, 1st Duke of Suffolk": "#CharlesBrandon",
+                            "Henry VII of England": "#HenryVII",
+                            "King Henry VIII": "#HenryVIII",
+                            "Henry VIII": "#HenryVIII",
+                            "Mary Tudor, Queen of France": "#MaryTudor",
+                            "Louis the XII": "https://dbpedia.org/resource/Louis_XII",
+                            "Michael Drayton": "http://dbpedia.org/resource/Michael_Drayton",
+                            "King Louis XII": "#LouisXII",
+                            "William Warner": "https://dbpedia.org/resource/William_Warner_(poet)",
+                            "William Herbert": "https://dbpedia.org/resource/William_Herbert,_1st_Earl_of_Pembroke_(died_1570)",
+                            "Socrates": "http://dbpedia.org/resource/Socrates",
+                            "Plutarch": "http://dbpedia.org/resource/Plutarch",
+                            "Marcus Junius Brutus": "http://dbpedia.org/resource/Marcus_Junius_Brutus",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Pausanias (geographer)": "http://dbpedia.org/resource/Pausanias_(geographer)",
+                            "Virgil": "http://dbpedia.org/resource/Virgil",
+                            "John Milton": "http://dbpedia.org/resource/John_Milton",
+                            "Ovid": "http://dbpedia.org/resource/Ovid",
+                            "André Dacier": "http://dbpedia.org/resource/André_Dacier",
+                            "Robert Herrick (poet)": "https://dbpedia.org/resource/Robert_Herrick_(poet)",
+                            "Elizabeth I": "https://dbpedia.org/page/Elizabeth_I",
+                            "Martial": "https://dbpedia.org/resource/Martial",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "God": "God",
+                            "Aurora": "https://dbpedia.org/resource/Aurora_(mythology)",
+                            "Tithonus": "http://dbpedia.org/resource/Tithonus",
+                            "Penates": "https://dbpedia.org/page/Di_Penates",
+                            "Lares": "http://dbpedia.org/resource/Lares",
+                            "Odysseus": "http://dbpedia.org/resource/Odysseus",
+                            "Euphemus": "http://dbpedia.org/resource/Euphemus",
+                            "Aeneas": "http://dbpedia.org/resource/Aeneas",
+                            "Mania (deity)": "http://dbpedia.org/resource/Mania_(deity)",
+                            "Lara": "https://dbpedia.org/resource/Larunda",
+                            "Juno": "https://dbpedia.org/resource/Juno_(mythology)",
+                            "Juturna": "https://dbpedia.org/resource/Juturna",
+                            "Mercury": "https://dbpedia.org/resource/Mercury_(mythology)",
+                            "Erotion": "Erotion"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "Bosworth Field site": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "France": {
+                            "type": "country",
+                            "country": "France"
+                     },
+                     "Paris": {
+                            "type": "city",
+                            "country": "France"
+                     },
+                     "Greenwich": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Greece": {
+                            "type": "country",
+                            "country": "Greece"
+                     },
+                     "Temesa": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Crete": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Troy": {
+                            "type": "city",
+                            "country": "Turkey"
+                     },
+                     "Languedoc": {
+                            "type": "region",
+                            "country": "France"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-11-10": "—WEDNESDAY, NOVEMBER 10th, 1819",
+                     "1515-05-13": "13th of May"
+              }
+       },
+       "outputNER/ner_theIndicator06.xml": {
+              "title": [
+                     "Trist.",
+                     "School for Scandal",
+                     "The Life of Mr. Richard Savage, Son of the Earl Rivers",
+                     "Guardian",
+                     "Iliad",
+                     "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer",
+                     "Paradise Lost",
+                     "the State of  Innocence",
+                     "the Fall of Man",
+                     "Tempest",
+                     "Gondibert",
+                     "Discoveries",
+                     "The history of the worthies of England",
+                     "To the Memory of My Beloved the Author, Mr. William Shakespeare",
+                     "The Compleat Angler Or the Contemplative Man's Recreation",
+                     "To My Dear and Most Worthy Friend, Mr. Isaac Walton",
+                     "The Angler's Ballad"
+              ],
+              "bibl": {
+                     "title": {
+                            "Trist.": {},
+                            "The Life of Mr. Richard Savage, Son of the Earl Rivers": {
+                                   "author": "Samuel Johnson"
+                            },
+                            "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer": {
+                                   "author": "Dryden, John",
+                                   "ref": "https://www.google.com/search?q=To+my+dear+friend+Mr.+Congreve"
+                            },
+                            "The history of the worthies of England": {
+                                   "author": "Thomas Fuller",
+                                   "ref": "https://www.google.com/search?q=the+history+of+the+worthies+of+england"
+                            },
+                            "To the Memory of My Beloved the Author, Mr. William Shakespeare": {
+                                   "ref": "https://www.google.com/search?q=to+the+memory+of+my+beloved+the+author+mr+william+shakespeare+by+ben+jonson"
+                            },
+                            "The Compleat Angler Or the Contemplative Man's Recreation": {
+                                   "author": "Izaak Walton",
+                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html"
+                            },
+                            "To My Dear and Most Worthy Friend, Mr. Isaac Walton": {
+                                   "author": "Charles Cotton",
+                                   "ref": "https://www.poetrynook.com/poem/my-dear-and-most-worthy-friend-mr-isaac-walton"
+                            },
+                            "The Angler's Ballad": {
+                                   "author": "Charles Cotton",
+                                   "ref": "https://www.google.com/search?q=The+Angler%27s+Ballad+Charles+Cotton"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://dbpedia.org/resource/Edmund_Spenser",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Ovid": "http://dbpedia.org/resource/Ovid",
+                            "Propertius": "http://dbpedia.org/resource/Propertius",
+                            "Horace": "http://dbpedia.org/resource/Horace",
+                            "Virgil": "http://dbpedia.org/resource/Virgil",
+                            "Alexander Pope": "https://dbpedia.org/resource/Alexander_Pope",
+                            "John Dryden": "http://dbpedia.org/resource/John_Dryden",
+                            "Thomas Moore": "https://dbpedia.org/resource/Thomas_Moore",
+                            "Richard Brinsley Sheridan": "https://dbpedia.org/resource/Richard_Brinsley_Sheridan",
+                            "Samuel Johnson": "http://dbpedia.org/resource/Samuel_Johnson",
+                            "Richard Savage": "https://dbpedia.org/page/Richard_Savage_(poet)",
+                            "Sir Richard Steele": "https://dbpedia.org/resource/Richard_Steele",
+                            "William Congreve": "http://dbpedia.org/resource/William_Congreve",
+                            "John Milton": "http://dbpedia.org/resource/John_Milton",
+                            "Sir William Davenant": "https://dbpedia.org/resource/William_Davenant",
+                            "Samuel Richardson": "https://dbpedia.org/resource/Samuel_Richardson",
+                            "Thomas Betterton": "https://dbpedia.org/resource/Thomas_Betterton",
+                            "Thomas Hobbes": "http://dbpedia.org/resource/Thomas_Hobbes",
+                            "Francis Bacon": "https://dbpedia.org/resource/Francis_Bacon",
+                            "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
+                            "Francis Beaumont": "https://dbpedia.org/resource/Francis_Beaumont",
+                            "John Fletcher": "https://dbpedia.org/resource/John_Fletcher_(playwright)",
+                            "George Chapman": "https://dbpedia.org/resource/George_Chapman",
+                            "John Donne": "http://dbpedia.org/resource/John_Donne",
+                            "Michael Drayton": "http://dbpedia.org/resource/Michael_Drayton",
+                            "William Camden": "http://dbpedia.org/resource/William_Camden",
+                            "John Selden": "http://dbpedia.org/resource/John_Selden",
+                            "Edward Hyde, 1st Earl of Clarendon": "https://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon",
+                            "Sir Philip Sidney": "https://dbpedia.org/resource/Philip_Sidney",
+                            "Walter Raleigh": "http://dbpedia.org/resource/Walter_Raleigh",
+                            "Elizabeth I": "https://dbpedia.org/page/Elizabeth_I",
+                            "James VI and I": "https://dbpedia.org/resource/James_VI_and_I",
+                            "Fulke Greville, 1st Baron Brooke": "http://dbpedia.org/resource/Fulke_Greville,_1st_Baron_Brooke",
+                            "Gabriel Harvey": "https://dbpedia.org/resource/Gabriel_Harvey",
+                            "James Boswell": "http://dbpedia.org/resource/James_Boswell",
+                            "Oliver Goldsmith": "http://dbpedia.org/resource/Oliver_Goldsmith",
+                            "Joseph Addison": "http://dbpedia.org/resource/Joseph_Addison",
+                            "Thomas Fuller (writer)": "http://dbpedia.org/resource/Thomas_Fuller_(writer)",
+                            "Geoffrey Chaucer": "https://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "Jonathan Swift": "https://dbpedia.org/resource/Jonathan_Swift",
+                            "Isaac Walton": "https://dbpedia.org/resource/Izaak_Walton",
+                            "Izaak Walton": "#walton",
+                            "Charles Cotton": "#cotton",
+                            "Mark Antony": "http://dbpedia.org/resource/Mark_Antony",
+                            "Cleopatra": "http://dbpedia.org/resource/Cleopatra",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Antinous": "http://dbpedia.org/resource/Antinous",
+                            "Sappho": "http://dbpedia.org/resource/Sappho",
+                            "Canova": "https://dbpedia.org/resource/Antonio_Canova",
+                            "John of Bologna": "https://dbpedia.org/resource/Giambologna",
+                            "James Tassie": "https://dbpedia.org/resource/James_Tassie",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Hamlet": "https://dbpedia.org/resource/Prince_Hamlet",
+                            "John Falstaff": "http://dbpedia.org/resource/John_Falstaff",
+                            "Desdemona": "https://dbpedia.org/resource/Desdemona",
+                            "Melpomene": "http://dbpedia.org/resource/Melpomene",
+                            "Paris": "https://dbpedia.org/resource/Paris_(mythology)",
+                            "Venus": "https://dbpedia.org/resource/Venus_(mythology)"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "London": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Hyde Park Corner": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "River Lea": {
+                            "type": "physical",
+                            "country": "Ireland"
+                     },
+                     "Rome": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Leicester Square": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "Commonwealth of England": "https://dbpedia.org/resource/Commonwealth_of_England"
+              },
+              "dates": {
+                     "1819-11-17": "—WEDNESDAY, NOVEMBER 17th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator07.xml": {
+              "title": [
+                     "Henry IV",
+                     "Hudibras",
+                     "Description of Holland",
+                     "The Character of Holland"
+              ],
+              "bibl": {
+                     "title": {
+                            "Henry IV": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"
+                            },
+                            "Description of Holland": {
+                                   "author": "Samuel Butler",
+                                   "ref": "https://en.wikisource.org/wiki/The_Genuine_Remains_in_Verse_and_Prose_of_Mr._Samuel_Butler/Volume_1/Description_of_Holland"
+                            },
+                            "The Character of Holland": {
+                                   "author": "Andrew Marvell",
+                                   "ref": "https://www.poetryfoundation.org/poems/44678/the-character-of-holland"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Oliver Goldsmith": "http://dbpedia.org/resource/Oliver_Goldsmith",
+                            "Samuel Butler": "https://dbpedia.org/resource/Samuel_Butler_(poet)",
+                            "Andrew Marvell": "#marvell",
+                            "John Dryden": "http://dbpedia.org/resource/John_Dryden",
+                            "Thomas Becket": "https://dbpedia.org/resource/Thomas_Becket",
+                            "Henry II of England": "https://dbpedia.org/resource/Henry_II_of_England",
+                            "Gilbert Becket": "https://thebecketstory.org.uk/london/themes/becket-birth",
+                            "William Wordsworth": "http://dbpedia.org/resource/William_Wordsworth",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "John Milton": "http://dbpedia.org/resource/John_Milton",
+                            "Isaac Newton": "http://dbpedia.org/resource/Isaac_Newton",
+                            "Miguel de Cervantes": "http://dbpedia.org/resource/Miguel_de_Cervantes",
+                            "Torquato Tasso": "http://dbpedia.org/resource/Torquato_Tasso",
+                            "William Collins": "https://dbpedia.org/resource/William_Collins_(poet)",
+                            "William Cowper": "http://dbpedia.org/resource/William_Cowper",
+                            "Jonathan Swift": "http://dbpedia.org/resource/Jonathan_Swift",
+                            "Dr. Johnson": "https://dbpedia.org/resource/Samuel_Johnson",
+                            "king Alfred": "https://dbpedia.org/resource/Alfred_the_Great",
+                            "King Alfred the Great": "#kingAlfred",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "John Falstaff": "http://dbpedia.org/resource/John_Falstaff",
+                            "the Lord Chief Justice": "the Lord Chief Justice",
+                            "Bardolph": "https://dbpedia.org/resource/Bardolph_(Shakespeare_character)"
+                     }
+              },
+              "places": {
+                     "Africa": {
+                            "type": "continent",
+                            "country": "Africa"
+                     },
+                     "Tower of Babel": {
+                            "type": "fictional",
+                            "country": "Babylon"
+                     },
+                     "Coventry": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Hammersmith": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Netherlands": {
+                            "type": "country",
+                            "country": "The Netherlands"
+                     },
+                     "London": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "England": {
+                            "type": "country",
+                            "country": "England"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-11-24": "—WEDNESDAY, NOVEMBER 24th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator09.xml": {
+              "title": [
+                     "Inferno",
+                     "the Odyssey",
+                     "Quixote",
+                     "the adventures of Tom Jones in his Married State",
+                     "The Wisdom of the Ancients",
+                     "Inferno: Canto XXVI",
+                     "Life of Anacharsis, the Scythian",
+                     "The Canterbury Tales",
+                     "The Cantebury Tales",
+                     "Paradise Regained",
+                     "The Castle of Indolence",
+                     "Recollections of Christ's Hospital",
+                     "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt",
+                     "My Heart Leaps Up",
+                     "Temora (Book 4)",
+                     "Temora",
+                     "Carthon: A Poem"
+              ],
+              "bibl": {
+                     "title": {
+                            "The Wisdom of the Ancients": {
+                                   "author": "Francis Bacon",
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"
+                            },
+                            "Inferno: Canto XXVI": {
+                                   "author": "Dante Alighieri",
+                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm"
+                            },
+                            "Life of Anacharsis, the Scythian": {
+                                   "author": "Diogenes Laërtius",
+                                   "ref": "https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"
+                            },
+                            "The Canterbury Tales": {
+                                   "ref": "https://www.google.com/search?q=canterbury+tales"
+                            },
+                            "The Cantebury Tales": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm"
+                            },
+                            "Paradise Regained": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.gutenberg.org/cache/epub/58/pg58-images.html"
+                            },
+                            "The Castle of Indolence": {
+                                   "author": "James Thomson",
+                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o3818-w0010.shtml"
+                            },
+                            "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt": {
+                                   "author": "Charles Lamb",
+                                   "ref": "https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up"
+                            },
+                            "My Heart Leaps Up": {
+                                   "author": "William Wordsworth",
+                                   "ref": "https://www.google.com/search?q=my+heart+leaps+up+poem+by+william+wordsworth"
+                            },
+                            "Temora (Book 4)": {},
+                            "Temora": {},
+                            "Carthon: A Poem": {
+                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o5164-w0070.shtml"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Dante Alighieri": "https://dbpedia.org/resource/Dante_Alighieri",
+                            "Miguel de Cervantes": "http://dbpedia.org/resource/Miguel_de_Cervantes",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Virgil": "http://dbpedia.org/resource/Virgil",
+                            "St. Dominic": "https://dbpedia.org/resource/Saint_Dominic",
+                            "Jesus": "http://dbpedia.org/resource/Jesus",
+                            "Samuel Taylor Coleridge": "https://dbpedia.org/resource/Samuel_Taylor_Coleridge",
+                            "Tertullian": "http://dbpedia.org/resource/Tertullian",
+                            "Anacharsis": "http://dbpedia.org/resource/Anacharsis",
+                            "Cyrus the Great": "https://dbpedia.org/resource/Cyrus_the_Great",
+                            "Xerxes I": "http://dbpedia.org/resource/Xerxes_I",
+                            "Haroun al Raschid": "https://dbpedia.org/resource/Harun_al-Rashid",
+                            "Charlemagne": "http://dbpedia.org/resource/Charlemagne",
+                            "Geoffrey Chaucer": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "John Mandeville": "https://dbpedia.org/page/John_Mandeville",
+                            "Marco Polo": "http://dbpedia.org/resource/Marco_Polo",
+                            "William de Rubruquis": "https://dbpedia.org/resource/William_of_Rubruck",
+                            "John Milton": "https://dbpedia.org/resource/John_Milton",
+                            "Bocchus I": "http://dbpedia.org/resource/Bocchus_I",
+                            "James Thomson": "https://dbpedia.org/resource/James_Thomson_(poet,_born_1700)",
+                            "Charles Lamb": "http://dbpedia.org/resource/Charles_Lamb",
+                            "Ossian": "http://dbpedia.org/resource/Ossian",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Ulysses": "https://dbpedia.org/resource/Odysseus",
+                            "Homer": "https://dbpedia.org/resource/Homer",
+                            "Tiresias": "http://dbpedia.org/resource/Tiresias",
+                            "Telegonus": "https://dbpedia.org/resource/Telegonus_(son_of_Odysseus)",
+                            "Circe": "http://dbpedia.org/resource/Circe",
+                            "Penelope": "http://dbpedia.org/resource/Penelope",
+                            "Telemachus": "#telamachus",
+                            "Oedipus": "https://dbpedia.org/resource/Oedipus",
+                            "Minerva": "http://dbpedia.org/resource/Minerva",
+                            "Pan": "https://dbpedia.org/resource/Pan_(god)",
+                            "Icarius of Sparta": "http://dbpedia.org/resource/Icarius_of_Sparta",
+                            "Aeneas": "http://dbpedia.org/resource/Aeneas",
+                            "laertes": "https://dbpedia.org/resource/Laertes",
+                            "Hercules": "https://dbpedia.org/page/Hercules",
+                            "Sinbad the Sailor": "http://dbpedia.org/resource/Sinbad_the_Sailor",
+                            "Aboulfaouris": "https://books.google.ca/books?id=mwEyAQAAMAAJ&pg=PA469&source=gbs_toc_r&cad=2#v=onepage&q&f=false",
+                            "Prester John": "https://dbpedia.org/resource/Prester_John",
+                            "Philip Quarll": "Philip Quarll"
+                     }
+              },
+              "places": {
+                     "Ithaca": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Troy": {
+                            "type": "city",
+                            "country": "Turkey"
+                     },
+                     "Mantineia": {
+                            "type": "city",
+                            "country": "Greece"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Gaeta": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Spain": {
+                            "type": "country",
+                            "country": "Spain"
+                     },
+                     "Morocco": {
+                            "type": "region",
+                            "country": "Morocco"
+                     },
+                     "Sardinia": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Seville": {
+                            "type": "city",
+                            "country": "Spain"
+                     },
+                     "Ceuta": {
+                            "type": "region",
+                            "country": "Spain"
+                     },
+                     "Europe": {
+                            "type": "continent",
+                            "country": "Europe"
+                     },
+                     "France": {
+                            "type": "country",
+                            "country": "France"
+                     },
+                     "China": {
+                            "type": "country",
+                            "country": "China"
+                     },
+                     "Great Wall of China": {
+                            "type": "Landmark",
+                            "country": "China"
+                     },
+                     "Silk Road": {
+                            "type": "Road",
+                            "country": "India"
+                     },
+                     "Egypt": {
+                            "type": "country",
+                            "country": "Egypt"
+                     },
+                     "Phoenicia": {
+                            "type": "region",
+                            "country": "Lebanon"
+                     },
+                     "Greece": {
+                            "type": "country",
+                            "country": "Greece"
+                     },
+                     "Sri Lanka": {
+                            "type": "region",
+                            "country": "Sri Lanka"
+                     },
+                     "Baghdad": {
+                            "type": "city",
+                            "country": "Iraq"
+                     },
+                     "Cairo": {
+                            "type": "city",
+                            "country": "Egypt"
+                     },
+                     "State of Palestine": {
+                            "type": "country",
+                            "country": "Palestine"
+                     },
+                     "Turkey": {
+                            "type": "country",
+                            "country": "Turkey"
+                     },
+                     "Appian Way": {
+                            "type": "Road",
+                            "country": "Italy"
+                     },
+                     "Emilia": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Aswan": {
+                            "type": "city",
+                            "country": "Egypt"
+                     },
+                     "Meroë": {
+                            "type": "city",
+                            "country": "Ethiopia"
+                     },
+                     "Black-moor sea": {
+                            "type": "physical",
+                            "country": "Morocco"
+                     },
+                     "India": {
+                            "type": "country",
+                            "country": "India"
+                     },
+                     "Golden Chersonese": {
+                            "type": "region",
+                            "country": "Malaysia"
+                     },
+                     "Taprobana": {
+                            "type": "region",
+                            "country": "Sri Lanka"
+                     },
+                     "Ireland": {
+                            "type": "country",
+                            "country": "Republic of Ireland"
+                     },
+                     "Hebrides": {
+                            "type": "region",
+                            "country": "Scotland"
+                     },
+                     "Hampstead": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Cisalpine Republic": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-12-08": "—WEDNESDAY, DECEMBER 8th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator10.xml": {
+              "title": [
+                     "Hamlet",
+                     "Tam O'Shanter",
+                     "Tom o' Shanter",
+                     "Fairy Queen",
+                     "The Fairy Queen",
+                     "the Ancient Mariner",
+                     "Ancient Mariner",
+                     "The Rime of the Ancient Mariner",
+                     "IV. de phasello"
+              ],
+              "bibl": {
+                     "title": {
+                            "Hamlet": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=hamlet+by+william+shakespeare"
+                            },
+                            "Tom o' Shanter": {
+                                   "author": "Robert Burns",
+                                   "ref": "https://www.google.com/search?q=tam+o+shanter+poem+by+robert+burns"
+                            },
+                            "Fairy Queen": {},
+                            "The Fairy Queen": {
+                                   "author": "Edmund Spenser",
+                                   "ref": "https://www.google.com/search?q=the+fairy+queen+by+edmund+spenser+book+2"
+                            },
+                            "The Rime of the Ancient Mariner": {
+                                   "author": "Samuel Taylor Coleridge",
+                                   "ref": "https://dbpedia.org/resource/The_Rime_of_the_Ancient_Mariner"
+                            },
+                            "IV. de phasello": {
+                                   "author": "Catullus",
+                                   "ref": "https://en.wikisource.org/wiki/Translation:Catullus_4"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Hans Holbein the Younger": "http://dbpedia.org/resource/Hans_Holbein_the_Younger",
+                            "Matthew Gregory Lewis": "https://dbpedia.org/resource/Matthew_Gregory_Lewis",
+                            "John Donne": "http://dbpedia.org/resource/John_Donne",
+                            "Robert Burns": "http://dbpedia.org/resource/Robert_Burns",
+                            "Samuel Taylor Coleridge": "http://dbpedia.org/resource/Samuel_Taylor_Coleridge",
+                            "George Sale": "http://dbpedia.org/resource/George_Sale",
+                            "George Sandys": "http://dbpedia.org/resource/George_Sandys",
+                            "Ovid": "http://dbpedia.org/resource/Ovid",
+                            "Georg Sabinus": "http://dbpedia.org/resource/Georg_Sabinus",
+                            "Catullus": "https://dbpedia.org/resource/Catullus",
+                            "Matthias Döring": "http://dbpedia.org/resource/Matthias_Döring",
+                            "Amastris (ruler of Heraclea)": "http://dbpedia.org/resource/Amastris_(ruler_of_Heraclea)",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Philoctetes": "http://dbpedia.org/resource/Philoctetes",
+                            "Ghost, King Hamlet": "https://dbpedia.org/resource/Ghost_(Hamlet)",
+                            "Prince Hamlet": "http://dbpedia.org/resource/Prince_Hamlet",
+                            "Solomon": "https://dbpedia.org/resource/Solomon",
+                            "The Mariner": "The Mariner",
+                            "Otto": "#otto",
+                            "Bertha": "Bertha",
+                            "Castor and Pollux": "http://dbpedia.org/resource/Castor_and_Pollux",
+                            "Jupiter (mythology)": "http://dbpedia.org/resource/Jupiter_(mythology)",
+                            "Pollux": "#pollux"
+                     }
+              },
+              "places": {
+                     "Frankfurt": {
+                            "type": "city",
+                            "country": "Germany"
+                     },
+                     "Bavaria": {
+                            "type": "region",
+                            "country": "Germany"
+                     },
+                     "Sirmione": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Coast of the Adriatic Sea": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Rhodes": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Thrace": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Dardanelles": {
+                            "type": "physical",
+                            "country": "Turkey"
+                     },
+                     "Pontic Mountains and Bay": {
+                            "type": "region",
+                            "country": "Turkey"
+                     },
+                     "Cytorus": {
+                            "type": "city",
+                            "country": "Greece"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-12-15": "—WEDNESDAY, DECEMBER 15th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator11.xml": {
+              "title": [
+                     "the Harleian Miscellany",
+                     "Æneid",
+                     "Pilgrim's Progress",
+                     "Aeneid",
+                     "the Winter's Tale",
+                     "the Hymn to his honour",
+                     "Gil Blas",
+                     "Forty Thieves",
+                     "Mysteries of Udolpho",
+                     "Orlando Furio.",
+                     "Palace of Pleasure",
+                     "LOVE'S PHILOSOPHY.",
+                     "Love's Philosophy"
+              ],
+              "bibl": {
+                     "title": {
+                            "Æneid": {},
+                            "Aeneid": {
+                                   "author": "Virgil",
+                                   "ref": "https://www.google.com/search?q=Aenid+by+Virgil"
+                            },
+                            "Orlando Furio.": {},
+                            "Love's Philosophy": {
+                                   "author": "Percy Bysshe Shelley",
+                                   "ref": "https://www.bartleby.com/lit-hub/the-golden-treasury/106134/"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://dbpedia.org/resource/Edmund_Spenser",
+                            "Claude Duval": "http://dbpedia.org/resource/Claude_Duval",
+                            "Charles II": "https://dbpedia.org/resource/Charles_II_of_England",
+                            "Torquato Tasso": "http://dbpedia.org/resource/Torquato_Tasso",
+                            "Virgil": "http://dbpedia.org/resource/Virgil",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Saint Peter": "http://dbpedia.org/resource/Saint_Peter",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Petronius": "https://dbpedia.org/resource/Petronius",
+                            "Alexander the Great": "https://dbpedia.org/resource/Alexander_the_Great",
+                            "Herodotus": "https://dbpedia.org/resource/Herodotus",
+                            "Apuleius": "http://dbpedia.org/resource/Apuleius",
+                            "Rollo": "http://dbpedia.org/resource/Rollo",
+                            "Luigi Pulci": "http://dbpedia.org/resource/Luigi_Pulci",
+                            "Ludovico Ariosto": "http://dbpedia.org/resource/Ludovico_Ariosto",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "Ann Radcliffe": "http://dbpedia.org/resource/Ann_Radcliffe",
+                            "Matteo Maria Boiardo": "http://dbpedia.org/resource/Matteo_Maria_Boiardo",
+                            "Miguel de Cervantes": "http://dbpedia.org/resource/Miguel_de_Cervantes",
+                            "Masaccio": "http://dbpedia.org/resource/Masaccio",
+                            "Matteo Bandello": "http://dbpedia.org/resource/Matteo_Bandello",
+                            "Giovanni Boccaccio": "http://dbpedia.org/resource/Giovanni_Boccaccio",
+                            "William Painter": "https://dbpedia.org/resource/William_Painter_(author)",
+                            "Bernardino of Siena": "#bernardino",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Vulcan (mythology)": "http://dbpedia.org/resource/Vulcan_(mythology)",
+                            "Medusa": "http://dbpedia.org/resource/Medusa",
+                            "Cacus": "http://dbpedia.org/resource/Cacus",
+                            "Hercules": "http://dbpedia.org/resource/Hercules",
+                            "Autolycus": "http://dbpedia.org/resource/Autolycus",
+                            "Mercury (mythology)": "http://dbpedia.org/resource/Mercury_(mythology)",
+                            "Sisyphus": "http://dbpedia.org/resource/Sisyphus",
+                            "Aeolus": "http://dbpedia.org/resource/Aeolus",
+                            "Anticlea": "http://dbpedia.org/resource/Anticlea",
+                            "Laertes": "http://dbpedia.org/resource/Laertes",
+                            "Ulysses": "https://dbpedia.org/resource/Odysseus",
+                            "Pluto (mythology)": "http://dbpedia.org/resource/Pluto_(mythology)",
+                            "Mars (mythology)": "http://dbpedia.org/resource/Mars_(mythology)",
+                            "Jupiter (mythology)": "http://dbpedia.org/resource/Jupiter_(mythology)",
+                            "Cupid": "http://dbpedia.org/resource/Cupid",
+                            "Admetus (mythology)": "http://dbpedia.org/resource/Admetus_(mythology)",
+                            "Apollo": "http://dbpedia.org/resource/Apollo",
+                            "Brunello (character)": "http://dbpedia.org/resource/Brunello_(character)",
+                            "Sacripante": "http://dbpedia.org/resource/Sacripante",
+                            "Sancho Panza": "#sancho",
+                            "Dapple": "Dapple",
+                            "Ginés de Passamonte": "https://dbpedia.org/resource/Ginés_de_Pasamonte",
+                            "Castellani": "#castellani"
+                     }
+              },
+              "places": {
+                     "Aventine Hill": {
+                            "type": "Physical",
+                            "country": "Italy"
+                     },
+                     "King's Highway": {
+                            "type": "Road",
+                            "country": "Jordan"
+                     },
+                     "Abaddon": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "Styx": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Bologna": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Siena": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Milan": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-12-22": "—WEDNESDAY, DECEMBER 22d, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator12.xml": {
+              "title": [
+                     "Gil Blas",
+                     "Chronicle of the Cid",
+                     "Poema del Cid",
+                     "Guzman d'Alfarache",
+                     "Marcos de Obregon",
+                     "Visions of Hell",
+                     "History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds."
+              ],
+              "bibl": {
+                     "title": {
+                            "Chronicle of the Cid": {}
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "El Cid": "http://dbpedia.org/resource/El_Cid",
+                            "Alfonso VI of León and Castile": "https://dbpedia.org/resorce/Alfonso_VI_of_León_and_Castile",
+                            "Robert Southey": "https://dbpedia.org/resource/Robert_Southey",
+                            "John Hookham Frere": "http://dbpedia.org/resource/John_Hookham_Frere",
+                            "Daniel Defoe": "https://dbpedia.org/resource/Daniel_Defoe",
+                            "Francisco de Quevedo": "http://dbpedia.org/resource/Francisco_de_Quevedo",
+                            "Diego de Mendoza": "https://dbpedia.org/resource/Diego_de_Mendoza",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "Pontius Pilate": "http://dbpedia.org/resource/Pontius_Pilate",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Gil Blas de Santillana": "Gil Blas de Santillana",
+                            "Martin Antolinez": "#martin",
+                            "Sancho Panza": "https://dbpedia.org/resource/Sancho_Panza",
+                            "Don Quixote": "http://dbpedia.org/resource/Don_Quixote",
+                            "Lazarillo de Tormes": "https://dbpedia.org/resource/Lazarillo_de_Tormes",
+                            "Aldonza Saturno de Rebollo": "#aldonza",
+                            "Don Pablo": "Don Pablo",
+                            "Aldonza Saturno de Rebello": "Aldonza Saturno de Rebello",
+                            "Pontio de Auguirre": "Pontio de Auguirre",
+                            "Don Diego": "Don Diego"
+                     }
+              },
+              "places": {
+                     "Spain": {
+                            "type": "country",
+                            "country": "Spain"
+                     },
+                     "Toledo": {
+                            "type": "city",
+                            "country": "Spain"
+                     },
+                     "Venice": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1819-12-29": "—WEDNESDAY, DECEMBER 29th, 1819"
+              }
+       },
+       "outputNER/ner_theIndicator20.xml": {
+              "title": [
+                     "Superstitions of the "
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Anne Grant": "https://dbpedia.org/resource/Anne_Grant",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Duth Maruno": "Duth Maruno",
+                            "Ronald of the Perfect Hand": "#ronald",
+                            "Moilena of the Perfect Voice": "Moilena of the Perfect Voice",
+                            "Odin": "#odin",
+                            "Thor": "http://dbpedia.org/resource/Thor"
+                     }
+              },
+              "places": {
+                     "Scottish Highlands": {
+                            "type": "region",
+                            "country": "Scotland"
+                     },
+                     "North Sea": {
+                            "type": "physical",
+                            "country": "North Sea"
+                     },
+                     "Orkney Islands": {
+                            "type": "region",
+                            "country": "Scotland"
+                     },
+                     "Stromness": {
+                            "type": "region",
+                            "country": "Scotland"
+                     },
+                     "Valhalla": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "Ring of Brodgar": {
+                            "type": "Landmark",
+                            "country": "Scotland"
+                     },
+                     "Scotland": {
+                            "type": "country",
+                            "country": "Scotland"
+                     },
+                     "19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-02-23": "WEDNESDAY, FEBRUARY 23rd, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator21.xml": {
+              "title": [
+                     "Sir     Charles Grandison",
+                     "Love's Labor's Lost"
+              ],
+              "bibl": {
+                     "title": {
+                            "Love's Labor's Lost": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Elizabeth I of England": "https://dbpedia.org/resource/Elizabeth_I",
+                            "William Shakespeare": "https://dbpedia.org/resource/William_Shakespeare",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Pollexfen": "Pollexfen",
+                            "Malipiero": "#Mal",
+                            "Walter Herbert": "Walter Herbert",
+                            "Vittoria": "#Vit",
+                            "Fiammetta": "#Fiam",
+                            "Contarini": "#Cont",
+                            "Candian": "#Cand",
+                            "Sebastian": "#Seb",
+                            "Molino": "Molino",
+                            "Vanni": "#Van",
+                            "Gregory": "Gregory",
+                            "Piero": "Piero",
+                            "Momola": "Momola",
+                            "Dido": "http://dbpedia.org/resource/Dido",
+                            "Cupid": "http://dbpedia.org/resource/Cupid",
+                            "Hercules": "http://dbpedia.org/resource/Hercules",
+                            "Atlas (mythology)": "http://dbpedia.org/resource/Atlas_(mythology)"
+                     }
+              },
+              "places": {
+                     "Venice": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Song River": {
+                            "type": "physical",
+                            "country": "Italy"
+                     },
+                     "The Mermaid Tavern": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "River Fleet": {
+                            "type": "physical",
+                            "country": "England"
+                     },
+                     "St. Mark's Basilica": {
+                            "type": "building",
+                            "country": "Italy"
+                     },
+                     "England": {
+                            "type": "country",
+                            "country": "England"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-03-01": "WEDNESDAY, MARCH 1st, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator22.xml": {
+              "title": [
+                     "the Novelist's Magazine",
+                     "The Taming of the Shrew",
+                     "Paradise Lost",
+                     "24th Idyll of "
+              ],
+              "bibl": {
+                     "title": {
+                            "The Taming of the Shrew": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/"
+                            },
+                            "Paradise Lost": {
+                                   "author": "John Milton",
+                                   "ref": "https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_I"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Thomas Stothard": "https://dbpedia.org/resource/Thomas_Stothard",
+                            "Antonio Canova": "http://dbpedia.org/resource/Antonio_Canova",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "Francesco  Petrarch": "http://dbpedia.org/resource/Petrarch",
+                            "Geoffrey Chaucer": "https://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "Raphael": "http://dbpedia.org/resource/Raphael",
+                            "Titian": "http://dbpedia.org/resource/Titian",
+                            "Charles II of England": "https://dbpedia.org/resource/Charles_II_of_England",
+                            "Philip II of Spain": "#philip",
+                            "Mary I of England": "https://dbpedia.org/page/Mary_I_of_England",
+                            "Charles V": "https://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor",
+                            "Henry VIII": "https://dbpedia.org/resource/Henry_VIII",
+                            "Paul I of Russia": "https://dbpedia.org/resource/Paul_I_of_Russia",
+                            "Hernán Cortés": "http://dbpedia.org/resource/Hernán_Cortés",
+                            "Mary de Nazareth ": "https://dbpedia.org/resource/Mary,_mother_of_Jesus",
+                            "De Courcys": "https://dbpedia.org/resource/Courceys",
+                            "John de Courcy, 35th Baron Kingsale": "https://dbpedia.org/resource/John_de_Courcy,_35th_Baron_Kingsale",
+                            "Theocritus": "https://dbpedia.org/resource/Theocritus",
+                            "Annibale Carracci": "https://dbpedia.org/resource/Annibale_Carracci",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "https://www.britishmuseum.org/collection/term/BIOG179950"
+                     },
+                     "fictional": {
+                            "Katharine": "https://dbpedia.org/resource/Katherina_(Kate)_Minola",
+                            "Mercury (mythology)": "http://dbpedia.org/resource/Mercury_(mythology)",
+                            "Paris": "https://dbpedia.org/resource/Paris_(mythology)",
+                            "Hercules": "#Hercules",
+                            "Jupiter (mythology)": "http://dbpedia.org/resource/Jupiter_(mythology)",
+                            "Amphitryon": "http://dbpedia.org/resource/Amphitryon",
+                            "Alcmene": "http://dbpedia.org/resource/Alcmene",
+                            "Jupiter": "#Jupiter",
+                            "Alcmena": "#Alcmene",
+                            "Iphiclus (mythology)": "http://dbpedia.org/resource/Iphiclus_(mythology)",
+                            "Juno (mythology)": "http://dbpedia.org/resource/Juno_(mythology)",
+                            "Pterelas": "https://dbpedia.org/page/Pterelaus_(son_of_Taphius)",
+                            "Iphiclus": "#Iphiclus",
+                            "Tiresias": "http://dbpedia.org/resource/Tiresias",
+                            "Perseus": "http://dbpedia.org/resource/Perseus"
+                     }
+              },
+              "places": {
+                     "St. James's Street": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Spain": {
+                            "type": "country",
+                            "country": "Spain"
+                     },
+                     "No. 51, Oxford-street, London": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Europe": {
+                            "type": "continent",
+                            "country": "Europe"
+                     },
+                     "Siberia": {
+                            "type": "region",
+                            "country": "Russia"
+                     },
+                     "Trachis": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 45, Broad-street, Golden-square, London": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-03-08": "WEDNESDAY, MARCH 8th, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator23.xml": {
+              "title": [
+                     "Support for the Fleet",
+                     "Black Eyed Susan",
+                     "Canterbury Tales",
+                     "The Canterbury Tales",
+                     "Aminta"
+              ],
+              "bibl": {
+                     "title": {
+                            "Black Eyed Susan": {
+                                   "author": "John Gay",
+                                   "ref": "https://en.wikisource.org/wiki/The_Black-bird/Black_Eyed_Susan"
+                            },
+                            "The Canterbury Tales": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://dbpedia.org/resource/The_Canterbury_Tales"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Geoffrey Chaucer": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "Vasco de Gama": "https://dbpedia.org/resource/Vasco_da_Gama",
+                            "Luís de Camões": "http://dbpedia.org/resource/Luís_de_Camões",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Mrs. Slipslops": "https://www.cliffsnotes.com/literature/j/joseph-andrews/character-analysis/mrs-slipslop",
+                            "Mrs. Jane": "#lady-m",
+                            "Elizabeth Monson": "#ElizabethMonson",
+                            "Susan": "Susan",
+                            "Mr. Hindergaiter": "#indi",
+                            "Tom Butts": "#Butts",
+                            "William": "William",
+                            "Sally Jones": "Sally Jones",
+                            "Mr. Hingy-grater": "#indi",
+                            "Miss Gollogher": "Miss Gollogher",
+                            "Miss Sarah Jones": "Miss Sarah Jones",
+                            "Nance": "Nance",
+                            "Tom Sikes": "Tom Sikes",
+                            "Othello": "https://dbpedia.org/resource/Othello",
+                            "King Domy": "King Domy",
+                            "Poll": "Poll",
+                            "George": "George",
+                            "The Shipman": "The Shipman"
+                     }
+              },
+              "places": {
+                     "England": {
+                            "type": "country",
+                            "country": "England"
+                     },
+                     "the Jolly Miller": {
+                            "type": "Pub",
+                            "country": "England"
+                     },
+                     "Portsmouth": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Margate": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "London": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Paranaboo": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "New Zealand": {
+                            "type": "country",
+                            "country": "New Zealand"
+                     },
+                     "India": {
+                            "type": "country",
+                            "country": "India"
+                     },
+                     "Condell's": {
+                            "type": "commerce",
+                            "country": "England"
+                     },
+                     "Dartmouth": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Bourdeaux": {
+                            "type": "city",
+                            "country": "France"
+                     },
+                     "Kingston upon Hull": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Carthage": {
+                            "type": "city",
+                            "country": "Tunisia"
+                     },
+                     "Gotland": {
+                            "type": "region",
+                            "country": "Sweden"
+                     },
+                     "Cape Finisterre": {
+                            "type": "region",
+                            "country": "Spain"
+                     },
+                     "United Kingdom": {
+                            "type": "country",
+                            "country": "Great Britain"
+                     },
+                     "Spain": {
+                            "type": "country",
+                            "country": "Spain"
+                     },
+                     "The Island of Love": {
+                            "type": "fictional",
+                            "country": null
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-03-15": "—WEDNESDAY, MARCH 15th, 1820.",
+                     "2013": "2013"
+              }
+       },
+       "outputNER/ner_theIndicator24.xml": {
+              "title": [
+                     "the     Vicar of Wakefield",
+                     "The Vicar of Wakefield",
+                     "The Revolt of Islam",
+                     "The Faerie Queen",
+                     "A Midsummer Night's Dream",
+                     "L'Allegro",
+                     "Arcadian Mask",
+                     "Arcades",
+                     "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
+                     "Love's Labor's Lost",
+                     "Paradise Lost",
+                     "King Lear",
+                     "The Tempest",
+                     "Purgatorio",
+                     "To Penshurst",
+                     "Gondibert: An Heroick Poem",
+                     "Psalms"
+              ],
+              "bibl": {
+                     "title": {
+                            "The Vicar of Wakefield": {
+                                   "author": "Oliver Goldsmith",
+                                   "ref": "https://www.gutenberg.org/files/2667/2667-h/2667-h.htm"
+                            },
+                            "The Revolt of Islam": {
+                                   "author": "Percy Bysshe Shelley"
+                            },
+                            "The Faerie Queen": {
+                                   "author": "Edmund Spenser"
+                            },
+                            "A Midsummer Night's Dream": {
+                                   "author": "William Shakespeare"
+                            },
+                            "L'Allegro": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton"
+                            },
+                            "Arcades": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=Arcades+by+John+Milton"
+                            },
+                            "Poems Upon Several Occasions, English, Italian, and Latin, with Translations": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=Poems+Upon+Several+Occasions%2C+English%2C+Italian%2C+and+Latin%2C+with+Translations+by+John+Milton%2C+ed.+Thomas+Warton"
+                            },
+                            "Love's Labor's Lost": {
+                                   "author": "William Shakespeare"
+                            },
+                            "Paradise Lost": {
+                                   "author": "John Milton"
+                            },
+                            "The Tempest": {
+                                   "author": "William Shakespeare"
+                            },
+                            "Purgatorio": {},
+                            "To Penshurst": {
+                                   "author": "Ben Jonson",
+                                   "ref": "https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson"
+                            },
+                            "Gondibert: An Heroick Poem": {
+                                   "author": "William Davenant",
+                                   "ref": "https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant"
+                            },
+                            "Psalms": {}
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "https://dbpedia.org/resource/Edmund_Spenser",
+                            "Earl of Derby": "http://dbpedia.org/resource/Earl_of_Derby",
+                            "John Milton": "http://dbpedia.org/resource/John_Milton",
+                            "Thomas Warton": "http://dbpedia.org/resource/Thomas_Warton",
+                            "Henry John Todd": "https://dbpedia.org/resource/Henry_Todd_(priest)",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Anacreon": "http://dbpedia.org/resource/Anacreon",
+                            "Christopher Columbus": "https://dbpedia.org/resource/Christopher_Columbus",
+                            "Alexander von Humboldt": "https://dbpedia.org/resource/Alexander_von_Humboldt",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
+                            "Sir Philip Sidney": "https://dbpedia.org/resouce/Philip_Sidney",
+                            "William Davenant": "https://dbpedia.org/resource/William_Davenant",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Alexander Pope": "https://dbpedia.org/resource/Alexander_Pope",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Moses": "Moses",
+                            "Venus (mythology)": "http://dbpedia.org/resource/Venus_(mythology)",
+                            "Alpheus (deity)": "http://dbpedia.org/resource/Alpheus_(deity)",
+                            "Arethusa (mythology)": "http://dbpedia.org/resource/Arethusa_(mythology)",
+                            "Jupiter (mythology)": "http://dbpedia.org/resource/Jupiter_(mythology)",
+                            "Caliban": "https://dbpedia.org/resource/Caliban",
+                            "Ariel": "https://dbpedia.org/resource/Ariel_(The_Tempest)",
+                            "Miranda": "https://dbpedia.org/resource/Miranda_(The_Tempest)",
+                            "Ferdinand": "https://dbpedia.org/resource/Ferdinand_(The_Tempest)",
+                            "Pan": "https://dbpedia.org/resource/Pan_(god)",
+                            "Bacchus ": "https://dbpedia.org/resource/Dionysus_in_comparative_mythology",
+                            "Aaron": "Aaron",
+                            "Orpheus": "http://dbpedia.org/resource/Orpheus"
+                     }
+              },
+              "places": {
+                     "Harefield": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Uxbridge": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Penhurst": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-03-22": "WEDNESDAY, MARCH 22d, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator25.xml": {
+              "title": [
+                     "Jerusalem Delivered",
+                     "the Life of Waller",
+                     "Lives of the English Poets: Waller, Milton, Cowley",
+                     "Gerusalemme liberata",
+                     " Lives of the English Poets",
+                     "ode on the Popular Superstitions of the ",
+                     "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry"
+              ],
+              "bibl": {
+                     "title": {
+                            "Lives of the English Poets: Waller, Milton, Cowley": {
+                                   "author": "Samuel Johnson"
+                            },
+                            "Jerusalem Delivered": {
+                                   "author": "Torquato Tasso",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html"
+                            },
+                            "Gerusalemme liberata": {
+                                   "author": "Torquato Tasso",
+                                   "ref": "https://archive.org/details/gerusalemmeliberatatorquatotasso"
+                            },
+                            " Lives of the English Poets": {
+                                   "author": "Samuel Johnson",
+                                   "ref": "https://www.gutenberg.org/cache/epub/4678/pg4678-images.html"
+                            },
+                            "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry": {
+                                   "author": "William Collins",
+                                   "ref": "https://www.google.com/search?q=An+Ode+on+the+Popular+Superstitions+of+the+Highlands+of+Scotland%2C+Considered+as+the+Subject+of+Poetry+by+William+Collins"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "https://dbpedia.org/resource/Edmund_Spenser",
+                            "John Hoole": "https://dbpedia.org/resource/John_Hoole",
+                            "Edward Fairfax": "https://dbpedia.org/page/Edward_Fairfaxhttps://dbpedia.org/resource/Edward_Fairfax",
+                            "Torquato Tasso": "http://dbpedia.org/resource/Torquato_Tasso",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "William Cowper, 1st Earl Cowper": "http://dbpedia.org/resource/William_Cowper,_1st_Earl_Cowper",
+                            "John Edward Gray": "http://dbpedia.org/resource/Thomas_Gray",
+                            "John Armstrong": "https://dbpedia.org/resource/John_Armstrong_(physician)",
+                            "Mark Akenside": "https://dbpedia.org/resource/Mark_Akenside",
+                            "William Collins": "https://dbpedia.org/resource/William_Collins_(poet)",
+                            "Charles Churchill": "https://dbpedia.org/resource/Charles_Churchill_(satirist)",
+                            "Alexander Pope": "http://dbpedia.org/resource/Alexander_Pope",
+                            "Oliver Goldsmith": "https://dbpedia.org/resource/Oliver_Goldsmith",
+                            "Samuel Johnson": "#Johnson",
+                            "Ludovico Ariosto": "https://dbpedia.org/resource/Ludovico_Ariosto",
+                            "Queen Charlotte of Mecklenburg-Strelitz": "https://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz",
+                            "The House of Este": "https://dbpedia.org/resource/House_of_Este",
+                            "James Boswell": "https://dbpedia.org/resource/James_Boswell",
+                            "John Dryden": "https://dbpedia.org/resource/John_Dryden",
+                            "James VI and I": "https://dbpedia.org/resource/James_VI_and_I",
+                            "Voltaire": "https://dbpedia.org/resource/Voltaire",
+                            "Nicolas Boileau-Despréaux": "http://dbpedia.org/resource/Nicolas_Boileau-Despréaux",
+                            "Virgil": "https://dbpedia.org/resource/Virgil",
+                            "Jesus": "https://dbpedia.org/resource/Jesus",
+                            "Francesco Petrarca": "https://dbpedia.org/resource/Petrarch",
+                            "Luigi Pulci": "http://dbpedia.org/resource/Luigi_Pulci",
+                            "Giambattista Marino": "https://dbpedia.org/resource/Giambattista_Marino",
+                            "John Milton": "https://dbpedia.org/resource/John_Milton",
+                            "David Hume": "https://dbpedia.org/resource/David_Hume",
+                            "George Chapman": "https://dbpedia.org/resource/George_Chapman",
+                            "Sir John Harrington": "https://dbpedia.org/resource/John_Harrington_of_Hornby",
+                            "Edmund Waller": "https://dbpedia.org/resource/Edmund_Waller",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Mr.Jenkins": "Mr.Jenkins",
+                            "Mr. Tomkins": "Mr. Tomkins",
+                            "Mr. Hipkins": "Mr. Hipkins",
+                            "Pluto (mythology)": "http://dbpedia.org/resource/Pluto_(mythology)",
+                            "Armida": "https://dbpedia.org/resource/Armida",
+                            "Sophronia": "Sophronia"
+                     }
+              },
+              "places": {
+                     "Poet's corner, Westminster Abbey": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Bristol": {
+                            "type": "city",
+                            "country": "England"
+                     },
+                     "Fish Street Hill": {
+                            "type": "street",
+                            "country": "England"
+                     },
+                     "Forest of Knaresborough": {
+                            "type": "physical",
+                            "country": "England"
+                     },
+                     "Jerusalem": {
+                            "type": "city",
+                            "country": "Israel"
+                     },
+                     "Mount Lebanon": {
+                            "type": "physical",
+                            "country": "Lebanon"
+                     },
+                     "Lebanon": {
+                            "type": "country",
+                            "country": "Lebanon"
+                     },
+                     "Knidos": {
+                            "type": "city",
+                            "country": "Turkey"
+                     },
+                     "Scottish Highlands": {
+                            "type": "region",
+                            "country": "Scotland"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-03-29": "WEDNESDAY, March 29th, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator26.xml": {
+              "title": [
+                     "Monastery",
+                     "Adventures of Peter Wilkins",
+                     "Metamorphoses"
+              ],
+              "bibl": {
+                     "title": {
+                            "Monastery": {
+                                   "author": "Walter Scott",
+                                   "ref": "https://archive.org/details/scottmonastery03/page/n8/mode/1up"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "https://dbpedia.org/resource/Edmund_Spenser",
+                            "Ovid": "http://dbpedia.org/resource/Ovid",
+                            "Homer": "http://dbpedia.org/resource/Homer",
+                            "Theocritus": "https://dbpedia.org/resource/Theocritus",
+                            "Sir Thomas Browne": "https://dbpedia.org/resource/Thomas_Browne",
+                            "Phidias": "https://dbpedia.org/resource/Phidias",
+                            "John Dryden": "https://dbpedia.org/resource/John_Dryden",
+                            "George Sandys": "https://dbpedia.org/resource/George_Sandys",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Captain Stawarth Bolton": "Captain Stawarth Bolton",
+                            "Cyllarus": "#Cyllarus",
+                            "Hylonome": "https://dbpedia.org/resource/Hylonome",
+                            "Peter Wilkins": "Peter Wilkins",
+                            "Youwarkee": "Youwarkee",
+                            "Polyphemus": "http://dbpedia.org/resource/Polyphemus",
+                            "Galatea": "https://dbpedia.org/resource/Galatea_(Greek_myth)",
+                            "Pirithous": "https://dbpedia.org/resource/Pirithous",
+                            "Hippodamia": "https://dbpedia.org/resource/Hippodamia_(daughter_of_Oenomaus)",
+                            "Theseus": "https://dbpedia.org/resource/Theseus",
+                            "Castor": "https://dbpedia.org/resource/Castor_and_Pollux"
+                     }
+              },
+              "places": {
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-04-05": "WEDNESDAY, April 5th, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator27.xml": {
+              "title": [
+                     "Fabularum Liber,",
+                     "Ars Amatoria"
+              ],
+              "bibl": {
+                     "title": {
+                            "Fabularum Liber,": {
+                                   "author": "Gaius Julius Hyginus"
+                            },
+                            "Ars Amatoria": {
+                                   "author": "Ovid"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Ovid": "http://dbpedia.org/resource/Ovid",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Cephalus (son of Deione/Deioneus)": "http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)",
+                            "Procris": "http://dbpedia.org/resource/Procris",
+                            "Deioneus": "http://dbpedia.org/resource/Deioneus",
+                            "Pandion (mythology)": "http://dbpedia.org/resource/Pandion_(mythology)",
+                            "Aurora": "https://dbpedia.org/resource/Aurora_(mythology)",
+                            "Cephalus": "#Cephalus",
+                            "Phalerus": "http://dbpedia.org/resource/Phalerus",
+                            "Diana (mythology)": "http://dbpedia.org/resource/Diana_(mythology)",
+                            "Venus (mythology)": "http://dbpedia.org/resource/Venus_(mythology)",
+                            "Diana": "#Diana",
+                            "Pandion": "#Pandion"
+                     }
+              },
+              "places": {
+                     "Thessaly": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Athens": {
+                            "type": "city",
+                            "country": "Greece"
+                     },
+                     "Ormus": {
+                            "type": "region",
+                            "country": "Hurmuz Island"
+                     },
+                     "Red Sea": {
+                            "type": "physical",
+                            "country": "Red Sea"
+                     },
+                     "Phoenicia": {
+                            "type": "region",
+                            "country": "Lebanon"
+                     },
+                     "Cyprus": {
+                            "type": "country",
+                            "country": "Cyprus"
+                     },
+                     "Hymettus": {
+                            "type": "physical",
+                            "country": "Greece"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-04-12": "WEDNESDAY, April 12th, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator28.xml": {
+              "title": [
+                     "Pervigilium Veneris",
+                     "Sonnet XCVIII",
+                     "the Winter's Tale",
+                     "The Winter's Tale",
+                     "Sonnet CIV",
+                     "Love's Labour's Lost",
+                     "The Flower and the Leaf",
+                     "Legend of Good Women",
+                     "The Legend of Good Women",
+                     "Pan's Anniversary, or the Shepherd's Holiday",
+                     "The Shepherd's Hunting",
+                     "To the Small Celandine",
+                     "To the Daisy (\"In youth from rock to rock I went\")",
+                     "To the Daisy (\"With little here to do or see\")",
+                     "To The Same Flower (Second Poem)",
+                     "The Faerie Queene",
+                     "the Indicator",
+                     "Parnaso Italiano",
+                     "Purgatory",
+                     "History of Fiction",
+                     "Gathering Flowers.",
+                     "Passando con pensier per un boschetto"
+              ],
+              "bibl": {
+                     "title": {
+                            "Pervigilium Veneris": {
+                                   "author": "Anon.",
+                                   "ref": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9"
+                            },
+                            "Sonnet XCVIII": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html"
+                            },
+                            "The Winter's Tale": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=the+winter%27s+tale+by+william+shakespeare"
+                            },
+                            "Sonnet CIV": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://shakespeares-sonnets.com/sonnet/104"
+                            },
+                            "Love's Labour's Lost": {
+                                   "author": "William Shakespeare",
+                                   "ref": "https://shakespeare.mit.edu/lll/full.html"
+                            },
+                            "The Flower and the Leaf": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer"
+                            },
+                            "The Legend of Good Women": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.google.com/search?q=legend+of+good+women"
+                            },
+                            "Pan's Anniversary, or the Shepherd's Holiday": {
+                                   "author": "Ben Jonson",
+                                   "ref": "https://www.google.com/search?q=Pan%27s+Anniversary+by+Ben+Jonson"
+                            },
+                            "The Shepherd's Hunting": {
+                                   "author": "George Wither",
+                                   "ref": "https://www.simple-poetry.com/poems/prelude-from-the-shepherd-s-hunting-1166563409"
+                            },
+                            "To the Small Celandine": {
+                                   "author": "William Wordsworth",
+                                   "ref": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine"
+                            },
+                            "To the Daisy (\"In youth from rock to rock I went\")": {
+                                   "author": "William Wordsworth",
+                                   "ref": "https://www.google.com/search?q=to+the+daisy+william+wordsworth"
+                            },
+                            "To The Same Flower (Second Poem)": {
+                                   "author": "William Wordsworth",
+                                   "ref": "https://allpoetry.com/poem/14326798-To-The-Same-Flower--Second-Poem--by-William-Wordsworth"
+                            },
+                            "The Faerie Queene": {
+                                   "author": "Edmund Spenser",
+                                   "ref": "https://www.google.com/search?&q=The+fairy+queene"
+                            },
+                            "History of Fiction": {},
+                            "Passando con pensier per un boschetto": {
+                                   "author": "Franco Sacchetti",
+                                   "ref": "https://it.wikisource.org/wiki/Passando_con_pensier_per_un_boschetto"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "https://dbpedia.org/resource/Edmund_Spenser",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Geoffrey Chaucer": "http://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
+                            "William Wordsworth": "https://dbpedia.org/resource/William_Wordsworth",
+                            "George Wither": "https://dbpedia.org/resource/George_Wither",
+                            "Franco Sacchetti": "#Sacchetti",
+                            "Giovanni Boccaccio": "http://dbpedia.org/resource/Giovanni_Boccaccio",
+                            "Ugolino della Gherardesca": "https://dbpedia.org/resource/Ugolino_della_Gherardesca",
+                            "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
+                            "John Colin Dunlop": "https://dbpedia.org/resource/John_Colin_Dunlop",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Diana (mythology)": "http://dbpedia.org/resource/Diana_(mythology)",
+                            "Endymion (mythology)": "http://dbpedia.org/resource/Endymion_(mythology)",
+                            "Saturn (mythology)": "http://dbpedia.org/resource/Saturn_(mythology)",
+                            "Perdita": "https://dbpedia.org/resource/Perdita_(The_Winter's_Tale)",
+                            "Leda": "https://dbpedia.org/resource/Leda_(mythology)"
+                     }
+              },
+              "places": {
+                     "Constantinople": {
+                            "type": "city",
+                            "country": "Turkey"
+                     },
+                     "Slavonia": {
+                            "type": "region",
+                            "country": "Croatia"
+                     },
+                     "Florence": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Faenza": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Romagna": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-04-19": "WEDNESDAY, APRIL 19th, 1820"
+              }
+       },
+       "outputNER/ner_theIndicator29.xml": {
+              "title": [
+                     "Song on May Morning",
+                     "Popular Antiquities",
+                     "The Shepheardes Calender",
+                     "Britannia's Pastorals",
+                     "the Mask",
+                     "Astrophel",
+                     "Cassamen and Dowsabell",
+                     "English Pastorals",
+                     "Palamon and Arcite",
+                     "The Knight's Tale",
+                     "The Canterbury Tales",
+                     "the Theseide",
+                     "The Works of John Dryden",
+                     "L'Allegro",
+                     "The Cantebury Tales",
+                     "L'Arcadia di messer",
+                     "Paradise Lost"
+              ],
+              "bibl": {
+                     "title": {
+                            "Song on May Morning": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=song+on+may+morning+by+john+milton"
+                            },
+                            "The Shepheardes Calender": {
+                                   "author": "Edmund Spenser",
+                                   "ref": "https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may"
+                            },
+                            "Britannia's Pastorals": {
+                                   "author": "William Browne",
+                                   "ref": "https://books.google.ca/books?id=Gx4TAAAAIAAJ"
+                            },
+                            "Astrophel": {
+                                   "author": "Edmund Spenser",
+                                   "ref": "https://books.google.ca/books?id=nrLSEAAAQBAJ"
+                            },
+                            "Cassamen and Dowsabell": {
+                                   "author": "Michael Drayton",
+                                   "ref": "https://books.google.ci/books?id=-F0oSCMT-tMC"
+                            },
+                            "The Canterbury Tales": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm"
+                            },
+                            "Palamon and Arcite": {
+                                   "author": "John Dryden",
+                                   "ref": "https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"
+                            },
+                            "The Works of John Dryden": {
+                                   "author": "Sir Walter Scott",
+                                   "ref": "https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"
+                            },
+                            "L'Allegro": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton"
+                            },
+                            "The Cantebury Tales": {
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"
+                            },
+                            "L'Arcadia di messer": {
+                                   "author": "Jacopo Sannazzaro",
+                                   "ref": "https://books.google.ca/books?id=PMEsAAAAMAAJ"
+                            },
+                            "Paradise Lost": {}
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "https://dbpedia.org/resource/Edmund_Spenser",
+                            "John Milton": "http://dbpedia.org/resource/John_Milton",
+                            "Henry Bourne": "https://dbpedia.org/resource/Henry_Bourne",
+                            "William Browne": "#Browne",
+                            "George Wither": "https://dbpedia.org/resource/George_Wither",
+                            "Sir Philip Sidney": "https://dbpedia.org/resource/Philip_Sidney",
+                            "Geoffrey Chaucer": "https://dbpedia.org/resource/Geoffrey_Chaucer",
+                            "John Dryden": "https://dbpedia.org/resource/John_Dryden",
+                            "Giovanni Boccaccio": "https://dbpedia.org/resource/Giovanni_Boccaccio",
+                            "Matteo Maria Boiardo": "https://dbpedia.org/resource/Matteo_Maria_Boiardo",
+                            "Ludovico Ariosto": "https://dbpedia.org/resource/Ludovico_Ariosto",
+                            "Sir Walter Scott": "#SirWalter",
+                            "Jacopo Sannazzaro": "https://dbpedia.org/resource/Jacopo_Sannazaro",
+                            "Scipio Africanus": "https://dbpedia.org/resource/Scipio_Africanus",
+                            "Gaius Laelius": "https://dbpedia.org/resource/Gaius_Laelius",
+                            "Epaminondas": "https://dbpedia.org/resource/Epaminondas",
+                            "Alfred the Great": "https://dbpedia.org/resource/Alfred_the_Great",
+                            "Epicurus": "http://dbpedia.org/resource/Epicurus",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Flora": "#Flora",
+                            "Astrophel": "Astrophel",
+                            "Emily": "Emily",
+                            "Palamon": "Palamon",
+                            "Apollo": "https://dbpedia.org/resource/Apollo",
+                            "Arcite": "Arcite",
+                            "Theseus": "https://dbpedia.org/resource/Theseus",
+                            "Academus": "https://dbpedia.org/resource/Academus",
+                            "Solomon": "https://dbpedia.org/resource/Solomon"
+                     }
+              },
+              "places": {
+                     "Europe": {
+                            "type": "continent",
+                            "country": "Europe"
+                     },
+                     "Boschetti": {
+                            "type": "town",
+                            "country": "Italy"
+                     },
+                     "Devon": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "St James's": {
+                            "type": "region",
+                            "country": "England"
+                     },
+                     "Greece": {
+                            "type": "country",
+                            "country": "Greece"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {},
+              "dates": {
+                     "1820-04-26": "WEDNESDAY, April 26th, 1820",
+                     "1895": "1895"
+              }
+       },
+       "outputNER/theIndicator39.xml": {
+              "title": [
+                     "Sonnet 12",
+                     "the Guardian"
+              ],
+              "bibl": {
+                     "title": {
+                            "Sonnet 12": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=miltons+sonnet+XII"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Charles Mordaunt, 3rd Earl of Peterborough": "http://www.wikidata.org/entity/Q1065565",
+                            "John Milton": "http://www.wikidata.org/entity/Q79759",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "Alexander VII": "http://www.wikidata.org/entity/Q127254",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
+                            "James VI and I": "http://www.wikidata.org/entity/Q79972",
+                            "Matthew Hale": "http://www.wikidata.org/entity/Q130059",
+                            "Robert Boyle": "http://www.wikidata.org/entity/Q43393",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Galgano": "Galgano",
+                            "Minoccia": "Minoccia",
+                            "Signor Stricca": "Signor Stricca",
+                            "Galagano": "Galagano",
+                            "Latona": "Latona"
+                     }
+              },
+              "places": {
+                     "Siena": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-05": " —WEDNESDAY, JULY 5th, 1820"
+              }
+       },
+       "outputNER/theIndicator40.xml": {
+              "title": [
+                     "Noctes Atticæ",
+                     "Il Canzoniere"
+              ],
+              "bibl": {
+                     "title": {
+                            "Noctes Atticæ": {},
+                            "Il Canzoniere": {
+                                   "author": "Francesco Petrarch",
+                                   "ref": "https://en.wikipedia.org/wiki/Il_Canzoniere"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Claudia": "https://www.wikidata.org/wiki/Q1097301",
+                            "Appius Claudius Caecus": "http://www.wikidata.org/entity/Q297783",
+                            "Publius Claudius Pulcher": "http://www.wikidata.org/entity/Q435404",
+                            "Caius Fundanus": "Caius Fundanus",
+                            "Tiberius Gracchus": "http://www.wikidata.org/entity/Q212109",
+                            "Titus Livius": "http://www.wikidata.org/entity/Q2039",
+                            "Aulus Gellius": "http://www.wikidata.org/entity/Q294800",
+                            "James Sheridan Knowles": "http://www.wikidata.org/entity/Q353538",
+                            "Francesco Petrarch": "https://www.wikidata.org/wiki/Q1401",
+                            "Laura de Noves": "https://www.wikidata.org/wiki/Q270227",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Sir Henry R": "Sir Henry R"
+                     }
+              },
+              "places": {
+                     "Sicily": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Vaucluse": {
+                            "type": "region",
+                            "country": "France"
+                     },
+                     "Valchiusa": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Provence": {
+                            "type": "region",
+                            "country": "France"
+                     },
+                     "Sorgue(river)": {
+                            "type": "physical",
+                            "country": "France"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "aedile": "http://www.wikidata.org/entity/Q205757",
+                     "House of Commons of the United Kingdom": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom",
+                     "Roman censor": "http://dbpedia.org/resource/Roman_censor",
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-12": " —WEDNESDAY, July 12th, 1820"
+              }
+       },
+       "outputNER/theIndicator41.xml": {
+              "title": [
+                     "Tatler",
+                     "Spectator",
+                     "Tale for a Chimney Corner",
+                     "Indicator",
+                     "George Barnwell",
+                     "the Fatal Marriage",
+                     "Manuscript",
+                     "An Account of the Death of the Cenci Family.",
+                     "MS"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "the Cenci": "the Cenci",
+                            "Francesco Cenci": "Francesco Cenci",
+                            "Pope Pius V": "Pope Pius V",
+                            "Lucrezia Petroni": "Lucrezia Petroni",
+                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Rocco Cenci": "Rocco Cenci",
+                            "Cristofero Cenci": "Cristofero Cenci",
+                            "Beatrice Cenci": "Beatrice Cenci",
+                            "Giacomo Cenci": "Giacomo Cenci",
+                            "Bernardo Cenci": "Bernardo Cenci",
+                            "Paolo Santa Croce": "Paolo Santa Croce",
+                            "Cristofero": "Cristofero",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Clarissa Harlowe": "Clarissa Harlowe",
+                            "Proteus": "Proteus",
+                            "Carlo Gabrielli": "Carlo Gabrielli",
+                            "Guerra": "Guerra",
+                            "Marzio": "Marzio",
+                            "Olimpio": "Olimpio",
+                            "Signor Ulisse Morcati": "Signor Ulisse Morcati",
+                            "Advocate Tarrinacci": "Advocate Tarrinacci"
+                     }
+              },
+              "places": {
+                     "Land's End": {
+                            "type": "landmark",
+                            "country": "England"
+                     },
+                     "Rome": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Italy": {
+                            "type": "country",
+                            "country": "Italy"
+                     },
+                     "Salamanca": {
+                            "type": "city",
+                            "country": "Spain"
+                     },
+                     "Cenci Palace": {
+                            "type": "landmark",
+                            "country": "Italy"
+                     },
+                     "castle of Petrella": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "Naples": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     " Sant'Angelo Bridge": {
+                            "type": "landmark",
+                            "country": "Italy"
+                     },
+                     "Church of the Most Holy Trinity of the Pilgrims": {
+                            "type": "building",
+                            "country": "Italy"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "The Court of Naples": "The Court of Naples",
+                     "the Confraternity of the Sacred Stigmas": "the Confraternity of the Sacred Stigmas",
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-19": " —WEDNESDAY, July 19th, 1820",
+                     "1599-05-11": "Saturday, the 11th of May 1599"
+              }
+       },
+       "outputNER/theIndicator42.xml": {
+              "title": [
+                     "Manuscript"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Beatrice Cenci": "Beatrice Cenci",
+                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Francesco Cenci": "Francesco Cenci",
+                            "Baruch Spinoza": "Baruch Spinoza",
+                            "Giordano Bruno": "Giordano Bruno",
+                            "Guido Reni": "Guido Reni",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Bernard": "Bernard",
+                            "Orsino": "Orsino",
+                            "Olimpio": "Olimpio",
+                            "Camillo": "Camillo"
+                     }
+              },
+              "places": {
+                     "Colonna Palace": {
+                            "type": "building",
+                            "country": "Italy"
+                     },
+                     "Petrella": {
+                            "type": "region",
+                            "country": "Italy"
+                     },
+                     "the Apulian Apennines": {
+                            "type": "physical",
+                            "country": "Italy"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-26": " —WEDNESDAY, JULY 26th, 1820."
+              }
+       },
+       "outputNER/theIndicator43.xml": {
+              "title": [
+                     "Lamia",
+                     "The Pot of Basil",
+                     "The Eve of St. Agnes",
+                     "Anatomy of Melancholy",
+                     "De Vita Apollonii",
+                     "Pot of Basil",
+                     "Sicilian Story",
+                     "Ode to Psyche"
+              ],
+              "bibl": {
+                     "title": {
+                            "Anatomy of Melancholy": {
+                                   "ref": "https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "John Keats": "John Keats",
+                            "Robert Burton": "Robert Burton",
+                            "Lucius Flavius Philostratus": "Lucius Flavius Philostratus",
+                            "Menippus of Lycia": "Menippus of Lycia",
+                            "Apollonius of Tyana": "Apollonius of Tyana",
+                            "Homer ": "Homer ",
+                            "Giovanni Boccaccio": "Giovanni Boccaccio",
+                            "Bryan Waller Procte": "Bryan Waller Procte",
+                            "Giambattista Marino": "Giambattista Marino",
+                            "Abraham Cowley": "Abraham Cowley",
+                            "Agnes of Rome": "Agnes of Rome",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Tantalus": "Tantalus",
+                            "Mercury": "Mercury",
+                            "Ariadne": "Ariadne",
+                            "Proserpine": "Proserpine",
+                            "Lamia": "Lamia",
+                            "Isabella": "Isabella",
+                            "Lorrenzo": "Lorrenzo",
+                            "Pilgrim": "Pilgrim",
+                            "Basil": "Basil",
+                            "Madeline": "Madeline",
+                            "Porphyro": "Porphyro"
+                     }
+              },
+              "places": {
+                     "Kechries": {
+                            "type": "city",
+                            "country": "Greece"
+                     },
+                     "Corinth": {
+                            "type": "region",
+                            "country": "Greece"
+                     },
+                     "Florence": {
+                            "type": "city",
+                            "country": "Italy"
+                     },
+                     "Arno": {
+                            "type": "physical",
+                            "country": "Italy"
+                     },
+                     "Appenine": {
+                            "type": "physical",
+                            "country": "Italy"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-08-02": " —WEDNESDAY, AUGUST 2d, 1820"
+              }
+       },
+       "outputNER/theIndicator44.xml": {
+              "title": [
+                     "Lamia",
+                     "The Pot of Basil",
+                     "The Eve of St. Agnes",
+                     "Ode to a Nightingale",
+                     "Lycidas",
+                     "Hyperion",
+                     "Paradise Lost",
+                     "Endymion",
+                     "Examiner",
+                     "Indicator"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "John Keats": "John Keats",
+                            "John Milton": "John Milton",
+                            "Edward King": "Edward King",
+                            "Samuel Johnson": "Samuel Johnson",
+                            "Ruth the Moabite": "Ruth the Moabite",
+                            "Alexander Pope": "Alexander Pope",
+                            "Giambattista Marino": "Giambattista Marino",
+                            "George Chapman": "George Chapman",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": {
+                            "Bacchus": "Bacchus",
+                            "Saturn": "Saturn",
+                            "Achilles": "Achilles",
+                            "Ixion": "Ixion",
+                            "Clymene": "Clymene",
+                            "Oceanus": "Oceanus",
+                            "Hyperion": "Hyperion",
+                            "Thea": "Thea",
+                            "Tellus": "Tellus",
+                            "Jove": "Jove",
+                            "Apollo": "Apollo",
+                            "Mnemosyne": "Mnemosyne"
+                     }
+              },
+              "places": {
+                     "Christ's College": {
+                            "type": "building",
+                            "country": "England"
+                     },
+                     "Hippocrene": {
+                            "type": "fictional",
+                            "country": "Greece"
+                     },
+                     "Egypt": {
+                            "type": "country",
+                            "country": "Egypt"
+                     },
+                     "No. 19, Catherine-street, Strand": {
+                            "type": "address",
+                            "country": "England"
+                     },
+                     "No. 31, Tavistock-street, Covent-garden": {
+                            "type": "address",
+                            "country": "England"
+                     }
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-08-09": " —WEDNESDAY, AUGUST 9th, 1820"
+              }
+       }
+}

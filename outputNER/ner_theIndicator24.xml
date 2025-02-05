@@ -3372,8 +3372,7 @@ issue ({Month} {Day}, {Year}) -->
    </quote>
    <note type="source">
   <bibl>
- <author>William Shakespeare</author>
-   <title level="m">The Tempest</title><biblScope>Act III, scene ii</biblScope>
+ <author>William Shakespeare</author><title level="m">The Tempest</title><biblScope>Act III, scene ii</biblScope>
   </bibl>
 </note>
     </cit> 
@@ -3397,9 +3396,7 @@ issue ({Month} {Day}, {Year}) -->
    </quote>
    <note type="source">
   <bibl>
- <author>William Shakespeare
- </author>
-   <title>The Tempest</title>, <biblScope>Act III, scene i</biblScope>
+ <author>William Shakespeare</author><title>The Tempest</title>, <biblScope>Act III, scene i</biblScope>
   </bibl>
 </note>
     </cit> 
