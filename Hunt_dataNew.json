@@ -39,7 +39,7 @@
                      "the  Piano-forte",
                      "the Seven Sleepers at Cards",
                      "the Arabian  Nights on Horseback",
-                     "Euclid's Elements",
+                     "Elements",
                      "The Merchant of Venice",
                      "To the Earl of Peterborough",
                      "Odyssey",
@@ -152,11 +152,11 @@
        },
        "outputNER/ner_theIndicator02.xml": {
               "title": [
+                     "Essays of Montaigne",
                      "Il Penseroso",
                      "Elder Brother",
                      "The Elder Brother",
                      "Love-Melancholy and Religious Melancholy",
-                     "Arcadia",
                      "The Countess of Pembroke's Arcadia",
                      "Orlando Furioso",
                      "Aminta",
@@ -166,6 +166,10 @@
               ],
               "bibl": {
                      "title": {
+                            "Essays of Montaigne": {
+                                   "author": "Michel de Montaigne",
+                                   "ref": "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm#link2HCH0096"
+                            },
                             "Il Penseroso": {
                                    "author": "John Milton"
                             },
@@ -350,7 +354,7 @@
                      "The Curse upon Edward",
                      "Resolution and Independence",
                      "the Tatler",
-                     "Beggar's Opera",
+                     "The Beggar's Opera",
                      "The Dispensary a poem",
                      "Trivia",
                      "The Canterbury Tales"
@@ -1163,10 +1167,10 @@
        },
        "outputNER/ner_theIndicator06.xml": {
               "title": [
-                     "Trist.",
+                     "Tristia",
                      "School for Scandal",
                      "The Life of Mr. Richard Savage, Son of the Earl Rivers",
-                     "Guardian",
+                     "The Guardian",
                      "Iliad",
                      "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer",
                      "Paradise Lost",
@@ -1421,8 +1425,8 @@
               "title": [
                      "Inferno",
                      "the Odyssey",
-                     "Quixote",
-                     "the adventures of Tom Jones in his Married State",
+                     "Don Quixote",
+                     "The History of Tom Jones the Foundling, in his Married State",
                      "The Wisdom of the Ancients",
                      "Inferno: Canto XXVI",
                      "Life of Anacharsis, the Scythian",
@@ -1693,8 +1697,6 @@
                      "Tom o' Shanter",
                      "Fairy Queen",
                      "The Fairy Queen",
-                     "the Ancient Mariner",
-                     "Ancient Mariner",
                      "The Rime of the Ancient Mariner",
                      "IV. de phasello"
               ],
@@ -1808,15 +1810,14 @@
        "outputNER/ner_theIndicator11.xml": {
               "title": [
                      "the Harleian Miscellany",
-                     "Æneid",
-                     "Pilgrim's Progress",
                      "Aeneid",
-                     "the Winter's Tale",
-                     "the Hymn to his honour",
+                     "The Pilgrim's Progress",
+                     "The Winter's Tale",
+                     "Hymn to Mercury",
                      "Gil Blas",
-                     "Forty Thieves",
-                     "Mysteries of Udolpho",
-                     "Orlando Furio.",
+                     "Ali Baba and the Forty Thieves",
+                     "The Mysteries of Udolpho",
+                     "Orlando Furioso",
                      "Palace of Pleasure",
                      "LOVE'S PHILOSOPHY.",
                      "Love's Philosophy"
@@ -1941,11 +1942,11 @@
               "title": [
                      "Gil Blas",
                      "Chronicle of the Cid",
-                     "Poema del Cid",
+                     "Cantar de mio Cid",
                      "Guzman d'Alfarache",
-                     "Marcos de Obregon",
+                     "Marcos de Obregón",
                      "Visions of Hell",
-                     "History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds."
+                     "History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds"
               ],
               "bibl": {
                      "title": {
@@ -2009,7 +2010,7 @@
        },
        "outputNER/ner_theIndicator20.xml": {
               "title": [
-                     "Superstitions of the "
+                     "Essays on the Superstitions of the Highlanders of Scotland"
               ],
               "bibl": {
                      "title": {}
@@ -2074,7 +2075,7 @@
        },
        "outputNER/ner_theIndicator21.xml": {
               "title": [
-                     "Sir     Charles Grandison",
+                     "The History of Sir Charles Grandison",
                      "Love's Labor's Lost"
               ],
               "bibl": {
@@ -2261,7 +2262,6 @@
               "title": [
                      "Support for the Fleet",
                      "Black Eyed Susan",
-                     "Canterbury Tales",
                      "The Canterbury Tales",
                      "Aminta"
               ],
@@ -2392,15 +2392,15 @@
        },
        "outputNER/ner_theIndicator24.xml": {
               "title": [
-                     "the     Vicar of Wakefield",
                      "The Vicar of Wakefield",
                      "The Revolt of Islam",
                      "The Faerie Queen",
                      "A Midsummer Night's Dream",
                      "L'Allegro",
-                     "Arcadian Mask",
+                     "Arcades (Milton)",
                      "Arcades",
                      "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
+                     "The Poetical Works of John Milton",
                      "Love's Labor's Lost",
                      "Paradise Lost",
                      "King Lear",
@@ -2523,7 +2523,6 @@
                      "Lives of the English Poets: Waller, Milton, Cowley",
                      "Gerusalemme liberata",
                      " Lives of the English Poets",
-                     "ode on the Popular Superstitions of the ",
                      "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry"
               ],
               "bibl": {
@@ -2644,7 +2643,7 @@
        "outputNER/ner_theIndicator26.xml": {
               "title": [
                      "Monastery",
-                     "Adventures of Peter Wilkins",
+                     "The Life and Adventures Of Peter Wilkins",
                      "Metamorphoses"
               ],
               "bibl": {
@@ -2775,7 +2774,6 @@
                      "Sonnet CIV",
                      "Love's Labour's Lost",
                      "The Flower and the Leaf",
-                     "Legend of Good Women",
                      "The Legend of Good Women",
                      "Pan's Anniversary, or the Shepherd's Holiday",
                      "The Shepherd's Hunting",
@@ -2784,11 +2782,11 @@
                      "To the Daisy (\"With little here to do or see\")",
                      "To The Same Flower (Second Poem)",
                      "The Faerie Queene",
-                     "the Indicator",
+                     "The Indicator",
                      "Parnaso Italiano",
-                     "Purgatory",
+                     "Purgatorio",
                      "History of Fiction",
-                     "Gathering Flowers.",
+                     "Gathering Flowers",
                      "Passando con pensier per un boschetto"
               ],
               "bibl": {
@@ -2798,7 +2796,7 @@
                                    "ref": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9"
                             },
                             "Sonnet XCVIII": {
-                                   "author": "William Shakespeare",
+                                   "author": "William Shakespeare ",
                                    "ref": "https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html"
                             },
                             "The Winter's Tale": {
@@ -2909,16 +2907,17 @@
        "outputNER/ner_theIndicator29.xml": {
               "title": [
                      "Song on May Morning",
-                     "Popular Antiquities",
+                     "Antiquitates Vulgares",
                      "The Shepheardes Calender",
                      "Britannia's Pastorals",
-                     "the Mask",
+                     "Arcades",
                      "Astrophel",
                      "Cassamen and Dowsabell",
                      "English Pastorals",
                      "Palamon and Arcite",
                      "The Knight's Tale",
                      "The Canterbury Tales",
+                     "Theseide",
                      "the Theseide",
                      "The Works of John Dryden",
                      "L'Allegro",
@@ -2957,7 +2956,7 @@
                                    "ref": "https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"
                             },
                             "The Works of John Dryden": {
-                                   "author": "Sir Walter Scott",
+                                   "author": "Sir Walter Scott ",
                                    "ref": "https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"
                             },
                             "L'Allegro": {
@@ -3103,7 +3102,7 @@
        },
        "outputNER/theIndicator40.xml": {
               "title": [
-                     "Noctes Atticæ",
+                     "Noctes Atticae",
                      "Il Canzoniere"
               ],
               "bibl": {
