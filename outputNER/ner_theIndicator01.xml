@@ -1793,30 +1793,16 @@ laughers in <persName key="William Shakespeare" cert="high" ref="http://dbpedia.
 <l>With such a zealous laughter, so profound.  </l>
 <l>That in this spleen ridiculous, appears,  </l>
 <l>To check their laughter, passion's solemn tears.  </l>
-<l rend="right"><bibl><title level="m" rend="uppercase">Love's Labour Lost</title></bibl></l></lg></quote>
+<l rend="right"><hi rend="uppercase"><bibl>Love's Labour Lost</bibl></hi></l></lg></quote>
 <note type="source"> 
-    <bibl><ref target="https://www.google.com/search?q=paradise+lost&amp;rlz=1C5GCCM_en&amp;oq=paradise+lo&amp;gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBggCEEUYOTIHCAMQABiABDITCAQQLhivARjHARiABBiYBRiZBTIKCAUQLhjUAhiABDIKCAYQLhjUAhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8"/><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title></bibl>
+    <bibl><ref target="https://www.google.com/search?q=paradise+lost"/><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title></bibl>
 </note>
 </cit>
 
-<p>Some of the names had a meaning in their absurdity, such as <title level="u">the Adviser</title>,  
-or <title level="u">Helps for Composing</title>; — <title level="u">the Cheap Reflector</title>, or <title level="u">Every Man His Own  
-Looking- Glass</title>; — <title level="u">the Retailer</title>, or <title level="u">Every Man His Own Other Man's Wit</title>;  
-— <title level="u">Nonsense</title>, To be Continued. Others were laughable by the mere force  
-of contrast, as <title level="u">the Crocodile</title>, or <title level="u">Pleasing Companion</title>; — <title level="u">Chaos</title>, or <title level="u">the  
-Agreeable Miscellany</title>; — <title level="u">the Fugitive Guide</title>; — <title level="u">the Foot-Soldier</title>, or <title level="u">Flowers  
-of Wit</title>; — <title level="u">Bigotry</title>, or <title level="u">the Cheerful Instructor</title>; — <title level="u">the Polite Repository of  
-Abuse</title>; — <title level="u">Blood, being a Collection of Light Essays</title>. Others were sheer  
-ludicrousness and extravagance, as <title level="u">the Pleasing Ancestor</title>; <title level="u">the Silent  
-Remarker</title>; <title level="u">the Tart</title>; <title level="u">the Leg of Beef by a Layman</title>; <title level="u">the Ingenious  
-Hatband</title>; <title level="u">the Booths of Bliss</title>; <title level="u">the Occasional Diner</title>; <title level="u">the Tooth-ache</title>;  
-<title level="u">Recollections of a Very Unpleasant Nature</title>; <title level="u">Thoughts on Taking up a Pair of  
-Snuffers</title>; <title level="u">Thoughts on a Barouche-Box</title>; <title level="u">Thoughts on a Hill of Considerable  
-Eminence</title>; <title level="u">Meditations on a Pleasing Idea</title>; <title level="u">Materials for Drinking</title>; <title level="u">the  
-Knocker, No. I</title>; — <title level="u">the Hippopotamus Entered at Stationers' Hall</title>; <title level="u">the  
-Piano-forte</title> of <persName cert="medium" key="Paulus Aemilius" ref="http://www.wikidata.org/entity/Q7155382" type="real">Paulus AEmilius</persName>; <title level="u">the Seven Sleepers at Cards</title>; <title level="u">the Arabian  
-Nights on Horseback</title> : — with an infinite number of other mortal murders  
-of common sense <note type="editorial"> This is likely a play on words of Thomas Paine's 47-page pamphlet entitled Common Sense, published in 1776.</note> , which rose to <q type="soCalled">push us from our stools,</q> and which  
+<p>Some of the names had a meaning in their absurdity, such as <title key="The Adviser" level="u">the Adviser</title>,  
+or <title key="Helps for Composing" level="u">Helps for Composing</title>; — <title key="the Cheap Reflector" level="u">the Cheap Reflector</title>, or <title key="Every Man His Own Looking- Glass" level="u">Every Man His Own Looking- Glass</title>; — <title key="The Retailer" level="u">the Retailer</title>, or <title key="Every Man His Own Other Man's Wit" level="u">Every Man His Own Other Man's Wit</title>;  
+— <title key="Nonsense" level="u">Nonsense</title>, To be Continued. Others were laughable by the mere force  
+of contrast, as <title key="The Crocodile" level="u">the Crocodile</title>, or <title key="Pleasing Companion" level="u">Pleasing Companion</title>; — <title key="Chaos" level="u">Chaos</title>, or <title key="The Agreeable Miscellany" level="u">the Agreeable Miscellany</title>; — <title key="The Fugitive Guide" level="u">the Fugitive Guide</title>; — <title key="The Foot-Soldier" level="u">the Foot-Soldier</title>, or <title key="Flowers of Wit" level="u">Flowers of Wit</title>; — <title key="Bigotry" level="u">Bigotry</title>, or <title key="The Cheerful Instructor" level="u">the Cheerful Instructor</title>; — <title key="The Polite Repository of Abuse" level="u">the Polite Repository of Abuse</title>; — <title key="Blood, being a Collection of Light Essays" level="u">Blood, being a Collection of Light Essays</title>. Others were sheer ludicrousness and extravagance, as <title key="The Pleasing Ancestor" level="u">the Pleasing Ancestor</title>; <title key="The Silent Remarker" level="u">the Silent Remarker</title>; <title key="The Tart" level="u">the Tart</title>; <title key="The Leg of Beef by a Layman" level="u">the Leg of Beef by a Layman</title>; <title key="The Ingenious Hatband" level="u">the Ingenious Hatband</title>; <title key="The Booths of Bliss" level="u">the Booths of Bliss</title>; <title key="The Occasional Diner" level="u">the Occasional Diner</title>; <title key="The Tooth-ache" level="u">the Tooth-ache</title>; <title key="Recollections of a Very Unpleasant Nature" level="u">Recollections of a Very Unpleasant Nature</title>; <title key="Thoughts on Taking up a Pair of Snuffers" level="u">Thoughts on Taking up a Pair of Snuffers</title>; <title key="Thoughts on a Barouche-Box" level="u">Thoughts on a Barouche-Box</title>; <title key="Thoughts on a Hill of Considerable Eminence" level="u">Thoughts on a Hill of Considerable Eminence</title>; <title key="Meditations on a Pleasing Idea" level="u">Meditations on a Pleasing Idea</title>; <title key="Materials for Drinking" level="u">Materials for Drinking</title>; <title key="The Knocker, No. I" level="u">the Knocker, No. I</title>; — <title key="the Hippopotamus Entered at Stationers' Hall" level="u">The Hippopotamus Entered at Stationers' Hall</title>; <title key="The Piano-forte" level="u">the Piano-forte</title> of <persName cert="medium" key="Paulus Aemilius" ref="http://www.wikidata.org/entity/Q7155382" type="real">Paulus AEmilius</persName>; <title key="The Seven Sleepers at Cards" level="u">the Seven Sleepers at Cards</title>; <title key="The Arabian Nights on Horseback" level="u">the Arabian Nights on Horseback</title> : — with an infinite number of other mortal murders of common sense <note type="editorial"> This is likely a play on words of Thomas Paine's 47-page pamphlet entitled Common Sense, published in 1776.</note> , which rose to <q type="soCalled">push us from our stools,</q> and which  
 none but the wise or good-natured would ever think of laughing at.</p> 
 </div2>
 <pb n="3"/>
@@ -1831,11 +1817,7 @@ He saw that others mistook the letter for the spirit; and yet in objecting
 to this mistake, he fell into one of the very same nature, and asserted that  
 learning was no longer wanted, because all the <q type="soCalled">useful books</q> in the  
 ancient languages had been translated.  By useful books, he means such  
-works as <title level="a" key="Elements" ref="http://www.wikidata.org/entity/Q172891">Euclid's Elements</title> : and here again he fell into an error, from  
-which the true spirit of learning might have saved him : he confounded  
-utility with mere science.  He forgot that for one instance in which mere  
-science is necessary to our happiness, there are a hundred in which we  
-have more to do with our passions and tempers, with our affections, our  
+works as <persName key="Euclid" type="real" ref="https://dbpedia.org/page/Euclid">Euclid</persName>'s <title level="a" key="Elements" ref="http://www.wikidata.org/entity/Q172891">Elements</title> : and here again he fell into an error, from which the true spirit of learning might have saved him : he confounded utility with mere science.  He forgot that for one instance in which mere science is necessary to our happiness, there are a hundred in which we have more to do with our passions and tempers, with our affections, our  
 perceptions, with our ability or inability to extract pleasure from the  
 innumerable things in the intellectual and external world. Utility is only  
 utility in as much as it conduces somehow or other to advantage and  

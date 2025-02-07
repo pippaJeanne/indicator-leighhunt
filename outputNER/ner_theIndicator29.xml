@@ -3430,7 +3430,7 @@ coming, and sent up hundreds of songs of joy.
 <note type="source">
 <bibl>
 <author>John Milton</author>
-<title>Song on May Morning</title>
+<title level="a">Song on May Morning</title>
 <ref target="https://www.google.com/search?q=song+on+may+morning+by+john+milton"/>
 </bibl>
 </note>
@@ -3503,7 +3503,7 @@ rustic dance.
 </lg></quote>
 <note type="source">
 <bibl>
-<author>Edmund Spenser</author><title>The Shepheardes Calender</title> <biblScope>May, Aegloga Quinta</biblScope> <ref target="https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may"/></bibl>
+<author>Edmund Spenser</author><title level="m">The Shepheardes Calender</title> <biblScope>May, Aegloga Quinta</biblScope> <ref target="https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may"/></bibl>
 </note>
 </cit> 
 
@@ -3545,7 +3545,7 @@ his native county <placeName type="region" key="Devon" corresp="England" ref="ht
 </l>
 </lg>
 </quote>
-<note type="source"><bibl><author>William Browne</author> <title level="s">Britannia's Pastorals</title> <biblScope unit="part">Song IV</biblScope> <ref target="https://books.google.ca/books?id=Gx4TAAAAIAAJ"/></bibl></note>
+<note type="source"><bibl><author>William Browne</author> <title level="m">Britannia's Pastorals</title> <biblScope unit="part">Song IV</biblScope> <ref target="https://books.google.ca/books?id=Gx4TAAAAIAAJ"/></bibl></note>
 </cit></p>
 
 <p>Among the gentry and at court the spirit of the same enjoyments 
@@ -3577,12 +3577,12 @@ of that age,—is fondly recollected by <persName key="Edmund Spenser" ref="http
 <l>The dawning day forth comming from the East. </l>
 <l>And layes of love he also could compose: </l>
 <l>Thrise happie she, whom he to praise did choose. </l>
-<note type="hunt"><l rend="right"><hi rend="italic">Astrophel, St.</hi> 5.</l></note></lg>
+<l rend="right"><hi rend="italic"><bibl>Astrophel, St. 5.</bibl></hi></l></lg>
 </lg></quote>
 <note type="source">
 <bibl>
 <author>Edmund Spenser</author>
-<title>Astrophel</title>, <biblScope>stanzas 5-6</biblScope> <ref target="https://books.google.ca/books?id=nrLSEAAAQBAJ"/>
+<title level="m">Astrophel</title>, <biblScope>stanzas 5-6</biblScope> <ref target="https://books.google.ca/books?id=nrLSEAAAQBAJ"/>
 </bibl> </note>
 </cit></p>
 
@@ -3639,9 +3639,7 @@ hood!
 </lg></quote>
 <note type="source">
 <bibl xml:id="chaucer_KnightsTale">
-<author>
-Geoffrey Chaucer
-</author>
+<author>Geoffrey Chaucer</author>
 <title level="s">The Canterbury Tales</title> <biblScope unit="chapter">The Knight's Tale</biblScope>, <biblScope unit="line">ll. 1033-1035</biblScope> <ref target="https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"/>
 </bibl></note>
 </cit>
@@ -3702,14 +3700,13 @@ rises up from this full stop at the first!]
 <l>Was in her walk, and roamed up and down. </l>
 </lg>
 </quote>
-<note type="source"><bibl><author>John Dryden</author><title>Palamon and Arcite</title><ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/></bibl> 
+<note type="source"><bibl><author>John Dryden</author><title level="s">Palamon and Arcite</title><ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/></bibl> 
 </note>
 </cit>
 
 <persName key="Sir Walter Scott" ref="https://dbpedia.org/resource/Walter_Scott" type="real" xml:id="SirWalter">Sir Walter Scott</persName> in his edition of <persName key="John Dryden" ref="https://dbpedia.org/resource/John_Dryden" type="real">Dryden</persName> says upon the passage before us, and <persName key="John Dryden">Dryden</persName>'s version of it, that <cit><q type="written">the modern must yield the palm to the ancient, in spite of the beauty of his versification.</q>
 <note type="source">
-<bibl> A paraphrasing of sentiment from <author>Sir Walter Scott
-</author>'s Advertisement to <title level="m">The Works of John Dryden</title> <ref target="https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"/></bibl>. </note>
+<bibl> A paraphrasing of sentiment from <author>Sir Walter Scott</author>'s Advertisement to <title level="m">The Works of John Dryden</title> <ref target="https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"/></bibl>. </note>
 </cit> 
 
 We quote from memory; but this is the substance of his 
@@ -3756,7 +3753,7 @@ and happy ease in the conclusion!
 <l>That all the orient laugheth of the sight; </l>
 <l>And with his stremès drieth in the greves<note type="hunt">Groves.</note></l>
 <l>The silver droppès hanging in the leaves; </l>
-<l>And <persName type="fictional" key="Arcite">Arcite</persName>, that is in the court real<note type="hunt">Royal. </note></l>
+<l>And <persName type="fictional" key="Arcite">Arcite</persName>, that is in the court real<note type="hunt">Royal.</note></l>
 <l>With <persName type="fictional" key="Theseus" ref="https://dbpedia.org/resource/Theseus">Theseus</persName> the squier principal, </l>
 <l>Is risen, and looketh on the merry day; </l>
 <l>And for to do his observance to May, </l>
@@ -3826,7 +3823,7 @@ pen; perhaps for mounting.
 </quote>
 <note type="source">
 <bibl>
-<author>John Dryden</author> <title>Palamon and Arcite</title> <ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/> <biblScope unit="volume">Book 2</biblScope>, <biblScope unit="line">ll. 37-63</biblScope></bibl></note>
+<author>John Dryden</author> <title level="s">Palamon and Arcite</title> <ref target="https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"/> <biblScope unit="volume">Book 2</biblScope>, <biblScope unit="line">ll. 37-63</biblScope></bibl></note>
 </cit></p>
 
 <p>How poor is this to <persName type="fictional" key="Arcite">Arcite</persName>'s leaping from his courser <q type="written">with a lusty
@@ -3863,12 +3860,12 @@ of nature, in grove or glade.
 <l>O Satiri e Silvani, o Fauni e Driadi, </l>
 <l>Naiadi ed Amadriadi, o Semidee, </l>
 <l>Oreadi e Napee,—or siete sole. </l>
-<note type="hunt"><l rend="right"><hi rend="italic"><persName key="Jacopo Sannazzaro" ref="https://dbpedia.org/resource/Jacopo_Sannazaro" type="real">Sannazzaro</persName></hi></l></note></lg>
+<l rend="right"><hi rend="italic"><bibl>Sannazzaro</bibl></hi></l></lg>
 </quote>
 <note type="source">
 <bibl>
 <author>Jacopo Sannazzaro</author>
-<title>L'Arcadia di messer</title>
+<title level="m">L'Arcadia di messer</title>
 <ref target="https://books.google.ca/books?id=PMEsAAAAMAAJ"/>
 <biblScope unit="page">p. 141</biblScope>
 </bibl>

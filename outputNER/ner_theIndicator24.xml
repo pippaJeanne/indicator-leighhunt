@@ -3164,7 +3164,7 @@ issue ({Month} {Day}, {Year}) -->
   <l rend="indent">Matched in mouth like bells, </l>
   <l>Each under each; </l></lg>
    </quote>
-   <note type="source" cert="high"><bibl><author>William Shakespeare</author><title>A Midsummer Night's Dream</title><biblScope>Act IV, scene i</biblScope></bibl> </note>
+   <note type="source" cert="high"><bibl><author>William Shakespeare</author><title level="m">A Midsummer Night's Dream</title><biblScope>Act IV, scene i</biblScope></bibl> </note>
     </cit>
 
     <pb n="188"/> 
@@ -3310,9 +3310,7 @@ issue ({Month} {Day}, {Year}) -->
     <l>Adds a precious seeing to the eye.</l></lg>
    </quote>
    <note type="source">
-  <bibl>
- <author>William Shakespeare</author>
-   <title>Love's Labor's Lost</title><biblScope>Act IV, scene iii</biblScope></bibl>
+  <bibl><author>William Shakespeare</author><title level="m">Love's Labor's Lost</title><biblScope unit="part">Act IV, scene iii</biblScope><ref target="https://www.google.com/search?q=Love%27s+Labor%27s+Lost"/></bibl>
    </note>
     </cit>
     And we may say also, upon the like principle, that it adds a precious
@@ -3330,13 +3328,13 @@ issue ({Month} {Day}, {Year}) -->
  <l rend="indent">The gentle gales, </l>
  <l>Fanning their odoriferous wings, dispense </l>
  <l>Native perfumes; and whisper whence they stole </l>
- <l>Those balmy spoils.-------------<note type="hunt"><bibl><title level="m"><hi rend="italic">Paradise Lost</hi></title>, <biblScope unit="volume">B.4</biblScope></bibl></note></l>
+ <l>Those balmy spoils.-------------<hi rend="italic"><bibl>Paradise Lost, B.4</bibl></hi></l>
   </lg>
    </quote>
    <note type="source">
   <bibl>
  <author>John Milton</author>
-    <title level="m">Paradise Lost</title><biblScope cert="high" unit="volume" >Book IV</biblScope>
+    <title level="m">Paradise Lost</title><biblScope cert="high" unit="volume" >Book IV</biblScope><ref target="https://www.google.com/search?q=paradise+lost+book+iv"/>
   </bibl>
 </note>
     </cit>
@@ -3371,8 +3369,7 @@ issue ({Month} {Day}, {Year}) -->
   <l>Sounds, and sweet airs that give delight, and hurt not; </l></lg>
    </quote>
    <note type="source">
-  <bibl>
- <author>William Shakespeare</author><title level="m">The Tempest</title><biblScope>Act III, scene ii</biblScope>
+  <bibl><author>William Shakespeare</author><title level="m">The Tempest</title><biblScope unit="part">Act III, scene ii</biblScope><ref target="https://www.google.com/search?q=The+tempest"/>
   </bibl>
 </note>
     </cit> 
@@ -3396,7 +3393,7 @@ issue ({Month} {Day}, {Year}) -->
    </quote>
    <note type="source">
   <bibl>
- <author>William Shakespeare</author><title>The Tempest</title>, <biblScope>Act III, scene i</biblScope>
+ <author>William Shakespeare</author><title level="m">The Tempest</title><biblScope unit="part">Act III, scene i</biblScope><ref target="https://www.google.com/search?q=The+tempest"/>
   </bibl>
 </note>
     </cit> 
@@ -3406,11 +3403,7 @@ issue ({Month} {Day}, {Year}) -->
     to be richer for us the other day, when <persName key="Alexander von Humboldt" cert="medium" ref="https://dbpedia.org/resource/Alexander_von_Humboldt" type="real">Humboldt</persName> came back and told 
     us of its luxuriant and gigantic vegetation; of the myriads of shooting 
     lights, which revel at evening in the southern sky: and of that grand 
-    constellation, at which <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> seems to have made so remarkable a 
-    guess. <note type="hunt">(<bibl><title key="Purgatorio" ref="http://dbpedia.org/resource/Purgatorio" level="s">Purgatorio</title>, <biblScope>Cant. .1, v. 22.</biblScope></bibl>)</note> The natural warmth of the Mexican 
-    and Peruvian genius, set free from despotism, will soon do all the 
-    rest for it; awaken the sleeping riches of its eyesight, and call forth 
-    the glad music of its affections. </p>
+    constellation, at which <persName key="Dante Alighieri" ref="http://dbpedia.org/resource/Dante_Alighieri" type="real">Dante</persName> seems to have made so remarkable a guess. <bibl>(Purgatorio, Cant. 1, v. 22.)</bibl><note type="source"><bibl><author>Dante Alighieri</author><title level="a">Purgatorio</title><biblScope unit="part">Cant. 1, v. 22.</biblScope><ref target="https://www.google.com/search?q=purgatorio+dante"/></bibl></note> The natural warmth of the Mexican and Peruvian genius, set free from despotism, will soon do all the rest for it; awaken the sleeping riches of its eyesight, and call forth the glad music of its affections.</p>
 
     <p> To return to our parks or landscapes, and what the poets can make 
     of them. It is not improbable that <persName key="John Milton" ref="http://dbpedia.org/resource/John_Milton" type="real">Milton</persName>, by his Genius of the 
@@ -3442,7 +3435,7 @@ issue ({Month} {Day}, {Year}) -->
  <l>Of wood, of water: herein thou art fair. </l>
  <l>Thou hast thy walks for health, as well as sport; </l>
  <l>Thy mount, to which the Dryads do resort; </l>
- <l>Where <persName key="Pan" ref="https://dbpedia.org/resource/Pan_(god)" type="fictional">Pan</persName> and <persName key="Bacchus " ref="https://dbpedia.org/resource/Dionysus_in_comparative_mythology" type="fictional">Bacchus</persName> their high feasts have made, </l>
+ <l>Where <persName key="Pan" ref="https://dbpedia.org/resource/Pan_(god)" type="fictional">Pan</persName> and <persName key="Bacchus" ref="https://dbpedia.org/resource/Dionysus_in_comparative_mythology" type="fictional">Bacchus</persName> their high feasts have made, </l>
  <l>Beneath the broad beech, and the chesnut shade; </l>
  <l>That taller tree, which of a nut was set </l>
  <l>At his great birth, where all the muses met. </l>
@@ -3486,9 +3479,7 @@ issue ({Month} {Day}, {Year}) -->
   </lg>
    </quote>
    <note type="source">
-  <bibl>
- <author>Ben Jonson</author>
-    <title level="a">To Penshurst</title>. <ref target="https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson"/></bibl>
+  <bibl><author>Ben Jonson</author><title level="a">To Penshurst</title><ref target="https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson"/></bibl>
    </note>
     </cit>
     
@@ -3497,21 +3488,19 @@ issue ({Month} {Day}, {Year}) -->
     
     <cit>
    <quote>
-  <lg rend="center"><l>The assembled souls of all that men held wise.----<note type="hunt"><hi rend="smallcaps"><persName key="William Davenant" ref="https://dbpedia.org/resource/William_Davenant" type="real">Davenant</persName></hi></note></l></lg>
+  <lg rend="center"><l>The assembled souls of all that men held wise.----<hi rend="smallcaps"><bibl>Davenant</bibl></hi></l></lg>
 </quote>
    <note type="source">
-  <bibl>
- <author>William Davenant
- </author>
-    <title>Gondibert: An Heroick Poem</title>, <biblScope>Canto V, verse xxxvii</biblScope>
-<ref target="https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant"/>  </bibl> </note>
+  <bibl><author>William Davenant</author>
+    <title level="m">Gondibert: An Heroick Poem</title>, <biblScope unit="part">Canto V, verse xxxvii</biblScope>
+<ref target="https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant"/></bibl></note>
     </cit>
 
     <pb n="192"/> 
 
     The moon is <persName key="Homer" ref="http://dbpedia.org/resource/Homer" type="real">Homer</persName>'s and <persName key="William Shakespeare" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName>'s moon, as well as the one we 
     look at. The sun comes out of his chamber in the east, with a sparkling
-    eye,<q type="written">rejoicing like a bridegroom.</q><note type="source"> Seemingly a conflated paraphrase of <bibl><title>Psalms</title> 19:5</bibl>.</note> The commonest thing becomes 
+    eye,<q type="written">rejoicing like a bridegroom.</q><note type="source"> Seemingly a conflated paraphrase of <bibl><title level="a">Psalms</title> <biblScope unit="part">19:5</biblScope></bibl>.</note> The commonest thing becomes 
     like <persName type="fictional" key="Aaron">Aaron</persName>'s rod, that budded. <persName key="Alexander Pope" ref="https://dbpedia.org/resource/Alexander_Pope" type="real">Pope</persName> called up the spirits of 
     the Cabala<note type="editorial">Kabbalah (also spelled Kabalah, Cabala, Qabala) is a part of Jewish mysticism tradition which refers to the received wisdom from the essence of God.</note> to wait upon a lock of hair, and justly gave it the honours 
     of a constellation; for he has hung it, sparkling for ever, in the eyes of posterity. A common meadow is a sorry thing to a ditcher or a coxcomb; but by the help of <choice><orig>it's</orig><reg>its</reg></choice> dues from imagination and the love 

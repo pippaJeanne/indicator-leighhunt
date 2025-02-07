@@ -96,6 +96,31 @@ Use the ```<q>``` tags when the quote is used inline within the paragraph.
 ```xml
 <q> text </q>
 ```
+When there's a reference by Hunt in text or at the end of a citation, use the bibl tag with only text and then the note type="source" with the complete bibliographical reference.
+
+Example:
+```xml
+<bibl>(Trist. Book 4. v. 51.)</bibl><note type="source"><bibl><author>Ovid</author> <title cert="high" level="m">Tristia</title> <biblScope unit="volume">Book 4.</biblScope> <biblScope unit="part">v 51.</biblScope><ref target="https://www.google.com/search?q=tristia+by+ovid"/></bibl></note>
+```
+```xml
+<lg>
+<l>…</l>
+…
+<!--Last line with Hunt's reference-->
+<l rend="right"><hi rend="uppercase"><bibl>Love's Labour Lost</bibl></hi></l></lg></quote>
+<note type="source"> 
+    <bibl><author>William Shakespeare</author> <title level="m">Love's Labour Lost</title><ref target="https://www.google.com/search?q=paradise+lost"/></bibl>
+</note>
+</cit>
+```
+```xml
+text<note type="hunt"><bibl>Hyginus Fabularum Liber. Cap. 189.</bibl></note> <note type="source"><bibl>
+<author>Gaius Julius Hyginus</author>,
+<title level="m">Fabularum Liber,</title>
+<biblScope unit="chapter">Capitulum 189</biblScope>.
+</bibl><ref target="https://www.google.com/search?q=Fabularum+Liber"/>
+</note>
+```
 
 ### Choice Elements
 ```xml 
@@ -148,7 +173,12 @@ Legal values are:
 - j (journal) the title applies to any serial or periodical publication such as a journal, magazine, or newspaper
 - s (series) the title applies to a series of otherwise distinct publications such as a collection
 - u (unpublished) the title applies to any unpublished material (including theses and dissertations unless published by a commercial press)
+
+* When within a bibl tag:
 Example : ```<title level="a">Sonnet 12</title>```
+
+* When within a paragraph, also add the @key attribute : 
+Example : ```<title level="a" key="Bosworth Field" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title>``` | The @ref attribute is optional
 
 ### persName
 Examples

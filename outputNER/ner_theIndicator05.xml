@@ -6524,7 +6524,7 @@ angry desperation of <persName key="King Richard III" cert="high" ref="#richardI
 <l>Who marries <persName key="Elizabeth of York" ref="https://dbpedia.org/resource/Elizabeth_of_York" cert="high" type="real" xml:id="ElizabethYork">Richmond's daughter</persName>, born betweene </l>
 <l>Two royal parents, and endowed a queene. </l></lg></quote>
 <note type="source"><bibl><author>Sir John Beaumont</author> <title level="m">Bosworth Field</title>.</bibl></note></cit> 
-<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title cert="high" corresp="England" level="a" key="Bosworth Field" type="region" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title></p>
+<p rend="center"><persName key="Sir John Beaumont" cert="high" ref="https://dbpedia.org/resource/Sir_John_Beaumont,_1st_Baronet" type="real">Sir John Beaumont</persName>'s <title level="a" key="Bosworth Field" ref="https://archive.org/details/bim_early-english-books-1475-1640_bosworth-field-with-a-t_beaumont-sir-john_1629">Bosworth Field</title></p>
 
 
 <p>The father's fate must doubtless have had <choice><orig>it's</orig><reg>its</reg></choice> effect in securing the 
@@ -6556,8 +6556,7 @@ But <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#Charl
 detection so pummelled him about the head with the hilt of his  
 sword, that the blood burst through the vizor. Imagine the feelings  
 of <persName key="Mary Tudor, Queen of France" cert="high" ref="#CharlesBrandon" type="real">the queen</persName>, when he came and made her an offering of the German's  
-shield. <persName key="Michael Drayton" cert="high" ref="http://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>, in his <title level="s">Heroical Epistles</title>, we know not on  
-what authority, tells us, that on one occasion during the combats,  
+shield. <persName key="Michael Drayton" cert="high" ref="http://dbpedia.org/resource/Michael_Drayton" type="real">Drayton</persName>, in his <title key="Heroical Epistles" level="s">Heroical Epistles</title>, we know not on what authority, tells us, that on one occasion during the combats,  
 perhaps this particular one, she could not help saying out loud,  
 "Hurt not my sweet <persName key="Charles Brandon, 1st Duke of Suffolk" cert="high" ref="#CharlesBrandon" type="real">Charles</persName>," or words to that effect. He then  
 pleasantly represents her as doing away suspicion by falling to  
@@ -6573,7 +6572,8 @@ looks. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" 
 likely that her hand would be sought by many princely lovers; but  
 she was now resolved to reward herself for her late sacrifice, and in  
 less than two months she privately married her first love. <persName key="Mary Tudor, Queen of France" cert="high" ref="#MaryTudor" type="real">The  
-queen</persName>, says a homely but not mean poet (<persName key="William Warner" cert="high" ref="https://dbpedia.org/resource/William_Warner_(poet)" type="real">Warner</persName>, in his <title level="a">Albion's  
+queen</persName>, says a homely but not mean poet (<persName key="William Warner" cert="high" ref="https://dbpedia.org/resource/William_Warner_(poet)" type="real">Warner</persName>, in his <title key="Albion's  
+England" level="a">Albion's  
 England</title>) thought that to cast too many doubts </p>
 
 <cit><quote>
@@ -6612,7 +6612,7 @@ ran thus : — </p>
 <lg><l>Cloth of frize, be not too bold, </l>
 <l>- Though thou art match'd with cloth of gold. </l></lg>
 </quote>
-<note><bibl><author>Edwin Caskoden</author><title level="m">When Knighthood was in Flower</title><ref target="https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"/></bibl></note>
+<note type="source"><bibl><author>Edwin Caskoden</author><title level="m">When Knighthood was in Flower</title><ref target="https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"/></bibl></note>
 </cit>
 
 <p>The other : </p>
@@ -6657,12 +6657,13 @@ most comprehensive though not most poetical stanzas, as </p>
 </lg>
 
 <lg xml:id="verse2"><l>Therefore a god him sage antiquity </l>
-<l>Did wisely make.</l></lg></lg></quote> 
-<note type="source"><bibl><title>Faerie Queene</title>, <biblScope>Book 2, St. 47</biblScope>.</bibl></note></cit>
+<l>Did wisely make. <bibl>--Faerie Queene, Book 2, St. 47.</bibl></l></lg></lg></quote> 
+<note type="source"><bibl><author>Edmund Spenser</author><title level="s">The Faerie Queene</title> <biblScope unit="volume">Book 2</biblScope>, <biblScope unit="part">St. 47</biblScope>.<ref target="https://www.google.com/search?q=The+Faerie+Queene"/></bibl></note>
+</cit>
 
 <p>Of the belief in an Evil Genius, a celebrated example is furnished  
 in <persName key="Plutarch" cert="high" ref="http://dbpedia.org/resource/Plutarch" type="real">Plutarch</persName>'s account of <persName key="Marcus Junius Brutus" cert="medium" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus" type="real">Brutus</persName>'s vision, of which <persName key="William Shakespeare" cert="high" ref="http://dbpedia.org/resource/William_Shakespeare" type="real"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></persName> has  
-given so fine a version<note type="hunt">(Julius Caesar, Act 4, Sc. 3.)</note>.  Beliefs of this  
+given so fine a version <bibl>(Julius Caesar, Act 4, Sc. 3.)</bibl>.  Beliefs of this  
 
 <pb n="38"/>
 
@@ -6723,7 +6724,7 @@ They were the personification of a particular Providence. The
 most striking mention of the <persName key="Penates" ref="https://dbpedia.org/page/Di_Penates" cert="high" type="fictional">Penates</persName> which we can call to mind is  
 in one of <persName key="Virgil" cert="high" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName>'s most poetical passages. It is where they appear  
 to <persName key="Aeneas" ref="http://dbpedia.org/resource/Aeneas" cert="high" type="fictional">Æneas</persName>, to warn him from <placeName type="region" key="Crete" corresp="Greece" cert="high" ref="http://www.wikidata.org/entity/Q34374">Crete</placeName>, and announce his destined  
-empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref="http://www.wikidata.org/entity/Q38">Italy</placeName>.  <note type="hunt">(Book 3, v. 147.)</note> </p>
+empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref="http://www.wikidata.org/entity/Q38">Italy</placeName>.  <bibl>(Book 3, v. 147.)</bibl> </p>
 
 <cit><quote>
 <lg xml:lang="latin"> <l>Nox erat, et terris animalia somaus habebat. </l>
@@ -6733,7 +6734,7 @@ empire in <placeName type="country" key="Italy" corresp="Italy" cert="high" ref=
 <l>In somnis, multo manifesti luraine, qua se. </l>
 <l>Plena per insertas fundebat luna fenestras. </l></lg>
 </quote>
-<note type="source"><bibl><author>Virgil</author><title level="m">Aenid</title><ref target="//www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3"/></bibl></note>
+<note type="source"><bibl><author>Virgil</author><title level="m">Aenid</title><ref target="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3"/></bibl></note>
 </cit>
 
 <lg xml:lang="en" type="hunt-translation"><l>'Twas night; and sleep was on all living things.</l>  
@@ -6802,7 +6803,7 @@ reference enough to the gossiping over fire-places. </p>
 <p>It is impossible not to be struck with the resemblance between  
 these lesser household gods and some of the offices of our old English  
 elves and fairies. But of them, more by and by. <persName key="André Dacier" cert="medium" ref="http://dbpedia.org/resource/André_Dacier" type="real">Dacier</persName>, in a note  
-upon <persName key="Horace" ref="https://dbpedia.org/resource/Horace">Horace</persName> <note type="hunt">(Book 1, Od. 12.)</note> informs us, that in some parts of  
+upon <persName key="Horace" ref="https://dbpedia.org/resource/Horace">Horace</persName> <bibl>(Book 1, Od. 12.)</bibl> informs us, that in some parts of  
 <placeName type="region" key="Languedoc" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q206221">Languedoc</placeName>, in his time, the fire-place was still called the Lar; and  
 that the name was also given to houses. </p>
 
@@ -6830,14 +6831,15 @@ indulge ourselves, and we hope our readers, in a little poem of
 of the name of <persName key="Erotion">Erotion</persName>. </p>
 
 <cit><quote>
-<lg xml:lang="latin" rend="center"> <l>Hie festinata requiescit Erotion umbra, </l>
-<l>Criraine quam fati sexta peremit hiems. </l>
+<lg xml:lang="latin" rend="center"> 
+<l>Hie festinata requiescit Erotion umbra,</l>
+<l>Criraine quam fati sexta peremit hiems.</l>
 <l>Quisquis eris nostri post me regnator agelli, </l>
 <l>Manibus exiguis annua justa dato. </l>
 <l>Sic Lare perpetuo, sic turba sospite, solus </l>
 <l>Flebilis in terra sit lapis iste tua, </l></lg>
 </quote>
-<note type="source"><bibl><author>Marcus Valerius Martialis</author><title>Liber X LXI</title><ref target="http://www.thelatinlibrary.com/martial/mart10.shtml"/></bibl></note>
+<note type="source"><bibl><author>Marcus Valerius Martialis</author><title level="s">Epigrammata</title> <biblScope unit="volume">Liber X</biblScope> <biblScope unit="part">LXI</biblScope><ref target="http://www.thelatinlibrary.com/martial/mart10.shtml"/></bibl></note>
 </cit>
 
 </div2>
@@ -6864,7 +6866,7 @@ of the name of <persName key="Erotion">Erotion</persName>. </p>
     make a point hereafter of a wording any thing we write in the shape of a narrative, that a mere 
     fiction shall not be confounded with our personal experience. For we would keep the truth of our 
     testimony undisputed. — The fact is, that the story was originally intended to be one of a series told 
-    by an imaginary set of persons, after the fashion of <title level="s">the Decameron</title>; and the manner of it became 
+    by an imaginary set of persons, after the fashion of <title key="The Decameron" level="s">the Decameron</title>; and the manner of it became 
     modified accordingly.</p> 
 
 <p>The first number of the <hi rend="smallcaps">Indicator</hi> is being re-printed, and will be ready in a few days. </p>

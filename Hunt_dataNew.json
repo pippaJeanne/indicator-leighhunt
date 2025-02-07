@@ -1,68 +1,205 @@
 {
-       "outputNER/ner_theIndicator01.xml": {
+       "OutputNER/ner_theIndicator01.xml": {
               "title": [
-                     "Love's Labour Lost",
-                     "the Adviser",
-                     "Helps for Composing",
-                     "the Cheap Reflector",
-                     "Every Man His Own  Looking- Glass",
-                     "the Retailer",
-                     "Every Man His Own Other Man's Wit",
-                     "Nonsense",
-                     "the Crocodile",
-                     "Pleasing Companion",
-                     "Chaos",
-                     "the  Agreeable Miscellany",
-                     "the Fugitive Guide",
-                     "the Foot-Soldier",
-                     "Flowers  of Wit",
-                     "Bigotry",
-                     "the Cheerful Instructor",
-                     "the Polite Repository of  Abuse",
-                     "Blood, being a Collection of Light Essays",
-                     "the Pleasing Ancestor",
-                     "the Silent  Remarker",
-                     "the Tart",
-                     "the Leg of Beef by a Layman",
-                     "the Ingenious  Hatband",
-                     "the Booths of Bliss",
-                     "the Occasional Diner",
-                     "the Tooth-ache",
-                     "Recollections of a Very Unpleasant Nature",
-                     "Thoughts on Taking up a Pair of  Snuffers",
-                     "Thoughts on a Barouche-Box",
-                     "Thoughts on a Hill of Considerable  Eminence",
-                     "Meditations on a Pleasing Idea",
-                     "Materials for Drinking",
-                     "the  Knocker, No. I",
-                     "the Hippopotamus Entered at Stationers' Hall",
-                     "the  Piano-forte",
-                     "the Seven Sleepers at Cards",
-                     "the Arabian  Nights on Horseback",
-                     "Elements",
-                     "The Merchant of Venice",
-                     "To the Earl of Peterborough",
-                     "Odyssey",
-                     "Anacreon's Portrait of his Mistress"
+                     {
+                            "title": "Love's Labour Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Adviser",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Helps for Composing",
+                            "level": "u"
+                     },
+                     {
+                            "title": "the Cheap Reflector",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Every Man His Own Looking- Glass",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Retailer",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Every Man His Own Other Man's Wit",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Nonsense",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Crocodile",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Pleasing Companion",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Chaos",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Agreeable Miscellany",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Fugitive Guide",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Foot-Soldier",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Flowers of Wit",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Bigotry",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Cheerful Instructor",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Polite Repository of Abuse",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Blood, being a Collection of Light Essays",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Pleasing Ancestor",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Silent Remarker",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Tart",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Leg of Beef by a Layman",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Ingenious Hatband",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Booths of Bliss",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Occasional Diner",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Tooth-ache",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Recollections of a Very Unpleasant Nature",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Thoughts on Taking up a Pair of Snuffers",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Thoughts on a Barouche-Box",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Thoughts on a Hill of Considerable Eminence",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Meditations on a Pleasing Idea",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Materials for Drinking",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Knocker, No. I",
+                            "level": "u"
+                     },
+                     {
+                            "title": "the Hippopotamus Entered at Stationers' Hall",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Piano-forte",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Seven Sleepers at Cards",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Arabian Nights on Horseback",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Elements",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Merchant of Venice",
+                            "level": "m"
+                     },
+                     {
+                            "title": "To the Earl of Peterborough",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Odyssey",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Anacreon's Portrait of his Mistress",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Love's Labour Lost": {
+                     "title": [
+                            {
+                                   "title": "Love's Labour Lost",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.google.com/search?q=paradise+lost&rlz=1C5GCCM_en&oq=paradise+lo&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBggCEEUYOTIHCAMQABiABDITCAQQLhivARjHARiABBiYBRiZBTIKCAUQLhjUAhiABDIKCAYQLhjUAhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8"
+                                   "ref": "https://www.google.com/search?q=paradise+lost",
+                                   "level": "m"
                             },
-                            "The Merchant of Venice": {
+                            {
+                                   "title": "The Merchant of Venice",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.google.com/search?q=the+merchant+of+venice"
+                                   "ref": "https://www.google.com/search?q=the+merchant+of+venice",
+                                   "level": "m"
                             },
-                            "To the Earl of Peterborough": {
+                            {
+                                   "title": "To the Earl of Peterborough",
                                    "author": "Jonathan Swift",
-                                   "ref": "https://www.google.com/search?q=to+the+earl+of+peterborough+jonathan+swift&sca_esv=f34a7ccbd9a4492c&ei=gwO1ZryYAfat5NoPrd7B-Qw&ved=0ahUKEwj85dfm-OWHAxX2FlkFHS1vMM8Q4dUDCBA&uact=5&oq=to+the+earl+of+peterborough+jonathan+swift"
+                                   "ref": "https://www.google.com/search?q=to+the+earl+of+peterborough+jonathan+swift&sca_esv=f34a7ccbd9a4492c&ei=gwO1ZryYAfat5NoPrd7B-Qw&ved=0ahUKEwj85dfm-OWHAxX2FlkFHS1vMM8Q4dUDCBA&uact=5&oq=to+the+earl+of+peterborough+jonathan+swift",
+                                   "level": "a"
                             },
-                            "Anacreon's Portrait of his Mistress": {
-                                   "author": "Leigh Hunt"
+                            {
+                                   "title": "Anacreon's Portrait of his Mistress",
+                                   "author": "Leigh Hunt",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -71,6 +208,7 @@
                             "William Shakespeare": "http://www.wikidata.org/entity/Q692",
                             "Paulus Aemilius": "http://www.wikidata.org/entity/Q7155382",
                             "Thomas Paine": "https://dbpedia.org/resource/Thomas_Paine",
+                            "Euclid": "https://dbpedia.org/page/Euclid",
                             "Jane Welsh Carlyle": "http://dbpedia.org/resource/Jane_Welsh_Carlyle",
                             "Homer": "http://www.wikidata.org/entity/Q6691",
                             "Alexander Pope": "https://dbpedia.org/resource/Alexander_Pope",
@@ -150,48 +288,93 @@
                      "1819-10-13": "—WEDNESDAY, OCTOBER 13th, 1819"
               }
        },
-       "outputNER/ner_theIndicator02.xml": {
+       "OutputNER/ner_theIndicator02.xml": {
               "title": [
-                     "Essays of Montaigne",
-                     "Il Penseroso",
-                     "Elder Brother",
-                     "The Elder Brother",
-                     "Love-Melancholy and Religious Melancholy",
-                     "The Countess of Pembroke's Arcadia",
-                     "Orlando Furioso",
-                     "Aminta",
-                     "Jerusalem Delivered",
-                     "Introduction to Harmony",
-                     "Orlando"
+                     {
+                            "title": "Essays of Montaigne",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Il Penseroso",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Elder Brother",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Love-Melancholy and Religious Melancholy",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Countess of Pembroke's Arcadia",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Orlando Furioso",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Aminta",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Jerusalem Delivered",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Introduction to Harmony",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Orlando",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Essays of Montaigne": {
+                     "title": [
+                            {
+                                   "title": "Essays of Montaigne",
                                    "author": "Michel de Montaigne",
-                                   "ref": "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm#link2HCH0096"
+                                   "editor": "Charles Cotton",
+                                   "ref": "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm#link2HCH0096",
+                                   "level": "s"
                             },
-                            "Il Penseroso": {
-                                   "author": "John Milton"
+                            {
+                                   "title": "Il Penseroso",
+                                   "author": "John Milton",
+                                   "level": "a"
                             },
-                            "Elder Brother": {},
-                            "The Elder Brother": {
+                            {
+                                   "title": "The Elder Brother",
                                    "author": "John Fletcher",
-                                   "ref": "https://www.google.com/search?q=elder+brother+fletcher+Act.+1.+Scene+2"
+                                   "ref": "https://www.google.com/search?q=elder+brother+fletcher+Act.+1.+Scene+2",
+                                   "level": "m"
                             },
-                            "Love-Melancholy and Religious Melancholy": {
+                            {
+                                   "title": "Love-Melancholy and Religious Melancholy",
                                    "author": "Thomas Burton",
-                                   "ref": "https://www.exclassics.com/anatomy/anatomy3.txt"
+                                   "ref": "https://www.exclassics.com/anatomy/anatomy3.txt",
+                                   "level": "a"
                             },
-                            "The Countess of Pembroke's Arcadia": {
-                                   "author": "Sir Philip Sidney"
+                            {
+                                   "title": "The Countess of Pembroke's Arcadia",
+                                   "author": "Sir Philip Sydney",
+                                   "ref": "https://www.google.com/search?q=the+countess+of+pembroke%27s+arcadia",
+                                   "level": "m"
                             },
-                            "Orlando Furioso": {
-                                   "author": "Ludovico Ariosto"
+                            {
+                                   "title": "Orlando Furioso",
+                                   "author": "Ludovico Ariosto",
+                                   "ref": "https://www.google.com/search?q=orlando+furioso",
+                                   "level": "m"
                             },
-                            "Aminta": {
-                                   "author": "Torquato Tasso"
+                            {
+                                   "title": "Aminta",
+                                   "author": "Torquato Tasso",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -204,11 +387,13 @@
                             "Nicolas Poussin": "http://www.wikidata.org/entity/Q41554",
                             "Raphael": "http://www.wikidata.org/entity/Q5597",
                             "The Marquis Marialva": "http://dbpedia.org:8891/resource/Marquis_of_Marialva",
+                            "Charles Cotton": "https://dbpedia.org/page/Charles_Cotton",
                             "John Milton": "http://www.wikidata.org/entity/Q79759",
                             "Plato": "http://www.wikidata.org/entity/Q859",
                             "John Fletcher": "http://www.wikidata.org/entity/Q312444",
                             "Aristaenetus": "http://www.wikidata.org/entity/Q664196",
                             "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
+                            "Lodewijk Caspar Valckenaer": "https://dbpedia.org/page/Lodewijk_Caspar_Valckenaer",
                             "Torquato Tasso": "https://dbpedia.org/resource/Torquato_Tasso",
                             "Titian": "https://dbpedia.org/resource/Titian",
                             "Andrea Palladio": "https://dbpedia.org/resource/Andrea_Palladio",
@@ -345,52 +530,102 @@
                      "1819-10-20": "—WEDNESDAY, OCTOBER 20th, 1819"
               }
        },
-       "outputNER/ner_theIndicator03.xml": {
+       "OutputNER/ner_theIndicator03.xml": {
               "title": [
-                     "Flores Historiarum",
-                     "Polyolbion",
-                     "Song 13",
-                     "The Mermaid",
-                     "The Curse upon Edward",
-                     "Resolution and Independence",
-                     "the Tatler",
-                     "The Beggar's Opera",
-                     "The Dispensary a poem",
-                     "Trivia",
-                     "The Canterbury Tales"
+                     {
+                            "title": "Flores Historiarum",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Polyolbion",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Song 13",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Mermaid",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Curse upon Edward",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Resolution and Independence",
+                            "level": "a"
+                     },
+                     {
+                            "title": "the Tatler",
+                            "level": "j"
+                     },
+                     {
+                            "title": "The Beggar's Opera",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Garth's Dispensary",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Dispensary a poem",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Trivia",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Canterbury Tales",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Flores Historiarum": {},
-                            "Polyolbion": {
+                     "title": [
+                            {
+                                   "title": "Polyolbion",
                                    "author": "Michael Drayton",
-                                   "ref": "https://poly-olbion.exeter.ac.uk/the-text/full-text/song-13/"
+                                   "ref": "https://poly-olbion.exeter.ac.uk/the-text/full-text/song-13/",
+                                   "level": "m"
                             },
-                            "The Mermaid": {
+                            {
+                                   "title": "The Mermaid",
                                    "author": "Francis Beaumont",
-                                   "ref": "https://www.google.com/search?q=the+mermaid+by+francis+beaumont"
+                                   "ref": "https://www.google.com/search?q=the+mermaid+by+francis+beaumont",
+                                   "level": "a"
                             },
-                            "The Curse upon Edward": {
+                            {
+                                   "title": "The Curse upon Edward",
                                    "author": "Thomas Gray",
-                                   "ref": "https://www.google.com/search?q=The+Curse+upon+Edward%2C+by+Thomas+Gray"
+                                   "ref": "https://www.google.com/search?q=The+Curse+upon+Edward%2C+by+Thomas+Gray",
+                                   "level": "a"
                             },
-                            "Resolution and Independence": {
+                            {
+                                   "title": "Resolution and Independence",
                                    "author": "William Wordsworth",
-                                   "ref": "https://www.poetryfoundation.org/poems/45545/resolution-and-independence"
+                                   "ref": "https://www.poetryfoundation.org/poems/45545/resolution-and-independence",
+                                   "level": "a"
                             },
-                            "The Dispensary a poem": {
+                            {
+                                   "title": "The Dispensary a poem",
                                    "author": "Sir Samuel Garth",
-                                   "ref": "https://quod.lib.umich.edu/e/eebo/A42418.0001.001?rgn=main;view=fulltext"
+                                   "ref": "https://quod.lib.umich.edu/e/eebo/A42418.0001.001?rgn=main;view=fulltext",
+                                   "level": "m"
                             },
-                            "Trivia": {
+                            {
+                                   "title": "Trivia",
                                    "author": "John Gay",
-                                   "ref": "https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3"
+                                   "ref": "https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3",
+                                   "level": "a"
                             },
-                            "The Canterbury Tales": {
+                            {
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.gutenberg.org/cache/epub/2383/pg2383-images.html#chap20"
+                                   "ref": "https://www.gutenberg.org/cache/epub/2383/pg2383-images.html#chap20",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -908,17 +1143,22 @@
                      "1819-10-27": "—WEDNESDAY, OCTOBER 27th, 1819"
               }
        },
-       "outputNER/ner_theIndicator04.xml": {
+       "OutputNER/ner_theIndicator04.xml": {
               "title": [
-                     "To the Lares, on the Commencement of Fires"
+                     {
+                            "title": "To the Lares, on the Commencement of Fires",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "To the Lares, on the Commencement of Fires": {
+                     "title": [
+                            {
+                                   "title": "To the Lares, on the Commencement of Fires",
                                    "author": "Leigh Hunt",
-                                   "ref": "https://www.poetrynook.com/poem/lares-commencement-fires"
+                                   "ref": "https://www.poetrynook.com/poem/lares-commencement-fires",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -988,65 +1228,160 @@
                      "1819-11-03": "—WEDNESDAY, NOVEMBER 3d, 1819"
               }
        },
-       "outputNER/ner_theIndicator05.xml": {
+       "OutputNER/ner_theIndicator05.xml": {
               "title": [
-                     "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland",
-                     "XXX of Regiment of Health",
-                     "XXVII. Of Friendship",
-                     "Bosworth Field",
-                     "Heroical Epistles",
-                     "Albion's  England",
-                     "Albion's England",
-                     "When Knighthood was in Flower",
-                     "Faerie Queene",
-                     "Aenid",
-                     "On the Morning of Christ's Nativity",
-                     "A Hymn to the Lares",
-                     "Liber X LXI",
-                     "the Decameron"
+                     {
+                            "title": "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland",
+                            "level": "a"
+                     },
+                     {
+                            "title": "XXX of Regiment of Health",
+                            "level": "a"
+                     },
+                     {
+                            "title": "XXVII. Of Friendship",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Bosworth Field",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Bosworth Field",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Heroical Epistles",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Albion's   England",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Albion's England",
+                            "level": "m"
+                     },
+                     {
+                            "title": "When Knighthood was in Flower",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Faerie Queene",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Aenid",
+                            "level": "m"
+                     },
+                     {
+                            "title": "On the Morning of Christ's Nativity",
+                            "level": "a"
+                     },
+                     {
+                            "title": "A Hymn to the Lares",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Epigrammata",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Decameron",
+                            "level": "s"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland": {
+                     "title": [
+                            {
+                                   "title": "Verses Written, on Windows in Several Parts of the Kingdom, in a Journey to Scotland",
                                    "author": "Aaron Hill",
-                                   "ref": "https://www.poetrynook.com/poem/verses-written-windows-several-parts-kingdom-journey-scotland"
+                                   "ref": "https://www.poetrynook.com/poem/verses-written-windows-several-parts-kingdom-journey-scotland",
+                                   "level": "a"
                             },
-                            "XXX of Regiment of Health": {
+                            {
+                                   "title": "XXX of Regiment of Health",
                                    "author": "Francis Bacon",
-                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Regiment_of_Health"
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Regiment_of_Health",
+                                   "level": "a"
                             },
-                            "XXVII. Of Friendship": {
+                            {
+                                   "title": "XXX of Regiment of Health",
                                    "author": "Francis Bacon",
-                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Friendship"
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Regiment_of_Health",
+                                   "level": "a"
                             },
-                            "Bosworth Field": {
-                                   "author": "Sir John Beaumont"
+                            {
+                                   "title": "XXVII. Of Friendship",
+                                   "author": "Francis Bacon",
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Friendship",
+                                   "level": "a"
                             },
-                            "Albion's England": {
-                                   "author": "William Warner"
+                            {
+                                   "title": "XXX of Regiment of Health",
+                                   "author": "Francis Bacon",
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Regiment_of_Health",
+                                   "level": "a"
                             },
-                            "When Knighthood was in Flower": {
+                            {
+                                   "title": "Bosworth Field",
+                                   "author": "Sir John Beaumont",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Albion's England",
+                                   "author": "William Warner",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "When Knighthood was in Flower",
                                    "author": "Edwin Caskoden",
-                                   "ref": "https://www.gutenberg.org/files/17498/17498-h/17498-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/17498/17498-h/17498-h.htm",
+                                   "level": "m"
                             },
-                            "Faerie Queene": {},
-                            "Aenid": {
+                            {
+                                   "title": "When Knighthood was in Flower",
+                                   "author": "Edwin Caskoden",
+                                   "ref": "https://www.gutenberg.org/files/17498/17498-h/17498-h.htm",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "The Faerie Queene",
+                                   "author": "Edmund Spenser",
+                                   "ref": "https://www.google.com/search?q=The+Faerie+Queene",
+                                   "level": "s"
+                            },
+                            {
+                                   "title": "Aenid",
                                    "author": "Virgil",
-                                   "ref": "//www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3"
+                                   "ref": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3",
+                                   "level": "m"
                             },
-                            "On the Morning of Christ's Nativity": {
+                            {
+                                   "title": "Aenid",
+                                   "author": "Virgil",
+                                   "ref": "//www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0055%3Abook%3D3",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "On the Morning of Christ's Nativity",
                                    "author": "John Milton",
-                                   "ref": "https://www.poetryfoundation.org/poems/44735/on-the-morning-of-christs-nativity"
+                                   "ref": "https://www.poetryfoundation.org/poems/44735/on-the-morning-of-christs-nativity",
+                                   "level": "a"
                             },
-                            "A Hymn to the Lares": {
+                            {
+                                   "title": "A Hymn to the Lares",
                                    "author": "Robert Herrick",
-                                   "ref": "https://www.luminarium.org/sevenlit/herrick/lares.htm"
+                                   "ref": "https://www.luminarium.org/sevenlit/herrick/lares.htm",
+                                   "level": "a"
                             },
-                            "Liber X LXI": {
+                            {
+                                   "title": "Epigrammata",
                                    "author": "Marcus Valerius Martialis",
-                                   "ref": "http://www.thelatinlibrary.com/martial/mart10.shtml"
+                                   "ref": "http://www.thelatinlibrary.com/martial/mart10.shtml",
+                                   "level": "s"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1165,56 +1500,145 @@
                      "1515-05-13": "13th of May"
               }
        },
-       "outputNER/ner_theIndicator06.xml": {
+       "OutputNER/ner_theIndicator06.xml": {
               "title": [
-                     "Tristia",
-                     "School for Scandal",
-                     "The Life of Mr. Richard Savage, Son of the Earl Rivers",
-                     "The Guardian",
-                     "Iliad",
-                     "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer",
-                     "Paradise Lost",
-                     "the State of  Innocence",
-                     "the Fall of Man",
-                     "Tempest",
-                     "Gondibert",
-                     "Discoveries",
-                     "The history of the worthies of England",
-                     "To the Memory of My Beloved the Author, Mr. William Shakespeare",
-                     "The Compleat Angler Or the Contemplative Man's Recreation",
-                     "To My Dear and Most Worthy Friend, Mr. Isaac Walton",
-                     "The Angler's Ballad"
+                     {
+                            "title": "Tristia",
+                            "level": "m"
+                     },
+                     {
+                            "title": "School for Scandal",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Life of Mr. Richard Savage, Son of the Earl Rivers",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Guardian",
+                            "level": "j"
+                     },
+                     {
+                            "title": "Iliad",
+                            "level": "m"
+                     },
+                     {
+                            "title": "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Paradise Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The State of Innocence",
+                            "level": "u"
+                     },
+                     {
+                            "title": "The Fall of Man",
+                            "level": "u"
+                     },
+                     {
+                            "title": "Tempest",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Gondibert",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Discoveries",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The history of the worthies of England",
+                            "level": "m"
+                     },
+                     {
+                            "title": "To the Memory of My Beloved the Author, Mr. William Shakespeare",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Compleat Angler Or the Contemplative Man's Recreation",
+                            "level": "m"
+                     },
+                     {
+                            "title": "To My Dear and Most Worthy Friend, Mr. Isaac Walton",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Angler's Ballad",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Trist.": {},
-                            "The Life of Mr. Richard Savage, Son of the Earl Rivers": {
-                                   "author": "Samuel Johnson"
+                     "title": [
+                            {
+                                   "title": "Tristia",
+                                   "author": "Ovid",
+                                   "ref": "https://www.google.com/search?q=tristia+by+ovid",
+                                   "level": "m"
                             },
-                            "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer": {
-                                   "author": "Dryden, John",
-                                   "ref": "https://www.google.com/search?q=To+my+dear+friend+Mr.+Congreve"
+                            {
+                                   "title": "The Life of Mr. Richard Savage, Son of the Earl Rivers",
+                                   "author": "Samuel Johnson",
+                                   "level": "m"
                             },
-                            "The history of the worthies of England": {
+                            {
+                                   "title": "To my Dear Friend Mr. Congreve on his Comedy Call'd the Double Dealer",
+                                   "author": "John Dryden",
+                                   "ref": "https://www.google.com/search?q=To+my+dear+friend+Mr.+Congreve",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "The history of the worthies of England",
                                    "author": "Thomas Fuller",
-                                   "ref": "https://www.google.com/search?q=the+history+of+the+worthies+of+england"
+                                   "ref": "https://www.google.com/search?q=the+history+of+the+worthies+of+england",
+                                   "level": "m"
                             },
-                            "To the Memory of My Beloved the Author, Mr. William Shakespeare": {
-                                   "ref": "https://www.google.com/search?q=to+the+memory+of+my+beloved+the+author+mr+william+shakespeare+by+ben+jonson"
+                            {
+                                   "title": "To the Memory of My Beloved the Author, Mr. William Shakespeare",
+                                   "author": "Ben Jonson",
+                                   "ref": "https://www.google.com/search?q=to+the+memory+of+my+beloved+the+author+mr+william+shakespeare+by+ben+jonson",
+                                   "level": "a"
                             },
-                            "The Compleat Angler Or the Contemplative Man's Recreation": {
+                            {
+                                   "title": "The Compleat Angler Or the Contemplative Man's Recreation",
                                    "author": "Izaak Walton",
-                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html"
+                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html",
+                                   "level": "m"
                             },
-                            "To My Dear and Most Worthy Friend, Mr. Isaac Walton": {
-                                   "author": "Charles Cotton",
-                                   "ref": "https://www.poetrynook.com/poem/my-dear-and-most-worthy-friend-mr-isaac-walton"
+                            {
+                                   "title": "The Compleat Angler Or the Contemplative Man's Recreation",
+                                   "author": "Izaak Walton",
+                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html",
+                                   "level": "m"
                             },
-                            "The Angler's Ballad": {
+                            {
+                                   "title": "The Compleat Angler Or the Contemplative Man's Recreation",
+                                   "author": "Izaak Walton",
+                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "To My Dear and Most Worthy Friend, Mr. Isaac Walton",
                                    "author": "Charles Cotton",
-                                   "ref": "https://www.google.com/search?q=The+Angler%27s+Ballad+Charles+Cotton"
+                                   "ref": "https://www.poetrynook.com/poem/my-dear-and-most-worthy-friend-mr-isaac-walton",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "The Angler's Ballad",
+                                   "author": "Charles Cotton",
+                                   "ref": "https://www.google.com/search?q=The+Angler%27s+Ballad+Charles+Cotton",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "The Compleat Angler Or the Contemplative Man's Recreation",
+                                   "author": "Izaak Walton",
+                                   "ref": "https://anglicanhistory.org/walton/angler/chapter16.html",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1238,7 +1662,7 @@
                             "Thomas Betterton": "https://dbpedia.org/resource/Thomas_Betterton",
                             "Thomas Hobbes": "http://dbpedia.org/resource/Thomas_Hobbes",
                             "Francis Bacon": "https://dbpedia.org/resource/Francis_Bacon",
-                            "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
+                            "Ben Jonson": "#jonson",
                             "Francis Beaumont": "https://dbpedia.org/resource/Francis_Beaumont",
                             "John Fletcher": "https://dbpedia.org/resource/John_Fletcher_(playwright)",
                             "George Chapman": "https://dbpedia.org/resource/George_Chapman",
@@ -1323,28 +1747,76 @@
                      "1819-11-17": "—WEDNESDAY, NOVEMBER 17th, 1819"
               }
        },
-       "outputNER/ner_theIndicator07.xml": {
+       "OutputNER/ner_theIndicator07.xml": {
               "title": [
-                     "Henry IV",
-                     "Hudibras",
-                     "Description of Holland",
-                     "The Character of Holland"
+                     {
+                            "title": "Henry IV",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Hudibras",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Description of Holland",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Character of Holland",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Henry IV": {
+                     "title": [
+                            {
+                                   "title": "Henry IV",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare"
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+2+by+william+shakespeare",
+                                   "level": "m"
                             },
-                            "Description of Holland": {
+                            {
+                                   "title": "Henry IV",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Henry IV",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Henry IV",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Henry IV",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=henry+iv+part+1+by+william+shakespeare",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Description of Holland",
                                    "author": "Samuel Butler",
-                                   "ref": "https://en.wikisource.org/wiki/The_Genuine_Remains_in_Verse_and_Prose_of_Mr._Samuel_Butler/Volume_1/Description_of_Holland"
+                                   "ref": "https://en.wikisource.org/wiki/The_Genuine_Remains_in_Verse_and_Prose_of_Mr._Samuel_Butler/Volume_1/Description_of_Holland",
+                                   "level": "a"
                             },
-                            "The Character of Holland": {
+                            {
+                                   "title": "The Character of Holland",
                                    "author": "Andrew Marvell",
-                                   "ref": "https://www.poetryfoundation.org/poems/44678/the-character-of-holland"
+                                   "ref": "https://www.poetryfoundation.org/poems/44678/the-character-of-holland",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "The Character of Holland",
+                                   "author": "Andrew Marvell",
+                                   "ref": "https://www.poetryfoundation.org/poems/44678/the-character-of-holland",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1421,69 +1893,168 @@
                      "1819-11-24": "—WEDNESDAY, NOVEMBER 24th, 1819"
               }
        },
-       "outputNER/ner_theIndicator09.xml": {
+       "OutputNER/ner_theIndicator09.xml": {
               "title": [
-                     "Inferno",
-                     "the Odyssey",
-                     "Don Quixote",
-                     "The History of Tom Jones the Foundling, in his Married State",
-                     "The Wisdom of the Ancients",
-                     "Inferno: Canto XXVI",
-                     "Life of Anacharsis, the Scythian",
-                     "The Canterbury Tales",
-                     "The Cantebury Tales",
-                     "Paradise Regained",
-                     "The Castle of Indolence",
-                     "Recollections of Christ's Hospital",
-                     "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt",
-                     "My Heart Leaps Up",
-                     "Temora (Book 4)",
-                     "Temora",
-                     "Carthon: A Poem"
+                     {
+                            "title": "Inferno",
+                            "level": "a"
+                     },
+                     {
+                            "title": "the Odyssey",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Don Quixote",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The History of Tom Jones the Foundling, in his Married State",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Wisdom of the Ancients",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Inferno: Canto XXVI",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Life of Anacharsis, the Scythian",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Canterbury Tales",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Cantebury Tales",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Paradise Regained",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Castle of Indolence",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Recollections of Christ's Hospital",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt",
+                            "level": "m"
+                     },
+                     {
+                            "title": "My Heart Leaps Up",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Temora (Book 4)",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Temora",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Carthon: A Poem",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "The Wisdom of the Ancients": {
+                     "title": [
+                            {
+                                   "title": "The Wisdom of the Ancients",
                                    "author": "Francis Bacon",
-                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients"
+                                   "ref": "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/The_Wisdom_of_the_Ancients",
+                                   "level": "m"
                             },
-                            "Inferno: Canto XXVI": {
+                            {
+                                   "title": "Inferno: Canto XXVI",
                                    "author": "Dante Alighieri",
-                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+                                   "level": "a"
                             },
-                            "Life of Anacharsis, the Scythian": {
+                            {
+                                   "title": "Inferno: Canto XXVI",
+                                   "author": "Dante Alighieri",
+                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Inferno: Canto XXVI",
+                                   "author": "Dante Alighieri",
+                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Inferno: Canto XXVI",
+                                   "author": "Dante Alighieri",
+                                   "ref": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Life of Anacharsis, the Scythian",
                                    "author": "Diogenes Laërtius",
-                                   "ref": "https://www.gutenberg.org/files/57342/57342-h/57342-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/57342/57342-h/57342-h.htm",
+                                   "level": "a"
                             },
-                            "The Canterbury Tales": {
-                                   "ref": "https://www.google.com/search?q=canterbury+tales"
-                            },
-                            "The Cantebury Tales": {
+                            {
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm"
+                                   "ref": "https://www.google.com/search?q=canterbury+tales",
+                                   "level": "m"
                             },
-                            "Paradise Regained": {
+                            {
+                                   "title": "The Cantebury Tales",
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Paradise Regained",
                                    "author": "John Milton",
-                                   "ref": "https://www.gutenberg.org/cache/epub/58/pg58-images.html"
+                                   "ref": "https://www.gutenberg.org/cache/epub/58/pg58-images.html",
+                                   "level": "m"
                             },
-                            "The Castle of Indolence": {
+                            {
+                                   "title": "The Castle of Indolence",
                                    "author": "James Thomson",
-                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o3818-w0010.shtml"
+                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o3818-w0010.shtml",
+                                   "level": "a"
                             },
-                            "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt": {
+                            {
+                                   "title": "Christ's Hospital: Recollections of Lamb, Colerdige, and Leigh Hunt",
                                    "author": "Charles Lamb",
-                                   "ref": "https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up"
+                                   "ref": "https://archive.org/details/christshospital00huntgoog/page/n10/mode/1up",
+                                   "level": "m"
                             },
-                            "My Heart Leaps Up": {
+                            {
+                                   "title": "My Heart Leaps Up",
                                    "author": "William Wordsworth",
-                                   "ref": "https://www.google.com/search?q=my+heart+leaps+up+poem+by+william+wordsworth"
+                                   "ref": "https://www.google.com/search?q=my+heart+leaps+up+poem+by+william+wordsworth",
+                                   "level": "a"
                             },
-                            "Temora (Book 4)": {},
-                            "Temora": {},
-                            "Carthon: A Poem": {
-                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o5164-w0070.shtml"
+                            {
+                                   "title": "Temora (Book 4)",
+                                   "author": "James Macpherson",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Temora",
+                                   "author": "James Macpherson",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Carthon: A Poem",
+                                   "author": "James Macpherson",
+                                   "ref": "https://www.eighteenthcenturypoetry.org/works/o5164-w0070.shtml",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1690,40 +2261,66 @@
                      "1819-12-08": "—WEDNESDAY, DECEMBER 8th, 1819"
               }
        },
-       "outputNER/ner_theIndicator10.xml": {
+       "OutputNER/ner_theIndicator10.xml": {
               "title": [
-                     "Hamlet",
-                     "Tam O'Shanter",
-                     "Tom o' Shanter",
-                     "Fairy Queen",
-                     "The Fairy Queen",
-                     "The Rime of the Ancient Mariner",
-                     "IV. de phasello"
+                     {
+                            "title": "Hamlet",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Tam O'Shanter",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Tom o' Shanter",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Fairy Queen",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Rime of the Ancient Mariner",
+                            "level": "a"
+                     },
+                     {
+                            "title": "IV. de phasello",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Hamlet": {
+                     "title": [
+                            {
+                                   "title": "Hamlet",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.google.com/search?q=hamlet+by+william+shakespeare"
+                                   "ref": "https://www.google.com/search?q=hamlet+by+william+shakespeare",
+                                   "level": "m"
                             },
-                            "Tom o' Shanter": {
+                            {
+                                   "title": "Tom o' Shanter",
                                    "author": "Robert Burns",
-                                   "ref": "https://www.google.com/search?q=tam+o+shanter+poem+by+robert+burns"
+                                   "ref": "https://www.google.com/search?q=tam+o+shanter+poem+by+robert+burns",
+                                   "level": "a"
                             },
-                            "Fairy Queen": {},
-                            "The Fairy Queen": {
+                            {
+                                   "title": "The Fairy Queen",
                                    "author": "Edmund Spenser",
-                                   "ref": "https://www.google.com/search?q=the+fairy+queen+by+edmund+spenser+book+2"
+                                   "ref": "https://www.google.com/search?q=the+fairy+queen+by+edmund+spenser+book+2",
+                                   "level": "m"
                             },
-                            "The Rime of the Ancient Mariner": {
+                            {
+                                   "title": "The Rime of the Ancient Mariner",
                                    "author": "Samuel Taylor Coleridge",
-                                   "ref": "https://dbpedia.org/resource/The_Rime_of_the_Ancient_Mariner"
+                                   "ref": "https://dbpedia.org/resource/The_Rime_of_the_Ancient_Mariner",
+                                   "level": "a"
                             },
-                            "IV. de phasello": {
+                            {
+                                   "title": "IV. de phasello",
                                    "author": "Catullus",
-                                   "ref": "https://en.wikisource.org/wiki/Translation:Catullus_4"
+                                   "ref": "https://en.wikisource.org/wiki/Translation:Catullus_4",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1807,34 +2404,64 @@
                      "1819-12-15": "—WEDNESDAY, DECEMBER 15th, 1819"
               }
        },
-       "outputNER/ner_theIndicator11.xml": {
+       "OutputNER/ner_theIndicator11.xml": {
               "title": [
-                     "the Harleian Miscellany",
-                     "Aeneid",
-                     "The Pilgrim's Progress",
-                     "The Winter's Tale",
-                     "Hymn to Mercury",
-                     "Gil Blas",
-                     "Ali Baba and the Forty Thieves",
-                     "The Mysteries of Udolpho",
-                     "Orlando Furioso",
-                     "Palace of Pleasure",
-                     "LOVE'S PHILOSOPHY.",
-                     "Love's Philosophy"
+                     {
+                            "title": "the Harleian Miscellany",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Pilgrim's Progress",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Aeneid",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Winter's Tale",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Hymn to Mercury",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Gil Blas",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Ali Baba and the Forty Thieves",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Mysteries of Udolpho",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Palace of Pleasure",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Love's Philosophy",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Æneid": {},
-                            "Aeneid": {
+                     "title": [
+                            {
+                                   "title": "Aeneid",
                                    "author": "Virgil",
-                                   "ref": "https://www.google.com/search?q=Aenid+by+Virgil"
+                                   "ref": "https://www.google.com/search?q=Aenid+by+Virgil",
+                                   "level": "m"
                             },
-                            "Orlando Furio.": {},
-                            "Love's Philosophy": {
+                            {
+                                   "title": "Love's Philosophy",
                                    "author": "Percy Bysshe Shelley",
-                                   "ref": "https://www.bartleby.com/lit-hub/the-golden-treasury/106134/"
+                                   "ref": "https://www.bartleby.com/lit-hub/the-golden-treasury/106134/",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -1938,20 +2565,45 @@
                      "1819-12-22": "—WEDNESDAY, DECEMBER 22d, 1819"
               }
        },
-       "outputNER/ner_theIndicator12.xml": {
+       "OutputNER/ner_theIndicator12.xml": {
               "title": [
-                     "Gil Blas",
-                     "Chronicle of the Cid",
-                     "Cantar de mio Cid",
-                     "Guzman d'Alfarache",
-                     "Marcos de Obregón",
-                     "Visions of Hell",
-                     "History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds"
+                     {
+                            "title": "Gil Blas",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Chronicle of the Cid",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Cantar de mio Cid",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Guzman d'Alfarache",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Marcos de Obregón",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Visions of Hell",
+                            "level": "m"
+                     },
+                     {
+                            "title": "History of Paul the Spanish Sharper, the Pattern of Rogues and Mirror of Vagabonds",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Chronicle of the Cid": {}
-                     }
+                     "title": [
+                            {
+                                   "title": "Chronicle of the Cid",
+                                   "author": "Mr. Southey",
+                                   "level": "m"
+                            }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2008,12 +2660,15 @@
                      "1819-12-29": "—WEDNESDAY, DECEMBER 29th, 1819"
               }
        },
-       "outputNER/ner_theIndicator20.xml": {
+       "OutputNER/ner_theIndicator20.xml": {
               "title": [
-                     "Essays on the Superstitions of the Highlanders of Scotland"
+                     {
+                            "title": "Essays on the Superstitions of the Highlanders of Scotland",
+                            "level": "s"
+                     }
               ],
               "bibl": {
-                     "title": {}
+                     "title": []
               },
               "persons": {
                      "real": {
@@ -2073,18 +2728,26 @@
                      "1820-02-23": "WEDNESDAY, FEBRUARY 23rd, 1820"
               }
        },
-       "outputNER/ner_theIndicator21.xml": {
+       "OutputNER/ner_theIndicator21.xml": {
               "title": [
-                     "The History of Sir Charles Grandison",
-                     "Love's Labor's Lost"
+                     {
+                            "title": "The History of Sir Charles Grandison",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Love's Labor's Lost",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Love's Labor's Lost": {
+                     "title": [
+                            {
+                                   "title": "Love's Labor's Lost",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/"
+                                   "ref": "https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2153,24 +2816,46 @@
                      "1820-03-01": "WEDNESDAY, MARCH 1st, 1820"
               }
        },
-       "outputNER/ner_theIndicator22.xml": {
+       "OutputNER/ner_theIndicator22.xml": {
               "title": [
-                     "the Novelist's Magazine",
-                     "The Taming of the Shrew",
-                     "Paradise Lost",
-                     "24th Idyll of "
+                     {
+                            "title": "the Novelist's Magazine",
+                            "level": "j"
+                     },
+                     {
+                            "title": "The Taming of the Shrew",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Paradise Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "24th Idyll of Theocritus",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "The Taming of the Shrew": {
+                     "title": [
+                            {
+                                   "title": "The Taming of the Shrew",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/"
+                                   "ref": "https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/",
+                                   "level": "m"
                             },
-                            "Paradise Lost": {
+                            {
+                                   "title": "The Taming of the Shrew",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.folger.edu/explore/shakespeares-works/the-taming-of-the-shrew/read/4/3/",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Paradise Lost",
                                    "author": "John Milton",
-                                   "ref": "https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_I"
+                                   "ref": "https://en.wikisource.org/wiki/Paradise_Lost_(1674)/Book_I",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2189,7 +2874,7 @@
                             "Henry VIII": "https://dbpedia.org/resource/Henry_VIII",
                             "Paul I of Russia": "https://dbpedia.org/resource/Paul_I_of_Russia",
                             "Hernán Cortés": "http://dbpedia.org/resource/Hernán_Cortés",
-                            "Mary de Nazareth ": "https://dbpedia.org/resource/Mary,_mother_of_Jesus",
+                            "Mary de Nazareth": "https://dbpedia.org/resource/Mary,_mother_of_Jesus",
                             "De Courcys": "https://dbpedia.org/resource/Courceys",
                             "John de Courcy, 35th Baron Kingsale": "https://dbpedia.org/resource/John_de_Courcy,_35th_Baron_Kingsale",
                             "Theocritus": "https://dbpedia.org/resource/Theocritus",
@@ -2258,24 +2943,46 @@
                      "1820-03-08": "WEDNESDAY, MARCH 8th, 1820"
               }
        },
-       "outputNER/ner_theIndicator23.xml": {
+       "OutputNER/ner_theIndicator23.xml": {
               "title": [
-                     "Support for the Fleet",
-                     "Black Eyed Susan",
-                     "The Canterbury Tales",
-                     "Aminta"
+                     {
+                            "title": "Support for the Fleet",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Black Eyed Susan",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Canterbury Tales",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Aminta",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Black Eyed Susan": {
+                     "title": [
+                            {
+                                   "title": "Black Eyed Susan",
                                    "author": "John Gay",
-                                   "ref": "https://en.wikisource.org/wiki/The_Black-bird/Black_Eyed_Susan"
+                                   "ref": "https://en.wikisource.org/wiki/The_Black-bird/Black_Eyed_Susan",
+                                   "level": "a"
                             },
-                            "The Canterbury Tales": {
+                            {
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://dbpedia.org/resource/The_Canterbury_Tales"
+                                   "ref": "https://dbpedia.org/resource/The_Canterbury_Tales",
+                                   "level": "s"
+                            },
+                            {
+                                   "title": "The Canterbury Tales",
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://dbpedia.org/resource/The_Canterbury_Tales",
+                                   "level": "s"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2390,73 +3097,166 @@
                      "2013": "2013"
               }
        },
-       "outputNER/ner_theIndicator24.xml": {
+       "OutputNER/ner_theIndicator24.xml": {
               "title": [
-                     "The Vicar of Wakefield",
-                     "The Revolt of Islam",
-                     "The Faerie Queen",
-                     "A Midsummer Night's Dream",
-                     "L'Allegro",
-                     "Arcades (Milton)",
-                     "Arcades",
-                     "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
-                     "The Poetical Works of John Milton",
-                     "Love's Labor's Lost",
-                     "Paradise Lost",
-                     "King Lear",
-                     "The Tempest",
-                     "Purgatorio",
-                     "To Penshurst",
-                     "Gondibert: An Heroick Poem",
-                     "Psalms"
+                     {
+                            "title": "The Vicar of Wakefield",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Revolt of Islam",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Faerie Queen",
+                            "level": "m"
+                     },
+                     {
+                            "title": "A Midsummer Night's Dream",
+                            "level": "m"
+                     },
+                     {
+                            "title": "L'Allegro",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Arcades (Milton)",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Arcades",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Poetical Works of John Milton",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Love's Labor's Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Paradise Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "King Lear",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Tempest",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Purgatorio",
+                            "level": "a"
+                     },
+                     {
+                            "title": "To Penshurst",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Gondibert: An Heroick Poem",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Psalms",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "The Vicar of Wakefield": {
+                     "title": [
+                            {
+                                   "title": "The Vicar of Wakefield",
                                    "author": "Oliver Goldsmith",
-                                   "ref": "https://www.gutenberg.org/files/2667/2667-h/2667-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/2667/2667-h/2667-h.htm",
+                                   "level": "m"
                             },
-                            "The Revolt of Islam": {
-                                   "author": "Percy Bysshe Shelley"
+                            {
+                                   "title": "The Revolt of Islam",
+                                   "author": "Percy Bysshe Shelley",
+                                   "level": "a"
                             },
-                            "The Faerie Queen": {
-                                   "author": "Edmund Spenser"
+                            {
+                                   "title": "The Faerie Queen",
+                                   "author": "Edmund Spenser",
+                                   "level": "m"
                             },
-                            "A Midsummer Night's Dream": {
-                                   "author": "William Shakespeare"
+                            {
+                                   "title": "A Midsummer Night's Dream",
+                                   "author": "William Shakespeare",
+                                   "level": "m"
                             },
-                            "L'Allegro": {
+                            {
+                                   "title": "L'Allegro",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton"
+                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton",
+                                   "level": "a"
                             },
-                            "Arcades": {
+                            {
+                                   "title": "Arcades",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=Arcades+by+John+Milton"
+                                   "ref": "https://www.google.com/search?q=Arcades+by+John+Milton",
+                                   "level": "m"
                             },
-                            "Poems Upon Several Occasions, English, Italian, and Latin, with Translations": {
+                            {
+                                   "title": "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=Poems+Upon+Several+Occasions%2C+English%2C+Italian%2C+and+Latin%2C+with+Translations+by+John+Milton%2C+ed.+Thomas+Warton"
+                                   "editor": "Thomas Warton",
+                                   "ref": "https://www.google.com/search?q=Poems+Upon+Several+Occasions%2C+English%2C+Italian%2C+and+Latin%2C+with+Translations+by+John+Milton%2C+ed.+Thomas+Warton",
+                                   "level": "s"
                             },
-                            "Love's Labor's Lost": {
-                                   "author": "William Shakespeare"
+                            {
+                                   "title": "Love's Labor's Lost",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=Love%27s+Labor%27s+Lost",
+                                   "level": "m"
                             },
-                            "Paradise Lost": {
-                                   "author": "John Milton"
+                            {
+                                   "title": "Paradise Lost",
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=paradise+lost+book+iv",
+                                   "level": "m"
                             },
-                            "The Tempest": {
-                                   "author": "William Shakespeare"
+                            {
+                                   "title": "The Tempest",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=The+tempest",
+                                   "level": "m"
                             },
-                            "Purgatorio": {},
-                            "To Penshurst": {
+                            {
+                                   "title": "The Tempest",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://www.google.com/search?q=The+tempest",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Purgatorio",
+                                   "author": "Dante Alighieri",
+                                   "ref": "https://www.google.com/search?q=purgatorio+dante",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "To Penshurst",
                                    "author": "Ben Jonson",
-                                   "ref": "https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson"
+                                   "ref": "https://www.google.com/search?q=To+Penshurst+by+Ben+Jonson",
+                                   "level": "a"
                             },
-                            "Gondibert: An Heroick Poem": {
+                            {
+                                   "title": "Gondibert: An Heroick Poem",
                                    "author": "William Davenant",
-                                   "ref": "https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant"
+                                   "ref": "https://www.google.com/search?q=Gondibert%3A+An+Heroick+Poem+by+William+Davenant",
+                                   "level": "m"
                             },
-                            "Psalms": {}
-                     }
+                            {
+                                   "title": "Psalms",
+                                   "level": "a"
+                            }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2472,7 +3272,6 @@
                             "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
                             "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
                             "Sir Philip Sidney": "https://dbpedia.org/resouce/Philip_Sidney",
-                            "William Davenant": "https://dbpedia.org/resource/William_Davenant",
                             "Homer": "http://dbpedia.org/resource/Homer",
                             "Alexander Pope": "https://dbpedia.org/resource/Alexander_Pope",
                             "Joseph Appleyard": "Joseph Appleyard"
@@ -2488,7 +3287,7 @@
                             "Miranda": "https://dbpedia.org/resource/Miranda_(The_Tempest)",
                             "Ferdinand": "https://dbpedia.org/resource/Ferdinand_(The_Tempest)",
                             "Pan": "https://dbpedia.org/resource/Pan_(god)",
-                            "Bacchus ": "https://dbpedia.org/resource/Dionysus_in_comparative_mythology",
+                            "Bacchus": "https://dbpedia.org/resource/Dionysus_in_comparative_mythology",
                             "Aaron": "Aaron",
                             "Orpheus": "http://dbpedia.org/resource/Orpheus"
                      }
@@ -2516,37 +3315,168 @@
                      "1820-03-22": "WEDNESDAY, MARCH 22d, 1820"
               }
        },
-       "outputNER/ner_theIndicator25.xml": {
+       "OutputNER/ner_theIndicator25.xml": {
               "title": [
-                     "Jerusalem Delivered",
-                     "the Life of Waller",
-                     "Lives of the English Poets: Waller, Milton, Cowley",
-                     "Gerusalemme liberata",
-                     " Lives of the English Poets",
-                     "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry"
+                     {
+                            "title": "Jerusalem Delivered",
+                            "level": "m"
+                     },
+                     {
+                            "title": "the Life of Waller",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Lives of the English Poets: Waller, Milton, Cowley",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Indicator",
+                            "level": "j"
+                     },
+                     {
+                            "title": "Gerusalemme liberata",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Lives of the English Poets",
+                            "level": "m"
+                     },
+                     {
+                            "title": "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Lives of the English Poets: Waller, Milton, Cowley": {
-                                   "author": "Samuel Johnson"
-                            },
-                            "Jerusalem Delivered": {
-                                   "author": "Torquato Tasso",
-                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html"
-                            },
-                            "Gerusalemme liberata": {
-                                   "author": "Torquato Tasso",
-                                   "ref": "https://archive.org/details/gerusalemmeliberatatorquatotasso"
-                            },
-                            " Lives of the English Poets": {
+                     "title": [
+                            {
+                                   "title": "Lives of the English Poets: Waller, Milton, Cowley",
                                    "author": "Samuel Johnson",
-                                   "ref": "https://www.gutenberg.org/cache/epub/4678/pg4678-images.html"
+                                   "level": "m"
                             },
-                            "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry": {
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "John Hoole",
+                                   "ref": "https://archive.org/details/bim_eighteenth-century_jerusalem-delivered-an-_tasso-torquato_1763_1/page/n31/mode/1up",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Gerusalemme liberata",
+                                   "author": "Torquato Tasso",
+                                   "ref": "https://archive.org/details/gerusalemmeliberatatorquatotasso",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "John Hoole",
+                                   "ref": "https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "John Hoole",
+                                   "ref": "https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "John Hoole",
+                                   "ref": "https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "John Hoole",
+                                   "ref": "https://books.googleusercontent.com/books/content?req=AKW5QactncSj9eUyknvxnE1QJRZRem1Lm4WwAm5QWEBPN7w8-Y7QmptOWLVFREFjDH3jkZ64hBWmQKxlBfU4skxvM_SV120h86iG96T467dgQYLDBiaawjHfFVoWPvC_LaJooSqBJgSUT8R37_3KtB0X-PxUvEnjH7nNqzEYaw4UusLNH64g7vzdzT1sefKDwS6ZFxzpUkASORGKvDAomLevmoBpG1gk2X_UcRjUC3nI8GPXg1bMyuzuswwziXHt97zOxPl14TQj_JS2FcnRsFSHFbJ6LWsOgg",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Jerusalem Delivered",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Edward Fairfax",
+                                   "ref": "https://www.gutenberg.org/cache/epub/392/pg392-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Lives of the English Poets",
+                                   "author": "Samuel Johnson",
+                                   "ref": "https://www.gutenberg.org/cache/epub/4678/pg4678-images.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry",
                                    "author": "William Collins",
-                                   "ref": "https://www.google.com/search?q=An+Ode+on+the+Popular+Superstitions+of+the+Highlands+of+Scotland%2C+Considered+as+the+Subject+of+Poetry+by+William+Collins"
+                                   "ref": "https://www.google.com/search?q=An+Ode+on+the+Popular+Superstitions+of+the+Highlands+of+Scotland%2C+Considered+as+the+Subject+of+Poetry+by+William+Collins",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2640,19 +3570,30 @@
                      "1820-03-29": "WEDNESDAY, March 29th, 1820"
               }
        },
-       "outputNER/ner_theIndicator26.xml": {
+       "OutputNER/ner_theIndicator26.xml": {
               "title": [
-                     "Monastery",
-                     "The Life and Adventures Of Peter Wilkins",
-                     "Metamorphoses"
+                     {
+                            "title": "Monastery",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Life and Adventures Of Peter Wilkins",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Metamorphoses",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Monastery": {
+                     "title": [
+                            {
+                                   "title": "Monastery",
                                    "author": "Walter Scott",
-                                   "ref": "https://archive.org/details/scottmonastery03/page/n8/mode/1up"
+                                   "ref": "https://archive.org/details/scottmonastery03/page/n8/mode/1up",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2691,20 +3632,30 @@
                      "1820-04-05": "WEDNESDAY, April 5th, 1820"
               }
        },
-       "outputNER/ner_theIndicator27.xml": {
+       "OutputNER/ner_theIndicator27.xml": {
               "title": [
-                     "Fabularum Liber,",
-                     "Ars Amatoria"
+                     {
+                            "title": "Fabularum Liber,",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Ars Amatoria",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Fabularum Liber,": {
-                                   "author": "Gaius Julius Hyginus"
+                     "title": [
+                            {
+                                   "title": "Fabularum Liber,",
+                                   "author": "Gaius Julius Hyginus",
+                                   "level": "m"
                             },
-                            "Ars Amatoria": {
-                                   "author": "Ovid"
+                            {
+                                   "title": "Ars Amatoria",
+                                   "author": "Ovid",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2765,90 +3716,197 @@
                      "1820-04-12": "WEDNESDAY, April 12th, 1820"
               }
        },
-       "outputNER/ner_theIndicator28.xml": {
+       "OutputNER/ner_theIndicator28.xml": {
               "title": [
-                     "Pervigilium Veneris",
-                     "Sonnet XCVIII",
-                     "the Winter's Tale",
-                     "The Winter's Tale",
-                     "Sonnet CIV",
-                     "Love's Labour's Lost",
-                     "The Flower and the Leaf",
-                     "The Legend of Good Women",
-                     "Pan's Anniversary, or the Shepherd's Holiday",
-                     "The Shepherd's Hunting",
-                     "To the Small Celandine",
-                     "To the Daisy (\"In youth from rock to rock I went\")",
-                     "To the Daisy (\"With little here to do or see\")",
-                     "To The Same Flower (Second Poem)",
-                     "The Faerie Queene",
-                     "The Indicator",
-                     "Parnaso Italiano",
-                     "Purgatorio",
-                     "History of Fiction",
-                     "Gathering Flowers",
-                     "Passando con pensier per un boschetto"
+                     {
+                            "title": "Pervigilium Veneris",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Sonnet XCVIII",
+                            "level": "a"
+                     },
+                     {
+                            "title": "the Winter's Tale",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Winter's Tale",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Sonnet CIV",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Love's Labour's Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Flower and the Leaf",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Legend of Good Women",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Legend of Good Women",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Pan's Anniversary, or the Shepherd's Holiday",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Shepherd's Hunting",
+                            "level": "m"
+                     },
+                     {
+                            "title": "To the Small Celandine",
+                            "level": "a"
+                     },
+                     {
+                            "title": "To the Daisy (\"In youth from rock to rock I went\")",
+                            "level": "a"
+                     },
+                     {
+                            "title": "To the Daisy (\"With little here to do or see\")",
+                            "level": "a"
+                     },
+                     {
+                            "title": "To The Same Flower (Second Poem)",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Faerie Queene",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Indicator",
+                            "level": "j"
+                     },
+                     {
+                            "title": "Parnaso Italiano",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Purgatorio",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The History of Fiction",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Gathering Flowers",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Passando con pensier per un boschetto",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Pervigilium Veneris": {
-                                   "author": "Anon.",
-                                   "ref": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9"
+                     "title": [
+                            {
+                                   "title": "Pervigilium Veneris",
+                                   "author": "Anonymus",
+                                   "editor": "Thomas Parnell",
+                                   "ref": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Parnell/Poem_9",
+                                   "level": "m"
                             },
-                            "Sonnet XCVIII": {
-                                   "author": "William Shakespeare ",
-                                   "ref": "https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html"
-                            },
-                            "The Winter's Tale": {
+                            {
+                                   "title": "Sonnet XCVIII",
                                    "author": "William Shakespeare",
-                                   "ref": "https://www.google.com/search?q=the+winter%27s+tale+by+william+shakespeare"
+                                   "ref": "https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html",
+                                   "level": "a"
                             },
-                            "Sonnet CIV": {
+                            {
+                                   "title": "The Winter's Tale",
                                    "author": "William Shakespeare",
-                                   "ref": "https://shakespeares-sonnets.com/sonnet/104"
+                                   "ref": "https://www.google.com/search?q=the+winter%27s+tale+by+william+shakespeare",
+                                   "level": "m"
                             },
-                            "Love's Labour's Lost": {
+                            {
+                                   "title": "Sonnet CIV",
                                    "author": "William Shakespeare",
-                                   "ref": "https://shakespeare.mit.edu/lll/full.html"
+                                   "ref": "https://shakespeares-sonnets.com/sonnet/104",
+                                   "level": "a"
                             },
-                            "The Flower and the Leaf": {
+                            {
+                                   "title": "Love's Labour's Lost",
+                                   "author": "William Shakespeare",
+                                   "ref": "https://shakespeare.mit.edu/lll/full.html",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "The Flower and the Leaf",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer"
+                                   "ref": "https://www.google.com/search?q=The+Floure+and+the+Leafe+Poem+by+Geoffrey+Chaucer",
+                                   "level": "a"
                             },
-                            "The Legend of Good Women": {
+                            {
+                                   "title": "The Legend of Good Women",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.google.com/search?q=legend+of+good+women"
+                                   "ref": "https://www.google.com/search?q=legend+of+good+women",
+                                   "level": "a"
                             },
-                            "Pan's Anniversary, or the Shepherd's Holiday": {
+                            {
+                                   "title": "The Legend of Good Women",
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.google.com/search?q=legend+of+good+women",
+                                   "level": "a"
+                            },
+                            {
+                                   "title": "Pan's Anniversary, or the Shepherd's Holiday",
                                    "author": "Ben Jonson",
-                                   "ref": "https://www.google.com/search?q=Pan%27s+Anniversary+by+Ben+Jonson"
+                                   "ref": "https://www.google.com/search?q=Pan%27s+Anniversary+by+Ben+Jonson",
+                                   "level": "m"
                             },
-                            "The Shepherd's Hunting": {
+                            {
+                                   "title": "The Shepherd's Hunting",
                                    "author": "George Wither",
-                                   "ref": "https://www.simple-poetry.com/poems/prelude-from-the-shepherd-s-hunting-1166563409"
+                                   "ref": "https://www.simple-poetry.com/poems/prelude-from-the-shepherd-s-hunting-1166563409",
+                                   "level": "m"
                             },
-                            "To the Small Celandine": {
+                            {
+                                   "title": "To the Small Celandine",
                                    "author": "William Wordsworth",
-                                   "ref": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine"
+                                   "ref": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine",
+                                   "level": "a"
                             },
-                            "To the Daisy (\"In youth from rock to rock I went\")": {
+                            {
+                                   "title": "To the Daisy (\"In youth from rock to rock I went\")",
                                    "author": "William Wordsworth",
-                                   "ref": "https://www.google.com/search?q=to+the+daisy+william+wordsworth"
+                                   "ref": "https://www.google.com/search?q=to+the+daisy+william+wordsworth",
+                                   "level": "a"
                             },
-                            "To The Same Flower (Second Poem)": {
+                            {
+                                   "title": "To The Same Flower (Second Poem)",
                                    "author": "William Wordsworth",
-                                   "ref": "https://allpoetry.com/poem/14326798-To-The-Same-Flower--Second-Poem--by-William-Wordsworth"
+                                   "ref": "https://allpoetry.com/poem/14326798-To-The-Same-Flower--Second-Poem--by-William-Wordsworth",
+                                   "level": "a"
                             },
-                            "The Faerie Queene": {
+                            {
+                                   "title": "The Faerie Queene",
                                    "author": "Edmund Spenser",
-                                   "ref": "https://www.google.com/search?&q=The+fairy+queene"
+                                   "ref": "https://www.google.com/search?&q=The+fairy+queene",
+                                   "level": "m"
                             },
-                            "History of Fiction": {},
-                            "Passando con pensier per un boschetto": {
+                            {
+                                   "title": "The History of Fiction",
+                                   "author": "John Colin Dunlop",
+                                   "ref": "https://www.google.com/search?q=Dunlop%27s+History+of+Fiction",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Passando con pensier per un boschetto",
                                    "author": "Franco Sacchetti",
-                                   "ref": "https://it.wikisource.org/wiki/Passando_con_pensier_per_un_boschetto"
+                                   "ref": "https://it.wikisource.org/wiki/Passando_con_pensier_per_un_boschetto",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2858,7 +3916,7 @@
                             "Ben Jonson": "https://dbpedia.org/resource/Ben_Jonson",
                             "William Wordsworth": "https://dbpedia.org/resource/William_Wordsworth",
                             "George Wither": "https://dbpedia.org/resource/George_Wither",
-                            "Franco Sacchetti": "#Sacchetti",
+                            "Franco Sacchetti": "https://dbpedia.org/page/Franco_Sacchetti",
                             "Giovanni Boccaccio": "http://dbpedia.org/resource/Giovanni_Boccaccio",
                             "Ugolino della Gherardesca": "https://dbpedia.org/resource/Ugolino_della_Gherardesca",
                             "Dante Alighieri": "http://dbpedia.org/resource/Dante_Alighieri",
@@ -2904,75 +3962,183 @@
                      "1820-04-19": "WEDNESDAY, APRIL 19th, 1820"
               }
        },
-       "outputNER/ner_theIndicator29.xml": {
+       "OutputNER/ner_theIndicator29.xml": {
               "title": [
-                     "Song on May Morning",
-                     "Antiquitates Vulgares",
-                     "The Shepheardes Calender",
-                     "Britannia's Pastorals",
-                     "Arcades",
-                     "Astrophel",
-                     "Cassamen and Dowsabell",
-                     "English Pastorals",
-                     "Palamon and Arcite",
-                     "The Knight's Tale",
-                     "The Canterbury Tales",
-                     "Theseide",
-                     "the Theseide",
-                     "The Works of John Dryden",
-                     "L'Allegro",
-                     "The Cantebury Tales",
-                     "L'Arcadia di messer",
-                     "Paradise Lost"
+                     {
+                            "title": "Song on May Morning",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Antiquitates Vulgares",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Shepheardes Calender",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Britannia's Pastorals",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Arcades",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Astrophel",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Cassamen and Dowsabell",
+                            "level": "a"
+                     },
+                     {
+                            "title": "English Pastorals",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Palamon and Arcite",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Knight's Tale",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Canterbury Tales",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Theseide",
+                            "level": "a"
+                     },
+                     {
+                            "title": "the Theseide",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Canterbury Tales",
+                            "level": "s"
+                     },
+                     {
+                            "title": "Palamon and Arcite",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Works of John Dryden",
+                            "level": "m"
+                     },
+                     {
+                            "title": "L'Allegro",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Cantebury Tales",
+                            "level": "s"
+                     },
+                     {
+                            "title": "L'Arcadia di messer",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Paradise Lost",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Song on May Morning": {
+                     "title": [
+                            {
+                                   "title": "Song on May Morning",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=song+on+may+morning+by+john+milton"
+                                   "ref": "https://www.google.com/search?q=song+on+may+morning+by+john+milton",
+                                   "level": "a"
                             },
-                            "The Shepheardes Calender": {
+                            {
+                                   "title": "The Shepheardes Calender",
                                    "author": "Edmund Spenser",
-                                   "ref": "https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may"
+                                   "ref": "https://www.gutenberg.org/cache/epub/42607/pg42607-images.html#may",
+                                   "level": "m"
                             },
-                            "Britannia's Pastorals": {
+                            {
+                                   "title": "Britannia's Pastorals",
                                    "author": "William Browne",
-                                   "ref": "https://books.google.ca/books?id=Gx4TAAAAIAAJ"
+                                   "ref": "https://books.google.ca/books?id=Gx4TAAAAIAAJ",
+                                   "level": "m"
                             },
-                            "Astrophel": {
+                            {
+                                   "title": "Astrophel",
                                    "author": "Edmund Spenser",
-                                   "ref": "https://books.google.ca/books?id=nrLSEAAAQBAJ"
+                                   "ref": "https://books.google.ca/books?id=nrLSEAAAQBAJ",
+                                   "level": "m"
                             },
-                            "Cassamen and Dowsabell": {
+                            {
+                                   "title": "Cassamen and Dowsabell",
                                    "author": "Michael Drayton",
-                                   "ref": "https://books.google.ci/books?id=-F0oSCMT-tMC"
+                                   "editor": "Edmund Kerchever Chambers",
+                                   "ref": "https://books.google.ci/books?id=-F0oSCMT-tMC",
+                                   "level": "a"
                             },
-                            "The Canterbury Tales": {
+                            {
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
+                                   "level": "s"
                             },
-                            "Palamon and Arcite": {
+                            {
+                                   "title": "Palamon and Arcite",
                                    "author": "John Dryden",
-                                   "ref": "https://www.gutenberg.org/files/7490/7490-h/7490-h.htm"
+                                   "ref": "https://www.gutenberg.org/files/7490/7490-h/7490-h.htm",
+                                   "level": "s"
                             },
-                            "The Works of John Dryden": {
-                                   "author": "Sir Walter Scott ",
-                                   "ref": "https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott"
+                            {
+                                   "title": "The Works of John Dryden",
+                                   "author": "Sir Walter Scott",
+                                   "ref": "https://www.google.com/search?q=the+works+of+john+dryden+sir+walter+scott",
+                                   "level": "m"
                             },
-                            "L'Allegro": {
+                            {
+                                   "title": "L'Allegro",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton"
+                                   "ref": "https://www.google.com/search?q=L%27Allegro+by+John+Milton",
+                                   "level": "a"
                             },
-                            "The Cantebury Tales": {
+                            {
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
-                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight"
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
+                                   "level": "s"
                             },
-                            "L'Arcadia di messer": {
+                            {
+                                   "title": "The Cantebury Tales",
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
+                                   "level": "s"
+                            },
+                            {
+                                   "title": "Palamon and Arcite",
+                                   "author": "John Dryden",
+                                   "ref": "https://www.gutenberg.org/files/7490/7490-h/7490-h.htm",
+                                   "level": "s"
+                            },
+                            {
+                                   "title": "The Canterbury Tales",
+                                   "author": "Geoffrey Chaucer",
+                                   "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm",
+                                   "level": "s"
+                            },
+                            {
+                                   "title": "L'Arcadia di messer",
                                    "author": "Jacopo Sannazzaro",
-                                   "ref": "https://books.google.ca/books?id=PMEsAAAAMAAJ"
+                                   "ref": "https://books.google.ca/books?id=PMEsAAAAMAAJ",
+                                   "level": "m"
                             },
-                            "Paradise Lost": {}
-                     }
+                            {
+                                   "title": "Paradise Lost",
+                                   "author": "John Milton",
+                                   "ref": "https://www.gutenberg.org/ebooks/26",
+                                   "level": "m"
+                            }
+                     ]
               },
               "persons": {
                      "real": {
@@ -2988,7 +4154,6 @@
                             "Matteo Maria Boiardo": "https://dbpedia.org/resource/Matteo_Maria_Boiardo",
                             "Ludovico Ariosto": "https://dbpedia.org/resource/Ludovico_Ariosto",
                             "Sir Walter Scott": "#SirWalter",
-                            "Jacopo Sannazzaro": "https://dbpedia.org/resource/Jacopo_Sannazaro",
                             "Scipio Africanus": "https://dbpedia.org/resource/Scipio_Africanus",
                             "Gaius Laelius": "https://dbpedia.org/resource/Gaius_Laelius",
                             "Epaminondas": "https://dbpedia.org/resource/Epaminondas",
@@ -3040,18 +4205,26 @@
                      "1895": "1895"
               }
        },
-       "outputNER/theIndicator39.xml": {
+       "OutputNER/theIndicator39.xml": {
               "title": [
-                     "Sonnet 12",
-                     "the Guardian"
+                     {
+                            "title": "Sonnet 12",
+                            "level": "a"
+                     },
+                     {
+                            "title": "the Guardian",
+                            "level": "j"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Sonnet 12": {
+                     "title": [
+                            {
+                                   "title": "Sonnet 12",
                                    "author": "John Milton",
-                                   "ref": "https://www.google.com/search?q=miltons+sonnet+XII"
+                                   "ref": "https://www.google.com/search?q=miltons+sonnet+XII",
+                                   "level": "a"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -3064,14 +4237,13 @@
                             "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
                             "James VI and I": "http://www.wikidata.org/entity/Q79972",
                             "Matthew Hale": "http://www.wikidata.org/entity/Q130059",
-                            "Robert Boyle": "http://www.wikidata.org/entity/Q43393",
+                            "Robert Boyle": "#robertBoyle",
                             "Joseph Appleyard": "Joseph Appleyard"
                      },
                      "fictional": {
-                            "Galgano": "Galgano",
-                            "Minoccia": "Minoccia",
+                            "Galgano": "#galgano",
+                            "Minoccia": "#minoccia",
                             "Signor Stricca": "Signor Stricca",
-                            "Galagano": "Galagano",
                             "Latona": "Latona"
                      }
               },
@@ -3100,19 +4272,32 @@
                      "1820-07-05": " —WEDNESDAY, JULY 5th, 1820"
               }
        },
-       "outputNER/theIndicator40.xml": {
+       "OutputNER/theIndicator40.xml": {
               "title": [
-                     "Noctes Atticae",
-                     "Il Canzoniere"
+                     {
+                            "title": "Noctes Atticae",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Il Canzoniere",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Noctes Atticæ": {},
-                            "Il Canzoniere": {
+                     "title": [
+                            {
+                                   "title": "Noctes Atticæ",
+                                   "author": "Aulus Gellius",
+                                   "ref": "https://www.worldcat.org/fr/search?q=Noctes+Atticæ",
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Il Canzoniere",
                                    "author": "Francesco Petrarch",
-                                   "ref": "https://en.wikipedia.org/wiki/Il_Canzoniere"
+                                   "ref": "https://www.google.com/search?q=il+canzoniere",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
@@ -3173,29 +4358,48 @@
                      "1820-07-12": " —WEDNESDAY, July 12th, 1820"
               }
        },
-       "outputNER/theIndicator41.xml": {
+       "OutputNER/theIndicator41.xml": {
               "title": [
-                     "Tatler",
-                     "Spectator",
-                     "Tale for a Chimney Corner",
-                     "Indicator",
-                     "George Barnwell",
-                     "the Fatal Marriage",
-                     "Manuscript",
-                     "An Account of the Death of the Cenci Family.",
-                     "MS"
+                     {
+                            "title": "Tatler",
+                            "level": "j"
+                     },
+                     {
+                            "title": "Spectator",
+                            "level": "j"
+                     },
+                     {
+                            "title": "Tale for a Chimney Corner",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The London Merchant (Or The History Of George Barnwell)",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Fatal Marriage",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Manuscript",
+                            "level": "m"
+                     },
+                     {
+                            "title": "An Account of the Death of the Cenci Family",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {}
+                     "title": []
               },
               "persons": {
                      "real": {
                             "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
                             "the Cenci": "the Cenci",
-                            "Francesco Cenci": "Francesco Cenci",
-                            "Pope Pius V": "Pope Pius V",
+                            "Francesco Cenci": "#cenci",
+                            "Pope Pius V": "#pope",
                             "Lucrezia Petroni": "Lucrezia Petroni",
-                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Percy Bysshe Shelley": "https://dbpedia.org/page/Percy_Bysshe_Shelley",
                             "Rocco Cenci": "Rocco Cenci",
                             "Cristofero Cenci": "Cristofero Cenci",
                             "Beatrice Cenci": "Beatrice Cenci",
@@ -3272,22 +4476,25 @@
                      "1599-05-11": "Saturday, the 11th of May 1599"
               }
        },
-       "outputNER/theIndicator42.xml": {
+       "OutputNER/theIndicator42.xml": {
               "title": [
-                     "Manuscript"
+                     {
+                            "title": "Manuscript",
+                            "level": "m"
+                     }
               ],
               "bibl": {
-                     "title": {}
+                     "title": []
               },
               "persons": {
                      "real": {
                             "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
                             "Beatrice Cenci": "Beatrice Cenci",
-                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Percy Bysshe Shelley": "https://dbpedia.org/page/Percy_Bysshe_Shelley",
                             "Francesco Cenci": "Francesco Cenci",
-                            "Baruch Spinoza": "Baruch Spinoza",
-                            "Giordano Bruno": "Giordano Bruno",
-                            "Guido Reni": "Guido Reni",
+                            "Baruch Spinoza": "https://dbpedia.org/page/Baruch_Spinoza",
+                            "Giordano Bruno": "https://dbpedia.org/page/Giordano_Bruno",
+                            "Guido Reni": "https://dbpedia.org/page/Guido_Reni",
                             "Joseph Appleyard": "Joseph Appleyard"
                      },
                      "fictional": {
@@ -3326,38 +4533,65 @@
                      "1820-07-26": " —WEDNESDAY, JULY 26th, 1820."
               }
        },
-       "outputNER/theIndicator43.xml": {
+       "OutputNER/theIndicator43.xml": {
               "title": [
-                     "Lamia",
-                     "The Pot of Basil",
-                     "The Eve of St. Agnes",
-                     "Anatomy of Melancholy",
-                     "De Vita Apollonii",
-                     "Pot of Basil",
-                     "Sicilian Story",
-                     "Ode to Psyche"
+                     {
+                            "title": "Lamia",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Isabella, or the Pot of Basil",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Eve of St. Agnes",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Anatomy of Melancholy",
+                            "level": "m"
+                     },
+                     {
+                            "title": "De Vita Apollonii",
+                            "level": "s"
+                     },
+                     {
+                            "title": "The Anatomy of Melancholy",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Sicilian Story",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Ode to Psyche",
+                            "level": "a"
+                     }
               ],
               "bibl": {
-                     "title": {
-                            "Anatomy of Melancholy": {
-                                   "ref": "https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"
+                     "title": [
+                            {
+                                   "title": "The Anatomy of Melancholy",
+                                   "author": "Robert Burton",
+                                   "ref": "https://www.gutenberg.org/files/10800/10800-h/10800-h.htm",
+                                   "level": "m"
                             }
-                     }
+                     ]
               },
               "persons": {
                      "real": {
                             "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
-                            "John Keats": "John Keats",
-                            "Robert Burton": "Robert Burton",
+                            "John Keats": "https://dbpedia.org/page/John_Keats",
+                            "Robert Burton": "https://dbpedia.org/page/Robert_Burton",
                             "Lucius Flavius Philostratus": "Lucius Flavius Philostratus",
                             "Menippus of Lycia": "Menippus of Lycia",
                             "Apollonius of Tyana": "Apollonius of Tyana",
-                            "Homer ": "Homer ",
-                            "Giovanni Boccaccio": "Giovanni Boccaccio",
-                            "Bryan Waller Procte": "Bryan Waller Procte",
-                            "Giambattista Marino": "Giambattista Marino",
-                            "Abraham Cowley": "Abraham Cowley",
-                            "Agnes of Rome": "Agnes of Rome",
+                            "Homer": "Homer",
+                            "Giovanni Boccaccio": "https://dbpedia.org/page/Giovanni_Boccaccio",
+                            "Bryan Waller Procte": "https://dbpedia.org/page/Bryan_Procter",
+                            "Giambattista Marino": "https://dbpedia.org/page/Giambattista_Marino",
+                            "Abraham Cowley": "https://dbpedia.org/page/Abraham_Cowley",
+                            "Agnes of Rome": "https://dbpedia.org/page/Agnes_of_Rome",
                             "Joseph Appleyard": "Joseph Appleyard"
                      },
                      "fictional": {
@@ -3391,7 +4625,7 @@
                             "type": "physical",
                             "country": "Italy"
                      },
-                     "Appenine": {
+                     "Apennine Mountains": {
                             "type": "physical",
                             "country": "Italy"
                      },
@@ -3411,48 +4645,82 @@
                      "1820-08-02": " —WEDNESDAY, AUGUST 2d, 1820"
               }
        },
-       "outputNER/theIndicator44.xml": {
+       "OutputNER/theIndicator44.xml": {
               "title": [
-                     "Lamia",
-                     "The Pot of Basil",
-                     "The Eve of St. Agnes",
-                     "Ode to a Nightingale",
-                     "Lycidas",
-                     "Hyperion",
-                     "Paradise Lost",
-                     "Endymion",
-                     "Examiner",
-                     "Indicator"
+                     {
+                            "title": "Lamia",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Isabella, or the Pot of Basil",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Eve of St. Agnes",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Ode to a Nightingale",
+                            "level": "a"
+                     },
+                     {
+                            "title": "Lycidas",
+                            "level": "a"
+                     },
+                     {
+                            "title": "The Hyperion",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Paradise Lost",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Endymion",
+                            "level": "m"
+                     },
+                     {
+                            "title": "Hyperion",
+                            "level": "m"
+                     },
+                     {
+                            "title": "The Examiner",
+                            "level": "j"
+                     },
+                     {
+                            "title": "The Indicator",
+                            "level": "j"
+                     }
               ],
               "bibl": {
-                     "title": {}
+                     "title": []
               },
               "persons": {
                      "real": {
                             "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
-                            "John Keats": "John Keats",
-                            "John Milton": "John Milton",
-                            "Edward King": "Edward King",
-                            "Samuel Johnson": "Samuel Johnson",
-                            "Ruth the Moabite": "Ruth the Moabite",
-                            "Alexander Pope": "Alexander Pope",
-                            "Giambattista Marino": "Giambattista Marino",
-                            "George Chapman": "George Chapman",
+                            "John Keats": "https://dbpedia.org/page/John_Keats",
+                            "John Milton": "https://dbpedia.org/page/John_Milton",
+                            "Edward King": "https://dbpedia.org/page/Edward_King_(antiquarian)",
+                            "Samuel Johnson": "https://dbpedia.org/page/Samuel_Johnson",
+                            "Tellus of Athens": "https://dbpedia.org/page/Tellus_of_Athens",
+                            "Alexander Pope": "https://dbpedia.org/page/Alexander_Pope",
+                            "Giambattista Marino": "https://dbpedia.org/page/Giambattista_Marino",
+                            "George Chapman": "https://dbpedia.org/page/George_Chapman",
                             "Joseph Appleyard": "Joseph Appleyard"
                      },
                      "fictional": {
-                            "Bacchus": "Bacchus",
-                            "Saturn": "Saturn",
-                            "Achilles": "Achilles",
-                            "Ixion": "Ixion",
-                            "Clymene": "Clymene",
-                            "Oceanus": "Oceanus",
-                            "Hyperion": "Hyperion",
+                            "Bacchus": "https://dbpedia.org/page/Dionysus",
+                            "Ruth the Moabite": "https://dbpedia.org/page/Ruth_(biblical_figure)",
+                            "Saturn": "https://dbpedia.org/page/Saturn_(mythology)",
+                            "Achilles": "https://dbpedia.org/page/Achilles",
+                            "Ixion": "https://dbpedia.org/page/Ixion",
+                            "Clymene": "https://dbpedia.org/page/Clymene_(mythology)",
+                            "Oceanus": "https://dbpedia.org/page/Oceanus",
+                            "Hyperion": "https://dbpedia.org/page/Hyperion_(Titan)",
                             "Thea": "Thea",
-                            "Tellus": "Tellus",
-                            "Jove": "Jove",
-                            "Apollo": "Apollo",
-                            "Mnemosyne": "Mnemosyne"
+                            "Jupiter": "https://dbpedia.org/page/Jupiter_(mythology)",
+                            "Apollo": "https://dbpedia.org/page/Apollo",
+                            "Mnemosyne": "https://dbpedia.org/page/Mnemosyne"
                      }
               },
               "places": {

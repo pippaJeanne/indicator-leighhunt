@@ -2926,8 +2926,7 @@ on the service of <persName key="Venus (mythology)" ref="http://dbpedia.org/reso
 of the other sex; and <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)">Cephalus</persName>, partly out of curiosity, partly out of
 vanity, partly out of self-interest, and not a little out of an interest
 of a better sort, contrived to discover, that it would be made, with
-no prodigious unwillingness, to himself. <q type="spoken">Lailaps,</q> said he. The
-dog started towards him, as if he knew his future master. The lady
+no prodigious unwillingness, to himself. <q type="spoken">Lailaps,</q> said he. The dog started towards him, as if he knew his future master. The lady
 gave a gentle laugh, and seemed much happier. The supper, that
 evening, was upon a much easier footing than the luncheon. The
 next morning, on waking, <persName type="fictional" key="Cephalus (son of Deione/Deioneus)" ref="http://dbpedia.org/resource/Cephalus_(son_of_Deione/Deioneus)">Cephalus</persName>, saw the face of <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName> hanging
@@ -2937,15 +2936,12 @@ so. <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Pr
 then burst into tears; then declared herself happy and forgiving, as
 well as forgiven; and neither of them ever passed a happier day in
 their lives. </p>
-<p><persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName>'s account of herself was partly true. Our informant<note type="hunt">
-<bibl>
+<p><persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName>'s account of herself was partly true. Our informant<note type="hunt"><bibl>Hyginus Fabularum Liber. Cap. 189.</bibl></note> <note type="source"><bibl>
 <author>Gaius Julius Hyginus</author>,
-<title>Fabularum Liber,</title>
-<biblScope>Capitulum 189</biblScope>.
-</bibl>
-</note> does
-not account for a proceeding which certainly requires some explanation;
-but she had really gone to the haunts of <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional" xml:id="Diana">Diana</persName>, whose reception
+<title level="m">Fabularum Liber,</title>
+<biblScope unit="chapter">Capitulum 189</biblScope>.
+</bibl><ref target="https://www.google.com/search?q=Fabularum+Liber"/>
+</note> does not account for a proceeding which certainly requires some explanation; but she had really gone to the haunts of <persName key="Diana (mythology)" ref="http://dbpedia.org/resource/Diana_(mythology)" type="fictional" xml:id="Diana">Diana</persName>, whose reception
 of her, though a huntress, was what might have been expected.
 She begged her, in very explicit terms, to withdraw. <persName type="fictional" key="Procris" ref="http://dbpedia.org/resource/Procris">Procris</persName>,
 however, though she could obtain no sympathy purely on her
@@ -3020,7 +3016,7 @@ described by <persName key="Ovid" ref="http://dbpedia.org/resource/Ovid" type="r
 <l rend="indent">Tot generum frondes, herbaque summa tremunt. </l>
 <note type="source">
 <bibl>
-<author>Ovid</author>, <title>Ars Amatoria</title><biblScope>Liber III</biblScope>, <biblScope cert="high" unit="line" xml:space="default">lines 687-94</biblScope>.
+<author>Ovid</author>, <title level="m">Ars Amatoria</title><biblScope unit="volume">Liber III</biblScope>, <biblScope cert="high" unit="line">lines 687-94</biblScope>.
 </bibl>
 </note>
 </lg>

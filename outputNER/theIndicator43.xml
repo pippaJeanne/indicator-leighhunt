@@ -214,34 +214,34 @@
                     <head type="catalogue">No. XLIII.<date when="1820-08-02"> —WEDNESDAY, AUGUST 2d, 1820</date>.</head>
                 </div2>
                 <div2 type="section" n="1"> <!-- Header and content -->
-                    <head type="header" rend="center uppercase">The Stories of <title>Lamia</title>, <title>The Pot of Basil</title>, <title>The Eve of St. Agnes</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> as Told by <persName key="John Keats" type="real" ref="http://www.wikidata.org/entity/Q82083">Mr. Keats</persName>.</head>
+                    <head type="header" rend="center uppercase">The Stories of <title key="Lamia" level="a" ref="https://dbpedia.org/page/Lamia_(poem)">Lamia</title>, <title key="Isabella, or the Pot of Basil" level="a" ref="https://dbpedia.org/page/Isabella,_or_the_Pot_of_Basil">Pot of Basil</title>, <title key="The Eve of St. Agnes" level="a" ref="https://dbpedia.org/page/The_Eve_of_St._Agnes">The Eve of St. Agnes</title>, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice> as Told by <persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName>.</head>
 <p>
 In laying before our readers an account of another new publication, 
 it is fortunate that the nature of the work again falls in with the character of our miscellany; part of the object of which is to relate the stories of old times. We shall therefore abridge into prose the stories 
-which <persName key="John Keats" type="real">Mr. Keats</persName> has told in poetry, only making up for it, as we go, by cutting some of the richest passages out of his verse, and fitting them 
+which <persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName> has told in poetry, only making up for it, as we go, by cutting some of the richest passages out of his verse, and fitting them 
 in to our plainer narrative. They are such as would leaven a much 
 greater lump. Their drops are rich and vital, the essence of a heap 
 of fertile thoughts.</p> 
 
 <p>The first story, entitled Lamia, was suggested to our author by a 
-passage in <persName type="real" key="Robert Burton">Burton</persName>'s <title>Anatomy of Melancholy</title>, which he has extracted 
+passage in <persName type="real" key="Robert Burton" ref="https://dbpedia.org/page/Robert_Burton">Burton</persName>'s <title key="Anatomy of Melancholy" level="m" ref="https://dbpedia.org/page/The_Anatomy_of_Melancholy">Anatomy of Melancholy</title>, which he has extracted 
 at the end of it. We will extract it here, at the beginning, that the 
-readers may see how he has enriched it. <persName type="real" key="Robert Burton">Burton</persName>'s relation is itself an improvement on the account in <persName type="real" key="Lucius Flavius Philostratus">Philostratus</persName>. The old book-fighter with melancholy thoughts is speaking of the seductions of phantasmata.</p>
+readers may see how he has enriched it. <persName type="real" key="Robert Burton" ref="https://dbpedia.org/page/Robert_Burton">Burton</persName>'s relation is itself an improvement on the account in <persName type="real" key="Lucius Flavius Philostratus">Philostratus</persName>. The old book-fighter with melancholy thoughts is speaking of the seductions of phantasmata.</p>
 
 <p>
 <cit><quote><p>
-"<persName type="real" key="Lucius Flavius Philostratus">Philostratus</persName>, in his fourth book '<title>De Vita Apollonii</title>,' hath a memorable instance in this kind, which I may not omit, of one <persName type="real" key="Menippus of Lycia" xml:id="lycius">Menippus Lycius</persName>, a young man , twenty-five years of age, that going <choice><orig>betwixt</orig><reg>between</reg></choice> 
-<placeName type="city" corresp="Greece" key="Kechries">Cenchreas</placeName> and <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>, met such a phantasm in the habit of a fair gentlewoman, which taking him by the hand, carried him home to her 
-house, in the suburbs of <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>, and told him she was a Phœnician by birth, and if he would tarry with her, he should hear her sing and 
+"<persName type="real" key="Lucius Flavius Philostratus">Philostratus</persName>, in his fourth book '<title key="De Vita Apollonii" level="s" ref="https://dbpedia.org/page/Life_of_Apollonius_of_Tyana">De Vita Apollonii</title>,' hath a memorable instance in this kind, which I may not omit, of one <persName type="real" key="Menippus of Lycia" xml:id="lycius">Menippus Lycius</persName>, a young man , twenty-five years of age, that going <choice><orig>betwixt</orig><reg>between</reg></choice> 
+<placeName type="city" corresp="Greece" key="Kechries" ref="https://www.wikidata.org/wiki/Q1738703">Cenchreas</placeName> and <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>, met such a phantasm in the habit of a fair gentlewoman, which taking him by the hand, carried him home to her 
+house, in the suburbs of <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>, and told him she was a Phœnician by birth, and if he would tarry with her, he should hear her sing and 
 play, and dtink such wine as never any drank, and no man should 
 molest him; but she, being fair and lovely, would live and die with 
 him, that was fair and lovely to behold. The young man, a philosopher, otherwise staid and discreet, able to moderate his passions, though not this of love, tarried with her awhile to his great content, 
 and at last married her, to whose wedding, amongst other guests, came 
 <persName type="real" key="Apollonius of Tyana">Apollonius</persName>; who, by some probable conjectures, found her out to be 
-a serpent, a lamia; and that all her furniture was, like <persName key="Tantalus" type="fictional">Tantalus</persName>' gold, described by <persName type="real" key="Homer ">Homer </persName>, no substance but mere illusions. When she saw herself descried, she wept, and desired <persName type="real" key="Apollonius of Tyana">Apollonius</persName> to be silent, but he would not be moved, and therefore she, plate, house, and all that was 
+a serpent, a lamia; and that all her furniture was, like <persName key="Tantalus" type="fictional">Tantalus</persName>' gold, described by <persName type="real" key="Homer">Homer</persName>, no substance but mere illusions. When she saw herself descried, she wept, and desired <persName type="real" key="Apollonius of Tyana">Apollonius</persName> to be silent, but he would not be moved, and therefore she, plate, house, and all that was 
 <pb n="338"/>
 in it, vanished in an instant: many thousands took notice of this fact, 
-for it was done in the midst of <persName key="Greece">Greece</persName>." ––<bibl><title><choice><abbr>Anat. of Mel.</abbr><expan>Anatomy of Melancholy</expan></choice></title> <biblScope>Part 3, Sect. 2.</biblScope><ref target="https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"/></bibl>
+for it was done in the midst of <persName key="Greece">Greece</persName>." ––<bibl>Anat. of Mel. Part 3, Sect. 2.</bibl><note type="source"><bibl><author>Robert Burton</author><title level="m">The Anatomy of Melancholy</title> <biblScope>Part 3, Sect. 2.</biblScope><ref target="https://www.gutenberg.org/files/10800/10800-h/10800-h.htm"/></bibl></note>
 </p> 
 </quote></cit>
 </p>
@@ -312,22 +312,22 @@ solemnity.</p>
 <p>The creature tells him that it was she who had rendered the nymph 
 invisible, in order to preserve her from the importunities of the ruder 
 wood gods. She adds, that she was a woman herself, that she loves a 
-youth of <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName> and wishes tO be a woman again, and that if he will 
+youth of <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName> and wishes tO be a woman again, and that if he will 
 let her breathe upon his eyes, he shall see his invisible beauty. The 
 god sees, loves, and prevails. The serpent undergoes a fierce and 
-convulsive change, and flies towards <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>,</p>
+convulsive change, and flies towards <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>,</p>
 
 <cit><quote><l rend="center">A full-born beauty, new and exquisite.</l></quote></cit>
 
 <p><persName key="Lamia" type="fictional">Lamia</persName>, whose liability to painful metamorphosis was relieved by a 
 supernatural imagination, had been attracted by the beauty of <persName type="real" ref="#lycius">Lycius</persName>, 
-while pitching her mind among the enjoyments of <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>. By the 
+while pitching her mind among the enjoyments of <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>. By the 
 same process, she knew that he was to pass along, that evening, on the 
-road from the sea-side to <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>; and there accordingly she contrives 
+road from the sea-side to <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>; and there accordingly she contrives 
 to have an interview, which ends in his being smitten with love, and 
 conducting her to her pretended home in that city. She represents 
 herself as a rich orphan, living "but half-retired," and affects to won- 
-der that he never saw her before. As they enter <placeName type="region" corresp="Greece" key="Corinth">Corinth</placeName>, they pass 
+der that he never saw her before. As they enter <placeName type="region" corresp="Greece" key="Corinth" ref="https://www.wikidata.org/wiki/Q103011">Corinth</placeName>, they pass 
 the philosopher <persName type="real" key="Apollonius of Tyana">Apollonius</persName>, who is <persName type="real" ref="#lycius">Lycius</persName>'s tutor, and from whom he 
 instinctively conceals his face. <persName key="Lamia" type="fictional">Lamia</persName>'s hand shudders in that of her 
 lover; but she says she is only wearied; and at the same moment, 
@@ -429,8 +429,7 @@ repeated Serpent! and she vanished with a horrible scream. Upon
 the same night, died <persName ref="#lycius">Lycius</persName> and was swathed for the funeral in 
 his wedding-garments.</p>
 
-<p><persName key="John Keats" type="real">Mr. Keats</persName> has departed as much from common-place in the character 
-and moral of this story, as he has in the poetry of it. He would see 
+<p><persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName> has departed as much from common-place in the character and moral of this story, as he has in the poetry of it. He would see 
 fair play to the serpent, and makes the power of the philosopher an ill-natured and disturbing thing. <persName key="Lamia" type="fictional">Lamia</persName> though liable to be turned into
 <pb n="341"/>
 painful shapes had a soul of humanity; and the poet does not see why 
@@ -442,7 +441,7 @@ to give into the common-place of supposing that Apollornius's sophistry
 must always prevail, and that modern experiment has done a deadly 
 thing to poetry by discovering the nature of the rainbow, the air, <choice><orig>&amp;c.</orig><reg>etc.</reg></choice>: that is to say, that the knowledge of natural history and physics, by 
 <choice><orig>shew</orig><reg>show</reg></choice>ing us the nature of things, does away the imaginations that once adorned them. This is a condescension to a learned vulgarism, which 
-so excellent a poet as <persName key="John Keats" type="real">Mr. Keats</persName> ought not to have made. The world 
+so excellent a poet as <persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName> ought not to have made. The world 
 will always have fine poetry, as long as it has events, passions, atfectious, and a philosophy that sees deeper than this philosophy. There will be a poetry of the heart, as long as there are tears and smiles: there will be a poetry of the imagination, as long as the first causes of 
 things remain a mystery. A man who is no poet, may think he is 
 none, as soon as he finds out the physical cause of the rainbow; but 
@@ -457,17 +456,14 @@ could even score the ground, and say to poetry "Thou shalt go no
 further," she would look back to the old world, and still find it inexhaustible. The crops from its fertility are endless. But these alarms are altogether idle. The essence of poetical enjoyment does 
 not consist in belief, but in a voluntary power to imagine.</p>
 
-<p>The next story, that of the <title>Pot of Basil</title>, is from <persName type="real" key="Giovanni Boccaccio">Boccaccio</persName>. After 
-the narrative of that great writer, we must make as short work of it as
-possible in prose. To turn one of his stories into verse, is another 
-thing. It is like setting it to a more elaborate music. <persName key="John Keats" type="real">Mr. Keats</persName> is so 
-struck with admiration of his author, that eyen while giving him this 
+<p>The next story, that of the <title key="Isabella, or the Pot of Basil" level="a" ref="https://dbpedia.org/page/Isabella,_or_the_Pot_of_Basil">Pot of Basil</title>, is from <persName type="real" key="Giovanni Boccaccio" ref="https://dbpedia.org/page/Giovanni_Boccaccio">Boccaccio</persName>. After the narrative of that great writer, we must make as short work of it as possible in prose. To turn one of his stories into verse, is another 
+thing. It is like setting it to a more elaborate music. <persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName> is so struck with admiration of his author, that eyen while giving him this 
 accompaniment, he breaks out into an apology to the great Italian, 
 asking pardon for this</p>
 <cit><quote><l rend="center">— Echo of him in the worth-wind sung.</l></quote></cit>
 
 <p>We might waive a repetition of the narrative altogether, as the public 
-have lately been familiarized with it in the <title>Sicilian Story</title> of <persName type="real" key="Bryan Waller Procte">Mr. Barry Cornwall</persName>: but we cannot help calling to mind that the hero and heroine were two young and happy lovers, who kept their love a secret 
+have lately been familiarized with it in the <title key="Sicilian Story" level="m" ref="https://www.google.com/search?q=Sicilian+Story+by+barry+cornwall">Sicilian Story</title> of <persName type="real" key="Bryan Waller Procte" ref="https://dbpedia.org/page/Bryan_Procter">Mr. Barry Cornwall</persName>: but we cannot help calling to mind that the hero and heroine were two young and happy lovers, who kept their love a secret 
 from her rich brothers; that her brothers, getting knowledge of their 
 intercourse, lured him into a solitary place, and murdered him; that 
 <persName type="fictional" xml:id="isabella">Isabella</persName>, informed of it by a dreary vision of her lover, found out 
@@ -477,7 +473,7 @@ the head from the body that she might cherish even that ghastly memorial
 of him as a relic never to be parted with; that she buried the 
 head in a pot of earth, and, planting basil over it, watered the leaves 
 with her continual tears till they grew into wonderful beauty and 
-luxuriance; that her brothers, prying into her fondness for the <title>Pot of Basil</title>, which she carried with her from place to place, contrived to steal it away; that she made such lamentations for it, as induced them to wonder what could be its value, upon which they dug into it, and discovered the head; that the amazement of that discovery struck back upon their hearts, so that after burying the head secretly, they left their native place, and went to live in another city; and that <persName key="Isabella" type="fictional">Isabella</persName> continued to cry and moan for her <title>Pot of Basil</title>, which she had 
+luxuriance; that her brothers, prying into her fondness for the <title key="Isabella, or the Pot of Basil" level="a" ref="https://dbpedia.org/page/Isabella,_or_the_Pot_of_Basil">Pot of Basil</title>, which she carried with her from place to place, contrived to steal it away; that she made such lamentations for it, as induced them to wonder what could be its value, upon which they dug into it, and discovered the head; that the amazement of that discovery struck back upon their hearts, so that after burying the head secretly, they left their native place, and went to live in another city; and that <persName key="Isabella" type="fictional">Isabella</persName> continued to cry and moan for her <title key="Isabella, or the Pot of Basil" level="a" ref="https://dbpedia.org/page/Isabella,_or_the_Pot_of_Basil">Pot of Basil</title>, which she had 
 not the power to cease wishing foi; till, under the pressure of that 
 weeping want, she died.</p>
 
@@ -499,14 +495,14 @@ been justly admired;—</p>
 <cit><quote>
 <lg rend="center">
 <l>So be two brothers and their murder'd man</l>
-<l>Rode past fair <placeName type="city" corresp="Italy" key="Florence">Florence</placeName>, to where <placeName type="physical" corresp="Italy" key="Arno">Arno</placeName>'s stream</l>
+<l>Rode past fair <placeName type="city" corresp="Italy" key="Florence" ref="https://www.wikidata.org/wiki/Q2044">Florence</placeName>, to where <placeName type="physical" corresp="Italy" key="Arno" ref="https://www.wikidata.org/wiki/Q115457">Arno</placeName>'s stream</l>
 <l>Gurgles through straitened banks.</l>
 <l rend="right">They passed the water</l>
 <l>Into a forest quiet for the slaughter.</l>
 </lg>
 </quote></cit>
 
-<p>When <persName key="John Keats" type="real">Mr. Keats</persName> errs in his poetry, it is from the ill management of a good thing, — exuberance of ideas. Once or twice, he does so in a taste positively bad, like <persName type="real" key="Giambattista Marino">Marino</persName> or <persName type="real" key="Abraham Cowley">Cowley</persName>, as in a line in his <title>Ode to Psyche</title>
+<p>When <persName key="John Keats" type="real" ref="https://dbpedia.org/page/John_Keats">Mr. Keats</persName> errs in his poetry, it is from the ill management of a good thing, — exuberance of ideas. Once or twice, he does so in a taste positively bad, like <persName type="real" key="Giambattista Marino" ref="https://dbpedia.org/page/Giambattista_Marino">Marino</persName> or <persName type="real" key="Abraham Cowley" ref="https://dbpedia.org/page/Abraham_Cowley">Cowley</persName>, as in a line in his <title key="Ode to Psyche" level="a" ref="https://dbpedia.org/page/Ode_to_Psyche">Ode to Psyche</title>
 <cit><quote>
 <l>At tender eye-dawn of aurorean love;</l>
 </quote></cit>
@@ -516,7 +512,7 @@ in which he <choice><orig>over-informs</orig><reg>overinforms</reg></choice> the
 <cit><quote>
 <lg rend="center">
 <l>"To day we purpose, ay, this hour we mount</l>
-<l>To spur three leagues towards the <placeName type="physical" corresp="Italy" key="Appenine">Apennine</placeName>:</l>
+<l>To spur three leagues towards the <placeName type="physical" corresp="Italy" key="Apennine Mountains" ref="https://www.wikidata.org/wiki/Q1285">Apennine</placeName>:</l>
 <l>Come down, wo pray thee, ere tlie hot aun count</l>
 <l>His dewy rosary on the eglantine."</l>
 </lg>
@@ -557,7 +553,7 @@ in which he <choice><orig>over-informs</orig><reg>overinforms</reg></choice> the
 </lg>
 </lg>
 </quote></cit>
-<p>It is curious to see how the simple pathos of <persName type="real" key="Giovanni Boccaccio">Boccaccio</persName>, or (which 
+<p>It is curious to see how the simple pathos of <persName type="real" key="Giovanni Boccaccio" ref="https://dbpedia.org/page/Giovanni_Boccaccio">Boccaccio</persName>, or (which 
 is the same thing) the simple intensity of the heroine's feelings, suffices 
 our author more and more, as he gets to the end of his story. And he 
 has related it as happily, as if he had never written any poetry but 
@@ -585,7 +581,7 @@ his imagination depart,</p>
 <lg xml:id="stanza03">
 <l>And so she pined, and so she died forlorn,</l>
 <l>Imploring for her <persName key="Basil" type="fictional">Basil</persName> to the last.</l>
-<l>No heart was there in <placeName type="city" corresp="Italy" key="Florence">Florence</placeName> but did mourn</l>
+<l>No heart was there in <placeName type="city" corresp="Italy" key="Florence" ref="https://www.wikidata.org/wiki/Q2044">Florence</placeName> but did mourn</l>
 <l>In pity of her love, so overcast.</l>
 <l>And a sad ditty of this story born</l>
 <l>From month to month through all the country pass'd:</l>
@@ -594,7 +590,7 @@ his imagination depart,</p>
 </lg>
 </lg>
 </quote></cit>
-<p><title>The Eve of St. Agnes</title>, which is rather a picture than a story, may 
+<p><title key="The Eve of St. Agnes" level="a" ref="https://dbpedia.org/page/The_Eve_of_St._Agnes">The Eve of St. Agnes</title>, which is rather a picture than a story, may 
 be analysed in a few words. It is an account of a young beauty, who 
 going to bed on the eve in question to dream of her lover, while her 
 rich kinsmen, the opposers of his love, are keeping holday in the rest 
@@ -645,7 +641,7 @@ them into so many ministrants to her loveliness.
 <l>Her rich attire creeps rustling to her knees;</l> 
 <l>Half-hidden, like a mermaid in sea-weed,</l>
 <l>Pensive awhile she dreams awake, and sees,</l>
-<l>In fancy, fair <persName type="real" key="Agnes of Rome">Saint Agnes</persName> in her bed,</l> 
+<l>In fancy, fair <persName type="real" key="Agnes of Rome" ref="https://dbpedia.org/page/Agnes_of_Rome">Saint Agnes</persName> in her bed,</l> 
 <l>But dares not look behind, or all the charm is fled.</l>
 </lg>
 <lg xml:id="stanza1-4">

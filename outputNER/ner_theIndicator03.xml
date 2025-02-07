@@ -16253,7 +16253,7 @@ thousand virgins have vanished with their credibility; and a real
 noble-hearted woman of flesh and blood is <placeName type="city" key="Coventry" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q6225">Coventry</placeName>'s true immortality.</p>
 
 <p>The story of <persName key="Lady Godiva" ref="http://dbpedia.org/resource/Lady_Godiva" type="real" cert="high">Godiva</persName> is not a fiction, as many suppose it. At least  
-it is to be found in <persName key="Matthew Paris" ref="http://www.wikidata.org/entity/Q369366" cert="high" type="real" xml:id="mathew_paris">Matthew of Westminster</persName><note type="editorial">It is making reference to <title level="s" ref="https://en.wikipedia.org/wiki/Flores_Historiarum">Flores Historiarum</title> (Flowers of History), a series of two related Latin chronicles written in the 13th century by medieval English historians. The second of which, originally written at <placeName key="St Albans Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q17645367">St Albans Abbey</placeName> and later at <placeName key="Westminster Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5933">Westminster Abbey</placeName>, was for a long time attributed to a Matthew of Westminster. <persName key="Henry Richards Luard" type="real" cert="high" ref="http://www.wikidata.org/entity/Q2373372">Henry Richards Luard</persName> demonstrated in the late 19th century that he was actually <persName key="Matthew Paris" type="real" cert="high" ref="#matthew_paris">Matthew Paris</persName>. Source : <bibl><title level="a">Flores Historiarum</title>. 2024. <ref>In Wikipedia. https://en.wikipedia.org/wiki/Flores_Historiarum</ref></bibl>.
+it is to be found in <persName key="Matthew Paris" ref="http://www.wikidata.org/entity/Q369366" cert="high" type="real" xml:id="mathew_paris">Matthew of Westminster</persName><note type="editorial">It is making reference to <title key="Flores Historiarum" level="s" ref="https://en.wikipedia.org/wiki/Flores_Historiarum">Flores Historiarum</title> (Flowers of History), a series of two related Latin chronicles written in the 13th century by medieval English historians. The second of which, originally written at <placeName key="St Albans Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q17645367">St Albans Abbey</placeName> and later at <placeName key="Westminster Abbey" type="building" corresp="England" cert="high" ref="http://www.wikidata.org/entity/Q5933">Westminster Abbey</placeName>, was for a long time attributed to a Matthew of Westminster. <persName key="Henry Richards Luard" type="real" cert="high" ref="http://www.wikidata.org/entity/Q2373372">Henry Richards Luard</persName> demonstrated in the late 19th century that he was actually <persName key="Matthew Paris" type="real" cert="high" ref="#matthew_paris">Matthew Paris</persName>. Source : Flores Historiarum. 2024. In Wikipedia. https://en.wikipedia.org/wiki/Flores_Historiarum.
 </note>, and is not of a nature  
 to have been a mere invention. Her name, and that of her husband,  
 <persName key="Leofric, Earl of Mercia" cert="high" ref="http://dbpedia.org/resource/Leofric,_Earl_of_Mercia" type="real" xml:id="leofric">Leofric</persName>, are mentioned in an old charter recorded by another  
@@ -16488,7 +16488,7 @@ full of jovial wit, says.</p>
 </lg>
 </lg>
 </quote>
-<note type="source"><bibl><title level="a">The Mermaid</title><author>Francis Beaumont</author><ref cert="high"  target="https://www.google.com/search?q=the+mermaid+by+francis+beaumont" /></bibl></note>
+<note type="source"><bibl><title level="a">The Mermaid</title><author>Francis Beaumont</author><ref cert="high"  target="https://www.google.com/search?q=the+mermaid+by+francis+beaumont"/></bibl></note>
 </cit>
 
 <p>The other celebrated report of the great wits of that time, was <placeName cert="high" corresp="England" evidence="internal" full="yes" instant="unknown"  key="The Devil Tavern, Fleet-Street"><placeName type="Pub" key="Devil Tavern" corresp="England" ref="https://en.wikipedia.org/wiki/The_Devil_Tavern">the  
@@ -16515,7 +16515,7 @@ killed, in the body of the person who advised him to do it. And
 here too (a sufficing contrast) lies <persName key="Isabella" cert="high" ref="https://dbpedia.org/resource/Isabella_of_France" type="real" xml:id="isabella_of_france">Isabella</persName>, wife of <persName key="Edward the Second" cert="high" ref="https://dbpedia.org/resource/Edward_II_of_England" type="real">Edward the Second</persName>,</p>
 
 <cit><quote><lg><l><persName key="Isabella of France" cert="high" ref="#isabella_of_france" type="real">She, wolf of <placeName type="country" key="France" corresp="France" cert="high" ref="http://www.wikidata.org/entity/Q142">France</placeName></persName>, with unrelenting fangs. </l>
-<l>Who tore the bowels of her mangled mate. — <persName key="Thomas Gray" ref="https://dbpedia.org/resource/Thomas_Gray" cert="high" type="real">Gray</persName><note cert="high" type="source"><bibl><title>The Curse upon Edward</title><author>Thomas Gray</author><ref cert="high"  target="https://www.google.com/search?q=The+Curse+upon+Edward%2C+by+Thomas+Gray" /></bibl></note>. </l></lg></quote></cit>
+<l>Who tore the bowels of her mangled mate. — <persName key="Thomas Gray" ref="https://dbpedia.org/resource/Thomas_Gray" cert="high" type="real">Gray</persName><note cert="high" type="source"><bibl><title level="a">The Curse upon Edward</title><author>Thomas Gray</author><ref cert="high"  target="https://www.google.com/search?q=The+Curse+upon+Edward%2C+by+Thomas+Gray" /></bibl></note>. </l></lg></quote></cit>
 
 <p>Her <q type="distinct">mate's</q> heart was buried with her, and placed upon her  
 bosom ! a thing that looks like the fantastic incoherence of a dream.  
@@ -16611,7 +16611,7 @@ at the top of the <placeName type="building" key="Royal College of Physicians, L
 
 <pb n="24"/>
 
-pleasant mention of it in <title level="m"><persName key="Samuel Garth" cert="high" ref="http://dbpedia.org/resource/Samuel_Garth" type="real">Garth</persName>'s Dispensary</title>, and of all the wit and 
+pleasant mention of it in <title key="Garth's Dispensary" level="m"><persName key="Samuel Garth" cert="high" ref="http://dbpedia.org/resource/Samuel_Garth" type="real">Garth</persName>'s Dispensary</title>, and of all the wit and 
 generosity of that amiable man : —</p> 
 
 <cit>
@@ -16636,7 +16636,7 @@ to the next generation, by associating his memory with the
 objects in it. We did not miss without regret even the <q type="written">combs</q>  
 that hung <q type="written">dangling in your face</q> at a shop which be describes,  
 and which was standing till the improvements took place. The rest  
-of the picture is still alive. <note type="hunt">(Trivia, Book 3d.)</note> </p> 
+of the picture is still alive. <bibl>(Trivia, Book 3d.)</bibl> </p> 
 
 <cit>
     <quote>
@@ -16660,7 +16660,7 @@ every body will recognize : — </p>
 <l>And swings around his waist his tingling hands. </l></lg>
     </quote>
     <note type="source"> 
-        <bibl><author>John Gay</author><title level="a">Trivia</title> <biblScope>Book 3</biblScope><ref target="https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3"/></bibl>
+        <bibl><author>John Gay</author><title level="a">Trivia</title> <biblScope unit="volume">Book 3</biblScope><ref target="https://en.wikisource.org/wiki/Trivia_(Gay)/Part_3"/></bibl>
     </note>
 </cit>
 

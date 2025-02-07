@@ -5789,7 +5789,7 @@ put lead in his pockets, lest the wind should steal him. </p>
 <p>The more ruffianly crowd of thieves should go first, as pioneers; 
 but they can hardly be looked upon as progenitors of our gentle <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" type="real">Du Vail</persName>; and besides, with all their ferocity, some of them assume a  grandeur, from standing in the remote shadows of antiquity. There was the famous son, for instance, of <persName key="Vulcan (mythology)" ref="http://dbpedia.org/resource/Vulcan_(mythology)" type="fictional">Vulcan</persName> and <persName key="Medusa" ref="http://dbpedia.org/resource/Medusa" type="fictional">Medusa</persName>, whom <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> 
 calls the dire aspect of half-human <persName key="Cacus" ref="http://dbpedia.org/resource/Cacus" type="fictional">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
-dira</hi>. <note type="hunt">(<bibl><title level="m" key="Aeneid" ref="http://dbpedia.org/resource/Aeneid">Æneid</title>, <biblScope>8, v. 194.</biblScope></bibl>)</note> He was the Raw-head-and-bloody- 
+dira</hi>. <bibl>(Æneid, 8, v. 194.)</bibl> He was the Raw-head-and-bloody- 
 bones of ancient fable. He lived in a cave by <placeName type="Physical" key="Aventine Hill" corresp="Italy" ref="http://www.wikidata.org/entity/Q194103">Mount Aventine</placeName>, 
 breathing out fiery smoke, and haunting <placeName type="Road" key="King's Highway" corresp="Jordan" ref="http://www.wikidata.org/entity/Q545941">king Evander's highway</placeName> 
 like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/entity/Q276765">Apollyon</placeName> of <title level="m" key="The Pilgrim's Progress" ref="http://dbpedia.org/resource/The_Pilgrim's_Progress">Pilgrim's Progress</title>. </p>
@@ -5798,7 +5798,7 @@ like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/
 <l>Semperque recenti </l>
 <l>Caede tepebat humus; foribusque adfixa superbis </l>
 <l>Ora virum tristi pendebant pallida trabo. </l></lg></quote>
-<note type="source"><bibl><author>Virgil</author>: <title level="m">Aeneid</title><ref target="https://www.google.com/search?q=Aenid+by+Virgil"/></bibl>
+<note type="source"><bibl><author>Virgil</author> <title level="m">Aeneid</title><ref target="https://www.google.com/search?q=Aenid+by+Virgil"/></bibl>
 </note></cit>
 
 <cit><quote><lg xml:lang="en" type="hunt-translation" xml:id="aeneid-en" rend="center">
@@ -5925,7 +5925,7 @@ guessed. But in the Italian poets, the Circassian prince has only
 fallen into a deep meditation, when <persName key="Brunello (character)" ref="http://dbpedia.org/resource/Brunello_(character)" type="fictional">Brunello</persName> draws away his steed. <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" type="real">Ariosto</persName> appears to have thought this extravagance a hazardous one, 
 though he could not deny himself the pleasure of repeating it 5 for 
 he has made Sacripant blush, when called upon to testify how the 
-horse was stolen from him. <note type="hunt">(<bibl><title key="Orlando Furioso" ref="http://www.wikidata.org/entity/Q48922" level="m">Orlando Furio.</title> <biblScope>c. 27. st. 84</biblScope></bibl>.)</note> </p>
+horse was stolen from him. <bibl>(Orlando Furio. c. 27. st. 84.)</bibl></p>
 
 <p>In the Italian Novels and the old French Tales, are a variety of 
 extremely amusing stories of thieves, till most probably founded on 
@@ -6150,7 +6150,7 @@ and the song is indeed worthy of the performers. It is elemental,
 Platonical; a meeting of divineness with humanity. </p>
 
 <cit><quote>
-<title>LOVE'S PHILOSOPHY.</title>
+<head type="title">LOVE'S PHILOSOPHY.</head>
 <lg xml:lang="en" xml:id="loves-philosophy" rend="center">
 <lg xml:id="verse1">
 <l>The fountains mingle with the river, </l>
