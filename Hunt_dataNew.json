@@ -475,7 +475,7 @@
                      },
                      "Jerusalem": {
                             "type": "city",
-                            "country": "Isreal"
+                            "country": "Israel"
                      },
                      "Palace Zenobio": {
                             "type": "landmark",
@@ -557,7 +557,7 @@
                             "level": "a"
                      },
                      {
-                            "title": "the Tatler",
+                            "title": "The Tatler",
                             "level": "j"
                      },
                      {
@@ -742,7 +742,7 @@
                             "country": "England"
                      },
                      "Globe Theatre": {
-                            "type": "Theatre",
+                            "type": "theatre",
                             "country": "England"
                      },
                      "New Globe Walk": {
@@ -794,7 +794,7 @@
                             "country": "England"
                      },
                      "Aldersgate Street": {
-                            "type": null,
+                            "type": "street",
                             "country": "England"
                      },
                      "Jewin street": {
@@ -849,28 +849,16 @@
                             "type": "region",
                             "country": "England"
                      },
-                     "the Sun and Moon": {
-                            "type": "Pub",
+                     "The Sun and Moon": {
+                            "type": "pub",
                             "country": "England"
-                     },
-                     "Aldersgate-street": {
-                            "type": "street",
-                            "country": null
                      },
                      "The Mermaid": {
-                            "type": "Pub",
-                            "country": "England"
-                     },
-                     "the Mermaid": {
-                            "type": "Pub",
-                            "country": "England"
-                     },
-                     "The Devil Tavern, Fleet-Street": {
-                            "type": null,
+                            "type": "pub",
                             "country": "England"
                      },
                      "Devil Tavern": {
-                            "type": "Pub",
+                            "type": "pub",
                             "country": "England"
                      },
                      "Temple Bar": {
@@ -937,7 +925,7 @@
                             "type": "street",
                             "country": "England"
                      },
-                     "the Strand": {
+                     "The Strand": {
                             "type": "street",
                             "country": "England"
                      },
@@ -1033,10 +1021,6 @@
                             "type": "region",
                             "country": "England"
                      },
-                     "Holland-House, Kensington": {
-                            "type": null,
-                            "country": "England"
-                     },
                      "Holland House": {
                             "type": "building",
                             "country": "England"
@@ -1045,20 +1029,12 @@
                             "type": "region",
                             "country": "England"
                      },
-                     "Brook-street, Grosvenor-square": {
-                            "type": null,
-                            "country": "England"
-                     },
                      "Brook Street": {
-                            "type": "region",
+                            "type": "street",
                             "country": "England"
                      },
                      "Grosvenor Square": {
                             "type": "landmark",
-                            "country": "England"
-                     },
-                     "Bentinck-street, Manchester-square": {
-                            "type": null,
                             "country": "England"
                      },
                      "Bentinck Street": {
@@ -1074,27 +1050,23 @@
                             "country": "England"
                      },
                      "The Boar's Head Tavern": {
-                            "type": "Pub",
+                            "type": "pub",
                             "country": "England"
                      },
                      "Eastcheap": {
                             "type": "street",
                             "country": "England"
                      },
-                     "the Boar's Head Tavern": {
-                            "type": "Pub",
-                            "country": "England"
-                     },
                      "London Tavern": {
-                            "type": "Pub",
+                            "type": "pub",
                             "country": "England"
                      },
                      "Crown and Anchor": {
-                            "type": "Pub",
-                            "country": null
+                            "type": "pub",
+                            "country": "England"
                      },
                      "White's": {
-                            "type": "Pub",
+                            "type": "pub",
                             "country": "England"
                      },
                      "Royal College of Physicians, London": {
@@ -1113,9 +1085,9 @@
                             "type": "region",
                             "country": "England"
                      },
-                     "Labyrinth": {
+                     "Cretan Labyrinth": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Greece"
                      },
                      "Stratford-at-bow Manor": {
                             "type": "building",
@@ -1721,7 +1693,7 @@
                      },
                      "River Lea": {
                             "type": "physical",
-                            "country": "Ireland"
+                            "country": "Republic of Ireland"
                      },
                      "Rome": {
                             "type": "city",
@@ -1928,10 +1900,6 @@
                             "level": "m"
                      },
                      {
-                            "title": "The Cantebury Tales",
-                            "level": "m"
-                     },
-                     {
                             "title": "Paradise Regained",
                             "level": "m"
                      },
@@ -2009,7 +1977,7 @@
                                    "level": "m"
                             },
                             {
-                                   "title": "The Cantebury Tales",
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm",
                                    "level": "m"
@@ -2160,11 +2128,11 @@
                             "country": "China"
                      },
                      "Great Wall of China": {
-                            "type": "Landmark",
+                            "type": "landmark",
                             "country": "China"
                      },
                      "Silk Road": {
-                            "type": "Road",
+                            "type": "road",
                             "country": "India"
                      },
                      "Egypt": {
@@ -2200,7 +2168,7 @@
                             "country": "Turkey"
                      },
                      "Appian Way": {
-                            "type": "Road",
+                            "type": "road",
                             "country": "Italy"
                      },
                      "Emilia": {
@@ -2520,20 +2488,20 @@
               },
               "places": {
                      "Aventine Hill": {
-                            "type": "Physical",
+                            "type": "physical",
                             "country": "Italy"
                      },
                      "King's Highway": {
-                            "type": "Road",
+                            "type": "road",
                             "country": "Jordan"
                      },
                      "Abaddon": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Fictional Place"
                      },
                      "Styx": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Mythological Place"
                      },
                      "Italy": {
                             "type": "country",
@@ -2704,10 +2672,10 @@
                      },
                      "Valhalla": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Asgard"
                      },
                      "Ring of Brodgar": {
-                            "type": "Landmark",
+                            "type": "landmark",
                             "country": "Scotland"
                      },
                      "Scotland": {
@@ -2787,7 +2755,7 @@
                             "country": "Italy"
                      },
                      "The Mermaid Tavern": {
-                            "type": "Pub",
+                            "type": "pub",
                             "country": "England"
                      },
                      "River Fleet": {
@@ -2955,7 +2923,11 @@
                      },
                      {
                             "title": "The Canterbury Tales",
-                            "level": "s"
+                            "level": "m"
+                     },
+                     {
+                            "title": "Les Lusiades",
+                            "level": "m"
                      },
                      {
                             "title": "Aminta",
@@ -2974,13 +2946,19 @@
                                    "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://dbpedia.org/resource/The_Canterbury_Tales",
-                                   "level": "s"
+                                   "level": "m"
                             },
                             {
                                    "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://dbpedia.org/resource/The_Canterbury_Tales",
-                                   "level": "s"
+                                   "level": "m"
+                            },
+                            {
+                                   "title": "Aminta",
+                                   "author": "Torquato Tasso",
+                                   "editor": "Leigh Hunt",
+                                   "level": "m"
                             }
                      ]
               },
@@ -2989,7 +2967,7 @@
                             "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
                             "Geoffrey Chaucer": "http://dbpedia.org/resource/Geoffrey_Chaucer",
                             "Vasco de Gama": "https://dbpedia.org/resource/Vasco_da_Gama",
-                            "Luís de Camões": "http://dbpedia.org/resource/Luís_de_Camões",
+                            "Leigh Hunt": "https://dbpedia.org/page/Leigh_Hunt",
                             "Joseph Appleyard": "Joseph Appleyard"
                      },
                      "fictional": {
@@ -3018,8 +2996,8 @@
                             "type": "country",
                             "country": "England"
                      },
-                     "the Jolly Miller": {
-                            "type": "Pub",
+                     "The Jolly Miller": {
+                            "type": "pub",
                             "country": "England"
                      },
                      "Portsmouth": {
@@ -3036,7 +3014,7 @@
                      },
                      "Paranaboo": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Fictional Place"
                      },
                      "New Zealand": {
                             "type": "country",
@@ -3084,7 +3062,7 @@
                      },
                      "The Island of Love": {
                             "type": "fictional",
-                            "country": null
+                            "country": "Fictional Place"
                      },
                      "No. 19, Catherine-street, Strand": {
                             "type": "address",
@@ -4017,10 +3995,6 @@
                             "level": "a"
                      },
                      {
-                            "title": "The Canterbury Tales",
-                            "level": "s"
-                     },
-                     {
                             "title": "Palamon and Arcite",
                             "level": "s"
                      },
@@ -4031,10 +4005,6 @@
                      {
                             "title": "L'Allegro",
                             "level": "a"
-                     },
-                     {
-                            "title": "The Cantebury Tales",
-                            "level": "s"
                      },
                      {
                             "title": "L'Arcadia di messer",
@@ -4082,7 +4052,7 @@
                                    "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
-                                   "level": "s"
+                                   "level": "m"
                             },
                             {
                                    "title": "Palamon and Arcite",
@@ -4106,13 +4076,13 @@
                                    "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
-                                   "level": "s"
+                                   "level": "m"
                             },
                             {
-                                   "title": "The Cantebury Tales",
+                                   "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm#knight",
-                                   "level": "s"
+                                   "level": "m"
                             },
                             {
                                    "title": "Palamon and Arcite",
@@ -4124,7 +4094,7 @@
                                    "title": "The Canterbury Tales",
                                    "author": "Geoffrey Chaucer",
                                    "ref": "https://www.gutenberg.org/files/22120/22120-h/22120-h.htm",
-                                   "level": "s"
+                                   "level": "m"
                             },
                             {
                                    "title": "L'Arcadia di messer",

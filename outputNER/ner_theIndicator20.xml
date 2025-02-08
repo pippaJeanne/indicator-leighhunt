@@ -2580,7 +2580,7 @@ chorus, which rose sternly through the tempest. <q type="spoken">We carry,</q> s
 they, <q type="spoken">an acceptable present to the Gods. <persName type="fictional" key="Odin" ref="http://dbpedia.org/resource/Odin" xml:id="odin">Odin</persName>, stay thy hand from 
 the slaughter of the obscure. <persName type="fictional" key="Thor" ref="http://dbpedia.org/resource/Thor">Thor</persName>, put down the mallet with which 
 thou beatest, like red hail, on the skulls of thin enemies. Ye other 
-feasters in <placeName type="fictional" key="Valhalla" ref="http://www.wikidata.org/entity/Q177860">Valhalla</placeName>, set down the skulls full of mead, and pledge a health 
+feasters in <placeName type="fictional" key="Valhalla" ref="http://www.wikidata.org/entity/Q177860" corresp="Asgard">Valhalla</placeName>, set down the skulls full of mead, and pledge a health 
 out of a new and noble one to <persName type="fictional" key="Odin" ref="#odin">the King of Gods</persName> and Men, that the 
 twilight of heaven may come late. We bring an acceptable present: 
 we bring <persName type="fictional" key="Ronald of the Perfect Hand" ref="#ronald">the Perfect Hand</persName>.</q> Thus they sang in the boat, 
@@ -2589,7 +2589,7 @@ we bring <persName type="fictional" key="Ronald of the Perfect Hand" ref="#ronal
 
 labouring all the while with the winds and waves, but surer now
 than ever of reaching the shore. And they did so, by the first light 
-of the morning. When they came to <placeName type="Landmark" key="Ring of Brodgar" corresp="Scotland" cert="low" ref="http://www.wikidata.org/entity/Q643631">the circle of sacred stones</placeName>, 
+of the morning. When they came to <placeName type="landmark" key="Ring of Brodgar" corresp="Scotland" cert="low" ref="http://www.wikidata.org/entity/Q643631">the circle of sacred stones</placeName>, 
 from which <placeName type="region" key="Stromness" corresp="Scotland" cert="low" ref="#stromness">the island</placeName> took <choice><orig>it's</orig><reg>its</reg></choice> name, they placed their late conquer- 
 or by the largest, and kindled a fire in the middle. The warm smoke 
 rose thickly against the cold white morning. <q type="spoken">Let me be offered 

@@ -5790,9 +5790,9 @@ put lead in his pockets, lest the wind should steal him. </p>
 but they can hardly be looked upon as progenitors of our gentle <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" type="real">Du Vail</persName>; and besides, with all their ferocity, some of them assume a  grandeur, from standing in the remote shadows of antiquity. There was the famous son, for instance, of <persName key="Vulcan (mythology)" ref="http://dbpedia.org/resource/Vulcan_(mythology)" type="fictional">Vulcan</persName> and <persName key="Medusa" ref="http://dbpedia.org/resource/Medusa" type="fictional">Medusa</persName>, whom <persName key="Virgil" ref="http://dbpedia.org/resource/Virgil" type="real">Virgil</persName> 
 calls the dire aspect of half-human <persName key="Cacus" ref="http://dbpedia.org/resource/Cacus" type="fictional">Cacus</persName> — <hi xml:lang="latin">Semihominis Caci facies 
 dira</hi>. <bibl>(Æneid, 8, v. 194.)</bibl> He was the Raw-head-and-bloody- 
-bones of ancient fable. He lived in a cave by <placeName type="Physical" key="Aventine Hill" corresp="Italy" ref="http://www.wikidata.org/entity/Q194103">Mount Aventine</placeName>, 
-breathing out fiery smoke, and haunting <placeName type="Road" key="King's Highway" corresp="Jordan" ref="http://www.wikidata.org/entity/Q545941">king Evander's highway</placeName> 
-like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/entity/Q276765">Apollyon</placeName> of <title level="m" key="The Pilgrim's Progress" ref="http://dbpedia.org/resource/The_Pilgrim's_Progress">Pilgrim's Progress</title>. </p>
+bones of ancient fable. He lived in a cave by <placeName type="physical" key="Aventine Hill" corresp="Italy" ref="http://www.wikidata.org/entity/Q194103">Mount Aventine</placeName>, 
+breathing out fiery smoke, and haunting <placeName type="road" key="King's Highway" corresp="Jordan" ref="http://www.wikidata.org/entity/Q545941">king Evander's highway</placeName> 
+like the <placeName type="fictional" key="Abaddon" ref="http://www.wikidata.org/entity/Q276765" corresp="Fictional Place">Apollyon</placeName> of <title level="m" key="The Pilgrim's Progress" ref="http://dbpedia.org/resource/The_Pilgrim's_Progress">Pilgrim's Progress</title>. </p>
 
 <cit><quote><lg xml:lang="latin" xml:id="aeneid" rend="center">
 <l>Semperque recenti </l>
@@ -5844,7 +5844,7 @@ to roll a stone up a hill to all eternity, and seeing it always go
 down again, is attributed by some to a characteristic trait, which he 
 could not help playing off upon <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)" type="fictional">Pluto</persName>. It was supposed by the 
 ancients, that a man's ghost would wander in a melancholy manner 
-upon the banks of <placeName type="fictional" key="Styx" ref="http://www.wikidata.org/entity/Q8843276">the Styx</placeName>, as long as his corpse remained without 
+upon the banks of <placeName type="fictional" key="Styx" ref="http://www.wikidata.org/entity/Q8843276" corresp="Mythological Place">the Styx</placeName>, as long as his corpse remained without 
 burial. <persName key="Sisyphus" ref="http://dbpedia.org/resource/Sisyphus" type="fictional">Sisyphus</persName> on his death-bed purposely charged <persName key="Merope">his wife</persName> to 
 leave him unburied; and then begged <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)" type="fictional">Pluto</persName>'s permission to go back to earth, on his parole, merely to punish her for so scandalous, a neglect. Like the lawyer however, who contrived to let his hat fall inside the door of heaven, and got <persName key="Saint Peter" ref="http://dbpedia.org/resource/Saint_Peter" type="real">St. Peter</persName>'s permission to step in 
 for it, <persName key="Sisyphus" ref="http://dbpedia.org/resource/Sisyphus" type="fictional">Sisyphus</persName> would not return; and so when <persName key="Pluto (mythology)" ref="http://dbpedia.org/resource/Pluto_(mythology)" type="fictional">Pluto</persName> had him again, 
@@ -6148,9 +6148,9 @@ mind; has been called a thief, it is not, in all respects,
 inappropriately situated. We may fancy <persName key="Mercury (mythology)" ref="http://dbpedia.org/resource/Mercury_(mythology)" type="fictional">Mercury</persName> playing, and Love singing: —
 and the song is indeed worthy of the performers. It is elemental, 
 Platonical; a meeting of divineness with humanity. </p>
-
-<cit><quote>
+<div3 type="subsection" n="1">
 <head type="title">LOVE'S PHILOSOPHY.</head>
+<cit><quote>
 <lg xml:lang="en" xml:id="loves-philosophy" rend="center">
 <lg xml:id="verse1">
 <l>The fountains mingle with the river, </l>
@@ -6173,6 +6173,7 @@ Platonical; a meeting of divineness with humanity. </p>
 </lg></quote>
 <note type="source"><bibl><author>Percy Bysshe Shelley</author><title level="a">Love's Philosophy</title><ref target="https://www.bartleby.com/lit-hub/the-golden-treasury/106134/"/></bibl></note>
 </cit>
+</div3>
 <signed rend="right">Σ.</signed>
 
 </div2>

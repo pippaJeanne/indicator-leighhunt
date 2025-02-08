@@ -2505,7 +2505,7 @@ and you know they are rather vulgar. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>I'm sure, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, I didn't think so, three years back, when you handed me that frothed glass of porter, with your pretty fingers, on a hot summer's day, under the great elm-tree there, at the door of <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>.</p>
+<p>I'm sure, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, I didn't think so, three years back, when you handed me that frothed glass of porter, with your pretty fingers, on a hot summer's day, under the great elm-tree there, at the door of <placeName type="pub" key="The Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>.</p>
 </sp>
 
 <pb n="178"/>
@@ -2525,7 +2525,7 @@ and you know they are rather vulgar. </p>
 </sp>
 <sp who="#indi">
 <speaker>Indic. </speaker>
-<p>Good. Now there you come round, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, to the true point of politeness. I thought you better bred than you supposed, since I recollected how good-natured you looked at <placeName type="Pub" key="the Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
+<p>Good. Now there you come round, <persName key="Mrs. Jane" type="fictional" cert="low" ref="#lady-m">Mrs. Jane</persName>, to the true point of politeness. I thought you better bred than you supposed, since I recollected how good-natured you looked at <placeName type="pub" key="The Jolly Miller" corresp="England" cert="low">the Jolly Miller</placeName>. </p>
 </sp>
 <sp who="#lady-m">
 <speaker>Lady's M. </speaker>
@@ -2627,7 +2627,7 @@ copper</q> about him. His mother and elder sisters at home doat on all
 he says and does, telling him however that he is a great sea-fellow, 
 and was always wild ever since he was a hop-o'-my-thumb no higher 
 than the window-locker. He tells his mother that she would be a 
-Duchess in <placeName type="fictional" key="Paranaboo">Paranaboo</placeName>; at which the good old portly dame laughs and 
+Duchess in <placeName type="fictional" key="Paranaboo" corresp="Fictional Place">Paranaboo</placeName>; at which the good old portly dame laughs and 
 looks proud. When his sisters complain of his romping, he says that 
 they are only sorry it is not the baker. He frightens them with a 
 mask made after the <placeName type="country" key="New Zealand" corresp="New Zealand" ref="http://www.wikidata.org/entity/Q664">New Zealand</placeName> fashion, and is forgiven for his 
@@ -2732,7 +2732,7 @@ the Britannia or the Lovely Nancy, for a statue in the garden; where
 it stares eternally with red cheeks and round black eyes, as if in
 astonishment at <choice><orig>it's</orig><reg>its</reg></choice> situation. </p>
 
-<p><persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, who wrote his <title key="The Canterbury Tales" level="s" ref="https://dbpedia.org/page/The_Canterbury_Tales">Canterbury Tales</title> about four hundred and 
+<p><persName key="Geoffrey Chaucer" ref="http://dbpedia.org/resource/Geoffrey_Chaucer" type="real">Chaucer</persName>, who wrote his <title key="The Canterbury Tales" level="m" ref="https://dbpedia.org/page/The_Canterbury_Tales">Canterbury Tales</title> about four hundred and 
 thirty years ago, has among his other characters in that work a <persName type="fictional" key="The Shipman">Shipman</persName>, 
 who is exactly of the same cast as the modern sailor,—the same 
 robustness, courage, and rough drawn virtue, doing <choice><orig>it's</orig><reg>its</reg></choice> duty, without 
@@ -2772,7 +2772,7 @@ modern.
 <l>From <placeName type="region" key="Gotland" corresp="Sweden" cert="medium" ref="http://www.wikidata.org/entity/Q1027830">Gothland</placeName> to the <placeName type="region" key="Cape Finisterre" corresp="Spain" cert="medium" ref="http://www.wikidata.org/entity/Q1136198">Cape de Finisterre</placeName>, </l>
 <l>And every creek in <placeName type="country" key="United Kingdom" corresp="Great Britain" ref="http://www.wikidata.org/entity/Q145">Britain</placeName> and in <placeName type="country" key="Spain" corresp="Spain" ref="http://www.wikidata.org/entity/Q29">Spain</placeName>. </l>
 <l>His barge ycleped was the Magdelain.</l> </lg>
-<note type="source"><bibl> <author>Geoffrey Chaucer</author>, <title level="s">The Canterbury Tales</title><ref target="https://dbpedia.org/resource/The_Canterbury_Tales"/>
+<note type="source"><bibl> <author>Geoffrey Chaucer</author>, <title level="m">The Canterbury Tales</title><ref target="https://dbpedia.org/resource/The_Canterbury_Tales"/>
 </bibl>
 </note>
 </quote>
@@ -2789,7 +2789,7 @@ chink them so merry a bell,
 <l>There is but little Latin in my maw.</l> </lg>
 <note type="source">
 <bibl>
-<author>Geoffrey Chaucer</author>, <title level="s">The Canterbury Tales</title>
+<author>Geoffrey Chaucer</author>, <title level="m">The Canterbury Tales</title>
 <ref target="https://dbpedia.org/resource/The_Canterbury_Tales"/></bibl>
 </note>
 </quote>
@@ -2814,9 +2814,7 @@ had not the previous matter turned out shorter in the printing
 than we expected. The transition from a modern seaman to the Golden
 Age seems no very harmonious piece of contrast; yet we might
 quote precedent even for this abruptness, in the arrival of <persName key="Vasco de Gama" ref="https://dbpedia.org/resource/Vasco_da_Gama" type="real">Vasco de
-Gama</persName>'s Sailors at <placeName type="fictional" key="The Island of Love">the Island of Love</placeName> in <persName key="Luís de Camões" ref="http://dbpedia.org/resource/Luís_de_Camões" type="real">Camoens</persName>. One of the stanzas
-has already appeared in this work. A translation of the whole of the
-<title level="m" ref="https://dbpedia.org/resource/Aminta">Aminta</title> by the Editor is now going through the press.] </p>
+Gama</persName>'s Sailors at <placeName type="fictional" key="The Island of Love" corresp="Fictional Place">the Island of Love</placeName> in <title key="Les Lusiades" ref="https://dbpedia.org/page/Os_Lusíadas" level="m">Camoens</title>. One of the stanzas has already appeared in this work. A translation of the whole of the <title key="Aminta" level="m" ref="https://dbpedia.org/resource/Aminta">Aminta</title> by the <persName key="Leigh Hunt" ref="https://dbpedia.org/page/Leigh_Hunt" type="real">Editor</persName> is now going through the press.] </p>
 <lg type="translation-hunt" rend="center" xml:lang="en">
 <lg xml:id="verse1">
 <l>O lovely age of gold! </l>
@@ -2901,6 +2899,7 @@ has already appeared in this work. A translation of the whole of the
 <l>But unto us the light </l>
 <l>Dies once for all; and sleep brings on eternal night. </l>
 </lg></lg>
+<note type="source"><bibl><author>Torquato Tasso</author><title level="m">Aminta</title><editor role="translator">Leigh Hunt</editor></bibl></note>
 </div2>
 <div2 type="colophon"> <!-- Publisher and printer information -->
 <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher, <persName type="real" key="Joseph Appleyard">Joseph Appleyard</persName>.</p>
