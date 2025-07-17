@@ -19,7 +19,7 @@ def undouble(input_file, output_file):
                 #output_file.write('\n')
 
 # Example usage
-input_file = 'raw_double.txt'
-output_file = 'un_double.txt'
+input_file = 'Source/ToProcess.txt'
+output_file = 'Source/ToProcess01.txt'
 undouble(input_file, output_file)
 print("Conversion complete.")
