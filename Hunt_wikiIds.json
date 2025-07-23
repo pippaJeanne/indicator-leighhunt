@@ -1,0 +1,110 @@
+{
+       "outputNER/ner_theIndicator01.xml": {
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Paulus Aemilius": "http://www.wikidata.org/entity/Q7155382",
+                            "Thomas Paine": "http://www.wikidata.org/entity/Q126462",
+                            "Jane Welsh Carlyle": "http://www.wikidata.org/entity/Q6152913",
+                            "Homer": "http://www.wikidata.org/entity/Q6691",
+                            "Alexander Pope": "http://www.wikidata.org/entity/Q164047",
+                            "Horace": "http://www.wikidata.org/entity/Q6197",
+                            "Ludovico Ariosto": "http://www.wikidata.org/entity/Q48900",
+                            "Euripides": "http://www.wikidata.org/entity/Q48305",
+                            "Aeschylus": "http://www.wikidata.org/entity/Q40939",
+                            "Sophocles": "http://www.wikidata.org/entity/Q7235",
+                            "Theocritus": "http://www.wikidata.org/entity/Q219484",
+                            "Petrarch": "http://www.wikidata.org/entity/Q1401",
+                            "William Shakespeare": "http://www.wikidata.org/entity/Q692",
+                            "Abaris the Hyperborean": "http://www.wikidata.org/entity/Q305567",
+                            "Pythagoras": "http://www.wikidata.org/entity/Q10261",
+                            "Jonathan Swift": "http://www.wikidata.org/entity/Q41166",
+                            "Charles Mordaunt, 3rd Earl of Peterborough": "http://www.wikidata.org/entity/Q1065565",
+                            "Cyrus the Great": "http://www.wikidata.org/entity/Q8423",
+                            "Artaxerxes I of Persia": "http://www.wikidata.org/entity/Q189689",
+                            "Xenophon": "http://www.wikidata.org/entity/Q129772",
+                            "Uriel da Costa": "http://www.wikidata.org/entity/Q347893",
+                            "Virgil": "http://www.wikidata.org/entity/Q1398",
+                            "Ovid": "http://www.wikidata.org/entity/Q7198",
+                            "Raphael": "http://www.wikidata.org/entity/Q5597",
+                            "George Frideric Handel": "http://www.wikidata.org/entity/Q7302",
+                            "John Gay": "http://www.wikidata.org/entity/Q321660",
+                            "Anacreon": "http://www.wikidata.org/entity/Q213484"
+                     },
+                     "fictional": {
+                            "Apollo": "http://www.wikidata.org/entity/Q37340",
+                            "Abradatas": "http://dbpedia.org/resource/Abradatas",
+                            "Pantea Arteshbod": "http://www.wikidata.org/entity/Q2049876",
+                            "Polyphemus": "http://www.wikidata.org/entity/Q193567",
+                            "Acis": "http://www.wikidata.org/entity/Q419156",
+                            "Galatea": "http://www.wikidata.org/entity/Q241070",
+                            "Faunus": "http://www.wikidata.org/entity/Q3089703",
+                            "Neptune": "http://www.wikidata.org/entity/Q3954",
+                            "Jupiter": "http://www.wikidata.org/entity/Q4649",
+                            "Minerva": "http://www.wikidata.org/entity/Q126916"
+                     }
+              },
+              "places": {
+                     "Africa": "http://www.wikidata.org/entity/Q15",
+                     "Athens": "http://www.wikidata.org/entity/Q1524",
+                     "Susa": "http://www.wikidata.org/entity/Q180773",
+                     "Amsterdam": "http://www.wikidata.org/entity/Q727",
+                     "Sicily": "http://www.wikidata.org/entity/Q1460",
+                     "Kythira": "http://www.wikidata.org/entity/Q207239",
+                     "19, Catherine-street, Strand": null,
+                     "No. 45, Broad-street, Golden-square, London": null
+              },
+              "org": {}
+       },
+       "outputNER/theIndicator39.xml": {
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Charles Mordaunt, 3rd Earl of Peterborough": "http://www.wikidata.org/entity/Q1065565",
+                            "John Milton": "http://www.wikidata.org/entity/Q79759",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "Alexander VII": "http://www.wikidata.org/entity/Q127254",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
+                            "James VI and I": "http://www.wikidata.org/entity/Q79972",
+                            "Matthew Hale": "http://www.wikidata.org/entity/Q130059",
+                            "Robert Boyle": "http://www.wikidata.org/entity/Q43393"
+                     },
+                     "fictional": {}
+              },
+              "places": {
+                     "Siena": "http://www.wikidata.org/entity/Q2751",
+                     "Italy": "https://www.wikidata.org/wiki/Q38"
+              },
+              "org": {}
+       },
+       "outputNER/theIndicator40.xml": {
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Claudia": "https://www.wikidata.org/wiki/Q1097301",
+                            "Appius Claudius Caecus": "http://www.wikidata.org/entity/Q297783",
+                            "Publius Claudius Pulcher": "http://www.wikidata.org/entity/Q435404",
+                            "Tiberius Gracchus": "http://www.wikidata.org/entity/Q212109",
+                            "Titus Livius": "http://www.wikidata.org/entity/Q2039",
+                            "Aulus Gellius": "http://www.wikidata.org/entity/Q294800",
+                            "James Sheridan Knowles": "http://www.wikidata.org/entity/Q353538",
+                            "Francesco Petrarch": "https://www.wikidata.org/wiki/Q1401",
+                            "Laura de Noves": "https://www.wikidata.org/wiki/Q270227"
+                     },
+                     "fictional": {}
+              },
+              "places": {
+                     "Sicily": "http://www.wikidata.org/entity/Q4951156",
+                     "Vaucluse": "http://www.wikidata.org/entity/Q12792",
+                     "Valchiusa": "http://www.wikidata.org/entity/Q59770834",
+                     "Provence": "http://www.wikidata.org/entity/Q101081",
+                     "Sorgue(river)": "http://www.wikidata.org/entity/Q688959"
+              },
+              "org": {
+                     "aedile": "http://www.wikidata.org/entity/Q205757",
+                     "House of Commons of the United Kingdom": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom",
+                     "Roman censor": "http://dbpedia.org/resource/Roman_censor"
+              }
+       }
+}

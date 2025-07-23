@@ -1,0 +1,805 @@
+[
+       {
+              "name": "William Shakespeare",
+              "abstract": "William Shakespeare (bapt. 26 April 1564 – 23 April 1616) was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\" (or simply \"the Bard\"). His extant works, including collaborations, consist of some 39 plays, 154 sonnets, three long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright. He remains arguably the most influential writer in the English language, and his works continue to be studied and reinterpreted. Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. At age 49 (around 1613), he appears to have retired to Stratford, where he died three years later. Few records of Shakespeare's private life survive; this has stimulated considerable speculation about such matters as his physical appearance, his sexuality, his religious beliefs and whether the works attributed to him were written by others. Shakespeare produced most of his known works between 1589 and 1613. His early plays were primarily comedies and histories and are regarded as some of the best works produced in these genres. He then wrote mainly tragedies until 1608, among them Hamlet, Romeo and Juliet, Othello, King Lear, and Macbeth, all considered to be among the finest works in the English language. In the last phase of his life, he wrote tragicomedies (also known as romances) and collaborated with other playwrights. Many of Shakespeare's plays were published in editions of varying quality and accuracy in his lifetime. However, in 1623, two fellow actors and friends of Shakespeare's, John Heminges and Henry Condell, published a more definitive text known as the First Folio, a posthumous collected edition of Shakespeare's dramatic works that included all but two of his plays. Its Preface was a prescient poem by Ben Jonson that hailed Shakespeare with the now famous epithet: \"not of an age, but for all time\".",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare.jpg?width=300"
+       },
+       {
+              "name": "Edmund Spenser",
+              "desc": "English poet (1552–1599)",
+              "url": "http://www.wikidata.org/entity/Q4352055",
+              "dates": "(1552-01-01 - 1599-01-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Spenser%20oil%20painting.JPG"
+       },
+       {
+              "name": "Thomas Paine",
+              "desc": "American Founding Father, philosopher, and political activist (1737–1809)",
+              "url": "http://www.wikidata.org/entity/Q126462",
+              "dates": "(1737-02-09 - 1809-06-08)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20rev1.jpg"
+       },
+       {
+              "name": "Homer",
+              "desc": "reputed author of the Iliad and the Odyssey",
+              "url": "http://www.wikidata.org/entity/Q6691",
+              "dates": "(-0900-01-01 - -0800-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg"
+       },
+       {
+              "name": "Alexander Pope",
+              "desc": "English poet (1688–1744)",
+              "url": "http://www.wikidata.org/entity/Q164047",
+              "dates": "(1688-05-21 - 1744-05-30)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Pope%20by%20Michael%20Dahl.jpg"
+       },
+       {
+              "name": "Horace",
+              "desc": "Roman lyric poet",
+              "url": "http://www.wikidata.org/entity/Q6197",
+              "dates": "(-0064-12-06 - -0007-11-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quintus%20Horatius%20Flaccus.jpg"
+       },
+       {
+              "name": "Ludovico Ariosto",
+              "desc": "Italian poet",
+              "url": "http://www.wikidata.org/entity/Q48900",
+              "dates": "(1474-09-17 - 1533-07-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariosto.jpg"
+       },
+       {
+              "name": "Euripides",
+              "desc": "Classical Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q48305",
+              "dates": "(-0480-01-01 - -0406-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Euripides%20Pio-Clementino%20Inv302.jpg"
+       },
+       {
+              "name": "Aeschylus",
+              "desc": "ancient Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q40939",
+              "dates": "(-0524-01-01 - -0455-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aeschylusathens.jpg"
+       },
+       {
+              "name": "Sophocles",
+              "desc": "ancient Greek playwright",
+              "url": "http://www.wikidata.org/entity/Q7235",
+              "dates": "(-0495-01-01 - -0405-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny%20Carlsberg%20Glyptothek%20-%20Sophokles.jpg"
+       },
+       {
+              "name": "Theocritus",
+              "desc": "3rd-century BC Greek poet",
+              "url": "http://www.wikidata.org/entity/Q219484",
+              "dates": "(-0400-01-01 - -0259-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theocritus-greek-poet-born-in-syracuse.jpg"
+       },
+       {
+              "name": "Petrarch",
+              "desc": "Italian scholar and poet (1304-1374)",
+              "url": "http://www.wikidata.org/entity/Q1401",
+              "dates": "(1304-07-28 - 1374-07-27)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Petrarca00.jpg"
+       },
+       {
+              "name": "Paulus Aemilius",
+              "desc": "Hebrew scholar",
+              "url": "http://www.wikidata.org/entity/Q7155382",
+              "img": ""
+       },
+       {
+              "name": "Jane Welsh Carlyle",
+              "desc": "Scottish writer",
+              "url": "http://www.wikidata.org/entity/Q6152913",
+              "dates": "(1801-01-14 - 1866-04-21)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Baillie%20Carlyle%20%28n%C3%A9e%20Welsh%29%20by%20Samuel%20Laurence%20detail.jpg"
+       },
+       {
+              "name": "Pythagoras",
+              "desc": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+              "url": "http://www.wikidata.org/entity/Q10261",
+              "dates": "(-0582-01-01 - -0490-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg"
+       },
+       {
+              "name": "Jonathan Swift",
+              "desc": "Anglo-Irish satirist and essayist (1667–1745)",
+              "url": "http://www.wikidata.org/entity/Q41166",
+              "dates": "(1667-11-30 - 1745-10-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Swift%20by%20Charles%20Jervas%20detail.jpg"
+       },
+       {
+              "name": "Cyrus the Great",
+              "desc": "founder of the Achaemenid Empire (559–529 BC)",
+              "url": "http://www.wikidata.org/entity/Q8423",
+              "dates": "(-0599-01-01 - -0529-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
+       },
+       {
+              "name": "Artaxerxes I of Persia",
+              "desc": "The sixth Achaemenid emperor (465–424 BC)",
+              "url": "http://www.wikidata.org/entity/Q189689",
+              "dates": "(-0500-01-01 - -0423-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20of%20Artaxerxes%20I%2C%20from%20his%20tomb%20in%20Naqsh-e%20Rustam.jpg"
+       },
+       {
+              "name": "Xenophon",
+              "desc": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+              "url": "http://www.wikidata.org/entity/Q129772",
+              "dates": "(-0429-01-01 - -0353-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xenophon.jpg"
+       },
+       {
+              "name": "Abaris the Hyperborean",
+              "desc": "semi-legendary Greek physician, magician, and prophet of Apollo",
+              "url": "http://www.wikidata.org/entity/Q305567",
+              "img": ""
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Virgil",
+              "desc": "Roman poet (1st century BC)",
+              "url": "http://www.wikidata.org/entity/Q1398",
+              "dates": "(-0069-10-13 - -0018-09-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta%20di%20Posillipo5%20%28crop%29.jpg"
+       },
+       {
+              "name": "Ovid",
+              "desc": "Roman poet (43 BC – 17/18 AD)",
+              "url": "http://www.wikidata.org/entity/Q7198",
+              "dates": "(-0042-03-18 - 0017-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ovid%20by%20an%20anonymous%20sculptor.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "George Frideric Handel",
+              "desc": "German-British Baroque composer (1685–1759)",
+              "url": "http://www.wikidata.org/entity/Q7302",
+              "dates": "(1685-03-05 - 1759-04-14)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frideric%20Handel%20by%20Balthasar%20Denner.jpg"
+       },
+       {
+              "name": "Uriel da Costa",
+              "desc": "Portuguese philosopher (c.1585-1640)",
+              "url": "http://www.wikidata.org/entity/Q347893",
+              "dates": "(1585-01-01 - 1640-04-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dacosta%20und%20Spinoza.jpg"
+       },
+       {
+              "name": "John Gay",
+              "desc": "English poet and playwright (1685–1732)",
+              "url": "http://www.wikidata.org/entity/Q321660",
+              "dates": "(1685-06-30 - 1732-12-04)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Unknown%20man%2C%20formerly%20known%20as%20John%20Gay.jpg"
+       },
+       {
+              "name": "Abradatas",
+              "abstract": "Abradatas (Greek: Αβραδάτας; fl. 6th century BC) was a king, probably fictional, of Susa, known to us from Xenophon's partly fictional biography of Cyrus the Great, the Cyropaedia. According to it, he was an ally of the Assyrians against Cyrus the Great, while Cyrus was still a vassal to his (also probably fictional) uncle, Cyaxares II. His wife Panthea was taken by Cyrus on the conquest of the Assyrian camp, while Abradatas was absent on a mission to the Bactrians. In consequence of the honorable treatment which his wife received from Cyrus, he was persuaded to join the latter with his forces. He fell in battle, while fighting against the army of Croesus, during the conquest of Lydia in 547 BC. Inconsolable at his loss, Panthea committed suicide, and her example was followed by her three eunuchs. Cyrus had a high mound raised in their honour: on a pillar on the top were inscribed the names of Abradatas and Pantheia in the Syriac characters; and three columns below bore the inscription skēptouchōn (σκηπτούχων) in honour of the eunuchs. The romance of Abradatas and Pantheia forms a significant part of the latter half of the Cyropaedia.",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The_war_chariot_of_Abradates.jpg?width=300"
+       },
+       {
+              "name": "Edmund Spenser",
+              "desc": "English poet (1552–1599)",
+              "url": "http://www.wikidata.org/entity/Q4352055",
+              "dates": "(1552-01-01 - 1599-01-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Spenser%20oil%20painting.JPG"
+       },
+       {
+              "name": "Thomas Paine",
+              "desc": "American Founding Father, philosopher, and political activist (1737–1809)",
+              "url": "http://www.wikidata.org/entity/Q126462",
+              "dates": "(1737-02-09 - 1809-06-08)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20rev1.jpg"
+       },
+       {
+              "name": "Homer",
+              "desc": "reputed author of the Iliad and the Odyssey",
+              "url": "http://www.wikidata.org/entity/Q6691",
+              "dates": "(-0900-01-01 - -0800-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg"
+       },
+       {
+              "name": "Alexander Pope",
+              "desc": "English poet (1688–1744)",
+              "url": "http://www.wikidata.org/entity/Q164047",
+              "dates": "(1688-05-21 - 1744-05-30)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Pope%20by%20Michael%20Dahl.jpg"
+       },
+       {
+              "name": "Horace",
+              "desc": "Roman lyric poet",
+              "url": "http://www.wikidata.org/entity/Q6197",
+              "dates": "(-0064-12-06 - -0007-11-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quintus%20Horatius%20Flaccus.jpg"
+       },
+       {
+              "name": "Ludovico Ariosto",
+              "desc": "Italian poet",
+              "url": "http://www.wikidata.org/entity/Q48900",
+              "dates": "(1474-09-17 - 1533-07-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariosto.jpg"
+       },
+       {
+              "name": "Euripides",
+              "desc": "Classical Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q48305",
+              "dates": "(-0480-01-01 - -0406-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Euripides%20Pio-Clementino%20Inv302.jpg"
+       },
+       {
+              "name": "Aeschylus",
+              "desc": "ancient Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q40939",
+              "dates": "(-0524-01-01 - -0455-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aeschylusathens.jpg"
+       },
+       {
+              "name": "Sophocles",
+              "desc": "ancient Greek playwright",
+              "url": "http://www.wikidata.org/entity/Q7235",
+              "dates": "(-0495-01-01 - -0405-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny%20Carlsberg%20Glyptothek%20-%20Sophokles.jpg"
+       },
+       {
+              "name": "Theocritus",
+              "desc": "3rd-century BC Greek poet",
+              "url": "http://www.wikidata.org/entity/Q219484",
+              "dates": "(-0400-01-01 - -0259-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theocritus-greek-poet-born-in-syracuse.jpg"
+       },
+       {
+              "name": "Petrarch",
+              "desc": "Italian scholar and poet (1304-1374)",
+              "url": "http://www.wikidata.org/entity/Q1401",
+              "dates": "(1304-07-28 - 1374-07-27)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Petrarca00.jpg"
+       },
+       {
+              "name": "Paulus Aemilius",
+              "desc": "Hebrew scholar",
+              "url": "http://www.wikidata.org/entity/Q7155382",
+              "img": ""
+       },
+       {
+              "name": "Jane Welsh Carlyle",
+              "desc": "Scottish writer",
+              "url": "http://www.wikidata.org/entity/Q6152913",
+              "dates": "(1801-01-14 - 1866-04-21)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Baillie%20Carlyle%20%28n%C3%A9e%20Welsh%29%20by%20Samuel%20Laurence%20detail.jpg"
+       },
+       {
+              "name": "Pythagoras",
+              "desc": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+              "url": "http://www.wikidata.org/entity/Q10261",
+              "dates": "(-0582-01-01 - -0490-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg"
+       },
+       {
+              "name": "Jonathan Swift",
+              "desc": "Anglo-Irish satirist and essayist (1667–1745)",
+              "url": "http://www.wikidata.org/entity/Q41166",
+              "dates": "(1667-11-30 - 1745-10-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Swift%20by%20Charles%20Jervas%20detail.jpg"
+       },
+       {
+              "name": "Cyrus the Great",
+              "desc": "founder of the Achaemenid Empire (559–529 BC)",
+              "url": "http://www.wikidata.org/entity/Q8423",
+              "dates": "(-0599-01-01 - -0529-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
+       },
+       {
+              "name": "Artaxerxes I of Persia",
+              "desc": "The sixth Achaemenid emperor (465–424 BC)",
+              "url": "http://www.wikidata.org/entity/Q189689",
+              "dates": "(-0500-01-01 - -0423-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20of%20Artaxerxes%20I%2C%20from%20his%20tomb%20in%20Naqsh-e%20Rustam.jpg"
+       },
+       {
+              "name": "Xenophon",
+              "desc": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+              "url": "http://www.wikidata.org/entity/Q129772",
+              "dates": "(-0429-01-01 - -0353-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xenophon.jpg"
+       },
+       {
+              "name": "Abaris the Hyperborean",
+              "desc": "semi-legendary Greek physician, magician, and prophet of Apollo",
+              "url": "http://www.wikidata.org/entity/Q305567",
+              "img": ""
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Virgil",
+              "desc": "Roman poet (1st century BC)",
+              "url": "http://www.wikidata.org/entity/Q1398",
+              "dates": "(-0069-10-13 - -0018-09-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta%20di%20Posillipo5%20%28crop%29.jpg"
+       },
+       {
+              "name": "Ovid",
+              "desc": "Roman poet (43 BC – 17/18 AD)",
+              "url": "http://www.wikidata.org/entity/Q7198",
+              "dates": "(-0042-03-18 - 0017-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ovid%20by%20an%20anonymous%20sculptor.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "George Frideric Handel",
+              "desc": "German-British Baroque composer (1685–1759)",
+              "url": "http://www.wikidata.org/entity/Q7302",
+              "dates": "(1685-03-05 - 1759-04-14)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frideric%20Handel%20by%20Balthasar%20Denner.jpg"
+       },
+       {
+              "name": "Uriel da Costa",
+              "desc": "Portuguese philosopher (c.1585-1640)",
+              "url": "http://www.wikidata.org/entity/Q347893",
+              "dates": "(1585-01-01 - 1640-04-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dacosta%20und%20Spinoza.jpg"
+       },
+       {
+              "name": "John Gay",
+              "desc": "English poet and playwright (1685–1732)",
+              "url": "http://www.wikidata.org/entity/Q321660",
+              "dates": "(1685-06-30 - 1732-12-04)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Unknown%20man%2C%20formerly%20known%20as%20John%20Gay.jpg"
+       },
+       {
+              "name": "Francis Bacon",
+              "abstract": "Francis Bacon, 1st Viscount St Alban PC (/ˈbeɪkən/; 22 January 1561 – 9 April 1626), also known as Lord Verulam, was an English philosopher and statesman who served as Attorney General and Lord Chancellor of England. Bacon led the advancement of both natural philosophy and the scientific method and his works remained influential even in the late stages of the Scientific Revolution. Bacon has been called the father of empiricism. He argued for the possibility of scientific knowledge based only upon inductive reasoning and careful observation of events in nature. He believed that science could be achieved by the use of a sceptical and methodical approach whereby scientists aim to avoid misleading themselves. Although his most specific proposals about such a method, the Baconian method, did not have long-lasting influence, the general idea of the importance and possibility of a sceptical methodology makes Bacon one of the later founders of the scientific method. His portion of the method based in scepticism was a new rhetorical and theoretical framework for science, whose practical details are still central to debates on science and methodology. He is famous for his role in the scientific revolution, begun during the Middle Ages, promoting scientific experimentation as a way of glorifying God and fulfilling scripture. He was renowned as a politician in Elizabethan England, as he held the office of Lord Chancellor. Bacon was a patron of libraries and developed a system for cataloguing books under three categories – history, poetry, and philosophy – which could further be divided into specific subjects and subheadings. About books he wrote, \"Some books are to be tasted; others swallowed; and some few to be chewed and digested.\" The Shakespearean authorship thesis, which was first proposed in the mid-19th century, contends that Bacon wrote at least some and possibly all of the plays conventionally attributed to William Shakespeare. Bacon was educated at Trinity College at the University of Cambridge, where he rigorously followed the medieval curriculum, which was presented largely in Latin. He was the first recipient of the Queen's counsel designation, conferred in 1597 when Elizabeth I reserved him as her legal advisor. After the accession of James I in 1603, Bacon was knighted, then created Baron Verulam in 1618 and Viscount St Alban in 1621. He had no heirs and so both titles became extinct on his death in 1626 at the age of 65. He died of pneumonia, with one account by John Aubrey stating that he had contracted it while studying the effects of freezing on meat preservation. He is buried at St Michael's Church, St Albans, Hertfordshire.",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Somer_Francis_Bacon.jpg?width=300"
+       },
+       {
+              "name": "Edmund Spenser",
+              "desc": "English poet (1552–1599)",
+              "url": "http://www.wikidata.org/entity/Q4352055",
+              "dates": "(1552-01-01 - 1599-01-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Spenser%20oil%20painting.JPG"
+       },
+       {
+              "name": "Thomas Paine",
+              "desc": "American Founding Father, philosopher, and political activist (1737–1809)",
+              "url": "http://www.wikidata.org/entity/Q126462",
+              "dates": "(1737-02-09 - 1809-06-08)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20rev1.jpg"
+       },
+       {
+              "name": "Homer",
+              "desc": "reputed author of the Iliad and the Odyssey",
+              "url": "http://www.wikidata.org/entity/Q6691",
+              "dates": "(-0900-01-01 - -0800-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20bust%2C%20Farnese%20collection%20%28Naples%29.jpg"
+       },
+       {
+              "name": "Alexander Pope",
+              "desc": "English poet (1688–1744)",
+              "url": "http://www.wikidata.org/entity/Q164047",
+              "dates": "(1688-05-21 - 1744-05-30)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Pope%20by%20Michael%20Dahl.jpg"
+       },
+       {
+              "name": "Horace",
+              "desc": "Roman lyric poet",
+              "url": "http://www.wikidata.org/entity/Q6197",
+              "dates": "(-0064-12-06 - -0007-11-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quintus%20Horatius%20Flaccus.jpg"
+       },
+       {
+              "name": "Ludovico Ariosto",
+              "desc": "Italian poet",
+              "url": "http://www.wikidata.org/entity/Q48900",
+              "dates": "(1474-09-17 - 1533-07-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariosto.jpg"
+       },
+       {
+              "name": "Euripides",
+              "desc": "Classical Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q48305",
+              "dates": "(-0480-01-01 - -0406-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Euripides%20Pio-Clementino%20Inv302.jpg"
+       },
+       {
+              "name": "Aeschylus",
+              "desc": "ancient Athenian playwright",
+              "url": "http://www.wikidata.org/entity/Q40939",
+              "dates": "(-0524-01-01 - -0455-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aeschylusathens.jpg"
+       },
+       {
+              "name": "Sophocles",
+              "desc": "ancient Greek playwright",
+              "url": "http://www.wikidata.org/entity/Q7235",
+              "dates": "(-0495-01-01 - -0405-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny%20Carlsberg%20Glyptothek%20-%20Sophokles.jpg"
+       },
+       {
+              "name": "Theocritus",
+              "desc": "3rd-century BC Greek poet",
+              "url": "http://www.wikidata.org/entity/Q219484",
+              "dates": "(-0400-01-01 - -0259-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theocritus-greek-poet-born-in-syracuse.jpg"
+       },
+       {
+              "name": "Petrarch",
+              "desc": "Italian scholar and poet (1304-1374)",
+              "url": "http://www.wikidata.org/entity/Q1401",
+              "dates": "(1304-07-28 - 1374-07-27)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Petrarca00.jpg"
+       },
+       {
+              "name": "Paulus Aemilius",
+              "desc": "Hebrew scholar",
+              "url": "http://www.wikidata.org/entity/Q7155382",
+              "img": ""
+       },
+       {
+              "name": "Jane Welsh Carlyle",
+              "desc": "Scottish writer",
+              "url": "http://www.wikidata.org/entity/Q6152913",
+              "dates": "(1801-01-14 - 1866-04-21)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Baillie%20Carlyle%20%28n%C3%A9e%20Welsh%29%20by%20Samuel%20Laurence%20detail.jpg"
+       },
+       {
+              "name": "Pythagoras",
+              "desc": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+              "url": "http://www.wikidata.org/entity/Q10261",
+              "dates": "(-0582-01-01 - -0490-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg"
+       },
+       {
+              "name": "Jonathan Swift",
+              "desc": "Anglo-Irish satirist and essayist (1667–1745)",
+              "url": "http://www.wikidata.org/entity/Q41166",
+              "dates": "(1667-11-30 - 1745-10-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Swift%20by%20Charles%20Jervas%20detail.jpg"
+       },
+       {
+              "name": "Cyrus the Great",
+              "desc": "founder of the Achaemenid Empire (559–529 BC)",
+              "url": "http://www.wikidata.org/entity/Q8423",
+              "dates": "(-0599-01-01 - -0529-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
+       },
+       {
+              "name": "Artaxerxes I of Persia",
+              "desc": "The sixth Achaemenid emperor (465–424 BC)",
+              "url": "http://www.wikidata.org/entity/Q189689",
+              "dates": "(-0500-01-01 - -0423-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20of%20Artaxerxes%20I%2C%20from%20his%20tomb%20in%20Naqsh-e%20Rustam.jpg"
+       },
+       {
+              "name": "Xenophon",
+              "desc": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+              "url": "http://www.wikidata.org/entity/Q129772",
+              "dates": "(-0429-01-01 - -0353-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xenophon.jpg"
+       },
+       {
+              "name": "Abaris the Hyperborean",
+              "desc": "semi-legendary Greek physician, magician, and prophet of Apollo",
+              "url": "http://www.wikidata.org/entity/Q305567",
+              "img": ""
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Charles Mordaunt, 3rd Earl of Peterborough",
+              "desc": "British diplomat (1658-1735)",
+              "url": "http://www.wikidata.org/entity/Q1065565",
+              "dates": "(1658-01-01 - 1735-10-23)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Mordaunt.jpg"
+       },
+       {
+              "name": "Virgil",
+              "desc": "Roman poet (1st century BC)",
+              "url": "http://www.wikidata.org/entity/Q1398",
+              "dates": "(-0069-10-13 - -0018-09-19)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta%20di%20Posillipo5%20%28crop%29.jpg"
+       },
+       {
+              "name": "Ovid",
+              "desc": "Roman poet (43 BC – 17/18 AD)",
+              "url": "http://www.wikidata.org/entity/Q7198",
+              "dates": "(-0042-03-18 - 0017-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ovid%20by%20an%20anonymous%20sculptor.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-15 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "Raphael",
+              "desc": "Italian painter and architect (1483–1520)",
+              "url": "http://www.wikidata.org/entity/Q5597",
+              "dates": "(1483-04-06 - 1520-04-16)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+       },
+       {
+              "name": "George Frideric Handel",
+              "desc": "German-British Baroque composer (1685–1759)",
+              "url": "http://www.wikidata.org/entity/Q7302",
+              "dates": "(1685-03-05 - 1759-04-14)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frideric%20Handel%20by%20Balthasar%20Denner.jpg"
+       },
+       {
+              "name": "Uriel da Costa",
+              "desc": "Portuguese philosopher (c.1585-1640)",
+              "url": "http://www.wikidata.org/entity/Q347893",
+              "dates": "(1585-01-01 - 1640-04-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dacosta%20und%20Spinoza.jpg"
+       },
+       {
+              "name": "John Gay",
+              "desc": "English poet and playwright (1685–1732)",
+              "url": "http://www.wikidata.org/entity/Q321660",
+              "dates": "(1685-06-30 - 1732-12-04)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Unknown%20man%2C%20formerly%20known%20as%20John%20Gay.jpg"
+       },
+       {
+              "name": "Anacreon",
+              "desc": "Ancient Greek lyric poet, notable for his drinking songs and hymns",
+              "url": "http://www.wikidata.org/entity/Q213484",
+              "dates": "(-0569-01-01 - -0484-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arte%20romana%2C%20testa%20di%20anacreonte%2C%20130-140%20dc.%20ca.%2002.JPG"
+       },
+       {
+              "name": "Apollo",
+              "desc": "god in Greek and later Roman mythology",
+              "url": "http://www.wikidata.org/entity/Q37340",
+              "img": ""
+       },
+       {
+              "name": "Galatea",
+              "desc": "nereid from Greek mythology",
+              "url": "http://www.wikidata.org/entity/Q241070",
+              "img": ""
+       },
+       {
+              "name": "Pantea Arteshbod",
+              "desc": "wife of Abradatas",
+              "url": "http://www.wikidata.org/entity/Q2049876",
+              "img": ""
+       },
+       {
+              "name": "Polyphemus",
+              "desc": "giant son of Poseidon and Thoosa in Greek mythology",
+              "url": "http://www.wikidata.org/entity/Q193567",
+              "img": ""
+       },
+       {
+              "name": "Acis",
+              "desc": "person from Greek mythology",
+              "url": "http://www.wikidata.org/entity/Q419156",
+              "img": ""
+       },
+       {
+              "name": "Neptune",
+              "desc": "Roman god of water, particularly the sea, considered equivalent to the Greek Poseidon",
+              "url": "http://www.wikidata.org/entity/Q3954",
+              "img": ""
+       },
+       {
+              "name": "Jupiter",
+              "desc": "chief deity of Roman state religion",
+              "url": "http://www.wikidata.org/entity/Q4649",
+              "img": ""
+       },
+       {
+              "name": "Minerva",
+              "desc": "Roman goddess of wisdom and sponsor of arts, trade, and defense",
+              "url": "http://www.wikidata.org/entity/Q126916",
+              "img": ""
+       },
+       {
+              "name": "John Milton",
+              "desc": "English poet and civil servant (1608–1674)",
+              "url": "http://www.wikidata.org/entity/Q79759",
+              "dates": "(1608-12-09 - 1674-11-08)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John-milton.jpg"
+       },
+       {
+              "name": "Alexander VII",
+              "desc": "pope from 1655 to 1667",
+              "url": "http://www.wikidata.org/entity/Q127254",
+              "dates": "(1599-02-13 - 1667-05-22)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Alexander%20VII%20Chigi%20%28by%20Giovanni%20Battista%20Gaulli%20-%20Baciccio%29.jpg"
+       },
+       {
+              "name": "Philip Sidney",
+              "desc": "English poet, courtier, diplomat (1554-1586)",
+              "url": "http://www.wikidata.org/entity/Q315509",
+              "dates": "(1554-12-10 - 1586-10-17)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Philip%20Sidney%20from%20NPG.jpg"
+       },
+       {
+              "name": "James VI and I",
+              "desc": "King of Scotland (1566–1625), England and Ireland (1603–25)",
+              "url": "http://www.wikidata.org/entity/Q79972",
+              "dates": "(1566-06-29 - 1625-04-06)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20de%20Critz%20-%20James%20VI%20and%20I%2C%201566%20-%201625.%20King%20of%20Scotland%201567%20-%201625.%20King%20of%20England%20and%20Ireland%201603%20-%201625%20-%20PG%20561%20-%20National%20Galleries%20of%20Scotland.jpg"
+       },
+       {
+              "name": "Robert Boyle",
+              "desc": "Anglo-Irish natural philosopher, chemist, physicist, and inventor",
+              "url": "http://www.wikidata.org/entity/Q43393",
+              "dates": "(1627-01-25 - 1691-12-31)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shannon%20Portrait%20of%20the%20Hon%20Robert%20Boyle.jpg"
+       },
+       {
+              "name": "Appius Claudius Caecus",
+              "desc": "Roman statesman and writer (fl. c. 312–279 BC)",
+              "url": "http://www.wikidata.org/entity/Q297783",
+              "dates": "(http://www.wikidata.org/.well-known/genid/c2c1e13eec3dee2f89e20c4fa6b88256 - -0300-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Appio%20Claudio%20Cieco%20in%20Senato.jpg"
+       },
+       {
+              "name": "Faunus",
+              "desc": "Roman horned god of the forest, plains and fields",
+              "url": "http://www.wikidata.org/entity/Q3089703",
+              "img": ""
+       },
+       {
+              "name": "Matthew Hale",
+              "desc": "English jurist and scholar (1609–1676)",
+              "url": "http://www.wikidata.org/entity/Q130059",
+              "dates": "(1609-11-01 - 1676-12-25)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Sir%20Matthew%20Hale%20Kt.jpg"
+       },
+       {
+              "name": "Claudia",
+              "desc": "fined in 246 BC for wishing her brother would lose another battle so crowds in the city of Rome would become smaller",
+              "url": "http://www.wikidata.org/entity/Q1097301",
+              "img": ""
+       },
+       {
+              "name": "Tiberius Gracchus",
+              "desc": "ancient Rome politician",
+              "url": "http://www.wikidata.org/entity/Q212109",
+              "dates": "(-0161-01-01 - -0132-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiberius%20Gracchus.jpg"
+       },
+       {
+              "name": "Titus Livius",
+              "desc": "Roman historian (59 BC – AD 17)",
+              "url": "http://www.wikidata.org/entity/Q2039",
+              "dates": "(-0058-01-01 - 0017-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Titus%20Livius.png"
+       },
+       {
+              "name": "Aulus Gellius",
+              "desc": "2nd century Roman author and grammarian",
+              "url": "http://www.wikidata.org/entity/Q294800",
+              "dates": "(0130-01-01 - 0180-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Auli%20Gellii%20Noctium%20Atticarum%201706.jpg"
+       },
+       {
+              "name": "Petrarch",
+              "desc": "Italian scholar and poet (1304-1374)",
+              "url": "http://www.wikidata.org/entity/Q1401",
+              "dates": "(1304-07-28 - 1374-07-27)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Petrarca00.jpg"
+       },
+       {
+              "name": "Publius Claudius Pulcher",
+              "desc": "Roman consul 249 BC",
+              "url": "http://www.wikidata.org/entity/Q435404",
+              "img": ""
+       },
+       {
+              "name": "James Sheridan Knowles",
+              "desc": "Irish dramatist",
+              "url": "http://www.wikidata.org/entity/Q353538",
+              "dates": "(1784-05-12 - 1862-11-30)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Sheridan%20Knowles%20by%20Wilhelm%20Trautschold.jpg"
+       },
+       {
+              "name": "Laura de Noves",
+              "desc": "14th-century noblewoman; (1310-1348)",
+              "url": "http://www.wikidata.org/entity/Q270227",
+              "dates": "(1310-01-01 - 1348-01-01)",
+              "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Petrarcas%20Laura.jpg"
+       }
+]

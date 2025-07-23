@@ -1,0 +1,2 @@
+- Consider including **author** as a category of people at the same level of **real|fictional** for the *viz* (never mind)
+- Value of @corresp (country) in placeNames for **color in **viz**

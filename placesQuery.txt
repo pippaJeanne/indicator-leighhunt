@@ -1,0 +1,57 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>  
+PREFIX wd: <http://www.wikidata.org/entity/> 
+ PREFIX wikibase: <http://wikiba.se/ontology#> 
+ PREFIX geof: <http://www.opengis.net/def/geosparql/function/> 
+ SELECT DISTINCT ?item ?itemLabel ?itemDescription ?coord ?lon ?lat ?img 
+  WHERE { 
+ {BIND(wd:Q15 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q1524 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q180773 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q727 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q4951156 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q207239 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q2751 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q38 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q12792 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q59770834 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q101081 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}} UNION {BIND(wd:Q688959 AS ?item) 
+  OPTIONAL{?item wdt:P625  ?coord; wdt:P18 ?img. 
+ BIND(geof:longitude(?coord) AS   ?lon) 
+ BIND(geof:latitude(?coord) AS   ?lat) 
+}}
+ SERVICE wikibase:label { bd:serviceParam wikibase:language 'en' } 
+ }

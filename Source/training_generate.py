@@ -10,24 +10,27 @@ for model_info in client.tunings.list():
 
 # Use base model
 # To help in the encoding of the structure of the letter given the template with the editorial protocol
-template = open("templateEncodage.xml", "r").read()
-text = open("ToProcess.txt", "r").read()
+template = open("../REFERENCE.md", "r").read()
+text = open("ToProcess01.txt", "r").read()
 
 response = client.models.generate_content(
-    model='gemini-2.5-flash', contents=f"En prenant le modèle d'encodage TEI dans {template}, prends le texte océrisé dans {text} et fais l'encodage TEI du text océrisé en suivant le modèle fourni. Produis le contenu dans un fichier XML-TEI.")
-with open("input/1545_08_05_MFallais.xml", "w", encoding="utf8") as outfile:
+    model='gemini-2.5-flash', contents=f"Following the TEI encoding reference in {template}, take the text in {text} and do the TEI encoding of that text by strictly following the encoding reference provided. Write the resulting document in an XML-TEI file.")
+with open("Structural Versions/theIndicator#.xml", "w", encoding="utf8") as outfile:
     outfile.write(response.text) #change name of file following the model => 1538_10_20_NomDestinataire.xml
 
 #####
     # To help in the encoding of the structure of set of letters given the template with the editorial protocol 
 for i in range(1,4): #number for last argument of range depends on number of letters in the 'text' doc plus 1 (no index 0).
-    template = open("templateEncodage.xml", "r").read()
-    text = open("ToProcess.txt", "r").read()
+    template = open("REFERENCE.md", "r").read()
+    text = open("Source/ToProcess01.txt", "r").read()
 
     response = client.models.generate_content(
-        model='gemini-2.5-flash', contents=f"En prenant le modèle d'encodage TEI dans {template}, prends le texte océrisé dans {text} de la lettre correspondant au numéro {i} en ordre (les lettres ont été divisées par des lignes pointillées) et fais l'encodage TEI du text océrisé en suivant le modèle fourni. Produis le contenu dans un fichier XML-TEI.")
-    with open(f"input/{i}.xml", "w", encoding="utf8") as outfile:
-        outfile.write(response.text) #change name of file following the model => 1538_10_20_NomDestinataire.xml
+        model='gemini-2.5-flash', contents=f"Following the TEI encoding reference in {template}, take the text in {text} of the corresponding issue {i} in the provided order (the issues are divided by dashed lines) and do the TEI encoding of that text by strictly following the encoding reference provided. Write the resulting document in an XML-TEI file.")
+    with open(f"Structural Versions/theIndicator{i}.xml", "w", encoding="utf8") as outfile:
+        outfile.write(response.text) #change name of file following the model => Structural Versions/theIndicator00.xml
+
+
+
 
 #####    
 # text to translate

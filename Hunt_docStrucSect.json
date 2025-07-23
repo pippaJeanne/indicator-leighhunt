@@ -1,0 +1,201 @@
+{
+          "theIndicator43ner.xml": {
+                    "section 1": {
+                              "header": "THE STORIES OF LAMIA, THE POT OF BASIL, THE EVE OF ST. AGNES, etc. AS TOLD BY MR. KEATS.",
+                              "subheader": "",
+                              "title": [
+                                        "THE STORIES OF LAMIA",
+                                        "THE POT OF BASIL",
+                                        "THE EVE OF ST. AGNES",
+                                        "Anatomy of Melancholy",
+                                        "De Vita Apollonii",
+                                        "Pot of Basil",
+                                        "Sicilian Story",
+                                        "Ode to Psyche",
+                                        "The Eve of St. Agnes"
+                              ],
+                              "bibl": {
+                                        "title": {
+                                                  "Anatomy of Melancholy": {
+                                                            "ref": "https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"
+                                                  }
+                                        }
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "John Keats": "John Keats",
+                                                  "Robert Burton": "Robert Burton",
+                                                  "Lucius Flavius Philostratus": "Lucius Flavius Philostratus",
+                                                  "Menippus of Lycia": "Menippus of Lycia",
+                                                  "Apollonius of Tyana": "Apollonius of Tyana",
+                                                  "Homer ": "Homer ",
+                                                  "Giovanni Boccaccio": "Giovanni Boccaccio",
+                                                  "Bryan Waller Procte": "Bryan Waller Procte",
+                                                  "Giambattista Marino": "Giambattista Marino",
+                                                  "Abraham Cowley": "Abraham Cowley",
+                                                  "Agnes of Rome": "Agnes of Rome"
+                                        },
+                                        "fictional": [
+                                                  "Porphyro"
+                                        ]
+                              },
+                              "places": {
+                                        "Florence": "Florence"
+                              },
+                              "org": {},
+                              "dates": {}
+                    },
+                    "colophon": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {}
+                              },
+                              "places": {},
+                              "org": {
+                                        "A. Gliddon": "A. Gliddon"
+                              },
+                              "dates": {}
+                    }
+          },
+          "theIndicator49_unfinished.xml": {
+                    "forematter": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {
+                                                  "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055"
+                                        }
+                              },
+                              "places": {},
+                              "org": {},
+                              "dates": {
+                                        "1820-09-13": " —WEDNESDAY, September 13th, 1820"
+                              }
+                    },
+                    "section 1": {
+                              "header": "THOUGHTS AND GUESSES ON HUMAN NATURE.",
+                              "subheader": "",
+                              "subsection 1": {
+                                        "header": "CONFUSION OP MODES OF BEING.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 2": {
+                                        "header": "VARIETY OF THE COLOURS OF PERCEPTION.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 3": {
+                                        "header": "CANNOT.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 4": {
+                                        "header": "SUPERSTITION AND DOCTHINE.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 5": {
+                                        "header": "SECOND TUOUGMT ON THE VARIETY OF THE COLOURS OF PERCEPTION.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 6": {
+                                        "header": "CHILDHOOD AND KNOWLEDGE.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              },
+                              "subsection 7": {
+                                        "header": "KNOWLEDGE AND UNHAPPINESS.",
+                                        "subheader": "",
+                                        "title": [],
+                                        "bibl": {
+                                                  "title": {}
+                                        },
+                                        "persons": {
+                                                  "real": {}
+                                        },
+                                        "places": {},
+                                        "org": {},
+                                        "dates": {}
+                              }
+                    },
+                    "endmatter": {
+                              "header": "",
+                              "subheader": "",
+                              "title": [],
+                              "bibl": {
+                                        "title": {}
+                              },
+                              "persons": {
+                                        "real": {}
+                              },
+                              "places": {},
+                              "org": {},
+                              "dates": {}
+                    }
+          }
+}

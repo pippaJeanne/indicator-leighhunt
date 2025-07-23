@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
+<!-- This template is intended to be used as a starting point for encoding a new text.
+        It is not intended as a fixed structure, but rather collects some of the most common
+        structural elements for convenience and uniformity. Please add/remove elements as
+        necessary for your use case. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- File Description -->
+        <fileDesc>
+            <!-- Title of the work -->
+            <titleStmt>
+                <title>The Indicator</title>
+                <author>
+                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                    <surname>Hunt</surname>,
+                    <date from="1784" to="1859">1784-1859</date>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Digital edition by [Your Name/Institution].</p>
+            </publicationStmt>
+
+            <!-- Author information -->
+            <sourceDesc>
+                <bibl>
+                    <author>
+                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                        <surname>Hunt</surname>,
+                        <date from="1784" to="1859">1784-1859</date>
+                    </author>,
+                    <title level="j">The Indicator</title>
+                    <date when="1820-01-05">January 5, 1820</date> <!-- The publication date of this issue ({Month} {Day}, {Year}) -->
+                    <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                    <publisher>Joseph Appleyard</publisher> <!-- Publisher details if available -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!-- Encoding Description -->
+        <encodingDesc>
+            <!-- Add any encoding information or guidelines here if applicable -->
+            <p>
+                Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                included for reference to the source only and are not intended to indicate precise
+                preservation.
+            </p>
+        </encodingDesc>
+
+        <!-- Profile Description -->
+        <profileDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="issue" n="13">
+                <pb n="97"/> <!-- Page beginning -->
+                <div2 type="title"> <!-- Title, epigraph, and catalogue -->
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. <choice><reg>XIII</reg><orig>_____</orig></choice>.—WEDNESDAY, <choice><reg>JANUARY 5th</reg><orig>____ __</orig></choice>, <choice><reg>1820</reg><orig>18__</orig></choice>.</head>
+                </div2>
+                <div2 type="section" n="1"> <!-- Header and content -->
+                    <head type="header" rend="uppercase">THIEVES, ANCIENT AND MODERN.</head>
+                    <head type="subheader" rend="uppercase">CONCLUDED FROM LAST WEEK.</head>
+                    <p>We must return a moment to the <placeName type="country" key="Italy" corresp="Italy">Italian</placeName> thieves, to relate a couple of stories
+                        related of <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q49250" cert="high"
+                            type="real" xml:id="ariosto">Ariosto</persName> and <persName key="Torquato Tasso" ref="http://www.wikidata.org/entity/Q172551"
+                            cert="high" type="real" xml:id="tasso">Tasso</persName>. The former was for a short period governor of <placeName
+                            type="region" key="Garfaqnana" corresp="Italy"
+                            ref="http://www.wikidata.org/entity/Q1058204" cert="high">Grafagnana</placeName>, a
+                        disturbed district in the <placeName type="physical" key="Apennines" corresp="Italy"
+                            ref="http://www.wikidata.org/entity/Q128604" cert="high">Apennines</placeName>, which his
+                        prudent and gentle policy brought back from it's disaffection. Among it's
+                        other troubles, were numerous bands of robbers, two of the names of whose
+                        leaders, <persName type="fictional">Domenico Maroco</persName>, and <persName type="fictional"
+                            xml:id="filippopacchione">Filippo Pacchione</persName>, have come down to posterity.
+                            <persName ref="#ariosto">Ariosto</persName>, during the first days of his government, was riding out
+                        with a small retinue, when he had to pass through a number of
+                        suspicious-looking armed men. The two parties had scarcely cleared each
+                        other, when the chief of the strangers asked a servant who happened to be at
+                        some distance behind the others, who that person was. <q type="spoken">It is the captain of
+                            the citadel here,</q> said the man, <q type="spoken">Lodovico Ariosto.</q> The stranger
+                        no sooner heard the name, than he went running back to overtake the
+                        governor, who, stopping his horse, waited with some anxiety for the event.
+                            <q type="spoken">I beg your pardon, Sir,</q> said he, <q type="spoken">but I was not aware that so
+                            great a person as the <rs type="person">Signor <choice><corr>Lodovico</corr><sic>Lodbvico</sic></choice> Ariosto</rs> was passing near me. My name is
+                                <persName ref="#filippopacchione">Filippo Pacchione</persName>; and when I knew who it was, I could not go on
+                            without returning to pay the respect due to so illustrious a name.</q></p>
+                    <p>A doubt is thrown on this story, or rather on the particular person who gave
+                        occasion to it, by the similarity of an adventure related of <persName
+                            ref="#tasso">Tasso</persName>. Both of them however are very probable, let the
+                        similarity be what it may; for both the poets had occasion to go through
+                        disturbed districts; robbers abounded in both their times; and the leaders
+                        being most probably men rather of desperate fortunes than want of knowledge,
+                        were likely enough to seize such opportunities of vindicating their better
+                        habits, and shewing a romantic politeness. The enthusiasm too is quite in
+                        keeping with the national character; and it is to be observed that the
+                        particulars of <persName ref="#tasso">Tasso</persName>'s adventure are different, though the spirit of it
+                        is the same. He was journeying, it is said, in company with others, for
+                        better security against the banditti who infested the borders of the</p>
+                    <pb n="98" />
+                    <p>papal territory, when they were told that <persName type="fictional" xml:id="sciarra"
+                            >Sciarra</persName>, a famous robber, was at hand in considerable force.
+                            <persName ref="#tasso">Tasso</persName> was for pushing on, and defending themselves if
+                        attacked; but his opinion was overruled; and the company threw themselves,
+                        for safety, into the <placeName type="city" key="Mola" corresp="Italy" cert="high"
+                            >city of Mola</placeName>. Here <persName ref="#sciarra">Sciarra</persName> kept them in a manner
+                        blocked up ; but hearing that <persName ref="#tasso">Tasso</persName> was among the travellers,
+                        he sent him word that he should not only be allowed to pass, but should have
+                        safe conduct whithersoever he pleased. The lofty poet, making it a matter of
+                        delicacy perhaps to waive an advantage of which his company could not
+                        partake, declined the offer, upon which <persName ref="#sciarra">Sciarra</persName> sent another
+                        message, saying that upon the sole account of <persName ref="#tasso">Tasso</persName>, the ways
+                        should be left open. And they were so.</p>
+                    <p>We can call to mind no particular <placeName type="country" key="Germany" corresp="Germany"
+                            >German</placeName> thieves, except those who figure in romances, and in
+                        the <title level="m" key="The Robbers" ref="http://www.wikidata.org/entity/Q645484"
+                            >Robbers</title> of <persName key="Friedrich Schiller" ref="http://www.wikidata.org/entity/Q22670" cert="high"
+                            type="real" xml:id="schiller">Schiller</persName>. To say the truth, we are writing
+                        just now with but few books to refer to; and the better informed reader must
+                        pardon any deficiences he meets with in these egregious and furtive
+                        memorandums. Of the <title level="m" key="The Robbers">Robbers</title> of <persName
+                            ref="#schiller">Schiller</persName>, an extraordinary effect is related. It is said to
+                        have driven a number of wild-headed young <placeName type="country" key="Germany"
+                            corresp="Germany">Germans</placeName> upon playing at banditti, not in the bounds of
+                        a school or university, but seriously in a forest. The matter-of-fact
+                        spirit in which a <placeName type="country" key="Germany" corresp="Germany">German</placeName> sets
+                        about being enthusiastic, is a metaphysical curiosity which modern events
+                        render doubly interesting. It is extremely worthy of the attention of those
+                        rare personages, entitled reflecting politicians. But we must take care
+                        again. It is very inhuman of these politics, that the habit of attending to
+                        them, though with the greatest good-will and sincerity, will always be
+                        driving a man upon thinking how his fellow-creatures are going on.</p>
+                    <p>There is a pleasant well-known story of a <placeName type="country" key="Prussia"
+                            corresp="Germany">Prussian</placeName> thief and <persName key="Frederick II of Prussia"
+                            ref="http://www.wikidata.org/entity/Q33400" cert="high" type="real"
+                            >Frederick the Second</persName>. [The mention, by the way, of these two
+                        personages together puts us in mind of the <placeName type="country" key="Scotland"
+                            corresp="United Kingdom">Scottish</placeName> answer to travellers about a <measure
+                            unit="mile">mile</measure> and a bittock, —the said bittock, or little bit, being
+                        perhaps <measure unit="mile" quantity="3">three</measure> or <measure unit="mile" quantity="4"
+                            >four miles</measure> in addition.</p>
+                    <p><q type="spoken">Reader. There, Mr. Indicator, you get upon politics again.</q><lb/>
+                        <q type="spoken">Indic. What, Sir; upon modern politics ?</q><lb/>
+                        <q type="spoken">Read. I think so.</q><lb/>
+                        <q type="spoken">Indic. But I cannot help it, you know, if past history applies to present
+                            events; or at least, if your wicked imagination makes it apply.</q><lb/>
+                        <q type="spoken">Read. Oh, ho: you have me there.</q><lb/>
+                        <q type="spoken">Indic. I trust you have me every where.]</q></p>
+                    <p>We forget what was the precise valuable found upon the <placeName type="country"
+                            key="Prussia" corresp="Germany">Prussian</placeName> soldier, and missed from an
+                        <rs type="religiousObject">image of the Virgin Mary</rs>; but we believe it was a ring. He
+                        was tried for sacrilege, and the case appeared clear against him, when he
+                        puzzled his Catholic judges by informing them, that the fact was, the <rs
+                            type="religiousObject">Virgin Mary</rs> had given him that ring. Here was a terrible
+                        dilemma. To dispute the possibility or even probability of a gift from the
+                            <rs type="religiousObject">Virgin Mary</rs>, was to deny their religion: while, on the
+                        other hand, to let the fellow escape on the pretence, was to canonize
+                        impudence itself. The worthy judges, in</p>
+                    <pb n="99" />
+                    <p>their perplexity, applied to the king, who under the guise of behaving
+                        delicately to their faith, was not sorry to have such an opportunity of
+                        joking it. His majesty therefore pronounced, with becoming gravity, that the
+                        allegation of the soldier could not but have it's due weight with all
+                        Catholic believers; but that in future, it was forbidden any <placeName
+                            type="country" key="Prussia" corresp="Germany">Prussian</placeName> subject, military
+                        or civil, to accept a present from the <rs type="religiousObject">Virgin Mary</rs>.</p>
+                    <p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg"
+                            ref="http://www.wikidata.org/entity/Q200720" cert="high" type="real"
+                            >Scanderbeg</persName>. <rs type="person">Prince of Epirus</rs>, and now become infamous by
+                        the tyranny of <persName key="Ali Pasha of Ioannina" ref="http://www.wikidata.org/entity/Q310384"
+                            cert="high" type="real">Ali Bey</persName>, has been very fertile in robbers. And no
+                        wonder, for a semi-barbarous people so governed become thieves by necessity.
+                        The name indeed, as well as profession, is in such good receipt with an
+                            <placeName type="country" key="Albania" corresp="Albania">Albanian</placeName>, that
+                        according to late travellers, it is a common thing for him to begin a story
+                        by saying, <q type="spoken">When I was a robber---</q> We remember reading of some
+                            <placeName type="country" key="Albania" corresp="Albania">Albanian</placeName> or <placeName type="country" key="Slavonia" corresp="Croatia"
+                            >Sclavonian</placeName> leader of banditti, who made his enemies suppose he had a
+                        numerous force with him, by distributing military caps upon the hedges.</p>
+                    <p>There are some other nations who are all thieves, more or less; or comprise
+                        such numbers of them as very much militate against the national character.
+                        Such are the piratical <placeName type="country" key="Malaysia" corresp="Malaysia"
+                            >Malays</placeName>; the still more infamous <placeName type="country" key="Algeria"
+                            corresp="Algeria">Algerines</placeName>; the mongrel tribes between <placeName
+                            type="country" key="Arabia" corresp="Middle East">Arabia</placeName> and <placeName type="country" key="Abyssinia"
+                            corresp="Ethiopia">Abyssinia</placeName>. As to the <placeName type="country" key="Arabia"
+                            corresp="Middle East">Arabs</placeName>, they have a prescriptive right, from tradition
+                        as well as local circumstances, to plunder every body. The sanguinary
+                        ruffians of <placeName type="city" key="Ashanti" corresp="Ghana"
+                            ref="http://www.wikidata.org/entity/Q210740" cert="high">Ashantee</placeName> and other
+                        black empires on the <placeName type="physical" key="Guinea Coast" corresp="Africa"
+                            >coast of Guinea</placeName> are more like a government of murderers and ogres, than
+                        thieves. They are the next ruffians perhaps in existence, to slave dealers.
+                        The gentlest nation of pilferers are the <placeName type="country" key="Tahiti"
+                            corresp="French Polynesia">Otaheiteans</placeName>; and something is to be said for their
+                        irresistible love of hatchets and old nails. Let the <placeName type="continent"
+                            key="Europe">European</placeName> trader, that is without sin cast the first paragraph
+                        at them. Let him think what he should feel inclined to do, were a ship of
+                        some unknown nation to come upon his coast, with gold and jewels lying
+                        scattered about the deck. For no less precious is iron to the <placeName
+                            type="physical" key="South Sea Islands" corresp="Pacific Ocean">South Sea Islander</placeName>. A
+                        Paradisaical state of existence would be, to him, not the Golden, but the
+                        Iron Age. An <placeName type="country" key="Tahiti" corresp="French Polynesia"
+                            >Otaheitean</placeName> <persName key="Jupiter" ref="http://www.wikidata.org/entity/Q79093" cert="high"
+                            type="myth">Jupiter</persName> would visit his <persName key="Danaë" ref="http://www.wikidata.org/entity/Q207865" cert="high"
+                            type="myth">Danaë</persName> in a shower of tenpenny nails.</p>
+                    <p>We are now come to a very multitudinous set of candidates for the halter, the
+                        thieves of our own beloved country. For what we know of the <placeName
+                            type="country" key="France" corresp="France">French</placeName> thieves is connected
+                        with them, excepting <persName key="Louis Dominique Cartouche" ref="http://www.wikidata.org/entity/Q1045237" cert="high"
+                            type="real">Cartouche</persName>; and we remember nothing of him, but that he was a
+                        great ruffian, and died upon that worse ruffian, the rack.</p>
+                    <p>There is, to be sure, a very eminent instance of a single theft in the <title
+                            level="m" key="Confessions" ref="http://www.wikidata.org/entity/Q1130386"
+                            >Confessions</title> of <persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high"
+                            type="real" xml:id="rousseau">Rousseau</persName>; and it is the second greatest blot in his
+                        book; for he suffered a girl to be charged with and punished for the theft,
+                        and maintained the lie to her face, though she was his friend, and appealed
+                        to him with tears. But it may be said for him, at any rate, that the world
+                        would not have known the story but for himself: and if such a disclosure be
+                        regarded by some as an additional offence (which it may be thought by some
+                        very delicate as well as dishonest people), we must recollect, that it was
+                        the object of his book to give a plain unsophisticated account of a human
+                        being's ex-</p>
+                    <pb n="100" />
+                    <p>periences; and that many persons of excellent repute would have been found to
+                        have committed actions as bad, had they given accounts of themselves as
+                        candid. <persName key="Samuel Johnson" ref="http://www.wikidata.org/entity/Q183359" cert="high"
+                            type="real">Dr. Johnson</persName> was of opinion that all children were thieves and
+                        liars: and somebody, we believe a <placeName type="country" key="Scotland"
+                            corresp="United Kingdom">Scotchman</placeName>, answered a fond speech about human
+                        nature, by exclaiming, that <q type="spoken">human nature was a rogue and a
+                            vagabond, or so many laws would not have been necessary to restrain
+                            it.</q> We venture to differ, on this occasion, with both <placeName
+                            type="country" key="England" corresp="United Kingdom">Englishman</placeName> and <placeName type="country" key="Scotland"
+                            corresp="United Kingdom">Scotchman</placeName>. Laws in particular, taking the bad with the
+                        good, are quite as likely to have made rogues, as restrained them. But we
+                        see, at any rate, what has been suspected of more orthodox persons than
+                            <persName ref="#rousseau">Rousseau</persName>; to say nothing of less charitable
+                        advantages which might be taken of such opinions. He committed a petty
+                        theft; and miserably did his false shame, the parent of so many crimes, make
+                        him act. But he won back to their infants' lips the bosoms of thousands of
+                        mothers. He restored to their bereaved and helpless owners thousands of those
+                        fountains of health and joy: and before he is abused, even for worse things
+                        than the theft, let those whose virtue consists in custom, think of this.</p>
+                    <p>As we have mixed fictitious with real thieves in this article, in a manner,
+                        we fear, somewhat uncritical (and yet the fictions are most likely founded
+                        on fact; and the life of a real thief is a kind of dream and romance) we
+                        will dispatch our fictitious <placeName type="country" key="England" corresp="United Kingdom"
+                            >English</placeName> thieves before we come to the others. And we must
+                        make shorter work of it than we intended, or we shall never come to our
+                        friend <persName key="Claude Du Vall" ref="http://www.wikidata.org/entity/Q2977464"
+                            cert="high" type="real" xml:id="claudeduval">Du Vall</persName>. The length to which
+                        this article has stretched out, week after week, will be a warning to us,
+                        how we render our paper liable to be run away with in future.</p>
+                    <p>There is a very fine story of <rs type="group">Three Thieves</rs> in <persName key="Geoffrey Chaucer"
+                            ref="http://www.wikidata.org/entity/Q5663" cert="high" type="real">Chaucer</persName>,
+                        which we must tell at large another time. The most prominent of the fabulous
+                        thieves in <placeName type="country" key="England" corresp="United Kingdom"
+                            >England</placeName> is that bellipotent and immeasurable wag, <persName
+                            key="Falstaff" ref="http://www.wikidata.org/entity/Q505881" cert="high"
+                            type="fictional" xml:id="falstaff">Falstaff</persName>. If for a momentary freak, he
+                        thought it villainous to steal, at the next moment he thought it villainous
+                        not to steal.</p>
+                    <p><q type="spoken">Hal, I pr'ythee, trouble me no more with vanity. I would to God thou
+                            and I knew where a commodity of good names were to be bought. An old
+                            lord of the council rated me the other day in the street, about you,
+                            Sir; but I marked him not. And yet he talked very wisely, but I regarded
+                            him not. And yet he talked wisely ; and in the streets, too.</q></p>
+                    <p><q type="spoken">P. Henry. Thou didst well; for <q type="spoken">Wisdom cries out in the
+                                streets, and no man regards it.</q></q></p>
+                    <p><q type="spoken">Falstaff. O, thou hast damnable iteration; and art, indeed, able to
+                            corrupt a saint. Thou hast done much harm upon me, Hal; God forgive thee
+                            for it! Before I knew thee, Hal, I knew nothing; and now am I, if a man
+                            should speak truly, little better than one of the wicked. I must give
+                            over this life, and I will give it over: By the Lord, an I do not, I am
+                            a villain: I'll be damned for never a king's son in Christendom.</q></p>
+                    <p><q type="spoken">P. Henry. Where shall we take a purse to-morrow. Jack?</q></p>
+                    <p><q type="spoken">Falstaff. Where thou wilt, lad; I'll make one: an I do not, call me
+                            villain, and baffle me."</q></p>
+                    <pb n="101" />
+                    <p>We must take care how we speak of <persName key="Macheath" ref="http://www.wikidata.org/entity/Q6723223" cert="high"
+                            type="fictional">Macheath</persName>, or we shall be said to be getting political
+                        again. <persName key="Henry Fielding" ref="http://www.wikidata.org/entity/Q131061" cert="high"
+                            type="real">Fielding</persName>'s <title level="m" key="The Life of Jonathan Wild the Great"
+                            ref="http://www.wikidata.org/entity/Q3813735">Jonathan Wild the Great</title> is
+                        also, in this sense, <q type="foreign">caveare</q> to the multitude. But we would say
+                        more of him, if we had room. <persName key="Count Fathom" ref="http://www.wikidata.org/entity/Q115792275" cert="high"
+                            type="fictional">Count Fathom</persName>, a deliberate scoundrel, compounded of the
+                            <persName key="Jonathan Wild" ref="http://www.wikidata.org/entity/Q1333792" cert="high"
+                            type="real">Jonathan Wilds</persName> and the more equivocal <persName key="Alessandro Cagliostro"
+                            ref="http://www.wikidata.org/entity/Q316335" cert="high" type="real"
+                            >Cagliostros</persName> and otlier adventurers, is a thief not at all to our taste.
+                        We are continually obliged to call his mother to our recollection, in order
+                        to bear him. The only instance in which the character of an absolute
+                        profligate pickpocket was ever made comparatively welcome to our graver
+                        feelings, is in the extraordinary novel of <title level="m" key="Manon Lescaut"
+                            ref="http://www.wikidata.org/entity/Q608759">Manon L'Escaut</title> by the <persName
+                            key="Antoine François Prévost" ref="http://www.wikidata.org/entity/Q313596"
+                            cert="high" type="real">Able Prevost</persName>. It is the story of a young man so
+                        passionately in love with a profligate female, that he follows her through
+                        every species of vice and misery, even when she is sent as a convict to
+                            <placeName type="city" key="New Orleans" corresp="USA"
+                            ref="http://www.wikidata.org/entity/Q34404" cert="high">New Orleans</placeName>. His
+                        love indeed is returned. He is obliged to subsist upon her vices; and in
+                        return, is induced to help her with his own, becoming a cheat and a swindler
+                        to supply her outrageous extravagances. On board the convict ship (if we
+                        recollect) he waits on her through every species of squalidness; the
+                        convict-dress and her shaved head only redoubling his love by the help of
+                        pity. This seems a shocking and very immoral book; yet multitudes of very
+                        reputable people have found a charm in it. The fact is, not only that
+                            <persName key="Manon Lescaut" ref="http://www.wikidata.org/entity/Q608759" cert="high"
+                            type="fictional">Manon</persName> is beautiful, sprightly, really fond of her lover,
+                        and after all, becomes reformed; but that it is delightful, and ought to be
+                        so, to the human heart, to see a vein of sentiment and real goodness looking
+                        out through all this callous surface of guilt. It is like meeting with a
+                        tree in a squalid hole of a city,—a flower, or a frank face, in a reprobate
+                        purlieu. The capabilities of human nature are not compromised. The virtue
+                        alone seems natural; the guilt, as it so often is, seems artificial, and the
+                        result of some bad education or other circumstance. Nor is any body injured.
+                        It is one of the shallowest of all shallow notions to talk of the harm of
+                        such works. Do we think nobody is to be harmed but the virtuous! Or that
+                        there are not privileged harms and vices to be got rid of, as well as
+                        unprivileged? No good-hearted person will be injured by reading <title
+                            level="m" key="Manon Lescaut">Manon L'Escaut</title>. There is the belief in
+                        goodness in it;—a faith, the want of which does so much harm both to the
+                        vicious and to the over-righteous.</p>
+                    <p>The prince of all robbers, <placeName type="country" key="England" corresp="United Kingdom"
+                            >English</placeName> or foreign, is undoubtedly <persName key="Robin Hood"
+                            ref="http://www.wikidata.org/entity/Q492211" cert="high"
+                            type="fictional" xml:id="robinhood">Robin Hood</persName>. There is a worthy <placeName
+                            type="country" key="Scotland" corresp="United Kingdom">Scottish</placeName> namesake of
+                        his, <persName key="Rob Roy MacGregor" ref="http://www.wikidata.org/entity/Q363821"
+                            cert="high" type="real" xml:id="robroy">Rob Roy</persName>, who has been lately had justice
+                        done to all his injuries by a country-man; and the author, it seems, has now
+                        come down from the borders to see the <persName ref="#robroy">Rob</persName> of the elder
+                        times well treated. We were obliged to tear ourselves away from his first
+                            volume<note type="hunt">* Of <title level="m" key="Ivanhoe"
+                                ref="http://www.wikidata.org/entity/Q464458">Ivanhoe</title>.</note>, to go to
+                        this ill-repaying article. But <persName ref="#robinhood">Robin Hood</persName> will still
+                        remain the chief and <q type="distinct">gentlest of thieves.</q> He acted upon a larger
+                        scale, or in opposition to a larger injustice, to a whole political system.
+                        He <q type="distinct">shook the super-flux</q> to the poor, <q type="distinct">and shewed the
+                            heavens more just.</q> However, what we have to say of him we must keep
+                        till the trees are in leaf again, and the greenwood shade delightful.</p>
+                    <pb n="102" />
+                    <p>We dismiss, in one rabble-like heap, the real <persName key="Jonathan Wild"
+                            ref="http://www.wikidata.org/entity/Q1333792" cert="high" type="real"
+                            >Jonathan Wilds</persName>, <persName key="James Abershaw" cert="high" type="real"
+                            >Avershaws</persName>, and other heroes of the <title level="m" key="Newgate Calendar"
+                            ref="http://www.wikidata.org/entity/Q7018047">Newgate Calender</title>, who have
+                        no redemption in their rascality. And after them, for gentlemen-valets, may
+                        go the <persName key="George Barrington" ref="http://www.wikidata.org/entity/Q5537000"
+                            cert="high" type="real"><choice><corr>Barringtons</corr><sic>Barringtnns</sic></choice></persName>, <persName key="Major James Semple" cert="high" type="real"
+                            >Major Semples</persName>, and other sneaking rogues, who held on a tremulous
+                        career of iniquity betwixt pilfering and repenting. Yet <persName key="Jack Sheppard"
+                            ref="http://www.wikidata.org/entity/Q3157152" cert="high" type="real"
+                            ><choice><corr>Jack Sheppard</corr><sic>Jack Snepherd</sic></choice></persName> must not be forgotten, with his ingenious and daring breaks out
+                        of prison; nor <persName key="Dick Turpin" ref="http://www.wikidata.org/entity/Q929977"
+                            cert="high" type="real">Turpin</persName>, who is said to have ridden his horse with such
+                        swiftness from <placeName type="city" key="York" corresp="United Kingdom"
+                            ref="http://www.wikidata.org/entity/Q42462" cert="high">York</placeName> to <placeName
+                            type="city" key="London" corresp="United Kingdom"
+                            ref="http://www.wikidata.org/entity/Q84" cert="high">London</placeName>, that he was
+                        enabled to set up an alibi. We have omitted to notice the celebrated <rs
+                            type="group">Buccaniers of America</rs>; but these are fellows, with regard to whom we
+                        are willing to take <persName key="Dogberry" ref="http://www.wikidata.org/entity/Q116174880"
+                            cert="high" type="fictional">Dogberry</persName>'s advice, and <q type="spoken">steal out
+                            of their company.</q></p>
+                    <p>All hail, thou most attractive of scape-graces;—thou most accomplished of
+                        gentlemen of the road;—thou, worthy to be called one of <q type="distinct">the minions
+                            of the moon,</q>—<persName key="Claude Du Vall" ref="http://www.wikidata.org/entity/Q2977464"
+                            cert="high" type="real">Monsieur Claude Du Vall</persName>,— whom we have come such a
+                        long and dangerous journey to see!</p>
+                    <p><persName ref="#claudeduval">Claude Du Val</persName>, according to a pleasant account of him,
+                        in the <bibl><title level="m" key="Harleian Miscellany">Harleian Miscellany</title></bibl>, was born at <placeName type="city" key="Domfront" corresp="France"
+                            ref="http://www.wikidata.org/entity/Q749466" cert="high">Domfront</placeName> in <placeName
+                            type="region" key="Normandy" corresp="France"
+                            ref="http://www.wikidata.org/entity/Q12602" cert="high">Normandy</placeName>, in the
+                        year <date when="1643">1643</date>, of <persName type="real">Pierre du Vall</persName>, miller,
+                        and <persName type="real">Marguerite de la Roche</persName>, the fair daughter of a tailor.
+                        Being a sprightly boy, he did not remain in the country, but became servant
+                        to a person of quality at <placeName type="city" key="Paris" corresp="France"
+                            ref="http://www.wikidata.org/entity/Q90" cert="high">Paris</placeName>; and with this
+                        gentleman he came over to <placeName type="country" key="England" corresp="United Kingdom"
+                            >England</placeName> at the time of the <rs type="event">Restoration</rs>. It is
+                        difficult to say, which came over to pick the most pockets and hearts,
+                            <persName key="Charles II of England" ref="http://www.wikidata.org/entity/Q125966" cert="high"
+                            type="real">Charles the Second</persName>, or <persName ref="#claudeduval">Claude Du
+                            Vall</persName>. Be this as it may, his <q type="distinct">courses</q> of life, (<q
+                            type="written">for,</q> says the contemporary historian, <q type="written">I dare not
+                            call them vices,</q>) soon reduced him to the necessity of going upon the
+                        road; and here <q type="written">he quickly became so famous, that in a proclamation for
+                            the taking several notorious highwaymen, he had the honour to be named
+                            first.</q>He took, says his biographer, <q type="distinct">the generous way of
+                            padding;</q> that is to say, he behaved with exemplary politeness to all
+                        coaches, especially those in which there were ladies; making a point of
+                        frightening them as amiably as possible; and insisting upon returning any
+                        favourite trinkets or keepsakes, for which they chose to appeal to him with
+                            <q type="distinct">their most sweet voices.</q></p>
+                    <pb n="103" />
+                    <p>It was in this character that he performed an exploit, which is the eternal
+                        feather in the cap of highway gentility. We will relate it in the words of
+                        our informer. Riding out with some of his confederates, <q type="written">he
+                            overtakes a coach, which they had set over night, having intelligence of
+                            a booty of four hundred pounds in it. In the coach was a knight, his
+                            lady, and only one serving-maid, who, perceiving five horsemen making up
+                            to them, presently imagined that they were beset; and they were confirmed
+                            in this apprehension, by seeing them whisper to one another, and ride
+                            backwards and forwards. The lady, to shew she was not afraid, takes a
+                            flageolet out of her pocket, and plays: <persName ref="#claudeduval">Du Vall</persName>
+                            takes the hint, plays also, and excellently well, upon a flageolet of
+                            his own, and in this posture he rides up to the coach-side. <q
+                                type="spoken">Sir,</q> says he, to the person in the coach, <q type="spoken">your
+                                lady plays excellently, and I doubt not but that she dances as well
+                                ; will you please to walk out of the coach, and let me have the
+                                honour to dance one</q></q></p>
+                    <pb n="104" />
+                    <p><q type="written">currant with her upon the heath?' <q type="spoken">Sir,</q> said the person
+                            in the coach, <q type="spoken">I dare not deny any thing to one of your quality
+                                and good mind ; you seem a gentleman, and your request is very
+                                reasonable:</q> which said, the lacquey opens the boot, out comes
+                            the knight, <persName ref="#claudeduval">Du Vall</persName> leaps lightly off his horse,
+                            and hands the lady out of the coach. They danced, and here it was that
+                                <persName ref="#claudeduval">Du Vall</persName> performed marvels; the best master
+                            in <placeName type="city" key="London" corresp="United Kingdom">London</placeName>, except
+                            those that are <placeName type="country" key="France" corresp="France">French</placeName>,
+                            not being able to shew such footing as he did in his great riding
+                                <placeName type="country" key="France" corresp="France">French</placeName> boots. The
+                            dancing being over, he waits on the lady to her coach. As the knight was
+                            going in, says <persName ref="#claudeduval">Du Vall</persName> to him, <q type="spoken"
+                                >Sir, you have forgot to pay the music:</q> <q type="spoken">No, I have
+                                not,</q> replies the knight, and putting his hand under the seat of
+                            the coach, pulls out a hundred pounds in a bag, and delivers it to him;
+                            which <persName ref="#claudeduval">Du Vall</persName> took with a very good grace, and
+                            courteously answered, <q type="spoken">Sir, you are liberal, and shall have no
+                                cause to repent your being so; this liberality of yours shall
+                                excuse you the other three hundred pounds,</q> and, giving him the
+                            word, that if he met with any more of the crew, he might pass
+                            undisturbed, he civilly takes his leave of him.</q></p>
+                    <p><q type="written">This story, I confess, justifies the great kindness the ladies had for
+                                <persName ref="#claudeduval">Du Vall</persName>; for in this, as in an epitome,
+                            are contained all things that set a man off advantageously, and make him
+                            appear, as the phrase is, much a gentleman. First, here was valour, that
+                            he and but four more durst assault a knight, a lady, a
+                            waiting-gentlewoman, a lacquey, a groom that rid by to open the gates,
+                            and the coachman, they being six to five, odds at football; and besides,
+                                <persName ref="#claudeduval">Du Vall</persName> had much the worst cause, and reason
+                            to believe, that whoever should arrive, would range themselves on the
+                            enemy's party. Then he shewed his invention and sagacity, that he could
+                                <hi rend="italic">sur le champ</hi>, and, without studying, make that advantage
+                            of the lady's playing on the flageolet. He evinced his skill in
+                            instrumental music, by playing on his flageolet; in vocal by his
+                            singing ; for (as I should have told you before) there being no violins,
+                                <persName ref="#claudeduval">Du Vall</persName> sung the currant himself. <q
+                                type="written">He manifested his agility of body, by lightly dismounting off his
+                                horse, and with ease and freedom getting up again, when he took his
+                                leave <choice><corr>—</corr><sic>3</sic></choice> his excellent deportment, by his incomparable dancing, and his
+                                graceful manner of taking the hundred pounds; his generosity, in
+                                taking no more; his wit and eloquence, and readiness at repartees,
+                                in the whole discourse with the knight and lady, the greatest part
+                                of which I have been forced to omit.</q></q></p>
+                    <p>The noise of the proclamation made <persName ref="#claudeduval">Du Vall</persName> return to
+                            <placeName type="city" key="Paris" corresp="France">Paris</placeName>; but he came back
+                        in a short time for want of money. His reign however did not last long after
+                        his restoration. He made an unlucky attack, not upon some ill-bred
+                        passengers, but upon several bottles of wine, and was taken in consequence
+                        at the <placeName type="pub" key="Hole-in-the-Wall" corresp="United Kingdom"
+                            >Hole-in-the-Wall</placeName>, in <placeName type="street" key="Chandos Street"
+                            corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q5072044"
+                            cert="high">Chandos-street</placeName>. His life was interceded for in vain: he was
+                        arraigned and committed to <placeName type="prison" key="Newgate Prison"
+                            corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1474246"
+                            cert="high">Newgate</placeName>; and executed at <placeName type="place" key="Tyburn"
+                            corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q2005481"
+                            cert="high">Tyburn</placeName> in the <date when="1670">27th year of his age</date>;
+                        showers of tears from fair eyes bedewing his fate, both while alive in
+                        prison, and while dead at the fatal tree.</p>
+                    <p><persName ref="#claudeduval">Du Vall</persName>'s success with the ladies of those days, whose
+                        amatory taste was of a turn more extensive than enlarged, seems to have
+                        made</p>
+                    <pb n="104" />
+                    <p>some very well dressed <placeName type="country" key="England" corresp="United Kingdom"
+                            >English</placeName> gentlemen jealous. The writer of <persName
+                            ref="#claudeduval">Du Vall</persName>'s life, who is a man of wit, evidently has
+                        something of bitterness in his railleries upon this point; but he manages
+                        them very pleasantly. He pretends that he is an old bachelor, and has never
+                        been able to make his way with his fair countrywomen, <choice><corr>on
+                            account</corr><sic>on at count</sic></choice> of the <placeName type="country" key="France" corresp="France"
+                            >French</placeName> valets that have stood in his way. He says he had
+                        two objects in writing the book. <q type="written">One is, that the next <placeName
+                                type="country" key="France" corresp="France">Frenchman</placeName> that is
+                            hanged may not cause an uproar in this imperial city; which I doubt not
+                            but I have effected.</q></p>
+                    <p><q type="written">The other is a much harder task: To set my countryman on even terms
+                            with the <placeName type="country" key="France" corresp="France">French</placeName>, as
+                            to the <placeName type="country" key="England" corresp="United Kingdom"
+                                >English</placeName> ladies' affections. If I should bring this
+                            about, I should esteem myself to have contributed much to the good of
+                            this kingdom.</q></p>
+                    <p><q type="written">One remedy there is, which, possibly, may conduce something towards
+                            it.</q></p>
+                    <p><q type="written">I have heard, that there is a new invention of transfusing the blood of
+                            one animal into another, and that it has been experimented by putting
+                            the blood of a sheep into an <placeName type="country" key="England"
+                                corresp="United Kingdom">Englishman</placeName>. I am against that way of
+                            experiments; for, should we make all <placeName type="country" key="England"
+                                corresp="United Kingdom">Englishmen</placeName> sheep, we should soon be a prey
+                            to the <choice><corr>lure</corr><sic>loure</sic></choice>.</q></p>
+                    <p><q type="written">I think I can propose the making that experiment, a more advantageous
+                            way. I would have all gentlemen, who have been a full year, or more, out
+                            of <placeName type="country" key="France" corresp="France">France</placeName>, be let
+                            blood weekly, or oftener, if they can bear it. Mark how much they bleed
+                            ; transfuse so much <placeName type="country" key="France" corresp="France"
+                                >French</placeName> lacquey's blood into them; replenish these last
+                            out of the <placeName type="country" key="England" corresp="United Kingdom"
+                                >English</placeName> footmen, for it is no matter what becomes of
+                            them. Repeat this operation <hi rend="italic">toties quoties</hi>, and, in process of
+                            time, you will find this event: Either the <placeName type="country" key="England"
+                                corresp="United Kingdom">English</placeName> gentlemen will be as much beloved
+                            as the <placeName type="country" key="France" corresp="France">French</placeName>
+                            lacqueys, or the <placeName type="country" key="France" corresp="France"
+                                >French</placeName> lacqueys as little esteemed as the <placeName
+                                type="country" key="England" corresp="United Kingdom">English</placeName>
+                            gentlemen.</q></p>
+                    <p><persName key="Samuel Butler (poet)" ref="http://www.wikidata.org/entity/Q355225" cert="high"
+                            type="real">Butler</persName> has left an <rs type="genre">Ode</rs>, sprinkled with his
+                        usual wit, <q type="written">To the Happy Memory of the Most Renowned Du Val,</q>
+                        who</p>
+                    <lg xml:lang="en">
+                        <l>— Like a pious man, some years before</l>
+                        <l>The arrival of his fatal hour.</l>
+                        <l>Made every day he had to live</l>
+                        <l>To his last minute a proparative;</l>
+                        <l>Taught the wild <placeName type="country" key="Arabia" corresp="Middle East"
+                                >Arabs</placeName> on the road</l>
+                        <l>To act in a more gentle mode:</l>
+                        <l>Take prizes more obligingly from those,</l>
+                        <l>Who never had been bred filious;</l>
+                        <l>And how to hang in a more graceful fashion.</l>
+                        <l>Than e'er was known before to the dull <placeName type="country" key="England"
+                                corresp="United Kingdom">English</placeName> nation.</l>
+                    </lg>
+                    <p>As it may be thought proper that we should end this lawless article with a
+                        good moral, we will give it two or three sentences from <persName key="William Shakespeare"
+                            ref="http://www.wikidata.org/entity/Q692" cert="high" type="real"
+                            >Shakspeare</persName> worth a whole volume of sermons against thieving. The
+                        boy who belongs to <persName ref="#falstaff">Falstaff</persName>'s companions, and who begins
+                        to see through the shallowness of their cunning and way of life, says that
+                            <persName key="Bardolph (character)" ref="http://www.wikidata.org/entity/Q4860361"
+                            cert="high" type="fictional">Bardolph</persName> stole a <objectName type="musicalInstrument"
+                            >lute-case</objectName>, carried it <measure unit="mile" quantity="12"
+                            >twelve miles</measure>, and sold it for <measure unit="pence" quantity="3.5"
+                            >three halfpence</measure>.</p>
+                </div2>
+                <div2 type="colophon"> <!-- Publisher and printer information -->
+                    <p>Orders received by the Newsmen; by the Booksellers, and by the Publisher,
+                            <persName key="Joseph Appleyard" cert="medium" type="real">JOSEPH
+                            APPLEYARD</persName>,</p>
+                    <p><placeName type="address" key="19 Catherine Street Strand London" corresp="United Kingdom"
+                            >No. 19, Catherine-street, Strand</placeName>.— Price <measure unit="pence"
+                            quantity="2">2d</measure>.</p>
+                    <p>Printed by <persName key="C. H. Reynell" cert="medium" type="real">C. H. Reynell</persName>,
+                            <placeName type="address" key="45 Broad Street Golden Square" corresp="United Kingdom"
+                            >No. 45,Broad-street, Golden-square</placeName>.</p>
+                </div2>
+            </div1>
+            <div1 type="issue" n="14">
+                <teiHeader>
+                    <fileDesc>
+                        <titleStmt>
+                            <title>The Indicator</title>
+                            <author>
+                                <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                                <surname>Hunt</surname>,
+                                <date from="1784" to="1859">1784-1859</date>
+                            </author>
+                        </titleStmt>
+                        <publicationStmt>
+                            <p>Digital edition by [Your Name/Institution].</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                            <bibl>
+                                <author>
+                                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                                    <surname>Hunt</surname>,
+                                    <date from="1784" to="1859">1784-1859</date>
+                                </author>,
+                                <title level="j">The Indicator</title>
+                                <date when="1820-01-12">January 12, 1820</date>
+                                <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                                <publisher>Joseph Appleyard</publisher>
+                            </bibl>
+                        </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                        <p>
+                            Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                            included for reference to the source only and are not intended to indicate precise
+                            preservation.
+                        </p>
+                    </encodingDesc>
+                    <profileDesc>
+                    </profileDesc>
+                </teiHeader>
+                <pb n="105" />
+                <div2 type="title">
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. <choice><reg>XIV</reg><orig>_____</orig></choice>.—WEDNESDAY, <choice><reg>JANUARY 12th</reg><orig>____ __</orig></choice>, <choice><reg>1820</reg><orig>18__</orig></choice>.</head>
+                </div2>
+                <div2 type="section" n="1">
+                    <head type="header" rend="uppercase">A FEW THOUGHTS ON SLEEP.</head>
+                    <p>This is an article for the reader to think of, when he or she is warm in
+                        bed, a little before he goes to sleep, the clothes at his ear, and the wind
+                        moaning in some distant crevice.</p>
+                    <p><q type="spoken">Blessings,</q> exclaimed <persName key="Sancho Panza" ref="http://www.wikidata.org/entity/Q841312" cert="high"
+                            type="fictional">Sancho</persName>, <q type="spoken">on him that first invented sleep!
+                            It wraps a man all round like a cloak.</q> It is a delicious moment
+                        certainly,—that of being well nestled in bed, and feeling that you shall
+                        drop gently to sleep. The good is to come, not past: the limbs have been
+                        just tired enough, to render the remaining in one posture delightful: the
+                        labour of the day is done. A gentle failure of the perceptions comes
+                        creeping over one:--the spirit of consciousness disengages itself more and
+                        more, with slow and hushing degrees, like a mother detaching her hand from
+                        that of her sleeping child;—the mind seems to have a balmy lid closing over
+                        it, like the eye;—'tis closing; —'tis more closing;—'tis closed. The
+                        mysterious spirit has gone to take it's airy rounds.</p>
+                    <p>It is said that sleep is best before midnight: and <persName key="Nature"
+                            type="myth">Nature</persName> herself, with her darkness and chilling dews, informs
+                        us so. There is another reason for going to bed betimes : for it is
+                        universally acknowledged that lying late in the morning is a great shortener
+                        of life. At least, it is never found in company with longevity. It also
+                        tends to make people corpulent. But these matters belong rather to the
+                        subject of early rising, than of sleep.</p>
+                    <p>Sleep at a late hour in the morning, is not half so pleasant as the more
+                        timely one. It is sometimes however excusable, especially to a, watchful or
+                        over-worked head; neither can we deny the seducing merits of <q
+                            type="distinct">t' other doze,</q>— the pleasing wilfulness of nestling
+                        in a new posture, when you know you ought to be up, like the rest of the
+                        house. But then you cut up the day, and your sleep the next night.</p>
+                    <p>In the course of the day, few people think of sleeping, except after dinner ;
+                        and then it is often rather a hovering and nodding on the borders of sleep,
+                        than a sleep itself. This is a privilege, allowable, we think, to none but
+                        the old, or the sickly, or the very tired and care-worn ; and it should be
+                        well understood, before it is exercised in company. To escape into slumber
+                        from an argument; or to take</p>
+                    <pb n="106" />
+                    <p>it as an affair of course, only between you and your biliary duct; or to
+                        assent with involuntary nods to all that you have just been <choice><corr>disputing;
+                        </corr><sic>disputing 5</sic></choice> is not so well: much less, to sit nodding and
+                        tottering beside a lady; or to be in danger of dropping your head into the
+                        fruit-plate or your host's face; or of waking up, and saying <q
+                            type="spoken">Just so</q> to the bark of a dog, or <q type="spoken">Yes, Madam</q> to
+                        the black at your elbow.</p>
+                    <p>Care-worn people however might refresh themselves oftener with day-sleep than
+                        they do; if their bodily state is such as to dispose them to it. It is a
+                        mistake to suppose that all care is wakeful. People sometimes sleep, as well
+                        as wake, by reason of their sorrow. The difference seems to depend upon the
+                        nature of their temperament ; though in the most excessive cases, sleep is
+                        perhaps <persName key="Nature" type="myth">Nature</persName>'s never-failing relief, as
+                        swooning is upon the rack. A person with jaundice in his blood shall lie
+                        down and go to sleep at noon-day, when another of a different complexion
+                        shall find his eyes as uncloseable as a statue's, though he has had no sleep
+                        for nights together. Without meaning to lesson the dignity of suffering,
+                        which has quite enough to do with it's waking hours, it is this that may
+                        often account for the profound sleeps enjoyed the night before hazardous
+                        battles, executions, and other demands upon an over-excited spirit.</p>
+                    <p>The most complete and healthy sleep that can be taken in the day, is in
+                        summer-time, out in a field. There is perhaps no solitary sensation so
+                        exquisite as that of slumbering on the grass or hay, shaded from the hot sun
+                        by a tree, with the consciousness of a fresh but light air running through
+                        the wide atmosphere, and the sky stretching far overhead upon all sides.
+                            <placeName type="physical">Earth</placeName>, and heaven, and a placid humanity, seem
+                        to have the creation to themselves. There is nothing between the slumberer,
+                        and the naked and glad innocence of nature.</p>
+                    <p>Next to this, but at a long interval, the most, relishing snatch of slumber
+                        out of bed, is the one which a tired person takes, before he retires for the
+                        night, while lingering in his sitting-room. The consciousness of being very
+                        sleepy and of having the power to go to bed immediately, gives great zest to
+                        the unwillingness to move. Sometimes he sits nodding in his chair; but the
+                        sudden and leaden jerks of the head to which a state of great sleepiness
+                        renders him liable, are generally too painful for so luxurious a moment; and
+                        he gets into a more legitimate posture, sitting sideways with his head on the
+                        chair-back, or throwing his legs up at once on another chair, and half
+                        reclining. It is curious however to find, how long an inconvenient posture
+                        will be borne for the sake of this foretaste of repose. The worst of it is,
+                        that on going to bed, the charm sometimes vanishes; perhaps from the colder
+                        temperature of the chamber; for a fireside is a great opiate.</p>
+                    <p>Speaking of the painful positions into which a sleepy lounger will get
+                        himself, it is amusing to think of the more fantastic attitudes that so
+                        often take place in bed. If we could add any thing to the numberless things
+                        that have been said about sleep by the poets, it would be upon this point.
+                        Sleep never shews himself a greater</p>
+                    <pb n="107" />
+                    <p>leveller. A man in his waking moments may look as proud and self-possessed as
+                        he pleases. He may walk proudly, he may sit proudly, he may eat his dinner
+                        proudly; he may shave himself with an air of infinite superiority; in a word,
+                        he may shew himself grand and absurd upon the most trifling occasions. But
+                        Sleep plays the petrifying magician. He arrests the proudest lord as well as
+                        the humblest clown in the most ridiculous postures: so that if you could draw
+                        a grandee from his bed without waking him, no limb-twisting fool in a
+                        pantomime should create wilder laughter. The toy with the string between
+                        it's legs is hardly a posture-master more extravagant. Imagine a despot
+                        lifted up to the gaze of his valets, with his eyes shut, his mouth open, his
+                        left hand under his right ear, his other twisted and hanging helplessly before
+                        him like an ideot's, one knee lifted up, and the other leg stretched out, or
+                        both knees huddled up together; what a scarecrow to lodge majestic power
+                        in!</p>
+                    <p>But Sleep is kindly, even in his tricks; and the poets have treated him with
+                        proper reverence. According to the ancient mythologists, he had even one of
+                        the <rs type="mythologicalCreature">Graces</rs> to wife. He had a thousand sons, of whom
+                        the chief were <persName key="Morpheus" ref="http://www.wikidata.org/entity/Q105658" cert="high"
+                            type="myth" xml:id="morpheus">Morpheus</persName>, or the <q type="distinct"
+                            >Shaper</q>; <persName key="Icelos" ref="http://www.wikidata.org/entity/Q2718118" cert="high"
+                            type="myth">Icelos</persName>, or the <q type="distinct">Likely</q>; <persName key="Phantasus"
+                            ref="http://www.wikidata.org/entity/Q2588365" cert="high" type="myth"
+                            >Phantasus</persName>, the <q type="distinct">Fancy</q>; and <persName key="Phobetor"
+                            ref="http://www.wikidata.org/entity/Q2588365" cert="high" type="myth"
+                            >Phobetor</persName>, the <q type="distinct">Terror</q>. His dwelling some writers place in
+                        a dull and darkling part of the earth; others, with greater compliment, in
+                        heaven; and others, with another kind of propriety, by the sea-shore. There
+                        is a good description of it in <persName key="Ovid" ref="http://www.wikidata.org/entity/Q7198" cert="high"
+                            type="real">Ovid</persName>; but in these abstracted tasks of poetry, the moderns
+                        outvie the ancients; and there is nobody who has built his bower for him so
+                        finely as <persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high"
+                            type="real">Spenser</persName>. <persName key="Archimago" ref="http://www.wikidata.org/entity/Q4786966" cert="high"
+                            type="fictional">Archimago</persName> in the first book of the <title level="m"
+                            key="The Faerie Queene" ref="http://www.wikidata.org/entity/Q1246183"
+                            >Faery Queen</title>, (<biblScope unit="canto">Canto 1</biblScope>, <biblScope
+                            unit="stanza">St. 39</biblScope>.) sends a little spirit down to <persName
+                            ref="#morpheus">Morpheus</persName> to fetch him a Dream.</p>
+                    <lg xml:lang="en">
+                        <l>He, making speedy way through spersed ayre,</l>
+                        <l>And through the world of waters, wide and deepe,</l>
+                        <l>To <persName ref="#morpheus">Morpheus</persName>' house doth hastily repaire.</l>
+                        <l>Amid the bowels of the earth full steepe,</l>
+                        <l>And low, where dawning day doth never peepe,</l>
+                        <l>His dwelling is. There, <persName key="Tethys" ref="http://www.wikidata.org/entity/Q184224" cert="high"
+                                type="myth">Tethys</persName> his wet bed</l>
+                        <l>Doth ever wash; and <persName key="Cynthia" ref="http://www.wikidata.org/entity/Q79441148" cert="high"
+                                type="myth">Cynthia</persName> still doth steepe</l>
+                        <l>In silver dew his ever-drouping head,</l>
+                        <l>Whiles sad Night over him her mantle black doth spred.</l>
+                        <l>And more to lull him in his slumbler soft</l>
+                        <l>A trickling streame from high rocke tumbling downe,</l>
+                        <l>And ever-dringling rain upon the loft,</l>
+                        <l>Mixed with a murmuring winde, much like the soune</l>
+                        <l>Of swarming bees, did cast him in a swoune.</l>
+                        <l>No other noise, nor people's troublous cryes,</l>
+                        <l>As still are wont to annoy the walled towne.</l>
+                        <l>Might there be heard, but carelesse Quiet lyes.</l>
+                        <l>Wrapt in eternall silence, farre from enimyes.</l>
+                    </lg>
+                    <p><persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5663" cert="high"
+                            type="real">Chaucer</persName> has drawn the cave of the same god with greater
+                        simplicity; but nothing can have a more deep and sullen effect than his
+                        cliffs and cold running waters. It seems as real as an actual solitude, or
+                        some quaint old picture in a book of travels in <placeName type="country"
+                            key="Tartary" corresp="Asia">Tartary</placeName>. He is telling the story of
+                            <persName key="Ceyx" ref="http://www.wikidata.org/entity/Q2980839" cert="high" type="myth"
+                            >Ceyx</persName> and <persName key="Alcyone" ref="http://www.wikidata.org/entity/Q1164998" cert="high"
+                            type="myth">Alcyone</persName> in the poem called his <title level="m"
+                            key="The Book of the Duchess">Dream</title>. <persName key="Juno" ref="http://www.wikidata.org/entity/Q40579" cert="high"
+                            type="myth">Juno</persName> tells a messenger to go to <persName ref="#morpheus"
+                            >Morpheus</persName> and <q type="spoken">bid him creep into</q></p>
+                    <pb n="108" />
+                    <p><q type="spoken">the body</q> of the drowned king, to let his wife know the fatal event
+                        by his apparition.</p>
+                    <lg xml:lang="en">
+                        <l>This messenger tooke leave, and went</l>
+                        <l>Upon his way; and never he stent</l>
+                        <l>Till he came to the dark valley,</l>
+                        <l>That stant betweene rockes twey.</l>
+                        <l>There never yet grew corne, ne gras,</l>
+                        <l>Ne tree, ne nought that aught was,</l>
+                        <l>Beast ne man, ne naught else;</l>
+                        <l>Save that there were a few wells</l>
+                        <l>Came running fro the the cliffs adowne,</l>
+                        <l>That made a deadly sleeping soune,</l>
+                        <l>And runnen downe right by a cave,</l>
+                        <l>That was under a rocke ygrave,</l>
+                        <l>Amid the valley, wonder-deepe.</l>
+                        <l>There these goddis lay asleepe,</l>
+                        <l><persName ref="#morpheus">Morpheus</persName> and <persName key="Eclympasteire" type="myth" xml:id="eclynipasteire"
+                            >Eclynipasteire</persName>,</l>
+                        <l>That was the god of Sleepis heire,</l>
+                        <l>That slept and did none other worke.</l>
+                    </lg>
+                    <p>Where the credentials of this new son and heir, <persName ref="#eclynipasteire"
+                            >Eclympasteire</persName>, are to be found, we know not; but he acts very
+                        much, it must be allowed, like an heir presumptive, in sleeping, and doing
+                            <q type="distinct">none other work.</q></p>
+                    <p>We dare not trust ourselves with many quotations upon sleep from the poets;
+                        they are so numerous as well as beautiful. We must content ourselves with
+                        mentioning that our two most favourite passages are one in the <title
+                            level="m" key="Philoctetes" ref="http://www.wikidata.org/entity/Q1224967"
+                            >Philoctetes</title> of <persName key="Sophocles" ref="http://www.wikidata.org/entity/Q7220" cert="high"
+                            type="real">Sophocles</persName>, admirable for it's contrast to a scene of terrible
+                        agony, which it closes<note type="hunt">* We do not translate it here, as we
+                            intend to present the reader with the whole scene in an article upon
+                                <title level="m" key="Philoctetes">Philoctetes</title>.</note>: and the other the
+                        following address in <persName key="Francis Beaumont" ref="http://www.wikidata.org/entity/Q356238" cert="high"
+                            type="real">Beaumont</persName> and <persName key="John Fletcher" ref="http://www.wikidata.org/entity/Q447817" cert="high"
+                            type="real">Fletcher</persName>'s tragedy of <title level="m" key="Valentinian"
+                            ref="http://www.wikidata.org/entity/Q7910970">Valentinian</title>, the hero of
+                        which is also a sufferer under bodily torment. He is in a chair, slumbering;
+                        and these most exquisite lines are gently sung with music.</p>
+                    <lg xml:lang="en">
+                        <l>Care-charming Sleep, thou easer of all woes,</l>
+                        <l>Brother to Death, sweetly thyself dispose</l>
+                        <l>On this afflicted prince. Fall like a cloud</l>
+                        <l>In gentle showers: give nothing that is loud</l>
+                        <l>Or painful to his slumbers: easy, light,</l>
+                        <l>And as a purling stream, thou son of, Night,</l>
+                        <l>Pass by his troubled senses: sing his pain</l>
+                        <l>Like hollow murmuring wind, or silver rain:</l>
+                        <l>Into this prince, gently, oh gently slide;</l>
+                        <l>And kiss him into slumbers, like a bride.</l>
+                    </lg>
+                    <p>How earnest and prayer-like are these pauses! How lightly sprinkled, and yet
+                        how deeply settling, like rain, the fancy! How quiet, affectionate, and
+                        perfect the conclusion!</p>
+                    <p>Sleep is most graceful in an infant; soundest, in one who has been tired in
+                        the open air; completest, to the seaman after a hard voyage; most welcome,
+                        to the mind haunted with one idea; most touching to look at, in the parent
+                        that has wept; lightest, in the playful child; proudest, in the bride
+                        adored.</p>
+                </div2>
+                <div2 type="section" n="2">
+                    <pb n="109" />
+                    <head type="header" rend="uppercase">THE FAIR REVENGE.</head>
+                    <p>The elements of this story are to be found in the old poem called <title
+                            level="m" key="Albion's England" ref="http://www.wikidata.org/entity/Q4712411"
+                            >Albion's England</title>, to which we referred in the article on
+                            <persName key="Charles Brandon" ref="http://www.wikidata.org/entity/Q349377" cert="high"
+                            type="real">Charles Brandon</persName> and <persName key="Mary Tudor (queen of France)"
+                            ref="http://www.wikidata.org/entity/Q231735" cert="high" type="real"
+                            >Mary Queen of France</persName>,</p>
+                    <p><persName key="Aganippus" type="myth">Aganippus</persName>, king of <placeName type="city"
+                            key="Argos" corresp="Greece" ref="http://www.wikidata.org/entity/Q189569"
+                            cert="high">Argos</placeName>, dying without heirs male, bequeathed his throne to his
+                        only daughter, the beautiful and beloved <persName type="myth" xml:id="daphles"
+                            >Daphles</persName>. This female succession was displeasing to a nobleman
+                        who held large possessions on the frontiers; and he came for the first time
+                        towards the court, not to pay his respects to the new queen, but to give her
+                        battle. <persName type="myth" xml:id="doracles">Doracles</persName> (for that was his name)
+                        was not much known by the people. He had distinguished himself for as jealous
+                        an independence as a subject could well assume; and though he had been of use
+                        in repelling invasion during the latter years of the king, had never made his
+                        appearance to receive his master's thanks personally. A correspondence
+                        however was understood to have gone on between him and several noblemen about
+                        the court 3 and there were those, who in spite of his inattention to
+                        popularity, suspected that it would go hard with the young queen, when the two
+                        armies came face to face.</p>
+                    <p>But neither these subtle statesmen, nor the ambitious young soldier <persName
+                            ref="#doracles">Doracles</persName>, were aware of the effects to be produced by a
+                        strong personal attachment. The young queen, amiable as she was beautiful,
+                        had involuntarily baffled his expectations from her courtiers, by exciting in
+                        the minds of some a real disinterested regard, while others nourished a hope
+                        of sharing her throne instead. At least, they speculated upon becoming, each
+                        the favourite minister; and held it a better thing to reign under that title
+                        and a charming mistress, than be the servants of a master, wilful and
+                        domineering. By the people she was adored; and when she came riding out of
+                        her palace, on the morning of the fight, with an unaccustomed spear standing
+                        up in it's rest by her side, her diademed hair flowing a little off into the
+                        wind, her face paler than usual, but still tinted with it's roses, and a look
+                        in which confidence in the love of her subjects, and tenderness for the wounds
+                        they were going to encounter, seemed to contend for the expression, —the shout
+                        which they sent up would have told a stouter heart than a traitor's, that the
+                        royal charmer was secure.</p>
+                    <p>The queen, during the conflict, remained in a tent upon an eminence, to which
+                        the younger leaders vied who should best spur up their smoking horses, to
+                        bring her good news from time to time. The battle was short and bloody.
+                            <persName ref="#doracles">Doracles</persName> soon found that he had miscalculated his
+                        point; and all his skill and resolution could not set the error to rights.
+                        It was allowed, that if either courage or military talent could entitle him
+                        to the throne, he would have had a right to it; but the popularity of
+                            <persName ref="#daphles">Daphles</persName> supplied her cause with all the ardour,
+                        which a lax state of subjection on the part of the more powerful nobles might
+                        have denied it. When her troops charged, or made any other voluntary
+                        movement, they put all their hearts into their blows; and when they were
+                        compelled to await the enemy, they stood as inflexible as walls of iron. It
+                        was like hammering upon</p>
+                    <pb n="110" />
+                    <p>metal statuary; or staking their fated horses upon spears rivetted in stone.
+                            <persName ref="#doracles">Doracles</persName> was taken prisoner. The queen,
+                        re-issuing from her tent, crowned with laurel, came riding down the eminence,
+                        and remained at the foot with her generals, while the prisoners were taken
+                        by. Her pale face kept as royal a countenance of composed pity as she could
+                        manage, while the commoner rebels passed along, aching with their wounded arms
+                        fastened behind, and shaking back their bloody and blinding locks for want of
+                        a hand to part them. But the blood mounted to her cheeks, when the proud and
+                        handsome <persName ref="#doracles">Doracles</persName>, whom she now saw for the first
+                        time, blushed deeply as he cast a glance at his female conqueror, and then
+                        stepped haughtily along, handling his gilded chains as if they were an
+                        indifferent ornament. <q type="thought">I have conquered him,</q> thought she: <q
+                            type="thought">it is a heavy blow to so proud a head; and as he looks not
+                            unamiable, it might be politic as well as courteous and kind in me to
+                            turn his submission into a more willing one.</q> Alas! pity was helping
+                        admiration to a kinder set of offices, than the generous-hearted queen
+                        suspected. The captive went to his prison, a conqueror after all; for
+                            <persName ref="#daphles">Daphles</persName> loved him.</p>
+                    <p>The second night, after having exhibited in her manners a strange mixture of
+                        joy and seriousness, and signified to her counsellors her intention of
+                        setting the prisoner free, she released him with her own hands. Many a step
+                        did she hesitate as she went down the stairs; and when she came to the door,
+                        she shed a full, but soft, and as it seemed to her a wilful and refreshing
+                        flood of tears, humbling herself for her approaching task. When she had
+                        entered, she blushed deeply, and then turning as pale, stood for a minute
+                        silent and without motion, She then said, <q type="spoken">Thy queen, <persName
+                                ref="#doracles">Doracles</persName>, has come to shew thee how kindly she can
+                            treat a great and gallant subject, who did not know her</q> and with
+                        these words, and almost before she was aware, the prisoner was released, and
+                        preparing to go. He appeared surprised, but not off his guard, nor in any
+                        temper to be over-grateful. <q type="spoken">Name,</q> said he, <q type="spoken">O queen,
+                            the conditions on <q type="spoken">which I depart, and they will be faithfully
+                                kept.</q></q> <persName ref="#daphles">Daphles</persName> moved her lips, but they spoke not.
+                        She waved her head and hand with a deadly smile, as if free- ing him from
+                        all conditions; and he was turning to go, when she fell senseless on the
+                        floor. The haughty warrior raised her with more impatience than goodwill. He
+                        could guess at love in a woman; but he had but a mean opinion both of it and
+                        her sex; and the deadly struggle in the heart of <persName ref="#daphles"
+                            >Daphles</persName> did not help him to distinguish the romantic passion,
+                        which had induced her to put all her past and virgin notions of love into his
+                        person, from the commonest liking that might flatter his soldierly vanity.</p>
+                    <p>The queen, on awaking from her swoon, found herself compelled, in very justice
+                        to the intensity of a true passion, to explain how pity had brought it upon
+                        her. <q type="spoken">I might ask it,</q> said she, <q type="spoken"><persName
+                                ref="#doracles">Doracles</persName>, in return;</q> and here she resumed something
+                        of her queen-like dignity; <q type="spoken">but I feel that my modesty will be
+                            sufficiently saved by the name of your wife: and a substantial throne,
+                            with a return that shall nothing perplex or, interfere with thee, I do
+                            now accordingly</q></p>
+                    <pb n="111" />
+                    <p><q type="spoken">offer thee, not as the condition of thy freedom, but as a diversion
+                            of men's eyes and thoughts from what they will think ill in me, if they
+                            find me rejected.</q> And in getting out that hard word, her voice
+                            <choice><corr>faultered</corr><sic>£aultered</sic></choice> a little, and <choice><corr>her</corr><sic>hfer</sic></choice> eyes filled with tears.</p>
+                    <p><persName ref="#doracles">Doracles</persName>, with the best grace his lately defeated
+                        spirit could assume, spoke in willing terms of accepting her <choice><corr>offer</corr><sic>ofier</sic></choice>.
+                        They left the prison; and his full pardon having been proclaimed, the
+                        courtiers, with feasts and entertainments, vied who should seem best to
+                        approve their mistress's choice; for so they were quick to understand it. The
+                        late captive, who was really as graceful and accomplished as a proud spirit
+                        would let him be, received and returned all their attention in princely sort;
+                        and <persName ref="#daphles">Daphles</persName> was beginning to hope that he might turn a
+                        glad eye upon her some day, when news was brought her that he had gone from
+                        court, nobody knew whither. The next intelligence was too certain. He had
+                        passed the frontiers, and was leaguing with her enemies for another
+                        struggle.</p>
+                    <p>From that day, gladness, though not kindness, went out of the face of
+                            <persName ref="#daphles">Daphles</persName>. She wrote him a letter, without a word of
+                        reproach in it, enough to bring back the remotest heart that had the least
+                        spark of sympathy; but he only answered it in a spirit, which shewed that he
+                        regarded • the deepest love but as a wanton trifle. That letter touched her
+                        kind wits. She had had a paper drawn up, leaving him her throne in case she
+                        should die; but some of her ministers, availing themselves of her enfeebled
+                        spirit, had summoned a meeting of the nobles, at which she was to preside in
+                        the dress she wore on the day of victory; the sight of which, it was thought,
+                        with the arguments which they meant to use, would prevail upon the assembly
+                        to urge her to a revocation of the bequest. Her women dressed her, while she
+                        was almost unconscious of what they were doing, for she had now began to fade
+                        quickly, body as well as mind. They put on her the white garments edged with
+                        silver waves, in remembrance of the stream of <placeName type="physical"
+                            key="Inachus River" corresp="Greece" ref="http://www.wikidata.org/entity/Q2900762"
+                            cert="high">Inachus</placeName>, the founder of the <placeName type="city" key="Argos"
+                            corresp="Greece">Argive monarchy</placeName>; the spear was brought out, to be
+                        stuck by the side of the throne, instead of the sceptre; and their hands
+                        prepared to put the same laurel on her head, which bound it's healthy white
+                        temples, when she sat on horse-back, and saw the prisoner go by. But at sight
+                        of it's twisted and withered green, she took it in her hand; and looking about
+                        her in her chair with an air of momentary recollection, began picking it, and
+                        letting the leaves fall upon the floor. She went on thus, leaf after leaf,
+                        looking vacantly downwards; and when she had stripped <choice><corr>the</corr><sic>thie</sic></choice>
+                        circle half round, she leaned her cheek against the side of her sick chair;
+                        and shutting her eyes quietly, so died.</p>
+                    <pb n="112" />
+                    <p>daughter. The new prince observing the melancholy which he scarcely affected
+                        to repress, and seeing him look up occasionally at a picture which had a veil
+                        over it, asked him what the picture was that seemed to disturb him so, and why
+                        it was veiled. <q type="spoken">If it be the portrait of the late king,</q> said
+                            <persName ref="#doracles">Doracles</persName>,<q type="spoken"> pray think me worthy
+                            of doing honour to it, for he was a noble prince. Unveil it, pray. I
+                            insist upon it. What? Am I not worthy to look upon my predecessors,
+                                <persName type="myth" xml:id="phorbas">Phorbas</persName>?</q> And at these words,
+                        he frowned impatiently. <persName ref="#phorbas">Phorbas</persName>, with a trembling
+                        hand, but not for want of courage, withdrew the black covering; and the
+                        portrait of <persName ref="#daphles">Daphles</persName>, in all her youth and beauty,
+                        flashed upon the eyes of <persName ref="#doracles">Doracles</persName>. It was not a
+                        melancholy face. It was drawn before misfortune had touched it, and sparkled
+                        with a blooming beauty, in which animal spirits and good-nature contended for
+                        predominance. <persName ref="#doracles">Doracles</persName> paused, and seemed struck. <q
+                            type="spoken">The possessor of that face,</q> said he, inquiringly, <q
+                            type="spoken">could never have been so sorrowful, as I have heard?</q>—<q
+                            type="spoken">Pardon me, Sir,</q> answered <persName ref="#phorbas">Phorbas</persName>;
+                            <q type="spoken">I was as another father to her, and knew all.</q> <q
+                            type="spoken">It cannot be,</q> returned the prince. The old man begged
+                        his other guests to withdraw a while, and then told <persName ref="#doracles"
+                            >Doracles</persName> how many fond and despairing things the queen had
+                        said of him, both before her wits began to fail, and after. <q type="spoken"
+                            >Her wits to fail?</q> murmured the king: <q type="spoken">I have known what
+                            it is to feel almost a mad impatience of the will; but I knew not that
+                            these — -- gentle creatures, women, could so feel for such a trifle.</q>
+                            <persName ref="#phorbas">Phorbas</persName> brought out the laurel-crown, and told him
+                        how it was that the half of it became bare. The impatient blood of <persName
+                            ref="#doracles">Doracles</persName> mounted, but not in anger, to his face; and
+                        breaking up the party, he requested that the picture might be removed to his
+                        own chamber, promising to return it.</p>
+                    <p>A whole year however did he keep it; and as he had no foreign enemies to
+                        occupy his time, nor was disposed to enter into the common sports of peace,
+                        it was understood that he spent the greatest part of his time, when he was
+                        not in council, in the room where the picture hung. In truth, the image of
+                        the once smiling <persName ref="#daphles">Daphles</persName> haunted him wherever he went;
+                        and to ease himself of the yearning of wishing her alive again and seeing her
+                        face, he was in the habit of being with it as much as possible. His self-will
+                        turned upon him, even in that gentle shape. Millions of times did he wish back
+                        the loving author of his fortunes, whom he had treated with so clownish an
+                        ingratitude; and millions of times did the sense of the impotence of his wish
+                        run up in red hurry to his cheeks, and help to pull them into a gaunt
+                        melancholy. But this is not a repaying sorrow to dwell upon. He was one day,
+                        after being in vain expected at council, found lying madly on the floor of the
+                        room, dead. He had torn the portrait from the wall. His dagger was in his
+                        heart; and his cheek lay upon that blooming and smiling face, which had it been
+                        living, would never have looked so at being revenged.</p>
+                </div2>
+                <div2 type="colophon">
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the Publisher,
+                            <persName key="Joseph Appleyard" cert="medium" type="real">JOSEPH
+                            APPLEYARD</persName>,</p>
+                    <p><placeName type="address" key="19 Catherine Street Strand London" corresp="United Kingdom"
+                            >No. 19, Catherine-street, Strand</placeName>.— Price <measure unit="pence"
+                            quantity="2">2d</measure>.</p>
+                    <p>Printed by <persName key="C. H. Reynell" cert="medium" type="real">C. H. REYNELL</persName>,
+                            <placeName type="address" key="45 Broad Street Golden Square London"
+                            corresp="United Kingdom">No. 45, Broad-street, Golden-square,
+                            London</placeName>.</p>
+                </div2>
+            </div1>
+            <div1 type="issue" n="15">
+                <teiHeader>
+                    <fileDesc>
+                        <titleStmt>
+                            <title>The Indicator</title>
+                            <author>
+                                <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                                <surname>Hunt</surname>,
+                                <date from="1784" to="1859">1784-1859</date>
+                            </author>
+                        </titleStmt>
+                        <publicationStmt>
+                            <p>Digital edition by [Your Name/Institution].</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                            <bibl>
+                                <author>
+                                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
+                                    <surname>Hunt</surname>,
+                                    <date from="1784" to="1859">1784-1859</date>
+                                </author>,
+                                <title level="j">The Indicator</title>
+                                <date when="1820-01-19">January 19, 1820</date>
+                                <pubPlace><settlement>London</settlement>, <country>England</country></pubPlace>
+                                <publisher>Joseph Appleyard</publisher>
+                            </bibl>
+                        </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                        <p>
+                            Basic encoding, capturing relevant formatting and layout information. Page numbers are
+                            included for reference to the source only and are not intended to indicate precise
+                            preservation.
+                        </p>
+                    </encodingDesc>
+                    <profileDesc>
+                    </profileDesc>
+                </teiHeader>
+                <pb n="113" />
+                <div2 type="title">
+                    <head type="title">THE INDICATOR.</head>
+                    <epigraph>
+                        <l>There he arriving round about doth flie,</l>
+                        <l>And takes survey with busie, curious eye:</l>
+                        <l>Now this, now that, he tasteth tenderly.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
+                                cert="high" type="real">SPENSER</persName>.</l>
+                    </epigraph>
+                    <head type="catalogue">No. <choice><reg>XV</reg><orig>_____</orig></choice>.—WEDNESDAY, <choice><reg>JANUARY 19th</reg><orig>____ __</orig></choice>, <choice><reg>1820</reg><orig>18__</orig></choice>.</head>
+                </div2>
+                <div2 type="section" n="1">
+                    <head type="header" rend="uppercase">SPIRIT OF THE ANCIENT MYTHOLOGY.</head>
+                    <p>From having a different creed of our own, and always encountering the heathen
+                        mythology in a poetical and fabulous shape, we are apt to have a false idea
+                        of the religious feeling of the ancients. We are in the habit of supposing,
+                        whatever we allow when we come to reason upon the point, that they regarded
+                        their fables in the same poetical light as ourselves; that they could not
+                        possibly put faith in <persName key="Jupiter" ref="http://www.wikidata.org/entity/Q79093" cert="high"
+                            type="myth">Jupiter</persName>, <persName key="Neptune" ref="http://www.wikidata.org/entity/Q39130" cert="high"
+                            type="myth">Neptune</persName>, and <persName key="Pluto" ref="http://www.wikidata.org/entity/Q161476" cert="high"
+                            type="myth">Pluto</persName>; in the sacrifice of innocent turtle doves, the
+                        libation of wine, and the notions about <placeName type="mythological"
+                            key="Tartarus" ref="http://www.wikidata.org/entity/Q1007421"
+                            cert="high">Tartarus</placeName> and <persName key="Ixion" ref="http://www.wikidata.org/entity/Q334800" cert="high"
+                            type="myth">Ixion</persName>.</p>
+                    <p>Undoubtedly there were multitudes of free thinkers in the ancient world. Most
+                        of the <placeName type="country" key="Greece" corresp="Greece">Greek</placeName> poets and
+                        philosophers appear to have differed with the literal notions of the
+                        many.<note type="hunt">* It is remarkable that <persName key="Aeschylus"
+                                ref="http://www.wikidata.org/entity/Q40989" cert="high" type="real"
+                                >Æschylus</persName> and <persName key="Euripides"
+                                ref="http://www.wikidata.org/entity/Q48324" cert="high" type="real"
+                                >Euripides</persName>, the two dramatists whose faith in the national
+                            religion was most doubted, are said to have met with strange and violent
+                            deaths.—The latter was torn to pieces by dogs, and the former killed by
+                            a tortoise which an eagle let fall upon his bald head in mistake for a
+                            stone. These exits from the scene look very like the retributive
+                            death-beds wliieh the bigots of all religions are so fond of ascribing
+                            to one another.</note> A system of refined theism is understood to have
+                        been taught to the initiated in the celebrated <rs type="religiousEvent"
+                            >Mysteries</rs>. The doctrines of <persName key="Epicurus"
+                            ref="http://www.wikidata.org/entity/Q134165" cert="high" type="real"
+                            xml:id="epicurus">Epicurus</persName> were so prevalent in the most intellectual
+                        age of <placeName type="city" key="Rome" corresp="Italy"
+                            ref="http://www.wikidata.org/entity/Q220" cert="high">Rome</placeName>, that
+                            <persName key="Lucretius" ref="http://www.wikidata.org/entity/Q193619" cert="high"
+                            type="real" xml:id="lucretius">Lucretius</persName> wrote a poem upon them, in which
+                        he treats their founder as a divinity; and <persName key="Virgil"
+                            ref="http://www.wikidata.org/entity/Q1398" cert="high" type="real" xml:id="virgil"
+                            >Virgil</persName>, in a well-known passage of the <title level="m"
+                            key="Georgics" ref="http://www.wikidata.org/entity/Q723145">Georgics</title>,
+                            <q type="foreign">Felix qui potuit</q> &amp;c. exalts either <persName
+                            ref="#epicurus">Epicurus</persName> or <persName ref="#lucretius">Lucretius</persName>
+                        as a blessed being, who put hell and terror under his feet. A sickly
+                        temperament appears to have made him wish, rather than be able, to carry his
+                        own scepticism so far: yet he insinuates his disbelief in <placeName
+                            ref="#tartarus">Tartarus</placeName> in the sixth book of his epic poem, where
+                            <persName key="Aeneas" ref="http://www.wikidata.org/entity/Q82697" cert="high"
+                            type="myth">Æneas</persName> and the <persName key="Sibyl" ref="http://www.wikidata.org/entity/Q6459388" cert="high"
+                            type="myth">Sybil</persName>, after the description of the lower world, go out
+                        through the ivory gate, which was the passage of false visions.<note
+                            type="hunt">† Did <persName key="Dante Alighieri" ref="http://www.wikidata.org/entity/Q1067"
+                                cert="high" type="real">Dante</persName> forget this, when he took
+                                <persName ref="#virgil">Virgil</persName> for his guide through the <title
+                                level="m" key="Inferno" ref="http://www.wikidata.org/entity/Q2783084"
+                                >Inferno</title>?</note> <persName key="Julius Caesar"
+                            ref="http://www.wikidata.org/entity/Q1048" cert="high" type="real">Cæsar</persName>,
+                        according to a speech of his in <persName key="Sallust" ref="http://www.wikidata.org/entity/Q76508" cert="high"
+                            type="real">Sallust</persName>, derided the same notions in open <rs
+                            type="group">Senate</rs>; and <persName key="Cicero" ref="http://www.wikidata.org/entity/Q1544" cert="high"
+                            type="real" xml:id="cicero">Cicero</persName>, in other parts of his writings, as
+                        well as in a public pleading, speaks of them as fables and
+                        impertinence,—<q type="foreign">ineptiis ac fabulis</q>.</p>
+                    <pb n="114" />
+                    <p>But however this plain-dealing may look on the part of the men of letters,
+                        there is reason to believe that even in those times, the people in general
+                        were strong upon points of faith. The extension of the <placeName type="country"
+                            key="Greece" corresp="Greece">Greek</placeName> philosophy may have insensibly
+                        rendered them familiar with latitudes of interpretation on the part of
+                        others. They would not think it impious in <persName ref="#cicero"
+                            >Cicero</persName> and <persName key="Cato the Younger" ref="http://www.wikidata.org/entity/Q193638" cert="high"
+                            type="real">Cato</persName> to have notions of the <rs type="religiousConcept"
+                            >Supreme Being</rs> more consistent with the elevation of their minds.
+                        But for themselves, they adhered, from habit, to the literal creed of their
+                        ancestors, as the <placeName type="country" key="Greece" corresp="Greece"
+                            >Greek</placeName> populace had done before them. The jealous enemies of
+                            <persName key="Socrates" ref="http://www.wikidata.org/entity/Q913" cert="high"
+                            type="real" xml:id="socrates">Socrates</persName> contrived to have him put to death
+                        on a charge of irreverence for the gods. A frolic of the libertine <persName
+                            key="Alcibiades" ref="http://www.wikidata.org/entity/Q206913" cert="high"
+                            type="real">Alcibiades</persName>, which to say the least of it, was in very bad
+                        taste,—the defacing the statues of <persName key="Hermes" ref="http://www.wikidata.org/entity/Q40974" cert="high"
+                            type="myth">Mercury</persName>,—was followed with important consequences. The
+                        history of <persName ref="#socrates">Socrates</persName> had the effect, in after times,
+                        at least in the ancient world, of saving philosophical speculators from the
+                        vindictive egotism of opinion. But even in the days of <persName key="Augustus"
+                            ref="http://www.wikidata.org/entity/Q1405" cert="high" type="real"
+                            xml:id="augustus">Augustus</persName>, <persName key="Ovid" ref="http://www.wikidata.org/entity/Q7198" cert="high"
+                            type="real">Ovid</persName> wrote a popular work full of mythological fables; and
+                            <persName key="Virgil" ref="http://www.wikidata.org/entity/Q1398" cert="high"
+                            type="real">Virgil</persName> himself, whose creed perhaps only rejected what was
+                        unkindly, gave the hero of his intended popular epic, the particular
+                        appellation of Pious. That <persName ref="#augustus">Augustus</persName> should pique
+                        himself on the same attribute, proves little; for he was a cold-blooded man
+                        of the world, and could play the hypocrite for the worst and most despotic
+                        purposes. Did he now and then lecture his poetical friends upon this point,
+                        respecting their own appearances with the world ? There is a curious <rs
+                            type="genre">ode</rs> of <persName key="Horace" ref="http://www.wikidata.org/entity/Q9607" cert="high"
+                            type="real">Horace</persName> (<biblScope unit="book">Book 1</biblScope>. <biblScope
+                            unit="ode">Od. 34</biblScope>.) in which he says that he finds himself
+                        compelled to give up his sceptical notions, and to attend more to public
+                        worship, because it had thundered one day when, the sky was cloudless. The
+                        critics are divided in their opinion of his object in this <rs type="genre"
+                            >ode</rs>. Some think him in earnest, others in jest. It is the only thing of
+                        the sort in his works; and is, at all events, of an equivocal character that
+                        would serve his purpose on either side of the question.</p>
+                    <p>The opinions of the ancients upon religion may be divided into three general
+                        classes. The great multitude believed any thing; the very few disbelieved
+                        every thing, the philosophers and poets entertained a refined natural
+                        religion, which while it pronounced upon nothing, rejected what was evidently
+                        unworthy of the spirit; of the creation, and regarded the popular deities, as
+                        personifications of it's various workings. All these classes had their
+                        extravagances, in proportion to their ignorance, or viciousness, or
+                        metaphysical, perplexity. The multitude, whose notions were founded on
+                        ignorance, habit, and fear, admitted many absurd and some cruel imaginations.
+                        The mere man of the world measured every thing by his own vain and petty
+                        standard, and thought the whole goods of the universe a scramble for the
+                        cunning and hypocritical. The over-refining followers of <persName key="Plato"
+                            ref="http://www.wikidata.org/entity/Q859" cert="high" type="real">Plato</persName>,
+                        endeavouring to pierce into the nature of things by the mere effort of the
+                        will, arrived at conclusions visible to none but their own yearning and
+                        impatient eyes; and lost themselves in the ethereal dogmatisms of <persName
+                            key="Plotinus" ref="http://www.wikidata.org/entity/Q192290" cert="high"
+                            type="real">Plotinus</persName> and <persName key="Porphyry" ref="http://www.wikidata.org/entity/Q193699" cert="high"
+                            type="real">Porphyry</persName>.</p>
+                    <p>The greatest pleasure arising to a modern imagination from the</p>
+                    <pb n="115" />
+                    <p><placeName type="ancient">ancient mythology</placeName>, is in a mingled sense of the old
+                        popular belief and of the philosophical refinements upon it. We take
+                            <persName key="Apollo" ref="http://www.wikidata.org/entity/Q31034" cert="high"
+                            type="myth">Apollo</persName>, and <persName key="Hermes" ref="http://www.wikidata.org/entity/Q40974" cert="high"
+                            type="myth">Mercury</persName>, and <persName key="Venus" ref="http://www.wikidata.org/entity/Q42459" cert="high"
+                            type="myth">Venus</persName>, as shapes that existed in popular credulity, as the
+                        greater fairies <choice><corr>of</corr><sic>bf</sic></choice> the ancient world; and we regard them, at the same
+                        time, as personifications of all that is beautiful and genial in the forms
+                        and tendencies of creation. But the result, coming as it does too through
+                        avenues of beautiful poetry, both ancient and modern, is so entirely
+                        chearful, that we are apt to think it must have wanted gravity to more
+                        believing eyes. We fancy that the old world saw nothing in religion but
+                        lively and graceful shapes, as remote from the more obscure and awful
+                        hintings of the world unknown, as physics appear to be from the metaphysical;
+                        —as the eye of a beautiful woman is from the inward speculations of a
+                            <placeName type="country" key="Brahmin" corresp="India">Brahmin</placeName>; or a lily
+                        at noon-day from the wide obscurity of night-time.</p>
+                    <p>This supposition appears to be carried a great deal too far. We will not
+                        enquire in this place, how far the mass of mankind, when these shapes were
+                        done away, did or did not escape from a despotic anthropomorphitism; nor how
+                        far they were driven by the vaguer fears, and the opening of a more visible
+                        eternity, into avoiding the whole subject, rather than courting it; nor how
+                        it is, that the nobler practical religion which was afforded them, has been
+                        unable to bring back their frightened theology from the angry and avaricious
+                        pursuits into which they fled for refuge. But setting aside the portion of
+                        terror, of which heathenism partook in common with all faiths originating in
+                        uncultivated times, the ordinary run of pagans were perhaps more impressed
+                        with a sense of the invisible world, in consequence of the very visions
+                        presented to their imagination, than the same description of men under a more
+                        shadowy system. There is the same difference between the two things, as
+                        between a populace believing in fairies, and a populace not believing. The
+                        latter is in the high road to something better, if not drawn aside into new
+                        terrors on the one hand, or mere worldliness on the other. But the former is
+                        led to look out of the mere worldly commonplaces about it, twenty times to the
+                        other's once. It has a sense of a supernatural state of things, however gross.
+                        It has a link with another world, from which somethink like gravity is sure to
+                        strike into the most chearful heart. Every forest, to the mind's eye of a
+                            <placeName type="country" key="Greece" corresp="Greece">Greek</placeName>, was haunted
+                        with superior intelligences. Every stream had it's presiding nymph, who was
+                        thanked for the draught of water. Every house had it's protecting gods, which
+                        had blessed the inmate's ancestors; and which would bless him also, if he
+                        cultivated the social affections: for the same word which expressed piety
+                        towards the Gods, expressed love towards relations and friends. If in all this
+                        there was nothing but the worship of a more graceful humanity, there may be
+                        worships much worse as well as much better. And the divinest spirit that ever
+                        appeared on earth has told us, that the extension of human sympathy embraces
+                        all that is required of us, either to do or to foresee.</p>
+                    <p>Imagine the feelings with which an ancient believer must have gone by the
+                        oracular oaks of <placeName type="physical" key="Dodona" corresp="Greece"
+                            ref="http://www.wikidata.org/entity/Q271960" cert="high">Dodona</placeName>, or the calm
+                        groves of the</p>
+                    <pb n="116" />
+                    <p><rs type="group">Eumenides</rs>, or the fountain where <persName key="Persephone"
+                            ref="http://www.wikidata.org/entity/Q161945" cert="high" type="myth"
+                            >Proserpine</persName> vanished underground with <persName key="Hades"
+                            ref="http://www.wikidata.org/entity/Q41635" cert="high" type="myth"
+                            >Pluto</persName>; or the <placeName type="building" key="Temple of the Mysteries at Eleusis"
+                            corresp="Greece" ref="http://www.wikidata.org/entity/Q646271"
+                            cert="high">Great Temple of the Mysteries at Eleusis</placeName>; or the
+                        laurelled mountain <placeName type="physical" key="Parnassus" corresp="Greece"
+                            ref="http://www.wikidata.org/entity/Q104523" cert="high">Parnassus</placeName>, on the
+                        side of which was the temple of <placeName type="building" key="Temple of Delphi"
+                            corresp="Greece" ref="http://www.wikidata.org/entity/Q1255869"
+                            cert="high" xml:id="delphi">Delphi</placeName>, where <persName key="Apollo"
+                            ref="http://www.wikidata.org/entity/Q31034" cert="high" type="myth"
+                            >Apollo</persName> was supposed to be present in person. Imagine <persName
+                            key="Plutarch" ref="http://www.wikidata.org/entity/Q41523" cert="high"
+                            type="real">Plutarch</persName>, a devout and yet a liberal believer, when he went
+                        to study theology and philosophy at <placeName ref="#delphi">Delphi</placeName>: with what
+                        feelings must he not have passed along the woody paths of the hill,
+                        approaching nearer every instant to the presence of the divinity, and not
+                        sure that a glance of light through the trees was not the lustre of the god
+                        himself going by. This is mere poetry to us, and very fine it is; but to him
+                        it was poetry, and religion, and beauty, and gravity, and hushing awe, and a
+                        path as from one world to another.</p>
+                    <p>With similar feelings he would cross the ocean, an element that naturally
+                        detaches the mind from earth, and which the ancients regarded as especially
+                        doing so. He had been in the <placeName type="physical" key="Carpathian Sea"
+                            corresp="Europe">Carpathian sea</placeName>, the favourite haunt of <persName
+                            key="Proteus" ref="http://www.wikidata.org/entity/Q216075" cert="high"
+                            type="myth" xml:id="proteus">Proteus</persName>, who was supposed to be gifted above
+                        every other deity with a knowledge of the causes of things. Towards evening,
+                        when the winds were rising, and the sailors had made their vows to <persName
+                            key="Neptune" ref="http://www.wikidata.org/entity/Q39130" cert="high"
+                            type="myth">Neptune</persName>, he would think of the old <q type="distinct"
+                            >shepherd of the seas, of yore,</q> and believe it possible that he might
+                        become visible to his eyesight, driving through the darkling waters, and
+                        turning the sacred wildness of his face towards the blessed ship.</p>
+                    <p>In all this, there is a deeper sense of another world, than in the habit of
+                        contenting oneself with a few vague terms and embodying nothing but <persName
+                            key="Mammon" ref="http://www.wikidata.org/entity/Q317208" cert="high"
+                            type="myth">Mammon</persName>. There is a deeper sense of another world, precisely
+                        because there is a deeper sense of the present; of it's varieties, it's
+                        benignities, it's mystery. It was a strong sense of this, which made a
+                        living poet, who is accounted very orthodox in his religious opinions, give
+                        vent, in that fine <rs type="genre">sonnet</rs>, to his impatience at seeing the
+                        beautiful planet we live upon, with all it's starry wonders about it, so
+                        little thought of, compared with what is ridiculously called the world. He
+                        seems to have dreaded the symptom, as an evidence of materialism, and of the
+                        planets being dry self-existing things, peopled with mere successive
+                        mortalities, and unconnected with any superintendance or consciousness in the
+                        universe about them. It is abhorrent from all we think and feel, that they
+                        should be so: and yet Love might make heavens of them, if they were.</p>
+                    <lg xml:lang="en">
+                        <l><q type="spoken">The world is too much with us. Late and soon,</q></l>
+                        <l><q type="spoken">Getting and spending, we lay waste our powers:</q></l>
+                        <l><q type="spoken">Little we see in Nature that is ours:</q></l>
+                        <l><q type="spoken">We have given our hearts away, a sordid boon!</q></l>
+                        <l><q type="spoken">This Sea that bares her bosom to the moon;</q></l>
+                        <l><q type="spoken">The Winds that will be howling at all hours,</q></l>
+                        <l><q type="spoken">And are <choice><corr>ungathered</corr><sic>npgathered</sic></choice> now like sleeping flowers;</q></l>
+                        <l><q type="spoken">For this, for every thing, we are out of tune;</q></l>
+                        <l><q type="spoken">It moves us not.—Great God! I'd rather be</q></l>
+                        <l><q type="spoken">A Pagan suckled in a creed outworn,</q></l>
+                        <l><q type="spoken">So might I, standing on this pleasant lea,</q></l>
+                        <l><q type="spoken">Have glimpses that would make me less forlorn;</q></l>
+                        <l><q type="spoken">Have sight of <persName ref="#proteus">Proteus</persName> coming from the
+                                sea;</q></l>
+                        <l><q type="spoken">Or hear old <persName key="Triton" ref="http://www.wikidata.org/entity/Q206013" cert="high"
+                                    type="myth">Triton</persName> blow his wreathed horn.</q></l>
+                    </lg>
+                </div2>
+                <div2 type="section" n="2">
+                    <pb n="117" />
+                    <head type="header" rend="uppercase">GETTING UP ON COLD MORNINGS.</head>
+                    <p>An <placeName type="country" key="Italy" corresp="Italy">Italian</placeName> author,—<persName
+                            key="Giulio Cordara di Calamandrana" ref="http://www.wikidata.org/entity/Q20921471"
+                            cert="high" type="real">Giulio Cordara</persName>, a <rs
+                            type="religiousOrder">Jesuit</rs>,—has written a poem upon Insects,
+                        which he begins by insisting, that those troublesome and abominable little
+                        animals were created for our annoyance, and that they were certainly not
+                        inhabitants of <placeName type="mythological" key="Paradise">Paradise</placeName>. We of the
+                            <placeName type="direction">North</placeName> may dispute this piece of theology; but
+                        on the other hand, it is as clear as the snow on the house-tops, that
+                            <persName key="Adam" ref="http://www.wikidata.org/entity/Q7071" cert="high"
+                            type="biblical">Adam</persName> was not under the necessity of shaving; and that when
+                            <persName key="Eve" ref="http://www.wikidata.org/entity/Q54033" cert="high"
+                            type="biblical">Eve</persName> walked out of her delicious bower, she did not step
+                        upon ice <measure unit="inch" quantity="3">three inches</measure> thick.</p>
+                    <p>Some people say it is a very easy thing to get up of a cold morning. You have
+                        only, they tell you, to take the resolution; and the thing is done. This may
+                        be very true; just as a boy at school has only to take a flogging, and the
+                        thing is over. But we have not at all made up our minds upon it; and we find
+                        it a very pleasant exercise to discuss the matter, candidly, before we get
+                        up. This at least is not idling, though it may be lying. It affords an
+                        excellent answer to those, who ask how lying in bed can be indulged in by a
+                        reasoning being,—a rational creature. How? Why with the argument calmly at
+                        work in one's head, and the clothes over one's shoulder. Oh—it is a fine way
+                        of spending a sensible, impartial half-hour.</p>
+                    <p>If these people would be more charitable, they would get on with their
+                        argument better. But they are apt to reason so ill, and to assert so
+                        dogmatically, that one could wish to have them stand round one's bed of a
+                        bitter morning, and lie before their faces. They ought to hear both sides of
+                        the bed, the inside and out. If they cannot entertain themselves with their
+                        own thoughts for half an hour or so, it is not the fault of those who can.
+                        If their will is never pulled aside by the enticing arms of imagination, so
+                        much the luckier for the stage-coachman.</p>
+                    <p>Candid inquirers into one's decumbency, besides the greater or less
+                        privileges to be allowed a man in proportion to his ability of keeping early
+                        hours, the work given his faculties, &amp;c., will at least concede their
+                        due merits to such representations as the following. In the first place, says
+                        the injured but calm appealer, I have been warm all night, and find my system
+                        in a state perfectly suitable to a warm-blooded animal. To get out of this
+                        state into the cold, besides the inharmonious and uncritical abruptness of the
+                        transition, is so unnatural to such a creature, that the poets, refining upon
+                        the tortures of the damned, make one of their greatest agonies consist in
+                        being suddenly transported from heat to cold,—from fire to ice. They are <q
+                            type="spoken">haled</q> out of their <q type="spoken">beds,</q> says <persName
+                            key="John Milton" ref="http://www.wikidata.org/entity/Q163558" cert="high"
+                            type="real">Milton</persName>, by <q type="spoken">harpy-footed furies,</q>—fellows who
+                        come to call them.—On my first movement towards the anticipation of getting
+                        up, I find that such parts of the sheets and bolster, as are exposed to the
+                        air of the room, are stone cold. On opening my eyes, the first thing that
+                        meets them is my own breath rolling forth, as if in the open air, like smoke
+                        out of a cottage-chimney. Think of this symptom. Then I turn my eyes sideways
+                        and see the window all frozen over. Think of that. Then the servant comes
+                        in. <q type="spoken">It is very cold this morning, is it not?</q>--</p>
+                    <pb n="118" />
+                    <p><q type="spoken">Very cold, Sir.</q>—<q type="spoken">Very cold indeed, isn't it?</q>—<q
+                            type="spoken">Very cold indeed, Sir.</q>—<q type="spoken">More than usually
+                            so, isn't it, even for this weather?</q> (Here the servant's wit and
+                        good nature are put to a considerable test, and the inquirer lies on thorns
+                        for the answer.) <q type="spoken">Why, Sir- - - -I think it is.</q> (Good
+                        creature! There is not a better, or more truth-telling servant going.) <q
+                            type="spoken">I must rise however—Get me some warm water.</q>—Here comes a
+                        fine interval between the departure of the servant and the arrival of the hot
+                        water; during which, of course, it is of <q type="distinct">no use</q> to get up. The
+                        hot water comes. <q type="spoken">Is it quite hot?</q>—<q type="spoken">Yes,
+                            Sir.</q>—<q type="spoken">Perhaps too hot for shaving: I must wait a
+                            little ?</q>—<q type="spoken"> No, Sir; it will just do.</q> (There is an
+                        over-nice propriety sometimes, an officious zeal of virtue, a little
+                        troublesome.) <q type="spoken">Oh— the shirt—you must air my clean
+                            shirt:—linen gets very damp this weather.</q>—<q type="spoken">Yes, Sir.</q> Here another delicious five minutes. A knock at the door. <q
+                            type="spoken">Oh, the shirt—very well. My stockings—I think the stockings
+                            had better be aired too.</q> —<q type="spoken"> Very well. Sir.</q>—Here
+                        another interval. At length every thing is ready, except myself. I now,
+                        continues our incumbent (a happy word, by the bye, for a country vicar)—I now
+                        cannot help thinking a good deal—who can?—upon the unnecessary and villainous
+                        custom of shaving: it is a thing so unmanly (here I nestle closer)—so
+                        effeminate (here I recoil from an unlucky step into the colder part of the
+                        bed.)—No wonder, that the <persName key="Marie Antoinette" ref="http://www.wikidata.org/entity/Q49595" cert="high"
+                            type="real">Queen of France</persName> took part with the rebels against that
+                        degenerate King, her husband, who first affronted her smooth visage with a
+                        face like her own. The <persName key="Julian the Apostate" ref="http://www.wikidata.org/entity/Q34072" cert="high"
+                            type="real">Emperor Julian</persName> never showed the luxuriancy of his genius to
+                        better advantage than in reviving the flowing beard. Look at <persName
+                            key="Pietro Bembo" ref="http://www.wikidata.org/entity/Q315729" cert="high"
+                            type="real">Cardinal Bembo</persName>'s picture—at <persName key="Michelangelo"
+                            ref="http://www.wikidata.org/entity/Q5592" cert="high" type="real"
+                            >Michael Angelo</persName>'s—at <persName key="Titian" ref="http://www.wikidata.org/entity/Q42323" cert="high"
+                            type="real">Titian</persName>'s—at <persName key="William Shakespeare"
+                            ref="http://www.wikidata.org/entity/Q692" cert="high" type="real"
+                            >Shakspeare</persName>'s—at <persName key="John Fletcher" ref="http://www.wikidata.org/entity/Q447817" cert="high"
+                            type="real">Fletcher</persName>'s—at <persName key="Edmund Spenser"
+                            ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real"
+                            >Spenser</persName>'s—at <persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5663" cert="high"
+                            type="real">Chaucer</persName>'s—at <persName key="Alfred the Great"
+                            ref="http://www.wikidata.org/entity/Q82873" cert="high" type="real"
+                            >Alfred</persName>'s-at <persName key="Plato" ref="http://www.wikidata.org/entity/Q859" cert="high"
+                            type="real">Plato</persName>'s.—I could name a great man for every tick of my
+                        watch.— Look at the <placeName type="country" key="Turkey" corresp="Turkey"
+                            >Turks</placeName>, a grave and otiose people.—Think of <persName
+                            key="Harun al-Rashid" ref="http://www.wikidata.org/entity/Q193026" cert="high"
+                            type="real">Haroun Al Raschid</persName> and <persName key="Bed-ridden Hassan"
+                            cert="medium" type="real">Bed-ridden Hassan</persName>—Think of <persName
+                            key="Lady Mary Wortley Montagu" ref="http://www.wikidata.org/entity/Q237699"
+                            cert="high" type="real">Wortley Montague</persName>, the worthy son of his mother, a
+                        man above the prejudice of his time—Look at the <placeName type="country"
+                            key="Persia" corresp="Iran">Persian</placeName> gentlemen, whom one is ashamed of
+                        meeting about the suburbs, their dress and appearance are so much finer than
+                        our own—Lastly, think of the razor itself—how totally opposed to every
+                        sensation of bed—how cold, how edgy, how hard! how utterly different frond
+                        any thing like the warm and circling amplitude, which</p>
+                    <lg xml:lang="en">
+                        <l><q type="spoken">Sweetly recommends itself</q></l>
+                        <l><q type="spoken">Unto our gentle senses.</q></l>
+                    </lg>
+                    <p>Add to this, benumbed fingers, which may help you to cut yourself, a
+                        quivering body, a frozen towel, and an ewer full of ice; and he that says
+                        there is nothing to oppose in all this, only shews, at any rate, that he has
+                        no merit in opposing it.</p>
+                    <p><persName key="James Thomson (poet)" ref="http://www.wikidata.org/entity/Q333334" cert="high"
+                            type="real">Thomson the poet</persName>, who exclaims in his <title level="m"
+                            key="The Seasons" ref="http://www.wikidata.org/entity/Q2504936">Seasons</title>—</p>
+                    <lg xml:lang="en">
+                        <l><q type="spoken">Falsely luxurious! Will not man awake?</q></l>
+                    </lg>
+                    <p>used to lie in bed till noon, because he said he had no motive in getting up.
+                        He could imagine the good of rising; but then he could also imagine the good
+                        of lying still and his exclamation, it must be</p>
+                    <pb n="119" />
+                    <p>allowed, was made upon summer-time, not winter. We must proportion the
+                        argument to the individual character. A money-getter may be drawn out of his
+                        bed by <measure unit="pence" quantity="40">three and four-pence</measure>; but this will not
+                        suffice for a student. A proud man may say <q type="spoken">What shall I think of
+                            myself, if I don't get up?</q> but the more humble one will be content to
+                        waive this prodigious notion of himself, out of respect to his kindly bed.
+                        The mechanical man shall get up without any ado at all; and so shall the
+                        barometer. An ingenious lier in bed will find hard matter of discussion even
+                        on the score of health and longevity. He will ask us for our proofs and
+                        precedents of the ill effects of lying later in cold weather; and sophisticate
+                        much on the advantages of an even temperature of body; of the natural
+                        propensity (pretty universal) to have one's way; and of the animals that roll
+                        themselves up and sleep all the winter. As to longevity, he will ask whether
+                        the longest life is of necessity the best; and whether <placeName type="street"
+                            key="Holborn" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q2726354"
+                            cert="high">Holborn</placeName> is the handsomest street in <placeName type="city"
+                            key="London" corresp="United Kingdom">London</placeName>.</p>
+                    <p>We only know of one confounding, not to say confounded argument, fit to
+                        overturn the huge luxury, the <q type="distinct">enormous bliss</q>—of the vice in
+                        question. A lier in bed may be allowed to profess a disinterested
+                        indifference for his health or longevity; but while he is shewing the
+                        reasonableness of consulting his own, or one person's comfort, he must admit
+                        the proportionate claim of more than one; and the best way to deal with him
+                        is this, especially for a lady; for we earnestly recommend the use of that sex
+                        on such occasions, if not somewhat over-persuasive; since extremes have an
+                        awkward knack of meeting. First then, admit all the ingeniousness of what he
+                        says, telling him that the bar has been deprived of an excellent lawyer. Then
+                        look at him in the most goodnatured manner in the world, with a mixture of
+                        assent and appeal in your countenance, and tell him that you are waiting
+                        breakfast for him; that you never like to breakfast without him; that you
+                        really want it too; that the servents want theirs; that you shall not know
+                        how to get the house into order, unless he rises; and that you are sure he
+                        would do things twenty times worse, even than getting out of his warm bed, to
+                        put them all into good humour and a state of comfort. Then, after having said
+                        this, throw in the comparatively indifferent matter, to him, about his health;
+                        but tell him that it is no indifferent matter to you; that the sight of his
+                        illness makes more people suffer than one; but that if nevertheless, he really
+                        does feel so very sleepy and so very much refreshed by----Yet stay; we hardly
+                        know whether the frailty of a— Yes, yes; say that too, especially if you say it
+                        with sincerity; for if the weakness of human nature on the one hand, and the
+                            <hi rend="italic">vis inertiæ</hi> on the other, should lead him to take advantage of
+                        it once or twice, good-humour and sincerity form an irresistible junction at
+                        last; and are still better and warmer things than pillows and blankets.</p>
+                    <p>Other little helps of appeal may be thrown in, as occasion requires. You may
+                        tell a lover for instance, that lying in bed makes people corpulent; a
+                        father, that you wish, him to complete the fine manly example he sets his
+                        children; a lady, that she will injure her bloom or her shape, which M. or
+                        W., admires so much; and a student or</p>
+                    <pb n="120" />
+                    <p>artist, that he is always so glad to have done a good day's work, in his best
+                        manner.</p>
+                    <p><q type="spoken">Reader. And pray, Mr. Indicator, how do you behave yourself in this
+                            respect ?</q></p>
+                    <p><q type="spoken">Indic. Oh, Madam, perfectly, of course; like all advisers.</q></p>
+                    <p><q type="spoken">Reader. Nay, I allow that your mode of argument does not look quite so
+                            suspicious as the old way of sermonizing and severity, but I have my
+                            doubts, especially from that laugh of yours. If I should look in
+                            to-morrow morning---</q></p>
+                    <p><q type="spoken">Indic. Ah, Madam, the look in of a face like yours does any thing with
+                            me. It shall fetch me up at nine, if you please----six, I meant to say.</q></p>
+                </div2>
+                <div2 type="correspondents"> <!-- Appended notes to correspondents -->
+                    <head type="header" rend="uppercase">TO CORRESPONDENTS.</head>
+                    <p>It does not enter within the plan, or perhaps we should rather say, the
+                        understood promises, of this little weekly publication, to relieve the
+                        Editor with much correspondence; but he is glad when he can indulge himself,
+                        in proportion; and he inserts with pleasure the following piece of poetry,
+                        which is very much to his heathenish taste.</p>
+                    <head type="subheader" rend="uppercase">VOX ET PRÆTEREA NIHIL.</head>
+                    <lg xml:lang="en">
+                        <l>Oh! what a voice is silent. It was soft</l>
+                        <l>As mountain-echoes, when the winds aloft</l>
+                        <l>(The gentle winds of summer) meet in caves;</l>
+                        <l>Or when in sheltered places the white waves</l>
+                        <l>Are 'waken'd into music, as the breeze</l>
+                        <l>Dimples and stems the current: or as trees</l>
+                        <l>Shaking their green locks in the days of June:</l>
+                        <l>Or <placeName type="building" key="Delphi" corresp="Greece">Delphic</placeName> girls when to the maiden moon</l>
+                        <l>They sang harmonious pray'rs: or sounds that come</l>
+                        <l>(However near) like a faint distant hum</l>
+                        <l>Out of the grass, from which mysterious birth</l>
+                        <l>We guess the busy secrets of the earth.</l>
+                        <l>— Like the low voice of <persName key="Syrinx" ref="http://www.wikidata.org/entity/Q733158" cert="high"
+                                type="myth">Syrinx</persName>, when she ran</l>
+                        <l>Into the forests from Arcadian <persName key="Pan" ref="http://www.wikidata.org/entity/Q163777" cert="high"
+                                type="myth">Pan</persName>:</l>
+                        <l>Or sad <persName key="Oenone" ref="http://www.wikidata.org/entity/Q292150" cert="high"
+                                type="myth">Œnone</persName>'s, when she pined away</l>
+                        <l>For <persName key="Paris (mythology)" ref="http://www.wikidata.org/entity/Q174304" cert="high"
+                                type="myth">Paris</persName>, or (and yet '

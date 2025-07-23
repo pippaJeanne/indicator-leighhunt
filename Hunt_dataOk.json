@@ -1,0 +1,699 @@
+{
+       "Structural Versions/theIndicator1.xml": {
+              "title": [],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {},
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator20.xml": {
+              "title": [
+                     "Superstitions of the Highlands"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Anne Grant": "http://www.wikidata.org/entity/Q4768392",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "C. H. Reynell"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {
+                     "1820-02-23": "WEDNESDAY,\n                    FEBRUARY 23rd, 1820"
+              }
+       },
+       "Structural Versions/theIndicator21.xml": {
+              "title": [],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "C. H. Reynell"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {
+                     "1820-03-01": "WEDNESDAY, MARCH 1st, 1820"
+              }
+       },
+       "Structural Versions/theIndicator22.xml": {
+              "title": [],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard",
+                            "C. H. Reynell": "C. H. Reynell"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {
+                     "1820-03-08": "WEDNESDAY, MARCH 8th, 1820"
+              }
+       },
+       "Structural Versions/theIndicator23.xml": {
+              "title": [
+                     "Support for the Fleet",
+                     "The Canterbury Tales"
+              ],
+              "bibl": {
+                     "title": {
+                            "The Canterbury Tales": {
+                                   "author": "Chaucer"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {
+                     "2013": "2013"
+              }
+       },
+       "Structural Versions/theIndicator24.xml": {
+              "title": [
+                     "The Vicar of Wakefield",
+                     "The Revolt of Islam",
+                     "A Midsummer Night's Dream",
+                     "L'Allegro",
+                     "Arcades",
+                     "Poems Upon Several Occasions, English, Italian, and Latin, with Translations",
+                     "Love's Labor's Lost",
+                     "Paradise Lost",
+                     "The Tempest",
+                     "To Penshurst",
+                     "Gondibert: An Heroick Poem",
+                     "Psalms"
+              ],
+              "bibl": {
+                     "title": {
+                            "The Vicar of Wakefield": {
+                                   "author": "Oliver Goldsmith"
+                            },
+                            "The Revolt of Islam": {
+                                   "author": ""
+                            },
+                            "A Midsummer Night's Dream": {
+                                   "author": ""
+                            },
+                            "L'Allegro": {
+                                   "author": ""
+                            },
+                            "Arcades": {
+                                   "author": ""
+                            },
+                            "Poems Upon Several Occasions, English, Italian, and Latin, with Translations": {
+                                   "author": ""
+                            },
+                            "Love's Labor's Lost": {
+                                   "author": ""
+                            },
+                            "Paradise Lost": {
+                                   "author": ""
+                            },
+                            "The Tempest": {
+                                   "author": ""
+                            },
+                            "To Penshurst": {
+                                   "author": ""
+                            },
+                            "Gondibert: An Heroick Poem": {
+                                   "author": ""
+                            },
+                            "Psalms": {}
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator25.xml": {
+              "title": [
+                     "Godfrey of Bulloigne: Or, The Recovery of Jerusalem",
+                     "Lives of the English Poets",
+                     "La Gerusalemme Liberata",
+                     "Jerusalem Delivered; An Heroic Poem",
+                     "Godfrey of Bulloigne, or the Recoverie of Jerusalem",
+                     "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry"
+              ],
+              "bibl": {
+                     "title": {
+                            "Lives of the English Poets": {
+                                   "author": ""
+                            },
+                            "La Gerusalemme Liberata": {
+                                   "author": ""
+                            },
+                            "Jerusalem Delivered; An Heroic Poem": {
+                                   "author": ""
+                            },
+                            "Godfrey of Bulloigne, or the Recoverie of Jerusalem": {
+                                   "author": ""
+                            },
+                            "An Ode on the Popular Superstitions of the Highlands of Scotland, Considered as the Subject of Poetry": {
+                                   "author": ""
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator26.xml": {
+              "title": [
+                     "Monastery"
+              ],
+              "bibl": {
+                     "title": {
+                            "Monastery": {}
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator27.xml": {
+              "title": [
+                     "Fabularum Liber,",
+                     "Ars Amatoria"
+              ],
+              "bibl": {
+                     "title": {
+                            "Fabularum Liber,": {
+                                   "author": ""
+                            },
+                            "Ars Amatoria": {
+                                   "author": "Ovid"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator28.xml": {
+              "title": [
+                     "Pervigilium Veneris",
+                     "Sonnet XCVIII",
+                     "The Winter's Tale",
+                     "Sonnet CIV",
+                     "Love's Labour's Lost",
+                     "The Flower and the Leaf",
+                     "The Legend of Good Women",
+                     "Pan's Anniversary, or the Shepherd's Holiday",
+                     "The Shepherd's Hunting",
+                     "To the Small Celandine",
+                     "To the Daisy ('In youth from rock to rock I went')",
+                     "To the Daisy ('With little here to do or see')",
+                     "The Faerie Queene",
+                     "History of Fiction",
+                     "Gathering Flowers.",
+                     "Passando con pensier per un boschetto"
+              ],
+              "bibl": {
+                     "title": {
+                            "Pervigilium Veneris": {
+                                   "author": "Anon."
+                            },
+                            "Sonnet XCVIII": {
+                                   "author": ""
+                            },
+                            "The Winter's Tale": {
+                                   "author": ""
+                            },
+                            "Sonnet CIV": {
+                                   "author": ""
+                            },
+                            "Love's Labour's Lost": {
+                                   "author": ""
+                            },
+                            "The Flower and the Leaf": {
+                                   "author": ""
+                            },
+                            "The Legend of Good Women": {
+                                   "author": ""
+                            },
+                            "Pan's Anniversary, or the Shepherd's Holiday": {
+                                   "author": ""
+                            },
+                            "The Shepherd's Hunting": {
+                                   "author": ""
+                            },
+                            "To the Small Celandine": {
+                                   "author": ""
+                            },
+                            "To the Daisy ('In youth from rock to rock I went')": {
+                                   "author": ""
+                            },
+                            "The Faerie Queene": {
+                                   "author": ""
+                            },
+                            "History of Fiction": {},
+                            "Passando con pensier per un boschetto": {
+                                   "author": "             "
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator29.xml": {
+              "title": [
+                     "Song on May Morning",
+                     "The Shepheardes Calender",
+                     "Astrophel",
+                     "Drayton's Pastorals",
+                     "The Canterbury Tales",
+                     "The Works of John Dryden",
+                     "Palamon and Arcite",
+                     "Egloga Decima"
+              ],
+              "bibl": {
+                     "title": {
+                            "Song on May Morning": {
+                                   "author": ""
+                            },
+                            "The Shepheardes Calender": {
+                                   "author": ""
+                            },
+                            "Astrophel": {
+                                   "author": ""
+                            },
+                            "Drayton's Pastorals": {
+                                   "author": ""
+                            },
+                            "The Canterbury Tales": {
+                                   "author": ""
+                            },
+                            "The Works of John Dryden": {
+                                   "author": ""
+                            },
+                            "Palamon and Arcite": {
+                                   "author": ""
+                            },
+                            "Egloga Decima": {
+                                   "author": ""
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": []
+              },
+              "places": {},
+              "org": {},
+              "dates": {}
+       },
+       "Structural Versions/theIndicator39.xml": {
+              "title": [
+                     "Sonnet 12",
+                     "Guardian"
+              ],
+              "bibl": {
+                     "title": {
+                            "Sonnet 12": {
+                                   "author": "John Milton",
+                                   "ref": "https://www.google.com/search?q=miltons+sonnet+XII"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Charles Mordaunt, 3rd Earl of Peterborough": "http://www.wikidata.org/entity/Q1065565",
+                            "Francis Bacon": "http://dbpedia.org/resource/Francis_Bacon",
+                            "Alexander VII": "http://www.wikidata.org/entity/Q127254",
+                            "William Shakespeare": "http://dbpedia.org/resource/William_Shakespeare",
+                            "Philip Sidney": "http://www.wikidata.org/entity/Q315509",
+                            "King James VI of Scotland and I of England (1566–1625)": "http://www.wikidata.org/entity/Q118876108",
+                            "Matthew Hale": "http://www.wikidata.org/entity/Q130059",
+                            "Robert Boyle": "Robert Boyle",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "GALGANO",
+                            "MADONNA MINOCCIA",
+                            "Galgano",
+                            "Signor Stricca",
+                            "Latona"
+                     ]
+              },
+              "places": {
+                     "Siena": "Siena",
+                     "Italy": "Italy"
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-05": " —WEDNESDAY, July 5th, 1820"
+              }
+       },
+       "Structural Versions/theIndicator40.xml": {
+              "title": [
+                     "Noctes Atticæ",
+                     "Il Canzoniere"
+              ],
+              "bibl": {
+                     "title": {
+                            "Noctes Atticæ": {
+                                   "ref": "https://www.worldcat.org/fr/search?q=Noctes+Atticæ"
+                            },
+                            "Il Canzoniere": {
+                                   "author": "Francesco Petrarch",
+                                   "ref": "https://en.wikipedia.org/wiki/Il_Canzoniere"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Aulus Gellius": "http://www.wikidata.org/entity/Q294800",
+                            "Claudia": "https://www.wikidata.org/wiki/Q1097301",
+                            "Appius Claudius Caecus": "http://www.wikidata.org/entity/Q297783",
+                            "Publius Claudius Pulcher": "http://www.wikidata.org/entity/Q435404",
+                            "P. Claudius": "P. Claudius",
+                            "Gellius": "Gellius",
+                            "Caius Fundanus": "Caius Fundanus",
+                            "Tiberius Gracchus": "http://www.wikidata.org/entity/Q212109",
+                            "Titus Livius": "http://www.wikidata.org/entity/Q2039",
+                            "James Sheridan Knowles": "http://www.wikidata.org/entity/Q353538",
+                            "Francesco Petrarch": "https://www.wikidata.org/wiki/Q1401",
+                            "Laura de Noves": "https://www.wikidata.org/wiki/Q270227",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "Sir Henry R––––"
+                     ]
+              },
+              "places": {
+                     "Sicily": "Sicily",
+                     "Vaucluse": "Vaucluse",
+                     "Valchiusa": "Valchiusa",
+                     "Provence": "Provence",
+                     "Sorgue(river)": "Sorgue(river)"
+              },
+              "org": {
+                     "aedile": "http://www.wikidata.org/entity/Q205757",
+                     "House of Commons of the United Kingdom": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom",
+                     "Roman censor": "http://dbpedia.org/resource/Roman_censor",
+                     "Sacred Chickens": "https://en.wikipedia.org/wiki/Augury",
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-12": " —WEDNESDAY, July 12th, 1820"
+              }
+       },
+       "Structural Versions/theIndicator41.xml": {
+              "title": [
+                     "Tatler",
+                     "Spectator",
+                     "Tale for a Chimney Corner",
+                     "Indicator",
+                     "George Barnwell",
+                     "the Fatal Marriage",
+                     "Manuscript",
+                     "An Account of the Death of the ",
+                     "MS"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Cenci": "Cenci",
+                            "Francesco Cenci": "Francesco Cenci",
+                            "Pope Pius V": "Pope Pius V",
+                            "Lucrezia Petroni": "Lucrezia Petroni",
+                            "Francesco": "Francesco",
+                            "Pope": "Pope",
+                            "Sovereign Pontiff": "Sovereign Pontiff",
+                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Rocco Cenci": "Rocco Cenci",
+                            "Cristofero Cenci": "Cristofero Cenci",
+                            "Beatrice Cenci": "Beatrice Cenci",
+                            "Giacomo Cenci": "Giacomo Cenci",
+                            "Signora Lucrezia": "Signora Lucrezia",
+                            "Bernardo Cenci": "Bernardo Cenci",
+                            "Paolo Santa Croce": "Paolo Santa Croce",
+                            "Lucrezia": "Lucrezia",
+                            "Cristofero": "Cristofero",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "Clarissa Harlowe",
+                            "Proteus",
+                            "Carlo Gabrielli",
+                            "Guerra",
+                            "Marzio",
+                            "Olimpio",
+                            "Signor Ulisse Morcati",
+                            "Advocate Tarrinacci"
+                     ]
+              },
+              "places": {
+                     "Land's End": "Land's End",
+                     "Rome": "Rome",
+                     "Italy": "Italy",
+                     "Salamanca": "Salamanca",
+                     "Cenci Palace": "Cenci Palace",
+                     "castle of Petrella": "castle of Petrella",
+                     "Naples": "Naples",
+                     "St. Angelo Bridge": "St. Angelo Bridge",
+                     "Church of the Most Holy Trinity of the Pilgrims": "Church of the Most Holy Trinity of the Pilgrims"
+              },
+              "org": {
+                     "The Court of Naples": "The Court of Naples",
+                     "the Confraternity of the Sacred Stigmas": "the Confraternity of the Sacred Stigmas",
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-19": " —WEDNESDAY, July 19th, 1820",
+                     "1599-05-11": "Saturday, the 11th of May 1599"
+              }
+       },
+       "Structural Versions/theIndicator42.xml": {
+              "title": [
+                     "Manuscript"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "Beatrice Cenci": "Beatrice Cenci",
+                            "Percy Bysshe Shelley": "Percy Bysshe Shelley",
+                            "Francesco Cenci": "Francesco Cenci",
+                            "Baruch Spinoza": "Baruch Spinoza",
+                            "Giordano Bruno": "Giordano Bruno",
+                            "Guido Reni": "Guido Reni",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "Bernard",
+                            "Orsino",
+                            "Olimpio",
+                            "Camillo"
+                     ]
+              },
+              "places": {
+                     "Colonna Palace": "Colonna Palace",
+                     "Petrella": "Petrella",
+                     "the Apulian Apennines": "the Apulian Apennines"
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-07-26": " —WEDNESDAY, JULY 26th, 1820."
+              }
+       },
+       "Structural Versions/theIndicator43.xml": {
+              "title": [
+                     "LAMIA",
+                     "THE POT OF BASIL",
+                     "THE EVE OF ST. AGNES",
+                     "Anatomy of Melancholy",
+                     "De Vita Apollonii",
+                     "Pot of Basil",
+                     "Sicilian Story",
+                     "Ode to Psyche",
+                     "The Eve of St. Agnes"
+              ],
+              "bibl": {
+                     "title": {
+                            "Anatomy of Melancholy": {
+                                   "ref": "https://en.wikipedia.org/wiki/The_Anatomy_of_Melancholy"
+                            }
+                     }
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "John Keats": "John Keats",
+                            "Robert Burton": "Robert Burton",
+                            "Lucius Flavius Philostratus": "Lucius Flavius Philostratus",
+                            "Menippus of Lycia": "Menippus of Lycia",
+                            "Apollonius of Tyana": "Apollonius of Tyana",
+                            "Homer ": "Homer ",
+                            "Lycius": "Lycius",
+                            "Giovanni Boccaccio": "Giovanni Boccaccio",
+                            "Bryan Waller Procte": "Bryan Waller Procte",
+                            "Giambattista Marino": "Giambattista Marino",
+                            "Abraham Cowley": "Abraham Cowley",
+                            "Agnes of Rome": "Agnes of Rome",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "Tantalus",
+                            "Mercury",
+                            "Ariadne",
+                            "Proserpine",
+                            "Lamia",
+                            "Isabella",
+                            "Lorrenzo",
+                            "Pilgrim",
+                            "Basil",
+                            "Madeline",
+                            "Porphyro"
+                     ]
+              },
+              "places": {
+                     "Cenchreae": "Cenchreae",
+                     "Corinth": "Corinth",
+                     "Florence": "Florence",
+                     "Arno": "Arno",
+                     "Appenine": "Appenine"
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-08-02": " —WEDNESDAY, AUGUST 2d, 1820"
+              }
+       },
+       "Structural Versions/theIndicator44.xml": {
+              "title": [
+                     "LAMIA",
+                     "THE POT OF BASIL",
+                     "THE EVE OF ST. AGNES",
+                     "Ode to a Nightingale",
+                     "Lycidas",
+                     "Hyperion",
+                     "Paradise Lost",
+                     "Endymion",
+                     "Examiner",
+                     "Indicator"
+              ],
+              "bibl": {
+                     "title": {}
+              },
+              "persons": {
+                     "real": {
+                            "Edmund Spenser": "http://www.wikidata.org/entity/Q4352055",
+                            "John Keats": "John Keats",
+                            "John Milton": "John Milton",
+                            "Edward King": "Edward King",
+                            "Samuel Johnson": "Samuel Johnson",
+                            "Ruth the Moabite": "Ruth the Moabite",
+                            "Alexander Pope": "Alexander Pope",
+                            "Giambattista Marino": "Giambattista Marino",
+                            "George Chapman": "George Chapman",
+                            "Joseph Appleyard": "Joseph Appleyard"
+                     },
+                     "fictional": [
+                            "Bacchus",
+                            "Saturn",
+                            "Achilles",
+                            "Ixion",
+                            "Clymene",
+                            "Oceanus",
+                            "Hyperion",
+                            "Thea",
+                            "Tellus",
+                            "Jove",
+                            "Apollo",
+                            "Mnemosyne"
+                     ]
+              },
+              "places": {
+                     "Christ's College": "Christ's College",
+                     "Hippocrene": "Hippocrene",
+                     "Egypt": "Egypt"
+              },
+              "org": {
+                     "A. Gliddon": "A. Gliddon"
+              },
+              "dates": {
+                     "1820-08-09": " —WEDNESDAY, AUGUST 9th, 1820"
+              }
+       }
+}
