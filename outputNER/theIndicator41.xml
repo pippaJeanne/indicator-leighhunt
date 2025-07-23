@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <teiHeader>
     <!-- File Description -->
     <fileDesc>
@@ -16,7 +14,7 @@
       </titleStmt>
 
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
 
       <!-- Author information -->
@@ -36,7 +34,7 @@
     </fileDesc>
 
     <!-- Encoding Description -->
-    <encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
       <!-- Add any encoding information or guidelines here if applicable -->
       <p>
         Basic encoding, capturing relevant formatting and layout information. Page numbers are
@@ -59,15 +57,14 @@
             <l>There he arriving round about doth flie,</l>
             <l>And takes survey with busie, curious eye:</l>
             <l>Now this, now that, he tasteth tenderly.</l>
-            <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055"
-                cert="high" type="real">SPENSER</persName>.</l>
+            <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
           </epigraph>
-          <head type="catalogue" rend='center'>No. XLI.<date when="1820-07-19"> —WEDNESDAY, July 19th, 1820</date>.</head>
+          <head type="catalogue" rend="center">No. XLI.<date when="1820-07-19"> —WEDNESDAY, July 19th, 1820</date>.</head>
         </div2>
         <div2 type="section" n="1"> <!-- Header and content -->
           <head type="header" rend="center uppercase">The Destruction of the Cenci Family, and Tragedy on that Subject.</head>
            <p>
-           We lay before our readers in the present number the substance of a remarkable document, containing the authorities for the tragedy which has lately appeared on the same subject, and which we shall afterwards proceed to notice. Criticism is not intended to be a feature in this our very competent and agreeable miscellany, especially criticism of a hostile nature. But like our illustrious predecessors the <title level="j">Tatler</title> and <title level="j">Spectator</title>, and their fine old father Montaigne, we shall not hesitate now and then to notice some new and excellent work, or to indicatfe some great endeavours on the part of a friend, the natupe of which may require a more than ordinary introduction to the public.</p> 
+           We lay before our readers in the present number the substance of a remarkable document, containing the authorities for the tragedy which has lately appeared on the same subject, and which we shall afterwards proceed to notice. Criticism is not intended to be a feature in this our very competent and agreeable miscellany, especially criticism of a hostile nature. But like our illustrious predecessors the <title level="j">Tatler</title> and <title level="j">Spectator</title>, and their fine old father Montaigne, we shall not hesitate now and then to notice some new and excellent work, or to indicate some great endeavours on the part of a friend, the nature of which may require a more than ordinary introduction to the public.</p> 
 <p>It has been supposed by some, we understand, that the author of <persName type="real" key="the Cenci" role="family">the Cenci</persName> has overcharged his story; and these and other persons think that it is too horrible to tell. We are no admirers of horrid stories in general, as we have observed in the prefatory remarks to our own grim perpetration, the <title key="Tale for a Chimney Corner" level="a">Tale for a Chimney Corner</title>, <bibl>(Indicator, p. 73.)</bibl><note type="editorial">The reference points to the 10th Issue in the present edition.</note> There are some books in very good request, and with very delicate people too, —such as <persName key="Clarissa Harlowe" type="fictional">Clarissa Harlowe</persName>,— which with all their undoubted genius we would as soon read again, as see a man run the gauntlet from here to <placeName type="landmark" corresp="England" key="Land's End">Land's End</placeName>. The pain is too long drawn out, and the author's <choice><sic>portait</sic><corr>portrait</corr></choice> looks too fat and comfortable. There are also plays, not so clever, such as <title key="The London Merchant (Or The History Of George Barnwell)" level="m" ref="https://dbpedia.org/page/The_London_Merchant">George Barnwell</title> and <title key="The Fatal Marriage" level="m" ref="https://dbpedia.org/page/The_Fatal_Marriage">the Fatal Marriage</title>, full of half-witted morals and gratuitous agonies, which we would as <choice><orig>lief</orig><reg>gladly</reg></choice> pay to have our legs tortured, as go to see : — admittance to the red hot pincers, three and sixpence; half-torture, two shillings. But as we would avoid mean and unnecessary pain, so it appears to us to be a sort of moral cowardice not to look the most appalling stories in the face, that come to beckon us towards hidden treasures of thought, or to point out to us some great and awful endeavour for good. As <persName key="Proteus" type="fictional">Proteus</persName>, when his consulters grappled with him, changed himself into figures of beasts and serpents, to frighten them from their hold, but gave them their answer if he found it of no avail, so it is with these stories. They are the Gods wrestling with us in fearful shapes. Their final aspect is patient, human, and oracular.</p> 
 <p>The moral of the terrible story of <persName type="real" key="the Cenci" role="family">the Cenci</persName>, whether told in history or poetry, is a lesson against the enormities arising from bad education,
 <pb n="322"/> 
