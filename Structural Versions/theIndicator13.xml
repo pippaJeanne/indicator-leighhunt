@@ -69,10 +69,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024171",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010048168",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.171Z",
-	"dcterms:modified": "2025-07-29T05:00:48.168Z",
+	"dcterms:created": "2025-07-29T05:00:48.168Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -83,7 +82,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024171#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010048168#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -97,7 +96,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024171#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010048168#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2/epigraph/l[4]/persName"
 		}
@@ -149,10 +148,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024173",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010110692",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.173Z",
-	"dcterms:modified": "2025-07-29T05:01:10.692Z",
+	"dcterms:created": "2025-07-29T05:01:10.692Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -163,7 +161,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024173#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010110692#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -177,7 +175,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024173#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010110692#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName"
 		}
@@ -229,10 +227,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010128482",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.174Z",
-	"dcterms:modified": "2025-07-29T05:01:28.482Z",
+	"dcterms:created": "2025-07-29T05:01:28.482Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -243,7 +240,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010128482#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -257,7 +254,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010128482#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName[2]"
 		}
@@ -309,10 +306,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729233745710",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.174Z",
-	"dcterms:modified": "2025-07-30T03:37:45.710Z",
+	"dcterms:created": "2025-07-30T03:37:45.710Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -323,7 +319,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729233745710#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -337,7 +333,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024174#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729233745710#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName[3]"
 		}
@@ -467,10 +463,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024175",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010421096",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.175Z",
-	"dcterms:modified": "2025-07-29T05:04:21.096Z",
+	"dcterms:created": "2025-07-29T05:04:21.096Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -481,7 +476,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024175#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010421096#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -495,7 +490,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024175#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010421096#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/persName[5]"
 		}
@@ -864,10 +859,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024178",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010328228",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.178Z",
-	"dcterms:modified": "2025-07-29T05:03:28.228Z",
+	"dcterms:created": "2025-07-29T05:03:28.228Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -878,7 +872,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024178#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010328228#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -892,7 +886,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024178#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010328228#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[2]/persName[4]"
 		}
@@ -1101,10 +1095,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024180",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234152160",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.180Z",
-	"dcterms:modified": "2025-07-30T03:41:52.160Z",
+	"dcterms:created": "2025-07-30T03:41:52.160Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1115,7 +1108,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024180#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234152160#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1129,7 +1122,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024180#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234152160#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[3]/persName"
 		}
@@ -1340,10 +1333,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024182",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234320762",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.182Z",
-	"dcterms:modified": "2025-07-30T03:43:20.762Z",
+	"dcterms:created": "2025-07-30T03:43:20.762Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1354,7 +1346,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024182#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234320762#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1368,7 +1360,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024182#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234320762#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[5]/persName"
 		}
@@ -1500,10 +1492,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234542099",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.183Z",
-	"dcterms:modified": "2025-07-30T03:45:42.099Z",
+	"dcterms:created": "2025-07-30T03:45:42.099Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1514,7 +1505,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234542099#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1528,7 +1519,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729234542099#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[12]/persName[2]"
 		}
@@ -1580,10 +1571,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235104332",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.183Z",
-	"dcterms:modified": "2025-07-30T03:51:04.332Z",
+	"dcterms:created": "2025-07-30T03:51:04.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1594,7 +1584,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235104332#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1608,7 +1598,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235104332#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/persName"
 		}
@@ -1660,10 +1650,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235146435",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.183Z",
-	"dcterms:modified": "2025-07-30T03:51:46.435Z",
+	"dcterms:created": "2025-07-30T03:51:46.435Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1674,7 +1663,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235146435#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1688,7 +1677,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024183#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235146435#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/persName[2]"
 		}
@@ -1740,10 +1729,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024184",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235215840",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.184Z",
-	"dcterms:modified": "2025-07-30T03:52:15.840Z",
+	"dcterms:created": "2025-07-30T03:52:15.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1754,7 +1742,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024184#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235215840#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1768,7 +1756,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024184#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235215840#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[14]/persName"
 		}
@@ -1900,10 +1888,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024185",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235321124",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.185Z",
-	"dcterms:modified": "2025-07-30T03:53:21.124Z",
+	"dcterms:created": "2025-07-30T03:53:21.124Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1914,7 +1901,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024185#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235321124#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -1928,7 +1915,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024185#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235321124#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[15]/persName[2]"
 		}
@@ -2059,10 +2046,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024186",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235339907",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.186Z",
-	"dcterms:modified": "2025-07-30T03:53:39.907Z",
+	"dcterms:created": "2025-07-30T03:53:39.907Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2073,7 +2059,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024186#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235339907#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -2087,7 +2073,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024186#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235339907#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[16]/persName"
 		}
@@ -2219,10 +2205,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024187",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235429134",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.187Z",
-	"dcterms:modified": "2025-07-30T03:54:29.134Z",
+	"dcterms:created": "2025-07-30T03:54:29.134Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2233,7 +2218,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024187#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235429134#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -2247,7 +2232,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024187#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235429134#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[17]/persName[2]"
 		}
@@ -2705,10 +2690,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235638284",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.190Z",
-	"dcterms:modified": "2025-07-30T03:56:38.284Z",
+	"dcterms:created": "2025-07-30T03:56:38.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2719,7 +2703,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235638284#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -2733,7 +2717,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235638284#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[2]"
 		}
@@ -2868,10 +2852,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235739239",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.190Z",
-	"dcterms:modified": "2025-07-30T03:57:39.239Z",
+	"dcterms:created": "2025-07-30T03:57:39.239Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2882,7 +2865,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235739239#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -2896,7 +2879,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235739239#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[4]"
 		}
@@ -2948,10 +2931,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235830685",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.191Z",
-	"dcterms:modified": "2025-07-30T03:58:30.685Z",
+	"dcterms:created": "2025-07-30T03:58:30.685Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2962,7 +2944,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235830685#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -2976,7 +2958,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235830685#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[5]"
 		}
@@ -3028,10 +3010,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235931379",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.191Z",
-	"dcterms:modified": "2025-07-30T03:59:31.379Z",
+	"dcterms:created": "2025-07-30T03:59:31.379Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3042,7 +3023,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235931379#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3056,7 +3037,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024191#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729235931379#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[6]"
 		}
@@ -3108,10 +3089,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000044506",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.192Z",
-	"dcterms:modified": "2025-07-30T04:00:44.506Z",
+	"dcterms:created": "2025-07-30T04:00:44.506Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3122,7 +3102,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000044506#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3136,7 +3116,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000044506#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/persName[7]"
 		}
@@ -3191,10 +3171,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000126895",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.192Z",
-	"dcterms:modified": "2025-07-30T04:01:26.895Z",
+	"dcterms:created": "2025-07-30T04:01:26.895Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3205,7 +3184,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000126895#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3219,7 +3198,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024192#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000126895#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/persName"
 		}
@@ -3274,10 +3253,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024193",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000202696",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.193Z",
-	"dcterms:modified": "2025-07-30T04:02:02.696Z",
+	"dcterms:created": "2025-07-30T04:02:02.696Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3288,7 +3266,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024193#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000202696#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3302,7 +3280,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024193#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000202696#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[19]/persName[2]"
 		}
@@ -3512,10 +3490,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001350813",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.194Z",
-	"dcterms:modified": "2025-07-30T04:13:50.813Z",
+	"dcterms:created": "2025-07-30T04:13:50.813Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3526,7 +3503,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001350813#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3540,7 +3517,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001350813#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[20]/persName"
 		}
@@ -3592,10 +3569,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000341519",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.194Z",
-	"dcterms:modified": "2025-07-30T04:03:41.519Z",
+	"dcterms:created": "2025-07-30T04:03:41.519Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3606,7 +3582,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000341519#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3620,7 +3596,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024194#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000341519#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[20]/persName[2]"
 		}
@@ -3752,10 +3728,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024195",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000557376",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.195Z",
-	"dcterms:modified": "2025-07-30T04:05:57.376Z",
+	"dcterms:created": "2025-07-30T04:05:57.376Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3766,7 +3741,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024195#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000557376#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3780,7 +3755,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024195#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000557376#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[20]/persName[4]"
 		}
@@ -3832,10 +3807,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024196",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000620252",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.196Z",
-	"dcterms:modified": "2025-07-30T04:06:20.252Z",
+	"dcterms:created": "2025-07-30T04:06:20.252Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -3846,7 +3820,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024196#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000620252#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -3860,7 +3834,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024196#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000620252#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[20]/persName[5]"
 		}
@@ -4075,10 +4049,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024197",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000727789",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.197Z",
-	"dcterms:modified": "2025-07-30T04:07:27.789Z",
+	"dcterms:created": "2025-07-30T04:07:27.789Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -4089,7 +4062,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024197#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000727789#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -4103,7 +4076,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024197#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730000727789#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[21]/persName"
 		}
@@ -4234,10 +4207,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024198",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001001537",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.198Z",
-	"dcterms:modified": "2025-07-30T04:10:01.537Z",
+	"dcterms:created": "2025-07-30T04:10:01.537Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -4248,7 +4220,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024198#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001001537#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -4262,7 +4234,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024198#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001001537#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[22]/persName[4]"
 		}
@@ -5262,10 +5234,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024203",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001150839",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.203Z",
-	"dcterms:modified": "2025-07-30T04:11:50.839Z",
+	"dcterms:created": "2025-07-30T04:11:50.839Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5276,7 +5247,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024203#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001150839#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -5290,7 +5261,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024203#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001150839#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[31]/persName"
 		}
@@ -5580,10 +5551,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024205",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001251291",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.205Z",
-	"dcterms:modified": "2025-07-30T04:12:51.291Z",
+	"dcterms:created": "2025-07-30T04:12:51.291Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5594,7 +5564,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024205#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001251291#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -5608,7 +5578,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024205#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250730001251291#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[32]/persName[3]"
 		}
@@ -5663,10 +5633,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233525128",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.206Z",
-	"dcterms:modified": "2025-07-30T03:35:25.128Z",
+	"dcterms:created": "2025-07-30T03:35:25.128Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5677,7 +5646,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233525128#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -5691,7 +5660,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233525128#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/placeName"
 		}
@@ -5743,10 +5712,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233654705",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.206Z",
-	"dcterms:modified": "2025-07-30T03:36:54.705Z",
+	"dcterms:created": "2025-07-30T03:36:54.705Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5757,7 +5725,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233654705#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -5771,7 +5739,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024206#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729233654705#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p/placeName[2]"
 		}
@@ -5903,10 +5871,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234612365",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.209Z",
-	"dcterms:modified": "2025-07-30T03:46:12.365Z",
+	"dcterms:created": "2025-07-30T03:46:12.365Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5917,7 +5884,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234612365#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -5931,7 +5898,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234612365#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[12]/placeName"
 		}
@@ -5983,10 +5950,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234644056",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.209Z",
-	"dcterms:modified": "2025-07-30T03:46:44.056Z",
+	"dcterms:created": "2025-07-30T03:46:44.056Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -5997,7 +5963,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234644056#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6011,7 +5977,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024209#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234644056#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName"
 		}
@@ -6063,10 +6029,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234702525",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.210Z",
-	"dcterms:modified": "2025-07-30T03:47:02.525Z",
+	"dcterms:created": "2025-07-30T03:47:02.525Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6077,7 +6042,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234702525#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6091,7 +6056,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234702525#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[2]"
 		}
@@ -6143,10 +6108,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234752530",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.210Z",
-	"dcterms:modified": "2025-07-30T03:47:52.530Z",
+	"dcterms:created": "2025-07-30T03:47:52.530Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6157,7 +6121,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234752530#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6171,7 +6135,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024210#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234752530#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[3]"
 		}
@@ -6223,10 +6187,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234823854",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.211Z",
-	"dcterms:modified": "2025-07-30T03:48:23.854Z",
+	"dcterms:created": "2025-07-30T03:48:23.854Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6237,7 +6200,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234823854#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6251,7 +6214,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234823854#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[4]"
 		}
@@ -6303,10 +6266,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234853664",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.211Z",
-	"dcterms:modified": "2025-07-30T03:48:53.664Z",
+	"dcterms:created": "2025-07-30T03:48:53.664Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6317,7 +6279,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234853664#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6331,7 +6293,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234853664#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[5]"
 		}
@@ -6383,10 +6345,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234913118",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.211Z",
-	"dcterms:modified": "2025-07-30T03:49:13.118Z",
+	"dcterms:created": "2025-07-30T03:49:13.118Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6397,7 +6358,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234913118#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6411,7 +6372,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024211#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234913118#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[6]"
 		}
@@ -6463,10 +6424,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024212",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234942973",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.212Z",
-	"dcterms:modified": "2025-07-30T03:49:42.973Z",
+	"dcterms:created": "2025-07-30T03:49:42.973Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6477,7 +6437,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024212#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234942973#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6491,7 +6451,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024212#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729234942973#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[13]/placeName[7]"
 		}
@@ -6942,10 +6902,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024215",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730000852091",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.215Z",
-	"dcterms:modified": "2025-07-30T04:08:52.091Z",
+	"dcterms:created": "2025-07-30T04:08:52.091Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -6956,7 +6915,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024215#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730000852091#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -6970,7 +6929,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024215#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730000852091#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[22]/placeName"
 		}
@@ -7342,10 +7301,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024217",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001025414",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.217Z",
-	"dcterms:modified": "2025-07-30T04:10:25.414Z",
+	"dcterms:created": "2025-07-30T04:10:25.414Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7356,7 +7314,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024217#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001025414#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7370,7 +7328,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024217#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001025414#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[25]/placeName[3]"
 		}
@@ -7422,10 +7380,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001045595",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.218Z",
-	"dcterms:modified": "2025-07-30T04:10:45.595Z",
+	"dcterms:created": "2025-07-30T04:10:45.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7436,7 +7393,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001045595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7450,7 +7407,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001045595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[25]/placeName[4]"
 		}
@@ -7502,10 +7459,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001111451",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.218Z",
-	"dcterms:modified": "2025-07-30T04:11:11.451Z",
+	"dcterms:created": "2025-07-30T04:11:11.451Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7516,7 +7472,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001111451#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7530,7 +7486,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250729010024218#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?place_annotation_20250730001111451#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[25]/placeName[5]"
 		}
@@ -7665,7 +7621,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024219",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-29T05:00:24.219Z",
-	"dcterms:modified": "2025-07-29T05:00:24.219Z",
+	"dcterms:modified": "2025-07-30T16:56:00.109Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7697,7 +7653,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "#",
+		"@id": "http://www.wikidata.org/entity/Q466333",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -7742,10 +7698,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024220",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235242727",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.220Z",
-	"dcterms:modified": "2025-07-30T03:52:42.727Z",
+	"dcterms:created": "2025-07-30T03:52:42.727Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7756,7 +7711,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024220#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235242727#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7770,7 +7725,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024220#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235242727#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[15]/title"
 		}
@@ -7822,10 +7777,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235703185",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.221Z",
-	"dcterms:modified": "2025-07-30T03:57:03.185Z",
+	"dcterms:created": "2025-07-30T03:57:03.185Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7836,7 +7790,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235703185#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7850,7 +7804,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235703185#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/title"
 		}
@@ -7902,10 +7856,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235856143",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.221Z",
-	"dcterms:modified": "2025-07-30T03:58:56.143Z",
+	"dcterms:created": "2025-07-30T03:58:56.143Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -7916,7 +7869,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235856143#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -7930,7 +7883,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024221#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729235856143#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[18]/title[2]"
 		}
@@ -8141,10 +8094,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024223",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250730000821296",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.223Z",
-	"dcterms:modified": "2025-07-30T04:08:21.296Z",
+	"dcterms:created": "2025-07-30T04:08:21.296Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -8155,7 +8107,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024223#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250730000821296#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
@@ -8169,7 +8121,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250729010024223#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?work_annotation_20250730000821296#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div1/div2[2]/p[22]/title"
 		}
@@ -8660,84 +8612,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?correction_annotation_20250729010024274",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-29T05:00:24.274Z",
-	"dcterms:modified": "2025-07-29T05:00:24.274Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/bhipsonholder",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Bea Hipson Holder"
-	},
-	"oa:motivatedBy": "oa:editing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?correction_annotation_20250729010024274#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.9.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?correction_annotation_20250729010024274#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "corr"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "fabio:Correction",
-		"dc:format": "text/xml"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.9.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
@@ -8827,7 +8701,7 @@
                         sent another message, saying that upon the sole account of <persName ref="#tasso">Tasso</persName>, the ways should be left open. And they
                         were so.</p>
                     <p>We can call to mind no particular German thieves, except those who figure in
-                        romances, and in the <title level="m" key="The Robbers" ref="#" cert="high">Robbers</title> of <persName key="Friedrich Schiller" ref="http://dbpedia.org/resource/Friedrich_Schiller" cert="high" type="real">
+                        romances, and in the <title level="m" key="The Robbers" ref="http://www.wikidata.org/entity/Q466333" cert="high">Robbers</title> of <persName key="Friedrich Schiller" ref="http://dbpedia.org/resource/Friedrich_Schiller" cert="high" type="real">
                         Schiller</persName>. To say the truth, we are writing just now with but few
                         books to refer to; and the better informed reader must pardon any
                         deficiences he meets with in these egregious and furtive memorandums. Of the <title level="m" ref="#" cert="high"> Robbers</title> of <persName ref="#friedrichSchiller">Schiller</persName>,
