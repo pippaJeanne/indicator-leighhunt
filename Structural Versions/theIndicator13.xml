@@ -1415,7 +1415,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024182",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-29T05:00:24.182Z",
-	"dcterms:modified": "2025-07-29T05:00:24.182Z",
+	"dcterms:modified": "2025-07-30T16:57:55.220Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -1447,7 +1447,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "#",
+		"@id": "http://www.wikidata.org/entity/Q160614",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8743,7 +8743,7 @@
                         </corr> due weight with all <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion">Catholic</placeName> believers; but that in
                         future, it was forbidden any Prussian subject, military or civil, to accept
                         a present from the Virgin Mary.</p>
-                    <p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg" ref="#" cert="high" type="real">Scanderbeg</persName>. <roleName>Prince of
+                    <p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg" ref="http://www.wikidata.org/entity/Q160614" cert="high" type="real">Scanderbeg</persName>. <roleName>Prince of
                             Epirus</roleName>, and now become infamous by the tyranny of <persName key="Ali Bey, 1766-1818" ref="http://viaf.org/viaf/17426874" cert="high" type="real">Ali Bey</persName>, has been very fertile in
                         robbers. And no wonder, for a semi-barbarous people so governed become
                         thieves by necessity. The name indeed, as well as profession, is in such
