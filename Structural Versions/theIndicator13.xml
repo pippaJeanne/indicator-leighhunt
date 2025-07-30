@@ -2772,7 +2772,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator13.xml?person_annotation_20250729010024190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-29T05:00:24.190Z",
-	"dcterms:modified": "2025-07-29T05:00:24.190Z",
+	"dcterms:modified": "2025-07-30T17:02:00.279Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -2807,7 +2807,7 @@
 			"schema:Person",
 			"cwrc:FictionalPerson"
 		],
-		"@id": "#",
+		"@id": "http://www.wikidata.org/entity/Q16385022",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8870,7 +8870,7 @@
                         political again. <persName key="Henry Fielding" ref="http://dbpedia.org/resource/Henry_Fielding" cert="high" type="real">
                             Fielding's</persName> <title level="m" key="The Life and Death of Jonathan Wild, the Great" ref="http://dbpedia.org/resource/The_Life_and_Death_of_Jonathan_Wild,_the_Great" cert="high">Jonathan Wild
                             the Great</title> is also, in this sense, <q type="foreign">caveare</q>
-                        to the multitude." But we would say more of him, if we had room. <persName key="Count Fathom" ref="#" cert="high" type="fictional">Count Fathom</persName>, a deliberate
+                        to the multitude." But we would say more of him, if we had room. <persName key="The Adventures of Ferdinand, Count Fathom" ref="http://www.wikidata.org/entity/Q16385022" cert="high" type="fictional">Count Fathom</persName>, a deliberate
                         scoundrel, compounded of the <persName key="Jonathan Wild" ref="http://dbpedia.org/resource/Jonathan_Wild" cert="high" type="real">Jonathan
                             Wilds</persName> and the more equivocal <persName key="Cagliostro, Alessandro, conte di, 1743-1795." ref="http://viaf.org/viaf/56606872" cert="high" type="real">Cagliostros</persName> and otlier adventurers,
                         is a thief not at all to our taste. We are continually obliged to call his
