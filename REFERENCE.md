@@ -202,7 +202,7 @@ Indicate country in @corresp attribute for the placeName tag even when the key c
 Example:
 
 ```xml
-<placeName key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751" cert="high">the City of Sienna</placeName>
+<placeName key="Siena" corresp="Italy" ref="http://www.wikidata.org/entity/Q2751" cert="high" type="city">the City of Sienna</placeName>
 
 To distinguish between types of places the @type attribute can be used:
 Country
