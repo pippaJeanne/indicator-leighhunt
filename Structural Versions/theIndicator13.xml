@@ -1,45 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <teiHeader>
-        <!-- File Description -->
-        <fileDesc>
-            <!-- Title of the work -->
-            <titleStmt>
-                <title>The Indicator</title>
-                <author>
-                    <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
-                    <surname>
-                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
-                </author>
-            </titleStmt>
-
-            <publicationStmt>
-                <p>This digital edition is produced by students and faculty at [Institution Name, if
-                    applicable] as part of [Project Name, if applicable].</p>
-            </publicationStmt>
-
-            <!-- Author information -->
-            <sourceDesc>
-                <bibl>
-                    <author>
-                        <forename>James</forename> <forename>Henry</forename> <forename>Leigh</forename>
-                        <surname>
-                    Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
-                    </author>
-                    , <title level="j">The Indicator</title>. <date when="1820-01-05">January 5th, 1820</date> <!-- The publication date of this
-                    issue ({Month} {Day}, {Year}) -->
-                    <pubPlace><settlement>London</settlement>
-                    , <country>England</country></pubPlace>
-                    <publisher>Joseph Appleyard</publisher> <!--
-                    Publisher details if available -->
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-
-        <!-- Encoding Description -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    
+	<teiHeader>
+		<!-- File Description -->
         
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+		<fileDesc>
+			<!-- Title of the work -->
+            
+			<titleStmt>
+                
+				<title>The Indicator</title>
+                
+				<author>
+                    
+					<forename>James</forename> 
+					<forename>Henry</forename> 
+					<forename>Leigh</forename>
+                    
+					<surname>
+						Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                
+				</author>
+            
+			</titleStmt>
+
+			
+            
+			<publicationStmt>
+                
+				<p>This digital edition is produced by students and faculty at [Institution Name, if
+					applicable] as part of [Project Name, if applicable].</p>
+            
+			</publicationStmt>
+			
+			<!-- Author information -->
+            
+			<sourceDesc>
+                
+				<bibl>
+                    
+					<author>
+                        
+						<forename>James</forename> 
+						<forename>Henry</forename> 
+						<forename>Leigh</forename>
+                        
+						<surname>
+							Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
+                    
+					</author>
+					, <title level="j">The Indicator</title>. <date when="1820-01-05">January 5th, 1820</date> <!-- The publication date of this
+										issue ({Month} {Day}, {Year}) -->
+                    
+					<pubPlace>
+						<settlement>London</settlement>
+						, <country>England</country>
+					</pubPlace>
+                    
+					<publisher>Joseph Appleyard</publisher> <!--
+										Publisher details if available -->
+                
+								</bibl>
+            
+			</sourceDesc>
+        
+		</fileDesc>
+		
+		<!-- Encoding Description -->
+        
+		
+        
+		<xenoData>
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -115,10 +150,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -194,10 +231,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -273,10 +312,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -351,10 +392,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -430,10 +473,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -509,10 +554,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -588,10 +635,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -667,10 +716,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -746,10 +797,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -826,10 +879,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -904,10 +959,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -983,10 +1040,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1062,10 +1121,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1141,10 +1202,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1220,10 +1283,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1300,10 +1365,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1379,10 +1446,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1459,10 +1528,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1538,10 +1609,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1617,10 +1690,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1696,10 +1771,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1775,10 +1852,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1855,10 +1934,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1934,10 +2015,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2013,10 +2096,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2092,10 +2177,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2172,10 +2259,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2254,10 +2343,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2337,10 +2428,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2416,10 +2509,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2495,10 +2590,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2574,10 +2671,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2657,10 +2756,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2736,10 +2837,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2819,10 +2922,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2898,10 +3003,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2977,10 +3084,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3056,10 +3165,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3138,10 +3249,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3220,10 +3333,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3299,10 +3414,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3378,10 +3495,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3457,10 +3576,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3536,10 +3657,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3615,10 +3738,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3695,10 +3820,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3774,10 +3901,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3853,10 +3982,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3933,10 +4064,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4016,10 +4149,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4095,10 +4230,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4174,10 +4311,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4253,10 +4392,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4332,10 +4473,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4411,10 +4554,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4490,10 +4635,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4569,10 +4716,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4648,10 +4797,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4727,10 +4878,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4806,10 +4959,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4885,10 +5040,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4964,10 +5121,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5043,10 +5202,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5122,10 +5283,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5201,10 +5364,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5280,10 +5445,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5359,10 +5526,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5439,10 +5608,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5518,10 +5689,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5600,10 +5773,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5679,10 +5854,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5758,10 +5935,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5838,10 +6017,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5917,10 +6098,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -5996,10 +6179,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6075,10 +6260,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6154,10 +6341,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6233,10 +6422,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6312,10 +6503,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6391,10 +6584,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6470,10 +6665,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6550,10 +6747,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6629,10 +6828,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6709,10 +6910,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6789,10 +6992,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6869,10 +7074,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -6948,10 +7155,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7028,10 +7237,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7108,10 +7319,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7188,10 +7401,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7268,10 +7483,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7347,10 +7564,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7426,10 +7645,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7505,10 +7726,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7585,10 +7808,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7665,10 +7890,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7744,10 +7971,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7823,10 +8052,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7902,10 +8133,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -7981,10 +8214,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8061,10 +8296,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8140,10 +8377,12 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8219,10 +8458,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8298,10 +8539,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8376,10 +8619,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8454,10 +8699,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8532,10 +8779,12 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
+				</rdf:Description>
       
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				
+        
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -8611,564 +8860,657 @@
 		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
-            <!-- Add any encoding information or guidelines here if applicable -->
-            <p>
-                Basic encoding, capturing relevant formatting and layout information. Page numbers
-                are
-                included for reference to the source only and are not intended to indicate precise
-                preservation.
-            </p>
-        </encodingDesc>
-
-        <!-- Profile Description -->
-        <profileDesc>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div1 type="issue" n="13">
-                <div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
-                    <head type="title">THE INDICATOR.</head>
-                    <epigraph>
-                        <l>There he arriving round about doth flie,</l>
-                        <l>And takes survey with busie, curious eye:</l>
-                        <l>Now this, now that, he tasteth tenderly.</l>
-                        <l><persName key="Edmund Spenser" ref="http://dbpedia.org/resource/Edmund_Spenser" cert="high" type="real">
-                                <hi rend="uppercase">SPENSER</hi>
-                            </persName>
-                            .</l>
-                    </epigraph>
-                    <head type="catalogue">No.XIII <hi rend="smallcaps">XIII</hi>.— <hi rend="uppercase">WEDNESDAY,
-                            JANUARY 5th</hi>, 1820.</head>
-                </div2>
-                <div2 type="section" n="1"> <!-- Header and content -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-                    <head type="header"><hi rend="uppercase">THIEVES, ANCIENT AND MODERN.</hi></head>
-                    <head type="subheader"><hi rend="uppercase">CONCLUDED FROM LAST WEEK.</hi></head>
-                    <p>We must return a moment to the Italian thieves, to relate a couple of stories related of <persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q173367" cert="high" type="real">Ariosto</persName> and <persName key="Torquato Tasso" ref="http://www.wikidata.org/entity/Q172462" cert="high" type="real">Tasso</persName>. The former was for a short period governor of <placeName key="Garfanana" corresp="Italy" ref="http://www.wikidata.org/entity/Q1008779" cert="high" type="region">Grafagnana</placeName>, a disturbed district in the <placeName key="Apennines" corresp="Italy" ref="http://www.wikidata.org/entity/Q128362" cert="high" type="physical">Apennines</placeName>, which his prudent and gentle policy brought back from <choice><orig>it's</orig><reg>its</reg></choice> disaffection. Among <choice><orig>it's</orig><reg>its</reg></choice> other troubles, were numerous bands of robbers, two of the names of whose leaders, <persName key="Domenico Maroco" type="real">Domenico Maroco</persName>, and <persName key="Filippo Pacchione" type="real">Filippo Pacchione</persName>, have come down to posterity. <persName ref="#ariosto">Ariosto</persName>, during the first days of his government, was riding out with a small retinue, when he had to pass through a number of suspicious-looking armed men. The two parties had scarcely cleared each other, when the chief of the strangers asked a servant who happened to be at some distance behind the others, who that person was. "It is the captain of the citadel here," said the man, "<persName key="Ludovico Ariosto" ref="http://www.wikidata.org/entity/Q173367" cert="high" type="real">Lodovico Ariosto</persName>." The stranger no sooner heard the name, than he went running back to overtake the governor, who, stopping his horse, waited with some anxiety for the event. "I beg your pardon, Sir," said he, "but I was not aware that so great a person as the <hi rend="italic">Signor Lodbvico Ariosto</hi> was passing near me. My name is <persName ref="#filippoPacchione">Filippo Pacchione</persName>; and when I knew who it was, I could not go on without returning to pay the respect due to so illustrious a name."</p>
-                    <p>A doubt is thrown on this story, or rather on the particular person who gave occasion to it, by the similarity of an adventure related of <persName ref="#tasso">Tasso</persName>. Both of them however are very probable, let the similarity be what it may; for both the poets had occasion to go through disturbed districts; robbers abounded in both their times; and the leaders being most probably men rather of desperate fortunes than want of knowledge, were likely enough to seize such opportunities of vindicating their better habits, and shewing a romantic politeness. The enthusiasm too is quite in keeping with the national character; and it is to be observed that the particulars of <persName ref="#tasso">Tasso's</persName> adventure are different, though the spirit of it is the same. He was journeying, it is said, in company with others, for better security against the banditti who infested the borders of the
-                        <pb n="98" />
-                        
-                        papal territory, when they were told that <persName key="Sciarra" ref="https://dbpedia.org/page/Marco_Sciarra" cert="high" type="real">Sciarra</persName>, a famous robber, was at hand in considerable force. <persName ref="#tasso">Tasso</persName> was for pushing on, and defending themselves if attacked; but his opinion was overruled; and the company threw themselves, for safety, into the city of <placeName key="Mola" corresp="Italy" ref="http://www.wikidata.org/entity/Q1025700" cert="high" type="city">Mola</placeName>. Here <persName ref="#sciarra">Sciarra</persName> kept them in a manner blocked up ; but hearing that <persName ref="#tasso">Tasso</persName> was among the travellers, he sent him word that he should not only be allowed to pass, but should have safe conduct whithersoever he pleased. The lofty poet, making it a matter of delicacy perhaps to waive an advantage of which his company could not partake, declined the offer, upon which <persName ref="#sciarra">Sciarra</persName> sent another message, saying that upon the sole account of <persName ref="#tasso">Tasso</persName>, the ways should be left open. And they were so.</p>
-                    <p>We can call to mind no particular <placeName key="Germany" corresp="Germany" ref="http://www.wikidata.org/entity/Q183" cert="high" type="country">German</placeName> thieves, except those who figure in romances, and in the <title level="m" key="The Robbers" ref="http://www.wikidata.org/entity/Q845184" cert="high">Robbers</title> of <persName key="Friedrich Schiller" ref="http://www.wikidata.org/entity/Q22670" cert="high" type="real">Schiller</persName>. To say the truth, we are writing just now with but few books to refer to; and the better informed reader must pardon any deficiences he meets with in these egregious and furtive memorandums. Of the <title level="m" ref="http://www.wikidata.org/entity/Q845184" cert="high">Robbers</title> of <persName ref="#friedrichSchiller">Schiller</persName>, an extraordinary effect is related. It is said to have driven a number of wild-headed young <placeName key="Germany" corresp="Germany" ref="http://www.wikidata.org/entity/Q183" cert="high" type="country">Germans</placeName> upon playing at banditti, not in the bounds of a school or university, but seriously in a forest. The matter-of-fact spirit in which a <placeName key="Germany" corresp="Germany" ref="http://www.wikidata.org/entity/Q183" cert="high" type="country">German</placeName> sets about being enthusiastic, is a metaphysical curiosity which modern events render doubly interesting. It is extremely worthy of the attention of those rare personages, entitled reflecting politicians. But we must take care again. It is very inhuman of these politics, that the habit of attending to them, though with the greatest good-will and sincerity, will always be driving a man upon thinking how his fellow-creatures are going on.</p>
-                    <p>There is a pleasant well-known story of a <placeName key="Prussia" corresp="Germany" ref="http://www.wikidata.org/entity/Q105559" cert="high" type="country">Prussian</placeName> thief and <persName key="Frederick the Great" ref="http://www.wikidata.org/entity/Q34479" cert="high" type="real">Frederick the Second</persName>. [The mention, by the way, of these two personages together puts us in mind of the <placeName key="Scotland" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q22" cert="high" type="country">Scottish</placeName> answer to travellers about a mile and a bittock, —the said bittock, or little bit, being perhaps three or four miles in addition.</p>
-                    <p><hi rend="smallcaps">Reader.</hi> There, <persName key="Leigh Hunt" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">Mr. Indicator</persName>, you get upon politics again.</p>
-                    <p><hi rend="smallcaps">Indic.</hi> What, Sir; upon modern politics ?</p>
-                    <p><hi rend="smallcaps">Read.</hi> I think so.</p>
-                    <p><hi rend="smallcaps">Indic.</hi> But I cannot help it, you know, if past history applies to present events; or at least, if your wicked imagination makes it apply.</p>
-                    <p><hi rend="smallcaps">Read.</hi> Oh, ho: you have me there.</p>
-                    <p><hi rend="smallcaps">Indic.</hi> I trust you have me every where.]</p>
-                    <p>We forget what was the precise valuable found upon the <placeName key="Prussia" corresp="Germany" ref="http://www.wikidata.org/entity/Q105559" cert="high" type="country">Prussian</placeName> soldier, and missed from an image of the <persName key="Virgin Mary" ref="http://www.wikidata.org/entity/Q345" cert="high" type="real">Virgin Mary</persName>; but we believe it was a ring. He was tried for sacrilege, and the case appeared clear against him, when he puzzled his <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion">Catholic</placeName> judges by informing them, that the fact was, the <persName ref="#virginMary">Virgin Mary</persName> had given him that ring. Here was a terrible dilemma. To dispute the possibility or even probability of a gift from the <persName ref="#virginMary">Virgin Mary</persName>, was to deny their religion: while, on the other hand, to let the fellow escape on the pretence, was to canonize impudence itself. The worthy judges, in
-                        <pb n="99" />
-                        
-                        their perplexity, applied to the king, who under the guise of behaving delicately to their faith, was not sorry to have such an opportunity of joking it. His majesty therefore pronounced, with becoming gravity, that the allegation of the soldier could not but have <choice><orig>it's</orig><reg>its</reg></choice> due weight with all <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion">Catholic</placeName> believers; but that in future, it was forbidden any <placeName key="Prussia" corresp="Germany" ref="http://www.wikidata.org/entity/Q105559" cert="high" type="country">Prussian</placeName> subject, military or civil, to accept a present from the <persName ref="#virginMary">Virgin Mary</persName>.</p>
-                    <p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg" ref="http://www.wikidata.org/entity/Q187884" cert="high" type="real">Scanderbeg</persName>. <roleName>Prince of Epirus</roleName>, and now become infamous by the tyranny of <persName key="Ali Pasha of Ioannina" ref="http://www.wikidata.org/entity/Q310342" cert="high" type="real">Ali Bey</persName>, has been very fertile in robbers. And no wonder, for a semi-barbarous people so governed become thieves by necessity. The name indeed, as well as profession, is in such good receipt with an <placeName key="Albania" corresp="Albania" ref="http://www.wikidata.org/entity/Q222" cert="high" type="country">Albanian</placeName>, that according to late travellers, it is a common thing for
-                        him to begin a story by saying, "<q type="spoken">When I was a robber---</q>" We remember reading of some <placeName key="Albania" corresp="Albania" ref="http://www.wikidata.org/entity/Q222" cert="high" type="country">Albanian</placeName> or <placeName key="Slavonia" corresp="Croatia" ref="http://www.wikidata.org/entity/Q645484" cert="high" type="region">Sclavonian</placeName> leader of banditti, who made his enemies suppose he had a numerous force with him, by distributing military caps upon the hedges.</p>
-                    <p>There are some other nations who are all thieves, more or less; or comprise such numbers of them as very much militate against the national character. Such are the piratical <placeName key="Malay Archipelago" corresp="Southeast Asia" ref="http://www.wikidata.org/entity/Q25404" cert="high" type="region">Malays</placeName>; the still more infamous <placeName key="Algiers" corresp="Algeria" ref="http://www.wikidata.org/entity/Q3570" cert="high" type="city">Algerines</placeName>; the mongrel tribes between <placeName key="Arabia" corresp="Middle East" ref="http://www.wikidata.org/entity/Q31633" cert="high" type="region">Arabia</placeName> and <placeName key="Abyssinia" corresp="Ethiopia" ref="http://www.wikidata.org/entity/Q153097" cert="high" type="country">Abyssinia</placeName>. As to the <placeName key="Arabian Peninsula" corresp="Middle East" ref="http://www.wikidata.org/entity/Q31940" cert="high" type="region">Arabs</placeName>, they have a prescriptive right, from tradition as well as local circumstances, to plunder every body. The sanguinary ruffians of <placeName key="Ashanti Region" corresp="Ghana" ref="http://www.wikidata.org/entity/Q739766" cert="high" type="region">Ashantee</placeName> and other black empires on the coast of <placeName key="Guinea" corresp="West Africa" ref="http://www.wikidata.org/entity/Q3423711" cert="high" type="region">Guinea</placeName> are more like a government of murderers and ogres, than thieves. They are the next ruffians perhaps in existence, to slave dealers. The gentlest nation of pilferers are the <placeName key="Tahiti" corresp="French Polynesia" ref="http://www.wikidata.org/entity/Q42023" cert="high" type="island">Otaheiteans</placeName>; and something is to be said for their irresistible love of hatchets and old nails. Let the <placeName key="Europe" corresp="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high" type="continent">European</placeName> trader, that is without sin cast the first paragraph at them. Let him think what he should feel inclined to do, were a ship of some unknown nation to come upon his coast, with gold and jewels lying scattered about the deck. For no less precious is iron to the <placeName key="South Sea Islands" ref="http://www.wikidata.org/entity/Q3390497" cert="high" type="region">South Sea Islander</placeName>. A Paradisaical state of existence would be, to him, not the Golden, but the Iron Age. An <placeName ref="#tahiti">Otaheitean</placeName> <persName key="Jupiter (mythology)" ref="http://www.wikidata.org/entity/Q11021" cert="high" type="mythological">Jupiter</persName> would visit his <persName key="Danaë (mythology)" ref="http://www.wikidata.org/entity/Q463426" cert="high" type="mythological">Danaë</persName> in a shower of tenpenny nails.</p>
-                    <p>We are now come to a very multitudinous set of candidates for the halter, the thieves of our own beloved country. For what we know of the French thieves is connected with them, excepting <persName key="Louis Dominique Bourguignon" ref="http://www.wikidata.org/entity/Q929367" cert="high" type="real">Cartouche</persName>; and we remember nothing of him, but that he was a great ruffian, and died upon that worse ruffian, the rack.</p>
-                    <p>There is, to be sure, a very eminent instance of a single theft in the <title level="m" key="Confessions (Rousseau)" ref="http://www.wikidata.org/entity/Q1124449" cert="high">Confessions</title> of <persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high" type="real">Rousseau</persName>; and it is the second greatest blot in his book; for he suffered a girl to be charged with and punished for the theft, and maintained the lie to her face, though she was his friend, and appealed to him with tears. But it may be said for him, at any rate, that the world would not have known the story but for himself: and if such a disclosure be regarded by some as an additional offence (which it may be thought by some very delicate as well as dishonest people), we must recollect, that it was the object of his book to give a plain unsophisticated account of a human being's ex-
-                        <pb n="100" />
-                        
-                        periences; and that many persons of excellent repute would have been found to have committed actions as bad, had they given accounts of themselves as candid. <persName key="Samuel Johnson" ref="http://www.wikidata.org/entity/Q183359" cert="high" type="real">Dr. Johnson</persName> was of opinion that all children were thieves and liars: and somebody, we believe a <placeName key="Scotland" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q22" cert="high" type="country">Scotchman</placeName>, answered a fond speech about human nature, by exclaiming, that "<q type="spoken">human nature was a rogue and a vagabond, or so many laws would not have been necessary to restrain it.</q>" We venture to differ, on this occasion, with both Englishman and <placeName ref="#scotland">Scotchman</placeName>. Laws in particular, taking the bad with the good, are quite as likely to have made rogues, as restrained them. But we see, at any rate, what has been suspected of more orthodox persons than <persName ref="#rousseau">Rousseau</persName>; to say nothing of less charitable advantages which might be taken of such opinions. He committed a petty theft; and miserably did his false shame, the parent of so many crimes, make him act. But he won back to their infants' lips the bosoms of thousands of mothers. He restored to their bereaved and helpless owners thousands of those fountains of health and joy: and before he is abused, even for worse things than the theft, let those whose virtue consists in custom, think of this.</p>
-                    <p>As we have mixed fictitious with real thieves in this article, in a manner, we fear, somewhat uncritical (and yet the fictions are most likely founded on fact; and the life of a real thief is a kind of dream and romance) we will dispatch our fictitious <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> thieves before we come to the others. And we must make shorter work of it than we intended, or we shall never come to our friend <persName key="Claude Du Vall" ref="http://www.wikidata.org/entity/Q2977468" cert="high" type="real">Du Vall</persName>. The length to which this article has stretched out, week after week, will be a warning to us, how we render our paper liable to be run away with in future.</p>
-                    <p>There is a very fine story of <title level="a" key="Three Thieves (Chaucer)">Three Thieves</title> in <persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5683" cert="high" type="real">Chaucer</persName>, which we must tell at large another time. The most prominent of the fabulous thieves in <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">England</placeName> is that bellipotent and immeasurable wag, <persName key="Falstaff" ref="http://www.wikidata.org/entity/Q849051" cert="high" type="fictional">Falstaff</persName>. If for a momentary freak, he thought it villainous to steal, at the next moment he thought it villainous not to steal.</p>
-=======
-=======
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-                    <head type="header">
-                        <hi rend="uppercase">THIEVES, ANCIENT AND MODERN.</hi>
-                    </head>
-                    <head type="subheader">
-                        <hi rend="uppercase">CONCLUDED FROM LAST WEEK.</hi>
-                    </head>
-                    <p>WE must return a moment to the Italian thieves, to relate a couple of stories
-                        related of <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" cert="high" type="real">
-                            Ariosto</persName> and <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" cert="high" type="real">
-                            Tasso</persName>. The former was for a short period governor of <placeName key="Graffignana" corresp="Italy" ref="http://dbpedia.org/resource/Graffignana" cert="high" type="region">
-                            Grafagnana</placeName>, a disturbed district in the <placeName key="Apennines" corresp="Italy" ref="http://www.wikidata.org/entity/Q1285" cert="high" type="physical">
-                            Apennines</placeName>, which his prudent and gentle policy brought back
-                        from <corr>
-                            <orig>it's</orig>
-                            <reg>its</reg>
-                        </corr>disaffection. Among <corr>
-                            <orig>it's</orig>
-                            <reg>its</reg>
-                        </corr> other troubles, were
-                        numerous bands of robbers, two of the names of whose leaders, <persName key="Domenico Maroco" ref="#" type="real">Domenico Maroco</persName>,
-                        and <persName key="Filippo Pacchione" ref="#" type="real">Filippo Pacchione</persName>,
-                        have come down to posterity. <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" cert="high" type="real">Ariosto</persName>, during the first days of his
-                        government, was riding out with a small retinue, when he had to pass through
-                        a number of suspicious-looking armed men. The two parties had scarcely
-                        cleared each other, when the chief of the strangers asked a servant who
-                        happened to be at some distance behind the others, who that person was. "It
-                        is the captain of the citadel here," said the man, "<persName ref="#ariosto">Lodovico
-                        Ariosto</persName>." The stranger no sooner heard the name, than he went
-                        running back to overtake the governor, who, stopping his horse, waited with
-                        some anxiety for the event. "I beg your pardon, Sir," said he, "but I was
-                        not aware that so great a person as the <hi rend="italic">Signor Lodbvico Ariosto</hi> was passing near me. My name
-                        is <persName ref="#filippoPacchione">Filippo Pacchione</persName>; and when
-                        I knew who it was, I could not go on without returning to pay the respect
-                        due to so illustrious a name."</p>
-                    <p>A doubt is thrown on this story, or rather on the particular person who gave
-                        occasion to it, by the similarity of an adventure related of <persName ref="#tasso">Tasso</persName>. Both of them however are very probable,
-                        let the similarity be what it may; for both the poets had occasion to go
-                        through disturbed districts; robbers abounded in both their times; and the
-                        leaders being most probably men rather of desperate fortunes than want of
-                        knowledge, were likely enough to seize such opportunities of vindicating
-                        their better habits, and shewing a romantic politeness. The enthusiasm too
-                        is quite in keeping with the national character; and it is to be observed
-                        that the particulars of <persName ref="#tasso">Tasso's</persName> adventure
-                        are different, though the spirit of it is the same. He was journeying, it is
-                        said, in company with others, for better security against the banditti who
-                        infested the borders of the <pb n="98"/> papal territory, when they were
-                        told that <persName key="Sciarra" ref="https://dbpedia.org/page/Marco_Sciarra" cert="high" type="real">
-                        Sciarra</persName>, a famous robber, was at hand in considerable force. <persName ref="#tasso">Tasso</persName> was for pushing on, and defending
-                        themselves if attacked; but his opinion was overruled; and the company threw
-                        themselves, for safety, into the city of <placeName key="Mola" corresp="Italy" ref="#" cert="high" type="city">Mola</placeName>. Here <persName ref="#sciarra"> Sciarra</persName> kept them in a manner blocked up ; but hearing that <persName ref="#tasso">Tasso</persName> was among the travellers, he sent him word
-                        that he should not only be allowed to pass, but should have safe conduct
-                        whithersoever he pleased. The lofty poet, making it a matter of delicacy
-                        perhaps to waive an advantage of which his company could not partake,
-                        declined the offer, upon which <persName ref="#sciarra">Sciarra</persName>
-                        sent another message, saying that upon the sole account of <persName ref="#tasso">Tasso</persName>, the ways should be left open. And they
-                        were so.</p>
-                    <p>We can call to mind no particular German thieves, except those who figure in
-                        romances, and in the <title level="m" key="The Robbers" ref="http://www.wikidata.org/entity/Q466333" cert="high">Robbers</title> of <persName key="Friedrich Schiller" ref="http://dbpedia.org/resource/Friedrich_Schiller" cert="high" type="real">
-                        Schiller</persName>. To say the truth, we are writing just now with but few
-                        books to refer to; and the better informed reader must pardon any
-                        deficiences he meets with in these egregious and furtive memorandums. Of the <title level="m" ref="#" cert="high"> Robbers</title> of <persName ref="#friedrichSchiller">Schiller</persName>,
-                        an extraordinary effect is related. It is said to have driven a number of
-                        wild-headed young Germans upon playing at banditti, not in the bounds of a
-                        school or university, but seriously in a forest. The matter-of-fact spirit
-                        in which a German sets about being enthusiastic, is a metaphysical curiosity
-                        which modern events render doubly interesting. It is extremely worthy of the
-                        attention of those rare personages, entitled reflecting politicians. But we
-                        must take care again. It is very inhuman of these politics, that the habit
-                        of attending to them, though with the greatest good-will and sincerity, will
-                        always be driving a man upon thinking how his fellow-creatures are going on.</p>
-                    <p>There is a pleasant well-known story of a Prussian thief and <persName key="Frederick the Great" ref="#" cert="high" type="real">Frederick the Second</persName>. [The mention,
-                        by the way, of these two personages together puts us in mind of the Scottish
-                        answer to travellers about a mile and a bittock, —the said bittock, or
-                        little bit, being perhaps three or four miles in addition.</p>
-                    <p><hi rend="italic">Reader.</hi> There, <persName key="Leigh Hunt" ref="http://dbpedia.org/resource/Leigh_Hunt" cert="high" type="real">Mr.
-                            Indicator</persName>, you get upon politics again.</p>
-                    <p><hi rend="italic">Indic.</hi> What, Sir; upon modern politics ?</p>
-                    <p><hi rend="italic">Read.</hi> I think so.</p>
-                    <p><hi rend="italic">Indic.</hi> But I cannot help it, you know, if past history
-                        applies to present events; or at least, if your wicked imagination makes it
-                        apply.</p>
-                    <p><hi rend="italic">Read.</hi> Oh, ho: you have me there.</p>
-                    <p><hi rend="italic">Indic.</hi> I trust you have me every where.]</p>
-                    <p>We forget what was the precise valuable found upon the Prussian soldier, and
-                        missed from an image of the Virgin Mary; but we believe it was a ring. He
-                        was tried for sacrilege, and the case appeared clear against him, when he
-                        puzzled his <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion"> Catholic</placeName> judges by informing them, that the fact was, the Virgin
-                        Mary had given him that ring. Here was a terrible dilemma. To dispute the
-                        possibility or even probability of a gift from the Virgin Mary was to deny
-                        their religion: while, on the other hand, to let the fellow escape on the
-                        pretence, was to canonize impudence itself. The worthy judges, in <pb n="99"/> their perplexity, applied to the king, who under the guise of
-                        behaving delicately to their faith, was not sorry to have such an
-                        opportunity of joking it. His majesty therefore pronounced, with becoming
-                        gravity, that the allegation of the soldier could not but have <corr>
-                            <orig>it's</orig>
-                            <reg>its</reg>
-                        </corr> due weight with all <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion">Catholic</placeName> believers; but that in
-                        future, it was forbidden any Prussian subject, military or civil, to accept
-                        a present from the Virgin Mary.</p>
-                    <p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg" ref="http://www.wikidata.org/entity/Q160614" cert="high" type="real">Scanderbeg</persName>. <roleName>Prince of
-                            Epirus</roleName>, and now become infamous by the tyranny of <persName key="Ali Bey, 1766-1818" ref="http://viaf.org/viaf/17426874" cert="high" type="real">Ali Bey</persName>, has been very fertile in
-                        robbers. And no wonder, for a semi-barbarous people so governed become
-                        thieves by necessity. The name indeed, as well as profession, is in such
-                        good receipt with an Albanian, that according to late travellers, it is a
-                        common thing for him to begin a story by saying, "<q type="spoken">When I
-                            was a
-                            robber---</q>" We remember reading of some Albanian or <placeName key="Croatia" corresp="Croatia" ref="http://www.wikidata.org/entity/Q224" cert="high" type="region">Sclavonian</placeName> leader of banditti, who
-                        made his enemies suppose he had a numerous force with him, by distributing
-                        military caps upon the hedges.</p>
-                    <p>There are some other nations who are all thieves, more or less; or comprise
-                        such numbers of them as very much militate against the national character.
-                        Such are the piratical <placeName key="Malays" corresp="Southeast Asia" ref="http://www.wikidata.org/entity/Q142702" cert="high" type="region">Malays</placeName>; the still more infamous <placeName key="Algeria" corresp="Algeria" ref="http://dbpedia.org/resource/Algeria" cert="high" type="city">
-                            Algerines</placeName>; the mongrel tribes between <placeName key="Middle East" corresp="Middle East" ref="http://www.wikidata.org/entity/Q7204" cert="high" type="region">Arabia</placeName> and <placeName key="Ethiopian Empire" corresp="Ethiopia" ref="http://www.wikidata.org/entity/Q207521" cert="high" type="country">
-                            Abyssinia</placeName>. As to the Arabs, they have a prescriptive right,
-                        from tradition as well as local circumstances, to plunder every body. The
-                        sanguinary ruffians of <placeName key="Ashanti Region" corresp="Ghana" ref="http://dbpedia.org/resource/Ashanti_Region" cert="high" type="region">
-                            Ashantee</placeName> and other black empires on the coast of <placeName key="Guinea" corresp="West Africa" ref="http://www.wikidata.org/entity/Q1006" cert="high" type="region">
-                            Guinea</placeName> are more like a government of murderers and ogres,
-                        than thieves. They are the next ruffians perhaps in existence, to slave
-                        dealers. The gentlest nation of pilferers are the <placeName key="French Polynesia" corresp="French Polynesia" ref="http://www.wikidata.org/entity/Q30971" cert="high" type="island">Otaheiteans</placeName>; and something is to
-                        be said for their irresistible love of hatchets and old nails. Let the
-                        European trader, that is without sin cast the first paragraph at them. Let
-                        him think what he should feel inclined to do, were a ship of some unknown
-                        nation to come upon his coast, with gold and jewels lying scattered about
-                        the deck. For no less precious is iron to the <placeName key="South Sea Islands" ref="#" cert="high" type="region">South
-                            Sea Islander</placeName>. A Paradisaical state of existence would be, to
-                        him, not the Golden, but the Iron Age. An <placeName ref="#tahiti">
-                        Otaheitean</placeName> <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high">Jupiter</persName> would visit his <persName key="Danaë" ref="http://www.wikidata.org/entity/Q190582" cert="high">Danaë</persName> in a shower of tenpenny
-                        nails.</p>
-                    <p>We are now come to a very multitudinous set of candidates for the halter, the
-                        thieves of our own beloved country. For what we know of the French thieves
-                        is connected with them, excepting <persName key="Louis Dominique Bourguignon" ref="http://dbpedia.org/resource/Louis_Dominique_Bourguignon" cert="high" type="real">
-                            Cartouche</persName>; and we remember nothing of him, but that he was a
-                        great ruffian, and died upon that worse ruffian, the rack.</p>
-                    <p>There is, to be sure, a very eminent instance of a single theft in the <title level="m" key="Confessions" ref="http://www.wikidata.org/entity/Q1207595" cert="high">Confessions</title> of <persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high" type="real">
-                        Rousseau</persName>; and it is the second greatest blot in his book; for he
-                        suffered a girl to be charged with and punished for the theft, and
-                        maintained the lie to her face, though she was his friend, and appealed to
-                        him with tears. But it may be said for him, at any rate, that the world
-                        would not have known the story but for himself: and if such a disclosure be
-                        regarded by some as an additional offence (which it may be thought by some
-                        very delicate as well as dishonest people), we must recollect, that it was
-                        the object of his book to give a plain unsophisticated account of a human
-                        being's ex- <pb n="100"/> periences; and that many persons of excellent
-                        repute would have been found to have committed actions as bad, had they
-                        given accounts of themselves as candid. <persName key="Samuel Johnson" ref="http://dbpedia.org/resource/Samuel_Johnson" cert="high" type="real">Dr.
-                            Johnson</persName> was of opinion that all children were thieves and
-                        liars: and somebody, we believe a Scotchman, answered a fond speech about
-                        human nature, by exclaiming, that "<q type="spoken">human nature was a
-                            rogue and a vagabond, or so many laws would not have been necessary to
-                        restrain it.</q>" We venture to differ, on this occasion, with both
-                        Englishman and Scotchman. Laws in particular, taking the bad with the good,
-                        are quite as likely to have made rogues, as restrained them. But we see, at
-                        any rate, what has been suspected of more orthodox persons than <persName ref="#rousseau">Rousseau</persName>; to say nothing of less charitable
-                        advantages which might be taken of such opinions. He committed a petty
-                        theft; and miserably did his false shame, the parent of so many crimes, make
-                        him act. But he won back to their infants' lips the bosoms of thousands of
-                        mothers. He restored to their bereaved and helpless owners thousands of
-                        those fountains of health and joy: and before he is abused, even for worse
-                        things than the theft, let those whose virtue consists in custom, think of
-                        this.</p>
-                    <p>As we have mixed fictitious with real thieves in this article, in a manner,
-                        we fear, somewhat uncritical (and yet the fictions are most likely founded
-                        on fact; and the life of a real thief is a kind of dream and romance) we
-                        will dispatch our fictitious English thieves before we come to the others.
-                        And we must make shorter work of it than we intended, or we shall never come
-                        to our friend <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" cert="high" type="real">Du
-                            Vall</persName>. The length to which this article has stretched out,
-                        week after week, will be a warning to us, how we render our paper liable to
-                        be run away with in future.</p>
-                    <p>There is a very fine story of <title level="a" key="Three Thieves (Chaucer)">Three
-                        Thieves</title> in <persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5683" cert="high" type="real">
-                        Chaucer</persName>, which we must tell at large another time. The most
-                        prominent of the fabulous thieves in England is that bellipotent and
-                        immeasurable wag, <persName key="Falstaff" ref="http://www.wikidata.org/entity/Q1233109" cert="high" type="fictional">Falstaff</persName>. If for a momentary freak, he
-                        thought it villainous to steal, at the next moment he thought it villainous
-                        not to steal.</p>
-<<<<<<< HEAD
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-=======
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-                    <cit>
-                        <quote type="spoken">
-                                             <p>
-                                <q type="spoken">Hal, I pr'ythee, trouble me no more with vanity. I
-                                    would to God thou and I knew where a commodity of good names
-                                    were to be bought. An old lord of the council rated me the other
-                                    day in the street, about you, Sir; but I marked him not. And yet
-                                    he talked very wisely, but I regarded him not. And yet he talked
-                                    wisely ; and in the streets, too.</q>
-                            </p>
-                            <p>
-                                <persName key="Prince Hal" ref="#" cert="high" type="fictional">
-                                    <hi rend="italic">P. Henry.</hi>
-                                </persName>
-                                <q type="spoken">Thou didst well; for <q type="written">Wisdom cries
-                                    out in the streets, and no man regards it.</q></q>
-                            </p>
-                            <p>
-                                <persName ref="#falstaff">
-                                    <hi rend="italic">Falstaff.</hi>
-                                </persName>
-                                <q type="spoken">O, thou hast damnable iteration; and art, indeed,
-                                    able to corrupt a saint. Thou hast done much harm upon me, Hal;
-                                    God forgive thee for it! Before I knew thee, Hal, I knew
-                                    nothing; and now am I, if a man should speak truly, little
-                                    better than one of the wicked. I must give over this life, and I
-                                    will give it over: By the Lord, an I do not, I am a villain:
-                                    I'll be damned for never a king's son in Christendom.</q>
-                            </p>
-                            <p>
-                                <persName ref="#princeHal">
-                                    <hi rend="italic">P. Henry.</hi>
-                                </persName>
-                                <q type="spoken">Where shall we take a purse to-morrow. Jack?</q>
-                            </p>
-                            <p>
-                                <persName ref="#falstaff">
-                                    <hi rend="italic">Falstaff.</hi>
-                                </persName>
-                                <q type="spoken">Where thou wilt, lad; I'll make one: an I do not,
-                                    call me villain, and baffle me.</q>
-                            </p>
-                        </quote>
-                    </cit>
-<<<<<<< HEAD
-<<<<<<< HEAD
-                    <pb n="101" />
-                    <p>We must take care how we speak of <persName key="Macheath" ref="http://www.wikidata.org/entity/Q3842187" cert="high" type="fictional">Macheath</persName>, or we shall be said to be getting political again. <persName key="Henry Fielding" ref="http://www.wikidata.org/entity/Q295326" cert="high" type="real">Fielding's</persName> <title level="m" key="The History of Jonathan Wild the Great" ref="http://www.wikidata.org/entity/Q1205634" cert="high">Jonathan Wild the Great</title> is also, in this sense, <q type="foreign">caveare</q> to the multitude." But we would say more of him, if we had room. <persName key="Count Fathom" ref="http://www.wikidata.org/entity/Q110777174" cert="high" type="fictional">Count Fathom</persName>, a deliberate scoundrel, compounded of the <persName key="Jonathan Wild" ref="http://www.wikidata.org/entity/Q1340636" cert="high" type="real">Jonathan Wilds</persName> and the more equivocal <persName key="Alessandro Cagliostro" ref="http://www.wikidata.org/entity/Q310118" cert="high" type="real">Cagliostros</persName> and otlier adventurers, is a thief not at all to our taste. We are continually obliged to call his mother to our recollection, in order to bear him. The only instance in which the character of an absolute profligate pickpocket was ever made comparatively welcome to our graver feelings, is in the extraordinary novel of <title level="m" key="Manon Lescaut" ref="http://www.wikidata.org/entity/Q1585806" cert="high">Manon L'Escaut</title> by the <persName key="Antoine François Prévost" ref="http://www.wikidata.org/entity/Q471556" cert="high" type="real">Able Prevost</persName>. It is the story of a young man so passionately in love with a profligate female, that he follows her through every species of vice and misery, even when she is sent as a convict to <placeName key="New Orleans" corresp="United States" ref="http://www.wikidata.org/entity/Q34404" cert="high" type="city">New Orleans</placeName>. His love indeed is returned. He is obliged to subsist upon her vices; and in return, is induced to help her with his own, becoming a cheat and a swindler to supply her outrageous extravagances. On board the convict ship (if we recollect) he waits on her through every species of squalidness; the convict-dress and her shaved head only redoubling his love by the help of pity. This seems a shocking and very immoral book; yet multitudes of very reputable people have found a charm in it. The fact is, not only that <persName key="Manon Lescaut" ref="http://www.wikidata.org/entity/Q1585806" cert="high" type="fictional">Manon</persName> is beautiful, sprightly, really fond of her lover, and after all, becomes reformed; but that it is delightful, and ought to be so, to the human heart, to see a vein of sentiment and real goodness looking out through all this callous surface of guilt. It is like meeting with a tree in a squalid hole of a city,—a flower, or a frank face, in a reprobate purlieu. The capabilities of human nature are not compromised. The virtue alone seems natural; the guilt, as it so often is, seems artificial, and the result of some bad education or other circumstance. Nor is any body injured. It is one of the shallowest of all shallow notions to talk of the harm of such works. Do we think nobody is to be harmed but the virtuous! Or that there are not privileged harms and vices to be got rid of, as well as unprivileged? No good-hearted person will be injured by reading <title level="m" ref="#manonLescaut">Manon L'Escaut</title>. There is the belief in goodness in it;—a faith, the want of which does so much harm both to the vicious and to the over-righteous.</p>
-                    <p>The prince of all robbers, <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> or foreign, is undoubtedly <persName key="Robin Hood" ref="http://www.wikidata.org/entity/Q200720" cert="high" type="fictional">Robin Hood</persName>. There is a worthy <placeName key="Scotland" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q22" cert="high" type="country">Scottish</placeName> namesake of his, <persName key="Rob Roy MacGregor" ref="http://www.wikidata.org/entity/Q561129" cert="high" type="real">Rob Roy</persName>, who has been lately had justice done to all his injuries by a country-man; and the author, it seems, has now come down from the borders to see the <persName ref="#robRoy">Rob</persName> of the elder times well treated. We were obliged to tear ourselves away from his first volume<note type="hunt"><ptr target="#ivanhoe"/></note>, to go to this ill-repaying article. But <persName ref="#robinHood">Robin Hood</persName> will still remain the chief and "<q type="emph">gentlest of thieves.</q>" He acted upon a larger scale, or in opposition to a larger injustice, to a whole political system. He "<q type="emph">shook the super-flux</q>" to the poor, "<q type="emph">and shewed the heavens more just.</q>" However, what we have to say of him we must keep till the trees are in leaf again, and the greenwood shade delightful.<note type="source"><bibl><title level="m" key="Ivanhoe" ref="http://www.wikidata.org/entity/Q321151" cert="high">Ivanhoe</title></bibl></note></p>
-                    <pb n="102" />
+				</rdf:Description>
+      
+			</rdf:RDF>
+		</xenoData>
+		<encodingDesc>
+			<!-- Add any encoding information or guidelines here if applicable -->
+            
+			<p>
+				Basic encoding, capturing relevant formatting and layout information. Page numbers
+				are
+				included for reference to the source only and are not intended to indicate precise
+				preservation.
+			</p>
+        
+		</encodingDesc>
+		
+		<!-- Profile Description -->
+        
+		<profileDesc>
+        
+		</profileDesc>
+    
+	</teiHeader>
+    
+	<text>
+        
+		<body>
+            
+			<div1 type="issue" n="13">
+                
+				<div2 type="forematter"> <!-- Title, epigraph, and catalogue -->
                     
-                    <p>We dismiss, in one rabble-like heap, the real <persName key="Jonathan Wild" ref="http://www.wikidata.org/entity/Q1340636" cert="high" type="real">Jonathan Wilds</persName>, <persName key="Jerry Abershaw" ref="http://www.wikidata.org/entity/Q6183617" cert="high" type="real">Avershaws</persName>, and other heroes of the <title level="m" key="Newgate Calendar" ref="http://www.wikidata.org/entity/Q1107567" cert="high">Newgate Calender</title>, who have no redemption in their rascality. And after them, for gentlemen-valets, may go the <choice><sic>Barringtnns</sic><corr>Barringtons</corr></choice>, <persName key="John Semple (spy)" ref="http://www.wikidata.org/entity/Q6258950" cert="high" type="real">Major Semples</persName>, and other sneaking rogues, who held on a tremulous career of iniquity betwixt pilfering and repenting. Yet <persName key="Jack Sheppard" ref="http://www.wikidata.org/entity/Q2009228" cert="high" type="real">Jack Snepherd</persName> must not be forgotten, with his ingenious and daring breaks out of prison; nor <persName key="Dick Turpin" ref="http://www.wikidata.org/entity/Q456485" cert="high" type="real">Turpin</persName>, who is said to have ridden his horse with such swiftness from <placeName key="York" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q42462" cert="high" type="city">York</placeName> to <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">London</placeName>, that he was enabled to set up an alibi. We have omitted to notice the celebrated <persName key="Buccaneers" ref="http://www.wikidata.org/entity/Q192348" cert="high" type="group">Buccaniers of America</persName>; but these are fellows, with regard to whom we are willing to take <persName key="Dogberry" ref="http://www.wikidata.org/entity/Q3034027" cert="high" type="fictional">Dogberry's</persName> advice, and "<q type="spoken">steal out of their company.</q>"</p>
-                    <p>All hail, thou most attractive of scape-graces;—thou most accomplished of gentlemen of the road;—thou, worthy to be called one of "<q type="emph">the minions of the moon,</q>"—<persName key="Claude Du Vall" ref="http://www.wikidata.org/entity/Q2977468" cert="high" type="real">Monsieur Claude Du Vall</persName>,— whom we have come such a long and dangerous journey to see!</p>
-                    <p><persName ref="#claudeDuVall">Claude Du Val</persName>, according to a pleasant account of him, in the <title level="m" key="Harleian Miscellany" ref="http://www.wikidata.org/entity/Q5658682" cert="high">Harleian Miscellany</title>, was born at <placeName key="Domfront" corresp="France" ref="http://www.wikidata.org/entity/Q303253" cert="high" type="city">Domfront</placeName> in <placeName key="Normandy" corresp="France" ref="http://www.wikidata.org/entity/Q15070" cert="high" type="region">Normandy</placeName>, in the year 1643, of <persName key="Pierre Du Vall" type="real">Pierre du Vall</persName>, miller, and <persName key="Marguerite de la Roche" type="real">Marguerite de la Roche</persName>, the fair daughter of a tailor. Being a sprightly boy, he did not remain in the country, but became servant to a person of quality at <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>; and with this gentleman he came over to <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">England</placeName> at the time of the <name type="event" key="English Restoration" ref="http://www.wikidata.org/entity/Q200742" cert="high">Restoration</name>. It is difficult to say, which came over to pick the most pockets and hearts, <persName key="Charles II of England" ref="http://www.wikidata.org/entity/Q125969" cert="high" type="real">Charles the Second</persName>, or <persName ref="#claudeDuVall">Claude Du Vall</persName>. Be this as it may, his "<q type="emph">courses</q>" of life, ("<q type="written">for,</q>" says the contemporary historian, "<q type="written">I dare not call them vices,</q>") soon reduced him to the necessity of going upon the road; and here "<q type="written">he quickly became so famous, that in a proclamation for the taking several notorious highwaymen, he had the honour to be named first.</q>" He took, says his biographer, "<q type="emph">the generous way of padding;</q>" that is to say, he behaved with exemplary politeness to all coaches, especially those in which there were ladies; making a point of frightening them as amiably as possible; and insisting upon returning any favourite trinkets or keepsakes, for which they chose to appeal to him with "<q type="emph">their most sweet voices.</q>"</p>
-                    <pb n="103" />
+					<head type="title">THE INDICATOR.</head>
                     
-                    <p>It was in this character that he performed an exploit, which is the eternal feather in the cap of highway gentility. We will relate it in the words of our informer. Riding out with some of his confederates, "<q type="written">he overtakes a coach, which they had set over night, having intelligence of a booty of four hundred pounds in it. In the coach was a knight, his lady, and only one serving-maid, who, perceiving five horsemen making up to them, presently imagined that they were beset; and they were confirmed in this apprehension, by seeing them whisper to one another, and ride backwards and forwards. The lady, to shew she was not afraid, takes a flageolet out of her pocket, and plays: <persName ref="#claudeDuVall">Du Vall</persName> takes the hint, plays also, and excellently well, upon a flageolet of his own, and in this posture he rides up to the coach-side. 'Sir,' says he, to the person in the coach, 'your lady plays excellently, and I doubt not but that she dances as well ; will you please to walk out of the coach, and let me have the honour to dance one
-                        currant with her upon the heath?' 'Sir,' said the person in the coach, 'I dare not deny any thing to one of your quality and good mind ; you seem a gentleman, and your request is very reasonable:' which said, the lacquey opens the boot, out comes the knight, <persName ref="#claudeDuVall">Du Vall</persName> leaps lightly off his horse, and hands the lady out of the coach. They danced, and here it was that <persName ref="#claudeDuVall">Du Vall</persName> performed marvels; the best master in <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">London</placeName>, except those that are French, not being able to shew such footing as he did in his great riding French boots. The dancing being over, he waits on the lady to her coach. As the knight was going in, says <persName ref="#claudeDuVall">Du Vall</persName> to him, 'Sir, you have forgot to pay the music:' 'No, I have not,' replies the knight, and putting his hand under the seat of the coach, pulls out a hundred pounds in a bag, and delivers it to him; which <persName ref="#claudeDuVall">Du Vall</persName> took with a very good grace, and courteously answered, 'Sir, you are liberal, and shall have no cause to repent your being so; this liberality of yours shall excuse you the other three hundred pounds,' and, giving him the word, that if he met with any more of the crew, he might pass undisturbed, he civilly takes his leave of him.</q></p>
-                    <p>"<q type="written">This story, I confess, justifies the great kindness the ladies had for <persName ref="#claudeDuVall">Du Vall</persName>; for in this, as in an epitome, are contained all things that set a man off advantageously, and make him appear, as the phrase is, much a gentleman. First, here was valour, that he and but four more durst assault a knight, a lady, a waiting-gentlewoman, a lacquey, a groom that rid by to open the gates, and the coachman, they being six to five, odds at football; and besides, <persName ref="#claudeDuVall">Du Vall</persName> had much the worst cause, and reason to believe, that whoever should arrive, would range themselves on the enemy's party. Then he shewed his invention and sagacity, that he could <span xml:lang="la">sur le champ</span>, and, without studying, make that advantage of the lady's playing on the flageolet. He evinced his skill in instrumental music, by playing on his flageolet; in vocal by his singing ; for (as I should have told you before) there being no violins, <persName ref="#claudeDuVall">Du Vall</persName> sung the currant himself. 'He manifested his agility of body, by lightly dismounting off his horse, and with ease and freedom getting up again, when he took his leave 3 his excellent deportment, by his incomparable dancing, and his graceful manner of taking the hundred pounds; his generosity, in taking no more; his wit and eloquence, and readiness at repartees, in the whole discourse with the knight and lady, the greatest part of which I have been forced to omit.</q>"</p>
-                    <p>The noise of the proclamation made <persName ref="#claudeDuVall">Du Vall</persName> return to <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>; but he came back in a short time for want of money. His reign however did not last long after his restoration. He made an unlucky attack, not upon some ill-bred passengers, but upon several bottles of wine, and was taken in consequence at the <placeName key="Hole-in-the-Wall (pub, Chandos Street)" corresp="United Kingdom" cert="medium" type="pub">Hole-in-the-Wall</placeName>, in <placeName key="Chandos Street" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q5071477" cert="high" type="street">Chandos-street</placeName>. His life was interceded for in vain: he was arraigned and committed to <placeName key="Newgate Prison" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1498670" cert="high" type="prison">Newgate</placeName>; and executed at <placeName key="Tyburn" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q2001509" cert="high" type="place">Tyburn</placeName> in the 27th year of his age; showers of tears from fair eyes bedewing his fate, both while alive in prison, and while dead at the fatal tree.</p>
-                    <pb n="104" />
-                    
-                    <p><persName ref="#claudeDuVall">Du Vall's</persName> success with the ladies of those days, whose amatory taste was of a turn more extensive than enlarged, seems to have made
-                        some very well dressed <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> gentlemen jealous. The writer of <persName ref="#claudeDuVall">Du Vall's</persName> life, who is a man of wit, evidently has something of bitterness in his railleries upon this point; but he manages them very pleasantly. He pretends that he is an old bachelor, and has never been able to make his way with his fair countrywomen, on at count of the French valets that have stood in his way. He says he had two objects in writing the book. "<q type="spoken">One is, that the next <placeName key="France" corresp="France" ref="http://www.wikidata.org/entity/Q142" cert="high" type="country">Frenchman</placeName> that is hanged may not cause an uproar in this imperial city; which I doubt not but I have effected.</q></p>
-                    <p>"<q type="spoken">The other is a much harder task: To set my countryman on even terms with the French, as to the <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> ladies' affections. If I should bring this about, I should esteem myself to have contributed much to the good of this kingdom.</q></p>
-                    <p>"<q type="spoken">One remedy there is, which, possibly, may conduce something towards it.</q></p>
-                    <p>"<q type="spoken">I have heard, that there is a new invention of transfusing the blood of one animal into another, and that it has been experimented by putting the blood of a sheep into an Englishman. I am against that way of experiments; for, should we make all Englishmen sheep, we should soon be a prey to the loure.</q></p>
-                    <p>"<q type="spoken">I think I can propose the making that experiment, a more advantageous way. I would have all gentlemen, who have been a full year, or more, out of <placeName key="France" corresp="France" ref="http://www.wikidata.org/entity/Q142" cert="high" type="country">France</placeName>, be let blood weekly, or oftener, if they can bear it. Mark how much they bleed ; transfuse so much French lacquey's blood into them; replenish these last out of the <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> footmen, for it is no matter what becomes of them. Repeat this operation <span xml:lang="la">toties quogties</span>, and, in process of time, you will find this event: Either the <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> gentlemen will be as much beloved as the French lacqueys, or the French lacqueys as little esteemed as the <placeName key="England" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q21" cert="high" type="country">English</placeName> gentlemen.</q>"</p>
-                    <p><persName key="Samuel Butler (poet)" ref="http://www.wikidata.org/entity/Q310651" cert="high" type="real">Butler</persName> has left an <rs type="genre" key="Ode">Ode</rs>, sprinkled with his usual wit, "<title level="a" key="To the Happy Memory of the Most Renowned Du Val">To the Happy Memory of the Most Renowned <persName ref="#claudeDuVall">Du Val</persName>,</title>" who</p>
-=======
-=======
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-                    <pb n="101"/>
-                    <p>We must take care how we speak of <persName key="Macheath" ref="#" cert="high" type="fictional">Macheath</persName>, or we shall be said to be getting
-                        political again. <persName key="Henry Fielding" ref="http://dbpedia.org/resource/Henry_Fielding" cert="high" type="real">
-                            Fielding's</persName> <title level="m" key="The Life and Death of Jonathan Wild, the Great" ref="http://dbpedia.org/resource/The_Life_and_Death_of_Jonathan_Wild,_the_Great" cert="high">Jonathan Wild
-                            the Great</title> is also, in this sense, <q type="foreign">caveare</q>
-                        to the multitude." But we would say more of him, if we had room. <persName key="The Adventures of Ferdinand, Count Fathom" ref="http://www.wikidata.org/entity/Q16385022" cert="high" type="fictional">Count Fathom</persName>, a deliberate
-                        scoundrel, compounded of the <persName key="Jonathan Wild" ref="http://dbpedia.org/resource/Jonathan_Wild" cert="high" type="real">Jonathan
-                            Wilds</persName> and the more equivocal <persName key="Cagliostro, Alessandro, conte di, 1743-1795." ref="http://viaf.org/viaf/56606872" cert="high" type="real">Cagliostros</persName> and otlier adventurers,
-                        is a thief not at all to our taste. We are continually obliged to call his
-                        mother to our recollection, in order to bear him. The only instance in which
-                        the character of an absolute profligate pickpocket was ever made
-                        comparatively welcome to our graver feelings, is in the extraordinary novel
-                        of <title level="m" key="Manon Lescaut" ref="http://dbpedia.org/resource/Manon_Lescaut" cert="high">Manon L'Escaut</title> by the <persName key="Prévost, Antoine-François, 1697-1763" ref="http://viaf.org/viaf/17228264" cert="high" type="real">Able
-                            Prevost</persName>. It is the story of a young man so passionately in
-                        love with a profligate female, that he follows her through every species of
-                        vice and misery, even when she is sent as a convict to <placeName key="New Orleans" corresp="United States" ref="http://www.wikidata.org/entity/Q34404" cert="high" type="city">New
-                        Orleans</placeName>. His love indeed is returned. He is obliged to subsist
-                        upon her vices; and in return, is induced to help her with his own, becoming
-                        a cheat and a swindler to supply her outrageous extravagances. On board the
-                        convict ship (if we recollect) he waits on her through every species of
-                        squalidness; the convict-dress and her shaved head only redoubling his love
-                        by the help of pity. This seems a shocking and very immoral book; yet
-                        multitudes of very reputable people have found a charm in it. The fact is,
-                        not only that <persName key="Lescaut, Manon, personnage fictif" ref="http://viaf.org/viaf/220024574" cert="high" type="fictional">Manon</persName> is beautiful, sprightly, really fond
-                        of her lover, and after all, becomes reformed; but that it is delightful,
-                        and ought to be so, to the human heart, to see a vein of sentiment and real
-                        goodness looking out through all this callous surface of guilt. It is like
-                        meeting with a tree in a squalid hole of a city,—a flower, or a frank face,
-                        in a reprobate purlieu. The capabilities of human nature are not
-                        compromised. The virtue alone seems natural; the guilt, as it so often is,
-                        seems artificial, and the result of some bad education or other
-                        circumstance. Nor is any body injured. It is one of the shallowest of all
-                        shallow notions to talk of the harm of such works. Do we think nobody is to
-                        be harmed but the virtuous! Or that there are not privileged harms and vices
-                        to be got rid of, as well as unprivileged? No good-hearted person will be
-                        injured by reading <title level="m" ref="#manonLescaut">Manon L'Escaut</title>.
-                        There is <hi rend="italic">the belief in goodness</hi> in it;—a faith, the
-                        want of which does so much harm both to the vicious and to the
-                        over-righteous.</p>
-                    <p>The prince of all robbers, English or foreign, is undoubtedly <persName key="Robin Hood" ref="http://www.wikidata.org/entity/Q122634" cert="high" type="fictional">Robin Hood</persName>. There is a worthy Scottish
-                        namesake of his, <persName key="Rob Roy MacGregor" ref="http://www.wikidata.org/entity/Q378053" cert="high" type="real">Rob
-                            Roy</persName>, who has been lately had justice done to all his injuries
-                        by a country-man; and the author, it seems, has now come down from the
-                        borders to see the <persName ref="#robRoy">Rob</persName> of the elder times
-                        well treated. We were obliged to tear ourselves away from his first volume<note type="hunt">
-                            <ptr target="#ivanhoe"/>
-                        </note>, to go to this
-                        ill-repaying article. But <persName ref="#robinHood">Robin Hood</persName>
-                        will still remain the chief and "<q type="emph">gentlest of thieves.</q>" He
-                        acted upon a larger scale, or in opposition to a larger injustice, to a
-                        whole political system. He "<q type="emph">shook the super-flux</q>" to the
-                        poor, "<q type="emph">and shewed the heavens more just.</q>" However, what
-                        we have to say of him we must keep till the trees are in leaf again, and the
-                        greenwood shade delightful.<note type="source"><bibl><title level="m" key="Ivanhoe" ref="#" cert="high">Ivanhoe</title></bibl></note></p>
-                    <pb n="102"/>
-
-                    <p>We dismiss, in one rabble-like heap, the real <persName key="Jonathan Wild" ref="http://dbpedia.org/resource/Jonathan_Wild" cert="high" type="real">Jonathan
-                            Wilds</persName>, <persName key="Jerry Abershawe" ref="http://dbpedia.org/resource/Jerry_Abershawe" cert="high" type="real">
-                            Avershaws</persName>, and other heroes of the <title level="m" key="Newgate Calendar" ref="#" cert="high">Newgate Calender</title>, who have no redemption in their
-                        rascality. And after them, for gentlemen-valets, may go the <choice><sic>
-                            Barringtons
+					<epigraph>
+                        
+						<l>There he arriving round about doth flie,</l>
+                        
+						<l>And takes survey with busie, curious eye:</l>
+                        
+						<l>Now this, now that, he tasteth tenderly.</l>
+                        
+						<l>
+							<persName key="Edmund Spenser" ref="http://dbpedia.org/resource/Edmund_Spenser" cert="high" type="real">
+                                
+								<hi rend="uppercase">SPENSER</hi>
                             
-                        </sic><corr>Barringtons</corr></choice>, <persName key="John Semple (spy)" ref="#" cert="high" type="real">Major Semples</persName>, and other sneaking
-                        rogues, who held on a tremulous career of iniquity betwixt pilfering and
-                        repenting. Yet <persName key="Jack Sheppard" ref="http://dbpedia.org/resource/Jack_Sheppard" cert="high" type="real">Jack
-                            Snepherd</persName> must not be forgotten, with his ingenious and daring
-                        breaks out of prison; nor <persName key="Dick Turpin" ref="http://dbpedia.org/resource/Dick_Turpin" cert="high" type="real">
-                            Turpin</persName>, who is said to have ridden his horse with such
-                        swiftness from <placeName key="York" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q42462" cert="high" type="city">York</placeName>
-                        to <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">London</placeName>,
-                        that he was enabled to set up an alibi. We have omitted to notice the
-                        celebrated <persName key="Buccaneers" ref="#" cert="high" type="group">Buccaniers
-                            of America</persName>; but these are fellows, with regard to whom we are
-                        willing to take <persName key="Dogberry" ref="#" cert="high" type="fictional">Dogberry's</persName> advice, and "<q type="spoken">steal
-                        out of their company.</q>"</p>
-                    <p>All hail, thou most attractive of scape-graces;—thou most accomplished of
-                        gentlemen of the road;—thou, worthy to be called one of "<q type="emph">the
-                        minions of the moon,</q>"—<persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" cert="high" type="real">Monsieur
-                            Claude Du Vall</persName>,— whom we have come such a long and dangerous
-                        journey to see!</p>
-                    <p><persName ref="#claudeDuVall">Claude Du Val</persName>, according to a
-                        pleasant account of him, in the <title level="m" key="The Harleian Miscellany" ref="http://www.wikidata.org/entity/Q5658481" cert="high">Harleian
-                            Miscellany</title>, was born at <placeName key="Domfront" corresp="France" ref="http://www.wikidata.org/entity/Q659992" cert="high" type="city">
-                            Domfront</placeName> in <placeName key="Normandy" corresp="France" ref="https://www.wikidata.org/wiki/Q18677875" cert="high" type="region">
-                        Normandy</placeName>, in the year 1643, of <persName key="Pierre Du Vall" type="real">Pierre du Vall</persName>, miller, and <persName key="Marguerite de la Roche" type="real">Marguerite de la Roche</persName>,
-                        the fair daughter of a tailor. Being a sprightly boy, he did not remain in
-                        the country, but became servant to a person of quality at <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>; and with this gentleman he
-                        came over to England at the time of the Restoration. It is difficult to say,
-                        which came over to pick the most pockets and hearts, <persName key="Charles II of England" ref="http://dbpedia.org/resource/Charles_II_of_England" cert="high" type="real">Charles
-                            the Second</persName>, or <persName ref="#claudeDuVall">Claude Du Vall</persName>.
-                        Be this as it may, his "courses" of life, ("<q type="written">for,</q>" says the contemporary historian, "<q type="written">I dare not call them vices,</q>") soon reduced him to the
-                        necessity of going upon the road; and here "<q type="written">he quickly
-                        became so famous, that in a proclamation for the taking several notorious
-                        highwaymen, he had the honour to be named first.</q>" He took, says his
-                        biographer, "the generous way of padding;" that is to say, he behaved with
-                        exemplary politeness to all coaches, especially those in which there were
-                        ladies; making a point of frightening them as amiably as possible; and
-                        insisting upon returning any favourite trinkets or keepsakes, for which they
-                        chose to appeal to him with "their most sweet voices."</p>
-                    <p>It was in this character that he performed an exploit, which is the eternal
-                        feather in the cap of highway gentility. We will relate it in the words of
-                        our informer. Riding out with some of his confederates, "<q type="written">he
-                        overtakes a coach, which they had set over night, having intelligence of a
-                        booty of four hundred pounds in it. In the coach was a knight, his lady, and
-                        only one serving-maid, who, perceiving five horsemen making up to them,
-                        presently imagined that they were beset; and they were confirmed in this
-                        apprehension, by seeing them whisper to one another, and ride backwards and
-                        forwards. The lady, to shew she was not afraid, takes a flageolet out of her
-                        pocket, and plays: <persName ref="#claudeDuVall">Du Vall</persName> takes
-                        the hint, plays also, and excellently well, upon a flageolet of his own, and
-                        in this posture he rides up to the coach-side. 'Sir,' says he, to the person
-                        in the coach, 'your lady plays excellently, and I doubt not but that she
-                        dances as well ; will you please to walk out of the coach, and let me have
-                        the honour to dance one <pb n="103"/> currant with her upon the heath?'
-                        'Sir,' said the person in the coach, 'I dare not deny any thing to one of
-                        your quality and good mind ; you seem a gentleman, and your request is very
-                        reasonable:' which said, the lacquey opens the boot, out comes the knight, <persName ref="#claudeDuVall">Du Vall</persName> leaps lightly off his horse,
-                        and hands the lady out of the coach. They danced, and here it was that <persName ref="#claudeDuVall">Du Vall</persName> performed marvels; the best
-                        master in <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">
-                        London</placeName>, except those that are French, not being able to shew
-                        such footing as he did in his great riding French boots. The dancing being
-                        over, he waits on the lady to her coach. As the knight was going in, says <persName ref="#claudeDuVall">Du Vall</persName> to him, 'Sir, you have forgot
-                        to pay the music:' 'No, I have not,' replies the knight, and putting his
-                        hand under the seat of the coach, pulls out a hundred pounds in a bag, and
-                        delivers it to him; which <persName ref="#claudeDuVall">Du Vall</persName>
-                        took with a very good grace, and courteously answered, 'Sir, you are
-                        liberal, and shall have no cause to repent your being so; this liberality of
-                        yours shall excuse you the other three hundred pounds,' and, giving him the
-                        word, that if he met with any more of the crew, he might pass undisturbed,
-                        he civilly takes his leave of him.</q></p>
-                    <p>"<q type="written">This story, I confess, justifies the great kindness the
-                        ladies had for <persName ref="#claudeDuVall">Du Vall</persName>; for in
-                        this, as in an epitome, are contained all things that set a man off
-                        advantageously, and make him appear, as the phrase is, much a gentleman.
-                        First, here was valour, that he and but four more durst assault a knight, a
-                        lady, a waiting-gentlewoman, a lacquey, a groom that rid by to open the
-                        gates, and the coachman, they being six to five, odds at football; and
-                        besides, <persName ref="#claudeDuVall">Du Vall</persName> had much the worst
-                        cause, and reason to believe, that whoever should arrive, would range
-                        themselves on the enemy's party. Then he shewed his invention and sagacity,
-                        that he could <span xml:lang="la">sur le champ</span>, and, without
-                        studying, make that advantage of the lady's playing on the flageolet. He
-                        evinced his skill in instrumental music, by playing on his flageolet; in
-                        vocal by his singing ; for (as I should have told you before) there being no
-                        violins, <persName ref="#claudeDuVall">Du Vall</persName> sung the currant
-                        himself. 'He manifested his agility of body, by lightly dismounting off his
-                        horse, and with ease and freedom getting up again, when he took his leave 3
-                        his excellent deportment, by his incomparable dancing, and his graceful
-                        manner of taking the hundred pounds; his generosity, in taking no more; his
-                        wit and eloquence, and readiness at repartees, in the whole discourse with
-                        the knight and lady, the greatest part of which I have been forced to omit.</q>
-                        "</p>
-                    <p>The noise of the proclamation made <persName ref="#claudeDuVall">Du Vall</persName>
-                        return to <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>;
-                        but he came back in a short time for want of money. His reign however did
-                        not last long after his restoration. He made an unlucky attack, not upon
-                        some ill-bred passengers, but upon several bottles of wine, and was taken in
-                        consequence at the <placeName key="Hole-in-the-Wall (pub, Chandos Street)" corresp="United Kingdom" cert="medium" type="pub">Hole-in-the-Wall</placeName>,
-                        in <placeName key="Chandos Street" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q64401239" cert="high" type="street">
-                            Chandos-street</placeName>. His life was interceded for in vain: he was
-                        arraigned and committed to <placeName key="Newgate Prison" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1822183" cert="high" type="prison">Newgate</placeName>; and executed at <placeName key="Tyburn" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1362341" cert="high" type="place">
-                            Tyburn</placeName> in the 27th year of his age; showers of tears from
-                        fair eyes bedewing his fate, both while alive in prison, and while dead at
-                        the fatal tree.</p>
+							</persName>
+							.</l>
+                    
+					</epigraph>
+                    
+					<head type="catalogue">No.XIII <hi rend="smallcaps">XIII</hi>.— <hi rend="uppercase">WEDNESDAY,
+							JANUARY 5th</hi>, 1820.</head>
+                
+				</div2>
+                
+				<div2 type="section" n="1"> <!-- Header and content -->
+                    
+					<head type="header">
+                        
+						<hi rend="uppercase">THIEVES, ANCIENT AND MODERN.</hi>
+                    
+					</head>
+                    
+					<head type="subheader">
+                        
+						<hi rend="uppercase">CONCLUDED FROM LAST WEEK.</hi>
+                    
+					</head>
+                    
+					<p>WE must return a moment to the Italian thieves, to relate a couple of stories
+						related of <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" cert="high" type="real">
+							Ariosto</persName> and <persName key="Torquato Tasso" ref="http://dbpedia.org/resource/Torquato_Tasso" cert="high" type="real">
+							Tasso</persName>. The former was for a short period governor of <placeName key="Graffignana" corresp="Italy" ref="http://dbpedia.org/resource/Graffignana" cert="high" type="region">
+							Grafagnana</placeName>, a disturbed district in the <placeName key="Apennines" corresp="Italy" ref="http://www.wikidata.org/entity/Q1285" cert="high" type="physical">
+							Apennines</placeName>, which his prudent and gentle policy brought back
+						from <corr>
+                            
+							<orig>it's</orig>
+                            
+							<reg>its</reg>
+                        
+						</corr>disaffection. Among <corr>
+                            
+							<orig>it's</orig>
+                            
+							<reg>its</reg>
+                        
+						</corr> other troubles, were
+						numerous bands of robbers, two of the names of whose leaders, <persName key="Domenico Maroco" ref="#" type="real">Domenico Maroco</persName>,
+						and <persName key="Filippo Pacchione" ref="#" type="real">Filippo Pacchione</persName>,
+						have come down to posterity. <persName key="Ludovico Ariosto" ref="http://dbpedia.org/resource/Ludovico_Ariosto" cert="high" type="real">Ariosto</persName>, during the first days of his
+						government, was riding out with a small retinue, when he had to pass through
+						a number of suspicious-looking armed men. The two parties had scarcely
+						cleared each other, when the chief of the strangers asked a servant who
+						happened to be at some distance behind the others, who that person was. "It
+						is the captain of the citadel here," said the man, "<persName ref="#ariosto">Lodovico
+							Ariosto</persName>." The stranger no sooner heard the name, than he went
+						running back to overtake the governor, who, stopping his horse, waited with
+						some anxiety for the event. "I beg your pardon, Sir," said he, "but I was
+						not aware that so great a person as the <hi rend="italic">Signor Lodbvico Ariosto</hi> was passing near me. My name
+						is <persName ref="#filippoPacchione">Filippo Pacchione</persName>; and when
+						I knew who it was, I could not go on without returning to pay the respect
+						due to so illustrious a name."</p>
+                    
+					<p>A doubt is thrown on this story, or rather on the particular person who gave
+						occasion to it, by the similarity of an adventure related of <persName ref="#tasso">Tasso</persName>. Both of them however are very probable,
+						let the similarity be what it may; for both the poets had occasion to go
+						through disturbed districts; robbers abounded in both their times; and the
+						leaders being most probably men rather of desperate fortunes than want of
+						knowledge, were likely enough to seize such opportunities of vindicating
+						their better habits, and shewing a romantic politeness. The enthusiasm too
+						is quite in keeping with the national character; and it is to be observed
+						that the particulars of <persName ref="#tasso">Tasso's</persName> adventure
+						are different, though the spirit of it is the same. He was journeying, it is
+						said, in company with others, for better security against the banditti who
+						infested the borders of the <pb n="98"/> papal territory, when they were
+						told that <persName key="Sciarra" ref="https://dbpedia.org/page/Marco_Sciarra" cert="high" type="real">
+							Sciarra</persName>, a famous robber, was at hand in considerable force. <persName ref="#tasso">Tasso</persName> was for pushing on, and defending
+						themselves if attacked; but his opinion was overruled; and the company threw
+						themselves, for safety, into the city of <placeName key="Mola" corresp="Italy" ref="#" cert="high" type="city">Mola</placeName>. Here <persName ref="#sciarra"> Sciarra</persName> kept them in a manner blocked up ; but hearing that <persName ref="#tasso">Tasso</persName> was among the travellers, he sent him word
+						that he should not only be allowed to pass, but should have safe conduct
+						whithersoever he pleased. The lofty poet, making it a matter of delicacy
+						perhaps to waive an advantage of which his company could not partake,
+						declined the offer, upon which <persName ref="#sciarra">Sciarra</persName>
+						sent another message, saying that upon the sole account of <persName ref="#tasso">Tasso</persName>, the ways should be left open. And they
+						were so.</p>
+                    
+					<p>We can call to mind no particular German thieves, except those who figure in
+						romances, and in the <title level="m" key="The Robbers" ref="http://www.wikidata.org/entity/Q466333" cert="high">Robbers</title> of <persName key="Friedrich Schiller" ref="http://dbpedia.org/resource/Friedrich_Schiller" cert="high" type="real">
+							Schiller</persName>. To say the truth, we are writing just now with but few
+						books to refer to; and the better informed reader must pardon any
+						deficiences he meets with in these egregious and furtive memorandums. Of the <title level="m" ref="#" cert="high"> Robbers</title> of <persName ref="#friedrichSchiller">Schiller</persName>,
+						an extraordinary effect is related. It is said to have driven a number of
+						wild-headed young Germans upon playing at banditti, not in the bounds of a
+						school or university, but seriously in a forest. The matter-of-fact spirit
+						in which a German sets about being enthusiastic, is a metaphysical curiosity
+						which modern events render doubly interesting. It is extremely worthy of the
+						attention of those rare personages, entitled reflecting politicians. But we
+						must take care again. It is very inhuman of these politics, that the habit
+						of attending to them, though with the greatest good-will and sincerity, will
+						always be driving a man upon thinking how his fellow-creatures are going on.</p>
+                    
+					<p>There is a pleasant well-known story of a Prussian thief and <persName key="Frederick the Great" ref="#" cert="high" type="real">Frederick the Second</persName>. [The mention,
+						by the way, of these two personages together puts us in mind of the Scottish
+						answer to travellers about a mile and a bittock, —the said bittock, or
+						little bit, being perhaps three or four miles in addition.</p>
+                    
+					<p>
+						<hi rend="italic">Reader.</hi> There, <persName key="Leigh Hunt" ref="http://dbpedia.org/resource/Leigh_Hunt" cert="high" type="real">Mr.
+							Indicator</persName>, you get upon politics again.</p>
+                    
+					<p>
+						<hi rend="italic">Indic.</hi> What, Sir; upon modern politics ?</p>
+                    
+					<p>
+						<hi rend="italic">Read.</hi> I think so.</p>
+                    
+					<p>
+						<hi rend="italic">Indic.</hi> But I cannot help it, you know, if past history
+						applies to present events; or at least, if your wicked imagination makes it
+						apply.</p>
+                    
+					<p>
+						<hi rend="italic">Read.</hi> Oh, ho: you have me there.</p>
+                    
+					<p>
+						<hi rend="italic">Indic.</hi> I trust you have me every where.]</p>
+                    
+					<p>We forget what was the precise valuable found upon the Prussian soldier, and
+						missed from an image of the Virgin Mary; but we believe it was a ring. He
+						was tried for sacrilege, and the case appeared clear against him, when he
+						puzzled his <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion"> Catholic</placeName> judges by informing them, that the fact was, the Virgin
+						Mary had given him that ring. Here was a terrible dilemma. To dispute the
+						possibility or even probability of a gift from the Virgin Mary was to deny
+						their religion: while, on the other hand, to let the fellow escape on the
+						pretence, was to canonize impudence itself. The worthy judges, in <pb n="99"/> their perplexity, applied to the king, who under the guise of
+						behaving delicately to their faith, was not sorry to have such an
+						opportunity of joking it. His majesty therefore pronounced, with becoming
+						gravity, that the allegation of the soldier could not but have <corr>
+                            
+							<orig>it's</orig>
+                            
+							<reg>its</reg>
+                        
+						</corr> due weight with all <placeName key="Catholic Church" ref="http://www.wikidata.org/entity/Q9592" cert="high" type="religion">Catholic</placeName> believers; but that in
+						future, it was forbidden any Prussian subject, military or civil, to accept
+						a present from the Virgin Mary.</p>
+                    
+					<p>The district, formerly rendered famous by the exploits of <persName key="Skanderbeg" ref="http://www.wikidata.org/entity/Q160614" cert="high" type="real">Scanderbeg</persName>. <roleName>Prince of
+							Epirus</roleName>, and now become infamous by the tyranny of <persName key="Ali Bey, 1766-1818" ref="http://viaf.org/viaf/17426874" cert="high" type="real">Ali Bey</persName>, has been very fertile in
+						robbers. And no wonder, for a semi-barbarous people so governed become
+						thieves by necessity. The name indeed, as well as profession, is in such
+						good receipt with an Albanian, that according to late travellers, it is a
+						common thing for him to begin a story by saying, "<q type="spoken">When I
+							was a
+							robber---</q>" We remember reading of some Albanian or <placeName key="Croatia" corresp="Croatia" ref="http://www.wikidata.org/entity/Q224" cert="high" type="region">Sclavonian</placeName> leader of banditti, who
+						made his enemies suppose he had a numerous force with him, by distributing
+						military caps upon the hedges.</p>
+                    
+					<p>There are some other nations who are all thieves, more or less; or comprise
+						such numbers of them as very much militate against the national character.
+						Such are the piratical <placeName key="Malays" corresp="Southeast Asia" ref="http://www.wikidata.org/entity/Q142702" cert="high" type="region">Malays</placeName>; the still more infamous <placeName key="Algeria" corresp="Algeria" ref="http://dbpedia.org/resource/Algeria" cert="high" type="city">
+							Algerines</placeName>; the mongrel tribes between <placeName key="Middle East" corresp="Middle East" ref="http://www.wikidata.org/entity/Q7204" cert="high" type="region">Arabia</placeName> and <placeName key="Ethiopian Empire" corresp="Ethiopia" ref="http://www.wikidata.org/entity/Q207521" cert="high" type="country">
+							Abyssinia</placeName>. As to the Arabs, they have a prescriptive right,
+						from tradition as well as local circumstances, to plunder every body. The
+						sanguinary ruffians of <placeName key="Ashanti Region" corresp="Ghana" ref="http://dbpedia.org/resource/Ashanti_Region" cert="high" type="region">
+							Ashantee</placeName> and other black empires on the coast of <placeName key="Guinea" corresp="West Africa" ref="http://www.wikidata.org/entity/Q1006" cert="high" type="region">
+							Guinea</placeName> are more like a government of murderers and ogres,
+						than thieves. They are the next ruffians perhaps in existence, to slave
+						dealers. The gentlest nation of pilferers are the <placeName key="French Polynesia" corresp="French Polynesia" ref="http://www.wikidata.org/entity/Q30971" cert="high" type="island">Otaheiteans</placeName>; and something is to
+						be said for their irresistible love of hatchets and old nails. Let the
+						European trader, that is without sin cast the first paragraph at them. Let
+						him think what he should feel inclined to do, were a ship of some unknown
+						nation to come upon his coast, with gold and jewels lying scattered about
+						the deck. For no less precious is iron to the <placeName key="South Sea Islands" ref="#" cert="high" type="region">South
+							Sea Islander</placeName>. A Paradisaical state of existence would be, to
+						him, not the Golden, but the Iron Age. An <placeName ref="#tahiti">
+							Otaheitean</placeName> 
+						<persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high">Jupiter</persName> would visit his <persName key="Danaë" ref="http://www.wikidata.org/entity/Q190582" cert="high">Danaë</persName> in a shower of tenpenny
+						nails.</p>
+                    
+					<p>We are now come to a very multitudinous set of candidates for the halter, the
+						thieves of our own beloved country. For what we know of the French thieves
+						is connected with them, excepting <persName key="Louis Dominique Bourguignon" ref="http://dbpedia.org/resource/Louis_Dominique_Bourguignon" cert="high" type="real">
+							Cartouche</persName>; and we remember nothing of him, but that he was a
+						great ruffian, and died upon that worse ruffian, the rack.</p>
+                    
+					<p>There is, to be sure, a very eminent instance of a single theft in the <title level="m" key="Confessions" ref="http://www.wikidata.org/entity/Q1207595" cert="high">Confessions</title> of <persName key="Jean-Jacques Rousseau" ref="http://www.wikidata.org/entity/Q6527" cert="high" type="real">
+							Rousseau</persName>; and it is the second greatest blot in his book; for he
+						suffered a girl to be charged with and punished for the theft, and
+						maintained the lie to her face, though she was his friend, and appealed to
+						him with tears. But it may be said for him, at any rate, that the world
+						would not have known the story but for himself: and if such a disclosure be
+						regarded by some as an additional offence (which it may be thought by some
+						very delicate as well as dishonest people), we must recollect, that it was
+						the object of his book to give a plain unsophisticated account of a human
+						being's ex- <pb n="100"/> periences; and that many persons of excellent
+						repute would have been found to have committed actions as bad, had they
+						given accounts of themselves as candid. <persName key="Samuel Johnson" ref="http://dbpedia.org/resource/Samuel_Johnson" cert="high" type="real">Dr.
+							Johnson</persName> was of opinion that all children were thieves and
+						liars: and somebody, we believe a Scotchman, answered a fond speech about
+						human nature, by exclaiming, that "<q type="spoken">human nature was a
+							rogue and a vagabond, or so many laws would not have been necessary to
+							restrain it.</q>" We venture to differ, on this occasion, with both
+						Englishman and Scotchman. Laws in particular, taking the bad with the good,
+						are quite as likely to have made rogues, as restrained them. But we see, at
+						any rate, what has been suspected of more orthodox persons than <persName ref="#rousseau">Rousseau</persName>; to say nothing of less charitable
+						advantages which might be taken of such opinions. He committed a petty
+						theft; and miserably did his false shame, the parent of so many crimes, make
+						him act. But he won back to their infants' lips the bosoms of thousands of
+						mothers. He restored to their bereaved and helpless owners thousands of
+						those fountains of health and joy: and before he is abused, even for worse
+						things than the theft, let those whose virtue consists in custom, think of
+						this.</p>
+                    
+					<p>As we have mixed fictitious with real thieves in this article, in a manner,
+						we fear, somewhat uncritical (and yet the fictions are most likely founded
+						on fact; and the life of a real thief is a kind of dream and romance) we
+						will dispatch our fictitious English thieves before we come to the others.
+						And we must make shorter work of it than we intended, or we shall never come
+						to our friend <persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" cert="high" type="real">Du
+							Vall</persName>. The length to which this article has stretched out,
+						week after week, will be a warning to us, how we render our paper liable to
+						be run away with in future.</p>
+                    
+					<p>There is a very fine story of <title level="a" key="Three Thieves (Chaucer)">Three
+							Thieves</title> in <persName key="Geoffrey Chaucer" ref="http://www.wikidata.org/entity/Q5683" cert="high" type="real">
+							Chaucer</persName>, which we must tell at large another time. The most
+						prominent of the fabulous thieves in England is that bellipotent and
+						immeasurable wag, <persName key="Falstaff" ref="http://www.wikidata.org/entity/Q1233109" cert="high" type="fictional">Falstaff</persName>. If for a momentary freak, he
+						thought it villainous to steal, at the next moment he thought it villainous
+						not to steal.</p>
+                    
+					<cit>
+                        
+						<quote type="spoken">
+                                             
+							<p>
+                                
+								<q type="spoken">Hal, I pr'ythee, trouble me no more with vanity. I
+									would to God thou and I knew where a commodity of good names
+									were to be bought. An old lord of the council rated me the other
+									day in the street, about you, Sir; but I marked him not. And yet
+									he talked very wisely, but I regarded him not. And yet he talked
+									wisely ; and in the streets, too.</q>
+                            
+							</p>
+                            
+							<p>
+                                
+								<persName key="Prince Hal" ref="#" cert="high" type="fictional">
+                                    
+									<hi rend="italic">P. Henry.</hi>
+                                
+								</persName>
+                                
+								<q type="spoken">Thou didst well; for <q type="written">Wisdom cries
+										out in the streets, and no man regards it.</q>
+								</q>
+                            
+							</p>
+                            
+							<p>
+                                
+								<persName ref="#falstaff">
+                                    
+									<hi rend="italic">Falstaff.</hi>
+                                
+								</persName>
+                                
+								<q type="spoken">O, thou hast damnable iteration; and art, indeed,
+									able to corrupt a saint. Thou hast done much harm upon me, Hal;
+									God forgive thee for it! Before I knew thee, Hal, I knew
+									nothing; and now am I, if a man should speak truly, little
+									better than one of the wicked. I must give over this life, and I
+									will give it over: By the Lord, an I do not, I am a villain:
+									I'll be damned for never a king's son in Christendom.</q>
+                            
+							</p>
+                            
+							<p>
+                                
+								<persName ref="#princeHal">
+                                    
+									<hi rend="italic">P. Henry.</hi>
+                                
+								</persName>
+                                
+								<q type="spoken">Where shall we take a purse to-morrow. Jack?</q>
+                            
+							</p>
+                            
+							<p>
+                                
+								<persName ref="#falstaff">
+                                    
+									<hi rend="italic">Falstaff.</hi>
+                                
+								</persName>
+                                
+								<q type="spoken">Where thou wilt, lad; I'll make one: an I do not,
+									call me villain, and baffle me.</q>
+                            
+							</p>
+                        
+						</quote>
+                    
+					</cit>
+                    
+					<pb n="101"/>
+                    
+					<p>We must take care how we speak of <persName key="Macheath" ref="#" cert="high" type="fictional">Macheath</persName>, or we shall be said to be getting
+						political again. <persName key="Henry Fielding" ref="http://dbpedia.org/resource/Henry_Fielding" cert="high" type="real">
+							Fielding's</persName> 
+						<title level="m" key="The Life and Death of Jonathan Wild, the Great" ref="http://dbpedia.org/resource/The_Life_and_Death_of_Jonathan_Wild,_the_Great" cert="high">Jonathan Wild
+							the Great</title> is also, in this sense, <q type="foreign">caveare</q>
+						to the multitude." But we would say more of him, if we had room. <persName key="The Adventures of Ferdinand, Count Fathom" ref="http://www.wikidata.org/entity/Q16385022" cert="high" type="fictional">Count Fathom</persName>, a deliberate
+						scoundrel, compounded of the <persName key="Jonathan Wild" ref="http://dbpedia.org/resource/Jonathan_Wild" cert="high" type="real">Jonathan
+							Wilds</persName> and the more equivocal <persName key="Cagliostro, Alessandro, conte di, 1743-1795." ref="http://viaf.org/viaf/56606872" cert="high" type="real">Cagliostros</persName> and otlier adventurers,
+						is a thief not at all to our taste. We are continually obliged to call his
+						mother to our recollection, in order to bear him. The only instance in which
+						the character of an absolute profligate pickpocket was ever made
+						comparatively welcome to our graver feelings, is in the extraordinary novel
+						of <title level="m" key="Manon Lescaut" ref="http://dbpedia.org/resource/Manon_Lescaut" cert="high">Manon L'Escaut</title> by the <persName key="Prévost, Antoine-François, 1697-1763" ref="http://viaf.org/viaf/17228264" cert="high" type="real">Able
+							Prevost</persName>. It is the story of a young man so passionately in
+						love with a profligate female, that he follows her through every species of
+						vice and misery, even when she is sent as a convict to <placeName key="New Orleans" corresp="United States" ref="http://www.wikidata.org/entity/Q34404" cert="high" type="city">New
+							Orleans</placeName>. His love indeed is returned. He is obliged to subsist
+						upon her vices; and in return, is induced to help her with his own, becoming
+						a cheat and a swindler to supply her outrageous extravagances. On board the
+						convict ship (if we recollect) he waits on her through every species of
+						squalidness; the convict-dress and her shaved head only redoubling his love
+						by the help of pity. This seems a shocking and very immoral book; yet
+						multitudes of very reputable people have found a charm in it. The fact is,
+						not only that <persName key="Lescaut, Manon, personnage fictif" ref="http://viaf.org/viaf/220024574" cert="high" type="fictional">Manon</persName> is beautiful, sprightly, really fond
+						of her lover, and after all, becomes reformed; but that it is delightful,
+						and ought to be so, to the human heart, to see a vein of sentiment and real
+						goodness looking out through all this callous surface of guilt. It is like
+						meeting with a tree in a squalid hole of a city,—a flower, or a frank face,
+						in a reprobate purlieu. The capabilities of human nature are not
+						compromised. The virtue alone seems natural; the guilt, as it so often is,
+						seems artificial, and the result of some bad education or other
+						circumstance. Nor is any body injured. It is one of the shallowest of all
+						shallow notions to talk of the harm of such works. Do we think nobody is to
+						be harmed but the virtuous! Or that there are not privileged harms and vices
+						to be got rid of, as well as unprivileged? No good-hearted person will be
+						injured by reading <title level="m" ref="#manonLescaut">Manon L'Escaut</title>.
+						There is <hi rend="italic">the belief in goodness</hi> in it;—a faith, the
+						want of which does so much harm both to the vicious and to the
+						over-righteous.</p>
+                    
+					<p>The prince of all robbers, English or foreign, is undoubtedly <persName key="Robin Hood" ref="http://www.wikidata.org/entity/Q122634" cert="high" type="fictional">Robin Hood</persName>. There is a worthy Scottish
+						namesake of his, <persName key="Rob Roy MacGregor" ref="http://www.wikidata.org/entity/Q378053" cert="high" type="real">Rob
+							Roy</persName>, who has been lately had justice done to all his injuries
+						by a country-man; and the author, it seems, has now come down from the
+						borders to see the <persName ref="#robRoy">Rob</persName> of the elder times
+						well treated. We were obliged to tear ourselves away from his first volume<note type="hunt">
+                            
+							<ptr target="#ivanhoe"/>
+                        
+						</note>, to go to this
+						ill-repaying article. But <persName ref="#robinHood">Robin Hood</persName>
+						will still remain the chief and "<q type="emph">gentlest of thieves.</q>" He
+						acted upon a larger scale, or in opposition to a larger injustice, to a
+						whole political system. He "<q type="emph">shook the super-flux</q>" to the
+						poor, "<q type="emph">and shewed the heavens more just.</q>" However, what
+						we have to say of him we must keep till the trees are in leaf again, and the
+						greenwood shade delightful.<note type="source">
+							<bibl>
+								<title level="m" key="Ivanhoe" ref="#" cert="high">Ivanhoe</title>
+							</bibl>
+						</note>
+					</p>
+                    
+					<pb n="102"/>
 
-                    <p><persName ref="#claudeDuVall">Du Vall's</persName> success with the ladies of
-                        those days, whose amatory taste was of a turn more extensive than enlarged,
-                        seems to have made <pb n="104"/> some very well dressed English gentlemen
-                        jealous. The writer of <persName ref="#claudeDuVall">Du Vall's</persName>
-                        life, who is a man of wit, evidently has something of bitterness in his
-                        railleries upon this point; but he manages them very pleasantly. He pretends
-                        that he is an old bachelor, and has never been able to make his way with his
-                        fair countrywomen, on at count of the French valets that have stood in his
-                        way. He says he had two objects in writing the book. "<q type="spoken">One
-                        is,
-                            that the next Frenchman that is hanged may not cause an uproar in this
-                        imperial city; which I doubt not but I have effected.</q></p>
-                    <p>"<q type="spoken">The other is a much harder task: To set my countryman on
-                        even terms with the French, as to the English ladies' affections.
-                            If I should bring this about, I should esteem myself to have contributed
-                        much to the good of this kingdom.</q></p>
-                    <p>"<q type="spoken">One remedy there is, which, possibly, may conduce something
-                        towards it.</q></p>
-                    <p>"<q type="spoken">I have heard, that there is a new invention of transfusing
-                        the blood of one animal into another, and that it has been experimented by
-                        putting the blood of a sheep into an Englishman. I am against that way of
-                        experiments; for, should we make all Englishmen sheep, we should soon be a
-                        prey to the loure.</q></p>
-                    <p>"<q type="spoken">I think I can propose the making that experiment, a more
-                        advantageous way. I would have all gentlemen, who have been a full year, or
-                        more, out of France, be let blood weekly, or oftener, if they can bear it.
-                        Mark how much they bleed ; transfuse so much French lacquey's blood into
-                        them; replenish these last out of the English footmen, for it is no matter
-                        what becomes of them. Repeat this operation <span xml:lang="la">toties
-                        quoties</span>, and, in process of time, you will find this event: Either
-                        the English gentlemen will be as much beloved as the French lacqueys, or the
-                        French lacqueys as little esteemed as the English gentlemen.</q>"</p>
-                    <p><persName key="Samuel Butler (poet)" ref="http://dbpedia.org/resource/Samuel_Butler_(poet)" cert="high" type="real">
-                            Butler</persName> has left an <rs type="genre" key="Ode">Ode</rs>,
-                        sprinkled with his usual wit, "<title level="a" key="To the Happy Memory of the Most Renowned Du Val">To the Happy
-                        Memory of the Most Renowned <persName ref="#claudeDuVall">Du Val</persName>,</title>"
-                        who</p>
-<<<<<<< HEAD
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-=======
->>>>>>> 74094cf9d82ba74f9235692c8f2d5c8e77244a20
-                    <cit>
-                        <quote>
-                            <lg xml:lang="en">
-                                <l rend="indent">— Like a pious man, some years before</l>
-                                <l rend="indent">The arrival of his fatal hour.</l>
-                                <l rend="indent">Made every day he had to live</l>
-                                <l rend="indent">To his last minute a proparative;</l>
-                                <l rend="indent">Taught the wild Arabs on the road</l>
-                                <l rend="indent">To act in a more gentle mode:</l>
-                                <l rend="indent">Take prizes more obligingly from those,</l>
-                                <l rend="indent">Who never had been bred filious;</l>
-                                <l rend="indent">And how to hang in a more graceful fashion.</l>
-                                <l rend="indent">Than e'er was known before to the dull English
-                                    nation.</l>
-                            </lg>
-                        </quote>
-                        <note type="source"><bibl><author ref="#" cert="high">Samuel Butler</author>, <title level="a" ref="https://en.wikisource.org/wiki/To_the_Happy_Memory_of_the_Most_Renowned_Du_Val">To the Happy Memory of the Most Renowned Du Val</title></bibl></note>
-                    </cit>
-                    <p>As it may be thought proper that we should end this lawless article with a
-                        good moral, we will give it two or three sentences from <persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692" cert="high" type="real">Shakspeare</persName> worth a whole volume of
-                        sermons against thieving. The boy who belongs to <persName ref="#falstaff">
-                        Falstaff's</persName> companions, and who begins to see through the
-                        shallowness of their cunning and way of life, says that <persName key="Bardolph" ref="http://www.wikidata.org/entity/Q16200730" cert="high" type="fictional">Bardolph</persName> stole a lute-case, carried it
-                        twelve miles, and sold it for three halfpence.</p>
-                </div2>
-                <div2 type="colophon"> <!-- Publisher and printer information -->
-                    <p>Orders received by the Newsmen; by the Booksellers, and by the Publisher, <persName key="Joseph Appleyard" type="real">JOSEPH APPLEYARD</persName>, No. 19, <placeName key="Catherine Street, Strand" corresp="United Kingdom" ref="https://en.wikipedia.org/wiki/Catherine_Street_(London)" cert="high" type="street">Catherine-street, Strand</placeName>.— Price
-                        2d. .Printed by <persName key="C. H. Reynell" type="real">C. H. Reynell</persName>,
-                        No. 45, <placeName key="Broad Street, Golden Square" corresp="United Kingdom" type="street">Broad-street, Golden-square</placeName>
-                        .</p>
-                </div2>
-            </div1>
-        </body>
-    </text>
+					
+                    
+					<p>We dismiss, in one rabble-like heap, the real <persName key="Jonathan Wild" ref="http://dbpedia.org/resource/Jonathan_Wild" cert="high" type="real">Jonathan
+							Wilds</persName>, <persName key="Jerry Abershawe" ref="http://dbpedia.org/resource/Jerry_Abershawe" cert="high" type="real">
+							Avershaws</persName>, and other heroes of the <title level="m" key="Newgate Calendar" ref="#" cert="high">Newgate Calender</title>, who have no redemption in their
+						rascality. And after them, for gentlemen-valets, may go the <choice>
+							<sic>
+								Barringtons
+								
+							</sic>
+							<corr>Barringtons</corr>
+						</choice>, <persName key="John Semple (spy)" ref="#" cert="high" type="real">Major Semples</persName>, and other sneaking
+						rogues, who held on a tremulous career of iniquity betwixt pilfering and
+						repenting. Yet <persName key="Jack Sheppard" ref="http://dbpedia.org/resource/Jack_Sheppard" cert="high" type="real">Jack
+							Snepherd</persName> must not be forgotten, with his ingenious and daring
+						breaks out of prison; nor <persName key="Dick Turpin" ref="http://dbpedia.org/resource/Dick_Turpin" cert="high" type="real">
+							Turpin</persName>, who is said to have ridden his horse with such
+						swiftness from <placeName key="York" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q42462" cert="high" type="city">York</placeName>
+						to <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">London</placeName>,
+						that he was enabled to set up an alibi. We have omitted to notice the
+						celebrated <persName key="Buccaneers" ref="#" cert="high" type="group">Buccaniers
+							of America</persName>; but these are fellows, with regard to whom we are
+						willing to take <persName key="Dogberry" ref="#" cert="high" type="fictional">Dogberry's</persName> advice, and "<q type="spoken">steal
+							out of their company.</q>"</p>
+                    
+					<p>All hail, thou most attractive of scape-graces;—thou most accomplished of
+						gentlemen of the road;—thou, worthy to be called one of "<q type="emph">the
+							minions of the moon,</q>"—<persName key="Claude Duval" ref="http://dbpedia.org/resource/Claude_Duval" cert="high" type="real">Monsieur
+							Claude Du Vall</persName>,— whom we have come such a long and dangerous
+						journey to see!</p>
+                    
+					<p>
+						<persName ref="#claudeDuVall">Claude Du Val</persName>, according to a
+						pleasant account of him, in the <title level="m" key="The Harleian Miscellany" ref="http://www.wikidata.org/entity/Q5658481" cert="high">Harleian
+							Miscellany</title>, was born at <placeName key="Domfront" corresp="France" ref="http://www.wikidata.org/entity/Q659992" cert="high" type="city">
+							Domfront</placeName> in <placeName key="Normandy" corresp="France" ref="https://www.wikidata.org/wiki/Q18677875" cert="high" type="region">
+							Normandy</placeName>, in the year 1643, of <persName key="Pierre Du Vall" type="real">Pierre du Vall</persName>, miller, and <persName key="Marguerite de la Roche" type="real">Marguerite de la Roche</persName>,
+						the fair daughter of a tailor. Being a sprightly boy, he did not remain in
+						the country, but became servant to a person of quality at <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>; and with this gentleman he
+						came over to England at the time of the Restoration. It is difficult to say,
+						which came over to pick the most pockets and hearts, <persName key="Charles II of England" ref="http://dbpedia.org/resource/Charles_II_of_England" cert="high" type="real">Charles
+							the Second</persName>, or <persName ref="#claudeDuVall">Claude Du Vall</persName>.
+						Be this as it may, his "courses" of life, ("<q type="written">for,</q>" says the contemporary historian, "<q type="written">I dare not call them vices,</q>") soon reduced him to the
+						necessity of going upon the road; and here "<q type="written">he quickly
+							became so famous, that in a proclamation for the taking several notorious
+							highwaymen, he had the honour to be named first.</q>" He took, says his
+						biographer, "the generous way of padding;" that is to say, he behaved with
+						exemplary politeness to all coaches, especially those in which there were
+						ladies; making a point of frightening them as amiably as possible; and
+						insisting upon returning any favourite trinkets or keepsakes, for which they
+						chose to appeal to him with "their most sweet voices."</p>
+                    
+					<p>It was in this character that he performed an exploit, which is the eternal
+						feather in the cap of highway gentility. We will relate it in the words of
+						our informer. Riding out with some of his confederates, "<q type="written">he
+							overtakes a coach, which they had set over night, having intelligence of a
+							booty of four hundred pounds in it. In the coach was a knight, his lady, and
+							only one serving-maid, who, perceiving five horsemen making up to them,
+							presently imagined that they were beset; and they were confirmed in this
+							apprehension, by seeing them whisper to one another, and ride backwards and
+							forwards. The lady, to shew she was not afraid, takes a flageolet out of her
+							pocket, and plays: <persName ref="#claudeDuVall">Du Vall</persName> takes
+							the hint, plays also, and excellently well, upon a flageolet of his own, and
+							in this posture he rides up to the coach-side. 'Sir,' says he, to the person
+							in the coach, 'your lady plays excellently, and I doubt not but that she
+							dances as well ; will you please to walk out of the coach, and let me have
+							the honour to dance one <pb n="103"/> currant with her upon the heath?'
+							'Sir,' said the person in the coach, 'I dare not deny any thing to one of
+							your quality and good mind ; you seem a gentleman, and your request is very
+							reasonable:' which said, the lacquey opens the boot, out comes the knight, <persName ref="#claudeDuVall">Du Vall</persName> leaps lightly off his horse,
+							and hands the lady out of the coach. They danced, and here it was that <persName ref="#claudeDuVall">Du Vall</persName> performed marvels; the best
+							master in <placeName key="London" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q84" cert="high" type="city">
+								London</placeName>, except those that are French, not being able to shew
+							such footing as he did in his great riding French boots. The dancing being
+							over, he waits on the lady to her coach. As the knight was going in, says <persName ref="#claudeDuVall">Du Vall</persName> to him, 'Sir, you have forgot
+							to pay the music:' 'No, I have not,' replies the knight, and putting his
+							hand under the seat of the coach, pulls out a hundred pounds in a bag, and
+							delivers it to him; which <persName ref="#claudeDuVall">Du Vall</persName>
+							took with a very good grace, and courteously answered, 'Sir, you are
+							liberal, and shall have no cause to repent your being so; this liberality of
+							yours shall excuse you the other three hundred pounds,' and, giving him the
+							word, that if he met with any more of the crew, he might pass undisturbed,
+							he civilly takes his leave of him.</q>
+					</p>
+                    
+					<p>"<q type="written">This story, I confess, justifies the great kindness the
+							ladies had for <persName ref="#claudeDuVall">Du Vall</persName>; for in
+							this, as in an epitome, are contained all things that set a man off
+							advantageously, and make him appear, as the phrase is, much a gentleman.
+							First, here was valour, that he and but four more durst assault a knight, a
+							lady, a waiting-gentlewoman, a lacquey, a groom that rid by to open the
+							gates, and the coachman, they being six to five, odds at football; and
+							besides, <persName ref="#claudeDuVall">Du Vall</persName> had much the worst
+							cause, and reason to believe, that whoever should arrive, would range
+							themselves on the enemy's party. Then he shewed his invention and sagacity,
+							that he could <span xml:lang="la">sur le champ</span>, and, without
+							studying, make that advantage of the lady's playing on the flageolet. He
+							evinced his skill in instrumental music, by playing on his flageolet; in
+							vocal by his singing ; for (as I should have told you before) there being no
+							violins, <persName ref="#claudeDuVall">Du Vall</persName> sung the currant
+							himself. 'He manifested his agility of body, by lightly dismounting off his
+							horse, and with ease and freedom getting up again, when he took his leave 3
+							his excellent deportment, by his incomparable dancing, and his graceful
+							manner of taking the hundred pounds; his generosity, in taking no more; his
+							wit and eloquence, and readiness at repartees, in the whole discourse with
+							the knight and lady, the greatest part of which I have been forced to omit.</q>
+						"</p>
+                    
+					<p>The noise of the proclamation made <persName ref="#claudeDuVall">Du Vall</persName>
+						return to <placeName key="Paris" corresp="France" ref="http://www.wikidata.org/entity/Q90" cert="high" type="city">Paris</placeName>;
+						but he came back in a short time for want of money. His reign however did
+						not last long after his restoration. He made an unlucky attack, not upon
+						some ill-bred passengers, but upon several bottles of wine, and was taken in
+						consequence at the <placeName key="Hole-in-the-Wall (pub, Chandos Street)" corresp="United Kingdom" cert="medium" type="pub">Hole-in-the-Wall</placeName>,
+						in <placeName key="Chandos Street" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q64401239" cert="high" type="street">
+							Chandos-street</placeName>. His life was interceded for in vain: he was
+						arraigned and committed to <placeName key="Newgate Prison" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1822183" cert="high" type="prison">Newgate</placeName>; and executed at <placeName key="Tyburn" corresp="United Kingdom" ref="http://www.wikidata.org/entity/Q1362341" cert="high" type="place">
+							Tyburn</placeName> in the 27th year of his age; showers of tears from
+						fair eyes bedewing his fate, both while alive in prison, and while dead at
+						the fatal tree.</p>
+
+					
+                    
+					<p>
+						<persName ref="#claudeDuVall">Du Vall's</persName> success with the ladies of
+						those days, whose amatory taste was of a turn more extensive than enlarged,
+						seems to have made <pb n="104"/> some very well dressed English gentlemen
+						jealous. The writer of <persName ref="#claudeDuVall">Du Vall's</persName>
+						life, who is a man of wit, evidently has something of bitterness in his
+						railleries upon this point; but he manages them very pleasantly. He pretends
+						that he is an old bachelor, and has never been able to make his way with his
+						fair countrywomen, on at count of the French valets that have stood in his
+						way. He says he had two objects in writing the book. "<q type="spoken">One
+							is,
+							that the next Frenchman that is hanged may not cause an uproar in this
+							imperial city; which I doubt not but I have effected.</q>
+					</p>
+                    
+					<p>"<q type="spoken">The other is a much harder task: To set my countryman on
+							even terms with the French, as to the English ladies' affections.
+							If I should bring this about, I should esteem myself to have contributed
+							much to the good of this kingdom.</q>
+					</p>
+                    
+					<p>"<q type="spoken">One remedy there is, which, possibly, may conduce something
+							towards it.</q>
+					</p>
+                    
+					<p>"<q type="spoken">I have heard, that there is a new invention of transfusing
+							the blood of one animal into another, and that it has been experimented by
+							putting the blood of a sheep into an Englishman. I am against that way of
+							experiments; for, should we make all Englishmen sheep, we should soon be a
+							prey to the loure.</q>
+					</p>
+                    
+					<p>"<q type="spoken">I think I can propose the making that experiment, a more
+							advantageous way. I would have all gentlemen, who have been a full year, or
+							more, out of France, be let blood weekly, or oftener, if they can bear it.
+							Mark how much they bleed ; transfuse so much French lacquey's blood into
+							them; replenish these last out of the English footmen, for it is no matter
+							what becomes of them. Repeat this operation <span xml:lang="la">toties
+								quoties</span>, and, in process of time, you will find this event: Either
+							the English gentlemen will be as much beloved as the French lacqueys, or the
+							French lacqueys as little esteemed as the English gentlemen.</q>"</p>
+                    
+					<p>
+						<persName key="Samuel Butler (poet)" ref="http://dbpedia.org/resource/Samuel_Butler_(poet)" cert="high" type="real">
+							Butler</persName> has left an <rs type="genre" key="Ode">Ode</rs>,
+						sprinkled with his usual wit, "<title level="a" key="To the Happy Memory of the Most Renowned Du Val">To the Happy
+							Memory of the Most Renowned <persName ref="#claudeDuVall">Du Val</persName>,</title>"
+						who</p>
+                    
+					<cit>
+                        
+						<quote>
+                            
+							<lg xml:lang="en">
+                                
+								<l rend="indent">— Like a pious man, some years before</l>
+                                
+								<l rend="indent">The arrival of his fatal hour.</l>
+                                
+								<l rend="indent">Made every day he had to live</l>
+                                
+								<l rend="indent">To his last minute a proparative;</l>
+                                
+								<l rend="indent">Taught the wild Arabs on the road</l>
+                                
+								<l rend="indent">To act in a more gentle mode:</l>
+                                
+								<l rend="indent">Take prizes more obligingly from those,</l>
+                                
+								<l rend="indent">Who never had been bred filious;</l>
+                                
+								<l rend="indent">And how to hang in a more graceful fashion.</l>
+                                
+								<l rend="indent">Than e'er was known before to the dull English
+									nation.</l>
+                            
+							</lg>
+                        
+						</quote>
+                        
+						<note type="source">
+							<bibl>
+								<author ref="#" cert="high">Samuel Butler</author>, <title level="a" ref="https://en.wikisource.org/wiki/To_the_Happy_Memory_of_the_Most_Renowned_Du_Val">To the Happy Memory of the Most Renowned Du Val</title>
+							</bibl>
+						</note>
+                    
+					</cit>
+                    
+					<p>As it may be thought proper that we should end this lawless article with a
+						good moral, we will give it two or three sentences from <persName key="William Shakespeare" ref="http://www.wikidata.org/entity/Q692" cert="high" type="real">Shakspeare</persName> worth a whole volume of
+						sermons against thieving. The boy who belongs to <persName ref="#falstaff">
+							Falstaff's</persName> companions, and who begins to see through the
+						shallowness of their cunning and way of life, says that <persName key="Bardolph" ref="http://www.wikidata.org/entity/Q16200730" cert="high" type="fictional">Bardolph</persName> stole a lute-case, carried it
+						twelve miles, and sold it for three halfpence.</p>
+                
+				</div2>
+                
+				<div2 type="colophon"> <!-- Publisher and printer information -->
+                    
+					<p>Orders received by the Newsmen; by the Booksellers, and by the Publisher, <persName key="Joseph Appleyard" type="real">JOSEPH APPLEYARD</persName>, No. 19, <placeName key="Catherine Street, Strand" corresp="United Kingdom" ref="https://en.wikipedia.org/wiki/Catherine_Street_(London)" cert="high" type="street">Catherine-street, Strand</placeName>.— Price
+						2d. .Printed by <persName key="C. H. Reynell" type="real">C. H. Reynell</persName>,
+						No. 45, <placeName key="Broad Street, Golden Square" corresp="United Kingdom" type="street">Broad-street, Golden-square</placeName>
+						.</p>
+                
+				</div2>
+            
+			</div1>
+        
+		</body>
+    
+	</text>
+
 </TEI>
