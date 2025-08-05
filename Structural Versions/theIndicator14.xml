@@ -72,7 +72,7 @@
 	"id": "https://raw.githubusercontent.com/pippaJeanne/indicator-leighhunt/main/Structural%20Versions/theIndicator14.xml?person_annotation_20250805121912804",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-08-05T16:19:12.804Z",
-	"dcterms:modified": "2025-08-05T16:19:12.804Z",
+	"dcterms:modified": "2025-08-05T16:23:35.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/bhipsonholder",
 		"@type": [
@@ -103,8 +103,11 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "#",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://dbpedia.org/page/Morpheus",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -276,7 +279,7 @@
                                         <reg>deep</reg>
                                     </choice>
                                     ,</l>
-                                <l>To  <persName key="Morpheus" ref="#" cert="high" type="mythological">Morpheus</persName>' house <choice>
+                                <l>To  <persName key="Morpheus" ref="https://dbpedia.org/page/Morpheus" cert="high" type="fictional" xml:id="Morpheus">Morpheus</persName>' house <choice>
                                         <orig>doth</orig>
                                         <reg>does</reg>
                                     </choice>
