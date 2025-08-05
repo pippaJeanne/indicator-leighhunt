@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- Template Version 1.1 [FOR REFERENCE - DO NOT DELETE] -->
-<!-- This template is intended to be used as a starting point for encoding a new text.
-        It is not intended as a fixed structure, but rather collects some of the most common
-        structural elements for convenience and uniformity. Please add/remove elements as
-        necessary for your use case. -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <!-- File Description -->
         <fileDesc>
@@ -35,8 +28,7 @@
                     Hunt</surname>, <date from="1784" to="1859">1784-1859</date>
                     </author>
                     , <title level="j">The Indicator</title>
-                    <date
-                        when="1820-01-12">January 12, 1820</date>
+                    <date when="1820-01-12">January 12, 1820</date>
                     <pubPlace><settlement>London</settlement>
                     , <country>England</country></pubPlace>
                     <publisher>Joseph Appleyard</publisher>
@@ -45,7 +37,7 @@
         </fileDesc>
 
         <!-- Encoding Description -->
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <!-- Add any encoding information or guidelines here if applicable -->
             <p>
                 Basic encoding, capturing relevant formatting and layout information. Page numbers
@@ -53,8 +45,8 @@
                 included for reference to the source only and are not intended to indicate precise
                 preservation. Specific entities like persons, places, and literary works are
                 identified and linked to external authorities where possible. Typographical errors
-                are marked using &lt;choice&gt; tags with &lt;sic&gt; and &lt;corr&gt; elements.
-                Old spellings are marked using &lt;choice&gt; tags with &lt;orig&gt; and &lt;reg&gt;
+                are marked using &amp;lt;choice&amp;gt; tags with &amp;lt;sic&amp;gt; and &amp;lt;corr&amp;gt; elements.
+                Old spellings are marked using &amp;lt;choice&amp;gt; tags with &amp;lt;orig&amp;gt; and &amp;lt;reg&amp;gt;
                 elements.
             </p>
         </encodingDesc>
@@ -70,7 +62,7 @@
     <text>
         <body>
             <div1 type="issue" n="14">
-                <pb n="" /> <!-- Unnumbered title page for the issue -->
+                <pb n=""/> <!-- Unnumbered title page for the issue -->
                 <div2 type="forematter">
                     <head type="title">THE INDICATOR.</head>
                     <epigraph>
@@ -79,9 +71,7 @@
                             <l>And takes survey with busie, curious eye:</l>
                             <l>Now this, now that, he tasteth tenderly.</l>
                         </lg>
-                        <l><persName key="Edmund Spenser"
-                                ref="http://www.wikidata.org/entity/Q4352055" cert="high"
-                                type="real">SPENSER</persName>.</l>
+                        <l><persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">SPENSER</persName>.</l>
                     </epigraph>
                     <head type="catalogue">No. <hi rend="smallcaps">XIV</hi>.— <hi rend="smallcaps">
                         WEDNESDAY</hi>, <hi rend="smallcaps">JANUARY</hi> 12th, 1820.</head>
@@ -91,9 +81,7 @@
                     <p>This is an article for the reader to think of, when he or she is warm in bed,
                         a little before he goes to sleep, the clothes at his ear, and the wind
                         moaning in some distant crevice.</p>
-                    <p><q type="spoken">Blessings</q>, exclaimed <persName key="Sancho Panza"
-                            ref="#" cert="high"
-                            type="fictional">Sancho</persName>, <q type="spoken">on him that first
+                    <p><q type="spoken">Blessings</q>, exclaimed <persName key="Sancho Panza" ref="#" cert="high" type="fictional">Sancho</persName>, <q type="spoken">on him that first
                         invented sleep! It wraps a man all round like a cloak.</q> It is a delicious
                         moment certainly,—that of being well nestled in bed, and feeling that you
                         shall drop gently to sleep. The good is to come, not past: the limbs have
@@ -113,8 +101,7 @@
                         rather to the subject of early rising, than of sleep.</p>
                     <p>Sleep at a late hour in the morning, is not half so pleasant as the more
                         timely one. It is sometimes however excusable, especially to a, watchful or
-                        over-worked head; neither can we deny the seducing merits of <q
-                            type="distinct">t' other doze</q>,— the pleasing wilfulness of nestling
+                        over-worked head; neither can we deny the seducing merits of <q type="distinct">t' other doze</q>,— the pleasing wilfulness of nestling
                         in a new posture, when you know you ought to be up, like the rest of the
                         house. But then you cut up the day, and your sleep the next night.</p>
                     <p>In the course of the day, few people think of sleeping, except after dinner ;
@@ -123,15 +110,13 @@
                         the old, or the sickly, or the very tired and care-worn ; and it should be
                         well understood, before it is exercised in company. To escape into slumber
                         from an argument; or to take</p>
-                    <pb n="106" />
+                    <pb n="106"/>
                     <p>it as an affair of course, only between you and your biliary duct; or to
                         assent with involuntary nods to all that you have just been disputing; is
                         not so well: much less, to sit nodding and tottering beside a lady; or to be
                         in danger of dropping your head into the fruit-plate or your host's face; or
                         of waking up, and saying <q type="spoken">Just so</q> to the bark of a dog,
-                        or <q
-                            type="spoken"
-                        >Yes, Madam</q> to the black at your elbow.</p>
+                        or <q type="spoken">Yes, Madam</q> to the black at your elbow.</p>
                     <p>Care-worn people however might refresh themselves oftener with day-sleep than
                         they do; if their bodily state is such as to dispose them to it. It is a
                         mistake to suppose that all care is wakeful. People sometimes sleep, as well
@@ -171,7 +156,7 @@
                         himself, it is amusing to think of the more fantastic attitudes that so
                         often take place in bed. If we could add any thing to the numberless things
                         that have been said about sleep by the poets, it would be upon this point.
-                        Sleep never shews himself a greater <pb n="107" /> leveller. A man in his
+                        Sleep never shews himself a greater <pb n="107"/> leveller. A man in his
                         waking moments may look as proud and self-possessed as he pleases. He may
                         walk proudly, he may sit proudly, he may eat his dinner proudly; he may
                         shave himself with an air of infinite superiority; in a word, he may shew
@@ -188,37 +173,19 @@
                         power in!</p>
                     <p>But Sleep is kindly, even in his tricks; and the poets have treated him with
                         proper reverence. According to the ancient mythologists, he had even one of
-                        the <persName
-                            key="Graces (mythology)" ref="#" type="mythological"
-                        >Graces</persName> to
-                        wife. He had a thousand sons, of whom the chief were <persName
-                            key="Morpheus" ref="#"
-                            cert="high" type="mythological"
-                        >Morpheus</persName>, or the <emph>Shaper</emph>
-                        ; <persName key="Icelos" ref="#"
-                            cert="high" type="mythological">Icelos</persName>, or the <emph>Likely</emph>
-                        ; <persName key="Phantasus" ref="#" cert="high"
-                            type="mythological"
-                        >Phantasus</persName>, the <emph>Fancy</emph>; and <persName
-                            key="Phobetor" ref="#" cert="high" type="mythological">Phobetor</persName>,
+                        the <persName key="Graces (mythology)" ref="#" type="mythological">Graces</persName> to
+                        wife. He had a thousand sons, of whom the chief were <persName key="Morpheus" ref="#" cert="high" type="mythological">Morpheus</persName>, or the <emph>Shaper</emph>
+                        ; <persName key="Icelos" ref="#" cert="high" type="mythological">Icelos</persName>, or the <emph>Likely</emph>
+                        ; <persName key="Phantasus" ref="#" cert="high" type="mythological">Phantasus</persName>, the <emph>Fancy</emph>; and <persName key="Phobetor" ref="#" cert="high" type="mythological">Phobetor</persName>,
                         the <emph>
                             Terror</emph>. His dwelling some writers place in a dull and darkling
                         part of the earth; others, with greater compliment, in heaven; and others,
                         with another kind of propriety, by the sea-shore. There is a good
-                        description of it in <persName key="Ovid"
-                            ref="#" cert="high" type="real"
-                        >Ovid</persName>; but in these abstracted
+                        description of it in <persName key="Ovid" ref="#" cert="high" type="real">Ovid</persName>; but in these abstracted
                         tasks of poetry, the moderns outvie the ancients; and there is nobody who
-                        has built his bower for him so finely as <persName
-                            key="Edmund Spenser"
-                            ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real"
-                        >
-                        Spenser</persName>. <persName key="Archimago" ref="#" cert="high"
-                            type="fictional">Archimago</persName> in the first book of the <title
-                            level="m" key="The Faerie Queene"
-                            ref="#">Faery Queen</title>, (Canto 1, St. 39.) sends a little spirit
-                        down to <persName key="Morpheus" ref="#"
-                            cert="high" type="mythological">Morpheus</persName> to fetch him a
+                        has built his bower for him so finely as <persName key="Edmund Spenser" ref="http://www.wikidata.org/entity/Q4352055" cert="high" type="real">
+                        Spenser</persName>. <persName key="Archimago" ref="#" cert="high" type="fictional">Archimago</persName> in the first book of the <title level="m" key="The Faerie Queene" ref="#">Faery Queen</title>, (Canto 1, St. 39.) sends a little spirit
+                        down to <persName key="Morpheus" ref="#" cert="high" type="mythological">Morpheus</persName> to fetch him a
                         Dream.</p>
                     <cit>
                         <quote>
@@ -229,10 +196,8 @@
                                         <reg>deep</reg>
                                     </choice>
                                     ,</l>
-                                <l>To <persName key="Morpheus" ref="#" cert="high"
-                                        type="mythological"
-                                    >
-                                        Morpheus'</persName> house <choice>
+                                <l>To <persName key="Morpheus" ref="#" cert="high" type="mythological">
+                                        Morpheus</persName>' house <choice>
                                         <orig>doth</orig>
                                         <reg>does</reg>
                                     </choice>
@@ -255,14 +220,12 @@
                                         <reg>peep</reg>
                                     </choice>
                                     ,</l>
-                                <l>His dwelling is. There, <persName key="Tethys" cert="high"
-                                        type="mythological">Tethys</persName> his wet bed</l>
+                                <l>His dwelling is. There, <persName key="Tethys" cert="high" type="mythological">Tethys</persName> his wet bed</l>
                                 <l><choice>
                                         <orig>Doth</orig>
                                         <reg>Does</reg>
                                     </choice>
-                                    ever wash; and <persName key="Cynthia (mythology)" cert="high"
-                                        type="mythological">Cynthia</persName> still <choice>
+                                    ever wash; and <persName key="Cynthia (mythology)" cert="high" type="mythological">Cynthia</persName> still <choice>
                                         <orig>doth</orig>
                                         <reg>does</reg>
                                     </choice>
@@ -288,9 +251,7 @@
                         </quote>
                         <note type="source">
                             <bibl><author>Edmund Spenser</author>, <title level="m">The Faerie
-                                    Queene</title>, <biblScope unit="book">Book 1</biblScope>, <biblScope
-                                    unit="canto">Canto 1</biblScope>, <biblScope
-                                    unit="stanza">Stanza 39</biblScope>.</bibl>
+                                    Queene</title>, <biblScope unit="book">Book 1</biblScope>, <biblScope unit="canto">Canto 1</biblScope>, <biblScope unit="stanza">Stanza 39</biblScope>.</bibl>
                         </note>
                     </cit>
                     <cit>
@@ -356,28 +317,18 @@
                         </quote>
                         <note type="source">
                             <bibl><author>Edmund Spenser</author>, <title level="m">The Faerie
-                                    Queene</title>, <biblScope unit="book">Book 1</biblScope>, <biblScope
-                                    unit="canto">Canto 1</biblScope>, <biblScope
-                                    unit="stanza">Stanza 40</biblScope>.</bibl>
+                                    Queene</title>, <biblScope unit="book">Book 1</biblScope>, <biblScope unit="canto">Canto 1</biblScope>, <biblScope unit="stanza">Stanza 40</biblScope>.</bibl>
                         </note>
                     </cit>
-                    <p><persName key="Geoffrey Chaucer" ref="#"
-                            cert="high" type="real">Chaucer</persName> has drawn the cave of the
+                    <p><persName key="Geoffrey Chaucer" ref="#" cert="high" type="real">Chaucer</persName> has drawn the cave of the
                         same god with greater simplicity; but nothing can have a more deep and
                         sullen effect than his cliffs and cold running waters. It seems as real as
-                        an actual solitude, or some quaint old picture in a book of travels in <placeName
-                            key="Tartary" ref="#" cert="high" type="region">Tartary</placeName>. He
-                        is telling the story of <persName key="Ceyx" ref="#" cert="high"
-                            type="mythological">Ceyx</persName> and <persName key="Alcyone" ref="#"
-                            cert="high" type="mythological">Alcyone</persName> in the poem called
-                        his <title level="m" key="The Book of the Duchess"
-                            ref="#">Dream</title>. <persName
-                            key="Juno" ref="#" cert="high" type="mythological">Juno</persName> tells
-                        a messenger to go to <persName key="Morpheus" ref="#" cert="high"
-                            type="mythological"
-                        >Morpheus</persName> and <q type="spoken">bid him
+                        an actual solitude, or some quaint old picture in a book of travels in <placeName key="Tartary" ref="#" cert="high" type="region">Tartary</placeName>. He
+                        is telling the story of <persName key="Ceyx" ref="#" cert="high" type="mythological">Ceyx</persName> and <persName key="Alcyone" ref="#" cert="high" type="mythological">Alcyone</persName> in the poem called
+                        his <title level="m" key="The Book of the Duchess" ref="#">Dream</title>. <persName key="Juno" ref="#" cert="high" type="mythological">Juno</persName> tells
+                        a messenger to go to <persName key="Morpheus" ref="#" cert="high" type="mythological">Morpheus</persName> and <q type="spoken">bid him
                             creep into</q></p>
-                    <pb n="108" />
+                    <pb n="108"/>
                     <p>the body<q type="spoken"> of the drowned king, to let his wife know the fatal
                         event by his apparition.</q></p>
                     <cit>
@@ -470,11 +421,8 @@
                                         <reg>asleep</reg>
                                     </choice>
                                     ,</l>
-                                <l><persName key="Morpheus" ref="#" cert="high" type="mythological"
-                                    >
-                                    Morpheus</persName> and <persName key="Eclympasteire" ref="#"
-                                        cert="high" type="mythological"
-                                    >Eclynipasteire</persName>,</l>
+                                <l><persName key="Morpheus" ref="#" cert="high" type="mythological">
+                                    Morpheus</persName> and <persName key="Eclympasteire" ref="#" cert="high" type="mythological">Eclynipasteire</persName>,</l>
                                 <l>That was the god of Sleepis <choice>
                                         <orig>heire</orig>
                                         <reg>heir</reg>
@@ -493,19 +441,13 @@
                                     153-169</biblScope>.</bibl>
                         </note>
                     </cit>
-                    <p>Where the credentials of this new son and heir, <persName
-                            key="Eclympasteire" ref="#" cert="high" type="mythological"
-                        >Eclympasteire</persName>,
+                    <p>Where the credentials of this new son and heir, <persName key="Eclympasteire" ref="#" cert="high" type="mythological">Eclympasteire</persName>,
                         are to be found, we know not; but he acts very much, it must be allowed,
                         like an heir presumptive, in sleeping, and doing <q type="written">none
                             other work.</q></p>
                     <p>We dare not trust ourselves with many quotations upon sleep from the poets;
                         they are so numerous as well as beautiful. We must content ourselves with
-                        mentioning that our two most favourite passages are one in the <title
-                            level="m" key="Philoctetes" ref="#"
-                            cert="high">Philoctetes</title> of <persName key="Sophocles"
-                            ref="#" cert="high" type="real"
-                        >
+                        mentioning that our two most favourite passages are one in the <title level="m" key="Philoctetes" ref="#" cert="high">Philoctetes</title> of <persName key="Sophocles" ref="#" cert="high" type="real">
                             Sophocles</persName>, admirable for it's contrast to a scene of terrible
                         agony, which it closes<note type="hunt">
                             <bibl>
@@ -514,14 +456,7 @@
                         Philoctetes</title>.</hi>
                             </bibl>
                         </note>:
-                        and the other the following address in <persName
-                            key="Francis Beaumont" ref="#"
-                            cert="high" type="real">Beaumont</persName> and <persName
-                            key="John Fletcher" ref="#"
-                            cert="high" type="real">Fletcher's</persName> tragedy of <title
-                            level="m" key="Valentinian (play)"
-                            ref="#" cert="high"
-                        >Valentinian</title>, the hero of which is also a
+                        and the other the following address in <persName key="Francis Beaumont" ref="#" cert="high" type="real">Beaumont</persName> and <persName key="John Fletcher" ref="#" cert="high" type="real">Fletcher's</persName> tragedy of <title level="m" key="Valentinian (play)" ref="#" cert="high">Valentinian</title>, the hero of which is also a
                         sufferer under bodily torment. He is in a chair, slumbering; and these most
                         exquisite lines are gently sung with music.</p>
                     <cit>
@@ -531,23 +466,20 @@
                                     woes,</l>
                                 <l>Brother to Death, sweetly thyself
                                     dispose</l>
-                                <l>On this afflicted <persName key="Valentinian" ref="#" cert="high"
-                                        type="fictional">prince</persName>. Fall like a cloud</l>
+                                <l>On this afflicted <persName key="Valentinian" ref="#" cert="high" type="fictional">prince</persName>. Fall like a cloud</l>
                                 <l>In gentle showers: give nothing that is loud</l>
                                 <l>Or painful to his slumbers: easy, light,</l>
                                 <l>And as a purling stream, thou son of, Night,</l>
                                 <l>Pass by his troubled senses: sing his pain</l>
                                 <l>Like hollow murmuring wind, or silver rain:</l>
-                                <l>Into this <persName key="Valentinian" ref="#" cert="high"
-                                        type="fictional">prince</persName>, gently, oh gently slide;</l>
+                                <l>Into this <persName key="Valentinian" ref="#" cert="high" type="fictional">prince</persName>, gently, oh gently slide;</l>
                                 <l>And kiss him into slumbers, like a bride.</l>
                             </lg>
                         </quote>
                         <note type="source">
                             <bibl>
                                 <author>Francis Beaumont</author> and <author>John Fletcher</author>
-                                , <title level="m">Valentinian</title> , <biblScope unit="act"
-                                >Act 5</biblScope>
+                                , <title level="m">Valentinian</title> , <biblScope unit="act">Act 5</biblScope>
                                 , <biblScope unit="scene">Scene
                                     2</biblScope>.</bibl>
                         </note>
@@ -561,34 +493,20 @@
                         the mind haunted with one idea; most touching to look at, in the parent that
                         has wept; lightest, in the playful child; proudest, in the bride adored.</p>
                 </div2>
-                <pb n="109" />
+                <pb n="109"/>
                 <div2 type="section" n="2">
                     <head type="header" rend="center uppercase">THE FAIR REVENGE.</head>
-                    <p>The elements of this story are to be found in the old poem called <title
-                            level="m" key="Albion's England"
-                            ref="#" cert="high"
-                        >Albion's
-                            England</title>, to which we referred in the article on <persName
-                            key="Charles Brandon"
-                            ref="#" cert="high" type="real"
-                        >Charles
-                            Brandon</persName> and <persName key="Mary Tudor, Queen of France"
-                            ref="#" cert="high" type="real"
-                        >Mary
+                    <p>The elements of this story are to be found in the old poem called <title level="m" key="Albion's England" ref="#" cert="high">Albion's
+                            England</title>, to which we referred in the article on <persName key="Charles Brandon" ref="#" cert="high" type="real">Charles
+                            Brandon</persName> and <persName key="Mary Tudor, Queen of France" ref="#" cert="high" type="real">Mary
                             Queen of France</persName>,</p>
-                    <p><persName key="Aganippus" ref="#" cert="high" type="fictional"
-                        >Aganippus</persName>,
-                        king of <placeName key="Argos"
-                            ref="#" cert="high" type="city"
-                        >
+                    <p><persName key="Aganippus" ref="#" cert="high" type="fictional">Aganippus</persName>,
+                        king of <placeName key="Argos" ref="#" cert="high" type="city">
                             Argos</placeName>, dying without heirs male, bequeathed his throne to
-                        his only daughter, the beautiful and beloved <persName key="Daphles" ref="#"
-                            cert="high" type="fictional">Daphles</persName>. This female succession
+                        his only daughter, the beautiful and beloved <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>. This female succession
                         was displeasing to a nobleman who held large possessions on the frontiers;
                         and he came for the first time towards the court, not to pay his respects to
-                        the new queen, but to give her battle. <persName key="Doracles" ref="#"
-                            cert="high"
-                            type="fictional">Doracles</persName> (for that was his name) was not
+                        the new queen, but to give her battle. <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName> (for that was his name) was not
                         much known by the people. He had distinguished himself for as jealous an
                         independence as a subject could well assume; and though he had been of use
                         in repelling invasion during the latter years of the king, had never made
@@ -597,8 +515,7 @@
                         about the court ; and there were those, who in spite of his inattention to
                         popularity, suspected that it would go hard with the young queen, when the
                         two armies came face to face.</p>
-                    <p>But neither these subtle statesmen, nor the ambitious young soldier <persName
-                            key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
+                    <p>But neither these subtle statesmen, nor the ambitious young soldier <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
                         were aware of the effects to be produced by a strong personal attachment.
                         The young queen, amiable as she was beautiful, had involuntarily baffled his
                         expectations from her courtiers, by exciting in the minds of some a real
@@ -616,30 +533,25 @@
                         the royal charmer was secure.</p>
                     <p>The queen, during the conflict, remained in a tent upon an eminence, to which
                         the younger leaders vied who should best spur up their smoking horses, to
-                        bring her good news from time to time. The battle was short and bloody. <persName
-                            key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
+                        bring her good news from time to time. The battle was short and bloody. <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
                         soon found that he had miscalculated his point; and all his skill and
                         resolution could not set the error to rights. It was allowed, that if either
                         courage or military talent could entitle him to the throne, he would have
-                        had a right to it; but the popularity of <persName key="Daphles" ref="#"
-                            cert="high"
-                            type="fictional">Daphles</persName> supplied her cause with all the
+                        had a right to it; but the popularity of <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName> supplied her cause with all the
                         ardour, which a lax state of subjection on the part of the more powerful
                         nobles might have denied it. When her troops charged, or made any other
                         voluntary movement, they put all their hearts into their blows; and when
                         they were compelled to await the enemy, they stood as inflexible as walls of
                         iron. It was like hammering upon</p>
-                    <pb n="110" />
-                    <p>metal statuary; or staking their fated horses upon spears rivetted in stone. <persName
-                            key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
+                    <pb n="110"/>
+                    <p>metal statuary; or staking their fated horses upon spears rivetted in stone. <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
                         was taken prisoner. The queen, re-issuing from her tent, crowned with
                         laurel, came riding down the eminence, and remained at the foot with her
                         generals, while the prisoners were taken by. Her pale face kept as royal a
                         countenance of composed pity as she could manage, while the commoner rebels
                         passed along, aching with their wounded arms fastened behind, and shaking
                         back their bloody and blinding locks for want of a hand to part them. But
-                        the blood mounted to her cheeks, when the proud and handsome <persName
-                            key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
+                        the blood mounted to her cheeks, when the proud and handsome <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
                         whom she now saw for the first time, blushed deeply as he cast a glance at
                         his female conqueror, and then stepped haughtily along, handling his gilded
                         chains as if they were an indifferent ornament. <q type="thought">I have
@@ -648,9 +560,7 @@
                         well as courteous and kind in me to turn his submission into a more
                             willing one.</q> Alas! pity was helping admiration to a kinder set of
                         offices, than the generous-hearted queen suspected. The captive went to his
-                        prison, a conqueror after all; for <persName key="Daphles" ref="#"
-                            cert="high"
-                            type="fictional">Daphles</persName> loved him.</p>
+                        prison, a conqueror after all; for <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName> loved him.</p>
                     <p>The second night, after having exhibited in her manners a strange mixture of
                         joy and seriousness, and signified to her counsellors her intention of
                         setting the prisoner free, she released him with her own hands. Many a step
@@ -658,43 +568,33 @@
                         she shed a full, but soft, and as it seemed to her a wilful and refreshing
                         flood of tears, humbling herself for her approaching task. When she had
                         entered, she blushed deeply, and then turning as pale, stood for a minute
-                        silent and without motion, She then said, <q type="spoken">Thy queen, <persName
-                                key="Doracles" ref="#" cert="high" type="fictional"
-                            >Doracles</persName>,
+                        silent and without motion, She then said, <q type="spoken">Thy queen, <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
                         has come to shew thee how kindly she can treat a great and gallant subject,
                         who did not know her</q> and with these words, and almost before she was
                         aware, the prisoner was released, and preparing to go. He appeared
-                        surprised, but not off his guard, nor in any temper to be over-grateful. <q
-                            type="spoken">
-                            Name,</q> said he, <q
-                            type="spoken">O queen, the conditions on </q></p>
+                        surprised, but not off his guard, nor in any temper to be over-grateful. <q type="spoken">
+                            Name,</q> said he, <q type="spoken">O queen, the conditions on </q></p>
                     <p><q type="spoken">which I depart, and they will be faithfully kept.</q>
-                            <persName
-                            key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>
+                            <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>
                         moved her lips, but they spoke not. She waved her head and hand with a
                         deadly smile, as if free- ing him from all conditions; and he was turning to
                         go, when she fell senseless on the floor. The haughty warrior raised her
                         with more impatience than goodwill. He could guess at love in a woman; but
                         he had but a mean opinion both of it and her sex; and the deadly struggle in
-                        the heart of <persName key="Daphles" ref="#" cert="high" type="fictional"
-                        >
+                        the heart of <persName key="Daphles" ref="#" cert="high" type="fictional">
                         Daphles</persName> did not help him to distinguish the romantic passion,
                         which had induced her to put all her past and virgin notions of love into
                         his person, from the commonest liking that might flatter his soldierly
                         vanity.</p>
                     <p>The queen, on awaking from her swoon, found herself compelled, in very
                         justice to the intensity of a true passion, to explain how pity had brought
-                        it upon her. <q type="spoken">I might ask it,</q> said she, <q type="spoken"
-                        ><persName
-                                key="Doracles" ref="#" cert="high" type="fictional"
-                            >Doracles</persName>,
-                        in return;</q> and here she resumed something of her queen-like dignity; <q
-                            type="spoken">but I feel that my modesty will
+                        it upon her. <q type="spoken">I might ask it,</q> said she, <q type="spoken"><persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>,
+                        in return;</q> and here she resumed something of her queen-like dignity; <q type="spoken">but I feel that my modesty will
                             be sufficiently saved by the name of your wife: and a substantial
                             throne, with a return that shall nothing perplex or, interfere with
                             thee,
                             I do now accordingly</q></p>
-                    <pb n="111" />
+                    <pb n="111"/>
                     <p><q type="spoken">offer thee, not as the condition of thy freedom, but as a
                         diversion of men's eyes and thoughts from what they will think ill in
                             me, if they find me rejected.</q> And in getting out that hard word, her
@@ -712,14 +612,12 @@
                         entertainments, vied who should seem best to approve their mistress's
                         choice; for so they were quick to understand it. The late captive, who was
                         really as graceful and accomplished as a proud spirit would let him be,
-                        received and returned all their attention in princely sort; and <persName
-                            key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>
+                        received and returned all their attention in princely sort; and <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>
                         was beginning to hope that he might turn a glad eye upon her some day, when
                         news was brought her that he had gone from court, nobody knew whither. The
                         next intelligence was too certain. He had passed the frontiers, and was
                         leaguing with her enemies for another struggle.</p>
-                    <p>From that day, gladness, though not kindness, went out of the face of <persName
-                            key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>.
+                    <p>From that day, gladness, though not kindness, went out of the face of <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>.
                         She wrote him a letter, without a word of reproach in it, enough to bring
                         back the remotest heart that had the least spark of sympathy; but he only
                         answered it in a spirit, which shewed that he regarded • the deepest love
@@ -732,11 +630,7 @@
                         revocation of the bequest. Her women dressed her, while she was almost
                         unconscious of what they were doing, for she had now began to fade quickly,
                         body as well as mind. They put on her the white garments edged with silver
-                        waves, in remembrance of the stream of <persName key="Inachus" ref="#"
-                            cert="high"
-                            type="mythological">Inachus</persName>, the founder of the <placeName
-                            key="Argos" ref="#" cert="high"
-                            type="city">Argive</placeName> monarchy; the spear was brought out, to
+                        waves, in remembrance of the stream of <persName key="Inachus" ref="#" cert="high" type="mythological">Inachus</persName>, the founder of the <placeName key="Argos" ref="#" cert="high" type="city">Argive</placeName> monarchy; the spear was brought out, to
                         be stuck by the side of the throne, instead of the sceptre; and their hands
                         prepared to put the same laurel on her head, which bound it's healthy white
                         temples, when she sat on horse-back, and saw the prisoner go by. But at
@@ -757,58 +651,31 @@
                         Among the other nobles who feasted him, was one who, having been the
                         particular companion of the late king, had become like a second father to
                         his unhappy</p>
-                    <pb n="112" />
+                    <pb n="112"/>
                     <p>daughter. The new prince observing the melancholy which he scarcely affected
                         to repress, and seeing him look up occasionally at a picture which had a
                         veil over it, asked him what the picture was that seemed to disturb him so,
                         and why it was veiled. <q type="spoken">If it be the portrait of the late
-                        king,</q> said <persName key="Doracles" ref="#" cert="high" type="fictional"
-                        >
+                        king,</q> said <persName key="Doracles" ref="#" cert="high" type="fictional">
                         Doracles</persName> ,<q type="spoken"> pray think me worthy of doing honour
                         to it, for he was a noble prince. Unveil it, pray. I insist upon it. What?
-                        Am I not worthy to look upon my predecessors, <persName key="Phorbas"
-                                ref="#"
-                                cert="high"
-                                type="fictional"
-                            >Phorbas</persName>?</q> And at these words, he
-                        frowned impatiently. <persName key="Phorbas" ref="#" cert="high"
-                            type="fictional"
-                        >
+                        Am I not worthy to look upon my predecessors, <persName key="Phorbas" ref="#" cert="high" type="fictional">Phorbas</persName>?</q> And at these words, he
+                        frowned impatiently. <persName key="Phorbas" ref="#" cert="high" type="fictional">
                             Phorbas</persName>, with a trembling hand, but not for want of courage,
-                        withdrew the black covering; and the portrait of <persName key="Daphles"
-                            ref="#"
-                            cert="high" type="fictional">Daphles</persName>, in all her youth and
-                        beauty, flashed upon the eyes of <persName key="Doracles" ref="#"
-                            cert="high"
-                            type="fictional">Doracles</persName>. It was not a melancholy face. It
+                        withdrew the black covering; and the portrait of <persName key="Daphles" ref="#" cert="high" type="fictional">Daphles</persName>, in all her youth and
+                        beauty, flashed upon the eyes of <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>. It was not a melancholy face. It
                         was drawn before misfortune had touched it, and sparkled with a blooming
-                        beauty, in which animal spirits and good-nature contended for predominance. <persName
-                            key="Doracles" ref="#" cert="high" type="fictional"
-                        >Doracles</persName>
+                        beauty, in which animal spirits and good-nature contended for predominance. <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
                         paused, and seemed struck. <q type="spoken">The
-                            possessor of that face,</q> said he, inquiringly, <q type="spoken"
-                        >could
-                        never have been so sorrowful, as I have heard?</q>—<q
-                            type="spoken">Pardon me, Sir,</q> answered <persName key="Phorbas"
-                            ref="#"
-                            cert="high" type="fictional">Phorbas</persName>; <q type="spoken">I was
+                            possessor of that face,</q> said he, inquiringly, <q type="spoken">could
+                        never have been so sorrowful, as I have heard?</q>—<q type="spoken">Pardon me, Sir,</q> answered <persName key="Phorbas" ref="#" cert="high" type="fictional">Phorbas</persName>; <q type="spoken">I was
                         as another father to her, and knew all.</q><q type="spoken"> It cannot
-                            be,</q> returned the <persName key="Doracles" ref="#" cert="high"
-                            type="fictional">prince</persName>. The old man begged his other guests
-                        to withdraw a while, and then told <persName key="Doracles" ref="#"
-                            cert="high"
-                            type="fictional">Doracles</persName> how many fond and despairing things
-                        the queen had said of him, both before her wits began to fail, and after. <q
-                            type="spoken">Her wits to fail?</q> murmured the <persName
-                            key="Doracles" ref="#" cert="high" type="fictional">king</persName>: <q
-                            type="spoken">I have known what it is to feel almost a mad impatience of
+                            be,</q> returned the <persName key="Doracles" ref="#" cert="high" type="fictional">prince</persName>. The old man begged his other guests
+                        to withdraw a while, and then told <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName> how many fond and despairing things
+                        the queen had said of him, both before her wits began to fail, and after. <q type="spoken">Her wits to fail?</q> murmured the <persName key="Doracles" ref="#" cert="high" type="fictional">king</persName>: <q type="spoken">I have known what it is to feel almost a mad impatience of
                         the will; but I knew not that these — -- gentle creatures, women, could
-                            so feel for such a trifle.</q><persName key="Phorbas" ref="#"
-                            cert="high"
-                            type="fictional">Phorbas</persName> brought out the laurel-crown, and
-                        told him how it was that the half of it became bare. The impatient blood of <persName
-                            key="Doracles" ref="#" cert="high" type="fictional"
-                        >Doracles</persName>
+                            so feel for such a trifle.</q><persName key="Phorbas" ref="#" cert="high" type="fictional">Phorbas</persName> brought out the laurel-crown, and
+                        told him how it was that the half of it became bare. The impatient blood of <persName key="Doracles" ref="#" cert="high" type="fictional">Doracles</persName>
                         mounted, but not in anger, to his face; and breaking up the party, he
                         requested that the picture might be removed to his own chamber, promising to
                         return it.</p>
@@ -816,8 +683,7 @@
                         occupy his time, nor was disposed to enter into the common sports of peace,
                         it was understood that he spent the greatest part of his time, when he was
                         not in council, in the room where the picture hung. In truth, the image of
-                        the once smiling <persName key="Daphles" cert="high" type="fictional"
-                        >Daphles</persName>
+                        the once smiling <persName key="Daphles" cert="high" type="fictional">Daphles</persName>
                         haunted him wherever he went; and to ease himself of the yearning of wishing
                         her alive again and seeing her face, he was in the habit of being with it as
                         much as possible. His self-will turned upon him, even in that gentle shape.
@@ -832,15 +698,9 @@
                         looked so at being revenged.</p>
                 </div2>
                 <div2 type="colophon">
-                    <p>Orders received by the Newsmen, by the Booksellers, and by the <orgName
-                            type="publisher">Publisher</orgName>, <persName 
-                            key="Joseph Appleyard" type="real">JOSEPH APPLEYARD</persName>, No. 19, <placeName
-                            key="Catherine Street, Strand" corresp="United Kingdom"
-                            ref="https://en.wikipedia.org/wiki/Catherine_Street_(London)"
-                            cert="high" type="street">Catherine-street, Strand</placeName>.— Price
+                    <p>Orders received by the Newsmen, by the Booksellers, and by the <orgName type="publisher">Publisher</orgName>, <persName key="Joseph Appleyard" type="real">JOSEPH APPLEYARD</persName>, No. 19, <placeName key="Catherine Street, Strand" corresp="United Kingdom" ref="https://en.wikipedia.org/wiki/Catherine_Street_(London)" cert="high" type="street">Catherine-street, Strand</placeName>.— Price
                         2d. .Printed by <persName key="C. H. Reynell" type="real">C. H. Reynell</persName>,
-                        No. 45, <placeName key="Broad Street, Golden Square"
-                            corresp="United Kingdom" type="street">Broad-street, Golden-square</placeName>
+                        No. 45, <placeName key="Broad Street, Golden Square" corresp="United Kingdom" type="street">Broad-street, Golden-square</placeName>
                     </p>
                 </div2>
             </div1>
